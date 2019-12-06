@@ -8,10 +8,11 @@
             <titleStmt>
                 <title>Der Pfingstmontag</title>
                 <title>Lustpiel in Straßburger Mundart</title>
-                <author>Georg Daniel Arnold</author>
+                <author key="arnold">Georg Daniel Arnold</author>
+                <!--
                 <principal xml:id="heb">Helena Bermúdez</principal>
                 <principal xml:id="deb">Delphine Bernhard</principal>
-                <principal xml:id="dhu">Dominique Huck</principal>
+                <principal xml:id="dhu">Dominique Huck</principal>-->
             </titleStmt>
             <publicationStmt>
                 <publisher>LiLPa - Université de Strasbourg</publisher>
@@ -25,66 +26,58 @@
         <front>
             <castList>
                 <head>Personen</head>
-                <castItem>
-                    <role xml:id="starkhans">Herr Starkhans</role>, <roleDesc>Schiffsbauer und
-                        großer Rathsherr</roleDesc>
+                <castItem corresp="starkhans">
+                    <role>Herr Starkhans</role>, <roleDesc>Schiffsbauer und großer
+                        Rathsherr</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="dorthee">Frau Dorothee (Dorthee)</role>, <roleDesc>seine
-                        Gattin</roleDesc>
+                <castItem corresp="dorthee">
+                    <role>Frau Dorothee (Dorthee)</role>, <roleDesc>seine Gattin</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="lissel">Lieschen (Lissel)</role>, <roleDesc>ihre
-                        Tochter</roleDesc>
+                <castItem corresp="lissel">
+                    <role>Lieschen (Lissel)</role>, <roleDesc>ihre Tochter</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="mehlbrüej">Herr Mehlbrüh (Mehlbrüej)</role>,
-                        <roleDesc>Feuerspritzenmacher und kleiner Rathsherr</roleDesc>
+                <castItem corresp="mehlbrüej">
+                    <role>Herr Mehlbrüh (Mehlbrüej)</role>, <roleDesc>Feuerspritzenmacher und
+                        kleiner Rathsherr</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="rosine">Frau Rosine</role>, <roleDesc>seine Gattin</roleDesc>
+                <castItem corresp="rosine">
+                    <role>Frau Rosine</role>, <roleDesc>seine Gattin</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="wolfgang">Wolfgang, ihr Sohn</role>, <roleDesc>Magister der
-                        Philosophie und Abendprediger</roleDesc>
+                <castItem corresp="wolfgang">
+                    <role>Wolfgang, ihr Sohn</role>, <roleDesc>Magister der Philosophie und
+                        Abendprediger</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="christinle">Christinchen (Christinle)</role>, <roleDesc>Mündel
-                        (Vogtskind) Herrn Mehlbrühs</roleDesc>
+                <castItem corresp="christinle">
+                    <role>Christinchen (Christinle)</role>, <roleDesc>Mündel (Vogtskind) Herrn
+                        Mehlbrühs</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="lizentiat">Lizentiat Mehlbrüh</role>, <roleDesc>des vorigen
-                        Vetter</roleDesc>
+                <castItem corresp="lizentiat">
+                    <role>Lizentiat Mehlbrüh</role>, <roleDesc>des vorigen Vetter</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="reinhold">Reinhold</role>, <roleDesc>von Bremen, der Medizin
-                        beflissener</roleDesc>
+                <castItem corresp="reinhold">
+                    <role>Reinhold</role>, <roleDesc>von Bremen, der Medizin beflissener</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="prechtere">Frau Prechterin (Prechtere)</role>,
-                        <roleDesc>Witwe</roleDesc>
+                <castItem corresp="prechtere">
+                    <role>Frau Prechterin (Prechtere)</role>, <roleDesc>Witwe</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="klarel">Klärchen (Klärel)</role>, <roleDesc>ihre
-                        Tochter</roleDesc>
+                <castItem corresp="klarel">
+                    <role>Klärchen (Klärel)</role>, <roleDesc>ihre Tochter</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="gläsler">Gläsler</role>, <roleDesc>von Kaisersberg, Kaufmann in
-                        Colmar wohnhaft</roleDesc>
+                <castItem corresp="gläsler">
+                    <role>Gläsler</role>, <roleDesc>von Kaisersberg, Kaufmann in Colmar
+                        wohnhaft</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="pfarrer">Pfarrer Christlieb</role>, <roleDesc>aus dem
-                        Ortenauischen</roleDesc>
+                <castItem corresp="pfarrer">
+                    <role>Pfarrer Christlieb</role>, <roleDesc>aus dem Ortenauischen</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="berwel">Barbara (Berwel)</role>, <roleDesc>Nachbarin</roleDesc>
+                <castItem corresp="berwel">
+                    <role>Barbara (Berwel)</role>, <roleDesc>Nachbarin</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="bryd">Brigitte (Bryd)</role>, <roleDesc>Magd</roleDesc>
+                <castItem corresp="bryd">
+                    <role>Brigitte (Bryd)</role>, <roleDesc>Magd</roleDesc>
                 </castItem>
-                <castItem>
-                    <role xml:id="claus">Claus</role>, <roleDesc>Bauer aus dem
-                        Kochersberg</roleDesc>
+                <castItem corresp="claus">
+                    <role>Claus</role>, <roleDesc>Bauer aus dem Kochersberg</roleDesc>
                 </castItem>
             </castList>
 
@@ -6601,7 +6594,7 @@
                     <stage>Geht ab.</stage>
 
                 </div>
-                <div>
+                <div type="scene">
                     <head>Achter Autritt</head>
 
 
