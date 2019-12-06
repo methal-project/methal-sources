@@ -125,18 +125,18 @@
                         <l>Ze wisse si sich nie ier Lewesdaa ze rüere,</l>
                         <l>Do were Schlabbe drus, Schlofkabbe, fuli Bamble.</l>
                         <l>Zue myner Mueder Zyt henn mier müen anderst stramble!</l>
-                        <l>Poz dausig un ken End …</l>
+                        <l part="I">Poz dausig un ken End …</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>I bin schunn lang gerüst</l>
-                        <l>Myn liewi Mamme! ’S isch halt nur, i saa ’s …</l>
+                        <l part="F">I bin schunn lang gerüst</l>
+                        <l part="I">Myn liewi Mamme! ’S isch halt nur, i saa ’s …</l>
 
                     </sp>
                     <sp who="#starkhans">
                         <speaker>Hr. Starkhans</speaker>
-                        <l>Es wischt</l>
+                        <l part="F">Es wischt</l>
                         <l>Sich wayer d’Aue-n-aa. Was hesch de denn ze gryne</l>
                         <l>Myn liebs Kanästjele? Loß dyni Gukkle schyne</l>
                         <l>Recht hell un frisch wie d’ Sunn, wisch dyni Bäkkle-n-aa,</l>
@@ -155,19 +155,19 @@
                         <l>Un Sie, wurr Si nit bees, myn Mamme; n-ali zway</l>
                         <l>Do newes gehn jo mit, ’s Suffeyel un syn Mueder,</l>
                         <l>Un wenn Si will, ze bhalt I myne klaine Brueder,</l>
-                        <l>un gib recht uf ne-n-acht.</l>
+                        <l part="I">un gib recht uf ne-n-acht.</l>
 
                     </sp>
                     <sp who="#dorthee">
                         <speaker>Fr. Dorthee</speaker>
-                        <l>Was diß for Ynfäll sinn!</l>
+                        <l part="F">Was diß for Ynfäll sinn!</l>
                         <l>Kuum het sich ’s recht druf gfrait, het ’s schunn e-n-andre Sinn.</l>
-                        <l>Ze mach denn wie de witt … Kumm Babbe!</l>
+                        <l part="I">Ze mach denn wie de witt … Kumm Babbe!</l>
 
                     </sp>
                     <sp who="#starkhans">
                         <speaker>Hr. Starkhans</speaker>
-                        <l>Wart e bissel!</l>
+                        <l part="F">Wart e bissel!</l>
                         <l>I will e Schmizzel z’erst von unserm Munggedrissel.</l>
                         <l>Kumm Lissel, gimmer ain’s. Hyt bin i gerasiert. </l>
                         <stage>Sie küßt ihn.</stage>
@@ -203,34 +203,34 @@
                         <l>Aß in Sangdiedel do, dem klaine welsche Nest,</l>
                         <l>Wo merr Johr us, Johr yn sich mit Grumbeere mest,</l>
                         <l>Ze kinnt i doch jez au mit dytsche Herre redde.</l>
-                        <l>I will mer awwer schunn recht Müej genn …</l>
+                        <l part="I">I will mer awwer schunn recht Müej genn …</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
                         <stage>eintretend</stage>
-                        <l>I will wedde</l>
+                        <l part="F">I will wedde</l>
                         <l>Daß er di angfüert het. I haa recht ufgebaßt</l>
                         <l>Un haa-ne-erst nit gsehn. Ze mach di halt druf gfaßt.</l>
                         <l>Die Mannslyt sinn eso, si redde nix als Laoue,</l>
                         <l>Der Best isch donnix nuz, der Deichert maan ne traoue.</l>
-                        <l>Schwei still, was heer i drus!</l>
+                        <l part="I">Schwei still, was heer i drus!</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>Herr Jeses wenn er ’s wär!</l>
+                        <l part="F">Herr Jeses wenn er ’s wär!</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Jo wayer ’s isch er selbst.</l>
+                        <l part="I">Jo wayer ’s isch er selbst.</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>Jez wurd mer ’s Herz schunn schwer</l>
-                        <l>For ludder Angst un Freud.</l>
+                        <l part="F">Jez wurd mer ’s Herz schunn schwer</l>
+                        <l part="I">For ludder Angst un Freud.</l>
 
 
                     </sp>
@@ -240,37 +240,37 @@
                     <stage type="characters">Die Vorigen. Reinhold.</stage>
                     <sp who="#reinhold">
                         <speaker>Reinhold</speaker>
-                        <l>Ihr unterhän’ger Diener.</l>
-                        <l>Sind die Jungfrau’n wohl auf? </l>
+                        <l part="F">Ihr unterhän’ger Diener.</l>
+                        <l>Sind die Jungfrau’n wohl auf?  
                         <stage>Küßt beiden die Hand.</stage>
-                        <l>Ich werde täglich kühner ;</l>
+                       Ich werde täglich kühner ;</l>
                         <l>Man ist bei so viel Glück, sein selbst sich kaum bewußt,</l>
                         <l>der Liebe Seligkeit erfüllt mir ganz die Brust.</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>O! gehn Si.</l>
+                        <l part="I">O! gehn Si.</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Ach Herr Jeh!</l>
+                        <l part="M">Ach Herr Jeh!</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>Ha na!</l>
+                        <l part="M">Ha na!</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Ha jo!</l>
+                        <l part="M">Ha jo!</l>
 
                     </sp>
                     <sp who="#reinhold">
                         <speaker>Reinhold</speaker>
-                        <l>Befehlen</l>
+                        <l part="F">Befehlen</l>
                         <l>Vielleicht die Jungfrau’n was? Ihr Diener wird nicht fehlen</l>
                         <l>Mit Windes Schnelligkeit zu folgen Ihrem Wort;</l>
                         <l>Nur schicken Sie mich nicht für allzulange fort.</l>
@@ -279,32 +279,32 @@
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
                         <stage>bei Seite zu Christinel</stage>
-                        <l>Red du …</l>
+                        <l part="I">Red du …</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christine</speaker>
-                        <l>Saa du em ebs.</l>
+                        <l part="M">Saa du em ebs.</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>Es fallt mer jez nix yn.</l>
+                        <l part="F">Es fallt mer jez nix yn.</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Was het er ewwe gsait ?</l>
+                        <l part="I">Was het er ewwe gsait ?</l>
 
                     </sp>
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
-                        <l>Ich waiß jo nit.</l>
+                        <l part="M">Ich waiß jo nit.</l>
 
                     </sp>
                     <sp who="#reinhold">
                         <speaker>Reinhold</speaker>
-                        <l>Verzieh’n</l>
+                        <l part="F">Verzieh’n</l>
                         <l>Sie nicht zu lang mein Glück. Zwar schien mir Ihr Geflüster</l>
                         <l>So ächt poetisch leis, wie wenn im Haine düster</l>
                         <l>Durch leichtbeweglich Schilf die Geister schweigend gehen,</l>
@@ -314,17 +314,17 @@
                     <sp who="#lissel">
                         <speaker>Lissel</speaker>
                         <stage>bei Seite</stage>
-                        <l>Verstehst ne?</l>
+                        <l part="I">Verstehst ne?</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Ich? – Ken Wort …</l>
+                        <l part="M">Ich? – Ken Wort …</l>
 
                     </sp>
                     <sp who="#christinle">
                         <speaker>Christinel</speaker>
-                        <l>Was isch diß: Hahnedistel?</l>
+                        <l part="F">Was isch diß: Hahnedistel?</l>
 
                     </sp>
                     <sp who="#christinle">
