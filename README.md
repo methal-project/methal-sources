@@ -1,4 +1,4 @@
-# MeThAL : Vers une macroanalyse du théâtre en alsatien
+# MeThAL : Vers une macroanalyse du théâtre en alsacien
 
 - Projet de lecture distante du théâtre dialectal en alsatien et sociolinguistique historique
 - Travaux effectués au Laboratoire [LiLPa](http://lilpa.unistra.fr/)
