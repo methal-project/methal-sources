@@ -1,6 +1,6 @@
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 
-- Projet de lecture distante du théâtre dialectal en alsatien et sociolinguistique historique
+- Projet de lecture distante du théâtre dialectal en alsacien et sociolinguistique historique
 - Travaux effectués au Laboratoire [LiLPa](http://lilpa.unistra.fr/)
 - Ce dépôt contient les sources (pièces de théâtre) encodées en TEI
 
