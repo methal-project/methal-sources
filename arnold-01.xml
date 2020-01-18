@@ -4,8 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der Pfingstmontag</title>
-                <title>Lustpiel in Straßburger Mundart</title>
+                <title type="main">Der Pfingstmontag</title>
+                <title type="sub">Lustpiel in Straßburger Mundart</title>
                 <author key="pnd:118927698">Arnold, Johann Georg Daniel</author>
             </titleStmt>
             <publicationStmt>
