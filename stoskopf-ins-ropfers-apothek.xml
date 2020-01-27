@@ -364,8 +364,8 @@
           <speaker>Schampetiss</speaker>
            <stage>(Typus des alten französischen Soldaten, durch die Mitte
         herein):</stage> 
-          <p>Löuj do, der alt täub Hafe-n-isch äu wieder hiesig. -— Salut, alti Pflüm! (Gibt
-        Anatol die Hand.)</p>
+          <p>Löuj do, der alt täub Hafe-n-isch äu wieder hiesig. -— Salut, alti Pflüm! <stage>(Gibt
+        Anatol die Hand.)</stage></p>
         </sp>
         <sp who="#anatol">
           <speaker>Anatol:</speaker>
@@ -1507,8 +1507,8 @@
         <pb n="27"/>
         <sp who="#jules">
           <speaker>Jules:</speaker>
-          <p>„Soit!“ Also, wie g’saat, Herr Ropfer, miner Frind un ich (stösst
-        hastig in den Mörser) han alli zwei e grosse „faible“ for Ihri Tochter.</p>
+          <p>„Soit!“ Also, wie g’saat, Herr Ropfer, miner Frind un ich <stage>(stösst
+        hastig in den Mörser)</stage> han alli zwei e grosse „faible“ for Ihri Tochter.</p>
         </sp>
         <sp who="#ropfer">
           <speaker>Ropfer:</speaker>
@@ -3289,7 +3289,7 @@
         </sp>
         <sp who="#ropfer">
           <speaker>Ropfer:</speaker>
-          <p>Abg’streift, jetzt schnell erüs mit ere. <stage>(Scliesst die Türe
+          <p>Abg’streift, jetzt schnell erüs mit ere. <stage>(Schliesst die Türe
         hinten links auf, schlüpft schnell hinein und streckt sofort den Kopf wieder heraus. Jules
         streckt in demselben Augenblick den Kopf aus der Telephonkabine.)</stage></p>
         </sp>
@@ -5034,7 +5034,7 @@
         </sp>
         <sp who="#ropfer">
           <speaker>Ropfer</speaker>
-           <stage><stage>(weinerlich)</stage>:</stage> 
+           <stage>(weinerlich):</stage> 
           <p>Jo, was m’r unter de jetzige-n-Umstände ellein
         heisse kann. <stage>(Deutet mit dem Daumen auf die Zimmer links und rechts.)</stage></p>
         </sp>
@@ -5262,9 +5262,9 @@
         </sp>
         <sp who="#emilie">
           <speaker>Madame Ropfer:</speaker>
-          <p>„Non, après vous. vous. Ropfer durch die Mitte ab. Madame
+          <p>„Non, après vous. vous. <stage>(Ropfer durch die Mitte ab. Madame
         Schmidt und Susanne nach. Beide Schränke öffnen sich. Ropfer und Jules müssen zuerst stark
-        niesen, dann schauen sie sich ganz verdutzt an.)</p>
+        niesen, dann schauen sie sich ganz verdutzt an.)</stage></p>
         </sp>
         <sp who="#jules">
           <speaker>Jules:</speaker>
@@ -5749,8 +5749,8 @@
         <sp who="#emilie">
           <speaker>Madame Ropfer</speaker>
            <stage>(auf Ropfer deutend):</stage> 
-          <p>Diss do‚ diss isch miner Mann. (Auf
-        Jules deutend) Un diss do, diss isch d’r Hochzitter vun minere Dochter!</p>
+          <p>Diss do‚ diss isch miner Mann. <stage>(Auf
+        Jules deutend)</stage> Un diss do, diss isch d’r Hochzitter vun minere Dochter!</p>
         </sp>
         <pb n="90"/>
         <sp who="#schmidt #susanne">
