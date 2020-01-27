@@ -16,6 +16,7 @@
             <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
           </licence>
         </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q83786534</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -958,7 +959,7 @@
           <p>B’sunders an eini denk ich noch allewyl zeruck, ’s isch e
         „payse“ gewahn, üs Schlettstatt drowe. — ’s isch einthuen, ich hätt sie nit sitze solle
         lon, un gar ... „enfin“, redde m’r nit d’rvun. D’r Napoleon III hett m’r meh wie emol
-        g’saat: „Schampetiss, dit hättsch s’ Schosephin hierothe selle.“</p>
+        g’saat: „Schampetiss, dü hättsch s’ Schosephin hierothe selle.“</p>
         </sp>
         <sp who="#ropfer">
           <speaker>Ropfer</speaker>
@@ -1475,7 +1476,7 @@
           <speaker>Jules und Albert</speaker>
            <stage>(zu gleicher Zeit):</stage> 
           <p>„Enfin“ die Sach isch die, ich hab e
-        grossi „affection“, e grossi Lieb: ....</p>
+        grossi „affection“, e grossi Lieb ...</p>
         </sp>
         <sp who="#ropfer">
           <speaker>Ropfer:</speaker>
@@ -6246,8 +6247,7 @@
         </sp>
         <sp who="#schmidt">
           <speaker>Madame Schmidt:</speaker>
-          <p>Ja, versueche m’r ’s. Gehn m’r g’schwind „Eau de
-        Cologne" hole. <stage>(Beide ab nach rechts.)</stage></p>
+          <p>Ja, versueche m’r ’s. Gehn m’r g’schwind „Eau de Cologne“ hole. <stage>(Beide ab nach rechts.)</stage></p>
         </sp>
         <sp who="#general">
           <speaker>Schampetiss</speaker>
