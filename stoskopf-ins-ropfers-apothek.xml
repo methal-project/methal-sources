@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -7,6 +6,18 @@
         <title type="main">In’s Ropfer’s Apothek</title>
         <title type="sub">Schwank in 3 Aufzügen von G. Stoskopf</title>
         <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+        <respStmt>
+          <name>Soihira El-Kabir</name>
+          <resp>OCR correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Delphine Bernhard</name>
+          <resp>OCR correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pablo Ruiz Fabo</name>
+          <resp>TEI encoding</resp>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>LiLPa - Université de Strasbourg</publisher>
