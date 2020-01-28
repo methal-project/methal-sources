@@ -1,0 +1,37 @@
+# p. 26
+<speaker>Jules Albert}</speaker>	<speaker>Jules und Albert</speaker>
+# p. 57
+<speaker>Ropfer Jules</speaker>	<speaker>Ropfer und Jules</speaker>
+# p. 60
+<speaker>Ropfer, Jules Susanne:</speaker>	<speaker>Ropfer, Jules und Susanne:</speaker>
+<speaker>Ropfer Jules</speaker>	<speaker>Ropfer und Jules</speaker>
+# p. 61
+<speaker>Madame Schmidt Susanne:</speaker>	<speaker>Madame Schmidt und Susanne:</speaker>
+# p. 74 (error in source)
+<speaker>Jules; d’</speaker>(\s*<p>)	<speaker>Jules</speaker>\1d’
+# p. 80
+<speaker>Madame Ropfer Madame Schmidt</speaker>\s+<p><stage>\(von links\)</stage>, <stage>\(von rechts\):</stage>	<speaker>Madame Ropfer<speaker><stage>von links</stage><speaker>Madame Schmidt</speaker><stage>von rechts</stage>
+# p. 81
+<speaker>Ropfer Jules:</speaker>	<speaker>Ropfer und Jules:</speaker>
+# p. 89
+<speaker>Madame Ropfer, Madame Schmidt Susanne:</speaker>	<speaker>Madame Ropfer, Madame Schmidt und Susanne:</speaker>
+# p. 90
+<speaker>Madame Schmidt Susanne:</speaker>	<speaker>Madame Schmidt und Susanne:</speaker>
+<speaker>Madame Ropfer, Madame Schmidt Susanne:</speaker>	<speaker>Madame Ropfer, Madame Schmidt und Susanne:</speaker>
+# p. 91
+<speaker>Madame Schmidt, Madame Ropfer Susanne</speaker>	<speaker>Madame Schmidt, Madame Ropfer und Susanne</speaker>
+<speaker>Madame Ropfer, Madame Schmidt Susanne</speaker>	<speaker>Madame Ropfer, Madame Schmidt und Susanne</speaker>
+# p. 93
+<speaker>Marie: _</speaker>	<speaker>Marie:</speaker>
+# p. 97
+<speaker>Madame Ropfer, Jeanne Albert:</speaker>	<speaker>Madame Ropfer, Jeanne und Albert:</speaker>
+# p. 98
+<speaker>Madame Schmidt, Madame Ropfer Susanne:</speaker>	<speaker>Madame Schmidt, Madame Ropfer und Susanne:</speaker>
+<speaker>Madame Ropfer, Madame Schmidt, Susanne,</speaker>\s+<speaker>Albert Jeanne:</speaker>	<speaker>Madame Ropfer, Madame Schmidt, Susanne, Albert und Jeanne:</speaker>
+# autres
+<speaker>Madame Rrpfer:</speaker>	<speaker>Madame Ropfer:</speaker>
+<speaker>Madame Schmidt Madame Ropfer</speaker>	<speaker>Madame Schmidt und Madame Ropfer</speaker>
+<speaker>Ropfer Jules;</speaker>	<speaker>Ropfer und Jules</speaker>
+<speaker>Ropfter:</speaker>	<speaker>Ropfer:</speaker>
+Madame</speaker>(\s*)<p>(\s*)Ropfer:	Madame Ropfer:</speaker>\1<p>
+<speaker>Madame Ropfer Madame Schmidt</speaker>	<speaker>Madame Ropfer und Madame Schmidt</speaker>

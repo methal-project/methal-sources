@@ -1,0 +1,45 @@
+        <fileDesc>
+            <titleStmt>
+                <title type="main">In’s Ropfer’s Apothek</title>
+                <title type="sub">Schwank in 3 Aufzügen von G. Stoskopf</title>
+                <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+                <respStmt>
+                    <name>Soihira El-Kabir</name>
+                    <resp>OCR correction</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Delphine Bernhard</name>
+                    <resp>OCR correction</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Pablo Ruiz Fabo</name>
+                    <resp>TEI encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>LiLPa - Université de Strasbourg</publisher>
+                <availability>
+                    <licence>
+                        <ab>CC BY 2.0</ab>
+                        <ref target="https://creativecommons.org/licenses/by/2.0/"
+                            >Licence</ref>
+                    </licence>
+                </availability>
+                <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q83786534</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <name>Numistral</name>
+                    <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9400890z.r=volksbuecher?rk=21459;2</idno>
+                    <bibl type="originalSource">
+                        <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+                        <title type="main">In’s Ropfer’s Apothek</title>
+                        <title type="sub">Schwank in 3 Aufzügen von G. Stoskopf</title>
+                        <publisher>Druck und Verlag der Neuen Straßburger Verlagsanstalt G. m. b. H. (Straßburger Neue Zeitung)</publisher>
+                        <date type="print" when="1907">1907</date>
+                        <date type="premiere" when="1907">1907</date>
+                        <date type="written"/>                        
+                    </bibl>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>

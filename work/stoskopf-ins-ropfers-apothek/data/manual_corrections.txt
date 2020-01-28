@@ -1,0 +1,137 @@
+# "manual" changes (do them before others)
+{	(
+}	)
+gelade-nun	gelade-n-un
+umg’falle-nisch	umg’falle-n-isch
+icih muess	ich muess
+d’geringschte-n-,Uessichte	d’geringschte-n-Uessichte
+kranke-n,Ochs	kranke-n Ochs
+Baden=Baden	Baden-Baden
+{beim	(beim
+Eeau	Eau
+lch\s*sieh	Ich sieh
+lrrthum	Irrthum
+lhri	Ihri
+üsg sehn hett	üsg’sehn hett
+blen	bien
+ertolgt	erfolgt
+Taltik	Taktik
+Sie ) exküsiere!	Sie exküsiere!
+‚‚même“	„même“
+Iachend	lachend
+</stage> , 	</stage>,
+<stage><stage>(weinerlich)</stage>  :</stage>	<stage>(weinerlich)</stage>:
+</stage> ,	</stage>,
+„Oh“ oui, maman, ce sera charmant!”	„Oh oui, maman, ce sera charmant!“
+„Oh. oui, maman, ce sera charmant!”	„Oh oui, maman, ce sera charmant!“
+Wir wollen .den Koffer zum Sattler tragen	Wir wollen den Koffer zum Sattler tragen
+das wil! ich	das will ich
+nix d’rfor. iss	nix d’rfor. Diss
+ so passel	 so passe!
+ après vous. vous. 	après vous. 
+g’hett. Wohlbekumm’s	g’hett, Wohlbekumm’s
+
+# final read
+. wie arig pressiert het	, wie arig pressiert het
+for m e Zuestand	for’m e Zuestand
+hett m r grad	hett m’r grad
+m’rgrad	m’r grad
+fallt r druff erin	fallt’r druff erin
+üsgsehn	üsg’sehn
+ nix g ’saat	 nix g’saat
+ m r 	 m’r 
+Mr han 	M’r han 
+ scnun 	 schun 
+ bie .Ejch bliewe	bie Ejch bliewe
+ -<pb n="10"/>	 —<pb n="10"/>
+ par trop tort	 par trop fort
+ ganz Jobr 	 ganz Johr 
+lhr	Ihr
+Ja,verliebt 	Ja, verliebt 
+ ;	;
+bie’ m	bie’m
+ reise inuehn,	 reise muehn,
+ wenn s 	 wenn’s 
+ wie s 	 wie ’s 
+ s isch 	 ’s isch 
+ g’süimt,	 g’sümt,
+„Schampetiss, dit hättsch s’ Schosephin hierothe selle.“	„Schampetiss, dü hättsch s’ Schosephin hierothe selle.“
+## 2. Aufzug
+ Ze spoot kumme meh 	 ze spoot kumme, meh 
+Jesses, der lebt. au noch!	Jesses, der lebt au noch!
+nit pitter!	nit bitter!
+Hett-’r gsaat 	Hett’r gsaat
+ aui und ab.)	 auf und ab.)
+Hierzesluscht 	Herzesluscht 
+ Kenn Zwiefel: es isch’s, es	Kenn Zwiefel es isch’s, es
+su ... su ... Susanne	Su ... Su ... Susanne
+ e-nartiger Mann 	e-n-artiger Mann
+ F schöeni Inladung!	 E schöeni Inladung!
+ lhne 	 Ihne 
+selzt sich	setzt sich
+ schlaa ich Fjch vor,	 schlaa ich Ejch vor,
+ O, diss wurd schöen wärel!	 O, diss wurd schöen wärel!
+(aufgerest):	(aufgeregt):
+Jetzt muess d’r Kladderadatsch kummel!	Jetzt muess d’r Kladderadatsch kumme!
+Drängt .Jules in die Arme von	Drängt Jules in die Arme von
+selbstver=ständlich	selbstverständlich
+géné=ral	général
+## 3. Aufzug
+Fin Fuerschtenzimmer	Ein Fuerschtenzimmer
+e schoene Stand .	e schoene Stand ...
+,toilette“	„toilette“
+wie e-n-Fichel	wie e-n-Eichel
+be=kumme	bekumme
+Com=mis	Commis
+lch kann nit denke,	Ich kann nit denke,
+ Autregung	 Aufregung
+.Er klopft an die <pb n="73"/>[\n ]*Türe..	<stage>(Er klopft an die <pb n="73"/> Türe.)</stage>
+Scliesst	Schliesst
+
+## editorial changes
+„remplacant vum Dokter	„remplacant vum Dokter“
+„clientèle\n	„clientèle“\n
+„général ...	„général“ ...
+Karten,au	Karten, au
+„Merci pour le renseignement.	„Merci pour le renseignement“.
+Hand-<pb n="36"/>[\n ]*werikslytt	Hand<pb n="36"/>werikslytt
+Pan-<pb n="86"/>toffle	Pan<pb n="86"/>toffle
+‚,Mon Dieu!“	„Mon Dieu!“
+## line was printed upside down
+Wenn d’ Susanne minere-n-Adress mit hett’ bekumme Kart mini 	Wenn d’ Susanne mini Kart bekumme hett’ mit minere-n-Adress 
+„Eetu de Cologne"	„Eau de Cologne“
+„Eeau de Cologne"	„Eau de Cologne“
+„Eau de[\n ]+Cologne"	„Eau de Cologne“
+. d’Köffer solle-n-an de Isebahn	, d’Köffer solle-n-an de Isebahn
+
+## quotation changes
+„ Tiens, tiens"	„Tiens, tiens“
+,Pardon“	„Pardon“
+‘“	“
+, , 	, 
+‘”	”
+”	“
+!"	!“
+>„ 	>„
+
+
+# punctuation changes
+: ….	...
+…	...
+
+## correct hyphenation pbs
+Obm’r	Ob m’r
+tirebouchon	tire-bouchon
+kumme-nals	kumme-n-als
+Mensche-nebs	Mensche-n-ebs
+d’Maulund	d’Maul-und
+stecke-nr’s	stecke-n-rs’s
+rezde-chaussée	rez-de-chaussée
+nummen-eins	numme-n-eins
+allegelte-nexplodiere	allegelte-n-explodiere
+ze-nich	ze-n-ich
+Mensche-nebs	Mensche-n-ebs
+d’Maulund Klauenseuche	d’Maul- und Klauenseuche
+
+# stage direction problems not like the general case
+in grosser Aufregung durch die Mitte):	<stage>(in grosser Aufregung durch die Mitte):</stage>
