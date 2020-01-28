@@ -10,4 +10,4 @@
 - Distant reading and historical sociolinguistics project, based on plays written in the Alsatian dialect
 - Work carried out at the [LiLPa](http://lilpa.unistra.fr/) lab
 - This repository contains plays encoded in TEI by the project
-- Le dossier *work* documente la procédure d'encodage pour les pièces
+- The *work* directory documents the encoding procedure for the plays
