@@ -127,6 +127,8 @@
             <relation name="related_with" mutual="#fritz_grinsinger #hans_grinsinger"/>
             <relation name="related_with" active="#fritz_grinsinger" passive="#durand"/>
             <relation name="parent_of" active="#gauthier" passive="#olga"/>
+            <relation name="siblings" mutual="#jeannette #lisa #auguste"/>
+            <relation name="friends" mutual="#auguste #ehrstein"/>
           </listRelation>
         </listPerson>
       </particDesc>
