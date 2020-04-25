@@ -1,0 +1,47 @@
+(zu Fritz <emph rend="italic">Grinsinger) Tu per- mets papa,</emph>	<stage>(zu Fritz <emph rend="italic">Grinsinger)</emph></stage> <emph rend="italic">Tu per- mets papa,</emph>
+(zu <emph rend="italic">Lisa):</emph>	<stage>(zu <emph rend="italic">Lisa):</emph></stage>
+(Küsst <emph rend="italic">Jeannette) Jeannette!</emph>	<stage>(Küsst <emph rend="italic">Jeannette)</emph></stage> <emph rend="italic">Jeannette!</emph>
+(küsst <emph rend="italic">Jeannette).</emph>	<stage>(küsst <emph rend="italic">Jeannette).</emph></stage>
+<speaker>Fritz Grinsinger (von links die Scene mit ansehend:</speaker>	<speaker>Fritz Grinsinger </speaker><stage>(von links die Scene mit ansehend:</stage>
+<speaker>Ehrstein <stage>(auffahrend, mit Hast den Kopf <emph rend="italic">Jeannettes</emph> messend)</stage>:</speaker>	<speaker>Ehrstein </speaker><stage>(auffahrend, mit Hast den Kopf <emph rend="italic">Jeannettes</emph> messend):</stage>
+<emph rend="italic">Au revoir! (Georges</emph> ab.)	<emph rend="italic">Au revoir!</emph> <stage>(<emph rend="italic">Georges</emph> ab.)</stage>
+(steckt die Zeitung in die Tasche und zieht aus der andern Tasche die <emph rend="italic">„Presse“)</emph>	<stage>(steckt die Zeitung in die Tasche und zieht aus der andern Tasche die <emph rend="italic">„Presse“)</emph></stage>
+(liest weiter in der <emph rend="italic">Presse.)</emph>	<stage>(liest weiter in der <emph rend="italic">Presse.)</emph></stage>
+<speaker>Dr. Kneppchen (zu <emph rend="italic">Grinsinger</emph> Sie sind wohl ver- wundert mich noch hier zu treffen?</speaker>	<speaker>Dr. Kneppchen</speaker> <stage>(zu <emph rend="italic">Grinsinger</emph></stage><p> Sie sind wohl ver- wundert mich noch hier zu treffen?
+<emph rend="italic">(Jeannette</emph> und <emph rend="italic">Lisa</emph> kommen von links, <emph rend="italic">Au- guste</emph> von rechts.)	<stage><emph rend="italic">(Jeannette</emph> und <emph rend="italic">Lisa</emph> kommen von links, <emph rend="italic">Au- guste</emph> von rechts.)</stage>
+<speaker>de Rose (hastig von rechts, ihm nach <emph rend="italic">madame Grin- singer): </emph></speaker>	<speaker>de Rose </speaker><stage>(hastig von rechts, ihm nach <emph rend="italic">madame Grin- singer): </emph></stage>
+Ich geh los! <emph rend="italic">(de Rose</emph> hält sich	Ich geh los! <stage><emph rend="italic">(de Rose</emph> hält sich
+tritt Gauthier vor und flüstert Hans Grinsinger etwas in’s Ohr.)	tritt Gauthier vor und flüstert Hans Grinsinger etwas in’s Ohr.)</stage>
+<speaker>de Rose (zu Fritz <emph rend="italic">Grinsinger): </emph></speaker>	<speaker>de Rose</speaker> <stage>(zu Fritz <emph rend="italic">Grinsinger): </emph></stage>
+<emph rend="italic">(de Rose</emph> verbeugt sich; zu <emph rend="italic">de Rose)	<stage><emph rend="italic">(de Rose</emph> verbeugt sich; zu <emph rend="italic">de Rose)</stage>
+ich spreche perfekt franszösch. (mit auffallend	ich spreche perfekt franszösch. <stage>(mit auffallend
+starkem Accent): <emph rend="italic">Moi je parler	starkem Accent):</stage> <emph rend="italic">Moi je parler
+(zu <emph rend="italic">de Rose): Il n'y a plus un seul qui sache convenablement le français, plus un seul.</emph>	<stage>(zu <emph rend="italic">de Rose)</emph>:</stage> Il n'y a plus un seul qui sache convenablement le français, plus un seul.
+<speaker>Hans Grinsinger (zu Fritz <emph rend="italic">Grinsinger)</emph> Was hat ’r eben gesagt?</speaker>	<speaker>Hans Grinsinger </speaker> <stage>(zu Fritz <emph rend="italic">Grinsinger)</emph></stage> <p>Was hat ’r eben gesagt?</p>
+<speaker>Hans Grinsinger (zu <emph rend="italic">de Rose): </emph></speaker>	<speaker>Hans Grinsinger</speaker> <stage>(zu <emph rend="italic">de Rose): </emph></stage>
+<speaker>Hans Grinsinger (Nachdem die Menge sich mit den Tellern in den Garten verzogen hat, mit einem Teller in der Hand zu Fritz <emph rend="italic">Grinsinger):</emph> Melde mich ge- horsamst zur Stelle! Gelände vom Feind gesäubert! Alles mit Stumpf und Stiel verschwunden. Bist de zufrieden?!</speaker>	<speaker>Hans Grinsinger</speaker> <stage>(Nachdem die Menge sich mit den Tellern in den Garten verzogen hat, mit einem Teller in der Hand zu Fritz <emph rend="italic">Grinsinger):</emph></stage> <p>Melde mich ge- horsamst zur Stelle! Gelände vom Feind gesäubert! Alles mit Stumpf und Stiel verschwunden. Bist de zufrieden?!</p>
+(zu <emph rend="italic">de Rose)	<stage>(zu <emph rend="italic">de Rose</emph>)<stage><emph rend="italic">
+(Lebhafter Widerspruch bei der <emph rend="italic">Fanfare).</emph>	<stage>(Lebhafter Widerspruch bei der <emph rend="italic">Fanfare).</emph></stage>
+<speaker>Rièmer (zu <emph rend="italic">Madame Grinsinger):</emph> Was mache denn die Schwowe do? <emph rend="italic">(Madame Grinsinger</emph> antwortet nicht).</speaker>	<speaker>Rièmer</speaker> <stage>(zu <emph rend="italic">Madame Grinsinger):</emph></stage> <p>Was mache denn die Schwowe do? <stage><emph rend="italic">(Madame Grinsinger</emph> antwortet nicht).</stage></p>
+(zu Fritz <emph rend="italic">Grinsinger)</emph>	<stage>(zu Fritz <emph rend="italic">Grinsinger)</emph></stage>
+<speaker>Rièmer <stage>(zu Fritz <emph rend="italic">Grinsinger,</emph> der ganz vernichtet da- steht)</stage>:</speaker>	<speaker>Rièmer</speaker> <stage>(zu Fritz <emph rend="italic">Grinsinger,</emph> der ganz vernichtet da- steht):</stage>
+(grosse Entrüstung unter den Mitgliedern der <emph rend="italic">Fanfare.)</emph>	<stage>(grosse Entrüstung unter den Mitgliedern der <emph rend="italic">Fanfare.)</emph></stage>
+(Beifall bei den Mitgliedern der <emph rend="italic">Fanfare)</emph>	<stage>(Beifall bei den Mitgliedern der <emph rend="italic">Fanfare)</emph></stage>
+<speaker>Rièmer (zu <emph rend="italic">Auguste):</emph> Um so besser, wenn Sie’s ghöert han, no brüch ich’s 'ne nimmi ze saaue.</speaker>	<speaker>Rièmer</speaker> <stage>(zu <emph rend="italic">Auguste):</emph></stage> <p>Um so besser, wenn Sie’s ghöert han, no brüch ich’s 'ne nimmi ze saaue.</p>
+<speaker>de Rose <stage>(der von einem Mitglied der <emph rend="italic">Fanfare</emph> instruiert worden ist)</stage>:</speaker>	<speaker>de Rose</speaker> <stage>(der von einem Mitglied der <emph rend="italic">Fanfare</emph> instruiert worden ist):</stage>
+<emph rend="italic">(Rièmer</emph> und Gauthier machen eine abwehrende Bewegung)	<stage><emph rend="italic">(Rièmer</emph> und Gauthier machen eine abwehrende Bewegung)</stage>
+(Gelächter bei der <emph rend="italic">Fanfare)</emph>	<stage>(Gelächter bei der <emph rend="italic">Fanfare)</emph></stage>
+(grosse Unruhe bei den Mit- gliedern der <emph rend="italic">Fanfare)	<stage>(grosse Unruhe bei den Mit- gliedern der <emph rend="italic">Fanfare)</stage>
+(zu de <emph rend="italic">Rose)	<stage>(zu de <emph rend="italic">Rose)</stage>
+<stage>(zu <emph rend="italic">de Rose</emph>)<stage>	<stage>(zu <emph rend="italic">de Rose</emph>)</stage>
+<sp><speaker>Fritz Grinsinger:</speaker><p>Sie gestatten, dass ich Ihnen einen Geschäftsfreund, den... den Vertreter meiner Kon- serven in Frankreich vorstelle. <stage><emph rend="italic">(de Rose</emph> verbeugt sich; zu <emph rend="italic">de Rose)</stage>: Ces Messieurs dont je vous ai parlé</emph> ...</p></sp>	<sp><speaker>Fritz Grinsinger:</speaker><p>Sie gestatten, dass ich Ihnen einen Geschäftsfreund, den... den Vertreter meiner Kon- serven in Frankreich vorstelle. <stage><emph rend="italic">(de Rose</emph> verbeugt sich; zu <emph rend="italic">de Rose)</emph>:</stage> <emph rend="italic">Ces Messieurs dont je vous ai parlé</emph> ...</p></sp>
+<emph rend="italic">de Rose)</stage>	<emph rend="italic">de Rose)</emph></stage>
+</stage>: Ces Messieurs dont je vous ai parlé	:</stage><emph rend="italic"> Ces Messieurs dont je vous ai parlé
+<stage>(grosse Unruhe bei den Mit- gliedern der <emph rend="italic">Fanfare)</stage>.</emph>	<stage>(grosse Unruhe bei den Mit- gliedern der <emph rend="italic">Fanfare)</emph></stage>.
+<stage>(zu de <emph rend="italic">Rose)</stage>	<stage>(zu de <emph rend="italic">Rose)</emph></stage>
+de la France.</emph>  <stage>(Alle blei	de la France. <stage>(Alle blei
+<sp><speaker>Lisa:</speaker><p><emph rend="italic">Charles! <stage>(Durand</emph> und <emph rend="italic">Lisa</emph> umarmen sich)</stage>.</p></sp>	<sp><speaker>Lisa:</speaker><p><emph rend="italic">Charles!</emph> <stage>(<emph rend="italic">Durand</emph> und <emph rend="italic">Lisa</emph> umarmen sich)</stage>.</p></sp>
+<speaker>Jeannette <stage>(auf Fritz <emph rend="italic">Grinsinger</emph> zu und ihn umarmend)</stage>:</speaker>	<speaker>Jeannette</speaker> <stage>(auf Fritz <emph rend="italic">Grinsinger</emph> zu und ihn umarmend)</stage>:
+#<speaker>Jeannette <stage>	<speaker>Jeannette</speaker> <stage>
+<speaker>de Rose <stage>(der von einem Mitglied der <emph rend="italic">Fanfare</emph> instruiert worden ist)</stage>:</speaker>	<speaker>de Rose</speaker> <stage>(der von einem Mitglied der <emph rend="italic">Fanfare</emph> instruiert worden ist):</stage>
+<speaker>Jeannette <stage>(auf Fritz <emph rend="italic">Grinsinger</emph> zu und ihn umarmend)</stage>:</speaker>	<speaker>Jeannette</speaker> <stage>(auf Fritz <emph rend="italic">Grinsinger</emph> zu und ihn umarmend):</stage>

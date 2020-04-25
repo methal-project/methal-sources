@@ -1,0 +1,41 @@
+        <fileDesc>
+            <titleStmt>
+                <title type="main">D’r Hoflieferant</title>
+                <title type="sub">Elsassiche Komödie in 3 Aufzügen von G. Stoskopf</title>
+                <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+                <respStmt>
+                    <name>Delphine Bernhard</name>
+                    <resp>OCR &amp; its correction</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Pablo Ruiz Fabo</name>
+                    <resp>TEI encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>LiLPa - Université de Strasbourg</publisher>
+                <availability>
+                    <licence>
+                        <ab>CC BY 2.0</ab>
+                        <ref target="https://creativecommons.org/licenses/by/2.0/"
+                            >Licence</ref>
+                    </licence>
+                </availability>
+                <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q90885236</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <name>Numistral</name>
+                    <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k91095937.r=hoflieferant?rk=21459;2</idno>
+                    <bibl type="originalSource">
+                        <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+                        <title type="main">D’r Hoflieferant</title>
+                        <title type="sub">Elsassiche Komödie in 3 Aufzügen von G. Stoskopf</title>
+                        <publisher>Alsatica-Verlag Schlesier &amp; Schweikhardt, Strassburg</publisher>
+                        <date type="print" when="1906">1906</date>
+                        <date type="premiere" when="1905">1905</date>
+                        <date type="written"/>                        
+                    </bibl>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>

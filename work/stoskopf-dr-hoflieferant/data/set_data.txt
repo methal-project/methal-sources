@@ -1,0 +1,6 @@
+<set>
+      <head>Ort der Handlung:</head>
+        <p>I. und II. Aufzug in der Villa des Herrn Fritz <emph rend="italic">Grinsinger</emph>
+           in Strassburg, III. Aufzug in dessen Landhaus im Barrer Tal.</p>
+        <p>Zeit: Um 1900.</p>
+    </set>
