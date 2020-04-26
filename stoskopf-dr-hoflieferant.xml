@@ -107,23 +107,17 @@
           <person xml:id="gendarm" sex="MALE">
             <persName>Ein Gendarm</persName>
           </person>
-          <person xml:id="mitglied_des_sachsenbundes" sex="UNKNOWN">
+          <person xml:id="ein_mitglied_des_sachsenbundes" sex="UNKNOWN">
             <persName>Ein Mitglied des Sachsenbundes</persName>
           </person>
-          <person xml:id="mitglied_der_fanfare" sex="UNKNOWN">
+          <person xml:id="ein_mitglied_der_fanfare" sex="UNKNOWN">
             <persName>Ein Mitglied der <emph rend="italic">Fanfare</emph></persName>
           </person>
-          <personGrp xml:id="mitglieder" sex="UNKNOWN">
-            <persName>Mitglieder des Sachsenbundes und der Fanfare Alsacienne</persName>
-          </personGrp>
-          <personGrp xml:id="mitglieder_fanfare" sex="UNKNOWN">
+          <personGrp xml:id="mitglieder_der_fanfare" sex="UNKNOWN">
             <persName>Die Mitglieder der <emph rend="italic">Fanfare</emph></persName>
           </personGrp>
-          <personGrp xml:id="mitglieder_sachsenbundes" sex="UNKNOWN">
+          <personGrp xml:id="mitglieder_des_sachsenbundes" sex="UNKNOWN">
             <persName>Die Mitglieder des Sachsenbundes</persName>
-          </personGrp>
-          <personGrp xml:id="mitglieder_vereine" sex="UNKNOWN">
-            <persName>Die Mitglieder der beiden Vereine</persName>
           </personGrp>
           <personGrp xml:id="alle" sex="UNKNOWN">
             <persName>Alle</persName>
@@ -133,11 +127,12 @@
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#jeannette"/>
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#lisa"/>
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#auguste"/>
-            <relation name="related_with" mutual="#fritz_grinsinger #hans_grinsinger"/>
-            <relation name="related_with" active="#fritz_grinsinger" passive="#durand"/>
+            <relation name="related_with" active="#hans_grinsinger" passive="#fritz_grinsinger"/>
+            <relation name="related_with" active="#durand" passive="#fritz_grinsinger"/>
             <relation name="parent_of" active="#gauthier" passive="#olga"/>
             <relation name="siblings" mutual="#jeannette #lisa #auguste"/>
             <relation name="friends" mutual="#auguste #ehrstein"/>
+            <relation name="associated_with" active="#marie" passive="#fritz_grinsinger"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -174,17 +169,17 @@
             <persName>Ein Gendarm</persName>
           </role>
         </castItem>
-        <castItem corresp="#mitglied_des_sachsenbundes">
+        <castItem corresp="#ein_mitglied_des_sachsenbundes">
           <role>
             <persName>Ein Mitglied des Sachsenbundes</persName>
           </role>
         </castItem>
-        <castItem corresp="#mitglied_der_fanfare">
+        <castItem corresp="#ein_mitglied_der_fanfare">
           <role>
             <persName>Ein Mitglied der <emph rend="italic">Fanfare</emph></persName>
           </role>
         </castItem>
-        <castItem corresp="#mitglieder">
+        <castItem corresp="#mitglieder_der_fanfare #mitglieder_des_sachsenbundes">
           <role>
             <persName>Mitglieder des Sachsenbundes und der Fanfare Alsacienne</persName>
           </role>
@@ -1804,7 +1799,7 @@ unn warm de Buckel nab! — <stage>(entmutigt)</stage> ’s isch eindhuen, m’r
         <sp who="#hans_grinsinger">
           <speaker>Hans Grinsinger</speaker>
           <stage>(freudig auf Fritz <emph rend="italic">Grinsinger</emph> zu):</stage>
-          <p>Gott Strambach, ist das ne freid’ge Iberraschung! Vetter, mei lieber Vetter! (ergreift beide Hände Fritz <emph rend="italic">Grinsingers</emph>.) Ich bummelte e bischen in d’r Schweiz ’rum, aber wie ’ch de Nachricht kriechte, da gabs ke Haltens mehr. Schwupp dich — ene Depesche, — uff de Eisenbahne und da bin ’ch! For de Familje is m’r nischt ze schade!</p>
+          <p>Gott Strambach, ist das ne freid’ge Iberraschung! Vetter, mei lieber Vetter! <stage>(ergreift beide Hände Fritz <emph rend="italic">Grinsingers</emph>.)</stage> Ich bummelte e bischen in d’r Schweiz ’rum, aber wie ’ch de Nachricht kriechte, da gabs ke Haltens mehr. Schwupp dich — ene Depesche, — uff de Eisenbahne und da bin ’ch! For de Familje is m’r nischt ze schade!</p>
         </sp>
         <sp who="#fritz_grinsinger">
           <speaker>Fritz Grinsinger:</speaker>
@@ -2138,7 +2133,7 @@ unn warm de Buckel nab! — <stage>(entmutigt)</stage> ’s isch eindhuen, m’r
         </sp>
         <sp who="#fritz_grinsinger">
           <speaker>Fritz Grinsinger:</speaker>
-          <p>Frau, die kannsch m’r glich an mini Kleider mache, wie unseri lätze Visite furt sin. (<emph rend="italic">Madame Grinsinger</emph> will abgehen) Halt! Ich will eins anprowiere. (zieht eins wohl-<pb n="50"/>gefällig an und betrachtet sich im Spiegel). <emph rend="italic">Il n'y a pas à dire</emph>, es geht m’r wie angemesse, es geht m’r zue guet. — Was for e Gfüehl dass m’r do hett, wenn’s heisst: <emph rend="italic">Grinsinger, officier d'académie</emph>. Frau <stage>(umarmt sie)</stage> gell, diss hesch dü nit gedenkt, dass diner Mann ’s emol so witt bringt? —</p>
+          <p>Frau, die kannsch m’r glich an mini Kleider mache, wie unseri lätze Visite furt sin. <stage>(<emph rend="italic">Madame Grinsinger</emph> will abgehen)</stage> Halt! Ich will eins anprowiere. <stage>(zieht eins wohl-<pb n="50"/>gefällig an und betrachtet sich im Spiegel)</stage>. <emph rend="italic">Il n'y a pas à dire</emph>, es geht m’r wie angemesse, es geht m’r zue guet. — Was for e Gfüehl dass m’r do hett, wenn’s heisst: <emph rend="italic">Grinsinger, officier d'académie</emph>. Frau <stage>(umarmt sie)</stage> gell, diss hesch dü nit gedenkt, dass diner Mann ’s emol so witt bringt? —</p>
         </sp>
         <sp who="#madame_grinsinger">
           <speaker>Madame Grinsinger:</speaker>
@@ -2306,7 +2301,7 @@ unn warm de Buckel nab! — <stage>(entmutigt)</stage> ’s isch eindhuen, m’r
         </sp>
         <sp who="#fritz_grinsinger">
           <speaker>Fritz Grinsinger:</speaker>
-          <p>Alls besser! <emph rend="italic">Eh bien</emph>, ich garantier Ejch, dass Ihr mine Wille reschpektiere wäre! (zu <emph rend="italic">Auguste</emph>) Dü, <emph rend="italic">Auguste</emph>, hierotsch d’ <emph rend="italic">mademoiselle Rièmer</emph>.</p>
+          <p>Alls besser! <emph rend="italic">Eh bien</emph>, ich garantier Ejch, dass Ihr mine Wille reschpektiere wäre! <stage>(zu <emph rend="italic">Auguste</emph>)</stage> Dü, <emph rend="italic">Auguste</emph>, hierotsch d’ <emph rend="italic">mademoiselle Rièmer</emph>.</p>
         </sp>
         <sp who="#auguste">
           <speaker>Auguste</speaker>
@@ -3036,7 +3031,7 @@ teristischt dolichocephale Kopf, wie m’r bis jetzt gemesse unn berechnet han b
         </sp>
         <sp who="#dr_kneppchen">
           <speaker>Dr. Kneppchen:</speaker>
-          <p>Durch meine Schädelmessungen habe ich eine geradezu verblüffende Entdeckung gemacht. Unser lieber Herr Grinsinger (legt die Hand auf die Schulter Fritz <emph rend="italic">Grinsingers</emph>) hat den rassenreinsten, germanischen Schädel, der bis jetzt von meinen Kollegen und mir gemessen worden ist. Er ist der ausgesprochene Typus.</p>
+          <p>Durch meine Schädelmessungen habe ich eine geradezu verblüffende Entdeckung gemacht. Unser lieber Herr Grinsinger <stage>(legt die Hand auf die Schulter Fritz <emph rend="italic">Grinsingers</emph>)</stage> hat den rassenreinsten, germanischen Schädel, der bis jetzt von meinen Kollegen und mir gemessen worden ist. Er ist der ausgesprochene Typus.</p>
         </sp>
         <sp who="#gauthier">
           <speaker>Gauthier:</speaker>
@@ -3696,7 +3691,9 @@ kenn Üwerraschunge gebrocht han! — <stage>(Ganz geknickt)</stage> D’r ditsc
         </sp>
         <sp who="#de_rose">
           <speaker>de Rose:</speaker>
-          <p><emph rend="italic">Après vous, madame. (Madame Grinsinger</emph> ab, <emph rend="italic">de Rose</emph> ihr nach.)</p>
+          <p>
+            <stage><emph rend="italic">Après vous, madame. (Madame Grinsinger</emph> ab, <emph rend="italic">de Rose</emph> ihr nach.)</stage>
+          </p>
         </sp>
         <sp who="#fritz_grinsinger">
           <speaker>Fritz Grinsinger</speaker>
@@ -4036,7 +4033,7 @@ tizen zu machen. Wenn die Musik zu Ende gespielt hat, tritt Gauthier vor und fl�
           <speaker>Fritz Grinsinger:</speaker>
           <p>Und Damen!</p>
         </sp>
-        <sp who="#mitglied_des_sachsenbundes">
+        <sp who="#ein_mitglied_des_sachsenbundes">
           <speaker>Ein Mitglied:</speaker>
           <p>Bravo! <stage>(Lachen.)</stage> </p>
         </sp>
@@ -4648,7 +4645,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <stage>(zu Fritz <emph rend="italic">Grinsinger</emph>, der ganz vernichtet dasteht):</stage>
           <p>Diss sin mir jo schöni Affäre! Diss isch jo e Verroth an unserer Societät! E Verroth an unserem elsässische Vatterland! —</p>
         </sp>
-        <sp who="#mitglieder_fanfare">
+        <sp who="#mitglieder_der_fanfare">
           <speaker>Die Mitglieder der <emph rend="italic">Fanfare</emph></speaker>
           <stage>(in grosser Entrüstung):</stage>
           <p>
@@ -4690,7 +4687,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <speaker>Rièmer:</speaker>
           <p>Ah, <emph rend="italic">par exemple</emph>! <stage>(grosse Entrüstung unter den Mitgliedern der <emph rend="italic">Fanfare</emph>.)</stage> Es leijt uff d’r Hand, dass vun hytt an alles fertig unn verbie isch zwische d’r <emph rend="italic">Fanfare</emph> unn dir. Mir brüche kenn <emph rend="italic">mouchard</emph> in unserer Societät! <stage>(Lebhafte Zustimmung.)</stage> </p>
         </sp>
-        <sp who="#mitglieder_fanfare">
+        <sp who="#mitglieder_der_fanfare">
           <speaker>Die Mitglieder der <emph rend="italic">Fanfare: </emph></speaker>
           <p><emph rend="italic">A bas le traître</emph>!!</p>
         </sp>
@@ -4706,7 +4703,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <stage>(feierlich):</stage>
           <p>Ich brauch Ihnen wohl nicht erst zu sagen, dass wir auch auf Ihre fernere Mitwirkung beim Sachsenbunde verzichten! Für solche Landsleute bedanken wir uns. Für Verräter ist in unseren Reihen kein Platz!</p>
         </sp>
-        <sp who="#mitglieder_sachsenbundes">
+        <sp who="#mitglieder_des_sachsenbundes">
           <speaker>Die Mitglieder des Sachsenbundes</speaker>
           <stage>(teilweise mit vollem Mund):</stage>
           <p>Schmeisst’n raus aus’m Bund! Hinaus mit dem Verräter!</p>
@@ -4823,7 +4820,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <speaker>Durand:</speaker>
           <p>Was ich d’rvun halt?</p>
         </sp>
-        <sp who="#mitglieder">
+        <sp who="#mitglieder_der_fanfare #mitglieder_des_sachsenbundes">
           <speaker>Die Mitglieder der beiden Vereine:</speaker>
           <p>Ja?!</p>
         </sp>
@@ -4909,21 +4906,21 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <p>Die Welt stürzt mit mir zusammen! Ich bin vernichtet! Verloren!</p>
         </sp>
         <pb n="104"/>
-        <sp who="#mitglied_des_sachsenbundes">
+        <sp who="#ein_mitglied_des_sachsenbundes">
           <speaker>Ein Mitglied des Sachsenbundes:</speaker>
           <p>Demnach wäre also der Präsident unseres gut deutschen Vereines ein Franzose?!</p>
         </sp>
-        <sp who="#mitglieder_sachsenbundes">
+        <sp who="#mitglieder_des_sachsenbundes">
           <speaker>Die Mitglieder des Sachsenbundes</speaker>
           <stage>(durcheinander):</stage>
           <p>Das ist ja unerhört, das ist ein Skandal! Das sind unhaltbare Zustände!</p>
         </sp>
-        <sp who="#mitglieder_fanfare">
+        <sp who="#mitglieder_der_fanfare">
           <speaker>Die Mitglieder der Fanfare</speaker>
           <stage>(schadenfroh):</stage>
           <p><emph rend="italic">Ça c'est fameux! C'est rigolo</emph>!</p>
         </sp>
-        <sp who="#mitglied_des_sachsenbundes">
+        <sp who="#ein_mitglied_des_sachsenbundes">
           <speaker>Ein Mitglied des Sachsenbundes:</speaker>
           <p>Unter diesen Umständen Herr Gauthier oder vielmehr Herr <emph rend="italic">Gauthier</emph> <stage>(mit starkem Accent)</stage>....</p>
         </sp>
@@ -4932,7 +4929,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <stage>(verzweifelt):</stage>
           <p>Sprechen Sie meinen Namen nicht französisch aus! ....</p>
         </sp>
-        <sp who="#mitglied_des_sachsenbundes">
+        <sp who="#ein_mitglied_des_sachsenbundes">
           <speaker>Ein Mitglied des Sachsenbundes</speaker>
           <stage>(fortfahrend):</stage>
           <p>Bleibt Ihnen nichts anderes mehr übrig als Ihren Austritt aus den patriotischen Vereinen zu erklären und ihr Amt als Vorsitzender unseres Bundes niederzulegen <stage>(lebhafte Zustimmung beim Sachsenbund)</stage>.</p>
@@ -4950,7 +4947,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <speaker>Gauthier:</speaker>
           <p>Der Teufel hol die Wissenschaft!</p>
         </sp>
-        <sp who="#mitglied_der_fanfare">
+        <sp who="#ein_mitglied_der_fanfare">
           <speaker>Ein Mitglied der Fanfare:</speaker>
           <p><emph rend="italic">Ça c'est vraiment fameux</emph>! <stage>(Gelächter bei der <emph rend="italic">Fanfare</emph>)</stage></p>
         </sp>
@@ -4958,7 +4955,7 @@ starkem Accent):</stage> <emph rend="italic">Moi je parler française</emph>! Co
           <speaker>Auguste:</speaker>
           <p>Ihr Herre m’r soll nit mit Stein werfe, wenn m’r selbscht im Glasdach sitzt unn nit lache, wenn’s Noochbers Hüs brennt!</p>
         </sp>
-        <sp who="#mitglied_der_fanfare">
+        <sp who="#ein_mitglied_der_fanfare">
           <speaker>Ein Mitglied der Fanfare:</speaker>
           <p>Wie meine Sie diss!</p>
         </sp>
@@ -4973,7 +4970,7 @@ stammt nämlich üs Preisse, sini Eltre han Riemer gheisse, un sie sinn üs Magd
           <speaker>Rièmer:</speaker>
           <p><emph rend="italic">Je suis fichu</emph>!</p>
         </sp>
-        <sp who="#mitglied_der_fanfare">
+        <sp who="#ein_mitglied_der_fanfare">
           <speaker>Ein Mitglied der Fanfare:</speaker>
           <p>Herr <emph rend="italic">Rièmer</emph>, isch diss wohr?!</p>
         </sp>
@@ -4985,22 +4982,22 @@ stammt nämlich üs Preisse, sini Eltre han Riemer gheisse, un sie sinn üs Magd
           <speaker>Auguste:</speaker>
           <p>Do <emph rend="italic">du reste</emph> d’Geburtsschien vum Herr <emph rend="italic">Rièmer</emph> sine-n-Eltre <stage>(überreicht <emph rend="italic">Rièmer</emph> die Geburtsscheine)</stage>. <emph rend="italic">Vous permettez</emph>.</p>
         </sp>
-        <sp who="#mitglied_der_fanfare">
+        <sp who="#ein_mitglied_der_fanfare">
           <speaker>Ein Mitglied der Fanfare:</speaker>
           <p>Demnooch hätt also unseri guet elsässisch Societät johrelang zwei Schwowe als Präsidente g’hett?</p>
         </sp>
-        <sp who="#mitglieder_fanfare">
+        <sp who="#mitglieder_der_fanfare">
           <speaker>Die Mitglieder der Fanfare:</speaker>
           <p>
             <emph rend="italic">C’est honteux, c’est dégoutant !</emph>
           </p>
         </sp>
-        <sp who="#mitglieder_sachsenbundes">
+        <sp who="#mitglieder_des_sachsenbundes">
           <speaker>Die Mitglieder des Sachsenbundes</speaker>
           <stage>(schadenfroh):</stage>
           <p>Tolle Sache! Zu ulkig!</p>
         </sp>
-        <sp who="#mitglieder_fanfare">
+        <sp who="#mitglieder_der_fanfare">
           <speaker>Die Mitglieder der Fanfare:</speaker>
           <p><emph rend="italic">Démission! Démission</emph>!</p>
         </sp>
@@ -5009,7 +5006,7 @@ stammt nämlich üs Preisse, sini Eltre han Riemer gheisse, un sie sinn üs Magd
           <stage>(lässt sich verzweifelt auf einen Stuhl sinken):</stage>
           <p><emph rend="italic">Démission</emph>? Nüskejt üs d’r <emph rend="italic">Fanfare</emph>! Diss isch min Tod!</p>
         </sp>
-        <sp who="#mitglied_der_fanfare">
+        <sp who="#ein_mitglied_der_fanfare">
           <speaker>Ein Mitglied der Fanfare:</speaker>
           <p>Wie stehn mir jetzt do vor’m <emph rend="italic">Baron de Rose</emph>! —</p>
         </sp>

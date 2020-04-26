@@ -261,9 +261,34 @@ def add_character_infos_to_tei(df, teifn, teifn_with_characters,
         # remove strange case stuff with italics
         sertree = re.sub(b"""(<stage>\(zu <emph rend="italic">de Rose</emph>\))(</stage>)\s*<emph rend="italic">: </emph>""",
                          br"""\1:\2""", sertree)
-        # missing stage direction
+        # missing stage directions
         sertree = sertree.replace(b"""(<emph rend="italic">Auguste</emph> und Ehrstein verraten grosse Aufregung)""",
                                   b"""<stage>(<emph rend="italic">Auguste</emph> und Ehrstein verraten grosse Aufregung)</stage>""")
+        #  found by FF
+        sertree = sertree.replace(b"""mei lieber Vetter! (ergreift beide""",
+                                  b"""mei lieber Vetter! <stage>(ergreift beide""")
+        sertree = sertree.replace(""".) Ich bummelte e bischen in d’r Schweiz""".encode(),
+                                  """.)</stage> Ich bummelte e bischen in d’r Schweiz""".encode())
+        sertree = sertree.replace(b"""Visite furt sin. (<emph""", b"""Visite furt sin. <stage>(<emph""")
+        sertree = sertree.replace(b"""</emph> will abgehen) Halt! Ich will""",
+                                  b"""</emph> will abgehen)</stage> Halt! Ich will""")
+        sertree = sertree.replace(b"""anprowiere. (zieht eins wohl""",
+                                  b"""anprowiere. <stage>(zieht eins wohl""")
+        sertree = sertree.replace(b"""sich im Spiegel). <emph rend""",
+                                  b"""sich im Spiegel)</stage>. <emph rend""")
+        sertree = sertree.replace("""wäre! (zu <emph rend="italic">Auguste</emph>)""".encode(),
+                                  """wäre! <stage>(zu <emph rend="italic">Auguste</emph>)""".encode())
+        sertree = sertree.replace("""Auguste</emph>) Dü, <emph """.encode(),
+                                  """Auguste</emph>)</stage> Dü, <emph """.encode())
+        sertree = sertree.replace(b"""(legt die Hand auf die Schulter Fritz""",
+                                  b"""<stage>(legt die Hand auf die Schulter Fritz""")
+        sertree = sertree.replace(b""" hat den rassenreinsten, germanischen """,
+                                  b"""</stage> hat den rassenreinsten, germanischen """)
+        sertree = sertree.replace("""<emph rend="italic">Après vous, madame. (Madame Grinsinger""".encode(),
+                                  """<stage><emph rend="italic">Après vous, madame. (Madame Grinsinger""".encode())
+        sertree = sertree.replace(b"""de Rose</emph> ihr nach.)</p>""",
+                                  b"""de Rose</emph> ihr nach.)</stage></p>""")
+
         # missing parenthesis
         sertree = sertree.replace(
             b"""<stage>(zu <emph rend="italic">Grinsinger</emph></stage>""",
@@ -275,6 +300,14 @@ def add_character_infos_to_tei(df, teifn, teifn_with_characters,
                                   """e-n-<emph rend="italic">émotion</emph>""".encode())
         sertree = sertree.replace("""de-n-Auguste""".encode(),
                                   """de-n-<emph rend="italic">Auguste</emph>""".encode())
+        # remove useless personGrp
+        sertree = sertree.replace(b"""<personGrp xml:id="mitglieder" sex="UNKNOWN">
+            <persName>Mitglieder des Sachsenbundes und der Fanfare Alsacienne</persName>
+          </personGrp>""", b"")
+        sertree = sertree.replace(b"""<castItem corresp="#mitglieder">""",
+                                  b"""<castItem corresp="#mitglieder_der_fanfare #mitglieder_des_sachsenbundes">""")
+
+
         ofh.write(sertree)
 
 

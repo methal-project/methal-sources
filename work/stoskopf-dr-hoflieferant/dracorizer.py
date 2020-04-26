@@ -11,7 +11,7 @@ with open(cf.oufn_with_characters, mode="r", encoding="utf8") as fh:
 
 newtxt = re.sub(re.compile(r"<respStmt.+/respStmt>", re.DOTALL), "", txt)
 newtxt = re.sub(r"<\?xml-stylesheet.+?>", "", newtxt)
-newtxt = re.sub(r"""(<\?xml version=["']1.0" encoding=["']UTF-8["']\?>)""",
+newtxt = re.sub(r"""(<\?xml version=["']1.0["'] encoding=["']UTF-8["']\?>)""",
                 r"""\1\n<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>""",
                 newtxt)
 newtxt = re.sub(r"""<author key="bnf:\d+ """, '<author key="', newtxt)

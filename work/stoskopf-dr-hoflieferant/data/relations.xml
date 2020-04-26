@@ -3,9 +3,10 @@
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#jeannette"/>
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#lisa"/>
             <relation name="parent_of" active="#fritz_grinsinger #madame_grinsinger" passive="#auguste"/>
-            <relation name="related_with" mutual="#fritz_grinsinger #hans_grinsinger"/>
-            <relation name="related_with" active="#fritz_grinsinger" passive="#durand"/>
+            <relation name="related_with" active="#hans_grinsinger" passive="#fritz_grinsinger"/>
+            <relation name="related_with" active="#durand" passive="#fritz_grinsinger"/>
             <relation name="parent_of" active="#gauthier" passive="#olga"/>
             <relation name="siblings" mutual="#jeannette #lisa #auguste"/>
             <relation name="friends" mutual="#auguste #ehrstein"/>
+            <relation name="associated_with" active="#marie" passive="#fritz_grinsinger"/>
           </listRelation>
