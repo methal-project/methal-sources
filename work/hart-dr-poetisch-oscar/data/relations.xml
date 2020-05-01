@@ -1,0 +1,3 @@
+          <listRelation type="personal">
+            <relation name="parent_of" active="#madame_schweberle" passive="#oscar"/>
+          </listRelation>
