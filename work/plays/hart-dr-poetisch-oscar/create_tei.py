@@ -232,8 +232,11 @@ if __name__ == "__main__":
                 cf.oufn_with_characters))
     ut.validate_tei_with_relaxng(cf.oufn_with_characters, rng_path=ocf.tei_rng)
     #os.system(f"xmllint --format {cf.oufn_with_characters} > .t ; mv .t {cf.oufn_with_characters}")
-    os.system(f"xmlindent {cf.oufn_with_characters} -i 2 -l 120 > .t ; mv .t {cf.oufn_with_characters}")
-    # moved before add_characters serializes
-    # os.system(f"perl -p -i.bak -e 's/(\w)<seg/$1 <seg/g' {cf.oufn_with_characters}")
-    # os.system(f"perl -p -i.bak -e 's/([,\.])<seg/$1 <seg/g' {cf.oufn_with_characters}")
+    #os.system(f"xmlindent {cf.oufn_with_characters} -i 2 -l 120 > .t ; mv .t {cf.oufn_with_characters}")
+    os.system(f"tidy --indent auto -wrap 114 -xml {cf.oufn_with_characters} | "
+              rf"perl -p -e 's/<\/seg>(\w)/<\/seg> \1/g' | "
+              rf"perl -p -e 's/(\w)<stage>/\1 <stage>/g' | "
+              rf"perl -p -e 's/<\/stage>(\w)/<\/stage> \1/g' | "
+              rf"perl -p -e 's/utf-8/UTF-8/g' > .t ; "
+              f"mv .t {cf.oufn_with_characters}")
 
