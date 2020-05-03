@@ -1,0 +1,3 @@
+Voir comment gérer la réplique commune à Sophie et Enishänsel.
+
+pr: chez hofileferant on a créé un speaker avec les deux locuteurs (avec les deux ID aussi)

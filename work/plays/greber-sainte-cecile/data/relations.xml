@@ -1,0 +1,4 @@
+          <listRelation type="personal">
+            <relation name="spouses" mutual="#anatole #sophie"/>
+            <relation name="associated_with" active="#cecile" passive="#anatole"/>
+          </listRelation>
