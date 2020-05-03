@@ -26,10 +26,11 @@
         </availability>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q90885236</idno>
       </publicationStmt>
-      <sourceDesc>
+      <sourceDesc>        
+        <listBibl>
         <bibl type="digitalSource">
           <name>Numistral</name>
-          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k91095937.r=hoflieferant?rk=21459;2</idno>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k91095937</idno>
           <bibl type="originalSource">
             <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
             <title type="main">D’r Hoflieferant</title>
@@ -40,6 +41,25 @@
             <date type="written"/>
           </bibl>
         </bibl>
+        <bibl type="digitalSource">
+          <name>archive.org</name>
+          <idno type="URL">https://archive.org/download/drhoflieferantel00stos/drhoflieferantel00stos.pdf</idno>
+          <bibl type="originalSource">
+            <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
+            <title type="main">D’r Hoflieferant</title>
+            <title type="sub">Elsassiche Komödie in 3 Aufzügen von G. Stoskopf</title>
+            <publisher>Alsatica-Verlag Schlesier &amp; Schweikhardt, Strassburg</publisher>
+            <date type="print" when="1906">1906</date>
+            <date type="premiere" when="1905">1905</date>
+            <date type="written"/>
+          </bibl>
+        <note>
+          Both the numistral and archive.org sources are a digital source for the same edition of the play
+          (1906 2nd edition). The archive.org source predates the numistral one and we had obtained hOCR files for it,
+          which were the basis of our TEI encoding. 
+        </note>
+        </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
