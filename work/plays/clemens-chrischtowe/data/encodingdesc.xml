@@ -1,0 +1,18 @@
+<encodingDesc>
+    <editorialDecl>
+        <punctuation marks="some">
+            <p>The semi-colon that seaparates character names from their descriptions
+            in the character description page <hi rend="italics">(Personebeschriewung)</hi>
+            are not kept; these were rendered as a &lt;list&gt; element.
+            </p>
+            <p>Regarding punctuation in the <hi rend="italics">Dramatis Personae</hi>: The original punctuation was kept,
+            since one of the early users of the corpus was interested in these marks.
+            The play uses a period after character names (and role descriptions if applicable)</p>
+        </punctuation>
+        <hyphenation eol="none">
+        <p>End-of-line hyphens that do not belong to the word itself (that are there to split it
+        across two lines for printing purposes) are removed.</p>
+        <p>Hyphens that are part of the same token (as with clitics in Alsatian) are kept wherever they appear.</p>
+        </hyphenation>
+    </editorialDecl>
+</encodingDesc>

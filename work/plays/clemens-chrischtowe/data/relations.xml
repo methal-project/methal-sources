@@ -1,0 +1,10 @@
+		<listRelation type="personal">
+			<relation name="parent_of" active="#voltz_martin" passive="#marikel"/>
+			<relation name="parent_of" active="#voltz_martin" passive="#xaverel"/>
+			<relation name="parent_of" active="#voltz_martin" passive="#schorschel"/>
+			<relation name="siblings" mutual="#marikel #xaverel #schorschel"/>
+			<relation name="parent_of" active="#grossbabbe" passive="#voltz_martin" type="m"/>
+			<relation name="related_with" active="#grossbabbe" passive="#marikel" type="m"/>
+			<relation name="related_with" active="#grossbabbe" passive="#xaverel" type="m"/>
+			<relation name="related_with" active="#grossbabbe" passive="#schorschel" type="m"/>
+		</listRelation>

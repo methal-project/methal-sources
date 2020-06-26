@@ -1,0 +1,9 @@
+		<listRelation type="personal">
+			<relation name="parent_of" active="#grossbabbe" passive="#voltz_martin"/>
+			<relation name="parent_of" active="#voltz_martin" passive="#marikel"/>
+			<relation name="parent_of" active="#voltz_martin" passive="#xaverel"/>
+			<relation name="parent_of" active="#voltz_martin" passive="#schorschel"/>
+			<relation name="parent_of" active="#grossbabbe" passive="#marikel"/>
+			<relation name="parent_of" active="#grossbabbe" passive="#xaverel"/>
+			<relation name="parent_of" active="#grossbabbe" passive="#schorschel"/>
+		</listRelation>

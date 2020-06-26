@@ -1,0 +1,991 @@
+/* Based on CSS used by dracor.org */
+
+#root,body,html{
+  height:100%;
+  font-family: sans-serif; 
+}
+body{
+  margin:0;
+  padding:0;
+  font-family:sans-serif
+}
+.logos{
+  margin-top:3em;
+  text-align:center
+}
+.logos img{
+  height:110px;
+  padding:0 2em
+}
+table.table.corpus{
+  table-layout:auto
+}
+.year-details{
+  font-size:80%;
+  white-space:nowrap
+}
+.year-details>span{
+  display:inline-block;
+  margin-right:4px
+}
+choice abbr+expan:before,choice corr+sic:before,choice expan+abbr:before,choice orig+reg:before,choice reg+orig:before,choice sic+corr:before{
+  content:" ("
+}
+choice abbr+expan:after,choice corr+sic:after,choice expan+abbr:after,choice orig+reg:after,choice reg+orig:after,choice sic+corr:after{
+  content:")"
+}
+ab{
+  margin-top:1em;
+  margin-bottom:1em
+}
+ab,accMat{
+  display:block
+}
+accMat:before{
+  content:"accompanying materials: "
+}
+acquisition{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+acquisition:before{
+  font-weight:700;
+  content:"acquisition"
+}
+activity{
+  display:block
+}
+activity:before{
+  content:"activity: "
+}
+add[place=above]{
+  vertical-align:super
+}
+add[place=inline]:before{
+  content:"Â«"
+}
+add[place=inline]:after{
+  content:"Â»"
+}
+add[place=below]{
+  vertical-align:sub
+}
+additional,additions{
+  display:block
+}
+additions:before{
+  content:"Significant additions within the document: "
+}
+addrLine{
+  display:block
+}
+addresss[data-rendition~="#block"],address[data-rend~=block],adminInfo{
+  display:block
+}
+app note{
+  display:none
+}
+appInfo{
+  display:block
+}
+appInfo:before{
+  content:"Application information: "
+}
+application{
+  display:block
+}
+application:after{
+  content:" " attr(version)
+}
+argument{
+  display:block
+}
+att{
+  font-family:Courier,monospace
+}
+att:before{
+  content:"@"
+}
+titleStmt>author{
+  display:block;
+  margin-bottom:1em
+}
+publicationStmt>availability{
+  font-size:80%
+}
+publicationStmt>availability:before{
+  font-weight:700;
+  content:"Availability: "
+}
+publicationStmt>availability[data-status]:before{
+  font-weight:700;
+  content:"Availability (" attr(status) "): "
+}
+back{
+  display:block
+}
+bibl[data-rendition~="#block"],bibl[data-rend~=block]{
+  display:block;
+  padding-left:2em;
+  text-indent:-2em
+}
+biblFull{
+  display:block
+}
+binding{
+  display:block
+}
+binding:before{
+  content:"Binding: \a";
+  white-space:pre-wrap
+}
+binding[data-contemporary]:before{
+  content:"Binding: \A" "Contemporary: " attr(contemporary) "\A";
+  white-space:pre-wrap
+}
+bindingDesc{
+  display:block
+}
+bindngDesc:before{
+  content:"Binding Description: \A"
+}
+birth{
+  display:block
+}
+birth:before{
+  content:"Birth: "
+}
+cRefPattern{
+  display:none
+}
+caption{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+case[data-value]:before{
+  font-weight:700;
+  content:attr(value) " "
+}
+castGroup{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+castItem{
+  display:list-item
+}
+castList{
+  display:block;
+  font-family: sans-serif;
+  list-style-type:none;
+  margin-top:1em;
+  margin-bottom:1em;
+  margin-left:2em
+}
+/* modified for alsatian plays */
+castGroup > roleDesc{
+  margin-left:1.5em;
+}
+
+set{
+  font-family:sans-serif;
+
+}
+cb{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+cb:before{
+  content:"[column break]"
+}
+cell{
+  display:table-cell;
+  padding:1em 1.5em 1em 1em;
+  border:1px dotted #aaa;
+  width:100%
+}
+[data-role=label]{
+  font-weight:700
+}
+climate{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+climate:before{
+  font-weight:700;
+  content:"Climate: "
+}
+code{
+  font-family:Courier,monospace
+}
+collation{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+colophon{
+  font-style:italic
+}
+condition,constitution{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+constitution:before{
+  font-weight:700;
+  content:"Constitution: "
+}
+constitution[data-type]{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+constitution[data-type]:before{
+  font-weight:700;
+  content:"Constitution (" attr(type) "): "
+}
+constitution[data-type=frags]{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+constitution[data-type=frags]:before{
+  font-weight:700;
+  content:"Constitution (fragments): "
+}
+custEvent{
+  display:list-item
+}
+custodialHist{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+date[data-when]:empty:before{
+  content:attr(when)
+}
+editionStmt,egXML{
+  display:block
+}
+egXML{
+  font-size:80%;
+  margin-left:1em;
+  padding-left:1em;
+  border-left:1px solid #aaa;
+  margin-top:.75em;
+  margin-bottom:.75em;
+  padding-top:.75em;
+  padding-bottom:.75em;
+  font-family:monospace;
+  white-space:pre
+}
+emph{
+  font-style:italic
+}
+encodingDesc{
+  display:none
+}
+epigraph{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+explicit{
+  font-style:italic
+}
+fileDesc>extent{
+  display:none
+}
+figure{
+  display:block;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto
+}
+gap[data-reason=lost]:before{
+  content:"["
+}
+gap[data-reason=lost]:after{
+  content:attr(data-content) "]"
+}
+gap[data-reason=illegible]:after{
+  content:attr(data-content)
+}
+gi{
+  font-family:Courier,monospace
+}
+gi:before{
+  content:"<"
+}
+gi:after{
+  content:">"
+}
+TEI head{
+  display:block;
+  font-family:Arvo,sans-serif;
+  font-weight:400
+}
+body>head{
+  font-size:180%;
+  text-indent:-.5em
+}
+div.textpart{
+  display:none
+}
+div>head{
+  font-size:170%;
+  //text-indent:-.5em;
+  text-indent:-.25em;
+}
+div>div>head{
+  font-size:155%
+}
+div>div>div>head{
+  font-size:140%
+}
+list>head,div>div>div>div>head{
+  font-size:130%
+}
+div>div>div>div>div>head{
+  font-size:120%
+}
+div>div>div>div>div>div head{
+  font-size:110%
+}
+figure>head{
+  display:block;
+  margin:1.5em auto;
+  padding:.5em 1.5em 1.5em;
+  border-radius:15px;
+  width:325px;
+  position:relative;
+  border:1px solid #aaa;
+  background:#fafafa;
+  text-indent:0;
+  font-size:85%;
+  text-align:justify;
+  box-shadow:0 1px 3px rgba(0,0,0,.25);
+  width:85%;
+  font-family:Georgia,Serif;
+  font-size:13pt
+}
+hi[rend=caps]{
+  font-weight:700
+}
+hi[rend=italic]{
+  font-style:italic
+}
+ident{
+  font-family:Courier,monospace
+}
+incipit{
+  font-style:italic
+}
+item{
+  display:list-item
+}
+cell item,item{
+  margin-left:1em
+}
+l{
+  display:block;
+  width:35em
+}
+l[data-lineno]:before{
+  content:attr(data-lineno);
+  position:absolute;
+  left:2em
+}
+lb:after{
+  content:"\a";
+  white-space:pre
+}
+lg{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+list{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em;
+  list-style-type:none
+}
+item>list{
+  margin-top:0
+}
+sourceDesc list{
+  list-style-type:none
+}
+sourceDesc>list>head{
+  font-size:140%;
+  font-weight:700
+}
+sourceDesc list>item{
+  display:list-item
+}
+text list[type=simple]{
+  list-style-type:none
+}
+text list[type=bulleted]{
+  list-style-type:disc
+}
+text list[type=ordered]{
+  list-style-type:none;
+  counter-reset:items 0
+}
+text list[type=ordered]>item{
+  display:list-item;
+  margin-left:0
+}
+text list[type=ordered]>item:before{
+  counter-increment:items 1;
+  content:counter(items,decimal) ". "
+}
+text list[type=gloss]{
+  list-style-type:none
+}
+list[type=gloss]>label{
+  display:block;
+  margin-top:.25em;
+  margin-bottom:.25em;
+  font-weight:700
+}
+list[type=gloss]>item{
+  margin-left:2em
+}
+item>list[type=ordered]{
+  margin-left:1em
+}
+listApp{
+  display:block;
+  margin:1em;
+  padding:1em
+}
+listBibl{
+  display:block;
+  list-style-type:none;
+  margin-left:.5 em;
+  margin-top:.5em
+}
+listBibl>head{
+  font-size:120%;
+  font-weight:700
+}
+listBibl>bibl{
+  display:list-item;
+  margin-left:.5em
+}
+listWit{
+  display:block;
+  list-style-type:none;
+  margin-left:.5em
+}
+listWit>head{
+  font-size:120%;
+  font-weight:700
+}
+listWit>witness{
+  display:list-item;
+  margin-left:2em;
+  text-indent:-1.1em
+}
+witness>listWit,witness>listWit>head,witness>listWit>witness{
+  display:inline
+}
+locus{
+  display:none
+}
+milestone{
+  display:none;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center
+}
+musicNotation{
+  font-weight:700
+}
+musicNotation:before{
+  font-weight:700;
+  content:"Musical Notation: "
+}
+node{
+  display:none
+}
+notesStmt{
+  display:none
+}
+oVar{
+  font-style:italic
+}
+origPlace{
+  font-weight:700
+}
+origPlace:before{
+  font-weight:700;
+  content:"Place of Origin: "
+}
+p{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em;
+  text-align:justify
+}
+[data-rendition~="#center"] p{
+  text-align:center
+}
+availability>p:first-child{
+  margin-top:0
+}
+performance{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+person,personGrp{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+postscript{
+  display:block;
+  margin-top:2em
+}
+principal{
+  font-weight:700
+}
+principal:before{
+  font-weight:700;
+  content:"Principal: "
+}
+profileDesc{
+  display:none
+}
+publicationStmt>*{
+  display:none
+}
+publicationStmt{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+publicationStmt>date,publicationStmt>publisher{
+  display:none
+}
+q{
+  quotes:"\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d"
+}
+q:after,q:before{
+  content:""
+}
+q[data-next]:after,q[data-prev]:before{
+  content:""!important
+}
+quote{
+  font-style:italic
+}
+app rdg{
+  display:none
+}
+re{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+recordHist{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+ref{
+  color:#5f0000;
+  text-decoration:underline
+}
+remarks{
+  font-weight:700
+}
+remarks:before{
+  font-weight:700;
+  content:"remarks: "
+}
+
+/* modified for alsatian plays */
+respStmt:first-of-type::before{
+  content: "This edition:";
+  display:block;
+  //font-size:smaller;
+
+}
+
+respStmt name::after{
+  content: ":";
+
+}
+
+respStmt{
+  display:block;
+  margin-top:0;
+  margin-bottom:0;
+  font-size:smaller;
+}
+revisionDesc{
+  display:none
+}
+row{
+  display:table-row
+}
+s{
+  text-decoration:none
+}
+salute{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+samplingDecl{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+scriptNote{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+seal{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+seal:before{
+  font-weight:700;
+  content:"Seal: "
+}
+sealDesc{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+secFol:before{
+  font-weight:700;
+  content:"Second Folio: "
+}
+secl>:first-child:before{
+  content:"\a[";
+  white-space:pre
+}
+secl>:last-child:after{
+  content:"]\a\a";
+  white-space:pre
+}
+
+/*
+seg::before{
+  content: " ";
+}*/
+
+seg{
+  outline:0 solid transparent
+}
+sense{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+seriesStmt{
+  display:none
+}
+setting{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+signed{
+  display:block;
+  margin-top:2em
+}
+soCalled{
+  quotes:"\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d"
+}
+soCalled:before{
+  content:open-quote
+}
+soCalled:after{
+  content:close-quote
+}
+soCalled[data-next]:after,soCalled[data-prev]:before{
+  content:""!important
+}
+sound{
+  font-style:italic
+}
+source{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+
+/* additions for alsatian plays */
+publisher, date[type="premiere"], source, name, idno[type="URL"]{
+  display:block;
+  font-size:smaller;
+
+}
+
+name, idno[type="URL"]{
+  display:inline;
+  font-size:smaller;
+
+}
+
+sourceDesc name::before{
+  content: "Source: ";
+  display:block;
+
+}
+
+sourceDesc author, date{
+  display:none;
+
+}
+
+sourceDesc>bibl>bibl>title{
+  display:none;
+
+}
+
+castList > head{
+  font-weight:bold;
+
+}
+
+set > head{
+  font-weight:bold;
+
+}
+
+/* */
+
+sp{
+  display:block;
+  margin-bottom:1em
+}
+space:before{
+  font-weight:700;
+  content:""
+}
+span[data-data-n]:before{
+  content:attr(data-n)
+}
+TEI egXML span{
+  display:inline
+}
+speaker{
+  font-weight:700;
+  margin-right:0
+}
+sponsor{
+  display:block;
+  margin-top:0;
+  margin-bottom:0
+}
+sponsor:before{
+  font-weight:700;
+  content:"Sponsor:"
+}
+stage{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em;
+  font-style:italic
+}
+l stage,p stage,speaker~stage{
+  display:inline
+}
+stamp{
+  display:block;
+  margin-top:1em;
+  margin-bottom:1em
+}
+stamp:before{
+  font-weight:700;
+  content:"Stamped: "
+}
+surplus>:first-child:before{
+  content:"\a[";
+  white-space:pre
+}
+surplus>:last-child:after{
+  content:"]\a\a";
+  white-space:pre
+}
+TEI{
+  display:block;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-family:sans-serif;
+}
+table{
+  border-collapse:initial;
+  border-spacing:2px
+}
+TEI table{
+  display:block;
+  margin-top:2em;
+  margin-bottom:2em;
+  font-size:12pt
+}
+table>head{
+  text-align:center
+}
+teiHeader{
+  display:block;
+  margin-top:2em;
+  margin-bottom:2em;
+  font-family: sans-serif;
+}
+TEI>text{
+  display:block;
+  line-height:1.5
+}
+textClass,textDesc{
+  display:none
+}
+TEI title{
+  display:inline
+}
+TEI title[level=a]{
+  quotes:"\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d"
+}
+TEI title[level=a]:before{
+  content:open-quote
+}
+TEI title[level=a]:after{
+  content:close-quote
+}
+TEI title[level=a][next]:after,TEI title[level=a][prev]:before{
+  content:""!important
+}
+title[level=m]{
+  font-style:italic
+}
+titleStmt>title{
+  display:block;
+  font-family:Arvo,sans-serif;
+  font-weight:400;
+  font-weight:700!important;
+  font-size:150%
+}
+typeDesc{
+  display:none
+}
+u:before{
+  content:"-"
+}
+view{
+  font-style:italic
+}
+wit,witDetail{
+  display:none
+}
+@media (min-width:768px){
+  #cast-list.card .card-body>div.cast-list-wrapper{
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  overflow-y:scroll
+}
+.play-info-column{
+  width:380px
+}
+
+}
+@media (max-width:768px){
+  .speech-dist-container{
+  flex-direction:column
+}
+
+}
+.card-header:last-child{
+  border-bottom:none
+}
+#play-meta-data{
+  position:relative
+}
+#play-meta-data h1{
+  font-size:1.4rem;
+  margin-bottom:0;
+  display:inline-block;
+  position:relative
+}
+#download ul,#play-meta-data ul{
+  list-style-type:none;
+  padding:0;
+  margin:0
+}
+@media (min-width:768px){
+  #play-meta-data ul{
+  max-width:400px
+}
+
+}
+#play-meta-data ul>li:first-of-type{
+  padding-right:35px
+}
+#play-meta-data .years span{
+  display:inline-block;
+  padding-right:.3rem
+}
+#play-meta-data .meta-data-toggler{
+  position:absolute;
+  top:1.25rem;
+  right:1.25rem
+}
+.frame{
+  flex-grow:1;
+  position:relative
+}
+.frame>div{
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  overflow:scroll
+}
+.frame #TEI{
+  padding:20px
+}
+
+
+/* modif for alsatian plays */
+
+/* adding page numbers */
+
+pb::after {
+  display: block;
+  content: "— " attr(n) " —";
+  text-align: center;
+}
+
+[rend="bold"]{
+  font-weight: bold;
+}
+
+
+/* number lists in front */
+
+list{
+    counter-reset: numlist-characters;
+}
+
+front list[rend="numbered"] label::before{
+    counter-increment: numlist-characters;
+    content: counter(numlist-characters) ". ";
+}
