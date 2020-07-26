@@ -184,6 +184,10 @@ castList{
   margin-bottom:1em;
   margin-left:2em
 }
+/* modified for alsatian plays */
+castGroup > roleDesc{
+  margin-left:1.5em;
+}
 
 set{
   font-family:sans-serif;
@@ -959,10 +963,34 @@ wit,witDetail{
   padding:20px
 }
 
+
+/* modif for alsatian plays */
+
 /* adding page numbers */
 
 pb::after {
   display: block;
   content: "— " attr(n) " —";
+  text-align: center;
+}
+
+[rend="bold"]{
+  font-weight: bold;
+}
+
+
+/* number lists in front */
+
+list{
+    counter-reset: numlist-characters;
+}
+
+front list[rend="numbered"] label::before{
+    counter-increment: numlist-characters;
+    content: counter(numlist-characters) ". ";
+}
+
+/* these p alignment rules sometimes used for dedications */
+p[rend="centered"]{
   text-align: center;
 }

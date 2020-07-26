@@ -11,16 +11,19 @@ from pandas_ods_reader import read_ods
 import re
 from xml.sax import saxutils
 
+import config as cf
 import oconfig as ocf
 
 
 def read_character_info(fname, sheetname=ocf.character_sheet_name):
     """Read character infos into a dataframe"""
+    assert(os.path.exists(fname))
     df = read_ods(fname, sheetname)
     return df
 
 
-def read_header_info(fname, sheetname=ocf.header_sheet_name):
+def read_header_info(fname=cf.cast_list_data,
+                     sheetname=ocf.header_sheet_name):
     """Read metadata for teiHeader into a dataframe"""
     df = read_ods(fname, sheetname)
     return df
@@ -55,6 +58,24 @@ def create_resp_stmt(od):
     return out
 
 
+def read_encoding_desc_from_file(fpath=cf.encoding_desc_fpath):
+    """
+    Read text for the `<encodingDesc>` element from a file.
+
+    Parameters
+    ----------
+    fpath : str, optional
+        Path to the file that contains the string for the `<encodingDesc>` element.
+        Default path is given in module :obj:`config`
+
+    Returns
+    -------
+    str
+        The text
+    """
+    return open(fpath, mode="r", encoding="utf8").read()
+
+
 def create_tei_header(row, other=None):
     """
     Create teiHeader element based on informations in a dataframe row
@@ -73,8 +94,12 @@ def create_tei_header(row, other=None):
         format_sheet_metadata(row.titleMain)
     etree.SubElement(titleStmt, "title", type="sub").text = \
         format_sheet_metadata(row.titleSub)
-    author_keystr = " ".join((f"wikidata:{row.authorKeyWikidata}",
-                              f"bnf:{str(int(row.authorKeyBnf))}"))
+    assert not pd.isnull(row.authorKeyWikidata)
+    try:
+        author_keystr = " ".join((f"wikidata:{row.authorKeyWikidata}",
+                                  f"bnf:{str(int(row.authorKeyBnf))}"))
+    except ValueError:
+        author_keystr = f"wikidata:{row.authorKeyWikidata}"
     etree.SubElement(titleStmt, "author", key=author_keystr).text = row.author
     for resp in create_resp_stmt(other["respStmt"]):
         titleStmt.append(etree.fromstring(resp))
@@ -95,24 +120,29 @@ def create_tei_header(row, other=None):
     bibl_digi = etree.Element("bibl", type="digitalSource")
     bibl_orig = etree.Element("bibl", type="originalSource")
     etree.SubElement(bibl_digi, "name").text = "Numistral"
-    etree.SubElement(bibl_digi, "idno", type="URL").text = row["numistralSource"]
+    etree.SubElement(bibl_digi, "idno", type="URL").text = \
+        cf.numistral_prefix + row["numistralSource"]
     #   author
     try:
         author2 = row["author"] if not pd.isnull(row["author2"]) \
             and row["author"] == row["author2"] else row["author2"]
     except KeyError:
         author2 = row["author"]
-    try:
-        authorKeyWikidata2 = row["authorKeyWikidata"] if not pd.isnull(["authorKeyWikidata2"]) \
-            and row["authorKeyWikidata2"] == row["authorKeyWikidata"] else row["authorKeyWikidata2"]
-    except KeyError:
+    if pd.isnull(row["authorKeyBnf"]) or pd.isnull(row["authorKeyWikidata2"]):
         authorKeyWikidata2 = row["authorKeyWikidata"]
-    try:
-        authorKeyBnf2 = row["authorKeyBnf"] if not pd.isnull(row["authorKeyBnf2"]) \
-            and row["authorKeyBnf2"] == row["authorKeyBnf"] else row["authorKeyBnf2"]
-    except KeyError:
-        authorKeyBnf2 = row["authorKeyBnf"]
-    author_keystr2 = f"wikidata:{authorKeyWikidata2} bnf:{str(int(authorKeyBnf2))}"
+        author_keystr2 = f"wikidata:{authorKeyWikidata2}"
+    else:
+        try:
+            authorKeyWikidata2 = row["authorKeyWikidata"] if not pd.isnull(["authorKeyWikidata2"]) \
+                and row["authorKeyWikidata2"] == row["authorKeyWikidata"] else row["authorKeyWikidata2"]
+        except KeyError:
+            authorKeyWikidata2 = row["authorKeyWikidata"]
+        try:
+            authorKeyBnf2 = row["authorKeyBnf"] if not pd.isnull(row["authorKeyBnf2"]) \
+                and row["authorKeyBnf2"] == row["authorKeyBnf"] else row["authorKeyBnf2"]
+        except KeyError:
+            authorKeyBnf2 = row["authorKeyBnf"]
+        author_keystr2 = f"wikidata:{authorKeyWikidata2} bnf:{str(int(authorKeyBnf2))}"
     etree.SubElement(bibl_orig, "author", key=author_keystr2).text = \
         format_sheet_metadata(author2)
     #   title
@@ -161,6 +191,30 @@ def get_set_by_id(set_fn, set_id):
     return set_e
 
 
+def get_dedication_by_id(dedication_fn, dedication_id):
+    """
+    Get XML element to create dedication with from a file where
+    dedications are listed by ID (the ID in metadata/character sheet).
+
+    Parameters
+    ----------
+    dedication_fn : str
+        XML file with text for dedications
+    dedication_id : int
+        ID that the dedications are tagged with
+
+    Returns
+    -------
+    lxml.etree.Element
+        The element containing the dedication
+    """
+    tree = etree.parse(dedication_fn)
+    play = tree.xpath(f"//play[id='{dedication_id}']")
+    assert len(play) == 1
+    dedication_e = play[0].xpath("./dedication")[0]
+    return dedication_e
+
+
 def get_set_from_file(set_fname, front):
     """
     Add set info to front of TEI.
@@ -169,6 +223,7 @@ def get_set_from_file(set_fname, front):
         set_fname (str): Name of file with set info
         front (etree.Element): front element to add info to
     """
+    #TODO: docstring in numpy style
     with open(set_fname, mode='r', encoding='utf8') as fd:
         txt = fd.read().strip()
     set_ele = etree.fromstring(txt)
@@ -183,6 +238,9 @@ def simple_dehyphenation(text):
     dehyphenate words at line-end.
     """
     text = re.sub(re.compile(r"(\w)- (\w)"), r"\1\2", text)
+    #text = re.sub(re.compile(r"(\w)-(?!< un ) (\w)"), r"\1\2", text)
+    text = re.sub(re.compile(r"(e-n)(\w)"), r"\1-\2", text)
+    text = re.sub(re.compile(r"(Sainte)(C)"), r"\1-\2", text)
     return text
 
 
@@ -215,6 +273,16 @@ def add_space_around_stage_directions_b(bts):
     return bts
 
 
+def check_italics_ratio(pe):
+    """
+    Return ratio of italics tokens in paragraph element `pe`.
+    In some plays this can indicate that it's a character stage direction.
+    """
+    toks = pe.xpath(".//span[@class='ocrx_word']//text()")
+    toks_em = pe.xpath(".//span[@class='ocrx_word']/em/text()")
+    return len(toks_em) / len(toks)
+
+
 def tag_foreign_expressions_with_list(xs, lspath):
     """
     Add seg elements to the string representing xml in `xs`, based on
@@ -233,11 +301,43 @@ def tag_foreign_expressions_with_list(xs, lspath):
     return xs
 
 
+def create_back_with_text(xml_str, back_txt):
+    """
+    Create a <back> element with the text in `txt` and add it to xml string.
+
+    First removes the text from the body and then adds the back with it.
+
+    Parameters
+    ----------
+    xml_str : str
+        String representing XML
+    back_txt : str
+        Text to create back with
+
+    Returns
+    -------
+    str
+        The XML string representing TEI file with the back added
+    """
+    xml_str = xml_str.replace(back_txt, "")
+    xml_str = xml_str.replace(
+        "</body>", "</body><back><div><p>" + back_txt + "</p></div></back>")
+    return xml_str
+
+
 def change_apos_to_squo_b(sertree):
     """
-    Replace (in serialized etree) straight apostrophe by single quote.
+    Replace (in serialized etree) straight apostrophe with single quote.
     """
-    sertree = re.sub(br"'([srmn])", r"’\1".encode(), sertree)
+    # sertree = re.sub(br"'([srmn])", r"’\1".encode(), sertree)
+    # Alsatian pronouns
+    sertree = re.sub(br"(?<!=)'([srmn])", r"’\1".encode(), sertree)
+    # Alsatian: sott', hab', z'undersch, z'öwersch, participles (g'fahre)
+    # but avoid changing `<div type='act'>̀
+    sertree = re.sub(br"([bzg']|(?<!ac)t)'", r"\1’".encode(), sertree)
+    # French clitics, d', qu', c'; Alsatian d'; avoid changing `<div type='act'>̀
+    sertree = re.sub(re.compile(br"([jmsdluc]|(?<!ac)t)'", re.I), r"\1’".encode(), sertree)
+
     return sertree
 
 
@@ -245,7 +345,33 @@ def change_apos_to_squo_str(text):
     """
     Replace in a string straight apostrophe by single quote.
     """
-    text = re.sub(r"'([srmn])", r"’\1", text)
+    # Alsatian pronouns
+    text = re.sub(r"(?<!=)'([srmn])", r"’\1", text)
+    # Alsatian: sott', hab', z'undersch, z'öwersch, participles (g'fahre)
+    # but avoid changing `<div type='act'>̀
+    text = re.sub(r"([bzg']|(?<!ac)t)'", r"\1’", text)
+    # French clitics, d', qu', c'; Alsatian d'; avoid changing `<div type='act'>̀
+    text = re.sub(re.compile(r"([jmsdluc]|(?<!ac)t)'", re.I), r"\1’", text)
+    return text
+
+
+def change_lsquo_to_rsquo_b(sertree):
+    """
+    Replace (in serialized etree) left single quote with right single quote,
+    in contexts where it's likely that a rsquo should be there instead.
+    """
+    sertree = re.sub(r"‘([srmn])".encode(), r"’\1".encode(), sertree)
+    sertree = re.sub(r"t‘ ".encode(), r"t’ ".encode(), sertree)
+    return sertree
+
+
+def change_lsquo_to_rsquo_str(text):
+    """
+    Replace in string left single quote with right single quote,
+    in contexts where it's likely that a rsquo should be there instead.
+    """
+    text = re.sub(r"‘([srmn])", r"’\1", text)
+    text = re.sub(r"t‘ ", r"t’ ", text)
     return text
 
 
@@ -258,6 +384,7 @@ def general_cleanup_str(text):
 def general_cleanup_b(bt):
     """General cleanup of xml as bytes"""
     bt = re.sub(b"<lg>\s*</lg>", "", bt)
+    bt = re.sub(b"::", ":", bt)
     return bt
 
 
