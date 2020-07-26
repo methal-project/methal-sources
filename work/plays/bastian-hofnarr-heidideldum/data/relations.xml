@@ -1,0 +1,19 @@
+		<listRelation>
+			<relation name="spouses" mutual="#kinj_gourmand #kinigin_dificile"/>
+			<relation name="parent_of" active="#kinj_gourmand #kinigin_dificile" passive="#prinzess_yoyotte"/>
+			<relation name="associated_with" active="#baronesse_langue_de_chat" passive="#kinigin_dificile"/>
+			<relation name="associated_with" active="#baronesse_bonbonniere" passive="#kinigin_dificile"/>
+			<relation name="associated_with" active="#minischter_guggumseck" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#minischter_gaggele" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#opodeldock" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#scharf" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#winmuck" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#mumes" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#schimmel" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#schablur" passive="#kinj_gourmand" type="m"/>
+			<relation name="associated_with" active="#schnurrdiburr" passive="#kinj_gourmand" type="m"/>
+			<relation name="parent_of" active="#schablur" passive="#biberon"/>
+			<relation name="parent_of" active="#schablur" passive="#babilotte"/>
+			<relation name="associated_with" active="#coucou" passive="#niesatt"/>
+			<relation name="spouses" mutual="#mickey #zieselmiesel"/>
+		</listRelation>
