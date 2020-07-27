@@ -160,7 +160,7 @@
             <relation name="parent_of" active="#schablur" passive="#biberon" />
             <relation name="parent_of" active="#schablur" passive="#babilotte" />
             <relation name="associated_with" active="#coucou" passive="#niesatt" />
-            <relation name="spouses" mutual="#mickey #zieselmiesel" />
+            <relation name="spouses" mutual="#kinj_mickey #zieselmiesel" />
           </listRelation>
         </listPerson>
       </particDesc>
