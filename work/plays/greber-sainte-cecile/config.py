@@ -18,12 +18,14 @@ oufn_dracor = os.path.join(outdir, "{}_with_characters_dracor.xml".format(oufn_p
 
 # header md
 header = "filedesc.txt"
+numistral_prefix = ""
 
 # front
 cast_list_data = os.path.join(datadir, "cast_list_data.ods")
 speaker_to_id_infos = os.path.join(datadir, "speaker2id.tsv")
 summary_fpath = os.path.join(hocr_dir, "009.html")
 summary_title = "Scenerie :"
+encoding_desc_fpath = None
 
 # body
 body_start_filename = 10 # not the page number but file number

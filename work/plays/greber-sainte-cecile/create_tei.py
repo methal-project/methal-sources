@@ -58,7 +58,7 @@ def create_sp(ma, xl, idx):
 def check_italics_ratio(pe):
     """
     Return ratio of italics tokens in paragraph element `pe`.
-    In this play this can indicate that it's a character stage direction.
+    In certain plays this can indicate that it's a character stage direction.
     """
     toks = pe.xpath(".//span[@class='ocrx_word']//text()")
     toks_em = pe.xpath(".//span[@class='ocrx_word']/em/text()")
@@ -114,7 +114,7 @@ def process_paragraph(pe, pes, xl, idx, actual_idx, fn):
     #   skip printer line
     if "Buckdruckerei" in txt:
        return actual_idx + 1
-    if re.match(r"ende\.", txt.strip().lower()):
+    if re.match(r"(?:ende\.|finis!?)", txt.strip().lower()):
         xl.append(f"<stage>{txt}</stage></div>")
 
     # scene start
@@ -158,6 +158,8 @@ def manual_cleanups(st):
                     "<sp><speaker>Cécile</speaker> <stage>(zärtlich)</stage> <p>Barthelmeh !!</p></sp>")
     st = re.sub(r"""(uff e Sainte-Cécile.)\s*(Sophie:)(</p>\s*</sp>)(\s*<sp>\s*)(<speaker>Enishänsel):""",
                 r"\1\3\4\5, \2", st)
+    st = re.sub(r"</stage>\s*:", ":</stage>", st)
+    st = st.replace("je t’enprie.", "je t’en prie.")
     return st
 
 
@@ -180,7 +182,7 @@ def create_xml(xml_list):
                                           "availability": ocf.availability["ccby"]})
     hdr_str = etree.tostring(hdr)
     # all
-    global xml_str
+    #global xml_str
     xml_str = "\n".join(
         ["<TEI>", hdr_str.decode(), "<text><body>", body_text, "</body></text></TEI>"])
     parser_x = etree.XMLParser(remove_blank_text=True)
