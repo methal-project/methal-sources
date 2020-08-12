@@ -1,4 +1,4 @@
-[[english]](./README.md)
+[[english]](https://git.unistra.fr/methal/methal-sources)
 
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 
