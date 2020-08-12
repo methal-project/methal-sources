@@ -1,3 +1,5 @@
+[[english]](./README.md)
+
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 
 https://methal.pages.unistra.fr/
