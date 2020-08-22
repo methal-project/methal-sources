@@ -139,7 +139,8 @@ def process_paragraph(pe, pes, xl, idx, actual_idx, fn):
             print("Texte : ", txt)
 
         # character stage directions
-        x_size = float(re.search(pp.x_size_reg, pe.xpath(".//span[@class='ocr_line']")[0].attrib["title"]).group(1))
+        x_size = float(re.search(pp.x_size_reg, pe.xpath(
+            ".//span[@class='ocr_line' or @class='ocr_header']")[0].attrib["title"]).group(1))
         if DBG:
             print(x_size)
         if x_size < 27 and ((not ":" in txt) or ("Qouic" in txt) or (txt.startswith("Jetz singe mr noch"))):
@@ -187,6 +188,8 @@ def manual_cleanups(st):
     # missing stage directions ------------------------------------------------
     st = st.replace("(Alli lueje gespannt uf Düer, erin kummt ’s Chrischtkindel mit-eme Dannebaum un dr Hanstrapp.",
                     "<stage>(Alli lueje gespannt uf Düer, erin kummt ’s Chrischtkindel mit-eme Dannebaum un dr Hanstrapp.)</stage>")
+    st = st.replace("<speaker>Alli singe:</speaker>",
+                    "<speaker>Alli</speaker><stage>(singe:)</stage>")
     # manually created paragraphs, inside Grossbabbe's narration --------------
     #   around verse, verse.create_verse_elements_for_ocr_line already adds <p> and </p>
     #   otherwise need to create them manually

@@ -17,7 +17,7 @@ def find_ocr_line_bbox_start_and_text(pe):
     For <p> element `pe`, return (bbox start, text) tuple list for its ocr_line
     descendants.
     """
-    line_eles = pe.xpath(".//span[@class='ocr_line']")
+    line_eles = pe.xpath(".//span[@class='ocr_line' or @class='ocr_header']")
     lstart2text = []
     for le in line_eles:
         lstart = int(re.search(pp.bbox_reg, le.attrib["title"]).group(1))
