@@ -89,11 +89,11 @@
           </person>
           <listRelation>
 			<relation name="parent_of" active="#brummer" passive="#oktavie"/>
-			<relation name="spouses" mutual="#brummer #euphrosine_bendele"/>
-			<relation name="spouses" mutual="#nervich_paul #oktavie"/>
-			<relation name="associated_with" active="#erster_warter" passive="#nervich_paul"/>
-			<relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul"/>
-			<relation name="associated_with" active="#dritter_warter" passive="#nervich_paul"/>
+			<relation name="lover_of" mutual="#brummer #euphrosine_bendele" type="m"/>
+			<relation name="lover_of" mutual="#nervich_paul #oktavie" type="m"/>
+			<relation name="associated_with" active="#erster_warter" passive="#nervich_paul" type="m"/>
+			<relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul" type="m"/>
+			<relation name="associated_with" active="#dritter_warter" passive="#nervich_paul" type="m"/>
 		</listRelation>
         </listPerson>
       </particDesc>
