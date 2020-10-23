@@ -1,0 +1,8 @@
+		<listRelation>
+			<relation name="parent_of" active="#brummer" passive="#oktavie"/>
+			<relation name="spouses" mutual="#brummer #euphrosine_bendele"/>
+			<relation name="spouses" mutual="#nervich_paul #oktavie"/>
+			<relation name="associated_with" active="#erster_warter" passive="#nervich_paul"/>
+			<relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul"/>
+			<relation name="associated_with" active="#dritter_warter" passive="#nervich_paul"/>
+		</listRelation>
