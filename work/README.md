@@ -14,4 +14,4 @@
     - `plays`: Encoding of each corpus play
     - `css`: Stylesheets for rendering the plays
     - `schema`: XML schemas used
-    - `utils`: Functions commun to encoding several plays
+    - `utils`: Functions common to encoding several plays
