@@ -272,23 +272,23 @@
       <pb n="5" />
       <div type="act">
         <head>I. Aufzug.</head>
-        <stage>Solide Bauernstube, rechts in der Ecke ein Himmel- bett, an der Seitenwand ein altes Spinett,
+        <stage>Solide Bauernstube, rechts in der Ecke ein Himmelbett, an der Seitenwand ein altes Spinett,
         links eine Komode, darüber Bilder, auf derselben eine altmodische Stehuhr, in der Ecke ein grosser
-        Kachelofen, in der Mitte ein grosser eichener Tisch, hohe Lehnsessel, im Hinter- grund links ein solider
+        Kachelofen, in der Mitte ein grosser eichener Tisch, hohe Lehnsessel, im Hintergrund links ein solider
         Kleiderschrank, rechts eine grosse Truhe (Mitteltüre, rechts und links Seitentüren).</stage>
         <stage type="roleDesc">Hans, junger Mann, glatt rasiert, dunkles, kurzes Haar, unzufriedener-launenhafter
         Charakter. Kleidung: weites braunes Faltenwams, Ledergürtel um, kurze, aufgefasste Hose, rohlederne
-        Stulpstiefel. Er sitzt am Tisch, starrt griessgrämig ins Leere, den Kopf in die linke Hand ge- stützt,
+        Stulpstiefel. Er sitzt am Tisch, starrt griessgrämig ins Leere, den Kopf in die linke Hand gestützt,
         die rechte Hand auf dem Tisch geballt. Auf dem Tisch steht ein Zinnkrug, zwei Becher, daneben eine
         Pastete, ein geöffneter Geldkasten, Münzen liegen umher, auf dem Boden ein Geldbeutel. Hans macht eine
-        weg- werfende Bewegung, steht auf und kraut sich in den Haaren. — Draussen brüllt eine Kuh.</stage>
+        wegwerfende Bewegung, steht auf und kraut sich in den Haaren. — Draussen brüllt eine Kuh.</stage>
         <sp who="#hans">
           <speaker>Hans :</speaker>
           <p>Wenn ich numme ellaan uff d'r Welt wär. Ach, jetzt brüehlt d'Kueh aunoch !</p>
         </sp>
-        <stage type="roleDesc">Casper, alter, wortkarger Mensch, struppiges Aus- sehen, verleiht seinen
+        <stage type="roleDesc">Casper, alter, wortkarger Mensch, struppiges Aussehen, verleiht seinen
         Empfindungen meistens in Gesten und Mienenspiel Ausdruck, grüsst immer kurz an seine Mütze, hat stets
-        einen kurzen Nasenwärmer im Mund- winkel eingeklemmt (Mitteltüre).</stage>
+        einen kurzen Nasenwärmer im Mundwinkel eingeklemmt (Mitteltüre).</stage>
         <sp who="#casper">
           <speaker>Casper :</speaker>
           <p>Maischter ! 
@@ -327,7 +327,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans:</speaker>
-          <p>Was, er will mer die Fasanehüehner nit ver- kaufe ?</p>
+          <p>Was, er will mer die Fasanehüehner nit verkaufe ?</p>
         </sp>
         <sp who="#casper">
           <speaker>Casper :</speaker>
@@ -361,7 +361,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Awer Hans, hett mer dich denn nit ser- viert ? Ei, ei, so isch's mit d'r Dante Lehn, sie denkt au
+          <p>Awer Hans, hett mer dich denn nit serviert ? Ei, ei, so isch's mit d'r Dante Lehn, sie denkt au
           gar nit an dich, awer gar nit. Kumm min Hansel, ess, trink, verhungersch jo noch. Dü hesch anfanges e
           Uessehns, dass 
           <pb n="7" />de ball nim drynsiehsch, so bleich bisch de 
@@ -422,7 +422,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans:</speaker>
-          <p>Dante Angenes, Si waiss, dass mer d'wunder- fitzige Wiebslitt Gift und Gall sin.</p>
+          <p>Dante Angenes, Si waiss, dass mer d'wunderfitzige Wiebslitt Gift und Gall sin.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
@@ -447,7 +447,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Herrgott im Himmel, wenn's numme ken Wiebs- litt gäbt un alti Dante.</p>
+          <p>Herrgott im Himmel, wenn's numme ken Wiebslitt gäbt un alti Dante.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
@@ -463,8 +463,8 @@
           <p>Awer Hans, jetzt hör doch 
           <stage>(erblickt Lehn und sucht lockend nach der Katze)</stage> Wo nur diss Kätzel steckt ?</p>
         </sp>
-        <stage type="roleDesc">Lehn, etwas ältere, energische Person, markante, je- doch nicht unschöne
-        Gesichtszüge, trägt Chignon im Haar- netz, einfach gekleidet, Küchenschürze vor, unterm Arm einen
+        <stage type="roleDesc">Lehn, etwas ältere, energische Person, markante, jedoch nicht unschöne
+        Gesichtszüge, trägt Chignon im Haarnetz, einfach gekleidet, Küchenschürze vor, unterm Arm einen
         Eierkorb (Mitteltüre).</stage>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
@@ -483,7 +483,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Un ich d'r wiss Gockel mit zamten Kaffesatz- hafe. Waisch dü ebb's d'rvun ? 
+          <p>Un ich d'r wiss Gockel mit zamten Kaffesatzhafe. Waisch dü ebb's d'rvun ? 
           <stage>(stellt den Korb auf den Tisch.)</stage></p>
         </sp>
         <sp who="#angenes">
@@ -560,7 +560,7 @@
           <speaker>Lehn :</speaker>
           <p>Am Mondaa hett'r Kopfweh ghett vum Sundaa vun sinere Bardessüplaisir, am Diensdaa hett'r d'r Mondaa 
           <pb n="10" />gsuecht, am Mittwuch hett'r e Röüjes g'hett, dass d'r ander Daa Dunnersdaa isch, am
-          Dunnersdaa hett'r Hieser- plän im Kopf g'hett, am Frudaa isch'r spaziere geritte un do hett-em e Schnok
+          Dunnersdaa hett'r Hieserplän im Kopf g'hett, am Frudaa isch'r spaziere geritte un do hett-em e Schnok
           ins Au getrette un hitt soll's mit Brenkel eraschütte, was-es kann — im Hans ze lieb.</p>
         </sp>
         <sp who="#angenes">
@@ -574,7 +574,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
-          <p>Morje? — Hett'r e Füüs wie siewe Bröüi- knecht.</p>
+          <p>Morje? — Hett'r e Füüs wie siewe Bröüiknecht.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
@@ -587,7 +587,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
-          <p>Ei wass! Un dernoderde — was dätsch an- stelle ?</p>
+          <p>Ei wass! Un dernoderde — was dätsch anstelle ?</p>
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
@@ -619,7 +619,7 @@
           <p>Helaba — do her, ici-par-ici. Ich saa dir jetzt zuem letschte mol, loss mer dini Finger vum Hans
           ewek. Dü hesch mer denne Burscht vum erzgrundsbodde üss 
           <pb n="11" />raddekahl verfuchst, hesch 'ne vun jeher verdidäddelt un vermamekindelt. Dante Angenes
-          gibt mer diss, Dante Angenes gib mer zell. Ja min Hansele, min Zucker- schnüffele, min Berlingohämmele.
+          gibt mer diss, Dante Angenes gib mer zell. Ja min Hansele, min Zuckerschnüffele, min Berlingohämmele.
           Wenn'r als zue mir kumme-n-isch, ich hab 'ne als gepackt denne Lüüsangel am Kribbs un hab-em's
           Sitzleder mit Füstöl gfajolt, dass d'r Staub gezwirwelt isch. Angenes; Jo jo — assez 
           <stage>(lockt der Katze.)</stage></p>
@@ -766,9 +766,9 @@
           <p>A ça voyons !</p>
         </sp>
         <stage type="roleDesc">François, junger schlanker Mann, etwas blass, schwarzbraunes Ringelhaar, Spuren
-        von Backenbart. Kleidung: hellgrauer Cylinderhut, langer Gehrock, Spitzen- manschetten, lange, weisse
-        Halsbinde über die Vater- mörder geschlungen, dunkelgeblumtes Gillet, kurze Hose, weisse Wadenstrümpfe,
-        Schnallenschuhe, dünner Spazier- stock mit weissem Griff (Mitteltüre).</stage>
+        von Backenbart. Kleidung: hellgrauer Cylinderhut, langer Gehrock, Spitzenmanschetten, lange, weisse
+        Halsbinde über die Vatermörder geschlungen, dunkelgeblumtes Gillet, kurze Hose, weisse Wadenstrümpfe,
+        Schnallenschuhe, dünner Spazierstock mit weissem Griff (Mitteltüre).</stage>
         <sp who="#francois">
           <speaker>François:</speaker>
           <p>Bonjour mesdames. Mademoiselle Agnès 
@@ -782,7 +782,7 @@
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
           <p>Immer galant 
-          <stage>(macht eine verunglückte Ver- beugung).</stage></p>
+          <stage>(macht eine verunglückte Verbeugung).</stage></p>
         </sp>
         <sp who="#francois">
           <speaker>François :</speaker>
@@ -829,7 +829,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Awer — for minere Sach ganz sicher ze sin, hawi die renommiert Karteschlaauere vom Gerwer- grawe üss
+          <p>Awer — for minere Sach ganz sicher ze sin, hawi die renommiert Karteschlaauere vom Gerwergrawe üss
           d'r Stadt b'stellt, d'Frau Bartelmoste.</p>
         </sp>
         <sp who="#francois">
@@ -847,7 +847,7 @@
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
           <p>Frevelt Er nit, jeune homme. Ja, üss-em Kaffesatz, wo gekocht muess wäre zwische zwölf un ainse
-          z'Nachts mit drei päbstliche Gulde, awer un- bschröüje. Wenn er kalt isch no kumme siewe Gewürz- näjele
+          z'Nachts mit drei päbstliche Gulde, awer unbschröüje. Wenn er kalt isch no kumme siewe Gewürznäjele
           nyn üewers Kryz gelait, e vierblätterigs Kleeblatt. Derno muess mer noch e wisser Gockel un e schwarzi
           Katz in e Korb mache un no noch ebbs — awer diss saa ich nit. D'r Rest bsorrjt die Frau.</p>
         </sp>
@@ -866,7 +866,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Ganz erecht. s'Herz mwess-em heiss ge- macht wäre. Silence, er kummt.</p>
+          <p>Ganz erecht. s'Herz mwess-em heiss gemacht wäre. Silence, er kummt.</p>
         </sp>
         <pb n="15" />
         <sp who="#hans">
@@ -964,11 +964,11 @@
         <sp who="#hans">
           <speaker>Hans:</speaker>
           <stage>(ärgerlich):</stage>
-          <p>D'r Daifel, ich glaab dü bisch drei- viertels mabül ?</p>
+          <p>D'r Daifel, ich glaab dü bisch dreiviertels mabül ?</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Ich kann nix meh höre, alli mini Jügend- bilder wäre wachber. O Gott, im e geweihte Wasser, hett'r
+          <p>Ich kann nix meh höre, alli mini Jügendbilder wäre wachber. O Gott, im e geweihte Wasser, hett'r
           gsaat 
           <stage>(ab nach rechts).</stage></p>
         </sp>
@@ -1005,10 +1005,10 @@
           <stage>(fühlt François' Schläfe).</stage> O, dohinne gschbiert mers Grundyss gehn. Ich glaab, ich will
           d'r 
           <pb n="17" />Babbe Gerôme zuem Ooderschlaaue breweniere 
-          <stage>(geht ab- seits und betrachtet François).</stage> Hör, dü kummsch mer vor wie mini Dante Angenes.
+          <stage>(geht abseits und betrachtet François).</stage> Hör, dü kummsch mer vor wie mini Dante Angenes.
           — Wie mir als noch d'Gäns nocch-em Milichtüechel gschnabbt han, hett sie mer als e Gschichtel verzählt,
-          dass-es e Stadt gitt, wo üs lütter Pastetekruscht geböüje wär. d'Kirich isch üss Malzbab- beljodde un
-          Schokela, d'Strosse sin mit viereckete Zucker- stückle gepfläschtert, an alle Ecke laufe
+          dass-es e Stadt gitt, wo üs lütter Pastetekruscht geböüje wär. d'Kirich isch üss Malzbabbeljodde un
+          Schokela, d'Strosse sin mit viereckete Zuckerstückle gepfläschtert, an alle Ecke laufe
           Limonadfontaine un um d'Stadt erum wär e Syropbach, so breit wie d'r Rhin. Siehsch, so babbelsch
           dü.</p>
         </sp>
@@ -1182,7 +1182,7 @@
         </sp>
         <sp who="#francois">
           <speaker>François :</speaker>
-          <p>Oui — e bissel — awer die Idee isch gran- diose.</p>
+          <p>Oui — e bissel — awer die Idee isch grandiose.</p>
         </sp>
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
@@ -1253,7 +1253,7 @@
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
           <p>Er hett miner Wyn schlecht gemacht in minere Wirtsstubb, bie mine Gäst. Was saat Si do d'rzue,
-          Jumpfer Lehn ? — Er b'haupt miner Wyn wachst an de Danne- baam un diss muess'r-mer vor'm juge de paix
+          Jumpfer Lehn ? — Er b'haupt miner Wyn wachst an de Dannebaam un diss muess'r-mer vor'm juge de paix
           bewiese.</p>
         </sp>
         <sp who="#hans">
@@ -1418,7 +1418,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Wie d''Kart, ich denk doch üss-em Kaffe- satz will Si prophezeihje ob d'r Hans verliebt isch in die
+          <p>Wie d''Kart, ich denk doch üss-em Kaffesatz will Si prophezeihje ob d'r Hans verliebt isch in die
           blund Person, in die üss d'r Stadt ?</p>
         </sp>
         <sp who="#frau_bartelmost">
@@ -1435,7 +1435,7 @@
         <sp who="#frau_bartelmost">
           <speaker>Frau Bartelmost :</speaker>
           <p>Lüejt Si geje d'Tür, so 
-          <stage>(stiehl Eier aus dem Korb).</stage> Also, d'r Hans, wie ich üss-me Schübbe- büür sieh, isch e
+          <stage>(stiehl Eier aus dem Korb).</stage> Also, d'r Hans, wie ich üss-me Schübbebüür sieh, isch e
           Mann vun Charakter, er hett viel Yse im Bluet, viel Magnet. Er hirot schnell odder au nit. Die wo'r
           gern hett, isch aani üss d'r Stadt.</p>
         </sp>
@@ -1476,7 +1476,7 @@
         <pb n="24" />
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Deck was bludd isch. Grad will ich-ere buech- stawiere wo der Bärtel de Most holt.</p>
+          <p>Deck was bludd isch. Grad will ich-ere buechstawiere wo der Bärtel de Most holt.</p>
         </sp>
         <sp who="#frau_bartelmost">
           <speaker>Frau Bartelmost:</speaker>
@@ -1489,7 +1489,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Liewi Lehn, ich bitt um Gnad un Barm- herzigkeit,</p>
+          <p>Liewi Lehn, ich bitt um Gnad un Barmherzigkeit,</p>
         </sp>
         <sp who="#frau_bartelmost">
           <speaker>Frau Bartelmost:</speaker>
@@ -1535,12 +1535,12 @@
           <p>Was isch denn gschehne ?</p>
         </sp>
         <stage>Geröme, hoher fünfziger, jedoch rüstig, weisses Haar, Kinnbackenbart, Wesen leutselig und
-        gesprächig. Klei- dung : Cylinder, Vatermörder, weisse Binde. weisses Gil- let, schwarzer, langer
+        gesprächig. Kleidung : Cylinder, Vatermörder, weisse Binde. weisses Gillet, schwarzer, langer
         Gehrock. (Mitteltüre.)</stage>
         <sp who="#gerome">
           <speaker>Geröme :</speaker>
           <p>Bonjour mesdames, bonjour, Wie geht's wie steht's ebbs nit en ordre ? 
-          <stage>(sucht Stock und Hut; abzu- legen).</stage></p>
+          <stage>(sucht Stock und Hut; abzulegen).</stage></p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
@@ -1652,7 +1652,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
-          <p>Küm isch der guet Führy ghiroth gsin, isch- em d'r Babbe gstorwe.</p>
+          <p>Küm isch der guet Führy ghiroth gsin, isch-em d'r Babbe gstorwe.</p>
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
@@ -1747,8 +1747,8 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Zell will ich maane — durch e fermi Frau. 
-          <pb n="28" />- 28 —</p>
+          <p>Zell will ich maane — durch e fermi Frau.</p>
+          <pb n="28" />
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
@@ -1765,13 +1765,13 @@
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
           <p>Mon Dieu, was e Kryz, was e Kryz 
-          <stage>(Mittel- türe</stage> ab).</p>
+          <stage>(Mitteltüre</stage> ab).</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
           <p>Horch Er, Babbe Gerôme. Sieht Er, d'r Hans muess e Frau hann, aani wo'ne hebbt, aani wo'ne uffricht,
           diss muess er hann, do bisst ken Müss e Fädel eweck. Untersuech Er-em s'Herz, un no saat Er-em, Er hätt
-          ebbs g'hört drinne, wo so nooch ebbs schlaat, so nooch Ver- liebtheit, versteht Er. No hör Er emol
+          ebbs g'hört drinne, wo so nooch ebbs schlaat, so nooch Verliebtheit, versteht Er. No hör Er emol
           was'r saat d'rzue. Sott'rs nit sin, so kann Er's-em jo uffbabble. D'r Hans isch e Förchtebutz, der
           glaabt Alles.</p>
         </sp>
@@ -1870,7 +1870,7 @@
           fliehjt un denne Bluemesaft süüt, do kreij ich e Röujes. Werum derf jetzt die Dreckmuck so vergniejt
           sin un ich nit. Wenn ich e Frosch betracht, wie'r im Gras erumhüpst, aine anblinzelt mit sine
           fychtlächte Glotterle un hör 'ne so mit-ere innerliche Gruenz quaxe: ,,babscht, babscht !" — no denk
-          ich als, Herrgott, was hett's der Mucke- schnapper so guet. Odder e so e elendi Schnok, wo nix macht
+          ich als, Herrgott, was hett's der Muckeschnapper so guet. Odder e so e elendi Schnok, wo nix macht
           als ‚,züü, züü'' un Menschenbluet süfft ! — diss isch zuem Hirnwüeti wäre.</p>
         </sp>
         <sp who="#gerome">
@@ -2059,7 +2059,7 @@
         <sp who="#gerome">
           <speaker>Gerôme:</speaker>
           <stage>(nickt freundlich)</stage>
-          <p>Jetzt glaabt'rs ball sel- wer 
+          <p>Jetzt glaabt'rs ball selwer 
           <stage>(will ab)</stage>. 
           <stage>(Die Kuh brüllt.)</stage></p>
         </sp>
@@ -2094,7 +2094,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Bon wenn'r jetzt emol verliebt isch, no hab ich- e me fermi Frau.</p>
+          <p>Bon wenn'r jetzt emol verliebt isch, no hab ich-e me fermi Frau.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
@@ -2104,7 +2104,7 @@
           <speaker>Lehn:</speaker>
           <p>Was d'Sybille ? — was isch denn do gross ze verrisse mit dinere Sybille, mit ihrem Zeihlade wo se
           hett unter d'r Erbselaub ? Potzdöüsig und ken End, so viel hett d'r Hans ellaan in Zipfelskabbe un
-          chmise-de-couche- dwa, als es im ganze Kroom hett. 
+          chmise-de-couche-dwa, als es im ganze Kroom hett. 
           <stage>(Streiten sich mit drohenden Fingern.)</stage></p>
         </sp>
         <sp who="#angenes">
@@ -2119,8 +2119,8 @@
       <pb n="33" />
       <div type="act">
         <head>II. Aufzug.</head>
-        <stage>Besseres Zimmer im alten soliden Stil gehalten. Mit- teltüre rechts Seitentüre, ein Fenster, links
-        zwei Seiten- türen, an der Rückwand ein Geschirrschrank, auf dem- selben einige ausgestopfte Vögel, links
+        <stage>Besseres Zimmer im alten soliden Stil gehalten. Mitteltüre rechts Seitentüre, ein Fenster, links
+        zwei Seitentüren, an der Rückwand ein Geschirrschrank, auf demselben einige ausgestopfte Vögel, links
         ein Kleiderhaken, ein hoher Lehnstuhl, davor ein Spinrad, rechts an der Seitenwand ein französisches
         Kamin, darüber ein Spiegel, daneben ein Ledersopha, rechts davon ein Bücherregal. In der Mitte der Stube,
         etwas gegen rechts, ein grosser Tisch mit Teppich, hohe Lehnstühle, an den Wänden alte
@@ -2140,7 +2140,7 @@
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
           <stage>(eilig)</stage>
-          <p>Endlich ! — Hesch mer's guet üssge- richt ? Kummt's Bäsele ?</p>
+          <p>Endlich ! — Hesch mer's guet üssgericht ? Kummt's Bäsele ?</p>
         </sp>
         <sp who="#casper">
           <speaker>Casper :</speaker>
@@ -2486,7 +2486,7 @@
           fitzigi Wiebslitt kann'r nit verbutze, drum uffgebasst vor d'r Hand. Diss haisst, e wunderfitzigi Frau
           isch kaane Wäj zu verachte, denn sie bringt Saches an d'r Daa, wo d'r Mann nit traamt, verstehsch, nit
           traamt. Du reste, wenn's emol so witt isch, wursch-em schon d'Hoor üss de n'Aue strähle un mini Person
-          hesch uff dinere Sitt, ça suf- fit. So, kumm jetzt mir mer, ich gieb d'r noch instruction de famille un
+          hesch uff dinere Sitt, ça suffit. So, kumm jetzt mir mer, ich gieb d'r noch instruction de famille un
           was d'r sapeur anbelangt, mit dem wur ich schun ferdi. 
           <stage>(Ursch trocknet ihre Augen. Lehn nimmt die Tasse. Beide linke hintere Seitentüre
           ab.)</stage></p>
@@ -2499,7 +2499,7 @@
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
           <p>Was hett'r denn üssgericht, d'r Casper ? Kumm, Herz, gieb diss Dings, kumm 
-          <stage>(ist sehr um sie be- schäftigt).</stage> Mon Dieu, wie nett dü hitt bisch.</p>
+          <stage>(ist sehr um sie beschäftigt).</stage> Mon Dieu, wie nett dü hitt bisch.</p>
         </sp>
         <sp who="#sybille">
           <speaker>Sybille :</speaker>
@@ -2530,8 +2530,8 @@
           <p>Oui, diss müess mer saaue, e poème. — Vun jeher isch's miner Herzenswunsch gewese - wenn ihr Zwaj —
           wenn ich's erlewe dät. —</p>
         </sp>
-        <stage type="roleDesc">Bärwel, junges, strammes Bauernmädchen, Schlupf- kappe auf, mit einem grossen
-        Feldblumenstrauss (Mittel- türe).</stage>
+        <stage type="roleDesc">Bärwel, junges, strammes Bauernmädchen, Schlupfkappe auf, mit einem grossen
+        Feldblumenstrauss (Mitteltüre).</stage>
         <sp who="#barwel">
           <speaker>Bärwel:</speaker>
           <p>E schöner Büjür vun d'r Mieadder. Büjür Baas Angenes, bisch ö do Sybille, wie geht's d'r denn ? Hu,
@@ -2555,7 +2555,7 @@
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
           <p>Bärwel, e Moment, ich hab mit d'r Mamsell Sybille noch ebbs ze redde. Chérie, kumm, mer wölle do nyn
-          gehn. Jüstinel, ein lebhaftes, fürwitziges Ding, spricht über- sprudelnd schnell, sommerlich gekleidet,
+          gehn. Jüstinel, ein lebhaftes, fürwitziges Ding, spricht übersprudelnd schnell, sommerlich gekleidet,
           Schäferhut auf, Sonnenschirm, hat einen Blumenstrauss in der Hand, kommt Mitteltüre hereingestürmt.</p>
         </sp>
         <sp who="#justinel">
@@ -2679,7 +2679,7 @@
         <sp who="#justinel">
           <speaker>Jüstinel:</speaker>
           <p>Liewer Vetter, bonjour, bonjour, viel Glück, Gsundheit, e langs Lewe, un do isch e Strüss mit
-          Spitze- wäderi, Spitzewäderi 
+          Spitzewäderi, Spitzewäderi 
           <stage>(küsst ihn).</stage></p>
         </sp>
         <sp who="#barwel">
@@ -2718,7 +2718,7 @@
         </sp>
         <sp who="#sybille">
           <speaker>Sybille:</speaker>
-          <p>Wüensch sin frommi Kinder, wo d'Seel uff- heitere un nur s'Beschte bringe, was s'Menscheherz erfraie
+          <p>Wüensch sin frommi Kinder, wo d'Seel uffheitere un nur s'Beschte bringe, was s'Menscheherz erfraie
           kann.</p>
         </sp>
         <sp who="#hans">
@@ -2737,7 +2737,7 @@
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
           <stage>(abseits)</stage>
-          <p>Jesses, d'r Gendarm kummt, cou- rage, courage.</p>
+          <p>Jesses, d'r Gendarm kummt, courage, courage.</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
@@ -2758,7 +2758,7 @@
         </sp>
         <sp who="#barwel">
           <speaker>Bärwel:</speaker>
-          <p>Ei, mer wölle im Höns d'r Namesdöö an- wüensche — un lüschtra, was'r for äni hirute sell.</p>
+          <p>Ei, mer wölle im Höns d'r Namesdöö anwüensche — un lüschtra, was'r for äni hirute sell.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
@@ -2916,7 +2916,7 @@
         <sp who="#hans">
           <speaker>Hans :</speaker>
           <stage>(vergnügt die Hände reibend)</stage>
-          <p>Bimbam, d'Katz isch krank. Dante, dü bisch ussgschbitzter als e Korn- schuefel.</p>
+          <p>Bimbam, d'Katz isch krank. Dante, dü bisch ussgschbitzter als e Kornschuefel.</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
@@ -2941,7 +2941,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
-          <p>Ja, awer verschreck mer nit, um's Himmels- Wille nit.</p>
+          <p>Ja, awer verschreck mer nit, um's Himmelswille nit.</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
@@ -2960,7 +2960,7 @@
         </sp>
         <stage type="roleDesc">Nessnass, ehrwürdiger Greis, frisches Aussehen, spärlich weisses Haar, Backenbart.
         Kleidung: hoher grauer Cylinder, Vatermörder, weisse Binde, geblumtes Gillet, Gehrock.</stage>
-        <stage>Sophie, dessen Frau, Greisin, etwas gebeugt, sehr alt- modisch gekleidet, grosser
+        <stage>Sophie, dessen Frau, Greisin, etwas gebeugt, sehr altmodisch gekleidet, grosser
         Sonnenschirm.</stage>
         <stage>(Mitteltüre — Beide gehen zu Hans.)</stage>
         <sp who="#nessnass">
@@ -2997,7 +2997,7 @@
         <sp who="#nessnass">
           <speaker>Nessnass :</speaker>
           <p>Kumm, Frau, er spinnt widder, mer gehn in de Garte. 
-          <stage>(Beide gehen wieder langsam ab, bleiben unter- wegs mehrmals stehen, schauen verwundert nach
+          <stage>(Beide gehen wieder langsam ab, bleiben unterwegs mehrmals stehen, schauen verwundert nach
           Hans und schütteln verständnislos den Kopf).</stage></p>
           <stage>(Die Mädchen kommen von links, jede mit einem Servierteller, Leckerbissen darauf, bilden um ihn
           eine Gruppe.)</stage>
@@ -3008,7 +3008,7 @@
         </sp>
         <sp who="#sybille">
           <speaker>Sybille :</speaker>
-          <p>Mössjö Jean, e Stüeckel Mandeltard, e Buiss- gewittel, e langue de chat ?</p>
+          <p>Mössjö Jean, e Stüeckel Mandeltard, e Buissgewittel, e langue de chat ?</p>
         </sp>
         <sp who="#amelie">
           <speaker>Amelie:</speaker>
@@ -3073,7 +3073,7 @@
           <speaker>Hans:</speaker>
           <stage>(glücklich aufatmend)</stage>
           <p>Urschel ! 
-          <stage>(reicht ver- langend darnach)</stage> Gsundheit, uff aane Schluck, soll ich ? 
+          <stage>(reicht verlangend darnach)</stage> Gsundheit, uff aane Schluck, soll ich ? 
           <stage>(steht auf den Sessel.)</stage></p>
         </sp>
         <sp who="#urschel">
@@ -3103,7 +3103,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans:</speaker>
-          <stage>(wirft überlustig den Becher im Bogen rück- wärts)</stage>
+          <stage>(wirft überlustig den Becher im Bogen rückwärts)</stage>
           <p>Furt mit denne Grille, lusti wölle mer sin un uns fraie wie Kinder 
           <stage>(steigt herab).</stage> Kumme her, ihr Maidle 
           <stage>(singt)</stage> Raje, raje Rosekranz. 
@@ -3120,8 +3120,8 @@
           </lg>
         </sp>
         <pb n="48" />
-        <stage>Stauffert, hünenhafte Gestalt, wettergebräuntes Ge- sicht, strammer Knebelbart, grosse Ohrringe.
-        Kleidung : weite Sammthose, Jacket, breites, rotes Leibband umge- wickelt, breitkrämpiger, grosser
+        <stage>Stauffert, hünenhafte Gestalt, wettergebräuntes Gesicht, strammer Knebelbart, grosse Ohrringe.
+        Kleidung : weite Sammthose, Jacket, breites, rotes Leibband umgewickelt, breitkrämpiger, grosser
         Filzhut.</stage>
         <sp who="#stauffert">
           <speaker>Stauffert :</speaker>
@@ -3338,7 +3338,7 @@
         </sp>
         <sp who="#justinel">
           <speaker>Jüstinel:</speaker>
-          <stage>(nimmt zaghaft den Deckel ab — die Ande- ren schauen vorwärtsgebeugt auf die Schüssel)</stage>
+          <stage>(nimmt zaghaft den Deckel ab — die Anderen schauen vorwärtsgebeugt auf die Schüssel)</stage>
           <p>Jesses !</p>
         </sp>
         <sp who="#sybille">
@@ -3387,7 +3387,7 @@
         <sp who="#sybille">
           <speaker>Sybille :</speaker>
           <p>Do, ici — laufe ! 
-          <stage>(Alle laufen durcheinander, fallen in der Hast über- einander, werfen Stühle um.)</stage></p>
+          <stage>(Alle laufen durcheinander, fallen in der Hast übereinander, werfen Stühle um.)</stage></p>
         </sp>
         <sp who="#amelie">
           <speaker>Amelie :</speaker>
@@ -3411,7 +3411,7 @@
         <sp who="#hans">
           <speaker>Hans :</speaker>
           <stage>(Mitteltüre)</stage>
-          <p>— betrachtet ernst mit veschränk- ten Armen die Situation) Wie's do üssieht ?</p>
+          <p>— betrachtet ernst mit veschränkten Armen die Situation) Wie's do üssieht ?</p>
         </sp>
         <sp who="#amelie">
           <speaker>Amelie :</speaker>
@@ -3441,7 +3441,7 @@
           <speaker>Hans:</speaker>
           <stage>(geht zum Tisch, schaut in die Schüssel, dann auf jedes Mädchen)</stage>
           <p>Hab mer's gedenkt. Wer vun euch hett d'r Deckel gelüepft ? 
-          <stage>(Pause, während welcher die Mäd- chen sich verduzt anschauen)</stage> Ken Antwort, isch au e
+          <stage>(Pause, während welcher die Mädchen sich verduzt anschauen)</stage> Ken Antwort, isch au e
           Antwort.</p>
         </sp>
         <pb n="52" />
@@ -3462,7 +3462,7 @@
         <sp who="#barwel">
           <speaker>Bärwel:</speaker>
           <p>Jo, mach Plän 
-          <stage>(stellt die Stühle etc. in Ord- nung).</stage></p>
+          <stage>(stellt die Stühle etc. in Ordnung).</stage></p>
         </sp>
         <sp who="#justinel">
           <speaker>Jüstinel:</speaker>
@@ -3475,7 +3475,7 @@
         </sp>
         <sp who="#sybille">
           <speaker>Sybille:</speaker>
-          <p>Mössjö Jean, ich bin gewiss miner Seel, un- schuldi.</p>
+          <p>Mössjö Jean, ich bin gewiss miner Seel, unschuldi.</p>
         </sp>
         <sp who="#amelie">
           <speaker>Amelie :</speaker>
@@ -3651,7 +3651,7 @@
           <speaker>Hans :</speaker>
           <p>d'Nachtigalle schlaaue un jübiliere, s'Herz geht mer uff wie e Sunnebluem un ich lüej Ihm ! — Ihm in
           die blöüje, herzige Gickele. Es blitzt un leucht drinne wie wenn d'Sunn ihri letschte Silwersträhne in
-          e dunkle See werft, in denne See, wo ich all' min Glück, min Leid ver- tränke möcht. — E süsses Liedel
+          e dunkle See werft, in denne See, wo ich all' min Glück, min Leid vertränke möcht. — E süsses Liedel
           rieselt mer in d'Seel, es packt mich ebbs im Herze drinne, es risst un stosst, es schüett sich e
           gähhaisi Flamm üewer mich — ich waiss nim wo ich bin, was ich dueh un denk.</p>
         </sp>
@@ -3664,11 +3664,11 @@
           <stage>(schaut suchend umher.)</stage> Urschel !? O, ich unglücklicher Hans! 
           <stage>(kniet mit Verehrung vor beiden Rosenstöcken.)</stage> Un wenn mer nix meh üewri bliet von minere
           ganze Lieb, so will ich euch zwaj Rosestöckle min Glück min Leid anverdröüje. Ich hab's gern,
-          s'Urschel, gern — gern zuem fresse un zuem sterwe — denne Dick- kopf. — Saaue-n-em doch ihr Rose, ihr
+          s'Urschel, gern — gern zuem fresse un zuem sterwe — denne Dickkopf. — Saaue-n-em doch ihr Rose, ihr
           Dorne, wie gern ich's hab, saaue's de Imme wo zue euch kumme, dass sie im Urschel mini Lieb in's Ohr,
           in's Herz steche. — Batt diss nix, no will ich nim lewe. Euch zwaj Rosestöckle will ich an min heiss
           Herz drucke, ihr solle min Grab uff Sanct-Galle ziere, wenn ich emol kalt un stiff sott sin 
-          <stage>(nimmt beide Rosenstöcke auf und beriecht diese lieb- kosend).</stage> O, Urschel !</p>
+          <stage>(nimmt beide Rosenstöcke auf und beriecht diese liebkosend).</stage> O, Urschel !</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel:</speaker>
@@ -3726,7 +3726,7 @@
         </sp>
         <sp who="#urschel">
           <speaker>Urschel :</speaker>
-          <p>Saasch au nim, dass min Vadder e Wiedder- daifer isch, dü Nixnutz, dü Kopfele, hä !?</p>
+          <p>Saasch au nim, dass min Vadder e Wiedderdaifer isch, dü Nixnutz, dü Kopfele, hä !?</p>
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
@@ -3774,7 +3774,7 @@
         </sp>
         <sp who="#casper">
           <speaker>Casper :</speaker>
-          <stage>(zur Mitteltür herein, in aller Hast, sprach- los den Mund offen, deutet nach aussen).</stage>
+          <stage>(zur Mitteltür herein, in aller Hast, sprachlos den Mund offen, deutet nach aussen).</stage>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
@@ -3833,10 +3833,10 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Wass ! — diss isch jo e Mondkalb, so e Horn- vieh. 
-          <stage>(verzweifelt)</stage> So e Schand, so e Schand. Adie Expo- sition. Die Kueh hett mich im ganze
+          <p>Wass ! — diss isch jo e Mondkalb, so e Hornvieh. 
+          <stage>(verzweifelt)</stage> So e Schand, so e Schand. Adie Exposition. Die Kueh hett mich im ganze
           Elsass blamiert, ach ! eso e Schand. Wenn's numme ken Küeh gäbt, 
-          <stage>(völlig nie- dergeschlagen)</stage> Alles hett sich geje mich verschwore, was bin ich e
+          <stage>(völlig niedergeschlagen)</stage> Alles hett sich geje mich verschwore, was bin ich e
           gschlaauener Mensch 
           <stage>(bleibt nachsinnend stehen).</stage> So e Schand — so e — 
           <stage>(blickt verzweifelt um sich, sieht Urschel)</stage> Urschel ! — Urschel ! 
@@ -3900,7 +3900,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
-          <p>Casper! — Angenes, Urschel, firschi, ge- dummelt.</p>
+          <p>Casper! — Angenes, Urschel, firschi, gedummelt.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
@@ -3938,8 +3938,8 @@
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
           <p>Un mir druckt diss Hüss noch s'Herz ab 
-          <stage>(be- trachtet es mit Grimm)</stage> — do steht's — ach — wenn ich's betracht lauft mer d'Gall
-          üewer. So s'Geld schallbärewies zu verbambeschiere bie denne vertrakte Zitte, Aeker ver- kaufe -un
+          <stage>(betrachtet es mit Grimm)</stage> — do steht's — ach — wenn ich's betracht lauft mer d'Gall
+          üewer. So s'Geld schallbärewies zu verbambeschiere bie denne vertrakte Zitte, Aeker verkaufe -un
           verböüje.</p>
         </sp>
         <sp who="#urschel">
@@ -3948,7 +3948,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Dü — dü danz'sch grad nooch sinnere Lüne- pfiff, wenn ich sini Frau wär — Fahnebibbel un's Wetter,
+          <p>Dü — dü danz'sch grad nooch sinnere Lünepfiff, wenn ich sini Frau wär — Fahnebibbel un's Wetter,
           biem zwajte Wort muesst'r mer sechsfach zammeschnabbe wie e Zollstock !</p>
         </sp>
         <sp who="#urschel">
@@ -4022,17 +4022,17 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Entweder sin se in d'r Kirich odder im Wurts- hüss.</p>
+          <p>Entweder sin se in d'r Kirich odder im Wurtshüss.</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel:</speaker>
-          <p>Amend sin se biem Babbe ynkehrt, odder gar zue's Hasefratze e Visit mache. Die hann jo au Kind- daif
+          <p>Amend sin se biem Babbe ynkehrt, odder gar zue's Hasefratze e Visit mache. Die hann jo au Kinddaif
           hitt, d'Sybille, do wo's Bärwel Sajamm isch.</p>
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
           <p>A — so — mhm ! Herrgott, diss gitt e Lewe hitt Jumpfer Madeleine. Goldigi Hochzitt, Kinddaif, do
-          geht e gebrotener Ochs druff. He, Casper, wenn d'Kind- daif siehsch kumme vun wittem, winksch. Ich hab
+          geht e gebrotener Ochs druff. He, Casper, wenn d'Kinddaif siehsch kumme vun wittem, winksch. Ich hab
           alli Säck mit Zuckerköjele gschbikt, dass Kneckes ebbs ze händle hann.</p>
         </sp>
         <sp who="#casper">
@@ -4096,7 +4096,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>C'est-ça d'r Murwaddel, diss isch min Lieb- lingslied. Müsikante, setze euch do here.</p>
+          <p>C'est-ça d'r Murwaddel, diss isch min Lieblingslied. Müsikante, setze euch do here.</p>
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
@@ -4173,7 +4173,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
-          <p>Enfin, ich saa Ihm Mössjö Gerôme, e frap- panterie Aehnlichkeit hett Er noch nit. erlebt.</p>
+          <p>Enfin, ich saa Ihm Mössjö Gerôme, e frappanterie Aehnlichkeit hett Er noch nit. erlebt.</p>
         </sp>
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
@@ -4231,7 +4231,7 @@
           <speaker>Gerôme :</speaker>
           <p>Ich hab dir gsaat, wenn de dich nit in's Bett laijsch un dich nit ynmummelsch biz üewer d'Nas un nit
           zwaj Stunde so ohne ze müxe bliesch, no hesch de minsex d'r letzt Kalender an d'Wand g'henk. Un üss
-          lütter Todes- ängste hesch de gschwizt.</p>
+          lütter Todesängste hesch de gschwizt.</p>
         </sp>
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
@@ -4273,7 +4273,7 @@
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
-          <p>Ja, un ich saa, e mancher Dieb isch gschei- der als d'r gschtüdiertscht Mediziner, ich b'haupt' s
+          <p>Ja, un ich saa, e mancher Dieb isch gscheider als d'r gschtüdiertscht Mediziner, ich b'haupt' s
           stracks, ja.</p>
         </sp>
         <sp who="#lojel">
@@ -4287,7 +4287,7 @@
         </sp>
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
-          <p>Do hesch de Naauel uff d'r tête getroffe, Herr- gott, bisse do aane d'Schnoke 
+          <p>Do hesch de Naauel uff d'r tête getroffe, Herrgott, bisse do aane d'Schnoke 
           <stage>(klappst auf die Hand).</stage></p>
         </sp>
         <sp who="#casper">
@@ -4319,8 +4319,8 @@
           <p>Müsik ! — d'r Murwaddel — un, deux, trois! 
           <stage>(Musik setzt ein, der Zug kommt über die Brücke. Vornher die Hebamme mit dem Kind, nebenher Hans
           mit 
-          <pb n="65" />verdriesslicher Miene, dann Nessnass, -dessen Frau, Stauf- fert, Jüstinel, Amelie, deren
-          Cavalier — alle mit Blumen geziert, winken und jauchzen. Eine Anzahl Kinder um- jubelt den Zug und
+          <pb n="65" />verdriesslicher Miene, dann Nessnass, -dessen Frau, Stauffert, Jüstinel, Amelie, deren
+          Cavalier — alle mit Blumen geziert, winken und jauchzen. Eine Anzahl Kinder umjubelt den Zug und
           rufen: „Bohnepfedder”, „Bohne göddel”. — Die Mädchen werfen unter die Kinder eh bohnen ; der Zug hält
           vor der Veranda, Hans tritt abseits mit einem bösen Blick auf die Musik, dieselbe bricht
           ab.)</stage></p>
@@ -4377,7 +4377,7 @@
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
           <p>Kinder, genn Acht — s'kumme Kisselstaan 
-          <stage>(wirft Zuckerbohnen aus).</stage> So, als druff, uff d'Köpf, ver- haue euch, da, als druff, haha!
+          <stage>(wirft Zuckerbohnen aus).</stage> So, als druff, uff d'Köpf, verhaue euch, da, als druff, haha!
           
           <stage>(Die Männer gratulieren Hans, die Frauen bilden eine Gruppe um Urschel, jede nimmt das Kind auf
           den Arm.)</stage></p>
@@ -4609,11 +4609,11 @@
           </lg>
           <p>Hans, geh doch au nyn. Lüej doch nit sa betrübt. Hans! 
           <stage>(küsst ihn.)</stage> Horch, s'isch e Brief kumme vun dim ami François üss Amerika 
-          <stage>(zieht denselben aus dem Brust- tuch hervor).</stage></p>
+          <stage>(zieht denselben aus dem Brusttuch hervor).</stage></p>
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>E Brief vum — gieb here, zaj. Er sitzt in Ame- rika un ich — ich gschlaauener Mensch - sitz do. —
+          <p>E Brief vum — gieb here, zaj. Er sitzt in Amerika un ich — ich gschlaauener Mensch - sitz do. —
           Sitter dass'r furt isch, fehlt mer ebbs.</p>
         </sp>
         <sp who="#urschel">
@@ -4681,7 +4681,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Herrgott was isch diss nit. Biz zuem Kinder- hüete hawi's gebrocht — wenn diss der François sehne
+          <p>Herrgott was isch diss nit. Biz zuem Kinderhüete hawi's gebrocht — wenn diss der François sehne
           dät. Casper ! Zaj, Casper, nemm düs d'r wiel un sing-em ebbs wenn's brüehlt (ab).</p>
         </sp>
         <sp who="#casper">
@@ -4735,7 +4735,7 @@
         <pb n="71" />
         <sp who="#urschel">
           <speaker>Urschel :</speaker>
-          <p>Kumm, min Hämmele. Wie diss Kind e ver- schangierti Stimm hett zitt'r dass-es gedaift isch.</p>
+          <p>Kumm, min Hämmele. Wie diss Kind e verschangierti Stimm hett zitt'r dass-es gedaift isch.</p>
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
@@ -4785,7 +4785,7 @@
         </sp>
         <sp who="#angenes">
           <speaker>Angenes :</speaker>
-          <p>Gieb mer jo recht Acht uff's Kind, schaich- em d'Mucke un d'Schnoke 
+          <p>Gieb mer jo recht Acht uff's Kind, schaich-em d'Mucke un d'Schnoke 
           <stage>(ab)</stage>.</p>
         </sp>
         <sp who="#hans">
@@ -5053,8 +5053,8 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Gerôme, jetzt kummt Lewe in's Bluet. D'r Vad- derstolz macht mer s'Herz jübiliere. Ursch, kumm,
-          Gsund- heit.</p>
+          <p>Gerôme, jetzt kummt Lewe in's Bluet. D'r Vadderstolz macht mer s'Herz jübiliere. Ursch, kumm,
+          Gsundheit.</p>
         </sp>
         <sp who="#alle">
           <speaker>(Alle :</speaker>
@@ -5168,7 +5168,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Ich protestier d'rgeje, ich lied's nit, ich prote- stier nochemol.</p>
+          <p>Ich protestier d'rgeje, ich lied's nit, ich protestier nochemol.</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel:</speaker>
@@ -5191,7 +5191,7 @@
         </sp>
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
-          <p>Au möjlich. Mer hett's nit lycht, for Gross- vadder ze wäre.</p>
+          <p>Au möjlich. Mer hett's nit lycht, for Grossvadder ze wäre.</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel:</speaker>
@@ -5223,7 +5223,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
-          <p>Alles isch hin, d'Fraid isch furt, o ich unglück- licher Hans 
+          <p>Alles isch hin, d'Fraid isch furt, o ich unglücklicher Hans 
           <stage>(geht geknickt die Treppe herab und setzt sich an den Tisch).</stage></p>
         </sp>
         <sp who="#urschel">
@@ -5349,7 +5349,7 @@
         <sp who="#lojel">
           <speaker>Löjel:</speaker>
           <p>Vier Ohnmachte uff aan Zuck. Essj ! 
-          <stage>(lacht un- bändig und fällt auf eine Bank zurück.)</stage></p>
+          <stage>(lacht unbändig und fällt auf eine Bank zurück.)</stage></p>
         </sp>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
@@ -5453,7 +5453,7 @@
           <p>Vivat s'Elsass etc.)</p>
           <note place="bottom">E. Stöber</note>
         </sp>
-        <pb n="80" />
+        <pb n="81" />
         <sp who="#casper">
           <speaker>Casper :</speaker>
           <stage>(winkt)</stage>
@@ -5468,8 +5468,8 @@
           <speaker>Gerôme :</speaker>
           <p>Isch denn schun widder e Unglück bassiert ?</p>
         </sp>
-        <stage>(Hasefratz, eilig über die Brücke, das Gesicht zer- schunden, den Cylinder eingetrieben, den Rock
-        zer- rissen.)</stage>
+        <stage>(Hasefratz, eilig über die Brücke, das Gesicht zerschunden, den Cylinder eingetrieben, den Rock
+        zerrissen.)</stage>
         <sp who="#hans">
           <speaker>Hans:</speaker>
           <p>Was isch denn diss for e Vöjel ?</p>
@@ -5518,7 +5518,7 @@
           <p>Bie drej Kinddaife bin ich gsin un hab unsere Bue gsuecht. Bie d'r letschte hawi gsaat, diss isch'r,
           genn mer 'ne rüss, odder ich hol d'Gendarme. Was will Er, unsere Bue!? — Die ganz Kinddaifgsellschaft,
           zwanzig Personen starik, ohne d'r Hund, isch hinter mich her un als druff, rechts, links hett's geräjt
-          mit Fuschte- paschtete, und d'Stäj naagflöüje isch im Handumdräje gschehn gsin.</p>
+          mit Fuschtepaschtete, und d'Stäj naagflöüje isch im Handumdräje gschehn gsin.</p>
         </sp>
         <pb n="82" />
         <sp who="#hans">
@@ -5547,7 +5547,7 @@
         <sp who="#hans">
           <speaker>Hans:</speaker>
           <p>Zefridde!? Wenn ich hundert mol lusti will sin, s'geht nit. Ich kanns nit verschmerze, dass ich doch
-          e Maidel muess hann, wo aunoch Artür haisst, protestan- tisch gedaift isch. O Welt!</p>
+          e Maidel muess hann, wo aunoch Artür haisst, protestantisch gedaift isch. O Welt!</p>
         </sp>
         <sp who="#barwel">
           <speaker>Bärwel:</speaker>
@@ -5570,7 +5570,7 @@
           <p>So isch's, wenn mer Babbe wurd. 
           <note place="bottom">Hartmann.</note></p>
         </sp>
-        <stage>(Hasefratz mit verbundenem Kopf, so dass blos Nasen- spitze und Augen sichtbar sind, Gerôme,
+        <stage>(Hasefratz mit verbundenem Kopf, so dass blos Nasenspitze und Augen sichtbar sind, Gerôme,
         Sybille, Lehn und Angenes, treten auf).</stage>
         <sp who="#gerome">
           <speaker>Gerôme :</speaker>
@@ -5608,7 +5608,7 @@
           <speaker>Gerôme :</speaker>
           <p>Allons, mes enfants, avancez !</p>
         </sp>
-        <stage>(Bärwel legt das Kind abseits, tanzt mit Caspar, Ge- rôme mit Lehn, Löjel mit Angenes, Hans mit
+        <stage>(Bärwel legt das Kind abseits, tanzt mit Caspar, Gerôme mit Lehn, Löjel mit Angenes, Hans mit
         Ursch, Sybille mit Hasenfratz, die Mädchen mit ihren Cavalieren.)</stage>
         <sp who="#sybille">
           <speaker>Sybille:</speaker>
@@ -5651,14 +5651,14 @@
         </sp>
         <stage>(Küfer, kurze Hosen in Blousen, Schürzchen vor, Strohhüte auf, jeder mit einem bunten Fassreif,
         treten grüssend auf und bilden einen Halbkreis).</stage>
-        <pb n="83" />
+        <pb n="84" />
         <sp who="#kufer">
           <speaker>Küfer :</speaker>
           <p>Guete n'Owe, Zunftmaichster ! Gselle vun d'r Zunft hann schun lang mit Fraide uff denne Ehredaa
-          geblangt, for ihrem Zunftmaischter am goldige Hoch- zitisdaa vun Herze gratüliere zu derfe. Im Name von
+          geblangt, for ihrem Zunftmaischter am goldige Hochzitisdaa vun Herze gratüliere zu derfe. Im Name von
           alle Gselle hawi Ihm diss Fässele mit Goldreif ze üwergenn, zuem Zaiche unserer Sympathie un mir hoffe,
           dass Er noch lang gsund bliet un nochemol e Ehredaa erlebt, for diamande Hochzitt fyre ze könne. Ihr
-          Gselle, d'r Zunft- maischter soll lewe, vive !</p>
+          Gselle, d'r Zunftmaischter soll lewe, vive !</p>
         </sp>
         <sp who="#alle">
           <speaker>Alle:</speaker>
@@ -5666,11 +5666,11 @@
         </sp>
         <sp who="#nessnass">
           <speaker>Nessnass:</speaker>
-          <stage>(nachdem er dem Gesellen die Hand ge- drückt)</stage>
+          <stage>(nachdem er dem Gesellen die Hand gedrückt)</stage>
           <p>Ich, ich — dank euch Gselle, es — es hett mer Fraid gemacht, ihr wisse jo 
           <stage>(wischt sich die Tränen)</stage> ihr wisse jo — dass 
           <stage>(ermannt sich)</stage> dass ich numme for unser Handwerik leb, schaff un gstritte hab. Arwait
-          isch Brod, un's Zammehalte in d'r Zunft gitt im Handwerik e n'ehr- licher Stolz, e Stolz, dass-es siner
+          isch Brod, un's Zammehalte in d'r Zunft gitt im Handwerik e n'ehrlicher Stolz, e Stolz, dass-es siner
           Mann ernährt. Halte mer zamme. —</p>
           <lg>
             <l>Solang e Herz im Lib drin schlaat,</l>
@@ -5701,7 +5701,7 @@
           <speaker>Hans:</speaker>
           <p>Wenn's e Bue wär, no dät ich euch miner ganz Keller eruffschleife. Awer so isch's z'erscht e Maidel,
           no e Bue, derno widder e Maidel. Am liebschte möcht ich 
-          <pb n="84" />anne wo d'Welt e n-End hett. s'Hüss isch mer verlaid, mini Frau, Alles.</p>
+          <pb n="85" />anne wo d'Welt e n-End hett. s'Hüss isch mer verlaid, mini Frau, Alles.</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel :</speaker>
@@ -5776,7 +5776,7 @@
           <speaker>Urschel :</speaker>
           <p>Jesus, Hans helf !</p>
         </sp>
-        <pb n="85" />
+        <pb n="86" />
         <sp who="#angenes">
           <speaker>Angenes:</speaker>
           <p>Wie's do hinte krächelt und flammt. Mer sin verlore (ab).</p>
@@ -5812,7 +5812,7 @@
         </sp>
         <sp who="#hans">
           <speaker>Hans:</speaker>
-          <stage>(aus dem Haus, reisefertig, Ledertasche umge- schnallt)</stage>
+          <stage>(aus dem Haus, reisefertig, Ledertasche umgeschnallt)</stage>
           <p>Ich bin e rüinierter Mann — verlore — ich kann's nit sehne — ken Uesswaj — alles in Flamme ! Ich
           kann nit do bliewe — es risst mich fort — s'isch alles tod und leer in mer, es hetzt un rasst e böser
           Geist um mich herum. Furt, furt! 
@@ -5834,7 +5834,7 @@
           <stage>(Hans eilends gegen die Brücke, verbleibt schwankend am Brückengeländer stehen, im Laufe ab nach
           links.)</stage></p>
         </sp>
-        <pb n="86" />
+        <pb n="87" />
         <sp who="#casper">
           <speaker>Casper :</speaker>
           <p>Maischter ! 
@@ -5873,7 +5873,7 @@
         </sp>
         <sp who="#casper">
           <speaker>Casper :</speaker>
-          <p>Ich hab 'ne nit verstande — ebbs vun Ame- rika g'hört.</p>
+          <p>Ich hab 'ne nit verstande — ebbs vun Amerika g'hört.</p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel:</speaker>
@@ -5902,7 +5902,7 @@
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
           <p>Ursch! 
-          <stage>(eilt auf sie zu — die Sturmglocke er- tönt gewaltiger, eine Feuergarbe beleuchtet das Anwesen ;
+          <stage>(eilt auf sie zu — die Sturmglocke ertönt gewaltiger, eine Feuergarbe beleuchtet das Anwesen ;
           laute Rufe ertönen.)</stage></p>
         </sp>
       </div>
@@ -5910,10 +5910,10 @@
       <div type="act">
         <head>IV. Aufzug.</head>
         <stage>Weissgetünchte Dachkammer, links eine Türe, im Hintergrund ein Fenster, welches geöffnet ist, auf
-        dem Fensterbrett Blumentöpfe, man übersieht Dächer, be- leuchtete Fenster, einen klaren Sternenhimmel. —
+        dem Fensterbrett Blumentöpfe, man übersieht Dächer, beleuchtete Fenster, einen klaren Sternenhimmel. —
         In der Ecke der Kammer steht eine einfache Bettstelle, an der Wand ein Kruzifix, in der Mitte ein Tisch,
-        zwei Holz- stühle, in der Ecke rechts ein kleiner Ofen — auf dem Boden liegt eine Rolle Packtuch, fertige
-        Säcke — die Oel- lampe mit grünem Schirm, beleuchtet spärlich die Kammer. Lehn ziemlich ergraut, ärmlich
+        zwei Holzstühle, in der Ecke rechts ein kleiner Ofen — auf dem Boden liegt eine Rolle Packtuch, fertige
+        Säcke — die Oellampe mit grünem Schirm, beleuchtet spärlich die Kammer. Lehn ziemlich ergraut, ärmlich
         gekleidet, trägt eine weisse Nachthaube, Brille auf, sitzt emsig nähend am Tisch. Aus der Ferne erklingt
         Musik in abgerissenen Tönen. Lehn horcht auf, streicht sich über die Stirne.</stage>
         <sp who="#lehn">
@@ -5925,7 +5925,7 @@
         </sp>
         <sp who="#urschel">
           <speaker>Urschel :</speaker>
-          <stage>(städtisch gekleidet, am Arm einen Deckel- korb)</stage>
+          <stage>(städtisch gekleidet, am Arm einen Deckelkorb)</stage>
           <p>Guete n'Owe Dante 
           <stage>(bleibt atmend stehen, die Hand auf die Brust gedrückt).</stage></p>
         </sp>
@@ -5949,7 +5949,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Na, siehsch, jetzt bisch de schun d'Frau Gross- kost. s'Geht alles erum, nur s'schlecht schmelze
+          <p>Na, siehsch, jetzt bisch de schun d'Frau Grosskost. s'Geht alles erum, nur s'schlecht schmelze
           nit. Wo isch dinner Mann ? 
           <stage>(setzt sich.)</stage></p>
         </sp>
@@ -5977,8 +5977,8 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
-          <p>Ich begriff dich nit. Mer hann's doch schrift- lich vun d'r société maritime dass'r mit dem Schiff
-          unter- gange isch. — 
+          <p>Ich begriff dich nit. Mer hann's doch schriftlich vun d'r société maritime dass'r mit dem Schiff
+          untergange isch. — 
           <stage>(Streng)</stage> Ach, ich sieh hitt noch die Flamme zuem Himmel nuffschlaaue, ich hör's krache un
           siede im Gebälik. Hüüs, Stallung, Schyr, alles steht im gählrote Fyr, un Er — Er geht furt, losst uns
           Alli im Stich, losst brenne, was brennt! — D'r Gasper isch-em zellemols uff-em Fuess noochgerast. Furt
@@ -6051,7 +6051,7 @@
         <sp who="#grosskost">
           <speaker>Grosskost:</speaker>
           <stage>(in Gendarmenuniform)</stage>
-          <p>Bonsoir mes- dames 
+          <p>Bonsoir mesdames 
           <stage>(gibt Lehn die Hand.)</stage></p>
         </sp>
         <sp who="#lehn">
@@ -6076,8 +6076,8 @@
         </sp>
         <sp who="#grosskost">
           <speaker>Grosskost:</speaker>
-          <p>Na d'Dante Lehn kummt schun wenn s'Urschel si holt. Ma chère, mer hann nim viel Zitt ze ver- liere,
-          míni permision isch kurz. Eh bien, au revoir, made- moiselle Madeleine, un vielmols merci for Alles,
+          <p>Na d'Dante Lehn kummt schun wenn s'Urschel si holt. Ma chère, mer hann nim viel Zitt ze verliere,
+          míni permision isch kurz. Eh bien, au revoir, mademoiselle Madeleine, un vielmols merci for Alles,
           was Si am Urschel gedohn hett.</p>
         </sp>
         <sp who="#lehn">
@@ -6088,11 +6088,11 @@
         <sp who="#grosskost">
           <speaker>Grosskost:</speaker>
           <p>Adieu, 
-          <stage>(küsst Lehn's Hand, grüsst mili- tärisch und tritt dann devot zurück.)</stage></p>
+          <stage>(küsst Lehn's Hand, grüsst militärisch und tritt dann devot zurück.)</stage></p>
         </sp>
         <sp who="#urschel">
           <speaker>Urschel :</speaker>
-          <stage>(fällt Lehn an die Brust und weint krampf- haft)</stage>
+          <stage>(fällt Lehn an die Brust und weint krampfhaft)</stage>
           <p>Lehn, mini lieb Dante Lehn.</p>
         </sp>
         <sp who="#lehn">
@@ -6201,7 +6201,7 @@
           <speaker>Casper :</speaker>
           <p>Hä ?</p>
         </sp>
-        <pb n="92" />
+        <pb n="93" />
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
           <p>Ich glaab dü wursch taub, odder bisch's schun ?</p>
@@ -6275,7 +6275,7 @@
           <speaker>Lehn:</speaker>
           <p>Hä, Cäsperle, do wurd's d'r anderscht 
           <stage>(legt alles parat und holt das Glas).</stage> s'Isch Malaga, ächter — ich 
-          <pb n="93" />hab awer numme aan Glas 
+          <pb n="94" />hab awer numme aan Glas 
           <stage>(die Musik erklingt — Lehn horcht auf).</stage></p>
         </sp>
         <sp who="#casper">
@@ -6324,7 +6324,7 @@
         </sp>
         <sp who="#casper">
           <speaker>Casper:</speaker>
-          <p>A — mit-em sapeur — Jetzt isch mer vor Schrecke d'Piff üssgange. — Un — un — ä- jetzt kummt's mer
+          <p>A — mit-em sapeur — Jetzt isch mer vor Schrecke d'Piff üssgange. — Un — un — ä — jetzt kummt's mer
           yn, werum, werum —</p>
         </sp>
         <sp who="#lehn">
@@ -6353,7 +6353,7 @@
           <p>Der hett mich hitt uffgsuecht 
           <stage>(trinkt)</stage> Er isch vun Amerika kumme.</p>
         </sp>
-        <pb n="94" />
+        <pb n="95" />
         <sp who="#lehn">
           <speaker>Lehn:</speaker>
           <p>Vun Amerika ?</p>
@@ -6377,7 +6377,7 @@
         </sp>
         <sp who="#casper">
           <speaker>Casper :</speaker>
-          <p>Er hett mit-em geredd. Sie sin mitnand mit- em nämliche Schiff gfahre biz nooch Hâvre.</p>
+          <p>Er hett mit-em geredd. Sie sin mitnand mit-em nämliche Schiff gfahre biz nooch Hâvre.</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
@@ -6406,14 +6406,14 @@
         <sp who="#casper">
           <speaker>Casper :</speaker>
           <stage>(schlägt Feuer um die Pfeife anzuzünden)</stage>
-          <p>Er soll viel durichgemacht hann, e paar mol rich, no wid- det arm — un e ernster, finsterer Mann
+          <p>Er soll viel durichgemacht hann, e paar mol rich, no widdet arm — un e ernster, finsterer Mann
           soll'r sin worre.</p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
           <p>Gott verzeihj mer, was ich gedohn hab. Ich hab jo numme s'Gute gewöllt, s' Glück for d'Ursch. 
-          <stage>(Grosse Pause — die Tür geht auf — im Rahmen er- scheint Hans, einen Bündel angeschnallt,
-          abgezehrt, zer- lumpt, bleibt regungslos stehen.)</stage></p>
+          <stage>(Grosse Pause — die Tür geht auf — im Rahmen erscheint Hans, einen Bündel angeschnallt,
+          abgezehrt, zerlumpt, bleibt regungslos stehen.)</stage></p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
@@ -6436,7 +6436,7 @@
           <stage>(dumpft)</stage>
           <p>Ja, ich bin's.</p>
         </sp>
-        <pb n="96" />
+        <pb n="97" />
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
           <p>Allmächtiger, wie'r üssieht ! ? 
@@ -6506,7 +6506,7 @@
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <stage>(faltet die Hände, den Blick nach oben gerich- tet)</stage>
+          <stage>(faltet die Hände, den Blick nach oben gerichtet)</stage>
           <p>Do sin in d' r Ursch ihri Ahnunge doch wohr gsin, — wo es 'ne gsehne hett vor sich am Altar ?</p>
         </sp>
         <sp who="#hans">
@@ -6516,7 +6516,7 @@
           <stage>(steht auf).</stage> D'r Brand hett mich furtgetriewe in mim unstäte Geist, d'r Brand hett mich
           hergezöüje. s'Fyr hawi in der Brust erumgschleppt un s'Gewisse —</p>
         </sp>
-        <pb n="97" />
+        <pb n="98" />
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
           <p>s'Gewisse ! — s'Elend !</p>
@@ -6528,18 +6528,18 @@
           hol's. — Guet mache, hett's geruefe, guet mache ! 
           <stage>(Erregt)</stage> Geh uff d'Suech, mach e Hetzjagd nooch-em Glück — siehsch 'wie's lacht, geh. —
           Ja — jetzt hesch's, hesch's fest in d'r Hand, hebb's — geh haam, schnell, viellicht isch's ze spot -
-          geh zue Frau un Kind, Misse- rawler, schlich wie e fremder Hund zue 'ne un bettel um Barmherzigkeit 
+          geh zue Frau un Kind, Misserawler, schlich wie e fremder Hund zue 'ne un bettel um Barmherzigkeit 
           <stage>(holt tief Atem).</stage></p>
         </sp>
         <sp who="#lehn">
           <speaker>Lehn :</speaker>
-          <p>Ja, wenn mer s'Glück mit Füesse trett un fre- velt, no kummt's nim.</p>
+          <p>Ja, wenn mer s'Glück mit Füesse trett un frevelt, no kummt's nim.</p>
         </sp>
         <sp who="#hans">
           <speaker>Hans :</speaker>
           <p>Ras schnell uff's nächschte Schiff, dü kannsch's widder guet mache — — ja, uff's nächschte Schiff — 
           <stage>(freudig)</stage> in d'Heimet ! — 
-          <stage>(erregt)</stage> E Sturm risst's Schiff in d'r Ab- grund, d'r Goldschweiss isch eweckgschwemmt,
+          <stage>(erregt)</stage> E Sturm risst's Schiff in d'r Abgrund, d'r Goldschweiss isch eweckgschwemmt,
           mich werft's an's Land, s'Meer will mich nit. 
           <stage>(diabolisch)</stage> Un hinter mir pfifft's, jeehlt's un kichert — hahaha ! — Geh doch dapfer
           frisch uff's Jaaue — raich nochemol d'rnooch, dort isch's horch, wie's lockt un lacht, suech, kumm,
@@ -6566,7 +6566,7 @@
           <stage>(kleine Pause, dann hastig, etwas abgerissen)</stage> Noch ains bitt ich Euch — Dante Lehn — bie
           allem, was Euch hoch un heilig isch — 
           <stage>(erhebt 
-          <pb n="97" />beschwörend seine rechte Hand)</stage> b'schwöres — dass Ihr nie — niemols — kem Mensche e
+          <pb n="99" />beschwörend seine rechte Hand)</stage> b'schwöres — dass Ihr nie — niemols — kem Mensche e
           sterweswort lütte lon — dass Ihr mich g'sehne hann.</p>
         </sp>
         <sp who="#lehn">
