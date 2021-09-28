@@ -25,7 +25,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Johann Georg Daniel Arnold|1816|1914|Der Pfingstmontag|Lustspiel in Straßburger Mundart. Nach der vom Dichter durchgesehenen zweiten Ausgabe des Jahres 1816 herausgegeben von J. Lefftz und E. Marckwald|comedy|[[tei]](./tei/arnold-der-pfingstmontag.xml)|
 |Ferdinand Bastian|1903|1930|D'r Hans im Schnokeloch|Volksspiel in 4 Aufzügen mit Musik, Gesang und Tanz von Ferd. Bastian|comedy|[[tei]](./tei/bastian-dr-hans-im-schnokeloch.xml)|
 |Ferdinand Bastian|1937|1937|D'r Maischter hett gewunne!|Schwank in aam Akt|comedy|[[tei]](./tei/bastian-dr-maischter-hett-gewunne.xml)|
-|Ferdinand Bastian|1937|1937|D’r Hofnarr Heidideldum|Märel in 6 Bilder un 2 Verwandlunge vun Ferd. Bastian. Musik von Aug. Schwoob|tale|[[tei]](./tei/bastian-dr-hofnarr-heidideldum.xml)|
+|Ferdinand Bastian|1937|1937|D’r Hofnarr Heidideldum|Märel in 6 Bilder un 2 Verwandlunge vun Ferd. Bastian. Musik von Aug. Schwoob|tale|[[tei]](./tei/bastian-hofnarr-heidideldum.xml)|
 |Ferdinand Bastian|1937|1937|E Sportschochzitt|E Farce in aam Akt|comedy|[[tei]](./tei/bastian-e-sportschochzitt.xml)|
 |Paul Clemens|1920|1920|A lätzi Visit|Elsässisch Luschtspiel in 1 Akt vun Paul Clemens|comedy|[[tei]](./tei/clemens-a-latzi-visit.xml)|
 |Paul Clemens|1919|1919|Chrischtowe|E Wihnachtsstüeckel in 1 Akt in elsässischem Dialekt füer kleine und grossi Kinder|tale|[[tei]](./tei/clemens-chrischtowe.xml)|
@@ -36,7 +36,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Julius Greber|1897|1897|Sainte-Cécile!|Lustspiel in einem Aufzuge in Straßburger Mundart von Julius Greber|comedy|[[tei]](./tei/greber-sainte-cecile.xml)|
 |Marie Hart|1937|1937|D'r poetisch Oscar|einakter|comedy|[[tei]](./tei/hart-dr-poetisch-oscar.xml)|
 |Adolphe Horsch|1901|1901|D'Madam fahrt Velo|E modern's Lustspiel in 1 Akt|comedy|[[tei]](./tei/horsch-d-madam-fahrt-velo.xml)|
-|Camille Jost|1928|1928|E Daa im Narrehüss|E Original-Farce in zwei kurze  Akt vum Camille Jost|comedy|[[tei]](./tei/jost-e-daa-im-narrehuss.xml)|
+|Camille Jost|1928|1928|E Daa im Narrehüss|E Original-Farce in zwei kurze  Akt vum Camille Jost|comedy|[[tei]](./tei/jost-daa-im-narrehuss.xml)|
 |Camille Jost|1928|1928|So e liederlicher Frack!|odder:E foljieschwäri Hüssuechung. E Schwank in 1 Uffzug|comedy|[[tei]](./tei/jost-so-e-liederlicher-frack.xml)|
 |Charles Frédéric Kettner|1924|1924|Uff Dr Hochzittsreis|Luschtspiel in 1 Akt im els. Dialekt|comedy|[[tei]](./tei/kettner-uff-dr-hochzittsreis.xml)|
 |Fernand Kuehne|1923|1923|Bureaukrate!|Dialektkomödie in einem Akt|comedy|[[tei]](./tei/kuehne-bureaukrate.xml)|
