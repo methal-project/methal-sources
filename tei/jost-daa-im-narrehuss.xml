@@ -8,16 +8,17 @@
         <title type="sub">E Original-Farce in zwei kurze  Akt vum Camille Jost</title>
         <author key="wikidata:Q96489174">Camille Jost</author>
         <respStmt>
+          <resp>OCR and its correction</resp>
           <name>Audrey Deck</name>
-          <resp>OCR and its correction, TEI encoding</resp>
         </respStmt>
         <respStmt>
-          <name>Delphine Bernhard</name>
           <resp>OCR scripting</resp>
+          <name>Delphine Bernhard</name>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz</name>
           <resp>TEI encoding</resp>
+          <name>Audrey Deck</name>
+          <name>Pablo Ruiz</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>

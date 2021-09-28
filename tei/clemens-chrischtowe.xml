@@ -9,16 +9,17 @@
         Kinder</title>
         <author key="wikidata:Q96464291">Paul Clemens</author>
         <respStmt>
-          <name>Audrey Deck</name>
-          <resp>OCR and its correction, TEI encoding</resp>
-        </respStmt>
-        <respStmt>
-          <name>Delphine Bernhard</name>
           <resp>OCR scripting</resp>
+          <name>Delphine Bernhard</name>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz</name>
+          <resp>OCR and its correction</resp>
+          <name>Audrey Deck</name>
+        </respStmt>
+        <respStmt>
           <resp>TEI encoding</resp>
+          <name>Audrey Deck</name>
+          <name>Pablo Ruiz</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>

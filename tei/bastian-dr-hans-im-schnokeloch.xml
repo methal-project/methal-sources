@@ -45,7 +45,8 @@
             <edition>2</edition>
             <publisher>Druck und Verlag: Imprimerie du Nouveau Journal de Strasboug S. à. r. l.</publisher>
             <date when="1930" type="print">1930</date>
-            <date type="written" />
+            <date when="1903" type="written">1903</date>
+            <note>The first edition was published by C. A. Vomhoff (Strasbourg) in 1903.</note>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -20,8 +20,11 @@
                <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q77593548</idno>
             </publicationStmt>
             <sourceDesc>
-                <p>Text of original play (edition by J. Lefftz, 1914) reproduced by Dominique
-                    Huck</p>
+                <bibl type="originalSource">
+                    <note>Text of original play (edition by J. Lefftz, 1914) reproduced by Dominique Huck</note>
+                    <date type="written">1816</date>
+                    <date type="print">1914</date>
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

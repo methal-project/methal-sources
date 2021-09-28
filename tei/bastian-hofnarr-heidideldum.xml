@@ -8,16 +8,17 @@
         <title type="sub">Märel in 6 Bilder un 2 Verwandlunge vun Ferd. Bastian. Musik von Aug. Schwoob</title>
         <author key="wikidata:Q13099282">Ferdinand Bastian</author>
         <respStmt>
+          <resp>OCR and its correction</resp>
           <name>Audrey Deck</name>
-          <resp>OCR and its correction, TEI encoding</resp>
         </respStmt>
         <respStmt>
+          <resp>TEI encoding</resp>
           <name>Delphine Bernhard</name>
-          <resp>TEI encoding</resp>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz</name>
           <resp>TEI encoding</resp>
+          <name>Audrey Deck</name>
+          <name>Pablo Ruiz</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>

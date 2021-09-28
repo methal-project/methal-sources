@@ -8,12 +8,12 @@
         <title type="sub">Elsassiche Komödie in 3 Aufzügen von G. Stoskopf</title>
         <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
         <respStmt>
-          <name>Delphine Bernhard</name>
           <resp>OCR &amp; its correction</resp>
+          <name>Delphine Bernhard</name>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz Fabo</name>
           <resp>TEI encoding</resp>
+          <name>Pablo Ruiz Fabo</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>

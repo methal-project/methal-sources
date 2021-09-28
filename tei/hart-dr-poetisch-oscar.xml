@@ -9,12 +9,12 @@
         Hawenau.</title>
         <author key="wikidata:Q1897363 bnf:12678653">Marie Hart</author>
         <respStmt>
-          <name>Delphine Bernhard</name>
           <resp>OCR &amp; its correction</resp>
+          <name>Delphine Bernhard</name>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz</name>
           <resp>TEI encoding</resp>
+          <name>Pablo Ruiz</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>

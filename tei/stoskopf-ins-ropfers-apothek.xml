@@ -8,16 +8,13 @@
         <title type="sub">Schwank in 3 Aufzügen von G. Stoskopf</title>
         <author key="bnf:11925619 pnd:117304778">Gustave Stoskopf</author>
         <respStmt>
-          <name>Soihira El-Kabir</name>
           <resp>OCR correction</resp>
-        </respStmt>
-        <respStmt>
           <name>Delphine Bernhard</name>
-          <resp>OCR correction</resp>
+          <name>Soihira El-Kabir</name>
         </respStmt>
         <respStmt>
-          <name>Pablo Ruiz Fabo</name>
           <resp>TEI encoding</resp>
+          <name>Pablo Ruiz Fabo</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
