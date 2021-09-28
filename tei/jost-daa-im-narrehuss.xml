@@ -8,16 +8,16 @@
         <title type="sub">E Original-Farce in zwei kurze  Akt vum Camille Jost</title>
         <author key="wikidata:Q96489174">Camille Jost</author>
         <respStmt>
+          <resp>OCR scripting</resp>          
+          <name>Delphine Bernhard</name>
+        </respStmt>
+        <respStmt>
           <resp>OCR and its correction</resp>
           <name>Audrey Deck</name>
         </respStmt>
         <respStmt>
-          <resp>OCR scripting</resp>
-          <name>Delphine Bernhard</name>
-        </respStmt>
-        <respStmt>
-          <resp>TEI encoding</resp>
-          <name>Audrey Deck</name>
+          <resp>TEI encoding</resp>          
+          <name>Audrey Deck</name>          
           <name>Pablo Ruiz</name>
         </respStmt>
       </titleStmt>
@@ -82,20 +82,20 @@
           <person xml:id="e_gauner" sex="MALE">
             <persName>E Gauner</persName>
           </person>
-          <person xml:id="d_stimm_vum_e_papagei" sex="MALE">
+          <person xml:id="d_stimm_vum_e_papagei" sex="UNKNOWN">
             <persName>D’Stimm vum e Papegei</persName>
           </person>
-          <person xml:id="narr" sex="UNKNOWN">
+          <person xml:id="narr" sex="MALE">
             <persName>Narr</persName>
           </person>
           <listRelation>
-			<relation name="parent_of" active="#brummer" passive="#oktavie"/>
-			<relation name="lover_of" mutual="#brummer #euphrosine_bendele" type="m"/>
-			<relation name="lover_of" mutual="#nervich_paul #oktavie" type="m"/>
-			<relation name="associated_with" active="#erster_warter" passive="#nervich_paul" type="m"/>
-			<relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul" type="m"/>
-			<relation name="associated_with" active="#dritter_warter" passive="#nervich_paul" type="m"/>
-		</listRelation>
+            <relation name="parent_of" active="#brummer" passive="#oktavie"/>
+            <relation name="lover_of" mutual="#brummer #euphrosine_bendele" type="m"/>
+            <relation name="lover_of" mutual="#nervich_paul #oktavie" type="m"/>
+            <relation name="associated_with" active="#erster_warter" passive="#nervich_paul" type="m"/>
+            <relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul" type="m"/>
+            <relation name="associated_with" active="#dritter_warter" passive="#nervich_paul" type="m"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -156,21 +156,44 @@
         </castGroup>
         <castItem corresp="#d_stimm_vum_e_papagei"><role><persName>D’Stimm vum e Papegei</persName></role>, <roleDesc>(vun’re Person, evtl. vum Regisseur, hinter d’r Scène ze-n-imitiere).</roleDesc></castItem>
       </castList>
-      <set>
+      <set ana="place">
         <p rend="bold">ORT:</p>
         <p>1. AKT: E frejer Platz mit-e-me Hüss im Hintergrund odder an d’r Sytt ; evtl. sieht m’r numme-n-e Deil devun. ’s Hüss hett e’n-anstaltsmässigs Üssähns.</p>
         <p>2. AKT: E Sprechzimmer im Narrehüs.</p>
+      </set>
+      <set ana="time">
         <p rend="bold">ZYTT:</p>
         <p>Gejewart.</p>
+      </set>
+      <set ana="performance-duration">  
         <p rend="bold">SPIELZYTT:</p>
         <p>Circa 45 Minütte.</p>
-    </set>
-      <set>
-        <head>Dekorationsplan</head>
-        <p> I. Akt. E frejer Platz odder e Strooss mit e’me Hüss, wo’s Narrehüss vorstelle soll, D’r Yndruck isch also amstaltsmässig, evtl. vergitterti Fenschter. ’s Dach vum Narrehüss isch nitt ze sähn: Zuegang fur uff d’Scène vun links unn rächts. (Verglych au unter Absatz «Ort».) II. Akt. E Sprechzimmer im Narrehüss. Links unn rächts e Dier als Yngang. Im Hintergrund zwei Diere näwenand; an d’r eint e Plakat mit: «Gummizelle», an der ander mit: « Kaltwasser ». Links uff d’r Scène e Schryebdisch mit-e-me Telephon, rächts e Kleiderständer mit-e-me Huet, me Pardessü unn e’me-n-Anstaltsmantel dran. An’re Wand e’n-elektrischer Druckknopf. ’s iwrig Mobiliar nooch Beliewe. Rolle-Beschrywung: BRUMMER: Ca. 50 Johr alt; grosser Dierfrind, schunscht awer zimlich grobb. OKTAVIE : Ca. 25 Johr alt; frindlich. EUPHROSINE : Älteri, verschroweni Jumpfer. NERVICH.: Ca. 30 Johr alt; frindlich. 1., 2., 3. WÄRTER : Robüscht ; sie hann wyssi Hosse-n-unn ee dito Schurz an; d’Hemdsärmel sinn uffg’streift. Zuem bessere Verständnis vun d’r Handlung isch’s guet, wenn s’e sich in d’r G’stalt guet unterscheide lonn. NARR : Ca. 30 Johr alt; er hett e blöj-wyss g’streifter Anstalts-Mantel an. Durich bleed’s Lache, lätzi Bewejungen-unn Hüpser markiert’r e Verruckter. D’ANDRE ROLLE : ergänn sich vun ase.</p>
       </set>
-      <div type="set">
-        <p> Ca. 30 Johr alt; er hett e blöj-wyss g’streifter Anstalts-Mantel an. Durich bleed’s Lache, lätzi Bewejungen-unn Hüpser markiert’r e Verruckter. D’ANDRE ROLLE : ergänn sich vun ase.</p>
+      <set ana="scene">
+        <head>Dekorationsplan</head>
+        <p rend="bold">I. Akt.</p>
+        <p>E frejer Platz odder e Strooss mit e’me Hüss, wo’s Narrehüss vorstelle soll, D’r Yndruck isch also amstaltsmässig, evtl. vergitterti Fenschter. ’s Dach vum Narrehüss isch nitt ze sähn: Zuegang fur uff d’Scène vun links unn rächts. (Verglych au unter Absatz «Ort».)</p>
+        <p rend="bold">II. Akt.</p>
+        <p>E Sprechzimmer im Narrehüss. Links unn rächts e Dier als Yngang. Im Hintergrund zwei Diere näwenand; an d’r eint e Plakat mit: « Gummizelle », an der ander mit: « Kaltwasser ».</p>
+        <p>Links uff d’r Scène e Schryebdisch mit-e-me Telephon, rächts e Kleiderständer mit-e-me Huet, me Pardessü unn e’me-n-Anstaltsmantel dran. An’re Wand e’n-elektrischer Druckknopf. ’s iwrig Mobiliar nooch Beliewe.</p>
+      </set>
+      <div type="character-description">
+        <list>        
+        <head>Rolle-Beschrywung:</head>
+          <label corresp="#brummer">BRUMMER</label>
+          <item>Ca. 50 Johr alt; grosser Dierfrind, schunscht awer zimlich grobb.</item>
+          <label corresp="#oktavie">OKTAVIE</label>
+          <item>Ca. 25 Johr alt; frindlich.</item>
+          <label corresp="#euphrosine_bendele">EUPHROSINE</label>
+          <item>Älteri, verschroweni Jumpfer.</item>
+          <label corresp="#nervich_paul">NERVICH</label>
+          <item>Ca. 30 Johr alt; frindlich.</item>
+          <label corresp="#erster_warter #driter_warter #zweiter_warter">1., 2., 3. WÄRTER</label>
+          <item>Robüscht ; sie hann wyssi Hosse-n-unn ee dito Schurz an; d’Hemdsärmel sinn uffg’streift. Zuem bessere Verständnis vun d’r Handlung isch’s guet, wenn s’e sich in d’r G’stalt guet unterscheide lonn.</item>
+          <label corresp="#narr">NARR</label><item>Ca. 30 Johr alt; er hett e blöj-wyss g’streifter Anstalts-Mantel an. Durich bleed’s Lache, lätzi Bewejungen-unn Hüpser markiert’r e Verruckter.</item>
+          <label corresp="#e_blejele #e_gauner #e_passant #en_arweiter">D’ANDRE ROLLE</label>
+          <item>ergänn sich vun ase.</item>
+        </list>
       </div>
     </front>
     <body>
