@@ -81,12 +81,6 @@
           <personGrp xml:id="alli" sex="UNKNOWN">
             <persName>Alli</persName>
           </personGrp>
-          <personGrp xml:id="kinder" sex="UNKNOWN">
-            <persName>Kinder</persName>
-          </personGrp>
-          <personGrp xml:id="marikel_un_xavier" sex="UNKNOWN">
-            <persName>Marikel un Xavier</persName>
-          </personGrp>
           <listRelation type="personal">
             <relation name="parent_of" active="#voltz_martin" passive="#marikel" />
             <relation name="parent_of" active="#voltz_martin" passive="#xaverel" />
@@ -611,7 +605,7 @@
           <l>E Stackel un e Spähn.</l>
           <l>As isch emol gsinn.....</l>
         </sp>
-        <sp who="#kinder">
+        <sp who="#marikel #schorschel #xaverel">
           <speaker>Alli drej:</speaker>
           <p>Jooo, Grossbabbe, nitt eso — —</p>
         </sp>
@@ -836,7 +830,7 @@
           <speaker>Voltz:</speaker>
           <p>Kinder — Vater — Gott-lowe-dank d’häime ! —</p>
         </sp>
-        <sp who="#marikel_un_xavier">
+        <sp who="#marikel #xaverel">
           <speaker>Marikel un Xavier:</speaker>
           <p>Babbe, liewer Babbe — jetz bliesch awer do, gall ?</p>
         </sp>
@@ -946,7 +940,7 @@
           fahrt hinnicht kenn Bähnel meh, awer ich hab de Wäj nitt gschejt un bin üwer de Barri rüewer geloffe,
           ich hab doch am Chrischtowe d’häime welle sinn bie minere Familie.</p>
         </sp>
-        <sp who="#marikel_un_xavier">
+        <sp who="#marikel #xaverel">
           <speaker>Marikel un Xavier:</speaker>
           <p>Gott-lowe-dank, ass mr die widder hann, dü bisch widder bie uns, jetz isch alles vergasse.</p>
         </sp>
@@ -1016,7 +1010,7 @@
           <p>Halt — liewer Hanstrapp. Ich bitt füer die Kinder, sie hann in dene vier Johr genuej liede müen un
           hann kenn Mamme meh. —</p>
         </sp>
-        <sp who="#kinder">
+        <sp who="#marikel #schorschel #xaverel">
           <speaker>Alli drej Kinder:</speaker>
           <p>Liebs Chrischtkindel, mr welle allewill brav un folgsam sinn.</p>
         </sp>

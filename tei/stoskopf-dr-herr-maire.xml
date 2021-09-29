@@ -259,6 +259,11 @@
           <role><persName>Lehrer</persName></role>.
         </castItem>
         <castGroup>
+          <castItem corresp="#morte_velte">
+            <role>
+              <persName>Morte Velte</persName>
+            </role>
+          </castItem>          
           <castItem corresp="#schiere_hans">
             <role>
               <persName>Schiere Hans</persName>
@@ -1510,7 +1515,7 @@
           </sp>
           <sp who="#dr_freundlich">
             <speaker>Dr. Freundlich.</speaker>
-            <p>"Non-de-Buckel", das ist ein sehr schöner Ausdruck, en muss ich mir notieren.</p>
+            <p>"Non-de-Buckel", das ist ein sehr schöner Ausdruck, den muss ich mir notieren.</p>
           </sp>
           <sp who="#franz">
             <speaker>Fränz.</speaker>
