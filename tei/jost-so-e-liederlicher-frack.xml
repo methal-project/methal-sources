@@ -72,6 +72,12 @@
           <person sex="M" xml:id="e_gauner">
             <persName>E Gauner</persName>
           </person>
+          <person sex="M" xml:id="arweiter_1">
+            <persName>1. Arweiter</persName>
+          </person>
+          <person sex="M" xml:id="arweiter_2">
+            <persName>2. Arweiter</persName>
+          </person>          
           <listRelation>
             <relation name="related_with" mutual="#georges_frosch #michel" />
             <relation name="associated_with" mutual="#georges_frosch #michel" />
@@ -236,7 +242,7 @@
             <p>Gewiss, so isch's : e'n Ehresach, denn finanziell hätte mir jo so e Z'sammeschluss gar nitt
             neetig. Unn wyll d'r Robert doch emool unser G'schäft bekummt, ze muess'r einfach ...</p>
           </sp>
-          <sp who="#beidi">
+          <sp who="#georges_frosch #michel">
             <speaker>BEIDI :</speaker>
             <p>... d' Mamsell Yvonne hyroote !</p>
           </sp>
@@ -1639,7 +1645,7 @@
         <div type="scene">
           <head>19. Scène.</head>
           <stage>Wie vorig. 2 Arweiter (vun hinte).</stage>
-          <sp who="#1_arweiter">
+          <sp who="#arweiter_1">
             <speaker>1. Arweiter :</speaker>
             <p>Bysamme, haw ich g'saat ! Mir solle denne Kuffer hole, wo repariert soll wäre !</p>
           </sp>
@@ -1647,7 +1653,7 @@
             <speaker>GEORGES :</speaker>
             <p>Ah, bon ! Do steht'r !</p>
           </sp>
-          <sp who="#2_arweiter">
+          <sp who="#arweiter_2">
             <speaker>2. Arweiter</speaker>
             <stage>(zuem 1. Arweiter)&#160;:</stage>
             <p>Hopp, Kamerad, pack'ne ! 
