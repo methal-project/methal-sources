@@ -49,43 +49,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="brummer" sex="MALE">
+          <person xml:id="brummer" sex="M">
             <persName>Brummer</persName>
           </person>
-          <person xml:id="oktavie" sex="FEMALE">
+          <person xml:id="oktavie" sex="F">
             <persName>Oktavie</persName>
           </person>
-          <person xml:id="euphrosine_bendele" sex="FEMALE">
+          <person xml:id="euphrosine_bendele" sex="F">
             <persName>Euphrosine Bendélé</persName>
           </person>
-          <person xml:id="nervich_paul" sex="MALE">
+          <person xml:id="nervich_paul" sex="M">
             <persName>Nervich Paul</persName>
           </person>
-          <person xml:id="erster_warter" sex="MALE">
+          <person xml:id="erster_warter" sex="M">
             <persName>1. Wärter</persName>
           </person>
-          <person xml:id="zweiter_warter" sex="MALE">
+          <person xml:id="zweiter_warter" sex="M">
             <persName>2. Wärter</persName>
           </person>
-          <person xml:id="dritter_warter" sex="MALE">
+          <person xml:id="dritter_warter" sex="M">
             <persName>3. Wärter</persName>
           </person>
-          <person xml:id="en_arweiter" sex="MALE">
+          <person xml:id="en_arweiter" sex="M">
             <persName>E’n Arweiter</persName>
           </person>
-          <person xml:id="e_passant" sex="MALE">
+          <person xml:id="e_passant" sex="M">
             <persName>E Passant</persName>
           </person>
-          <person xml:id="e_blejele" sex="MALE">
+          <person xml:id="e_blejele" sex="M">
             <persName>E Blejele</persName>
           </person>
-          <person xml:id="e_gauner" sex="MALE">
+          <person xml:id="e_gauner" sex="M">
             <persName>E Gauner</persName>
           </person>
-          <person xml:id="d_stimm_vum_e_papagei" sex="UNKNOWN">
+          <person xml:id="d_stimm_vum_e_papagei" sex="U">
             <persName>D’Stimm vum e Papegei</persName>
           </person>
-          <person xml:id="narr" sex="MALE">
+          <person xml:id="narr" sex="M">
             <persName>Narr</persName>
           </person>
           <listRelation>
