@@ -3377,6 +3377,8 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
+      <p>A feature structure (FS) for character description is declared. Using this, &lt;person&gt; elements will encode character information below.</p>
+      <p>Besides values for the FS, the &lt;person&gt; elements contain, when available, the cast list information on which the character features are based, in a &lt;note&gt; element with @type <em>roleDesc</em> </p>
       <fsdDecl>
         <fsDecl type="character_specification">
           <fsDescr>Feature structure for character description. Inspired by <bibl>Galleron (2014) (<url>http://archive.sciendo.com/HSSR/hssr.2017.6.issue-1/hssr-2017-0007/hssr-2017-0007.pdf)</url>, adapted to our corpus period. Intermediate hierarcy levels were added to group related features. Some features and values were added. </bibl></fsDescr>
