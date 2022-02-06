@@ -3377,11 +3377,12 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p>A feature structure (FS) for character description is declared. Using this, &lt;person&gt; elements will encode character information below.</p>
-      <p>Besides values for the FS, the &lt;person&gt; elements contain, when available, the cast list information on which the character features are based, in a &lt;note&gt; element with @type <em>roleDesc</em> </p>
+      <p>A feature structure (FS) for character description is declared. Using this, <gi>person</gi> elements will encode character information below.</p>
+      <p>Besides values for the FS, the <gi>person</gi> elements contain, when available, the cast list information on which the character features are based, in a <gi>note</gi> element through a <att>type</att> attribute with the value <emph>roleDesc</emph> </p>
       <fsdDecl>
         <fsDecl type="character_specification">
-          <fsDescr>Feature structure for character description. Inspired by <bibl>Galleron (2014) (<url>http://archive.sciendo.com/HSSR/hssr.2017.6.issue-1/hssr-2017-0007/hssr-2017-0007.pdf)</url>, adapted to our corpus period. Intermediate hierarcy levels were added to group related features. Some features and values were added. </bibl></fsDescr>
+          <fsDescr>Feature structure for character description. 
+            Inspired by <bibl><ref target="http://archive.sciendo.com/HSSR/hssr.2017.6.issue-1/hssr-2017-0007/hssr-2017-0007.pdf"/>Galleron (2014)</bibl>. Intermediate hierarchy levels were added to group related features. Some features and values were added.</fsDescr>
           <fDecl name="specification_type">
             <vRange>
               <fs type="mimetic_features"/>
@@ -3544,7 +3545,7 @@
           </fDecl>
         </fsDecl>
         <fsDecl type="professional_activities">
-          <fsDescr>Typology of professional groups inspired by standard taxonomies (e.g. HISCO or ISCO), but adapted to Alsatian society in the corpus period, see <bibl>Ruiz &amp; Werner (2020) at <url>https://doi.org/10.5281/zenodo.4762732</url></bibl></fsDescr>
+          <fsDescr>Typology of professional groups inspired by standard taxonomies (e.g. HISCO or ISCO), but adapted to Alsatian society in the corpus period, see <bibl>Ruiz &amp; Werner (2020) at <ref target="https://doi.org/10.5281/zenodo.4762732"/></bibl></fsDescr>
           <fDecl name="professional_category" optional="true">
             <vRange>
               <symbol value="professionals_scientific_technical" xml:id="PC-mtl-pro"/>
@@ -3563,7 +3564,7 @@
             </vRange>
           </fDecl>
           <fDecl name="occupation" optional="true">
-            <fDesc>The list corresponds to professional occupations attested in the Alsatian corpus, but abstracting away from graphical variability and from some meaning nuances. E.g. <em>Magd</em> and <em>Dienschtmaidel</em> will both be represented by value <em>maid</em>. English values were chosen to abstract away from linguistic variability in the plays' cast lists, which sometimes use Alsatian and sometimes standard German.</fDesc>
+            <fDesc>The list corresponds to professional occupations attested in the Alsatian corpus, but abstracting away from graphical variability and from some meaning nuances. E.g. <emph>Magd</emph> and <emph>Dienschtmaidel</emph> will both be represented by value <emph>maid</emph>. English values were chosen to abstract away from linguistic variability in the plays' cast lists, which sometimes use Alsatian and sometimes standard German.</fDesc>
             <vRange>
               <symbol value="abbot"/>
               <symbol value="accountant"/>
