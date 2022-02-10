@@ -9,8 +9,8 @@
 
 - Corpus creation, distant reading and historical sociolinguistics project, based on plays written in the Alsatian dialect
 - Ongoing work carried out at the [LiLPa](http://lilpa.unistra.fr/) lab
-- This repository contains plays encoded in TEI by the project; it is updated as we encode new ones
-- The plays already encoded can be seen [[below]](#plays-available), the TEI sources are in [[tei]](./tei) directory
+- This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses
+- The plays already encoded can be seen [[below]](#plays-available), the TEI sources are in [[tei]](./tei) directory. Also see the TEI [[personography]](./personography)
 - The *work* directory documents the encoding procedure for the plays
 
 ## Participants
@@ -48,3 +48,8 @@ Special mention to the many interns that we've been fortunate to work with: Nath
 |Gustave Stoskopf|1906|1906|D'r Hoflieferant|Elsassiche Komödie in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-dr-hoflieferant.xml)|
 |Gustave Stoskopf|1907|1907|In's Ropfer's Apothek|Schwank in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-ins-ropfers-apothek.xml)|
 |Emile Weber|1932|1932|Yo-Yo!|E Geduldspiel in einem Akt|comedy|[[tei]](./tei/weber-yo-yo.xml)|
+
+
+## License
+
+- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)

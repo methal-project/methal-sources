@@ -8,8 +8,8 @@ https://methal.pages.unistra.fr/
 
 - Projet de création de corpus, ainsi que lecture distante du théâtre dialectal en alsacien et sociolinguistique historique
 - Travaux en cours, effectués au Laboratoire [LiLPa](http://lilpa.unistra.fr/)
-- Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ; il est mis à jour à mesure que nous avançons dans l'encodage
-- Les pièces déjà encodées sont disponibles [[ci-dessous]](#pièces-disponibles), les sources TEI sont dans le dossier [[tei]](./tei)
+- Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
+- Les pièces déjà encodées sont disponibles [[ci-dessous]](#pièces-disponibles), les sources TEI sont dans le dossier [[tei]](./tei). Une [[personographie]](./personography) en TEI est aussi disponible
 - Le dossier *work* documente la procédure d'encodage pour les pièces 
 
 ## Participants
@@ -47,3 +47,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Gustave Stoskopf|1906|1906|D'r Hoflieferant|Elsassiche Komödie in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-dr-hoflieferant.xml)|
 |Gustave Stoskopf|1907|1907|In's Ropfer's Apothek|Schwank in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-ins-ropfers-apothek.xml)|
 |Emile Weber|1932|1932|Yo-Yo!|E Geduldspiel in einem Akt|comedy|[[tei]](./tei/weber-yo-yo.xml)|
+
+## Licence
+
+- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
