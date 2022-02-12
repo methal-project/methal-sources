@@ -25,6 +25,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/">Licence</ref>
           </licence>
         </availability>
+        <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.954534jw</idno>
         <idno type="methal" xml:id="mtl-007"/>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q92047713</idno>
       </publicationStmt>

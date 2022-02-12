@@ -30,6 +30,7 @@
             <ref target="https://creativecommons.org/licenses/by/4.0/">Licence</ref>
           </licence>
         </availability>
+        <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.eeb0p8dq</idno>
         <idno type="methal" xml:id="mtl-089"/>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q100753215</idno>
       </publicationStmt>
