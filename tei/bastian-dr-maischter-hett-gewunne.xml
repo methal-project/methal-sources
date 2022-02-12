@@ -27,9 +27,10 @@
         <availability>
           <licence>
             <ab>CC BY 4.0</ab>
-            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">Licence</ref>
           </licence>
         </availability>
+        <idno type="methal" xml:id="mtl-045"/>
         <idno xml:base="https://www.wikidata.org/entity/" type="wikidata">Q106604829</idno>
       </publicationStmt>
       <sourceDesc>
