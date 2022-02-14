@@ -2,17 +2,17 @@
 
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 
-Projet de création de corpus, ainsi que lecture distante du théâtre dialectal en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire [LiLPa](http://lilpa.unistra.fr/). Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
+Projet de création de corpus, ainsi que lecture distante du théâtre dialectal en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
 
 
-- Site du projet : <a href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
-- Interface d'exploration du corpus : <a href="https://methal.eu/ui/">https://methal.eu/ui/</a>
-- La publication pérenne (basée sur DOI) s'effectue à travers une <a href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala
+- Site du projet : <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
+- Interface d'exploration du corpus : <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
+- La publication pérenne (basée sur DOI) s'effectue à travers une <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala
 
 
 ## Contenu du dépôt
 
-- Les [**pièces encodées en TEI**](./tei), dans le dossier [[tei]](./tei). Pour une vue d'ensemble, un tableau [ci-dessous](#plays-available) liste les pièces.
+- Les [**pièces encodées en TEI**](./tei), dans le dossier [[tei]](./tei). Pour une vue d'ensemble, un tableau [ci-dessous](#pièces-disponibles-en-tei) liste les pièces.
     - À noter qu'une <a href="https://methal.eu/ui/">interface en ligne</a> donne accès au texte intégral pour plus de 50 pièces additionnelles, pour lesquelles nous avons effectué une océrisation et sa correction, mais que nous n'avons pas encore encodées en TEI
 - Une [**personography en TEI**](./personography) est aussi disponible, pour un grand volume de pièces. Elle décrit plus de 2,350 characters provenant d'environ 230 plays. Les variables sociales des personnages (âge, genre, groupe professionnel) y sont annotées
 - Un <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documente nos pratiques d'encodage

@@ -2,18 +2,17 @@
 
 # MeThAL : Towards a macroanalysis of theatre in Alsatian
 
-Corpus creation, distant reading and historical sociolinguistics project, based on plays written in the Alsatian dialect. Ongoing work carried out at the [LiLPa](http://lilpa.unistra.fr/) lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
+Corpus creation, distant reading and historical sociolinguistics project, based on plays written in the Alsatian dialect. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
 
-- Project site: <a href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
-- Corpus exploration interface: <a href="https://methal.eu/ui/">https://methal.eu/ui/</a>
-- Permanent (DOI-based) publication of the TEI-encoded resources is done through a <a href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform
-
+- Project site: <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
+- Corpus exploration interface: <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
+- Permanent (DOI-based) publication of the TEI-encoded resources is done through a <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform
 
 
 ## Repository content
 
-- The [**TEI-encoded plays**](./tei), in the [[tei]](./tei) directory. As an [overview](#plays-available), the plays already encoded are listed in the table [below](#plays-available)
-    - Note that an <a href="https://methal.eu/ui/">online interface</a> gives access to the full text for over 50 more plays, for which we have corrected OCR output, but that are not TEI-encoded yet
+- The [**TEI-encoded plays**](./tei), in the [[tei]](./tei) directory. As an [overview](#plays-available-in-TEI), the plays already encoded are listed in the table [below](#plays-available-in-TEI)
+    - Note that an <a target="_blank" href="https://methal.eu/ui/">online interface</a> gives access to the full text for over 50 more plays, for which we have corrected OCR output, but that are not TEI-encoded yet
 - A [**TEI personography**](./personography) for a larger set of plays is also available. It describes over 2,350 characters in ca. 230 plays. Character social variables (age, sex, professional group) are annotated
 - A <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documents our encoding practices
 
