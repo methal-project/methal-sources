@@ -6,23 +6,45 @@
             <titleStmt>
                 <title type="main">Der Pfingstmontag</title>
                 <title type="sub">Lustpiel in Straßburger Mundart</title>
-                <author key="pnd:118927698">Arnold, Johann Georg Daniel</author>
+                <author>Johann Georg Daniel Arnold</author>
+                <principal>Dominique Huck</principal>
+                <principal>Pablo Ruiz</principal>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <name>Dominique Huck</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding</resp>
+                    <name>Pablo Ruiz</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>LiLPa - Université de Strasbourg</publisher>
                 <availability>
                     <licence>
                         <ab>CC BY 4.0</ab>
-                        <ref target="https://creativecommons.org/licenses/by/4.0/"
-                            >Licence</ref>
+                        <ref target="https://creativecommons.org/licenses/by/4.0/">Licence</ref>
                     </licence>
                 </availability>
+                <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.b37bfx3q</idno>
                 <idno type="methal" xml:id="mtl-001"/>
-               <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q77593548</idno>
+                <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q77593548</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="originalSource">
-                    <note>Text of original play (edition by J. Lefftz, 1914) reproduced by Dominique Huck</note>
+                    <title type="main">Der Pfingstmontag.</title>
+                    <title type="sub">Lustspiel in Straßburger Mundart.</title>
+                    <title type="sub">Nach der vom Dichter durchgesehenen zweiten Ausgabe des Jahres
+                        1816 herausgegeben von J. Lefftz und E. Marckwald.</title>
+                    <author>
+                        <persName>Johan Georg Daniel Arnold</persName>
+                        <idno type="wikidata">Q3180474</idno>
+                    </author>
+                    <editor>J. Lefftz</editor>
+                    <editor>E. Marckwald</editor>
+                    <publisher>Karl J. Trübner</publisher>
+                    <pubPlace>Strasbourg</pubPlace>
+                    <note>Text reproduced by Dominique Huck.</note>
                     <date type="written">1816</date>
                     <date type="print">1914</date>
                 </bibl>
@@ -31,57 +53,77 @@
         <profileDesc>
             <particDesc>
                 <listPerson>
-                    <person xml:id="dorthee" sex="FEMALE">
+                    <person xml:id="dorthee" sex="F">
                         <persName>Frau Dorothee (Dorthee)</persName>
                     </person>
-                    <person xml:id="starkhans" sex="MALE">
+                    <person xml:id="starkhans" sex="M">
                         <persName>Hr. Starkhans</persName>
                     </person>
-                    <person xml:id="lissel" sex="FEMALE">
+                    <person xml:id="lissel" sex="F">
                         <persName>Lieschen (Lissel)</persName>
                     </person>
-                    <person xml:id="christinel" sex="FEMALE">
+                    <person xml:id="christinel" sex="F">
                         <persName>Christinchen (Christinel)</persName>
                     </person>
-                    <person xml:id="reinhold" sex="MALE">
+                    <person xml:id="reinhold" sex="M">
                         <persName>Reinhold</persName>
                     </person>
-                    <person xml:id="lizentiat" sex="MALE">
+                    <person xml:id="lizentiat" sex="M">
                         <persName>Lizenziat Mehlbrüh</persName>
                     </person>
-                    <person xml:id="rosine" sex="FEMALE">
+                    <person xml:id="rosine" sex="F">
                         <persName>Frau Rosine</persName>
                     </person>
-                    <person xml:id="mehlbrüej" sex="MALE">
+                    <person xml:id="mehlbrüej" sex="M">
                         <persName>Herr Mehlbrüh (Mehlbrüej)</persName>
                     </person>
-                    <person xml:id="wolfgang" sex="MALE">
+                    <person xml:id="wolfgang" sex="M">
                         <persName>Wolfgang</persName>
                     </person>
-                    <person xml:id="bryd" sex="FEMALE">
+                    <person xml:id="bryd" sex="F">
                         <persName>Brigitte (Bryd)</persName>
                     </person>
-                    <person xml:id="prechtere" sex="FEMALE">
+                    <person xml:id="prechtere" sex="F">
                         <persName>Frau Prechterin (Prechtere)</persName>
                     </person>
-                    <person xml:id="klärel" sex="FEMALE">
+                    <person xml:id="klärel" sex="F">
                         <persName>Klärchen (Klärel)</persName>
                     </person>
-                    <person xml:id="gläsler" sex="MALE">
+                    <person xml:id="gläsler" sex="M">
                         <persName>Gläsler</persName>
                     </person>
-                    <person xml:id="berwel" sex="FEMALE">
+                    <person xml:id="berwel" sex="F">
                         <persName>Barbara (Berwel)</persName>
                     </person>
-                    <person xml:id="pfarrer" sex="MALE">
+                    <person xml:id="pfarrer" sex="M">
                         <persName>Pfarrer Christlieb</persName>
                     </person>
-                    <person xml:id="claus" sex="MALE">
+                    <person xml:id="claus" sex="M">
                         <persName>Claus</persName>
                     </person>
+                    <listRelation>
+                        <relation name="spouses" mutual="#starkhans #dorthee"/>
+                        <relation name="parent_of" active="#starkhans #dorthee" passive="#lissel"/>
+                        <relation name="spouses" mutual="#mehlbrüej #rosine"/>
+                        <relation name="parent_of" active="#mehlbrüej #rosine" passive="#wolfgang"/>
+                        <relation name="associated_with" active="#christinel" passive="#mehlbrüej"/>
+                        <relation name="related_with" active="#lizentiat" passive="#mehlbrüej"/>
+                        <relation name="parent_of" active="#prechtere" passive="#klärel"/>
+                    </listRelation>
                 </listPerson>
             </particDesc>
+            <textClass>
+                <keywords>
+                    <term type="genreTitle">comedy</term>
+                </keywords>
+                <classCode scheme="http://wikidata.org/entity/">Q40831</classCode>
+            </textClass>
         </profileDesc>
+        <encodingDesc>
+            <p>Orthography was rendered closer to current practices, since the text was to be used
+                for linguistic resource development for Alsatian in general, not specifically
+                targeting historical varieties.</p>
+        </encodingDesc>
     </teiHeader>
     <text>
         <front>
@@ -281,9 +323,8 @@
                     <sp who="#reinhold">
                         <speaker>Reinhold</speaker>
                         <l part="F">Ihr unterhän’ger Diener.</l>
-                        <l>Sind die Jungfrau’n wohl auf?  
-                        <stage>Küßt beiden die Hand.</stage>
-                       Ich werde täglich kühner ;</l>
+                        <l>Sind die Jungfrau’n wohl auf? <stage>Küßt beiden die Hand.</stage> Ich
+                            werde täglich kühner ;</l>
                         <l>Man ist bei so viel Glück, sein selbst sich kaum bewußt,</l>
                         <l>der Liebe Seligkeit erfüllt mir ganz die Brust.</l>
                     </sp>

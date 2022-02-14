@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>MeThAL Personography: Alsatian Theater Character Features</title>
+        <principal>Pablo Ruiz</principal>
         <respStmt>
           <resp>Cast list and cover page transcription</resp>
           <name>Barbara Hoff</name>
@@ -26,6 +27,7 @@
           <licence target="http://creativecommons.org/licenses/by/4.0/">Attribution 4.0
             International</licence>
         </availability>
+        <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.62e9z6e5</idno>
       </publicationStmt>
       <sourceDesc>
         <listBibl>
