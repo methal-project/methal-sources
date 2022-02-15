@@ -14,7 +14,7 @@ Projet de création de corpus, ainsi que lecture distante du théâtre dialectal
 
 - Les [**pièces encodées en TEI**](./tei), dans le dossier [[tei]](./tei). Pour une vue d'ensemble, un tableau [ci-dessous](#pièces-disponibles-en-tei) liste les pièces.
     - À noter qu'une <a href="https://methal.eu/ui/">interface en ligne</a> donne accès au texte intégral pour plus de 50 pièces additionnelles, pour lesquelles nous avons effectué une océrisation et sa correction, mais que nous n'avons pas encore encodées en TEI
-- Une [**personography en TEI**](./personography) est aussi disponible, pour un grand volume de pièces. Elle décrit plus de 2,350 characters provenant d'environ 230 plays. Les variables sociales des personnages (âge, genre, groupe professionnel) y sont annotées
+- Une [**personography en TEI**](./personography) est aussi disponible, pour un grand volume de pièces. Elle décrit plus de 2,350 characters provenant d'environ 230 plays. Les variables sociales des personnages (âge, genre, groupe professionnel, classe sociale) y sont annotées
 - Un <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documente nos pratiques d'encodage
 
 

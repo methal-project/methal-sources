@@ -13,7 +13,7 @@ Corpus creation, distant reading and historical sociolinguistics project, based 
 
 - The [**TEI-encoded plays**](./tei), in the [[tei]](./tei) directory. As an [overview](#plays-available-in-tei), the plays already encoded are listed in the table [below](#plays-available-in-tei)
     - Note that an <a target="_blank" href="https://methal.eu/ui/">online interface</a> gives access to the full text for over 50 more plays, for which we have corrected OCR output, but that are not TEI-encoded yet
-- A [**TEI personography**](./personography) for a larger set of plays is also available. It describes over 2,350 characters in ca. 230 plays. Character social variables (age, sex, professional group) are annotated
+- A [**TEI personography**](./personography) for a larger set of plays is also available. It describes over 2,350 characters in ca. 230 plays. Character social variables (age, sex, professional group, social class) are annotated
 - A <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documents our encoding practices
 
 ## Participants
