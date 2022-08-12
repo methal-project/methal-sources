@@ -556,7 +556,8 @@ postscript{
   margin-top:2em
 }
 principal{
-  font-weight:700
+  font-weight:700;
+  display:none;
 }
 principal:before{
   font-weight:700;
