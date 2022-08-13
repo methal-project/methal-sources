@@ -86,7 +86,7 @@
             <persName>Elise</persName>
           </person>
           <listRelation type="personal">
-            <relation name="associated_with" mutual="#irene #jeanne #juliette #lucie #marthe #suzanne" />
+            <relation name="friends" mutual="#irene #jeanne #juliette #lucie #marthe #suzanne" />
           </listRelation>
         </listPerson>
       </particDesc>
