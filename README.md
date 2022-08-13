@@ -51,6 +51,7 @@ Special mention to the many interns that we've been fortunate to work with: Nath
 |Gustave Stoskopf|1906|1906|D'r Hoflieferant<br><a target="_blank" href="https://doi.org/10.34847/nkl.fb0171s7">(10.34847/nkl.fb0171s7)</a>|Elsassiche Komödie in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-dr-hoflieferant.xml)|
 |Gustave Stoskopf|1907|1907|In's Ropfer's Apothek<br><a target="_blank" href="https://doi.org/10.34847/nkl.b5fctsyx">(10.34847/nkl.b5fctsyx)</a>|Schwank in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-ins-ropfers-apothek.xml)|
 |Emile Weber|1932|1932|Yo-Yo!<br><a target="_blank" href="https://doi.org/10.34847/nkl.caddeub3">(10.34847/nkl.caddeub3)</a>|E Geduldspiel in einem Akt|comedy|[[tei]](./tei/weber-yo-yo.xml)|
+|Madeleine Weigel|1930|1930|In d'r Awril geschickt<br><a target="_blank" href="">(https://doi.org/10.34847/nkl.1f07192s)</a>|Lustspiel in zwei Akten von M. Weigel|comedy|[[tei]](./tei/weigel-in-dr-awril-gschickt.xml)|
 
 
 ## License

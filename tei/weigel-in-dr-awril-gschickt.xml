@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">In dr Awril g'schickt</title>
-        <title type="sub">Lustspiel in zwei Akten|von M. Weigel</title>
+        <title type="sub">Lustspiel in zwei Akten von M. Weigel</title>
         <author key="wikidata:Q97120060">Madeleine Weigel</author>
         <principal>Pablo Ruiz</principal>
         <respStmt>
@@ -32,14 +32,16 @@
             <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">nan</idno>
+        <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.1f07192s</idno>
+        <idno type="methal" xml:id="mtl-025"/>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q113505779</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Numistral</name>
           <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109668h</idno>
           <bibl type="originalSource">
-            <author key="wikidata:nan">Madeleine Weigel</author>
+            <author key="wikidata:Q97120060">Madeleine Weigel</author>
             <title type="main">In dr Awril g'schickt</title>
             <title type="sub">Lustspiel in zwei Akten von M. Weigel</title>
             <edition>2</edition>
@@ -88,6 +90,12 @@
           </listRelation>
         </listPerson>
       </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">comedy</term>
+        </keywords>
+        <classCode scheme="http://wikidata.org/entity/">Q40831</classCode>
+      </textClass>      
     </profileDesc>
     <encodingDesc>
       <p>Font style (italic, bold) not encoded.</p>
@@ -120,13 +128,15 @@
         </castItem>
         <castGroup>
           <castItem corresp="#lucie">
-            <role><persName>Lucie</persName>
+            <role>
+              <persName>Lucie</persName>
             </role>
           </castItem>
           <castItem corresp="#irene">
             <role>
-              <persName>Irène</persName></role>
-            <roleDesc />
+              <persName>Irène</persName>
+            </role>
+            <roleDesc/>
           </castItem>
           <castItem corresp="#juliette">
             <role>
@@ -193,7 +203,7 @@
             mini Frindinna nit schu alli iglada hat vor acht Tag, so war üs dam Teekranzla nit wora. Rißt is net
             vorgescht Knall un Fall unseri Kecha üs. Das isch d’zweite g’si sitter Neijohr. Hoffentlig git’s bol
             Ersatz, denn die menus, wu mini chère tante 
-            <note place="bottom">Tante ist überall französisch auszusprechen.</note>sitter combiniert het,
+            <note place="bottom">Tante ist überall französisch auszusprechen.</note> sitter combiniert het,
             brrr.</p>
           </sp>
         </div>
