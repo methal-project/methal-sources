@@ -54,6 +54,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Gustave Stoskopf|1906|1906|D'r Hoflieferant<br><a target="_blank" href="https://doi.org/10.34847/nkl.fb0171s7">(10.34847/nkl.fb0171s7)</a>|Elsassiche Komödie in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-dr-hoflieferant.xml)|
 |Gustave Stoskopf|1907|1907|In's Ropfer's Apothek<br><a target="_blank" href="https://doi.org/10.34847/nkl.b5fctsyx">(10.34847/nkl.b5fctsyx)</a>|Schwank in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-ins-ropfers-apothek.xml)|
 |Emile Weber|1932|1932|Yo-Yo!<br><a target="_blank" href="https://doi.org/10.34847/nkl.caddeub3">(10.34847/nkl.caddeub3)</a>|E Geduldspiel in einem Akt|comedy|[[tei]](./tei/weber-yo-yo.xml)|
+|Emile Weber|1936|1936|E bissel Lieb<br><a href='https://doi.org/10.34847/nkl.ae77r3q4'>(10.34847/nkl.ae77r3q4)</a>|Drama im e Vorspiel un 3 Akt von Emile Weber, 5 Herren - 3 Damen|drama|[[tei]](./tei/weber-e-bissel-lieb.xml)|
 |Madeleine Weigel|1930|1930|In d'r Awril geschickt<br><a target="_blank" href="https://doi.org/10.34847/nkl.1f07192s">(10.34847/nkl.1f07192s)</a>|Lustspiel in zwei Akten von M. Weigel|comedy|[[tei]](./tei/weigel-in-dr-awril-gschickt.xml)|
 
 
