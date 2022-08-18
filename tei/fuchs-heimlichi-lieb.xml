@@ -789,7 +789,7 @@
           langsam)</stage>
           <stage>D’ BASSGEJ (klein un mauer, wissi Hoor. Er heit d' Bassgej uff em Buckel gebunde, e Kapp mit eme
           grosse Dächel uff, e alter, blöjer Soldatemantel an un e roter Barablie in de Hand.)</stage>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Nurr do erin, ich wäiss, wo d' guede Gschmackle hare komme.</p>
           </sp>
@@ -797,7 +797,7 @@
             <speaker>’S DRUMBOHN:</speaker>
             <p>Dü brüch’sch jo nur de Nas noch ze gehn.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>DE FISSELBOEJE:</speaker>
             <p>Do kann mr de Bangeleschlacker brü- che, dar het dis sim Griff wie de Battelmann d' Lüs un wann
             erigs uff siwe Mäile im Umkreis e Fass dröepfelt, ar findt’s mit sim Schmecker erüss.</p>
@@ -807,7 +807,7 @@
             <stage>(kommt von rächts)</stage>
             <p>Ihr dhuen awer latz bloose, isch diss alles, was ihr kenne?</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>DE FISSELBOEJE :</speaker>
             <stage>(zejt de Cylindre ab)</stage>
             <p>Katt, diss isch doch e alti Müsik, e nüechterner Drumbeter kann nit richti bloose.</p>
@@ -827,7 +827,7 @@
             <p>Nurr nit ’s Mül uffgemacht üewer de Drumbeeter. Dü machsch jo schun zitter 4 Wuche e grosser Böje
             um de Brunne.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Un dir riecht mr de Schnaps uff e Stund Wäjs witt an. 
             <stage>(Er hett de Cylindre uff de Tisch gebolderd un will uff ’s Drumbohn los.)</stage></p>
@@ -848,18 +848,18 @@
             <stage>(züe de Bassgej, wo als de rote Bareblie underm Arm geklemmt hett)</stage>
             <p>Ich gläub, Ihr komme mit de Blabberroos.</p>
           </sp>
-          <sp who="#dr_bassgej">
+          <sp who="#d_r_bassgej">
             <speaker>BASSGEJ:</speaker>
             <p>Mine Vadder hett ass gsäit: Wann’s schöen Watter isch, nammt mr de Bareblie mit, un wann’s rajt
             oder schnejt, kann jeder Esel mache, was ar will.</p>
           </sp>
           <stage>BANGELESCHLACKER (hett sich glich züem Maidel an de Herd gemacht. Er lüepft d' Deckel un gückt
           in d' Häfe. ’s Maidel schlat em mit em Kochleffel uff d' Händ un kittert: Hi — Hihihi —)</stage>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Dü, Bangeleschlacker, dü losch jo de Schnaps stehn.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Diss ward ’s erschte Mol in mim Lawe. 
             <stage>(Er komt schnell here, kippt ’s Gläsel in sich nin, losst sich noch e Mol inschenke, kippt ’s
@@ -873,7 +873,7 @@
             <p>Allez, Gsündhäit, drinke, ass isch nit umesunscht Hochzitt morn.</p>
           </sp>
           <stage>BASSGEJ (hett sich in e Eck uff e Schemel gsetzt un schlooft, de Bareblie underm Arm)</stage>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <stage>(bliet mit Drumbohn un Basche am Disch sitze)</stage>
             <p>Diss isch jetz awer schnall gange, die Hieroterej von ejrem Bür.</p>
@@ -885,7 +885,7 @@
             mich de Mäischter anspanne. Mir sin uff Graswiller, wo ’s Gredel d’häme isch un do hett de Bür um ’s
             Gredel gfröjt.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Awer sie isch doch viel jüenger ass öjere Bür. Un so e natts Mäide. Ich kann’s. E Gsichtel wie e
             Schleh.</p>
@@ -894,7 +894,7 @@
             <speaker>BASCHE:</speaker>
             <p>Wie e Schleh?</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Aei jo, anlüeje, awer nit nin bisse. Ja, hett sie sich nit lang bedankt?</p>
           </sp>
@@ -913,7 +913,7 @@
             <p>Nit güet. De Vadder vom Gredel isch vor meh ass zeh Johre vom e Häiwäuje gfalle un isch an alle
             Gliddere lahm gebliewe. Zitter sitzt ar im Stüehlele un kann kenn Schritt meh gehn.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>E Bür — un lahm — ja, diss isch jo e Unglüeck.</p>
           </sp>
@@ -922,7 +922,7 @@
             <p>Nadierli, ’s Wase isch zeruckgange un sie solle arig in de Schulde stacke, vor allem wie kenn Büe
             do isch, dann ’s Gredel isch jo ’s änzich King.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>So isch die Sach, na, jetz versteh i’s. De Eldere zu Lieb hett ’s Gredel «Ja» gsäit. Wann jetz de
             Stowolder numme halwer so veliebt isch wie pressiert, nod ware die Schulde von de Eldere ball — 
@@ -945,7 +945,7 @@
             <p>De Mäischter isch d' letscht Wuch dine in de Stodt gewahn biem Junge — un hett mit m geredd. In
             ere halwe Stung fahrt jetz de Schang uff Graswiller, d' Hochzittere abhole.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Ja, ich versteh — ass gitt halt doch viel beesi Mieler im e Dorf un wann e Gröjkopf so e jungs
             Mäide aahole kommt, do kann er ebs ze höere krieje.</p>
@@ -967,7 +967,7 @@
           <stage>KATT (kommt von rächts zeruck. Sie drat zwei geblüemti Winkrüjle. Ihre noch kommt die Magd, wo
           geplotzt hett, mit eme Plateau voll Esse: Schambong, Speck, Bürekäs etc. Sie decke de Disch, ohne
           Dischduech). So — komme jetz — mir asse äui glich, dann nodhare finde mr doch kenn Zitt meh.</stage>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Katt, Ihr sin e Engel. Ejer Läwe han er kenn gschiederi Idee ghett. Zaj, dü Drumbohn, do lüej emol
             dene Schambung, un do die Bürestinkkas, do kann jo e alter Esel jung wäre.</p>
@@ -977,14 +977,14 @@
             <p>Do kann mr sich e Wangschtel oonfrasse, so satt un rund, ass mer e Wangelstänel druff
             verschmattere kennt.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Mach’s Mül nit zue witt uff, schunsch schlucks’sch dich sälwer nunder. 
             <stage>(Züe d'r Bassgej, wo noch immer schlooft)</stage>: Hej, Bass — komm doch, dü hucksch jo do wie
             e Pfund Schnitz — komm, ’s gibt ebs ze esse. 
             <stage>(Biem Wort «ebs ze esse» fahrt zeller in d' Höeche un kommt häre.)</stage></p>
           </sp>
-          <sp who="#dr_bassgej">
+          <sp who="#d_r_bassgej">
             <speaker>BASSGEJ:</speaker>
             <p>Diss isch ebs andersch ass so e matter wasseriger Kaffeeschlüri wie bie mir dhäm. 
             <stage>(Noch un noch isch ’s Gsind dezuekomme. Alles setzt sich um de Disch.)</stage></p>
@@ -993,7 +993,7 @@
             <speaker>KATT:</speaker>
             <p>Wo isch dann ’s Céléstine?</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Un de Bangeleschlacker? 
             <stage>(In dem Moment komt de Bangeleschlacker mit em Maidel vom Herd zeruck, alli zwei draue Holz
@@ -1003,12 +1003,12 @@
             <speaker>DRUMBOHN:</speaker>
             <p>Er kommt glich, d' Nas isch schun do.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Zaj, do komme häre, uns isch zue Müet wie de Hüehner im e Waizefeld. 
             <stage>(Sie esse un drinke.)</stage></p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Un wann mr ferdi sind, nod spiele mir diss Stüeckel: « Von dene versoffene Müsikante un dem
             verfrassene Gsind ». Namme ihr numme de Kas — ieh halt mich an de Schambung. 
@@ -1019,7 +1019,7 @@
             <p>Gann Achting, de Schambung isch scharf gsalze, mr stirbt dran, wann mr ze viel devon isst.</p>
             <pb n='17' />
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>So — äi, do will i doch minere Fräuj e Stüeck mitnamme, ich ward dene alte Belz doch schun lang
             gare los. 
@@ -1029,7 +1029,7 @@
             <speaker>DRUMBOHN:</speaker>
             <p>Gläuwe ’sem nit. Ar hett jo gar kenn Fräuj. Dü un e Fräuj — Hahaha.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Was wott äui e Fräuj mit mir anfange? Un ich erscht mit ihre? Do ward ich nit latz gemutzt. E
             Fräuj, wo finde dhat, ich drink ze viel Schnaps un nit ze wenni Win un Bier. Wo mich üss em Wirtshüss
@@ -1039,20 +1039,20 @@
             <stage>(Er drinkt mit eim Schluck sin Glas leer, will sich noch e Mole inschenke. Wie er sieht, ass
             es Kriejel leer isch, langt er’s de Katt.)</stage> Do, lange noch e Kriejel von dem Vitriol.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Heh, heh, mr sin do nit im e Wirtshüs.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Als eruffgholt, ich bezahl’s. So dhier sin Win un Schnaps noch lang nit, ass mir sie nit köennte
             schuldi bliewe. — Allez, Gsündhäit. Ze drinke doch.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Heh, langsam, schunsch bisch dü nimmi nüechtre wenn mr spiele müehn.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Was? Ich un nüechtre? E Mensch, wo nüechtre isch, isch e Mensch, wo noch halwer schlooft. Un äni
             von de finschte Sache im Lawe, diss isch e anstandigi Kischt. — Wann se numme nit so Kopfweh mache
@@ -1062,7 +1062,7 @@
             <speaker>DRUMBOHN:</speaker>
             <p>Jetz ass emole, kann’sch dann ’s Mül nit halte?</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>I glaöib, ich kann’s, awer i habs noch nie browiert.</p>
           </sp>
@@ -1070,7 +1070,7 @@
             <speaker>BASCHE:</speaker>
             <p>Ihr babble öjch jo ’s Mül noch franzlich.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>’s Mül franzlich, jetz lohn ihr mich gehn, jetz halt ich mich an d' Wiebslitt.</p>
           </sp>
@@ -1078,7 +1078,7 @@
             <speaker>KATT:</speaker>
             <p>Nä, nä, lohn uns numme gehn, alder Schöide.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Ohoh, Jumpfer Katt, was i säue hab wölle, han er äui e häiss Wangelstänel in öjer Bett gemacht —
             ich mecht nit friere hitt nacht.</p>
@@ -1091,7 +1091,7 @@
           </sp>
           <stage>KATT (druckt em d' Hand uff ’s Mül, er bisst nin. Katt krischt uff, un mr weis nitt, isch’s vor
           Blaisir oder vor Weh.)</stage>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Guet, namm dü se, isch mr äui eracht. Na ze halt ich mich an d’Junge. 
             <stage>(zue dere Magd vom Herd)</stage>: Mir basse äui gued zamme, gall, un wann dü die Nacht
@@ -1102,7 +1102,7 @@
             <stage>(kichert)</stage>
             <p>Hi, hi; hi, hi.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Ich wurr schun stiechem mache. Wann ’s Katzel an de Raöhm will, ze zieht’s äu nit zerscht
             Nussschale an d’Füess an, ass es klebbert.</p>
@@ -1119,15 +1119,15 @@
             <p>Ihr hann awer jetz schnall d’Idee gschangscheert. Ich hab jetz gemänt, ich köennt äui emol äner
             bekumme.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>D’Hoffnung nit uffgahn, Katt, als d’Hoffnung nit uffgahn. M’r mache’s wie bie de Düerike.</p>
           </sp>
-          <sp who="#dr_bassgej">
+          <sp who="#d_r_bassgej">
             <speaker>BASSGEJ:</speaker>
             <p>Ohoh, mr säit, ass derte e jeder Mansch e par Miedere hett.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Katt, wenn ihr einer wodde dhäte, glaub ich, brichte n’ihr nit witt ze laufe.</p>
           </sp>
@@ -1135,7 +1135,7 @@
             <speaker>KATT:</speaker>
             <p>Joh, gehn mr ewag mit de Mannslitte, i will nix wisse von ’ne.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Uff jede Fall halte-n-ejch an d’Alte, die junge Schnüfer sin wie d’Flichholder; husch, sin se uff
             ere andere Bluem.</p>
@@ -1147,7 +1147,7 @@
             älder wurd, isch mr nimmeh so gebressiert, do dhuet mr alles schöen langsam köechle.</p>
             <pb n='19' />
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER :</speaker>
             <stage>(sieht d’Brotwüerscht uff em Disch vorne, springt uff)</stage>
             <p>Was isch Katt, han ihr äui schun ’s Mass von de Brotwüerscht genumme?</p>
@@ -1156,7 +1156,7 @@
             <speaker>KATT:</speaker>
             <p>Wie diss:</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Ei, ihr müehn doch wisse, wie gross d'Portione ware solle. — Drumbohn, komm emol hare. 
             <stage>(Nemmt ’s Füerdüech von de Magd, bind’s im Drumbohn under d’Aerm un lajt em e Reif
@@ -1208,15 +1208,15 @@
             <speaker>DRUMBOHN:</speaker>
             <p>Aei jo, mir han e Klänigkeit ebs züe-n-is genumme.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Ja, merci, mir han ze-n-esse un ze drinke.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER:</speaker>
             <p>Un ze schaffe brüche mr nix.</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Mir hat grad d’Instrümenter gstimmt, un wie Sie sehn — sin mir alli allegro.</p>
           </sp>
@@ -1247,7 +1247,7 @@
             <stage>(hett im Stowalder durich de Dhüerspalte noochgelüejt)</stage>
             <p>Ar isch in sini Kammer un zieht sich andersch an; ar kommt jetz nimmi.</p>
           </sp>
-          <sp who="#dr_bangelschlacker">
+          <sp who="#d_r_bangelschlacker">
             <speaker>BANGELESCHLACKER :</speaker>
             <stage>(gaukelt schun e bissel)</stage>
             <p>Ohoh, dar Daönz isch nonitt üss. Jetz wurd eracht äns gsunge un gedöonzt. 
@@ -1775,7 +1775,7 @@
             <p>Ah so. 
             <stage>(Paus.)</stage></p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Schlacht Watter, — mr haön Nordwind.</p>
           </sp>
@@ -1783,7 +1783,7 @@
             <speaker>CHRISCHTEL:</speaker>
             <p>Hä?</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Schlachter Nordwind hammer.</p>
           </sp>
@@ -1878,7 +1878,7 @@
             <p>Nit ass ’s em emole geht wü dem Knacht, wo ich e Mol hab ghett. Dar isch früehjer Schriewer gewahn
             un üss lütter Gewohnhäit heit ar ass d' Mischtgawel hinger’s Ohr stecke welle.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Ho zall, d' Kopfarwäit isch fascht noch d' schwarscht, ich gsich’s an mine Ochse.</p>
           </sp>
@@ -1991,7 +1991,7 @@
             <speaker>LANZ:</speaker>
             <p>Franz, do sin ihr grad so e guedmietiger Ochsebar wie mir.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Ja, guedmüeti bin i, zall isch wohr, — i dhat mr ’s Holz uff em Kopf hackle lohn, — awer in de
             Hüsshalting, — do kann i nix, do loss ich mir nit ningredde. GROWECHRISCHTEL Chett bis jetz ifrig an
@@ -2009,7 +2009,7 @@
           <stage>XAVERI (langt de Teller nüewer)</stage>
           <pb n='36' />
           <stage>(Es wäre Platte mit gebachene Eier mit Speck eringetraue.)</stage>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Aeier mit Spack, diss isch min Sach. 
             <stage>(Er nemmt sich e unverschämti Portion, esst griddi.)</stage></p>
@@ -2018,7 +2018,7 @@
             <speaker>CHRISCHTEL:</speaker>
             <p>Heh, heh — un ich!</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Ass isch gelunge — e Hüehn brücht 14 Daj for e paar Aeier ze läje, — e Fräuj e Viertelstung for se
             ze baache un in zwäi Minütte isch alles gasse. 
@@ -2034,7 +2034,7 @@
             <speaker>SCHILZE:</speaker>
             <p>Lehn ’ne — e Küehbierel. Die köenne halt nit genüe bekumme.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ :</speaker>
             <stage>(losst d' Gawel falle, blitzt uff. Sine Frau zupft ’ne, er soll rüehwich sin)</stage>
             <p>Dittlich redde, — dittlich redde, — nit uff de linke Füess ditte, wann de racht gemänt isch. Ihr
@@ -2045,7 +2045,7 @@
             <stage>(sitzt breit un b’häwich)</stage>
             <p>Han ihr öjch gedroffe gfunge?</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ :</speaker>
             <stage>(zue sinere Frau)</stage>
             <p>Loss mich, wann mir äner e Fuess stellt, brüch ich em for ’s Leje nit ze danke. Mir warft kenner e
@@ -2056,7 +2056,7 @@
             <stage>(lacht)</stage>
             <p>Ha — ha — hah.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>FRANZ:</speaker>
             <p>Lache nurr, lache nurr, — lohn öjer Wangschtel hüpse. Wann ich äui e Küehjbierel bin un ken
             Rossbür, — in dr Bürerej mache-n-ihr mir noch lang nix vor.</p>
@@ -2184,7 +2184,7 @@
             <speaker>STAWALDER:</speaker>
             <p>Spiele jetz äns, was köenne ’ner?</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>E Hopser un e Ländler.</p>
           </sp>
@@ -2192,7 +2192,7 @@
             <speaker>STAWALDER:</speaker>
             <p>Kenne-n-er au de Rutsch hin — Rutsch her?</p>
           </sp>
-          <sp who="#dr_fisselbloje">
+          <sp who="#d_r_fisselbloje">
             <speaker>FISSELBOEJE:</speaker>
             <p>Ja nadierli. — Allez, une, deux. 
             <stage>(Stawalder engagiert d' Schiltze, de Schultz d' Mej etc. Sie danze, als ob se de Dielebodde
@@ -2737,7 +2737,7 @@
           Oellicht im e Sessel, e Deck uff de Füess, näwe-n-em Offe. Er hett e grossi Biwel uff em Geere un läst.
           Er hett e Brill uff un fahrt mit em Finger noch. ’s müess so geläse wäre, ass dr Sinn vom Gelä- sene
           verstande wurd un nit komisch wirkt.)</stage>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Unser Leben währet siebenzig Jahre, Und wenn es hoch kommt, so sind es 80 Jahre, Und wann es
             köstlich gewäsen ist, So ist es Mühe und Arbeit gewäsen, — Denn wir fahren schnell dahin, als flögen
@@ -2771,7 +2771,7 @@
             <stage>(mit diefer, küm unterdruckter Fraid)</stage>
             <p>Sie rueft noch mir, noch mir!</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(bringt Wasser im e Kruej)</stage>
             <p>Do, Jean.</p>
@@ -2780,7 +2780,7 @@
             <speaker>JEAN:</speaker>
             <p>Es geht schun besser.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Ich hol ebs Warms züem drinke.</p>
           </sp>
@@ -2813,7 +2813,7 @@
         </div>
         <div type="scene">
           <head>2. SZENE.</head>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(kommt zeruck mit ere Schüessel heisser Milich, gibt sie im Gredel, wo sie schluckwies drinkt.
             Er setzt sich uff d' Offebank)</stage>
@@ -2830,7 +2830,7 @@
             gsüecht. Wie noch de Mond erüs isch komme, ’s Wetter au nochgelohn hett, bin ich do here mit em
             Gredel. Un von de Uffrejung, vom Sturm un Schnee isch’s em schwach worre.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(noch ere kleine Paus)</stage>
             <p>Un jetz?</p>
@@ -2855,7 +2855,7 @@
             <stage>(schrejt uff)</stage>
             <p>Gredel!!</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Jean? Gredel? Gredel, dü hielsch? So isch’s? Ja, ’s Früehjohr un dr Herbscht sodde nit zamme
             komme.</p>
@@ -2868,7 +2868,7 @@
             d' Lieb uff’s Neje uffgebrennt in uns un ich, wo nie vorher e Maidel gärn hab ghett, hab jetz ken
             anderer Gedanke meh in mir als « Gredel ».</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(lüejt vor sich ane)</stage>
             <p>Macht au e Brand sich Sorje, verum ar üssgebroche isch? Odder de Bach, verum ar alles
@@ -2886,7 +2886,7 @@
             <stage>(fallt uff d' Knej vor ere, lajt de Kopf in ihre Gehre, schluchzt)</stage>
             <p>Gredel, Gredel.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(langsam)</stage>
             <p>In mine junge Johre han mr gsunge: Käin Feuer, käine Kohle kann brannen so häiss, Als haimliche
@@ -2896,7 +2896,7 @@
             <speaker>JEAN:</speaker>
             <p>Was han mir denn verschuld’t, ass mir so bitter weh miehn liede?</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>O Bue, d' Fröj noch de Schuld hett grad so wenni Wart wie Röje. Jetz höere mich. 
             <pb n='53' />Dü, Hans, dü wäisch, was d' witt. Dü witt nit schwimme wie ’s Wasser läuft un mit em
@@ -2913,7 +2913,7 @@
             <speaker>JEAN:</speaker>
             <p>Gredel...</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Kenn Wort meh, Jean. Mach, wie ich gsaöt hab. 
             <stage>(Zajt em d' Düehr, Hans ab.)</stage></p>
@@ -2921,7 +2921,7 @@
         </div>
         <div type="scene">
           <head>3. SZENE.</head>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Komm, Gredel, komm.</p>
           </sp>
@@ -2929,7 +2929,7 @@
             <speaker>GREDEL:</speaker>
             <p>Wie bin ich unglüecklich.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Gredel, ich bin jetz 82 Johr alt un hab viel Mansche kannt im Lawe. Un hab viel Manschelawe gsahn.
             Un ’s kommt mr vielmols vor, ass ob se alli unglüecklich warde gsin. Ich gläub, d' ganz Kunscht im
@@ -2942,7 +2942,7 @@
             <stage>(Gredel ab, d' Stäj nuff.)</stage></p>
             <pb n='54' />
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(setzt sich widder, nämmt d' Biwel widder un läst)</stage>
             <p>Wenn ich mit Menschen und mit Engelzungen redete und hätte der Liebe nicht, so wäre ich äin tönend
@@ -2954,7 +2954,7 @@
             <stage>(kommt zeruck)</stage>
             <p>’s isch bsorrit, Unkel Franz.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Do, wickel di gued in un rüehj di üss. 
             <stage>(Paus.)</stage> Dowe lejt’s Gredel jetz un hielt sich d’Aue rot um dich. Dü bisch do unde un
@@ -2974,7 +2974,7 @@
         </div>
         <div type="scene">
           <head>4. SZENE.</head>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL :</speaker>
             <stage>(kommt zeruck, bedracht de Jean)</stage>
             <p>’s gröescht Glüeck, ’s gröescht Läid, alli zwäj häisse sie: Fräuj 
@@ -2985,7 +2985,7 @@
             <stage>(kommt d' Stäj erab, rüeft lies)</stage>
             <p>Unkel Franz.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Was, Gredel, dü? Bscht still, de Jean schlooft.</p>
           </sp>
@@ -2994,7 +2994,7 @@
             <stage>(bliet unde an de Stäj vor em Jean stehn)</stage>
             <p>Ich bitt öjch um alles in de Walt, füehre mich furt, glich, glich.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Wo anne?</p>
           </sp>
@@ -3003,7 +3003,7 @@
             <stage>(langsam, fescht)</stage>
             <p>Zuem Stowolder.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Dü hesch schwassiert?</p>
           </sp>
@@ -3012,7 +3012,7 @@
             <p>Ja.</p>
             <pb n='55' />
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Fescht, felsefescht entschlosse?</p>
           </sp>
@@ -3020,7 +3020,7 @@
             <speaker>GREDEL:</speaker>
             <p>Ja.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Gredel, bedank di gued for dene Schritt ze mache. Er schäid’t for immer dich vom Jean.</p>
           </sp>
@@ -3034,7 +3034,7 @@
             <stage>(sie schritt üewer de Jean eweg un kommt vor zuem Unkel Franz)</stage>: Was lejt an mir, nit
             äne Buechstawe derfe mini Eldre wisse.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>Ich hab nurr noch e kläne Waj zuem Grab un ich kann stille sin.</p>
           </sp>
@@ -3053,7 +3053,7 @@
             <stage>(dief drürich)</stage> alles gschahne. 
             <stage>(Im Fenschter wurd’s gröjer Morje.)</stage></p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL:</speaker>
             <p>’s erscht Licht steht schun im Fanschter uff. Gab dir de Harrgott, ass dü’s nie beröjsch. Mir
             fahre in Gotts Namme. Was dir de Himmel schickt, namm’s an un traöj’s geduldi. 
@@ -3199,7 +3199,7 @@
             <stage>(kommt mit em Basche un Unkel Franz vor)</stage>
             <p>Isch de Jean als nonitt do?</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL FRANZ:</speaker>
             <p>Nä, was witt, diss Schneewatter hett em arig züegselzt. Ar isch die Luft halt nit gewohnt wie mir.
             Wo ich mit em Gredel bie mir dhäm furt bin, hett ar fescht gschloofe.</p>
@@ -3223,7 +3223,7 @@
             <stage>(D’ Glocke fange an, zamme ze litte.)</stage> Mache öjch äui ferdi, Unkel Franz, for mit in d'
             Kirich ze gehn.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL FRANZ:</speaker>
             <p>Nän, Stowolder. Die Nacht isch lang gewahn. E kläner Nicker schad’t mr nix. 
             <stage>(Setzt sich in de Sessel.)</stage></p>
@@ -3423,7 +3423,7 @@
             <stage>(Er streckt d' Hand üss, blitzt erum)</stage>: Wer rueft mir Möerder, — — bin ich'nit im
             Rächt?! —</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL FRANZ :</speaker>
             <stage>(wo bis jetzt hinde im Lehnsessel so gsässe isch, ass mr ne nit gsähne hett, steht uff un
             kommt langsam häre)</stage>
@@ -3558,7 +3558,7 @@
             <p>Es geht — ze End — — ich sieh ejch — schun — fascht — nimm — —. Min Läwe isch ze heiss
             uffgflackert, — drum — müess ich jetz — vebrenne dran.</p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL FRANZ:</speaker>
             <p>Ar redd im Fiewer.</p>
           </sp>
@@ -3591,7 +3591,7 @@
             <stage>(fallt under Träne im Unkel Franz in d' Aerm)</stage>.
             <stage>(Alli andere kneje ane.)</stage></p>
           </sp>
-          <sp who="#dr_unkel_franz">
+          <sp who="#d_r_unkel_franz">
             <speaker>UNKEL FRANZ:</speaker>
             <p>— — — Mir gehn wie in de Nacht durich unser Läwe. Uff dunkle Wäj, an diefe Abgrüend durich. Mir
             han kenn Angscht, mir wisse’s nit. — — — Nurr manichs Mol brannt äner hall uf, grad wie e Fackel. Nod
