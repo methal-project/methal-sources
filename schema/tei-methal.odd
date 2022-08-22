@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Customization for MeThAL: Towards a Macroanalysis of Theater in ALsatian</title>
+        <author>Pablo Ruiz Fabo</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Used by the MeThAL project.</p>
+      </publicationStmt>
+      <notesStmt>
+        <note type="ns">https://methal.pages.unistra.fr/</note>
+      </notesStmt>
+      <sourceDesc>
+        <p>Initial version.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <divGen type="toc"/>
+    </front>
+    <body>
+      <p>TEI customization for play encoding in the MeThAL corpus.</p>
+      <schemaSpec ident="tei-methal" docLang="en" prefix="tei_" xml:lang="en">
+        <moduleRef key="core" except=""/>
+        <moduleRef key="tei" except=""/>
+        <moduleRef key="header" except=""/>
+        <moduleRef key="textstructure" except=""/>
+        <moduleRef key="verse" except=""/>
+        <moduleRef key="drama" except=""/>
+        <moduleRef key="linking" except=""/>
+        <moduleRef key="certainty" except=""/>
+        <moduleRef key="corpus" except=""/>        
+        <moduleRef key="namesdates" except=""/>
+        <moduleRef key="analysis" except=""/>        
+        <moduleRef key="tagdocs" except=""/>
+        <elementSpec ident="front" module="core" mode="change">
+          <constraintSpec scheme="schematron" ident="div_type_in_front">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:front/tei:div">
+                <sch:assert test="if (@type) then @type = ('abbreviations', 'character-description', 'dedication', 'front', 'preface', 'set') else true()">A div in front can only be of types abbreviation, character-description, dedication, front, preface, set</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
+        </elementSpec>
+        <elementSpec ident="relation" module="core" mode="change">          
+          <constraintSpec scheme="schematron" ident="ana_values_in_relation">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:relation">
+                <sch:assert test="if (@ana) then @ana = ('intext') else true()">An ana in relation can only have intext as value</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
+        </elementSpec>
+        <elementSpec ident="set" module="core" mode="change">
+          <constraintSpec scheme="schematron" ident="ana_values_in_set">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:set">
+                <sch:assert test="if (@ana) then @ana = ('performance-duration', 'place', 'scene', 'time') else true()">An ana in set can only have values 'performance-duration', 'place', 'scene', 'time'</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
+        </elementSpec>
+        <elementSpec ident="person" module="core" mode="change">
+          <constraintSpec scheme="schematron" ident="sex_values_for_characters">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:person[parent::listPerson]">
+                <sch:assert test="@sex = ('B', 'F', 'M', 'U')">Possible character sex values in listPerson are B, F, M, U</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>         
+          <constraintSpec scheme="schematron" ident="character_ID_shape">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:person[parent::listPerson]">
+                <sch:assert test="matches(@xml:id, 'A-Za-z0-9_-')">Character IDs can only contain alphanumeric characters, dash or underscore</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>         
+          
+        </elementSpec>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
