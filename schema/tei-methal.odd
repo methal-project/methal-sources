@@ -70,7 +70,7 @@
           <constraintSpec scheme="schematron" ident="sex_values_for_characters">
             <desc/>
             <constraint>
-              <sch:rule context="tei:person[parent::listPerson]">
+              <sch:rule context="tei:person[parent::tei:listPerson]">
                 <sch:assert test="@sex = ('B', 'F', 'M', 'U')">Possible character sex values in listPerson are B, F, M, U</sch:assert>
               </sch:rule>
             </constraint>
@@ -78,12 +78,11 @@
           <constraintSpec scheme="schematron" ident="character_ID_shape">
             <desc/>
             <constraint>
-              <sch:rule context="tei:person[parent::listPerson]">
-                <sch:assert test="matches(@xml:id, 'A-Za-z0-9_-')">Character IDs can only contain alphanumeric characters, dash or underscore</sch:assert>
+              <sch:rule context="tei:person[parent::tei:listPerson]">
+                <sch:assert test="matches(@xml:id, '^[A-Za-z0-9_-]+$')">Character IDs can only contain alphanumeric characters, dash or underscore</sch:assert>
               </sch:rule>
             </constraint>
-          </constraintSpec>         
-          
+          </constraintSpec>          
         </elementSpec>
       </schemaSpec>
     </body>
