@@ -56,31 +56,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="voltz_martin" sex="MALE">
+          <person xml:id="voltz_martin" sex="M">
             <persName>Voltz Martin</persName>
           </person>
-          <person xml:id="marikel" sex="FEMALE">
+          <person xml:id="marikel" sex="F">
             <persName>Marikel</persName>
           </person>
-          <person xml:id="xaverel" sex="MALE">
+          <person xml:id="xaverel" sex="M">
             <persName>Xaverel</persName>
           </person>
-          <person xml:id="schorschel" sex="MALE">
+          <person xml:id="schorschel" sex="M">
             <persName>Schorschel</persName>
           </person>
-          <person xml:id="grossbabbe" sex="MALE">
+          <person xml:id="grossbabbe" sex="M">
             <persName>Dr Grossbabbe</persName>
           </person>
-          <person xml:id="spahnelanz" sex="MALE">
+          <person xml:id="spahnelanz" sex="M">
             <persName>Spähnelänz</persName>
           </person>
-          <person xml:id="nissmeier" sex="MALE">
+          <person xml:id="nissmeier" sex="M">
             <persName>Nissmeier</persName>
           </person>
-          <person xml:id="chrischtkindel" sex="UNKNOWN">
+          <person xml:id="chrischtkindel" sex="U">
             <persName>’s Chrischtkindel</persName>
           </person>
-          <person xml:id="hanstrapp" sex="MALE">
+          <person xml:id="hanstrapp" sex="M">
             <persName>Dr Hanstrapp</persName>
           </person>
           <personGrp xml:id="alli" sex="UNKNOWN">

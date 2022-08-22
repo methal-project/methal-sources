@@ -51,55 +51,55 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ropfer" sex="MALE">
+          <person xml:id="ropfer" sex="M">
             <persName>Antoine Ropfer</persName>
           </person>
-          <person xml:id="emilie" sex="FEMALE">
+          <person xml:id="emilie" sex="F">
             <persName>Emilie</persName>
           </person>
-          <person xml:id="jeanne" sex="FEMALE">
+          <person xml:id="jeanne" sex="F">
             <persName>Jeanne</persName>
           </person>
-          <person xml:id="anatol" sex="MALE">
+          <person xml:id="anatol" sex="M">
             <persName>Anatol</persName>
           </person>
-          <person xml:id="jules" sex="MALE">
+          <person xml:id="jules" sex="M">
             <persName>Jules Salber</persName>
           </person>
-          <person xml:id="albert" sex="MALE">
+          <person xml:id="albert" sex="M">
             <persName>Albert Reißer</persName>
           </person>
-          <person xml:id="schmidt" sex="FEMALE">
+          <person xml:id="schmidt" sex="F">
             <persName>Madame Susanne Schmidt</persName>
           </person>
-          <person xml:id="susanne" sex="FEMALE">
+          <person xml:id="susanne" sex="F">
             <persName>Susanne</persName>
           </person>
-          <person xml:id="general" sex="MALE">
+          <person xml:id="general" sex="M">
             <persName>Schampetiß Schneider (gen. Général)</persName>
           </person>
-          <person xml:id="ammej" sex="FEMALE">
+          <person xml:id="ammej" sex="F">
             <persName>Ammej</persName>
           </person>
-          <person xml:id="jean" sex="MALE">
+          <person xml:id="jean" sex="M">
             <persName>Jean</persName>
           </person>
-          <person xml:id="marie" sex="FEMALE">
+          <person xml:id="marie" sex="F">
             <persName>Marie</persName>
           </person>
-          <person xml:id="wanda" sex="FEMALE">
+          <person xml:id="wanda" sex="F">
             <persName>Wanda Stern</persName>
           </person>
-          <person xml:id="piefke" sex="MALE">
+          <person xml:id="piefke" sex="M">
             <persName>Piefke</persName>
           </person>
-          <person xml:id="chrischtenatz" sex="MALE">
+          <person xml:id="chrischtenatz" sex="M">
             <persName>D’r Chrischtenatz</persName>
           </person>
-          <person xml:id="handwerker1" sex="MALE">
+          <person xml:id="handwerker1" sex="M">
             <persName>Erster Handwerker</persName>
           </person>
-          <person xml:id="handwerker2" sex="MALE">
+          <person xml:id="handwerker2" sex="M">
             <persName>Zweiter Handwerker</persName>
           </person>
         </listPerson>

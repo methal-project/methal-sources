@@ -70,72 +70,72 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="fritz_grinsinger" sex="MALE">
+          <person xml:id="fritz_grinsinger" sex="M">
             <persName>Fritz <emph rend="italic">Grinsinger</emph></persName>
           </person>
-          <person xml:id="madame_grinsinger" sex="FEMALE">
+          <person xml:id="madame_grinsinger" sex="F">
             <persName>
               <emph rend="italic">Caroline Grinsinger</emph>
             </persName>
           </person>
-          <person xml:id="jeannette" sex="FEMALE">
+          <person xml:id="jeannette" sex="F">
             <persName>
               <emph rend="italic">Jeannette Grinsinger</emph>
             </persName>
           </person>
-          <person xml:id="lisa" sex="FEMALE">
+          <person xml:id="lisa" sex="F">
             <persName>
               <emph rend="italic">Lisa Grinsinger</emph>
             </persName>
           </person>
-          <person xml:id="auguste" sex="MALE">
+          <person xml:id="auguste" sex="M">
             <persName>
               <emph rend="italic">Auguste Grinsinger</emph>
             </persName>
           </person>
-          <person xml:id="ehrstein" sex="MALE">
+          <person xml:id="ehrstein" sex="M">
             <persName><emph rend="italic">Georges</emph> Ehrstein</persName>
           </person>
-          <person xml:id="durand" sex="MALE">
+          <person xml:id="durand" sex="M">
             <persName>
               <emph rend="italic">Charles Durand</emph>
             </persName>
           </person>
-          <person xml:id="dr_kneppchen" sex="MALE">
+          <person xml:id="dr_kneppchen" sex="M">
             <persName>Dr. Kneppchen</persName>
           </person>
-          <person xml:id="hans_grinsinger" sex="MALE">
+          <person xml:id="hans_grinsinger" sex="M">
             <persName>Hans Grinsinger</persName>
           </person>
-          <person xml:id="gauthier" sex="MALE">
+          <person xml:id="gauthier" sex="M">
             <persName>Karl Gauthier</persName>
           </person>
-          <person xml:id="olga" sex="FEMALE">
+          <person xml:id="olga" sex="F">
             <persName>Olga Gauthier</persName>
           </person>
-          <person xml:id="riemer" sex="MALE">
+          <person xml:id="riemer" sex="M">
             <persName>
               <emph rend="italic">Rièmer</emph>
             </persName>
           </person>
-          <person xml:id="de_rose" sex="MALE">
+          <person xml:id="de_rose" sex="M">
             <persName>
               <emph rend="italic">Le baron de Rose</emph>
             </persName>
           </person>
-          <person xml:id="marie" sex="FEMALE">
+          <person xml:id="marie" sex="F">
             <persName>Marie</persName>
           </person>
-          <person xml:id="diener" sex="MALE">
+          <person xml:id="diener" sex="M">
             <persName>Ein Diener</persName>
           </person>
-          <person xml:id="gendarm" sex="MALE">
+          <person xml:id="gendarm" sex="M">
             <persName>Ein Gendarm</persName>
           </person>
-          <person xml:id="ein_mitglied_des_sachsenbundes" sex="UNKNOWN">
+          <person xml:id="ein_mitglied_des_sachsenbundes" sex="U">
             <persName>Ein Mitglied des Sachsenbundes</persName>
           </person>
-          <person xml:id="ein_mitglied_der_fanfare" sex="UNKNOWN">
+          <person xml:id="ein_mitglied_der_fanfare" sex="U">
             <persName>Ein Mitglied der <emph rend="italic">Fanfare</emph></persName>
           </person>
           <personGrp xml:id="mitglieder_der_fanfare" sex="UNKNOWN">

@@ -51,22 +51,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="madame_schweberle" sex="FEMALE">
+          <person xml:id="madame_schweberle" sex="F">
             <persName>Madame Schweberle</persName>
           </person>
-          <person xml:id="oscar" sex="MALE">
+          <person xml:id="oscar" sex="M">
             <persName>Oscar</persName>
           </person>
-          <person xml:id="madame_lewermann" sex="FEMALE">
+          <person xml:id="madame_lewermann" sex="F">
             <persName>Madame Lewermann</persName>
           </person>
-          <person xml:id="suzanne" sex="FEMALE">
+          <person xml:id="suzanne" sex="F">
             <persName>Suzanne</persName>
           </person>
-          <person xml:id="jean_brey" sex="MALE">
+          <person xml:id="jean_brey" sex="M">
             <persName>Jean Brey</persName>
           </person>
-          <person xml:id="schakob" sex="MALE">
+          <person xml:id="schakob" sex="M">
             <persName>Schakob</persName>
           </person>
           <listRelation type="personal">

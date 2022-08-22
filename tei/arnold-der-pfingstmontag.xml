@@ -76,7 +76,7 @@
                     <person xml:id="rosine" sex="F">
                         <persName>Frau Rosine</persName>
                     </person>
-                    <person xml:id="mehlbrüej" sex="M">
+                    <person xml:id="mehlbruej" sex="M">
                         <persName>Herr Mehlbrüh (Mehlbrüej)</persName>
                     </person>
                     <person xml:id="wolfgang" sex="M">
@@ -88,10 +88,10 @@
                     <person xml:id="prechtere" sex="F">
                         <persName>Frau Prechterin (Prechtere)</persName>
                     </person>
-                    <person xml:id="klärel" sex="F">
+                    <person xml:id="klarel" sex="F">
                         <persName>Klärchen (Klärel)</persName>
                     </person>
-                    <person xml:id="gläsler" sex="M">
+                    <person xml:id="glasler" sex="M">
                         <persName>Gläsler</persName>
                     </person>
                     <person xml:id="berwel" sex="F">
@@ -106,11 +106,11 @@
                     <listRelation>
                         <relation name="spouses" mutual="#starkhans #dorthee"/>
                         <relation name="parent_of" active="#starkhans #dorthee" passive="#lissel"/>
-                        <relation name="spouses" mutual="#mehlbrüej #rosine"/>
-                        <relation name="parent_of" active="#mehlbrüej #rosine" passive="#wolfgang"/>
-                        <relation name="associated_with" active="#christinel" passive="#mehlbrüej"/>
-                        <relation name="related_with" active="#lizentiat" passive="#mehlbrüej"/>
-                        <relation name="parent_of" active="#prechtere" passive="#klärel"/>
+                        <relation name="spouses" mutual="#mehlbruej #rosine"/>
+                        <relation name="parent_of" active="#mehlbruej #rosine" passive="#wolfgang"/>
+                        <relation name="associated_with" active="#christinel" passive="#mehlbruej"/>
+                        <relation name="related_with" active="#lizentiat" passive="#mehlbruej"/>
+                        <relation name="parent_of" active="#prechtere" passive="#klarel"/>
                     </listRelation>
                 </listPerson>
             </particDesc>
@@ -718,7 +718,7 @@
                         <l>Zuem truzze, zuem Gebefz, zue Händle, Nyd un Gschray,</l>
                         <l>Wo kain’s nix dervon träumt, wenn baidi noch sinn frey.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Do isch merr noch gemäh, gschlaacht wie e Hämmelsqualle.</l>
                         <l>Der Herr isch buschberli un d’ Jumfer meecht em gfalle;</l>
@@ -734,7 +734,7 @@
                         <l>Im Kaste d’ Wesch ufghebt, ’s Gsind recht in Ordnung ghalde,</l>
                         <l>Un wolfel ales kauft; do freau nur myne-n-Alde.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Dogeje het der Mann au manchi suuri Haz,</l>
                         <l>Wenn d’ Frau voll Radde-n-isch, krammt, spyzt aß wie e K az.</l>
@@ -749,7 +749,7 @@
                         <l>Haßliere, dowe, Stryt, un doch isch ken Gedanke</l>
                         <l>Von allem demm im Huus.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>I haa ’s halt gsait vor Gspaß.</l>
                         <l>De bisch, myntwäje, doch vilmol e Raddebaß;</l>
@@ -770,7 +770,7 @@
                         <l>I waiß nit was Si will, Frau Bas. Die Reddesarde</l>
                         <l>Versteh i nit.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Poz Mord! Bisch au von denne zarde</l>
                         <l>Un spreede Jümferle, wo nit derglyche duen,</l>
@@ -790,7 +790,7 @@
                         <l>Es isch jez usgemacht; de bruchst di nit ze schämme.</l>
                         <l>Mainst denn merr waiß es nit daß du ne hesch zuem Schatz?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Ey lueau! Do sitzt ’s, myn sechs, wie e gebrüejdi Kaz,</l>
                         <l>Wurd roth wie e Welschhahn, macht Aue wie Salzbüechsle,</l>
@@ -815,7 +815,7 @@
                         <l>Daß de-n-in vierzeh Daa e Frau wurst. Ach Herr Jehmer,</l>
                         <l>Schunn morje henn err d’ Stund.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Was pflennst denn ? Ey se geh mer.</l>
                         <l>Bisch gschosse-n-oder nit? Freau dyne Babbe nur</l>
@@ -854,7 +854,7 @@
                         <l>Sinn Si numme</l>
                         <l>Nit bsorrjt dofor.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Diß gitt e rechdi Gasterey;</l>
                         <l>Der Kolmerer kummt au, myn Vedder un myn Gschwey.</l>
@@ -2696,7 +2696,7 @@
                         <l>Sych Klärel, an e Mann soll merr syn Herz nie henke,</l>
                         <l>Wenn merr nit syner Sach gewiß isch.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Großer Gott!</l>
                         <l>Diß hätt i nie geglaubt, daß er lychtfertje Spott</l>
@@ -2707,7 +2707,7 @@
                         <l>Glaub ’s odder nit. De gheerst doch au nit zue de Dauwe.</l>
                         <l>Syn Vadder het ’s so gstait vor dier, aß wie vor mier.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Es stoßt mer ’s Herz noch aa.</l>
                     </sp>
@@ -2717,7 +2717,7 @@
                         <l>Dich nit so kindisch uf. ’S gitt noch viel bravi Männer,</l>
                         <l>Un du bisch aine werth, so guet aß andri.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wenn er</l>
                         <l>Nurr nit sich so verstellt un so gelaoue hät,</l>
@@ -2737,7 +2737,7 @@
                         <l>Uf Hyslichkeit, Verstand, Ordnung un Flyß. Verlier</l>
                         <l>Nurr d’ Hoffnung nit e so.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Het merr e glükli’s Lewe</l>
                         <l>So ganz gewiß erwart’, so kan ’s nimm’ lycht ebs gewe</l>
@@ -2769,7 +2769,7 @@
                         <l>De hest in allem Recht. Doch muest ne jez vergesse;</l>
                         <l>Nie soll merr uf e Mann so griddi sin versesse.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Kann merr denn dofor ebs?</l>
                     </sp>
@@ -2780,7 +2780,7 @@
                         <l>For Jümferle wie ier, nit alle Daa Hochzydder.</l>
                         <l>Ier meechte si derzue noch us em Eff.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Schunn widder</l>
                         <l>Kummt do der Kolmerer by Inne-n-uf ’s Dabeet.</l>
@@ -2789,7 +2789,7 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>Was hesch denn geje ne?</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>I waiß es nit. Er steht</l>
                         <l>Mer halt nit an. So isch ’s. Es gfallt mer au syn Namme</l>
@@ -2809,7 +2809,7 @@
                         <l>Isch rych, guet, jung un frisch, nit dumm, un het di gern:</l>
                         <l>Was welle-n-err denn noch, ier Maidle? Himmelstern!</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Ich will emol e Mann wo gscheid isch, wo in Ehre</l>
                         <l>Von andre ghalde wurd, von dem merr au ebbs lehre</l>
@@ -2820,7 +2820,7 @@
                         <l>Merr kriejt ’s nit allemol wie merr ’s meecht han. Es steht</l>
                         <l>An dier, ob du ne witt. Ich wurr di niemol zwinge.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Myn Glük isch halt verbey. Duen Si nit in mi dringe</l>
                         <l>For dene Kolmerer. Het merr am Mann kain Fraid,</l>
@@ -2833,7 +2833,7 @@
                         <l>Nurr dauwe-n-Ohre do. Der Wolfgang het diß Kind</l>
                         <l>Vergaukelt un verhext.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>I bin em als nit Fynd;</l>
                         <l>I haa ne viel ze werth.</l>
@@ -2861,7 +2861,7 @@
                         <l>Ewwe ze mär ... Sie sehn vergelstert und verdaddert</l>
                         <l>Jo us!</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <stage>bei Seite</stage>
                         <l>I waiß nit recht was der alt Staches schnadert.</l>
@@ -2873,7 +2873,7 @@
                         <l>Mier? I freau</l>
                         <l>Wie ’s um ier Gsundhait steht.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Ze diene, guet.</l>
                     </sp>
@@ -2893,7 +2893,7 @@
                         <l>Wenn Si in ’s Bett gehn. ’S stärkt ne d’ Nerve, Jumfer Bas,</l>
                         <l>Un macht noch wachse d’ Hoor. Duen Si sich au erbreche?</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Ich? Ayewohl.</l>
                     </sp>
@@ -2942,7 +2942,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>I bin e Kazzefrynd.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <stage>bei Seite</stage>
                         <l>Wär nurr der dirr Flehpeder</l>
@@ -2952,7 +2952,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Gummang? Scheen Bäsel, was beliebt?</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Ich dank ne for ’s Bressend.</l>
                     </sp>
@@ -2992,7 +2992,7 @@
                         <l>Nyn gryscht so gryscht ’s erus. Mit der Münz wo merr zahlt,</l>
                         <l>Zahlt ess e-n-anderer au ...</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <stage>bei Seite</stage>
                         <l>Es isch nimm’ uszehalde! </l>
@@ -3127,7 +3127,7 @@
                 <div type="scene">
                     <head>Sechster Auftritt</head>
                     <stage type="characters">Die Vorigen. Gläsler. Christinel.</stage>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Ae scheene guede-n-Owe</l>
                         <l>Froi Prächtere. Wee geht’s?</l>
@@ -3137,7 +3137,7 @@
                         <l>Mer kinne ’s nit recht lowwe.</l>
                         <l>Myn Dochter het Kopfweh un ich e klaini Scheen.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S isch mer vo’ Härze laid.</l>
                     </sp>
@@ -3145,7 +3145,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>I hoff ’s wurd ball vergehn.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <stage>den Lizenziat erblickend</stage>
                         <l>Ghorsamer Diener, Herr.</l>
@@ -3156,7 +3156,7 @@
                         <l>Wott Serrwithör. Was lewe</l>
                         <l>D’ Lyt guets im Owwerland?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>So so. Wä’ nomme d’ Räwe</l>
                         <l>Ne bizzle besser halt ussähde, gieng’s als guet.</l>
@@ -3170,7 +3170,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Was mache-n-ieri Lyt?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I dank der Nohfrooj: guet. – Es word dee Jumfer Klärel</l>
                         <l>Doch nit bettläjrigg sy’. I hab gwiß by’m ä Härel</l>
@@ -3182,7 +3182,7 @@
                         <l>Nain. Blywe Si nur scheen;</l>
                         <l>Si kummt jez glych eraa.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Wänn ’s nurr däm liewe-n-Aengel</l>
                         <l>Nit üebel geht. So guet, so ohne-n-alli Mängel</l>
@@ -3212,7 +3212,7 @@
                         <l>Merr isch hie erwer, frumm, lebt nit in Suus un Bruus,</l>
                         <l>Un ehrt au d’ Gaistlikait. Reljon bringt Glük in ’s Huus.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Där Herr redt wee-n-ä Buech. Aer het doch o’ vil Kinder?</l>
                     </sp>
@@ -3220,7 +3220,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Ich? Nong, myn Herr. Wurrum, i haa nit ains.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Der Schinder!</l>
                         <l>I hät, by Gosch, so gloibt, är het ä ganz Huus voll,</l>
@@ -3231,7 +3231,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Nong. Wurrum, i bin leddi.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aer ä Junggsell?</l>
                     </sp>
@@ -3247,7 +3247,7 @@
                         <l>Daß merr nit hindedryn sich wie e Hund mueß schämme;</l>
                         <l>Doch isch es als noch Zyt.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S isch doch ä bizzle spoot.</l>
                     </sp>
@@ -3257,7 +3257,7 @@
                         <l>Waiß er ’s wyl er mer doch er saat. Er sott z’erst lehre</l>
                         <l>Wie merr so Lyt wie ich tidliere duet un ehre?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Haa-n-i ’s dän bees so gamaint, Herr Lizeziat.</l>
                     </sp>
@@ -3274,7 +3274,7 @@
                         <l>Ungaddi hoch in d’ Heeh wo nix sinn geje mier,</l>
                         <l>Un wo i, wemmer will, blind uf de Gänsstall füer.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S kummt epper. Wär ka ’s sinn?</l>
                         <stage>Klärchen und Christinchen treten ein.</stage>
@@ -3310,7 +3310,7 @@
                         <l>Se hät diß Deifelsvieh mi ganz verhoort, villycht</l>
                         <l>Noch umgebrocht derzue.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Ey! Wott e drurji Gschicht.</l>
                     </sp>
@@ -3320,7 +3320,7 @@
                         <l>Der het die Kaiwehund recht mit der Baitsch getroffe</l>
                         <l>Un het di durchgegerbt.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Do hät i mi gewehrt;</l>
                         <l>Si saaue jo Si sinn so herzaft.</l>
@@ -3336,7 +3336,7 @@
                         <l>Daß i dem wüetje Viej recht uf de Belz kan drumme,</l>
                         <l>Un haa ’s gar unter d’ Hund hiengschlendert.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wott e Haz</l>
                         <l>Diß mueß gewese sin?</l>
@@ -3350,7 +3350,7 @@
                         <l>Ohn daß i, usser’m Stok, Sakbüfferle nimm mit,</l>
                         <l>Un e Schnappmesser noch, e gschliffes.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wie isch ’s gange</l>
                         <l>Dnoh mit der Lycht?</l>
@@ -3382,16 +3382,16 @@
                         <l>Der Apfel fallt nit wyt vom Baum. I glych uf ’s Härel</l>
                         <l>Mym Vadderseeli ganz.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>See sinn jo, Jumfer Klärel,</l>
                         <l>So still. Hän See noch Schmärz?</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Jo. ’S isch mer als nit guet.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I kan See nit so sähn un gäbd’ my aije Bluet</l>
                         <l>For eeri Gsundhait här.</l>
@@ -3413,7 +3413,7 @@
                         <l>Wo in Gelehrsamkait ebs recht’s bedytt. Er soll mer</l>
                         <l>Nur aine saaue.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was? See sinn, Gott strof mi, z’ Kolmer</l>
                         <l>O’ nit uf d’Nase keit. ’S het dert viel glehrdi Lyt,</l>
@@ -3440,7 +3440,7 @@
                         <l>Herr Pfedder</l>
                         <l>Was sinn si im e Jast un Zorn?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Poz Hüenerwätter!</l>
                         <l>’S word mer erbrächerigt, ier Maiselocker ier</l>
@@ -3448,12 +3448,12 @@
                         <l>Heert merr ych an, se hän zwai Dutter by-n-ych d’ Eyer</l>
                         <l>Un ier hän de Verstand ellainigg gfräße.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wayer</l>
                         <l>Sie redde niggar scheen.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I nimm ke Blatt vor ’s Muul.</l>
                         <l>Christinel</l>
@@ -3466,7 +3466,7 @@
                         <l>Versezze-n-iwwers Ohr du Gehlschnaik. Was, dem Lalli,</l>
                         <l>Dem Boddelast gisch recht?</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Mer soll nit iwwer alli</l>
                         <l>Lyt im e ganze Land loszeye.</l>
@@ -3479,7 +3479,7 @@
                         <l>Bollhämmel wo err sinn, i kumm ych noch in d’ Hoor,</l>
                         <l>Un ropf ych aß wie Gäns.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Un was mer scheeni Froie</l>
                         <l>Un Jumfre hän, wo sinn wee Aengel aazeb’schoie,</l>
@@ -3512,14 +3512,14 @@
                         <l>Demm wo mer widderbefzt meecht i glych e paar Hamfle</l>
                         <l>Ohrefeye genn.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Hola! Herr Nochber, ’s geht nit so;</l>
                         <l>Ohrfygge kan är oi vo’ mier glych krieje do.</l>
                         <l>Sycht är diß Füstel? Hä? See sinn diß Johr guet g’rothe</l>
                         <l>Dee Dachtle; steh’ ze Dienst.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Na. Na.</l>
                     </sp>
@@ -3529,7 +3529,7 @@
                         <l>Verhindre Si mi nurr daß i mi nit vergryff</l>
                         <l>An dem Wynleauel do.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was brummlet do der styff</l>
                         <l>Un maajer Duttle?</l>
@@ -3557,7 +3557,7 @@
                         <l>Wer mit de Krumme lebt der lehrt au gar ball hinke;</l>
                         <l>Un Brotwurst mueß mer nit im Hundsstall sueche.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <stage>zornig</stage>
                         <l>Will</l>
@@ -3580,17 +3580,17 @@
                 <div type="scene">
                     <head>Siebenter Auftritt</head>
                     <stage type="characters">Die Vorigen.</stage>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Jo geh! Sust wott i derr ä Liedel doch vorgyge</l>
                         <l>Wo de ke Fraid dra’ hätst, un wo di glych miecht schwyge.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Daß Si ’s nurr wisse-n-au, Si füere sich schlecht uf.</l>
                         <l>’S isch ken unwäyer Mann.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aer redt aß wee im Suff.</l>
                     </sp>
@@ -3598,7 +3598,7 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>Er isch mit ess verwandt.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was schärt mi ’s wärd är gschyder</l>
                         <l>Wärd ’s besser. Am Verstand isch ’s by däm Frazzeschnyder</l>
@@ -3609,7 +3609,7 @@
                         <speaker>Christinel</speaker>
                         <l>Wie sicht denn Kolmer us?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aes isch ä großi Stadt. ’S Gebirgg isch in der Nääche,</l>
                         <l>Do sinn viel Schlösser druf.</l>
@@ -3618,7 +3618,7 @@
                         <speaker>Christinel</speaker>
                         <l>Was fürrigi?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Mer räche</l>
                         <l>Gar vieli, un i wüßt see nit glych so. I kan</l>
@@ -3633,7 +3633,7 @@
                         <speaker>Christinel</speaker>
                         <l>Abba!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Will epper dert nuf klättre</l>
                         <l>Do maint er, d’ Felse sinn grad for ne ze verschmättre</l>
@@ -3643,7 +3643,7 @@
                         <speaker>Christinel</speaker>
                         <l>Was Si nit saaue do!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aes isch e haißer Gang</l>
                         <l>Biz daß merr drobe-n-isch.</l>
@@ -3658,18 +3658,18 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>De bisch Wildhirns genue.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Do komme Si zue-n-üss un ’s Klärle-n-o’ derzue.</l>
                         <l>My Mueder hät ä Fraid! I ka ’s ne niggnue saaje.</l>
                         <l>Mer däte-n-alli dhaim see uf de Hände traaje,</l>
                         <l>Un see an gar viel Ort hienfüere.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wohien denn?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was frooje? Uebrall hien. – I haa my aye Gspänn.</l>
                         <l>Uf Münster. Dert isch ’s scheen un prächtigg; Bärgg un Wälder</l>
@@ -3681,7 +3681,7 @@
                         <speaker>Christinel</speaker>
                         <l>Do meecht i jez schunn hien.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>E-n-andermol do fahre</l>
                         <l>Mer hintri uf Markirch, do wäre Lynewaare</l>
@@ -3692,7 +3692,7 @@
                         <speaker>Christinel</speaker>
                         <l>So Bergwerk sähd’ i gern.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Dernoh sähn mer Müelhuse</l>
                         <l>Diß isch ä bravi Stadt. Do heert merr d’ Räder suse</l>
@@ -3701,11 +3701,11 @@
                         <l>Un Fläke, Schlösser, Bärgg un Kirche, See un Däler,</l>
                         <l>Wo-n-i ne zaig.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Gewiß?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S nit halde-n-isch my Fähler</l>
                         <l>Nie gsy, wän i versprich. Mier sinn im Oberland</l>
@@ -3716,7 +3716,7 @@
                         <speaker>Christinel</speaker>
                         <l>Jo. Wenn alli Inne glyche.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Sinn gar ze güettig See.</l>
                     </sp>
@@ -3724,13 +3724,13 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>’S waiß aim uf ’s Brod ze striche.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <stage>zu Klärchen</stage>
                         <l>See sähn ganz üebel us. Do wärds als besser schier</l>
                         <l>See gänge ball i ’s Bett.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Si henn e recht. I gspüer</l>
                         <l>Im Kopf e Hiz un Jast, e Gsurrs un e Geböbbels.</l>
@@ -3739,7 +3739,7 @@
                         <speaker>Christinel</speaker>
                         <l>Drum laj di uf e-n-Ohr, do hilft ken lang Gezeebels.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Diß will i, denn mer gehn donnit in ’s Kränzel hyt.</l>
                     </sp>
@@ -3747,7 +3747,7 @@
                         <speaker>Christinel</speaker>
                         <l>Do blyw i by derr.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Kumm, se gehst de-n-au glych mit</l>
                         <l>Nuf in myn Stüwwel.</l>
@@ -3756,12 +3756,12 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>Jo. ’S isch besser.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Na, ze schlofe</l>
                         <l>See gsund un wohl.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Guet Nacht. </l>
                         <stage>Geht mit Christinchen ab.</stage>
@@ -3771,7 +3771,7 @@
                         <l>Es duet sich selber strofe</l>
                         <l>Mit syner Steddikait.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Wee so?</l>
                     </sp>
@@ -3780,7 +3780,7 @@
                         <l>’S heert nit uf mich,</l>
                         <l>’S het de Herr Wolfgang gern un de loßt ’s jez im Stich.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was schadt ’s. ’S isch ehder rächt. Se ka see mich aaheere.</l>
                     </sp>
@@ -3789,7 +3789,7 @@
                         <l>Jo! Do steht ’s ewwe lezz. Es loß’ sich nit bekehre</l>
                         <l>Will von ke’m andre Mann nix wisse.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Zäll sinn Gspäß!</l>
                         <l>See hät ’s so guet by mier. Zwaimol komm i uf d’Mäß</l>
@@ -3801,7 +3801,7 @@
                         <l>Was im e Maidelhirn duet brüetle</l>
                         <l>Diß redt merr nit so us.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S wärd mer ä Härzelaid</l>
                         <l>Wän i diß liewi Kind nit kriejdi.</l>
@@ -3811,7 +3811,7 @@
                         <l>Mer miecht ’s Fraid</l>
                         <l>Sie wisse ’s. Awwer nie wurr i myn Dochter zwinge.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>See welle furt.</l>
                     </sp>
@@ -3825,7 +3825,7 @@
                 <div type="scene">
                     <head>Achter Auftritt</head>
                     <stage type="characters">Gläsler. Reinhold.</stage>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Diß isch ä Plooj ’s verliebt sinn. I worr gwiß</l>
                         <l>Zuem Narre noch derby un krank. I trink un iß</l>
@@ -3838,7 +3838,7 @@
                         <stage>eintretend</stage>
                         <l>Wie? Herr Gläsler so allein.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Jä, Herr.</l>
                     </sp>
@@ -3846,7 +3846,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Wo mögen denn die Frauen alle seyn?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Dee Froje? Drobe. ’S isch der Jumfer Klärle-n-üewel,</l>
                         <l>Do halde see ’re Gsellschaft in ierem Stüewel.</l>
@@ -3856,7 +3856,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Wo fehlt ’s denn?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Kopfweh so, Härzweh, Feewer.</l>
                     </sp>
@@ -3865,7 +3865,7 @@
                         <l>Wie?</l>
                         <l>Und man verschweigt uns dies, man läßt Wolfgang nicht hohlen?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Zäll isch ä rächter Hecht där Wolfgang.</l>
                     </sp>
@@ -3874,7 +3874,7 @@
                         <l>Was? Auf Kohlen</l>
                         <l>Bin ich. Was ist geschehen?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Nix guets. Där Wolfgang loßt</l>
                         <l>’S Klärle-n-im Stich un nimmt e-n-anderi. Diß stoßt</l>
@@ -3888,7 +3888,7 @@
                         <l>Wie dieses ist zu rein, zu zart um solchem Schmerz</l>
                         <l>Zu widerstehn.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Wohr isch ’s.</l>
                     </sp>
@@ -3896,7 +3896,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Ich will zu Wolfgang eilen.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Waiß är dän wo-n-er isch?</l>
                     </sp>
@@ -3907,7 +3907,7 @@
                         <l>Treu, fest bis in den Tod. – Allein durch wen erfuhr</l>
                         <l>Dies gute Mädchen denn die ausgestreute Lüge?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Waiß ich ’s?</l>
                     </sp>
@@ -3916,7 +3916,7 @@
                         <l>Den Lästermund treff’ die verdiente Rüge;</l>
                         <l>Er soll mir nicht entgehn.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I wott norr ’s ward als wohr.</l>
                     </sp>
@@ -3924,7 +3924,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Warum?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Se wärd i doch ämol us aller Gfohr;</l>
                         <l>Do kriejt i see zuer Froi dee Jumfer Klärel.</l>
@@ -3934,7 +3934,7 @@
                         <l>Lieben</l>
                         <l>Sie sie denn so?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I gloib ’s! Norr ze viel! </l>
                         <stage>Wischt sich eine Thräne aus dem Aug.</stage>
@@ -3945,7 +3945,7 @@
                         <l>Mich, guter junger Mann. Sind Sie denn auch geliebt</l>
                         <l>Von Klärchen?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Niggar rächt, so kummt mer ’s vor; see giebt</l>
                         <l>Mer ’s gnue ze merke-n-als.</l>
@@ -3955,7 +3955,7 @@
                         <l>In dem Fall thun Sie besser</l>
                         <l>Sie geben sie ganz auf.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S isch wee wän är ä Mässer</l>
                         <l>Mer dief in d’ Gorjel bohrt un dräjt ’s drinn ‘rum.</l>
@@ -3969,7 +3969,7 @@
                         <l>Für Sie bey allen seyn. Wohlan zu neuer Wahl</l>
                         <l>Entschließen Sie sich drum.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Ach! Was isch diß ä Qual!</l>
                         <l>I gloib ’s word besser sy’ daß i mi due versäufe</l>
@@ -3980,7 +3980,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Freund, sey’n Sie doch kein Kind.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>I mueß jez nus in d’ Luft, in d’ frei. Adjes. </l>
                         <stage>Geht fort.</stage>
@@ -4867,7 +4867,7 @@
                 <div type="scene">
                     <head>Vierter Auftritt</head>
                     <stage type="characters">Hr. Mehlbrüej. Reinhold</stage>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Diß isch jo wayer brav, daß mier jezt von der ganze</l>
                         <l>Gsellschaft grad d’ erste sinn. Mer welle si kurranze</l>
@@ -4880,7 +4880,7 @@
                         <l>Die Klärchen wird nicht kommen,</l>
                         <l>Sie ist nicht wohl und hat noch spät Arzney genommen.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Was het diß Käzzel denn, diß Wussele?</l>
                     </sp>
@@ -4889,7 +4889,7 @@
                         <l>Kopfschmerz.</l>
                         <l>Es ist nicht viel.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Ha, was? Het denn e Kranket ’s Herz</l>
                         <l>Zell baumstark Klärel do ze dukke-n-un ze pakke?</l>
@@ -4900,7 +4900,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Warum?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Wyl ’s Dokters Frau z’erst selwer alles yn</l>
                         <l>Sott nemme was der Mann de Kranke duet verschrywe,</l>
@@ -4913,7 +4913,7 @@
                         <l>Da würd’ es aber schlecht den Doktorsfrauen gehn,</l>
                         <l>Und jeden Monat könnt’ ein Arzt sich frisch beweiben.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Zell gfiel viel Männre-n-erst.</l>
                     </sp>
@@ -4922,7 +4922,7 @@
                         <l>Wir müßten ledig bleiben</l>
                         <l>Wenn diesem also wär.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Wo henn Si mynne Sohn</l>
                         <l>Gelosse?</l>
@@ -4933,7 +4933,7 @@
                         <l>Zu Lieschens Tante hin mit mir von Haus gegangen;</l>
                         <l>Dort ließ ich ihn.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Isch ’s Kind denn noch so krank?</l>
                     </sp>
@@ -4942,7 +4942,7 @@
                         <l>Wir fangen</l>
                         <l>Seit heut zu hoffen an.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Chja! Krämpf un Mundfeyl sinn</l>
                         <l>Gar beesi Breste halt. ’S isch ier Schuld; denn i bin</l>
@@ -4953,7 +4953,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Wie heilt man so Mundfäule?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Do geht merr hien un schnydt unb’schraue morjes früej</l>
                         <l>Drey Wydegertle-n-aa.</l>
@@ -4962,7 +4962,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Un kocht sie?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Nix. Ken Brüej</l>
                         <l>Brucht ’s sich derzue. Mer zeiht, in de drey höhchste Namme,</l>
@@ -4974,7 +4974,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Hilft dies?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Gewiß. – Sie lache, Schaz,</l>
                         <l>Wyl Si nit glauwe dran. Mier sinn doch au nit simbel!</l>
@@ -4983,7 +4983,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Und Krämpfe?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Po! For die nimmt merr e Scharlachlimbel</l>
                         <l>Un layt ’s hien uf e Plaz. – Was welle Si? Myn Frau</l>
@@ -4994,7 +4994,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Wie das?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S Kind het nit kinne zahne,</l>
                         <l>Un het stark Gichder ghet. Do geht myn Rosin’ anne,</l>
@@ -5009,7 +5009,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Die Mutter, wie ging’s der?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Di het ghet so Engkaide,</l>
                         <l>Daß si gekirchelt het wie wenn si wott verschaide.</l>
@@ -5025,7 +5025,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Das sind Mittel!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Chia, lache Si nurr furt so spöddisch. Ier Kopfgschüddel</l>
                         <l>Bekehrt mi nit. ’S kost nix daß merr zue ebs saat: Nain.</l>
@@ -5043,7 +5043,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Das ist wohl alles wahr.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Drum will i ne nurr saaue</l>
                         <l>Daß merr nit alles glych so in de Wind soll schlaaue.</l>
@@ -5055,7 +5055,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Schön!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Bewyse</l>
                         <l>Sie mier denn jez emol wurrum, mynthalwe, ’s Yse</l>
@@ -5075,7 +5075,7 @@
                         <l>Die, in Mysterien gehüllt, dennoch gewiß</l>
                         <l>Nicht unerklärbar sind.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Brodbrichja duet mer gfalle,</l>
                         <l>Brod bringt diß Dings als yn. Doch sott merr awwer alle</l>
@@ -5089,7 +5089,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Mysterien sagt’ ich.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Was? Mist in Ehre?</l>
                     </sp>
@@ -5097,7 +5097,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Nu! Geheimnisse.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Na, gsych!</l>
                         <l>Wi i Si lez versteh. Ghaimnusse sinn als Nüßle</l>
@@ -5112,7 +5112,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Noch bin ich nicht Doktor.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Si were ’s jo d’ nächst Wuch. – Jez saaue Si: isch ’s wohr</l>
                         <l>Daß merr ’s am Gsicht kan sehn, ob ainer e Kalfakter,</l>
@@ -5123,7 +5123,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Warum nicht?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Jez, i saa ’s</l>
                         <l>Zell kummt mer spannisch vor. Dail maine-n-an der Nas</l>
@@ -5156,7 +5156,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Sie sind, wie ich bemerk’, ein großer Nasenkenner.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>I haa diß Fach gstuddiert; denn so ebs isch for Männer</l>
                         <l>Wo sunst viel Gschäfde henn e rechder Baßledang.</l>
@@ -5175,7 +5175,7 @@
                         <l>Das mag merkwürdig sein.</l>
                         <l>Ist sie auch zahlreich schon die Sammlung?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Siwwe hundert</l>
                         <l>Haw i so Nase schunn.</l>
@@ -5186,7 +5186,7 @@
                         <l>Wie Sie, mit Auswahl doch, ihr Nasenkabinett</l>
                         <l>So reich zu Stand gebracht.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Sehn Si’ s emol, i wett</l>
                         <l>Si henn nix gspäßjers gsehn, es wurd ne waidli gfalle;</l>
@@ -5199,7 +5199,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Wo ist das?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Im Schwoweland.</l>
                     </sp>
@@ -5211,7 +5211,7 @@
                         <l>Und gleichsam zum Triumph in ihre Sammlung zieh’n.</l>
                         <l>Es ist demnach ihr Haus ein wahrer Nasentempel.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S isch wohr. – So haa i au die Grosnas, zuem Exempel,</l>
                         <l>Wo in’s Gsicht angschnallt isch vom Oppenauer Bott, </l>
@@ -5223,7 +5223,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Ah Spaß!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Nit wohr! Si denke: zay mer</l>
                         <l>Diß Wunderwerk als z’erst, eh daß de redst dervon.</l>
@@ -5234,7 +5234,7 @@
                         <l>Mich deucht es ist doch schon</l>
                         <l>Etwas zu spät dazu.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Si henn erecht, doch müesse</l>
                         <l>Si heere noch di Gschicht, es wurd Si nit verdrieße.</l>
@@ -5302,7 +5302,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Mich dünkt, daß ich im Hof’ draus rufen höre.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S isch d’ Frau. </l>
                         <stage>sehr laut) I kumm Rosin’. (Geht ab.</stage>
@@ -5801,7 +5801,7 @@
                         <speaker>Fr. Dorthee</speaker>
                         <l>Poz dausig Sabberlot! Wemm hät so ebs geduddelt?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Chia! ’s duet mer selwer ant. Die Gschicht isch bees verhuddelt.</l>
                         <l>Der Mensch wurd niwwer halt geliffert un dert ghenkt;</l>
@@ -5817,7 +5817,7 @@
                         <l>Eso, daß ebbe gar e Fynd in e Lawwrente</l>
                         <l>Ne bringe will.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>D’ Fryndschaft, Frau Bas, duet Si verblende.</l>
                         <l>Was von der Owwrikait herkummt schmekt nooch em Salz.</l>
@@ -5831,7 +5831,7 @@
                         <l>Do sinn die Wechsel her all diß Geld! Do riecht</l>
                         <l>Merr jez de Hafekäs!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Nix isch so klain halt gspunne,</l>
                         <l>Frau Bas, wo nit am End doch au noch kummt an d’ Sunne.</l>
@@ -5848,7 +5848,7 @@
                         <speaker>Fr. Dorthee</speaker>
                         <l>Sprichwörter kan Er doch grad wie e Liddeney.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Lizenziat un ich henn ’s vom Grosvadder frey</l>
                         <l>Herg’erbt; do stekkt ’s im Bluet. – Jez soll von dem Hallunke</l>
@@ -6482,7 +6482,7 @@
                         <speaker>Christinel</speaker>
                         <l>Na, schamme Si sich doch mit Iere Hirn-Usgspinstre!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aer sycht nit us wee wänn är wott kappores geh’!</l>
                     </sp>
@@ -6494,7 +6494,7 @@
                         <l>Mer dert de Schwamme her, un syfre mer z’erst d’ Händ</l>
                         <l>Un ’s Gsicht.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Het är dänn nit die Lumbekärl erkännt?</l>
                     </sp>
@@ -6554,7 +6554,7 @@
                         <l>Genn Si jez d’ Händ nurr her. Herr Jeh! Diß isch e Gruus</l>
                         <l>Was die voll Unroth sinn!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Wo sinn See dänn o’ gstande</l>
                         <l>D’ Beesewichter? Im ä Schlupf?</l>
@@ -6578,7 +6578,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Dert isch ’s nit ghyr. Waist nit?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was zäll duet aabelange</l>
                         <l>Diß gloib i nit.</l>
@@ -6625,7 +6625,7 @@
                         <l>Gedäscht; er het usgsehn aß wie e Müelburst wyß,</l>
                         <l>Schloskrydewyß.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Gitt ’s viel so Gspängster hie?</l>
                     </sp>
@@ -6646,7 +6646,7 @@
                         <l>Un ’s Rössel mit drei Bain, wo als vom Bunggeweer</l>
                         <l>Naa raßt bis an de Kran.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Diß si’ jo Kindereye</l>
                         <l>Wo är im Kopf het do.</l>
@@ -6658,7 +6658,7 @@
                         <stage>an die Nase greifend</stage>
                         <l>I bluet jo us der Nas. Ach pong Thiö!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Zäll isch jo</l>
                         <l>Rächt gsund. I will do drus e-n-Erkle geschwind ’ryhohle.</l>
@@ -6672,7 +6672,7 @@
                         <l>’S brennt mi wie fyr’ji Kohle</l>
                         <l>Im Kopf.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <stage>einen kleinen hölzernen Zuber bringend</stage>
                         <l>Do lon See norr ier Bluet rächt rysle dry’.</l>
@@ -6718,7 +6718,7 @@
                         <l>Gehn stryche mer ebs an... Henn err ken Loddlewang,</l>
                         <l>Ken ungrisch Wasser? Ach!</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Ae Knowlizeh, ä Ziwwel</l>
                         <l>Wärd besser?</l>
@@ -6757,7 +6757,7 @@
                         <l>un bitschle mi drinn yn, daß i doch nit so schwer</l>
                         <l>geplozt wurr underwäjs.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Soll i See haime bgleite?</l>
                     </sp>
@@ -6803,7 +6803,7 @@
                 <div type="scene">
                     <head>Sechster Auftritt</head>
                     <stage type="characters">Hr. Starkhans. Hr. Mehlbrüej</stage>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Jez, Vedder, was isch jez! I wurr noch ganz zuem Narre.</l>
                     </sp>
@@ -6813,7 +6813,7 @@
                         <l>So duet aß wie e Kue e Schyerdor, e neu’s!</l>
                         <l>Er sycht so gstuddiert us! Was het er denn?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>I scheu ’s</l>
                         <l>Ze saaue was es isch; ’s duet mer zue arj ufstoße,</l>
@@ -6824,7 +6824,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Verzwazz’l er nur nit dik.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Jez denk er, Vedder, nurr, myn Bue, der heillos Strik,</l>
                         <l>Will jez ken breesel nix von dere Hyroth wisse,</l>
@@ -6835,7 +6835,7 @@
                         <l>Was! Diß isch zuem verschieße!</l>
                         <l>Poz Herkeleß! Poz Gift! Un Er lydt noch so Dings?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Daß i ’s gewiß nit lyd! Er kennt mi nit. I zwing ’s</l>
                         <l>Als mit dem Lubbel noch.</l>
@@ -6848,7 +6848,7 @@
                         <l>Do duet ’s jez au aß ob ’s nit wott. Doch iwwer Nacht,</l>
                         <l>Wenn ’s es verschlofe het, wurd sich ’s schunn anderst bsinne.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Was Er mer do nit saat. I bin ’s doch worre-n-inne,</l>
                         <l>Hyt Nohmedaa. Drum wärd, mier an, myn Meinung halt,</l>
@@ -6859,7 +6859,7 @@
                         <l>Myn Maidel, diß mueß dran; doch wenn syn Sohn will huufe,</l>
                         <l>Se soll es ainewäj ’s Bad nit ellain, ussuffe.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Do batt kenn Huufes nix, er mueß, der groß Tripstrill.</l>
                     </sp>
@@ -6867,7 +6867,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Het er ’s Imm denn au gsait wurrum er jez nimm’ will?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Nain. Er het hoch gedon, un het mer gsait ganz trukke,</l>
                         <l>Daß er ganz anderst denkt, sich ken Frau loßt ufdukke</l>
@@ -6885,7 +6885,7 @@
                         <l>Do were Männer noch genue angstoche kumme.</l>
                         <l>I gib imm Maidel recht daß ’s jez au nimm’ will so.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Ha, wayer na! Er duet jo stolz aß wie e Pfo.</l>
                         <l>Mier sinn so rych aß Er, un Maidle wie syn Lissel</l>
@@ -6898,7 +6898,7 @@
                         <l>Sich yn daß sin Herr Bue gar der Groß-Mogel isch,</l>
                         <l>Un Er myntwäje noch der Basler Lällekinni.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Hunger redt us Imm, so kummt mer ’s vor; als bin i</l>
                         <l>So gscheid wie Er.</l>
@@ -6908,7 +6908,7 @@
                         <l>By Imm stekkt der Verstand so wild,</l>
                         <l>Aß wie bym Engel dert uf ’s Ochsewirth sym Schild.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Er kummt mer als erecht! Er macht ’s hyt just wie d’ Kazze;</l>
                         <l>Von vorne schlekke si, hinde duen si krazze.</l>
@@ -6917,7 +6917,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>I wüßt just nit daß vil an Imm ze schlekke wär.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Dest’ meh an Imm; er isch gar e-n-ungschleckter Bär.</l>
                         <l>Sinn d’ Mukke hungri, halt, ze bysse si wie wüedi;</l>
@@ -6929,7 +6929,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Wesp hien, Wesp her; syn Sohn kriejt erst jez nit myn Lissel.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Jez sinn halt d’ Trywel suur, wyl si im Fuchs e bissel</l>
                         <l>Ze hoch stehn an der Held.</l>
@@ -6938,7 +6938,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Er kriejt si nit, Syn Sohn.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Er will si selwer nit.</l>
                     </sp>
@@ -6946,7 +6946,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Er kriejt si nit.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Dervon</l>
                         <l>Blyt er von selwer jo.</l>
@@ -6955,7 +6955,7 @@
                         <speaker>Hr. Starkhans</speaker>
                         <l>Er kriejt si nit.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Na Vedder</l>
                         <l>Guet Nacht. Er isch hyt ganz verlecht im Kopf. </l>
@@ -7214,7 +7214,7 @@
                 <div type="scene">
                     <head>Zweiter Auftritt</head>
                     <stage type="characters">Hr. Mehlbrüej, Fr. Rosine</stage>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Es isch</l>
                         <l>Mer doch jez lycht. Was mainst?</l>
@@ -7226,7 +7226,7 @@
                         <l>Hemmer im Sohn sym Glük e guede Schubser gewe.</l>
                         <l>Aß wie e Veaujel jez im Hanfsoot isch der froh.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Geduddelt hät mer ’s nie daß der Stettmaister so</l>
                         <l>Erzezli vil sich duet us unserm Wolfgang mache;</l>
@@ -7239,7 +7239,7 @@
                         <l>Der alt Herr Markgrof nix for nix ne nemme welle,</l>
                         <l>For ne-n-in Karelsrueau aß Helfer anzestelle.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Zell isch e braver Herr, der best wo ’s driwwe gitt.</l>
                     </sp>
@@ -7249,7 +7249,7 @@
                         <l>Was i derr als haa gsaid vom Klärel, hesch anheere</l>
                         <l>Nurr welle.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Haa i ’s denn geträumt, daß ’s so in Ehre</l>
                         <l>Bym Herr Stettmeister steht? Denk Rosin’, er het gsait</l>
@@ -7261,7 +7261,7 @@
                         <speaker>Fr. Rosine</speaker>
                         <l>Will er Bruttfüerer sinn? Ha wayer, wott e-n-Ehr!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>I saa ’s, jez isch mer ’s lycht. ’S isch mer unbändi schwer</l>
                         <l>Im Maaue gsesse drin, wie zeh Kommißbrodmitschle,</l>
@@ -7274,7 +7274,7 @@
                         <l>Der Starkhans het wie doll</l>
                         <l>Gest Nacht gedon, un d’ Frau isch schier gar worre wüedi.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S isch Mißverstand halt gsinn, dnoh hemmer au ebs siedi</l>
                         <l>In ’s Glas gegukt nyn ghet. Drum het ess au so lycht</l>
@@ -7287,7 +7287,7 @@
                         <l>E bissel</l>
                         <l>Meh odder wenjer isch all ains.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Chia, wo vil isch</l>
                         <l>Soll au vil hien, dofor isch ’s Geld gemacht.</l>
@@ -7302,7 +7302,7 @@
                         <l>Zerst e Kamel dät gehn eh daß e gyzjer Rycher</l>
                         <l>Nyn in de Himmel kämt. Haißt’s nit noch ...</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Zell isch sicher</l>
                         <l>Daß d’ biwwelfest bisch, Frau. Nurr nigglych so getruzt!</l>
@@ -7322,7 +7322,7 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>A, Si vexiert Frau Bas.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <stage>bei Seite</stage>
                         <l>Myn Sohn isch als ken Narr;</l>
@@ -7331,7 +7331,7 @@
                             Willkumme,</l>
                         <l>Liebs Bäsele, Si sinn zue nett hyt. Kumm, Frau, sych.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Wenn ich ne gfall se-n-isch ’s e großi Ehr for mich.</l>
                     </sp>
@@ -7341,7 +7341,7 @@
                         <l>Un e-n-Anhenkerle! ... Ha jo! Us wellem Lade</l>
                         <l>Kummt diß nett Kryzzele? ’S isch neu.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>’S isch e Bresent,</l>
                         <l>Frau Bas, von Ierem Sohn.</l>
@@ -7355,14 +7355,14 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>Der Babbeseeli het ’s em gschenkt.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Daß Si am Bendel</l>
                         <l>Schunn lang henn myne Sohn, zell wundert mit jez nimm’,</l>
                         <l>Liebs Bäsele, so gscheid, so artli, un so schlimm</l>
                         <l>Sinn wenni Jumfre hie. I haw e Fraid an Inne.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>I wurr myn meejlists duen Ier Fryndschaft ze gewinne.</l>
                     </sp>
@@ -7376,13 +7376,13 @@
                         <speaker>Fr. Prechtere</speaker>
                         <l>Myn Dochter isch, Frau Bas, au guet un glükli gfalle.</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Herr Vedder, saaue Si, isch der Herr Lizeziat</l>
                         <l>Doch besser? Denke Si, merr het gsait in der Stadt</l>
                         <l>Si warde-n-em uf ’s End.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Gspäß! Er wurd ball herkumme.</l>
                         <l>Es henn ne d’ Lumbekerl so schraf nit mitgenumme;</l>
@@ -7398,7 +7398,7 @@
                         <l>Un d’ Klaider imm vom Lyb gerisse-n-un gezerrt,</l>
                         <l>Un faselnaket ne henn leye lon.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Es sizze</l>
                         <l>Schunn zway von dene Kerl, un ’s Berwel mueß Geld schwizze</l>
@@ -7414,7 +7414,7 @@
                         <l>Geh, Alder, mach, de bisch</l>
                         <l>Nonnit gerüst for nus, sunst machst ess noch lang warde.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>I geh. Füer zidder d’ Bas un ’s Bäsel in de Garde. </l>
                         <stage>Gehn alle ab.</stage>
@@ -7422,7 +7422,7 @@
                 </div>
                 <div type="scene">
                     <head>Vierter Auftritt</head>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Lizenziat Mehlbrüej</speaker>
                         <stage>allein</stage>
                         <l>Der Rheinhold isch, sche di, i saa’s, doch gar ze guet.</l>
@@ -7707,7 +7707,7 @@
                         <l>Isch diß schunn so gschikt? ’S verlohnt</l>
                         <l>Sich werzi daß mer ’s nimmt. Un er, wie steht ’s, Herr Vedder?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Recht guet, Frau Bas, un Sie?</l>
                     </sp>
@@ -7720,7 +7720,7 @@
                         <speaker>Fr. Dorthee</speaker>
                         <l>So.... ’S gruenselt noch, merr henn halt z’Morjes Räje ghet.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Wo isch der Herr im Huus?</l>
                     </sp>
@@ -7754,7 +7754,7 @@
                         <speaker>Wolfgang</speaker>
                         <l>Nain! ’S isch d’ völli Wohret, werzi!</l>
                     </sp>
-                    <sp who="#klärel">
+                    <sp who="#klarel">
                         <speaker>Klärel</speaker>
                         <l>Se schweye Si doch still.</l>
                     </sp>
@@ -7769,7 +7769,7 @@
                         <l>Sie traaue mer jo d’ Rueau sunst us em Huus. Mer warde</l>
                         <l>Uf de Herr Pfarrer noch von driwwe.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Mit so zarde</l>
                         <l>Verliebde Herre-n-isch Si gern, wie ’s schynt .... Er isch</l>
@@ -7787,7 +7787,7 @@
                         <l>E Breesel numme redt ze-n-isch ’s e Kazzejammer,</l>
                         <l>Was er verdrießli wurd.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S isch halt e wüester Krammer</l>
                         <l>For e Hochzydder wenn der Schaz stirbt; ’s isch ken Freau.</l>
@@ -7811,7 +7811,7 @@
                         <l>Säwwrä, ’s isch wohr, Frau Bas, so Dings isch nit zuem lache,</l>
                         <l>I waiß ’s, myn Seel, von gest.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Do henn si di gebritscht</l>
                         <l>Du Sydebrydel, gelt?</l>
@@ -7820,7 +7820,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Tättwa, schwey still.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Verwitscht</l>
                         <l>Henn si ne grad, wie er imm Kachlershans syn Schwester,</l>
@@ -7951,7 +7951,7 @@
                         <l>Sinn us der Stadt. ’S isch elf ... Wenn jez der Pfarrer Faxe</l>
                         <l>Miecht driwwe, un kämt nit?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der? Un wenn’s Dunderaxe</l>
                         <l>Dät räje, kämt er her un Kazze schlooße. D’ Gutsch</l>
@@ -7982,7 +7982,7 @@
                         <l>Myn Vogt der will halt nit, do müen Si sich gedulde</l>
                         <l>Bis i wurr majereen.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was isch nor my Verschulde?</l>
                         <l>Was haa-n-i em dänn gemacht? I bin in däre Stadt</l>
@@ -7993,7 +7993,7 @@
                         <l>’S duet mier jo ant genue. Was batt</l>
                         <l>Jez Ier Geprox; ’s isch so.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Der Dunder soll dry’ schlaaje,</l>
                         <l>I worr no’ ’s Deifels ich, un haa ’s zue dik im Kraaje;</l>
@@ -8003,7 +8003,7 @@
                         <speaker>Christinel</speaker>
                         <l>’S duurt jo nurr noch e Johr.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Naay! Glych soll ’s sy’, i kumm dämm Alte sust in d’ Hoor.</l>
                     </sp>
@@ -8011,7 +8011,7 @@
                         <speaker>Christinel</speaker>
                         <l>Was? Zell wärd scheen.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S mueß geh’; sust mach i no’ de growwe.</l>
                         <l>Do siz i wee-n-ä Hund, un schnuuf aß wee-n-ä Bär;</l>
@@ -8024,7 +8024,7 @@
                         <speaker>Christinel</speaker>
                         <l>Was henn Si sich denn z’erst am Klärel versehn?</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>’S isch halt mit üss verwandt; jez duet mi ’s grimmi schäre.</l>
                     </sp>
@@ -8033,7 +8033,7 @@
                         <l>So redde Si emol noch mit der Frau Roothherre,</l>
                         <l>Un ranzi Si si an, dert geht si am Gebüsch.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>See hänn erächt. I will grad zuen’re loife frisch. </l>
                         <stage>Geht ab.</stage>
@@ -8069,7 +8069,7 @@
                         <l>Ier zway un ich mer sinn grad von de lezste-n-Alte</l>
                         <l>Wo noch als gsunge henn drinn uf der Herrestub.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Jo, Vedder, er het recht; do schmekt es druf au d’ Supp,</l>
                         <l>Un neui Liedle gitt ’s bym Nochdisch dnoh ze singe.</l>
@@ -8101,7 +8101,7 @@
                         <stage>Herr Mehlbrüj setzt sich oben in den Lehnstuhl, die andern setzen
                             sich etwas weiter unten zu dessen Seiten.</stage>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>So! Herzaft jez angfange.</l>
                     </sp>
@@ -8111,7 +8111,7 @@
                         <l>Wie? Hält man hier Gericht, Ihr Freunde? Mir ist bange</l>
                         <l>So ernst und feierlich Euch hier vereint zu sehn.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Mer sinn am Meistergsang.</l>
                     </sp>
@@ -8120,7 +8120,7 @@
                         <l>Schön, schön! Das mag geschehn.</l>
                         <l>Darf ich mitsingen auch?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Gewiß müen Si mitbrumme,</l>
                         <l>Un gar anfange glych, un gitt drum glych e Pfand.</l>
@@ -8129,7 +8129,7 @@
                         <speaker>Pfarrer</speaker>
                         <l>Schön! Sagen Sie mir nur des Liedes Gegenstand.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <stage>feierlich</stage>
                         <l>Der Pfarrer soll ess ebs von synre Liebste singe;</l>
@@ -8187,7 +8187,7 @@
                         <l>Quälend ist des Lebens Pflicht</l>
                         <l>Tönen Liebesstimmen nicht!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <stage>feierlich</stage>
                         <l>Guet genn! Guet genn! Guet genn! Der Pfarrer isch e Mann</l>
@@ -8200,7 +8200,7 @@
                         <l>Aß Maister zaye kann. </l>
                         <stage>Der ganze Spruch wird von allen wiederholt.</stage>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Wolfgang soll ess jez ebs uf syn Hochzyt singe,</l>
                         <l>Drum fang er herzaft an wenn er ’s erus kan bringe.</l>
@@ -8241,7 +8241,7 @@
                         <l>Dann der Aufschwung selbst der höchsten Lieder</l>
                         <l>Schildert nie der Liebe Glück.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Guet genn! Guet genn! Guet genn! Der Wolfgang isch e Mann</l>
                         <l>Wo sich bym Maistergsang </l>
@@ -8253,7 +8253,7 @@
                         <l>Aß Maister zaye kann.</l>
                         <stage>Der Spruch wird von allen wiederholt.</stage>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Reinhold soll e Lied uf unsre-n-Immes singe</l>
                         <l>Im Wald drus; er fang an wenn er ’s erus kann bringe.</l>
@@ -8302,7 +8302,7 @@
                         <l>Seiner Liebe Bund zu segnen</l>
                         <l>Priester gleich und Traualtar!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Guet genn! Guet genn! Guet genn! Der Reinhold isch e Mann</l>
                         <l>Wo sich im Maistergsang </l>
@@ -8314,7 +8314,7 @@
                         <l>Aß Maister zaye kann. </l>
                         <stage>Wird wiederholt.</stage>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Roothherr soll jez ’s Lobb von der Stadt Stroßbur’j singe,</l>
                         <l>In unsrer alde Sprooch, wenn er’s erus kan bringe.</l>
@@ -8378,7 +8378,7 @@
                         <l>Un ’s isch, mier an, doch d’ greest Fraid</l>
                         <l>Andre Fraid ze mache.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Guet genn! Guet genn! Guet genn! Der Rothherr isch e Mann</l>
                         <l>Wo sich im Maistergsang </l>
@@ -8390,7 +8390,7 @@
                         <l>Aß Maister zaye kann. </l>
                         <stage>Wird wiederholt.</stage>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Der Lizeziat soll ebs vom Leddiblywe singe;</l>
                         <l>Drumm fang er hurdi an, wenn er ’s erus kan bringe.</l>
@@ -8436,7 +8436,7 @@
                         <l>Eine ganze Nacht zuschrieen:</l>
                         <l>Trau, schau, mjau, bleib ohne Frau.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Guet genn! Guet genn! Guet genn! Der Vedder isch e Mann</l>
                         <l>Wo sich im Maistergsang </l>
@@ -8466,7 +8466,7 @@
                         <l>Geh Er mer wegg un redd Er,</l>
                         <l>Wie Imm der Schnawwel isch gewachse, hört Er ’s Vedder!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Annebaddätscherle, Eyermargreedel du,</l>
                         <l>Red du nit Welsch eso; de kanst ’s grad wie e Kue</l>
@@ -8477,7 +8477,7 @@
                         <l>Was? Un i bin, parrblö, uf de Kanzleye</l>
                         <l>Von hie de stärkst, säwwrä!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Na, na! For was diß Schreye.</l>
                     </sp>
@@ -8492,7 +8492,7 @@
                         <l>Nix do. ’S isch nit der werth;</l>
                         <l>Ier blywe by ess hyt.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Un wyl merr sinn am Singe,</l>
                         <l>Se sing er ess ebs, Claus, wenn er ’s erus kan bringe.</l>
@@ -8551,7 +8551,7 @@
                         <l>Suach diar a-n-ondri Onnemey,</l>
                         <l>Un loß mer d’ myn umkeit.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Guet genn! Guet genn! Guet genn! Der Claus diß isch e Mann</l>
                         <l>Wo sich im Maistergsang </l>
@@ -8567,7 +8567,7 @@
                         <l>Mit eurer Hyroth, Claus, soll ’s als so lang nit währe;</l>
                         <l>I sor’j derfor. Err müen ych gar jezt nimm’ drum schäre.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Mier sinn hyt ohnedieß recht in der Kubbeley,</l>
                         <l>Eh vierzeh Daa vergehn henn ier eur Annemey.</l>
@@ -8597,7 +8597,7 @@
                         <l>Do isch e Pärele wo ewwe drus syn Zyt</l>
                         <l>Recht het gebroffediert un sich au ’s Wort het gewe.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <stage>ernst</stage>
                         <l>’S Wort, diß haa ich ze genn, i bin de Vogt.</l>
@@ -8607,7 +8607,7 @@
                         <l>Drumm ewwe</l>
                         <l>Bring i derr baidi her daß de dyn Jowort gisch.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>’S isch nonnit majerenn ’s Christinel, un do isch</l>
                         <l>’S nächst Johr no’ Zyt genue.</l>
@@ -8622,12 +8622,12 @@
                         <l>’S hießdi de Daa verschände</l>
                         <l>Wenn Er wott rabbli sin.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Was haa-n-i dänn geboßt,</l>
                         <l>Herr Rothherr, daß är mi so groisam vo’ sich stoßt?</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>D’ Usstyr vom Maidel isch in Johr un Daa erst fälli,</l>
                         <l>Wenn syn Brozeß emol gewunne-n-isch.</l>
@@ -8647,7 +8647,7 @@
                         <stage>zugleich zu Herrn Mehlbrüej</stage>
                         <l>Lon Si sich doch erbidde!</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Na! Wenn ’s denn mueß so sin, se bin i ’s au zefridde;</l>
                         <l>So scheene Jümferle schlaat mer nit lycht ebs aa.</l>
@@ -8667,7 +8667,7 @@
                         <l>Diß gitt jez Lustberkaide</l>
                         <l>Wie wenn hyt Kirwe wärd.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <l>Aß wee im Barrediß</l>
                         <l>Soll ’s d’ Christin’ han by mier. See soll ke wüest Wort, gwiß,</l>
@@ -8728,7 +8728,7 @@
                         <l>Poz Bliz un Haauelwetter!</l>
                         <l>Der Herr Stettmaister isch ’s un der Ammaister.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <l>Vetter</l>
                         <l>Diß isch e großi Ehr!</l>
@@ -8797,7 +8797,7 @@
                         <l>Ken greeßri Fraid isch nie, gewiss so lang d’ Welt steht,</l>
                         <l>Gsin im e Burjershuus. I spüer frey ’s Herz stark bobble.</l>
                     </sp>
-                    <sp who="#mehlbrüej">
+                    <sp who="#mehlbruej">
                         <speaker>Hr. Mehlbrüej</speaker>
                         <stage>folgend, mit Fr. Rosine</stage>
                         <l>Vil Ehr het sunst vil Bschwehr, hyt duet si d’ Fraid verdopple,</l>
@@ -8823,7 +8823,7 @@
                         <l>Und wie am ersten Tag blüht duftend noch am Ziele</l>
                         <l>Der Laufbahn, wundervol, der geist’gen Jugend Kranz.</l>
                     </sp>
-                    <sp who="#gläsler">
+                    <sp who="#glasler">
                         <speaker>Gläsler</speaker>
                         <stage>mit Christinchen</stage>
                         <l>I gloib, by Gott, mer geh’ frisch zsamme-n-uf de Tanz,</l>
