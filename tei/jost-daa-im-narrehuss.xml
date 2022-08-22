@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/css" href="../work/css/tei-drama.css"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -93,11 +95,11 @@
           </person>
           <listRelation>
             <relation name="parent_of" active="#brummer" passive="#oktavie"/>
-            <relation name="lover_of" mutual="#brummer #euphrosine_bendele" type="m"/>
-            <relation name="lover_of" mutual="#nervich_paul #oktavie" type="m"/>
-            <relation name="associated_with" active="#erster_warter" passive="#nervich_paul" type="m"/>
-            <relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul" type="m"/>
-            <relation name="associated_with" active="#dritter_warter" passive="#nervich_paul" type="m"/>
+            <relation name="lover_of" mutual="#brummer #euphrosine_bendele" ana="intext"/>
+            <relation name="lover_of" mutual="#nervich_paul #oktavie" ana="intext"/>
+            <relation name="associated_with" active="#erster_warter" passive="#nervich_paul" ana="intext"/>
+            <relation name="associated_with" active="#zweiter_warter" passive="#nervich_paul" ana="intext"/>
+            <relation name="associated_with" active="#dritter_warter" passive="#nervich_paul" ana="intext"/>
           </listRelation>
         </listPerson>
       </particDesc>

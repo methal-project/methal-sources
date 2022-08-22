@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -76,14 +78,14 @@
             <persName>Frau Liemann</persName>
           </person>
           <listRelation type="personal">
-            <relation type="spouses" mutual="#alfons_muschler #fanny_muschler" ana="intext" />
-            <relation type="friends" mutual="#amalie_schneider #fanny_muschler #josefine_martel" ana="intext" />
-            <relation type="parent_of" active="#frau_liemann" passive="#amalie_schneider" ana="intext" />
-            <relation type="spouses" mutual="#amalie_schneider #fernand_schneider" ana="intext" />
-            <relation type="related" mutual="#fernand_schneider #frau_liemann" ana="intext" />
-            <relation type="associated_with" active="#salmel" passive="#amalie_schneider #fernand_schneider"
+            <relation name="spouses" mutual="#alfons_muschler #fanny_muschler" ana="intext" />
+            <relation name="friends" mutual="#amalie_schneider #fanny_muschler #josefine_martel" ana="intext" />
+            <relation name="parent_of" active="#frau_liemann" passive="#amalie_schneider" ana="intext" />
+            <relation name="spouses" mutual="#amalie_schneider #fernand_schneider" ana="intext" />
+            <relation name="related" mutual="#fernand_schneider #frau_liemann" ana="intext" />
+            <relation name="associated_with" active="#salmel" passive="#amalie_schneider #fernand_schneider"
             ana="intext" />
-            <relation type="friends" mutual="#alfons_muschler #fernand_schneider" ana="intext" />
+            <relation name="friends" mutual="#alfons_muschler #fernand_schneider" ana="intext" />
           </listRelation>
         </listPerson>
       </particDesc>

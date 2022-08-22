@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -146,11 +148,11 @@
             <persName>Bürslitt</persName>
           </person>
           <listRelation>
-            <relation type="associated_with" active="#basche #katt" passive="#_s_stawalders_vadder" />
-            <relation type="spouses" mutual="#_s_lipse_vadder #_s_lipse_mieder" />
-            <relation type="parent" active="#_s_lipse_vadder #_s_lipse_mieder" passive="#_s_lipse_gredel" />
-            <relation type="friends" mutual="#lissel #rosel #evel #lenel #_s_lipse_gredel" />
-            <relation type="friends" mutual="#_s_stawalders_jean #fritzel" />
+            <relation name="associated_with" active="#basche #katt" passive="#_s_stawalders_vadder" />
+            <relation name="spouses" mutual="#_s_lipse_vadder #_s_lipse_mieder" />
+            <relation name="parent" active="#_s_lipse_vadder #_s_lipse_mieder" passive="#_s_lipse_gredel" />
+            <relation name="friends" mutual="#lissel #rosel #evel #lenel #_s_lipse_gredel" />
+            <relation name="friends" mutual="#_s_stawalders_jean #fritzel" />
           </listRelation>
         </listPerson>
       </particDesc>

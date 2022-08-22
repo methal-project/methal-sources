@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/css" href="../work/css/tei-drama.css"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -53,94 +55,94 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="kinj_gourmand" sex="MALE">
+          <person xml:id="kinj_gourmand" sex="M">
             <persName>Kinj Gourmand</persName>
           </person>
-          <person xml:id="kinigin_dificile" sex="FEMALE">
+          <person xml:id="kinigin_dificile" sex="F">
             <persName>Kinigin Dificile</persName>
           </person>
-          <person xml:id="prinzess_yoyotte" sex="FEMALE">
+          <person xml:id="prinzess_yoyotte" sex="F">
             <persName>Prinzess Yoyotte</persName>
           </person>
-          <person xml:id="baronesse_langue_de_chat" sex="FEMALE">
+          <person xml:id="baronesse_langue_de_chat" sex="F">
             <persName>Baronesse Langue de chat</persName>
           </person>
-          <person xml:id="baronesse_bonbonniere" sex="FEMALE">
+          <person xml:id="baronesse_bonbonniere" sex="F">
             <persName>Baronesse Bonbonnière</persName>
           </person>
-          <person xml:id="minischter_guggumseck" sex="MALE">
+          <person xml:id="minischter_guggumseck" sex="M">
             <persName>Minischter Güggumseck</persName>
           </person>
-          <person xml:id="minischter_gaggele" sex="MALE">
+          <person xml:id="minischter_gaggele" sex="M">
             <persName>Minischter Gäggele</persName>
           </person>
-          <person xml:id="opodeldock" sex="MALE">
+          <person xml:id="opodeldock" sex="M">
             <persName>Opodeldock</persName>
           </person>
-          <person xml:id="scharf" sex="MALE">
+          <person xml:id="scharf" sex="M">
             <persName>Scharf</persName>
           </person>
-          <person xml:id="winmuck" sex="MALE">
+          <person xml:id="winmuck" sex="M">
             <persName>Winmuck</persName>
           </person>
-          <person xml:id="mumes" sex="MALE">
+          <person xml:id="mumes" sex="M">
             <persName>Mumes</persName>
           </person>
-          <person xml:id="schimmel" sex="MALE">
+          <person xml:id="schimmel" sex="M">
             <persName>Schimmel</persName>
           </person>
-          <person xml:id="schablur" sex="FEMALE">
+          <person xml:id="schablur" sex="F">
             <persName>Schablür</persName>
           </person>
-          <person xml:id="biberon" sex="MALE">
+          <person xml:id="biberon" sex="M">
             <persName>Biberon</persName>
           </person>
-          <person xml:id="babilotte" sex="FEMALE">
+          <person xml:id="babilotte" sex="F">
             <persName>Babilotte</persName>
           </person>
-          <person xml:id="schnurrdiburr" sex="MALE">
+          <person xml:id="schnurrdiburr" sex="M">
             <persName>Schnurrdiburr</persName>
           </person>
-          <person xml:id="kinj_niesatt" sex="MALE">
+          <person xml:id="kinj_niesatt" sex="M">
             <persName>Kinj Niesatt</persName>
           </person>
-          <person xml:id="coucou" sex="MALE">
+          <person xml:id="coucou" sex="M">
             <persName>Coucou</persName>
           </person>
-          <person xml:id="maharadscha_maja_rahja" sex="MALE">
+          <person xml:id="maharadscha_maja_rahja" sex="M">
             <persName>Maharadscha Maja Rahja</persName>
           </person>
-          <person xml:id="erster_soldat" sex="UNKNOWN">
+          <person xml:id="erster_soldat" sex="U">
             <persName>1. Soldat</persName>
           </person>
-          <person xml:id="zweiter_soldat" sex="UNKNOWN">
+          <person xml:id="zweiter_soldat" sex="U">
             <persName>2. Soldat</persName>
           </person>
-          <person xml:id="prinz_aristide_hofnarr_heidideldum" sex="MALE">
+          <person xml:id="prinz_aristide_hofnarr_heidideldum" sex="M">
             <persName>Prinz Aristide vun Sabatine (Hofnarr Heidideldum)</persName>
           </person>
-          <person xml:id="prinz_arcadin_vun_chantalem" sex="MALE">
+          <person xml:id="prinz_arcadin_vun_chantalem" sex="M">
             <persName>Prinz Arcadin vun Chantalem</persName>
           </person>
-          <person xml:id="prinz_babbelenz_vun_gumberland" sex="MALE">
+          <person xml:id="prinz_babbelenz_vun_gumberland" sex="M">
             <persName>Prinz Bäbbelenz vun Gumberland</persName>
           </person>
-          <person xml:id="kinj_mickey" sex="MALE">
+          <person xml:id="kinj_mickey" sex="M">
             <persName>Kinj Mickey</persName>
           </person>
-          <person xml:id="zieselmiesel" sex="FEMALE">
+          <person xml:id="zieselmiesel" sex="F">
             <persName>Zieselmiesel</persName>
           </person>
-          <personGrp xml:id="mickeymies" sex="UNKNOWN">
+          <personGrp xml:id="mickeymies" sex="U">
             <persName>Mickeymies</persName>
           </personGrp>
-          <personGrp xml:id="alli_mickeymies" sex="UNKNOWN">
+          <personGrp xml:id="alli_mickeymies" sex="U">
             <persName>Alli Mickeymiesle</persName>
           </personGrp>
-          <person xml:id="drache" sex="UNKNOWN">
+          <person xml:id="drache" sex="U">
             <persName>Drache</persName>
           </person>
-          <personGrp xml:id="alli" sex="UNKNOWN">
+          <personGrp xml:id="alli" sex="U">
             <persName>Alli</persName>
           </personGrp>
           <personGrp>
@@ -152,15 +154,15 @@
             <relation name="parent_of" active="#kinj_gourmand #kinigin_dificile" passive="#prinzess_yoyotte" />
             <relation name="associated_with" active="#baronesse_langue_de_chat" passive="#kinigin_dificile" />
             <relation name="associated_with" active="#baronesse_bonbonniere" passive="#kinigin_dificile" />
-            <relation name="associated_with" active="#minischter_guggumseck" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#minischter_gaggele" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#opodeldock" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#scharf" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#winmuck" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#mumes" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#schimmel" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#schablur" passive="#kinj_gourmand" type="m" />
-            <relation name="associated_with" active="#schnurrdiburr" passive="#kinj_gourmand" type="m" />
+            <relation name="associated_with" active="#minischter_guggumseck" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#minischter_gaggele" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#opodeldock" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#scharf" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#winmuck" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#mumes" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#schimmel" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#schablur" passive="#kinj_gourmand" ana="intext" />
+            <relation name="associated_with" active="#schnurrdiburr" passive="#kinj_gourmand" ana="intext" />
             <relation name="parent_of" active="#schablur" passive="#biberon" />
             <relation name="parent_of" active="#schablur" passive="#babilotte" />
             <relation name="associated_with" active="#coucou" passive="#niesatt" />
