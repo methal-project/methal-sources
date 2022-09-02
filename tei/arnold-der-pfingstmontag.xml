@@ -131,57 +131,57 @@
         <front>
             <castList>
                 <head>Personen</head>
-                <castItem>
+                <castItem corresp="#starkhans">
                     <role>Herr Starkhans</role>, <roleDesc>Schiffsbauer und großer
                         Rathsherr</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#dorthee">
                     <role>Frau Dorothee (Dorthee)</role>, <roleDesc>seine Gattin</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#lissel">
                     <role>Lieschen (Lissel)</role>, <roleDesc>ihre Tochter</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#mehlbruej">
                     <role>Herr Mehlbrüh (Mehlbrüej)</role>, <roleDesc>Feuerspritzenmacher und
                         kleiner Rathsherr</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#rosine">
                     <role>Frau Rosine</role>, <roleDesc>seine Gattin</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#wolfgang">
                     <role>Wolfgang, ihr Sohn</role>, <roleDesc>Magister der Philosophie und
                         Abendprediger</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#christinel">
                     <role>Christinchen (Christinle)</role>, <roleDesc>Mündel (Vogtskind) Herrn
                         Mehlbrühs</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#lizentiat">
                     <role>Lizentiat Mehlbrüh</role>, <roleDesc>des vorigen Vetter</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#reinhold">
                     <role>Reinhold</role>, <roleDesc>von Bremen, der Medizin beflissener</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#prechtere">
                     <role>Frau Prechterin (Prechtere)</role>, <roleDesc>Witwe</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#klarel">
                     <role>Klärchen (Klärel)</role>, <roleDesc>ihre Tochter</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#glasler">
                     <role>Gläsler</role>, <roleDesc>von Kaisersberg, Kaufmann in Colmar
                         wohnhaft</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#pfarrer">
                     <role>Pfarrer Christlieb</role>, <roleDesc>aus dem Ortenauischen</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#berwel">
                     <role>Barbara (Berwel)</role>, <roleDesc>Nachbarin</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#bryd">
                     <role>Brigitte (Bryd)</role>, <roleDesc>Magd</roleDesc>
                 </castItem>
-                <castItem>
+                <castItem corresp="#claus">
                     <role>Claus</role>, <roleDesc>Bauer aus dem Kochersberg</roleDesc>
                 </castItem>
             </castList>
@@ -295,7 +295,7 @@
                         <l>Ze kinnt i doch jez au mit dytsche Herre redde.</l>
                         <l>I will mer awwer schunn recht Müej genn …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <stage>eintretend</stage>
                         <l part="F">I will wedde</l>
@@ -309,7 +309,7 @@
                         <speaker>Lissel</speaker>
                         <l>Herr Jeses wenn er ’s wär!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo wayer ’s isch er selbst.</l>
                     </sp>
@@ -334,7 +334,7 @@
                         <speaker>Lissel</speaker>
                         <l>O! gehn Si.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ach Herr Jeh!</l>
                     </sp>
@@ -342,7 +342,7 @@
                         <speaker>Lissel</speaker>
                         <l>Ha na!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ha jo!</l>
                     </sp>
@@ -358,7 +358,7 @@
                         <stage>bei Seite zu Christinel</stage>
                         <l>Red du …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christine</speaker>
                         <l>Saa du em ebs.</l>
                     </sp>
@@ -366,7 +366,7 @@
                         <speaker>Lissel</speaker>
                         <l>Es fallt mer jez nix yn.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was het er ewwe gsait ?</l>
                     </sp>
@@ -387,15 +387,15 @@
                         <stage>bei Seite</stage>
                         <l>Verstehst ne?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ich? – Ken Wort …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was isch diß: Hahnedistel?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ich waiß nit.</l>
                     </sp>
@@ -405,7 +405,7 @@
                         <l>Du waist so Dings … Er het au gsait verdorwner Lauch.</l>
                         <l>Henn ier im Garde?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nain.</l>
                     </sp>
@@ -415,7 +415,7 @@
                         <l>Doch halt. Jez merk i ne, er meecht mit ess spaziere;</l>
                         <l>Er saat ’s isch gueder Luft. Wo wurd er ess hienfüere?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Der Schießrain, diß wärd scheen.</l>
                     </sp>
@@ -460,7 +460,7 @@
                         <l>Merr trinkt jo numme Thee wemmerr will dichdi schwizze;</l>
                         <l>Wemmerr Brechbulver nimmt un wemmer Bluer duet spyzze.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo, de hesch wayer recht. Merr trybt sich viele Wuest</l>
                         <l>Mit Schwizze-n-us em Lyb. Do nimmt merr Holderbluest</l>
@@ -494,7 +494,7 @@
                         <l>Diß duuert wohl e Stund. Ze gehen Si z’erst noch haim,</l>
                         <l>Un hole Sie dernoh de Wolfgang im Kolaym.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ha jo! Der geht gern mit.</l>
                     </sp>
@@ -504,7 +504,7 @@
                         <l>Sie nur für kurze Zeit. </l>
                         <stage>Geht ab.</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Der duet di awwer haße!</l>
                         <l>Im Furtgehn het er di gar yfri angegukt,</l>
@@ -517,7 +517,7 @@
                         <l>Er meecht mi gar gern han. I wär zue gern syn Frau.</l>
                         <l>Die Zöpf die gfalle mer lang nimmi wie dier au.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Mier könnte just so guet e Schnebbekabb ufsezze,</l>
                         <l>Als wie diß Meyel do. Der het sich recht lon hezze,</l>
@@ -532,7 +532,7 @@
                         <l>Un isch so brozzerli, maint wyl ’s e Mantlett traat</l>
                         <l>Von Merdwa Syd, ze-n-ischs …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Do kummt der Lizeziat.</l>
                         <l>Was will denn der by ych der maauer Froschegihxer,</l>
@@ -557,7 +557,7 @@
                         <l>Zuem Schannel, in de Wolf, zuem Reimann? Warde, warde!</l>
                         <l>Ich geh ych nooch …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Si sin gar wunderfizzi hyt</l>
                         <l>Herr Pfedder. Wott e Schand! Wenn fra noch d’ gscheide Lyt</l>
@@ -574,7 +574,7 @@
                         <speaker>Lissel</speaker>
                         <l>Erst nit Herr Lizeziat! ’s geht in de Spazzehafe.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nain, uf de grüene Berj.</l>
                     </sp>
@@ -582,7 +582,7 @@
                         <speaker>Lizenziat</speaker>
                         <l>Ier genn mer viel ze schaffe.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Po! Wyl ’s denn soll erus, mer sehn die brächdi Lycht</l>
                         <l>Drus uf der Kurrwaau.</l>
@@ -601,7 +601,7 @@
                         <l>Nit au recht gern, Parrblö! Merr duet mer ’s Herz verspalde</l>
                         <l>Wemmer so Redde füert. Un bin i denn so alt?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Haw i denn Sie gemaint?</l>
                     </sp>
@@ -632,7 +632,7 @@
                         <l>E sydne Schabbobaa. So wüenscht i mier e Mann.</l>
                         <l>Daß i mi au verschnapp.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Un syni Galljeschnalle,</l>
                         <l>Syn langi Uhrekett, die duen mer bsunderst gfalle,</l>
@@ -644,7 +644,7 @@
                         <l>O! Ier Herzkäfer ier. I gsych ’s err estemiere</l>
                         <l>Mi alli zwai.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Mach jez, daß mer ken Zyt verliere.</l>
                         <l>D’ Lycht geht am sechse-n-an mit Musich un mit Gschieß,</l>
@@ -664,7 +664,7 @@
                         <l>Absunderli am Grab. Soll ich ych mit nus füere?</l>
                         <l>Wie wärd ’s, hä?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Bhüet ess Gott. Merr geht mit kaim Junggsell</l>
                         <l>An so e trurje-n-Ort; do kämt merr jo in d’ Höll.</l>
@@ -674,7 +674,7 @@
                         <l>Pong! Pong! Athiö! Schmangwäh! I kumm hyt owes widder. </l>
                         <stage>Geht fort.</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo, geh nurr dyne Wäj, du Wuchebläddelsrydder,</l>
                         <l>Ze simmer di doch los.</l>
@@ -684,7 +684,7 @@
                         <l>I lach mi bukkli krumm,</l>
                         <l>Was diß e Daigaff isch, so iwwerrenzi dumm.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Der wurd sich wundre drus, der schnaikecht Gaisemayer,</l>
                         <l>Der malzicht Allefanz, der Stadtgeretschusstrayer.</l>
@@ -698,7 +698,7 @@
                         <l>N-er wohnt im Pflanzbad drus, diß isch e halwi Stund</l>
                         <l>Von do, un widder nus uf d’ Kurrwaau …</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S isch em gsund,</l>
                         <l>Dem dürre Bebbelenz, un mier sinn frei doch zidder. </l>
@@ -863,7 +863,7 @@
                 <div type="scene">
                     <head>Sechster Auftritt</head>
                     <stage type="characters">Lissel. Christinel.</stage>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was hesch denn, bisch ganz roth, machst ufgepflunzni Aue,</l>
                         <l>Hesch Händel mit ne ghet?</l>
@@ -878,7 +878,7 @@
                         <l>Will mysli stille sinn, daß nix sich dran verschlaat,</l>
                         <l>Un warde bis er mer ’s, un bis mer ’s d’ Mamme saat.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo! De hesch recht, ’s isch glych mit Babble-n-ebs verhuddelt.</l>
                         <l>Diß hät mer awwer nit myn Lewesdaa geduddelt,</l>
@@ -910,7 +910,7 @@
                         <l>Denk! Der Briefträjer kummt als z’erst in unser Huus,</l>
                         <l>Un saat ’s wenn er e Brief zuem Reinhold het getraaue.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ewwezemär! Diß isch doch pfiffi un verschlaaue.</l>
                         <l>Bekummt er denn vilmol so Wechselbrief?</l>
@@ -921,7 +921,7 @@
                         <l>Er het in demm Halbjohr schunn vieri kriejt, un diß</l>
                         <l>Gemilchdi, allemol von drei, vierhundert Gulde.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Standare-n-un ken End! Do het er ebbe Schulde.</l>
                     </sp>
@@ -939,7 +939,7 @@
                         <l>Vil freyer aß by uns, gehn in ’s Kummeedi nyn,</l>
                         <l>Un nemme d’ Strikket mit.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Abba! Diß isch doch gspäßi.</l>
                     </sp>
@@ -951,7 +951,7 @@
                         <l>Un keit von owwe ’raa, daß ainer ne mueß huzzle,</l>
                         <l>un wurrjt ne mit de Bain, bis alli zway hienburzle.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Un wie er ball e Prinz, ball e Waldbrueder wurd,</l>
                         <l>Un ball e-n-aldi Frau, wo gifdi d’ Lytt anschnurrt;</l>
@@ -966,7 +966,7 @@
                         <l>Un ’s Kinderbiwwele-n-un spinne-n-eure Bärdel,</l>
                         <l>Do henn ier Bübbelspiels genue uf aine Ritt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Do müen si doch rych sin imm Reinhold syni Lyt,</l>
                         <l>For daß si so vil Geld dem Mensche kinne bleche!</l>
@@ -976,7 +976,7 @@
                         <l>I main ’s ! Er het mer gsait, wenn er duet alles reche,</l>
                         <l>Se zeiht syn Vadder ’s Johrs vier dausig Gilde fix.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Poz Mord!</l>
                     </sp>
@@ -985,7 +985,7 @@
                         <l>Syn Mueder het au Späne-n-in der Bix,</l>
                         <l>Rooth, was die alle Daa von iehrem kann verzehre.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Sechs Schilli?</l>
                     </sp>
@@ -993,7 +993,7 @@
                         <speaker>Lissel</speaker>
                         <l>Geh doch wegg!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>E Daler?</l>
                     </sp>
@@ -1002,7 +1002,7 @@
                         <l>Witt nit here</l>
                         <l>Daß ’s meh isch!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Na, mier an! Gar e Dreiguldestük.</l>
                     </sp>
@@ -1010,7 +1010,7 @@
                         <speaker>Lissel</speaker>
                         <l>Diß wärd au der Müej werth.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was? Hätt i nurr diß Glük.</l>
                     </sp>
@@ -1018,7 +1018,7 @@
                         <speaker>Lissel</speaker>
                         <l>Rooth als nur herzaft furt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Schwernix! Doch ken Duggade?</l>
                     </sp>
@@ -1026,7 +1026,7 @@
                         <speaker>Lissel</speaker>
                         <l>Meh! Meh!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Kryz un ken End! Es het am ganze Stade</l>
                         <l>Ken rychi Lyt eso. Se het si e Deblon?</l>
@@ -1035,7 +1035,7 @@
                         <speaker>Lissel</speaker>
                         <l>Jez roothst emol erecht un bisch nimm’ wyt dervon.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Grannade Sabberlot! ’S wurd aim so dürmli, ehnder</l>
                         <l>Daß merr so viel erroth. Was? Alle Daa nommehnder</l>
@@ -1047,7 +1047,7 @@
                         <speaker>Lissel</speaker>
                         <l>Denk! Fufzeh Gulde het si dääjli uszegewe.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Es gschwacht mer, hol mi Gott.</l>
                     </sp>
@@ -1063,7 +1063,7 @@
                         <l>Es isch gar obstenat un will ’s soll alles danze</l>
                         <l>Noch syner Pfyff, isch zääj un guzzi wie e Hund.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Wie wurd ’s do awwer gehn, wenn morje schunn isch d’ Stund?</l>
                     </sp>
@@ -1074,7 +1074,7 @@
                         <l>Un will nit mit erus. Der Babbe wurd mer halt,</l>
                         <l>I merk ’s, d’ Fraid uf emol morn mache drus im Wald.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Gehn mer uf Ekkelse denn morn?</l>
                     </sp>
@@ -1089,7 +1089,7 @@
                         <l>’S isch d’ silwre Hochzyt morn. Vor fünf e zwanzig Johr</l>
                         <l>Henn sie just d’ Hyroth ghet an demm Daa.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S het ken Gfohr</l>
                         <l>Daß merr by euch schnarrmuult.</l>
@@ -1101,7 +1101,7 @@
                         <l>Mer lade morje früej e ganze Waidling voll</l>
                         <l>Wo nusfahrt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>I bin froh. Merr sinn drus alli mol</l>
                         <l>Recht boddelusti gsin.</l>
@@ -1112,7 +1112,7 @@
                         <l>Bacht Holderküechle dnoh, un duet si frisch schnawwliere</l>
                         <l>For’s Z’morjenesse; dnoh geht ’s halt d’ Breddi nyn.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Geh wegg! Do blyw i drus. ’S isch so e rechdi Pyn</l>
                         <l>So in der arje Hiz e Stundlang hien ze hukke</l>
@@ -1125,7 +1125,7 @@
                         <l>Gsundhaide viel gelert, un druf geht ’s los an ’s springe</l>
                         <l>Im Gras erum, derwylst die Alde Liedle singe.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Dnoh strolcht merr hien un her im Wald erummer, lacht</l>
                         <l>Un pfleckt enander Us, redt iwwer d’ Lyt daß ’s kracht.</l>
@@ -1144,7 +1144,7 @@
                         <l>Schaßmeng, Wik, Rosmeryn un Blüemle wo so knalle.</l>
                         <l>Wie heißt merr si?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Waiß i ’s? Sie hen kenn Namme die.</l>
                     </sp>
@@ -1157,7 +1157,7 @@
                         <l>Märsch, dytschi, bolischi, franzeeschi Dänz um d’ Wett</l>
                         <l>Uffspiele. Wott e Jux, im Schiff mit Musich fahre!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>De wursch jo, werzina, for ludder Fraid zuem Narre.</l>
                     </sp>
@@ -1165,7 +1165,7 @@
                         <speaker>Lissel</speaker>
                         <l>Un Owes isch dnoh d’ Stund un Handschlaa. Bin i froh!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Wo blywe-n-awwer die? I glaub si welle do</l>
                         <l>Uns hukke lon. Ha so! Un von dym klaine Brueder</l>
@@ -1181,7 +1181,7 @@
                 </div>
                 <div type="scene">
                     <head>Siebenter Auftritt</head>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <stage>allein</stage>
                         <l>Diß duet jo wie e Kind,</l>
@@ -1226,7 +1226,7 @@
                 <div type="scene">
                     <head>Achter Auftritt</head>
                     <stage type="characters">Die Vorige. Reinhold. Wolfgang.</stage>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Herr Jeh! Wurrum e so</l>
                         <l>Erzezli spoot? Merr kann sich scheen uf Sie verlosse,</l>
@@ -1239,7 +1239,7 @@
                         <l>An schönen Kindern so nachlässig, treulos, brechen?</l>
                         <l>Das würden ja sogleich die Götter strafend rechen!</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>De Gädder breche? Was? ’S geht nit zuem Rechche nus,</l>
                         <l>Mier fahre nit im Schiff – I kumm nit recht erus</l>
@@ -1252,7 +1252,7 @@
                         <l>’S scheen Bäsel het ken Wort von all demm brächtje Dings</l>
                         <l>Verstande.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Werzina! ’S isch wayer wohr. I bring’s</l>
                         <l>Nie ’rus was er so sait.</l>
@@ -1263,7 +1263,7 @@
                         <l>Sprich deutlich, langsam, klar; spinn’ deiner Rede Faden</l>
                         <l>Nicht allzu rasch und fein, und laß’ die Götter weg.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Ey! Geh doch du mer wegg mit dym hochdytsche Gspräch;</l>
                         <l>Red du stroßburgerisch.</l>
@@ -1279,7 +1279,7 @@
                         <l>Doch bessern werd ich mich. Denn was kann mehr erfreu’n</l>
                         <l>Als von der Schönen oft gewarnt, belehrt, zu seyn?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>So. Jez versteh i ’s guet, fra wyl Si gscheidi Sache</l>
                         <l>Henn gsait. ’S isch wie gedruckt. So müen Si ’s alfurt mache;</l>
@@ -1296,7 +1296,7 @@
                         <l>Doch wo mag Lieschen weilen?</l>
                         <l>Sie ist doch wohl zu Haus?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S isch wegg.</l>
                     </sp>
@@ -1305,7 +1305,7 @@
                         <l>Wir sollten eilen</l>
                         <l>Wenn wir die schöne Welt noch draußen wollen sehn.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S kummt glych.</l>
                         <stage>zu Wolfang</stage>
@@ -1317,7 +1317,7 @@
                         <speaker>Wolfgang</speaker>
                         <l>Was babbelst do for Dings Christinel! Halt dyn Muul.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S isch jo kain Ghaimnuß meh. I schwäz nix us der Schuel;</l>
                         <l>Un wenn d’s au wehre wottst, de Myse wärd ’s gepfiffe.</l>
@@ -1342,7 +1342,7 @@
                         <l>Es ist nur Spaß und Scherz</l>
                         <l>Was dieses Mädchen hier mit losem Sinn geplaudert.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nainnit! De lüejst! ’S isch wohr.</l>
                     </sp>
@@ -1351,7 +1351,7 @@
                         <l>Schön! Wer so lange zaudert</l>
                         <l>Frey etwas zu gestehn, den trifft der Argwohn scharf.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S isch alles schunn stiwwliert un fix.</l>
                     </sp>
@@ -1375,7 +1375,7 @@
                         <l>Zu lenken sein Geschick. Wer seinem Freund nicht schenkt</l>
                         <l>Vertrau’n und Zuversicht verschmäh’t der Freundschaft Pflichten.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Guet genn! Nurr furt getrumpft!</l>
                     </sp>
@@ -1386,7 +1386,7 @@
                         <l>Die im Beginnen schon, ich fühl ’s, mein Herz in Brand</l>
                         <l>Gesteckt und die vielleicht ...</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Diß sinn nurr Stembeneye!</l>
                         <l>Ganz andri Liedle sottst du do dym Frynd vorgeye.</l>
@@ -1397,7 +1397,7 @@
                         <speaker>Reinhold</speaker>
                         <l>Was hör ich? Wie?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was batt ’s</l>
                         <l>Daß de ’s verdutsche witt un dich verstellst.</l>
@@ -1409,7 +1409,7 @@
                         <l>Unmöglich. </l>
                         <stage>Geht schnell fort.</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>I saa nix.</l>
                     </sp>
@@ -1418,7 +1418,7 @@
                         <l>Freund, hör! Sei doch kein Kind! </l>
                         <stage>Läuft ihm nach</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jez basch i aa un mach mi dhaim an ’s Schrywe gschwind,</l>
                         <l>Un schik imm Reinhold halt e Briefel. Es isch freili</l>
@@ -3605,7 +3605,7 @@
                         <l>Gar wunzigg bstellt. Där sott norr kome zue-n-üss nuf</l>
                         <l>Aer könnt scho’ Lehrgeld gän.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Wie sicht denn Kolmer us?</l>
                     </sp>
@@ -3614,7 +3614,7 @@
                         <l>Aes isch ä großi Stadt. ’S Gebirgg isch in der Nääche,</l>
                         <l>Do sinn viel Schlösser druf.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was fürrigi?</l>
                     </sp>
@@ -3629,7 +3629,7 @@
                         <l>Un by Rapschwyr gar drei, un ains isch noch so groß</l>
                         <l>Aß d’ andre zwai.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Abba!</l>
                     </sp>
@@ -3639,7 +3639,7 @@
                         <l>Do maint er, d’ Felse sinn grad for ne ze verschmättre</l>
                         <l>So hoch un sträng nufgsezt. Do krieit merr Angst un Bang.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was Si nit saaue do!</l>
                     </sp>
@@ -3648,7 +3648,7 @@
                         <l>Aes isch e haißer Gang</l>
                         <l>Biz daß merr drobe-n-isch.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>I hät jez an dem Gaise</l>
                         <l>Uf d’ Berj e großi Fraid. Kinnt i, dät i wyt raise</l>
@@ -3677,7 +3677,7 @@
                         <l>Sinn durchenander dert ze sähn un gscheidi Lyt</l>
                         <l>Fryndschaftligg, guet un treu wee in der alte Zyt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Do meecht i jez schunn hien.</l>
                     </sp>
@@ -3688,7 +3688,7 @@
                         <l>Un andri Zyg so gmacht, Blybärgwärk sinn o’ dort:</l>
                         <l>Zäll isch e fryndliche-n-un gar nahrhafte-n Ort.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>So Bergwerk sähd’ i gern.</l>
                     </sp>
@@ -3712,7 +3712,7 @@
                         <l>Treuherzigg, ehrligg, grad for üss kan ainer d’ Hand</l>
                         <l>In ’s Fyr ny laye.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo. Wenn alli Inne glyche.</l>
                     </sp>
@@ -3735,7 +3735,7 @@
                         <l>Si henn e recht. I gspüer</l>
                         <l>Im Kopf e Hiz un Jast, e Gsurrs un e Geböbbels.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Drum laj di uf e-n-Ohr, do hilft ken lang Gezeebels.</l>
                     </sp>
@@ -3743,7 +3743,7 @@
                         <speaker>Klärel</speaker>
                         <l>Diß will i, denn mer gehn donnit in ’s Kränzel hyt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Do blyw i by derr.</l>
                     </sp>
@@ -5564,7 +5564,7 @@
                         <l>’S isch wie i derr ’s haa gsait der Narr wo welschelt so,</l>
                         <l>Der Erbsezähler. – Na. Jez geh i.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Bly’ noch do!</l>
                         <l>Si sinn nonnit am Disch, mer babble noch e bissel.</l>
@@ -5574,7 +5574,7 @@
                         <l>Isch denn im Wolfgang au syn herzgebobbelt Lissel</l>
                         <l>Schunn drowwe?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nain. Ich wart do uf ’s.</l>
                     </sp>
@@ -5583,7 +5583,7 @@
                         <l>Der Bremer isch</l>
                         <l>Doch do, der Wüestel?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo. Was hesch denn? De bisch</l>
                         <l>Glych im e Harrasch drinn wemmer ne nurr duet nenne.</l>
@@ -5592,7 +5592,7 @@
                         <speaker>Berwel</speaker>
                         <l>De mainst ’s eso. – Kummt au der Amtmann un d’ Amtmänne?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Die sinn nit hie. Si sinn by ierem Brueder drus,</l>
                         <l>Bym Kammerrath in Bruemt.</l>
@@ -5601,7 +5601,7 @@
                         <speaker>Berwel</speaker>
                         <l>By zellem Hurrlebuß?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Jo. Er kummt vil in d’ Stadt.</l>
                     </sp>
@@ -5610,7 +5610,7 @@
                         <l>Der rych un leddi Nobe</l>
                         <l>Meecht halt e Frau von hie.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Als loß der von de Dobe</l>
                         <l>Nurr d’ wyße Hänschi wegg.</l>
@@ -5623,7 +5623,7 @@
                         <l>Syn Nas die kinnt merr em, waiß wie viel kürzer schlyffe,</l>
                         <l>Si wärd nollang genue.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S isch wohr.</l>
                     </sp>
@@ -5638,7 +5638,7 @@
                         <l>Mer henn just Buchwesch ghet, do haa i Laub genumme</l>
                         <l>Un haa mi gsyfert mit.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Der sott mer au so kumme!</l>
                         <l>Pfi bä! E Schmuz von dem infame Schmuerel do!</l>
@@ -5653,7 +5653,7 @@
                         <l>Kummt au der Kirchepfläjer</l>
                         <l>Nuf?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nain. Myn Vogt macht sich nix us dem Wortverdräjer.</l>
                     </sp>
@@ -5672,7 +5672,7 @@
                         <l>Traat jede Mumfel us wo err als dhaim genieße,</l>
                         <l>Un loßt sy’m beese Muul de Zaum unbändi schieße.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Abba! Isch der so bees?</l>
                     </sp>
@@ -5682,7 +5682,7 @@
                         <l>Durchtriwwe, nydi, falsch. Er isch jo lang Huusgsäs</l>
                         <l>By myner Großel gsin. – Was mache ’s Soldners driwwe?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Nigguet. ’S isch dert halt wegg der Offezier gebliwwe</l>
                         <l>Wo als d’ Frau Soldnere het in ’s Kummeedi gfüert,</l>
@@ -5699,7 +5699,7 @@
                         <l>Sorrjt d’ Frau derfor daß ball e klaini duet noochkumme</l>
                         <l>Wo hell un rainlecht geht.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Wo trywe nur die Lyt</l>
                         <l>’S Geld uf for d’ Huushaltung?</l>
@@ -5711,7 +5711,7 @@
                         <l>Vergaukelt, daß er Geld for Mezjer, Bek un Schnyder,</l>
                         <l>Schuemacher, Kiefer schwizt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was, trinke die denn Wyn</l>
                         <l>An ierem Disch?</l>
@@ -5723,7 +5723,7 @@
                         <l>Wo merr in de Salad au brycht, un wo noch ärjer</l>
                         <l>Aß wie Bieressi schmekt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Er het als doch e Fuus</l>
                         <l>Der Soldner, manchmol so.</l>
@@ -5740,7 +5740,7 @@
                         <l>Un säßdi gar villycht. – Si ruefe derr. Jez geh</l>
                         <l>Nurr e Gottsnamme nuf.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Na so. Guetnacht, adieh. </l>
                         <stage>Geht ab.</stage>
@@ -6478,7 +6478,7 @@
                         <l>A liewer Gott! Wenn i nurr morje noch sych d’ Sunn,</l>
                         <l>Daß i nit z’Nachts verschaid; i förcht mi so im Finstre.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Na, schamme Si sich doch mit Iere Hirn-Usgspinstre!</l>
                     </sp>
@@ -6518,7 +6518,7 @@
                         <l>Ze Hilf sinn kumme ball, un glych dernochert ier.</l>
                         <stage>Christinel und Bryd treten ein.</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <stage>ein Waschbecken in der Hand</stage>
                         <l>Do isch frisch Wasser jez. Bryd, gewe mer de Schwamme.</l>
@@ -6528,7 +6528,7 @@
                         <stage>den Finger ins Becken tauchend</stage>
                         <l part="I">Es isch jo vil ze kalt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l part="F">Als sodde Si sich schamme!</l>
                         <l part="I">’S kalt Wasser isch ne gsund.</l>
@@ -6568,7 +6568,7 @@
                         <l>’S wurd ’s Sternegässel sinn, for uf mi loszeklipfle</l>
                         <l>Wie e Dirketrumm.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Henn Si denn um de Stok</l>
                         <l>So spoot noch welle gehn in Ierem Lychderok?</l>
@@ -6583,7 +6583,7 @@
                         <l>Was zäll duet aabelange</l>
                         <l>Diß gloib i nit.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Dernoh zuem Kardinals-Gebäu,</l>
                         <l>Grad durch d’ Madlenegass.</l>
@@ -6593,7 +6593,7 @@
                         <l>Dert geh i nie verbei</l>
                         <l>Z’Nachts. Dert gehn zway erum in lange, wyße Mäntle.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Dnoh uf de Gartnersmärk?</l>
                     </sp>
@@ -6602,7 +6602,7 @@
                         <l>By zelle Kryttlersständle,</l>
                         <l>Am Umgeld, lauft jo z’Nachts e fyr’jer Mann erum.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Dernoh durch d’ Schlossergass an d’ Münz, un derte ’num</l>
                         <l>Uf d’ Mardersbruck.</l>
@@ -6613,7 +6613,7 @@
                         <l>Die gewe-n-aim e Prys Duwak, un krazze d’ Aue</l>
                         <l>Aim us, wemmer nigglych ne von ne nemme will.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Uff ’s Pleenel geht ’s dernoh, un by der Dinsemüel</l>
                         <l>In ’s Pflanzbad nyn.</l>
@@ -6663,7 +6663,7 @@
                         <l>Zäll isch jo</l>
                         <l>Rächt gsund. I will do drus e-n-Erkle geschwind ’ryhohle.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Do henn Si myn Nasduech.</l>
                     </sp>
@@ -6707,7 +6707,7 @@
                         <l>Der’twäje haa i gsait merr soll mi doher füere ....</l>
                         <l>’S wurd mer als ärjer weh.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Na, na, se lammediere</l>
                         <l>Si doch nit so.</l>
@@ -6761,7 +6761,7 @@
                         <speaker>Gläsler</speaker>
                         <l>Soll i See haime bgleite?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Diß wärd recht brav.</l>
                     </sp>
@@ -6788,7 +6788,7 @@
                         <l>Dert isch z’Nachts e Gebrüels daß merr ’s nit an kan heere,</l>
                         <l>Un jo nit an d’ alt Pfalz.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Lon Si die Lyt gewähre,</l>
                         <l>’S wurd Inne nix laids gschehn, Herr Pfedder. Na guet Nacht.</l>
@@ -7977,7 +7977,7 @@
                 <div type="scene">
                     <head>Siebenter Auftritt</head>
                     <stage type="characters">Gläsler, Christinel</stage>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Myn Vogt der will halt nit, do müen Si sich gedulde</l>
                         <l>Bis i wurr majereen.</l>
@@ -7988,7 +7988,7 @@
                         <l>Was haa-n-i em dänn gemacht? I bin in däre Stadt</l>
                         <l>Grad wee verhäxt.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S duet mier jo ant genue. Was batt</l>
                         <l>Jez Ier Geprox; ’s isch so.</l>
@@ -7999,7 +7999,7 @@
                         <l>I worr no’ ’s Deifels ich, un haa ’s zue dik im Kraaje;</l>
                         <l>Aer soll nor aacht gänn där.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>’S duurt jo nurr noch e Johr.</l>
                     </sp>
@@ -8007,7 +8007,7 @@
                         <speaker>Gläsler</speaker>
                         <l>Naay! Glych soll ’s sy’, i kumm dämm Alte sust in d’ Hoor.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was? Zell wärd scheen.</l>
                     </sp>
@@ -8020,7 +8020,7 @@
                         <l>Un jez wo-n-i See känn, un wo-n-i oi ä rächid</l>
                         <l>Fraid an ne haa, loß i See wärli nimmi gehn.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Was henn Si sich denn z’erst am Klärel versehn?</l>
                     </sp>
@@ -8028,7 +8028,7 @@
                         <speaker>Gläsler</speaker>
                         <l>’S isch halt mit üss verwandt; jez duet mi ’s grimmi schäre.</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>So redde Si emol noch mit der Frau Roothherre,</l>
                         <l>Un ranzi Si si an, dert geht si am Gebüsch.</l>
@@ -8038,7 +8038,7 @@
                         <l>See hänn erächt. I will grad zuen’re loife frisch. </l>
                         <stage>Geht ab.</stage>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>Er halt d’Prob us, un duet recht d’ Finger nooch mer schluzze!</l>
                         <l>Gottlowedank! ... I hät hyt ze doot müen truzze</l>
@@ -8657,7 +8657,7 @@
                         <l>So, Alder, jez redst gscheid … Christinel, kumm un saa</l>
                         <l>Wie isch derr ’s jez ze Mueth?</l>
                     </sp>
-                    <sp who="#christinle">
+                    <sp who="#christinel">
                         <speaker>Christinel</speaker>
                         <l>I bin vor ludder Fraide</l>
                         <l>Verzwirwelt schier im Kopf.</l>
