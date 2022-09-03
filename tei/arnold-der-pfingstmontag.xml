@@ -103,6 +103,9 @@
                     <person xml:id="claus" sex="M">
                         <persName>Claus</persName>
                     </person>
+                    <personGrp xml:id="mehrere-V-6" sex="U">
+                        <name>Mehrere</name>
+                    </personGrp>
                     <listRelation>
                         <relation name="spouses" mutual="#starkhans #dorthee"/>
                         <relation name="parent_of" active="#starkhans #dorthee" passive="#lissel"/>
@@ -7963,7 +7966,7 @@
                         <l>Dert under d’ Beldebäum, un nemme Mukkewäddel</l>
                         <l>For d’ Schnooke mit.</l>
                     </sp>
-                    <sp>
+                    <sp who="#mehrere-V-6">
                         <speaker>Mehrere</speaker>
                         <l>Na jo! Mier an!</l>
                     </sp>
@@ -8194,7 +8197,7 @@
                         <l>Wo sich bym Maistergsang </l>
                         <stage>mit Winken umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Alle andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Maister zaye kann. </l>
@@ -8247,7 +8250,7 @@
                         <l>Wo sich bym Maistergsang </l>
                         <stage>mit Winken umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Die andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Maister zaye kann.</l>
@@ -8308,7 +8311,7 @@
                         <l>Wo sich im Maistergsang </l>
                         <stage>mit Winken umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Alle andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Maister zaye kann. </l>
@@ -8384,7 +8387,7 @@
                         <l>Wo sich im Maistergsang </l>
                         <stage>umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Die andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Maister zaye kann. </l>
@@ -8442,7 +8445,7 @@
                         <l>Wo sich im Maistergsang </l>
                         <stage>umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Die andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Junggsell / Altgsell / Lehrjung / Bossel zaye kann.</l>
@@ -8557,7 +8560,7 @@
                         <l>Wo sich im Maistergsang </l>
                         <stage>umfragend</stage>
                     </sp>
-                    <sp>
+                    <sp who="#claus #lizentiat #pfarrer #starkhans #reinhold #wolfgang">
                         <speaker>Die andern</speaker>
                         <stage>einfallend</stage>
                         <l>Aß Großknecht zaye kann.</l>

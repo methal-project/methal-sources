@@ -74,6 +74,9 @@
           <person sex="M" xml:id="ein_herr_vom_comite">
             <persName>Ein Herr vom Comité</persName>
           </person>
+          <personGrp sex="B" xml:id="stimmen-4">
+            <name>Mehrere Stimmen aus dem Publikum</name>  
+          </personGrp>
           <listRelation>
             <relation name="spouses" mutual="#eugene_mathis #sophie_mathis" />
             <relation name="related_with" active="#dr_schaufler" passive="#eugene_mathis" />
@@ -335,7 +338,7 @@
             <stage>(wüthend):</stage>
             <p>Ja here Sie mol, Herr Kihne. Was isch jetz deß ? Was solle mir do mache? Was lon sie uns do auf
             deren Estrade size, daß alli Lit uns anlüeje! Mer thät grad meine, mir sin "bêtes curieuses", Wisse
-            Sie, deß loß ich mir nit g'falle! ich bin en alter Chasseur d'Afrique.J'ai fait plusieurs campagnes
+            Sie, deß loß ich mir nit g'falle! ich bin en alter Chasseur d'Afrique. J'ai fait plusieurs campagnes
             mit Üszeichnung. Un min Capitaine het als g'saat: ,Mathis est un brave soldat. Il porte le bâton de
             maréchal 
             <pb n="11" />dans son havresac." Un wer weiß, wenn d' Schwowe. nit g'kumme wärde . . . ..</p>
@@ -861,7 +864,7 @@
           </sp>
           <sp who="#eugene_mathis">
             <speaker>Mathis :</speaker>
-            <p>Heer mol, Nevö, jetzt hesch genü der Schwowe g'sspielt. Was red'sch dü von Germanisiren un so
+            <p>Heer mol, Nevö, jetzt hesch genü der Schwowe g'spielt. Was red'sch dü von Germanisiren un so
             Plän.</p>
           </sp>
           <sp who="#dr_schaufler">
@@ -938,7 +941,7 @@
           <sp who="#dr_schaufler">
             <speaker>Dr. Schaufler:</speaker>
             <p>Eh ben! wenn deß din Ansicht ish, so wursch din Fraid han, wenn dü 
-            <pb n="31" />deß Elsässicsh Büch fiehsch, was der Herr g'schriewe het.</p>
+            <pb n="31" />deß Elsässisch Büch siehsch, was der Herr g'schriewe het.</p>
           </sp>
           <sp who="#otto_kuhne">
             <speaker>Kühne:</speaker>
@@ -1065,7 +1068,7 @@
             Capitaine het als g'saat :"Mathis est un brave soldat. Il porte le bâton de maréchal dans son
             havresac!" Un wer weiß, wenn d'Schwowe nit . . . . Awer jez saue ich nix meh. Vive le jubilé!</p>
           </sp>
-          <sp who="#alle">
+          <sp who="#dr_schaufler #eugene_mathis #otto_kuhne #sophie_mathis">
             <speaker>Alle:</speaker>
             <p>Hoch.</p>
           </sp>
@@ -1082,7 +1085,10 @@
             <speaker>Dr. Schaufler:</speaker>
             <p>Ach das wird sich schon machen lassen 
             <stage>(Zum Publikum gewandt):</stage> Es wird doch Keiner etwas dagegen haben ?</p>
-            <stage>(Mehrere Stimmen aus dem Publikum : Nein, nein.)</stage>
+          </sp>
+          <sp who="#stimmen-4">
+            <stage>(Mehrere Stimmen aus dem Publikum :</stage>
+            <p>Nein, nein.)</p>
           </sp>
           <sp who="#eugene_mathis">
             <speaker>Mathis:</speaker>
