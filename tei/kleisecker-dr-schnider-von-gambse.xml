@@ -33,6 +33,7 @@
           </licence>
         </availability>
         <idno type="doi" xml:base="https://doi.org/">10.34847/nkl.6eac7s0o</idno>
+        <idno type="methal" xml:id="mtl-051"/>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q107261261</idno>
       </publicationStmt>
       <sourceDesc>

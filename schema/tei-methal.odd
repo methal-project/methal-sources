@@ -84,6 +84,24 @@
             </constraint>
           </constraintSpec>          
         </elementSpec>
+        <elementSpec ident="sp" module="core" mode="change">
+          <constraintSpec scheme="schematron" ident="sp_requires_who">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:sp">
+                <sch:assert test="@who">sp elements need a @who</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
+          <constraintSpec scheme="schematron" ident="sp_who_must_be_in_listPerson">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:sp">
+                <sch:assert test="every $x in tokenize(@who, '\s+') satisfies substring($x, 2) = //tei:listPerson/tei:person/@xml:id | //tei:listPerson/tei:personGrp/@xml:id">ID in @who must be in listPerson</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>          
+        </elementSpec>        
       </schemaSpec>
     </body>
   </text>
