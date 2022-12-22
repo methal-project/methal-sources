@@ -148,9 +148,10 @@
             <persName>Bürslitt</persName>
           </person>
           <listRelation>
+            <relation name="parent_of" active="#_s_stawalders_vadder" passive="#_s_stawalders_jean" />
             <relation name="associated_with" active="#basche #katt" passive="#_s_stawalders_vadder" />
             <relation name="spouses" mutual="#_s_lipse_vadder #_s_lipse_mieder" />
-            <relation name="parent" active="#_s_lipse_vadder #_s_lipse_mieder" passive="#_s_lipse_gredel" />
+            <relation name="parent_of" active="#_s_lipse_vadder #_s_lipse_mieder" passive="#_s_lipse_gredel" />
             <relation name="friends" mutual="#lissel #rosel #evel #lenel #_s_lipse_gredel" />
             <relation name="friends" mutual="#_s_stawalders_jean #fritzel" />
           </listRelation>
