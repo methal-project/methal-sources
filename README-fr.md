@@ -22,7 +22,7 @@ Projet de création de corpus, ainsi que lecture distante du théâtre dialectal
 
 Pablo Ruiz (responsable), Delphine Bernhard, Pascale Erhart, Dominique Huck, Carole Werner, au Laboratoire LiLPa.
 
-Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous remercions particulièrement. Parmi les étudiant.e.s Unistra : Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud et Vedisha Toory. Au-delà : Andrew Briand (Université de Washington, via IFE Strasbourg) et Barbara Hoff (Université d’Édimbourg).
+Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous remercions particulièrement. Parmi les étudiant.e.s Unistra : Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud et Vedisha Toory. Au-delà : Andrew Briand (Université de Washington, via IFE Strasbourg), Barbara Hoff (Université d’Édimbourg), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
 
 ## Pièces disponibles en TEI
 
@@ -39,6 +39,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Paul Clemens|1919|1919|Gift!<br><a href='https://doi.org/10.34847/nkl.0dc51j2m'>(10.34847/nkl.0dc51j2m)</a>|Schwank in einem Akt in elsässischer Mundart|comedy|[[tei]](./tei/clemens-gift.xml)|
 |Paul Clemens|1920|1920|„Charlot“<br><a href='https://doi.org/10.34847/nkl.e2f80kzi'>(10.34847/nkl.e2f80kzi)</a>|E ürgelungenes Stückel in 1 Akt im elsässischa Dialekt von Paul Clemens, Bischheim (Nur Herrenrollen)|comedy|[[tei]](./tei/clemens-charlot.xml)|
 |Ernst Fuchs|1914|1914|Heimlichi Lieb<br><a href='https://doi.org/10.34847/nkl.670a8898'>(10.34847/nkl.670a8898)</a>|Elsässisch's Volksstüeck in 7 Bilder|drama|[[tei]](./tei/fuchs-heimlichi-lieb.xml)|
+|Julius Greber|1910|1910|'s Teschtament<br><a href='https://doi.org/10.34847/nkl.092b0a3k'>(10.34847/nkl.092b0a3k)</a>|Volksstück in drei Aufzügen von Julius Greber|volksstück|[[tei]](./tei/greber-s-teschtament.xml)|
 |Julius Greber|1899|1899|D'Jumpfer Prinzesse<br><a href='https://doi.org/10.34847/nkl.e9ca8n72'>(10.34847/nkl.e9ca8n72)</a>|Schauspiel in 3 Aufzügen in Straßburger Mundart von Julius Greber. Mit einer Deckenzeichnung von C. Spindler.|drama|[[tei]](./tei/greber-d-jumpfer-prinzesse.xml)|
 |Julius Greber|1896|1896|Lucie<br><a href='https://doi.org/10.34847/nkl.d0ce03vx'>(10.34847/nkl.d0ce03vx)</a>|Dramatisches Sittenbild in einem Aufzuge in Straßburger Mundart|drama|[[tei]](./tei/greber-lucie.xml)|
 |Julius Greber|1897|1897|Sainte-Cécile!<br><a href='https://doi.org/10.34847/nkl.954534jw'>(10.34847/nkl.954534jw)</a>|Lustspiel in einem Aufzuge in Straßburger Mundart von Julius Greber|comedy|[[tei]](./tei/greber-sainte-cecile.xml)|
@@ -59,6 +60,7 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 |Gustave Stoskopf|1907|1907|In's Ropfer's Apothek<br><a href='https://doi.org/10.34847/nkl.b5fctsyx'>(10.34847/nkl.b5fctsyx)</a>|Schwank in 3 Aufzügen von G. Stoskopf|comedy|[[tei]](./tei/stoskopf-ins-ropfers-apothek.xml)|
 |Emile Weber|1936|1936|E bissel Lieb<br><a href='https://doi.org/10.34847/nkl.ae77r3q4'>(10.34847/nkl.ae77r3q4)</a>|Drama im e Vorspiel un 3 Akt von Emile Weber, 5 Herren - 3 Damen|drama|[[tei]](./tei/weber-e-bissel-lieb.xml)|
 |Emile Weber|1932|1932|Yo-Yo!<br><a href='https://doi.org/10.34847/nkl.caddeub3'>(10.34847/nkl.caddeub3)</a>|E Geduldspiel in einem Akt|comedy|[[tei]](./tei/weber-yo-yo.xml)|
+
 
 
 ## Licence
