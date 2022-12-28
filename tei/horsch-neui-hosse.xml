@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://git.unistra.fr/methal/methal-sources/-/raw/master/schema/out/tei-methal.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -293,7 +295,7 @@
         <head>Szene IV.</head>
         <stage>Rosalie. — Emil.</stage>
         <stage>(Emil kummt erin, dr Huet in der Hand, dr Barebli unterm Arm, mit ere große Reverence.)</stage>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Bonjour Monsieur — — — 
           <stage>(ershreckt)</stage> Rosalie! 
@@ -305,7 +307,7 @@
           <p>Emil! — was führt dich do her? Ei ze kumm doch erin. I hab dich jo schun so lang nimm gsehn! Zey saa
           emol wo bisch denn du gsteckt ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(zebbelt)</stage>
           <p>Ich, — ich, ei ich bin noch allewyl hie gsin 
@@ -316,7 +318,7 @@
           <p>Giebsh mer nit emol e Hand? — 
           <stage>(Kleinlaut)</stage> un au kein Schmug!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(beiSeite)</stage>
           <p>Do bin i schön ningfalle ! — 
@@ -331,7 +333,7 @@
           <stage>(er zögert)</stage> un verzähl mer wäje was de do here kummsch ? Machsch mer e Visit, du bisch
           awer au gar nit artli hitt.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Weje was, daß i do here komm! 
           <stage>(bei Seite)</stage> Ja diß kann ich dere awer doch nit saa. 
@@ -342,7 +344,7 @@
           <p>Ah gell, weje denne drei Stückle ?</p>
         </sp>
         <pb n='10' />
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Ich nein, a doch; ja heschs grad gerode.</p>
         </sp>
@@ -350,7 +352,7 @@
           <speaker>Rosalie:</speaker>
           <p>Witt du sie denn, denne ablaufe. Die famose Stückle?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(zerstreut)</stage>
           <p>Ablaufe? — Nein hyrothe will i sie.</p>
@@ -360,7 +362,7 @@
           <p>Bisch veruckt, wie kann mer denn so ’s Feld hyrothe. Zej saa mer emol d'Wohrheit, do steckt ebbs
           anders derhinder ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(bei Seite)</stage>
           <p>I hab mi glauwi verschnappt ? 
@@ -375,7 +377,7 @@
           <p>Bisch du verlicht der Herr, wo Sie erwarte? — hein, — zei rud emol mit der Sproch eruß, wenns Herz
           hesch.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(Verlegen)</stage>
           <p>Ich, ich, — — — es schint mer grad so.</p>
@@ -385,7 +387,7 @@
           <stage>(weinend)</stage>
           <p>Oh jerum! un ich, Emil, un ich, hesch mich denn ganz vergesse. Din Rosalie, bin ....</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(weichend)</stage>
           <p>Oh geh, saa doch kenn so dumm Dings.</p>
@@ -399,7 +401,7 @@
           <stage>(Fährt auf ihn loß, Emil weicht, stoßt am Tisch an, und fällt hin.)</stage></p>
         </sp>
         <pb n='11' />
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Oh Rosalie, was hesch gemacht, zey komm und helf mer widder uff d'Bein.</p>
         </sp>
@@ -407,7 +409,7 @@
           <speaker>Rosalie:</speaker>
           <p>Ja ’s leijt mer uff, de wursch ellein uffstehn könne ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>I kann nit, siehsch denn nit, daß i do mit de Hosse im Diehle ingeklemmt bin.</p>
         </sp>
@@ -418,7 +420,7 @@
           <stage>(laut)</stage> Na i will ’s duen. 
           <stage>(Zejt am-e-n-Arm.)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Nit eso, nit so, sunsch verrisch mer noch e Kleid ! — — — 
           <stage>(Rosalie zejt als furt.)</stage> Krack! do hesch's, o jeh minni neije Hosse! 
@@ -429,7 +431,7 @@
           <stage>(lacht)</stage>
           <p>Ha, ha, ha, ha! — — —</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Du brüchsch au nocch ze lache, do luej mi emol an, 
           <stage>(Didd uff d'Knej)</stage> do sin sie hiwe un driwe uffgsprunge, wie e gschwelti Grummbeer! Was
@@ -440,7 +442,7 @@
           <speaker>Rosalie:</speaker>
           <p>Diß ish ganz einfach ze ranschiere.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Wie, könnsch du diß.</p>
         </sp>
@@ -448,7 +450,7 @@
           <speaker>Rosalie:</speaker>
           <p>Ganz einfach! De gehsch heim un duesch e Paar anderi an un kummch widder.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>So, grad wie wenn diß so licht wär. I hab die wo i do an hab, nur die Circonstance kauft. I hab zwar
           noch etlichi Paar d'heim, awer die basse nit do here, ’s hängt d'Grund dran vom Feld.</p>
@@ -458,7 +460,7 @@
           <p>Oh du Gibgraue! So hann ihrs alli ihr Krüttbüre. Millione hann ihr d'heim, in de 
           <pb n='12' />Grumbeersäck unter der Bettlad leije; awer e Stückel Kleid, diß wärd lux!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>St, st, — nitt so lütt, was meinsch, wenn diß der Herr Ziwelbloos höre dät, oder d'Madam ?</p>
         </sp>
@@ -466,7 +468,7 @@
           <speaker>Rosalie:</speaker>
           <p>Ja die, — hm, d'Wohrheit derf mer jo nitt saa. Diß isch au noch e Linsespaltere!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Um's Gotteswille schweij still, i mein ’s kummt ebber d'Steij eruf.</p>
         </sp>
@@ -475,7 +477,7 @@
           <p>Richtig, — jezt awer gschürt. 
           <stage>(Wischt ab.)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>So kann i mi unmöjli vorstelle, i geh gschwind un loß mer mini Knejschiwe verstopfe. Adje.</p>
         </sp>
@@ -488,7 +490,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Poy Rotheranesaft, i glaub ihr welle mich uewer e Hüffe renne ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Oh pardon, i habs gewiß nit gern gedohn. 
           <stage>(Halt d'Knej zue un drejt sich erum.)</stage></p>
@@ -497,7 +499,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Was isch diß fur e Handwerksburscht, Rosalie?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Meint der mich?</p>
         </sp>
@@ -534,7 +536,7 @@
           <stage>(Emil figt)</stage> sehsa — un verzähle Sie mer ihri Anleije. — 
           <stage>(Bei Seite)</stage> Was deifels, der fißt jo do, so stif wie e Holzbod.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(Stodend)</stage>
           <p>Herr Ziwelbloos, Sie müen, Sie müen mir erlauwe ! — — —</p>
@@ -543,7 +545,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Ich erlaub ne-n-alles.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(freudig)</stage>
           <p>Alles, vielmol merci, — adje. 
@@ -555,7 +557,7 @@
           <p>Heh! nit ze schnell, junger Mann, isch ne verlicht nit guet. Ich mach ne nix, i hab noch nieme
           nuntergschluckt.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>’s fehlt mer nix.</p>
         </sp>
@@ -563,7 +565,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Ze sige Sie doch.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Ja, 
           <stage>(sept sich machinalement)</stage>.</p>
@@ -574,7 +576,7 @@
           <p>Der het nit viel Kurasch im Lieb! I mueß-m e bissel helfe. 
           <stage>(laut)</stage> Also Sie kumme wäje minre Dochter, han sie gsaat.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(Stif)</stage>
           <p>So witt sin mer noch nit gsin.</p>
@@ -583,7 +585,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Hein! Sie welle sie nit ; Sie — — —</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(gesticulant)</stage>
           <p>Diß haw i nit gsaat, je n'ais pas dis cela, im Gegenteil ! au contraire; diß wär jo was ich — — — 
@@ -598,7 +600,7 @@
           Messer verschlukt hät ? 
           <stage>(Zu ihm)</stage> Also ihri ganz Hoffnung ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Gewiß. Min Babbe wo Sie ganz guet kenne het mi gheiße, — do here gehn, fur um d'Hand 
           <stage>(bei Seite)</stage> oh jerum, der lueijt mer d'ganz Zitt uff d'Knej, — 
@@ -615,7 +617,7 @@
           <stage>(laut)</stage> So also, wärde so witt. Mir ish's ganz erecht. Halt!! zersh noh e Fröij ; kenne
           Sie au mini Dochter ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Oh ja, i mein au, ganz guet. —</p>
         </sp>
@@ -623,7 +625,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>So, wo henn Sie sie denn kenne gelehrt?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Ai hab sie als zuefällig am Fenschter gsehn, wenn i zuefällig duch bin gange.</p>
         </sp>
@@ -638,7 +640,7 @@
           <stage>(Steht auf)</stage> I kumm im Auesblick mitne erin. 
           <stage>(Ziwelbloos ab.)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Was, au noch, un ich soll sie in dere Kleidung empfange, jeht awer los! — 
           <stage>(Zimelbloos mit Salome un Riedele komme her)</stage> Oh weh, do sin sie jo schun !</p>
@@ -657,7 +659,7 @@
           zuekünftige Herr Gemahl, Hm; denn der Herr do het grad vori mir dich in b’sh begehrt — un, — un, un wil
           ihr euch schun kenne ze brüch i au witterfch nix ze sauwe!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(b. S.)</stage>
           <p>Diß isch alles erecht awer i schwitz doch.</p>
@@ -676,7 +678,7 @@
           <p>Awer Ziwelbloos; wie kannsch du nurre denne Herr so encombrirt lonn. — Pardo, mossieu, donnez moi
           votre schabo et votre barablui s’il vu plait. Diß genirt Sie jo.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(b. S.)</stage>
           <p>Nit um alles vun der Welt. 
@@ -693,7 +695,7 @@
           <p>Zei Rickele, ruck emol e paar Stuehl her, i mein mer könnte e bissel size, ’s koscht ein Geld,</p>
         </sp>
         <pb n='16' />
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Au noch, alles isch geje mi.</p>
         </sp>
@@ -749,7 +751,7 @@
           <p>Awer höre doch uff, vor 
           <pb n='17' />mim Hochzitter do ze händle, i mueß mi jo schämme !</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Jeztwärdde besteht Moment do, fur ueßzerisse. 
           <stage>(verstohlen ab)</stage>.</p>
@@ -861,7 +863,7 @@
           ha. 
           <stage>(lacht)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(Street de Kopf zue de Dhuer herin)</stage>
           <p>Pst, pst! —</p>
@@ -871,7 +873,7 @@
           <p>Was isch diß, isch denn d'Ratz hinne ! 
           <stage>(Sucht.)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(Allewyl in der Dhüer)</stage>
           <p>St, pst — Rosalie!</p>
@@ -882,7 +884,7 @@
           <p>Lueij es! — Sin Sie schun widder do. 
           <stage>(Même jeu.)</stage></p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Nit so lüt. — Wo sin Ihri Lytt, ischs g'hier ? Meine Sie, was mir arrewiert isch.</p>
         </sp>
@@ -890,7 +892,7 @@
           <speaker>Rosalie:</speaker>
           <p>kumme Sie nur erin, Sie könnes do hinne. au verzähle.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(kommt herein, gedämpft)</stage>
           <p>Also, wo i d'Stäij drunte bin gsin un unter der Hüßdhuer bin gstande, hawi gedenkt ’s fahrt verlicht
@@ -902,7 +904,7 @@
           <stage>(lacht)</stage>
           <p>ha, ha, ha!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Lach nit so dumm! — Na diß hätte Sie 
           <pb n='20' />sehn solle! d’Buewe sin mer nochgeloffe, d'Litt sin stehn gebliwe un hann gelacht. Un ich,
@@ -912,7 +914,7 @@
           <speaker>Rosalie:</speaker>
           <p>ha, ha, diß glauwi.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Wo i heim kumm, isch kein Mensch un kein Seel im Hüß gsin; alles zuebschlosse, un wer mueß widder
           umkehre, bin ich. Zuem Glück hetts no anfange ze reije, do hawi mi wenigstens hinter mim Barebli
@@ -922,7 +924,7 @@
           <speaker>Rosalie:</speaker>
           <p>Ja, un jet, welle Sie sich doch so widder zaije ?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Wurum nit gar, bish e Narr. — I hab gedenkt Sie könnte mer üß der Noth helfe ?</p>
         </sp>
@@ -930,7 +932,7 @@
           <speaker>Rosalie:</speaker>
           <p>Ich, wie so?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Na, wenn Sie mer sie flicke däte.</p>
         </sp>
@@ -940,7 +942,7 @@
           <stage>(b. S.)</stage> Hein jezt könnt er mi widder brüche. — 
           <stage>(laut)</stage> Nein, i kann nit.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(bittend)</stage>
           <p>Oh Rosalie, saa diß nit, i weiß jo, daß de so guet stopfe kannsch! Oh geh, due mer denne Gfalle,
@@ -951,7 +953,7 @@
           <stage>(b. S.)</stage>
           <p>I brings fascht nit üewers Herz.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Seij doch nit so hart un loß di bitte, lueij i kneij vordi. mer glich widder uff, sunsch gibts noch
           größeri Löcher. — Ah, Sie hann Glück do steht grad der Mamsell ihri Näjlad. — Nemme Sie e Stuehl</p>
@@ -962,7 +964,7 @@
           <pb n='21' />un setze Sie sich do here. 
           <stage>(Sucht)</stage> Na find i denn kein Mobel.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Soll i der infädle.</p>
         </sp>
@@ -981,7 +983,7 @@
           <stage>(leise)</stage>
           <p>Poß blitz.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Alle hopp, dummle Sie sich e bissel; Sie fange jo gar nit an.</p>
         </sp>
@@ -1004,7 +1006,7 @@
           <stage>(zu ihr)</stage>
           <p>St, St.</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(sucht)</stage>
           <p>I glaub Sie finde sie nit.</p>
@@ -1029,7 +1031,7 @@
           <stage>(sieht dieselben)</stage>
           <p>Oh jerum, d'Madam!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(même jeu)</stage>
           <p>Nepomuk hilf, i bin todt!</p>
@@ -1039,7 +1041,7 @@
           <p>Aça, voyons, was isch denn do loos? Zaj Frau, lang mer de Beese. Herr Federköhl 
           <pb n='22' />wotte sie so guet sin un lueje ebb i nit drüsse bin, un schnell!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Oh jeh! jezt isch alles verspielt, alles kapüt! d'Hosse un au noch mini Hochzitterei! — Oh Rickele
           vergib mer.</p>
@@ -1058,7 +1060,7 @@
           <speaker>Salome:</speaker>
           <p>Hesch erecht, Ziwelbloos, saa's dem nurerecht!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Uff de Kneij wott i sie bitte — 
           <stage>(b. S.)</stage> wenn i könnt, 
@@ -1073,7 +1075,7 @@
           <p>C'est tu 
           <stage>(tout)</stage> juste ! un was hann sie denn dorte gemacht?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Ei ’s Rosalie hett mer ebs an de Hofe ze ranschiere ghett.</p>
         </sp>
@@ -1082,7 +1084,7 @@
           <p>Was hör ich! Un ich soll au noch dem mini Dochter genn? Gell Rickele witt ne nimm, i wott ne au
           nimm! Rickele: hi, hi, hi, der wüesht Mensch, er soll anne gehn wo er here kumme isch!</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(traurig)</stage>
           <p>So geh i halt. Adje, leb wohl! 
@@ -1181,7 +1183,7 @@
           <speaker>Ziwelbloos:</speaker>
           <p>Gott sei Dank. Also so verlauft ihr Sach. Zaije sie uns doch emol ihri Schade?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <stage>(entblößt)</stage>
           <p>Sie excusiere.</p>
@@ -1197,7 +1199,7 @@
           <stage>(jour)</stage> wie e paar alti Strümpf, i versteh ihri Verlejeheit. Am End find sie au noch
           neij?</p>
         </sp>
-        <sp who="#emil">
+        <sp who="#emil_federkohl">
           <speaker>Emil:</speaker>
           <p>Funkelnauelneij!</p>
         </sp>
