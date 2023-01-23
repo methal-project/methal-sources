@@ -74,7 +74,7 @@
                 <sch:assert test="@sex = ('B', 'F', 'M', 'U')">Possible character sex values in listPerson are B, F, M, U</sch:assert>
               </sch:rule>
             </constraint>
-          </constraintSpec>         
+          </constraintSpec>
           <constraintSpec scheme="schematron" ident="character_ID_shape">
             <desc/>
             <constraint>
@@ -84,6 +84,24 @@
             </constraint>
           </constraintSpec>          
         </elementSpec>
+        <elementSpec ident="listPerson" module="namesdates" mode="change">
+          <constraintSpec scheme="schematron" ident="character_relation_names">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:listPerson">
+                <sch:assert test="if (tei:listRelation) then tei:listRelation/tei:relation/@name = ('parent_of', 'lover_of', 'related_with', 'associated_with', 'siblings', 'spouses', 'friends') else true()">Possible character relation names are 'parent_of', 'lover_of', 'related_with', 'associated_with', 'siblings', 'spouses', 'friends'</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>         
+          <constraintSpec scheme="schematron" ident="character_relation_type_attribute">
+            <desc/>
+            <constraint>
+              <sch:rule context="tei:listPerson">
+                <sch:assert test="if (tei:listRelation) then every $x in tei:listRelation/relation satisfies if ($x/@type) then $x/@type = ('intext') else true() else true()">If a @type is given for a character relation, its possible values are: 'intext')</sch:assert>
+              </sch:rule>
+            </constraint>
+          </constraintSpec>
+        </elementSpec>        
         <elementSpec ident="sp" module="core" mode="change">
           <constraintSpec scheme="schematron" ident="sp_requires_who">
             <desc/>
