@@ -2,27 +2,34 @@
 
 # MeThAL : Towards a macroanalysis of theatre in Alsatian
 
-Corpus creation, distant reading and historical sociolinguistics project, based on plays written in the Alsatian dialect. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
+Corpus creation, distant reading and historical sociolinguistics project, based on plays written in Alsatian varieties. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
 
 - Project site: <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
 - Corpus exploration interface: <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
 - Permanent (DOI-based) publication of the TEI-encoded resources is done through a <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform
+  - Besides the plays already assigned a DOI, a pre-release version of several plays, that can already be used for analyses, can found at [tei-pre-release](./tei-pre-release) in this repository
 
 
 ## Repository content
 
-- The [**TEI-encoded plays**](./tei), in the [[tei]](./tei) directory. As an [overview](#plays-available-in-tei), the plays already encoded are listed in the table [below](#plays-available-in-tei)
-    - Note that an <a target="_blank" href="https://methal.eu/ui/">online interface</a> gives access to the full text for over 50 more plays, for which we have corrected OCR output, but that are not TEI-encoded yet
+- The **TEI-encoded plays**. These are found in two directories:
+  - [[tei]](./tei): These plays have been assigned a DOI via the Nakala repository. As an [overview](#plays-available-in-tei), these plays are listed in the table [below](#plays-available-in-tei)
+  - [[tei-pre-release]](./tei-pre-release): These plays have been subjected to less verifications than the ones in the `tei` directory and a DOI has not yet been assigned. They have however already been used for several studies (e.g. <a target="_blank" href="https://doi.org/10.5281/zenodo.8404252">emotion analysis</a>)
 - A [**TEI personography**](./personography) for a larger set of plays is also available. It describes over 2,350 characters in ca. 230 plays. Character social variables (age, sex, professional group, social class) are annotated
 - A <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documents our encoding practices
+- Software we developed for encoding can be found at [encoding-workflow](./encoding-workflow)
+
+Besides this repository, an <a target="_blank" href="https://methal.eu/ui/">online interface</a> gives access to the text for all plays and their metadata
 
 ## Participants
 
 Pablo Ruiz (project lead), Delphine Bernhard, Pascale Erhart, Dominique Huck, Carole Werner, at the LiLPa lab.
 
-Special mention to the many interns that we've been fortunate to work with: Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud and Vedisha Toory among University of Strasbourg students. From other schools, Andrew Briand (University of Washington via IFE Strasbourg), Barbara Hoff (University of Edinburgh), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
+Special mention to the many interns that we've been fortunate to work with: Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud, Alexia Schneider and Vedisha Toory among University of Strasbourg students. From other schools, Andrew Briand (University of Washington via IFE Strasbourg), Barbara Hoff (University of Edinburgh), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
 
-## Plays available in TEI
+## Plays published with a DOI via the Nakala repository
+
+(Further TEI plays, not yet released via Nakala, can be found at the [tei-pre-release](./tei-pre-release) directory)
 
 |Author|First<br>Printed|Our<br>Source|Title<br>(DOI)|Subtitle|Genre|TEI source|
 |---|---|---|---|---|---|---|

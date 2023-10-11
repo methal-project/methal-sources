@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">s Gaischtert im Hüss</title>
+        <title type="sub">E grüsligi Szene vun Ferd. Bastian</title>
+        <author key="wikidata:Q13099282">Ferdinand Bastian</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106588367</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109698n</idno>
+          <idno type="methal" xml:id="mtl-011"/>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106588367">Ferdinand Bastian</author>
+            <title type="main">s Gaischtert im Hüss</title>
+            <title type="sub">E grüsligi Szene vun Ferd. Bastian</title>
+            <publisher>Librairie « Sostralib », Strasbourg</publisher>
+            <date notBefore="1930" type="print">not before 1930</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="m_winkel">
+            <persName>M. Winkel</persName>
+          </person>
+          <person sex="M" xml:id="m_meter">
+            <persName>M. Meter</persName>
+          </person>
+          <person sex="M" xml:id="e_stimm">
+            <persName>E Stimm</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#m_winkel"><role><persName>M. Winkel</persName></role>, <roleDesc>Proprietär</roleDesc>.</castItem>
+        <castItem corresp="#m_meter"><role><persName>M. Meter</persName></role>, <roleDesc>Architekt</roleDesc>.</castItem>
+        <castItem corresp="#e_stimm"><role><persName>E Stimm</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+      <set>
+        <p>Ort vun d'r Handlung: e Zimmer, wo numme Blechkann steht. Beleichtung: halbdunkel.</p>
+      </set>
+    </front>
+    <body>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(züend mit e’re Velolamp erum)</stage>
+        <p>Kumme Sie, Herr Architekt.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Exküsiere Sie, M. Winkel, wenn ich... saperlot, es isch jo ball Zwölf...</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Deschto besser. Un? Han Sie min Hüs genau unter- suecht?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Gewissehaft, ja.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Un ’s Resultat?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Nix! Au gar nix.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Un nix Verdächtigs gfunde?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Naan.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Han Sie d' Wänd abgeklopft?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Alli, alli!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Sin Sie im Keller gsin, uff d'r Büehn?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ueweral, M. Winkel...</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Hm! E unheimlichi Gschicht... wo mich e Vermöje koscht... noch meh! Ja, wo mich rüiniert.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Rüi...niert? Wieso?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Guet ze verstehn. Bedenke Sie, e füenfstöckigs Hüss, modern yngericht, mit grossem Garte vorne un hinte, d’rzue noch in e’re freie, herrliche Gejed; e füenfstöckigs Hüss wo ken Mensch meh nynzeije will, wo verruefe isch! Bedenke Sie der Zinsverluscht!</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Rächt han sie.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Ganz abgsehne vun d'r Ambediererei vun de Jour- naliste, wo aane Daa un Nacht üss lütter Wunderfitz ken Ruehj lonn. Gott, was sin schun Artikel üewer des Hüss lanciert worre. Un photographiert! Meh als e Minischter.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ich hab e Idee. Verkaufe Sie diss Hüss.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Glich, glich, wenn’s numme Jemes wott. Alli An- nonce han bis dato nix genutzt. Im Gejedail... Stromswies komme Fremdi for diss Hüss ze betrachte. Jede Sunndaa sieht mer hunderti vun Automobil im Städtel. Wisse Sie, M. Meter, wer d' beschte Gschäfte do d’rbie macht?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ich kann mer’s denke.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Die Herre Wirt, d' Hôtelier, d' Beck, d'r Metzjer, d'r Patissier. So ebbs zuesehn ze müehn, diss geht aam an d' Niere.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Kann mer’s denke. <stage>(Kleini Paus.)</stage></p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>E Fröij, M. Meter. Han Sie selwer schun emol denne Spektakel in dem Hüss zueg’hoert?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Naan!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Han Sie schwachi Nerve?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Nit dass ich wuesst. Unseraaner muess jo uff de höchschte Gerüschter erumgaise.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Guet. Mache Sie mir denne Gfalle un gehn Sie jetzt mit mir vun aam Stock zuem andere.</p>
+		<pb n= '3' />
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ihne ze gfalle, gewiss, un um Ihne ze zaje, dass ich Nerve hab.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Es isch jetzerte juste dreiviertel uff Zwölf.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Werum han Sie denn e Velolamp, un ken Revolver?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Im Hüss isch alles abgstellt. Elektrizität, Gas, Was- serleitung. Gescht isch d'r letscht Lokatär üssgezöje.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>kumme Sie, ich hebb ’ne d' Velolamp. Ich glaab Sie riedere, M. Winkel?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Riedere? Vor wem?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ich, ich... sieh dass ihri Hand zittert.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Un Sie? Mer maant Sie riedere in d'r Stimm.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jo was, was d...denke Sie denn.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>M. Meter... es wurd glich zwölf schlaaue.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Zwölf!? Wie alles so hohl döhnt do hinne!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Nadierlich, wenn’s ganz Hüss leer isch.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Brrr! un kalt isch’s. Tiens, do het e Lokatär e Blech- kann vergesse mitzenäme.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Bscht! Noch e Minüt, no wäre mer ebbs erläwe.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Erläwe? Isch’s als a-arig, M. Winkel?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Jo, je noochdem. Ich glaab Sie klebbere mit de Zähn?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jo, allewäj. Kalt isch’s, kalt hab ich.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Noch e Sekund, M. Meter. <stage>(Es schlaat wittlos Zwölf.)</stage></p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p><stage>(huescht)</stage>.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Han Sie’s g’hört. Es hett ebber g’huescht.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jaja, g...ganz d... dittlich.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jaja, g...ganz d...</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Basse Sie uff, was jetzt gschieht.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Wa-was gschieht?</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm :</speaker>
+        <stage>(lütt)</stage>
+        <p>Hm! Hm! St! St! ...Ssss! <stage>(Mer hört kratze un scherre.)</stage></p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Höre Sie's? Wie wenn jemes an de Wand erum- schabt.</p>
+        <pb n= '4' />
+	  </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ja, sch-schabt, schabt.</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm :</speaker>
+        <stage>(mit Steigerung)</stage>
+        <p>Oweh! Oweh! Oweh!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Höre Sie, wie ebber jomert? Grad wie e armi ver- loreni Seel.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Unheimlich, unheimlich.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Sin Sie jetzt üewerzejt, dass ken Mensch dohinne will wohne bliewe?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Gewiss, gewiss. Nit umesunscht. Guet, g...guet Nacht M. W...Winkel.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>He, dogebliewe! Es kummt noch besser.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Noch besser !?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Wo bliewe denn Ihri Nerve?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>M...merci, die, die verliert mer bie so Momente. <stage>(E stariker Schlaa wie Zinkedeckel.)</stage></p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Aha!</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jesses! <stage>(Schriller Pfiff.)</stage></p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Jesses! Lonn Sie mich nüss, M. Winkel.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Nix do. Sie sin miner Architekt un zeglich miner Zeje biem Gericht.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Gericht? Liewer dorte, a-als do. <stage>(Es pfifft lang, rasselt mit Kette.)</stage></p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Hä, was saaue Sie jetzt?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Herr, Herr Winkel, dorte, dorte!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Was han Sie?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>He-herr Wi-winkel, dorte, dorte!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Was denn dorte?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>D’ Tüer, d' Tüer dorte isch uffgange.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Ich glaab Sie lyde an Gychter?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ah! — Ah! Jetzt, je-jetzt schun widder. E Gaischt het ge-gückt.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Was, e Gaischt?</p>
+		<pb n= '5' />
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ja, e wahrhaftiger Gaischt. Oh, ich muess mich setze.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Nit uff die Blechkann, nit!</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Werum denn nit?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(halblütt, dittlich)</stage>
+        <p>Sie isch mit Dynamit gfüellt.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ah! Mit Dynamit? Um Gottswille!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Nit so lütt! Die Blechkann iseh mini letscht Rettung.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Wieso, wieso?</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Wenn ich alles verliere soll, no... <stage>(Grosser Grambol, wie wenn Staan plumpse.)</stage></p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Naan so ebbs. Gehn mer, g...gehn mer!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(üewerlütt in d’hohle Händ)</stage>
+        <p>Wenn ich doch alles verliere muess, no spreng ich ’s ganz Hüss in d' Luft... mit Dynamit!!</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p><stage>(e Schrei)</stage>.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Han Sie denne Schrei g’hört, M. Meter?</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Ja, ich spring zuem Fenschter nüss.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Nix do. Jetzt isch’s Rätsel gelöst.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Na, no gehn mer wenn’s gelöst isch.</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Still! Sie verderwe mer noch die ganz Gschicht. <stage>(Hamlich)</stage> In dere Blechkann isch jo ken Dynamit. Dem Kerl soll’s Gaischtere gedenke. <stage>(Lütt)</stage> Herr Architekt, züende Sie d' Züendschnuer aan. So! ‘Stimm: Halte! Halte!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(lütt)</stage>
+        <p>Noch e Minüt un alles kracht in d' Luft. M. Meter, kumme Sie schnell, laufe mer, laufe mer!</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p>Halte! Erbarme! Erbarme!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(lütt)</stage>
+        <p>Wer redd do?</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p>Ich, ich!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(lütt)</stage>
+        <p>Wer isch der ich? Schnell, ebb dass-es kracht!</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p>Ich bin d'r Hiesermackler Michel. Halte! Halte!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Wo stecke Sie denn, Herr Hiesermackler?</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p>Do! do hinne!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel:</speaker>
+        <p>Gelle Sie, Sie han min Hüss zuem Abbruchsprys wölle kaufe?</p>
+      </sp>
+      <sp who="#e_stimm">
+        <speaker>Stimm:</speaker>
+        <p>Ich gschteh alles! Mache um d'r Gottswille d' Züendschnuer üss! Winkel, Meter:<stage>(lache unbändig.)</stage></p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Winkel :</speaker>
+        <stage>(lütt)</stage>
+        <p>Kumme Sie doch erüss, dass mer d' Ehr han Sie kenne ze lehre. <stage>(Haamlich)</stage> M. Meter, der Gaischt het e Denkzettel verdient.</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Un nit ze knapp!</p>
+      </sp>
+      <sp who="#m_winkel">
+        <speaker>Michel:</speaker>
+        <stage>(mit e’re schwarze Mask, trett uff)</stage>
+        <p>Ihr Herre, ich versprech... Winkel,</p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Un mir halte’s! <stage>(Packe Michel un verprejele 'ne)</stage></p>
+      </sp>
+      <sp who="#m_meter">
+        <speaker>Meter:</speaker>
+        <p>Michel: Halte! Halte! <stage>(Rideau.)</stage></p>
+      </sp>
+    </body>
+  </text>
+</TEI>

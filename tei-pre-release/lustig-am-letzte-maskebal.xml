@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Am letzte Maskebal</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-135"/>
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Am letzte Maskebal</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="pierrot" sex="M">
+            <persName>Ne Pierrot</persName>
+          </person>
+          <person xml:id="domino" sex="M">
+            <persName>ne Domino</persName>
+          </person>
+          <person xml:id="mehlgeist" sex="M">
+            <persName>ne Mehlgeist</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#pierrot">
+          <role>
+            <persName>Ne Pierrot</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#domino">
+          <role>
+            <persName>ne Domino</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#mehlgeist">
+          <role>
+            <persName>ne Mehlgeist</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Pierrot, Domino.</stage>
+        <sp who="#pierrot">
+          <speaker>Pierrot</speaker>
+          <stage>(no-n-em Nachtesse im Restaurant)</stage>
+          <l>'s isch Zit glaüb, liewer Domino,</l>
+          <l>Ass mir ufbreche; meinsch nitt o?</l>
+          <l>D'Nacht thüet scho vor em Tag jetz wiche,</l>
+          <l>Drum will ich uf mi Bureau schliche...</l>
+          <stage>(er lipft si Maske ne wenig)</stage>
+          <l>Meinsch, ass mi G'sicht dr Idruck macht</l>
+          <l>Vo eim, wo g'süecht hat d'ganze Nacht,</l>
+          <l>Ne Irrung in de Biecher z'finde?</l>
+          <l>Denn das müess ich dr Fraü abinde,</l>
+          <l>'s isch d'beste-n- Üsred, wo-n-ich kenn.</l>
+        </sp>
+        <sp who="#domino">
+          <speaker>Domino.</speaker>
+          <l>Also bisch Dü g'hirothe denn?</l>
+        </sp>
+        <sp who="#pierrot">
+          <speaker>Pierrot.</speaker>
+          <l>He, leider jo!... wenn ich sag « leider »,</l>
+          <l>So isch's nitt wege-n-em Verleider;</l>
+          <l>Mi Fraü isch still un brav un güet,</l>
+          <l>Ich bi nur màngmol iwel z'Müeth,</l>
+          <l>Wil mich d'Üsrede thien verdriesse,</l>
+          <l>Wo-n-ich müess gà, fir d'Freiheit z'g'niesse...</l>
+          <l>Doch, 's isch jetz Zit... mr wànn jetz geh...</l>
+          <l>Vergiss nitt uf em Kanepee</l>
+          <l>Di Nastüech dert...</l>
+          <pb n="724 725"/>
+        </sp>
+        <sp who="#domino">
+          <speaker>Domino</speaker>
+          <stage>(nimmt's un untersüecht's)</stage>
+          <l part="Y">Das isch nitt mi!</l>
+          <l>Das kenn ich nitt, was kunnt Dir i?</l>
+          <stage>(er zieht ihres üs em Büese)</stage>
+          <l>Do isch mi's, schaü, 's isch licht z'erkenne,</l>
+          <l>Ne Herz isch druf g'stickt, wo thüet brenne,</l>
+          <l>Denn vo mim Mann isch's halt e G'schenk.</l>
+          <l>Fir ass ich immer an en denk...</l>
+        </sp>
+        <sp who="#pierrot">
+          <speaker>Pierrot.</speaker>
+          <l>So hat's halt ebber schint's vergesse,</l>
+          <l>Wo vor uns zwei do z'Nacht hat g'gesse...</l>
+          <stage>(er b'schaüt's g'naüer un springt uf)</stage>
+          <l>Isch's mögli!... nei!... un doch isch's so!</l>
+          <l>Ich kenn's... un do isch's zeichent jo!</l>
+          <stage>(er laüft im Zimmer umme wie verruckt)</stage>
+        </sp>
+        <sp who="#domino">
+          <speaker>Domino.</speaker>
+          <l>Was isch? was hasch? worum thüesch's v'risse</l>
+          <l>Un thüesch eso uf d'Stockzähn bisse?...</l>
+          <l>De wirsch wahrhaft ganz roth un blaü -</l>
+          <l>Me meint, 's g'hört Diner eig'ne Fraü!</l>
+        </sp>
+        <sp who="#pierrot">
+          <speaker>Pierrot</speaker>
+          <stage>(rasend)</stage>
+          <l>Dü hasch's errothe!...</l>
+        </sp>
+        <sp who="#domino">
+          <speaker>Domino</speaker>
+          <stage>(spöttisch)</stage>
+          <l part="Y">Was, dàr güete,</l>
+          <l>Dàr brave Fràü thüesch Dü's züemüethe!</l>
+          <l>Das g'fallt mr!... ich müess lache drab!</l>
+          <stage>(er lacht wie nittg'scheidt)</stage>
+          <l>Zeig, zieh Di Larve doch jetz ab...</l>
+          <l>De wirsch jo gläub jetz wiss wie Kride...</l>
+          <l>'s G'sicht mächt ich sàh, wo D'jetz thüesch schnide.</l>
+          <l>Das wàr fir mich e wahrer G'nuss!</l>
+          <l>Doch still!... hör ich nitt rede duss!</l>
+          <l>Herrje, die Stimm!... 's thüet mir grad schine...</l>
+          <l>Ganz g'wiss, mi Mann will jetz do ine!</l>
+          <l>Jetz stand i schön! was mache g'schwind?</l>
+          <l>Un er, wo g'sàit hat, bim e Frind,</l>
+          <l>Wo g'storwe-n-isch, gieng er geh wache!...</l>
+          <l>Das sin jetz wieder schöne Sache!</l>
+          <l>Kei Wort... hasch g'hört... red' mich nitt a,</l>
+          <l>Nitt. ass er mich erkenne ka!...</l>
+        </sp>
+        <stage type="characters">D'Gliche, Mehlgeist.</stage>
+        <sp who="#mehlgeist">
+          <speaker>Mehlgeist</speaker>
+          <stage>(knnnt ine)</stage>
+          <l>Verzeihe Se, wenn ich thüe störe,</l>
+          <l>Ich ha nur miesse z'ruck halt kehre,</l>
+          <l>Fir ku ne Nastüech z'hole do,</l>
+          <l>Wo mir vorher hàn lige lo...</l>
+        </sp>
+        <sp who="#pierrot">
+          <speaker>Pierrot</speaker>
+          <stage>(git im Domino si's mit em Herz)</stage>
+          <l>Do isch's...</l>
+        </sp>
+        <sp who="#mehlgeist">
+          <speaker>Mehlgeist</speaker>
+          <stage>(nimmt's un salütiert)</stage>
+          <l part="Y">Ich dank... Sie excüsiere -</l>
+          <stage>(er b'schaüt's g'naüer)</stage>
+          <l>Hein!... was!... thüe-n-ich mich nitt trumpiere!</l>
+          <l>Was soll das heisse!...</l>
+        </sp>
+        <sp who="#pierrot">
+          <speaker>Pierrot</speaker>
+          <l part="Y">Ass mir Zwe</l>
+          <l>Kei b'sundre Larve brüche meh!...</l>
+          <l>Anstatt als so ne Ding az'hànke,</l>
+          <l>Thien mir an d'Fasenacht z'ruck denke!</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

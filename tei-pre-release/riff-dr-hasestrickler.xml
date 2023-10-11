@@ -1,0 +1,1606 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'r Hasestrickler</title>
+        <title type="sub">Lustspiel in aam Uffzueg</title>
+        <author key="wikidata:Q96696621">Jean Riff</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106555590</idno>
+        <idno type="methal" xml:id="mtl-042"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109607t</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106555590">Jean Riff</author>
+            <title type="main">D'r Hasestrickler</title>
+            <title type="sub">Lustspiel in aam Uffzueg</title>
+            <edition>3. Ufflauu</edition>
+            <publisher>Druck und Verlauu vun E. Finck, Alsatia-Verlauu, Strooßburri</publisher>
+            <date when="1922" type="print">1922</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="schakob_schlicher">
+            <persName>Schakob Schlicher</persName>
+          </person>
+          <person sex="F" xml:id="mey-katt">
+            <persName>Mey-Katt</persName>
+          </person>
+          <person sex="M" xml:id="chrischtoph_feldmann">
+            <persName>Chrischtoph Feldmann</persName>
+          </person>
+          <person sex="M" xml:id="michel_schaller">
+            <persName>Michel Schaller</persName>
+          </person>
+          <person sex="M" xml:id="daniel_schwing">
+            <persName>Daniel Schwing</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#schakob_schlicher"><role><persName>Schakob Schlicher</persName></role>, <roleDesc>Gemaanerootsherr</roleDesc>.</castItem>
+        <castItem corresp="#mey-katt"><role><persName>Mey-Katt</persName></role>, <roleDesc>sini Frau</roleDesc>.</castItem>
+        <castItem corresp="#chrischtoph_feldmann"><role><persName>Chrischtoph Feldmann</persName></role>, <roleDesc>Bangert</roleDesc>.</castItem>
+        <castItem corresp="#michel_schaller"><role><persName>Michel Schaller</persName></role>, <roleDesc>Burjermeischter</roleDesc>.</castItem>
+        <castItem corresp="#daniel_schwing"><role><persName>Daniel Schwing</persName></role>, <roleDesc>Bolizejdiener</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> 1. Szene. </head>
+        <stage> Schakob, Mey-Katt.</stage>
+	<stage>(Schakob steht an der Mitteltüre und horcht gespannt  auf ein Geräusch. Mey-Katt, horeht gespannt am  Fenster. — Kurze Pause.)</stage>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>— — — Mey-Katt — — — heersch dü ebs?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Nee — — bis dato noch nit.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Kansch de Paragraph Elf?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Ja; loß dich nit v'rwitsche. — Ha- hahahahaha!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Zem Dejhanker noch emol ning, laach doch nit eso stiermaaßi</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Dü hesch e-n Angscht!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>War het e-n Angscht?!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Hahaha!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Wenn Alles erüskaamt — — — dies gabt m‘r e scheeni Gschieht — — — e häilichee — m‘r kamte uf Anze! — <stage>(schreit)</stage> Alli mitnöönd kamte m‘r uf Anze!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Zem Dejhanker noch emol, briell doch nit eso stiermaaßi.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Aha, war het jetzt Angscht?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Ich uf kene Fall!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Nee, dü nit, aw‘r din schlaacht Gewisse!</p>
+          <pb n= '8' />
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(affektiert)</stage>
+          <p>„Gewisse“! — Pah, ‘s „selaacht Gewisse!“ — Min Gewisse wurd eso pro- per sin wie Dins! V'rstange, däuwi Gäusch?!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Maach din däub Mül jetz emol zü — un dert driewe d’Kiehedhüer! Miteß dann d‘r Läum im göönze Hüs erumziche?!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Loß‘s doch läume!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Bis drüsse-n-uf d‘r Strooß riecht m'r ‘s, was in d'r Pfann broodelt. <stage>(schmettert die Tür rechts zu)</stage>. Däuwer Käib!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(erbost)</stage>
+          <p>Kannsch ken größerer La- wesdäuj meh mache, Gäuekelhirn, iewerzwarchs?!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 2. Szene. </head>
+        <stage> Sehakob, Mey-Katt, Christoph  Feldmann. (Christoph kommt durch die Mitte mit brennender  Stalilaterne und einem Sack über der Schulter.)</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Christoph :</speaker>
+          <stage>(übermäßig laut)</stage>
+          <p>Exküseh!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Herrjesses! Ah, dü bisehs, Chrischtoph!?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Kraizdünderwadder! — Ah, d'r Christoph ischs?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lachend)</stage>
+          <p>Na, kehje numme nit um vor Sehracke! — Was höön'r dann vorewe mit- nöönd ze büschbere g‘het?</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Büschbere? — Bie üns wurd nit ge- büschbert.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lachend)</stage>
+          <p>Nee jo nit! Un d’Pianne warre äu nit khaab zügedeckt, dann de ööndere Waaj daat m'r ‘s nit bis drowe-n-im Owerdorf rieche, daß d‘r Schliehers-Juckel Hoosepfaffer —</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Bscht, witt stille sin!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoff:</speaker>
+          <p>— — — daß d‘r Schlicher-Juckel Hoosepfaffer iewerem Fyr het.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(erbost zu Mey-Katt)</stage>
+          <p>Gall jetzt mit diem däuwe Dhüere-n-uffsperre?!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>D‘r Chrischtoph iewertriebt äu.</p>        
+		  <pb n= '9' />
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Christoph:</speaker>
+          <p>Nee, nee, d‘r Chrischtoph iewertriebt nit, aw‘r ihr zwäi däuwi Käiwe triewe's e weng ze starik! — Wie kann m‘r aw‘r äu uf d'Noocht so ebs iewermaache?! — So ebs isch doch uffali, zem Dej- hanker nochemol! — ‘s kläinscht King i mDorf bab- belt jo devum, daß in‘s Selicher-Juckels meh Hoose- pfaffer .. ..</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Kin elespfaffer!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>.. . meh Hoosepfaffer gaase wurd as wie Schwine-Söijfläisch.</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Teh will emol hurtli nooch‘m Aase lueje. <stage>(Ab in die Küche rechts.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 3. Szene. </head>
+        <stage> Schakob, Chrischtoph.</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Ja, dies häißt's! Un daß die Hoose, wie sich emol in ünsere Bann v‘rirre, alli biem Schlicher-Juckel üssem Pelz schlupfe daate. <stage>(Wirft den Sack auf den Tisch)</stage> Ja, ‘s iseh emol eso.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <stage>(ängstlich)</stage>
+          <p>Ja mäinsch, daß‘s schun sowyt beköönt war . ..?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lachend)</stage>
+          <p>Was sell dann beköönt sin? — Nix isch beköönt, goor nix! — Aw'r vor- sichtiger selle-n-‘r sin, ihr zwäi däuwi Käiwe, vor- sichtiger! — ‘s war‘ mir doch wajer äu nit äinerläi, wann ... na, dü v‘rstehsch mich jo.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Äij jo, äij jo. — Was hesch denn do im Sack?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(blinzelnd)</stage>
+          <p>E Kinjele.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(lachend)</stage>
+          <p>Aha! — <stage>(schaut in den Sack)</stage> — Säu, wo.hesch dann denne . . . wo hesch dann dies... dies Kinjele . .. ,,g‘funge“?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(schaut sich vorsichtig um)</stage>
+          <p>Im Burjermäisehter sim Rabstück!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(stößt überrascht einen pfeifenden Ton  au)</stage>
+          <p>Was säisch dü mir?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Bscht ... stille . . . brüel doch nit eso, däuwer am Eck.</p>
+          <pb n= '10' />
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(gemäBigter)</stage>
+          <p>Un dü träuesch ‘ne eso frej do haare?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Frej? — Ar stackt jo im Sack.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ja un d‘Luzarn, wie in de Hange ge- träueje hesch?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Christoph:</speaker>
+          <p>As wurd sich doch hoffentli kener ingerstehn welle un wurd welle säuje, daß ich d‘r Bangert, Hoose strickle daat?! Dane wott ich kanne wo die Kürasch hatt!!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Jo wajer!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(deutet auf den Sack)</stage>
+          <p>Maach ‘ne ewack, eh‘ daß noch äiner unb‘schröije d‘rzü kummt.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>War sott dann jetzt noch kumme, so spoot in d'r Noocht?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>M‘r kann nie nix säueje. Wäisch, zyter daß dies anonym Sehriewes uf ‘s Güwarlema gange-n-isch, daß in ünserem Bann in äiner Wuch meh Hoose gstrickelt daate ware, aß daß m‘r im Noochbersbann bie d'r Triebjagd zammeschieße könnt, zyterhaare mueß m'r sich uf alles gfaßt maache.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>War numme dies mueß sin gewann, wie dane Wisch gezuddelt het?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Dar wurd schun noch ze finge sin! — Aw‘r dar het no nix ze Jaache! — Prozeßwarbal kriejt‘r gemaacht vun mir, waje ‘me jede Drackel druf un driewer, eene um de ööndere.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Jaja, no numme harzhaft druf ge- bangelt fer deß daß‘r oonstandigi Lyt v'rdaachtige will!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Numme ken Angscht! — Ich hab nit umesunscht dene Knopf an dr Kapp! <stage>(Weist auf die Kokarde.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 4. Szene. </head>
+        <stage> Schakob, Chrischtoph, Mey-Katt.</stage>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(aus der Küche kommend)</stage>
+          <p>M'r köönte aase, Schakob.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Mir isch‘s raacht.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Sackerwalt, kummt do e Gschmak- kel üs d‘r Kiche. — Mhm! — Aaaaah!</p>
+          <pb n= '11' />        
+		</sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Hesch denn schun wied die Dhür offe stehn loon? <stage>(schmettert sie zu.)</stage></p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Ihr könne äu mitaase, Chrischtoph.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Hoffetli! — Hoffetli! — Hahaha!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Mey-Katt, träuej denne . . . träuej dies „Kinjele“ hinge nüs in de V‘rschläuej.</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(lachend)</stage>
+          <p>Aha — e „Kinjele“, <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(erschrocken)</stage>
+          <p>Nüs mit!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <p>E Starnsapperment noch emol! <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Räj dich! <stage>(Mey-Katt eilt hastig mit dem Sack rechts ab. Es klopft)</stage></p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Numme gemaach! — Numme ge- maach!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 5. Szene. </head>
+        <stage> Schakob, Chrischtoph.</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Löj doch emol nooch war do isch.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Äij jo dann, äi jo dann. — Numme staat. <stage>(öffnet die Mitteltür)</stage> Na, war kummt dann noch so spoot? — Als ering war ering will!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 6. Szene. </head>
+        <stage> Schakob, Chrischtoph, Daniel Schwing. </stage>
+	<stage>(Daniel tritt breitspurig und mit finsterer Miene durch  die Mitte ein.)</stage>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Güete-n-Gwe.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Löij d'r Daniels! — So spoot noch? — Na die Fräid, die Fräid! — Do will ich doch hurti d'r Mey-Katt rüefe. — Namme doeh Platz, ihre Harre, setze-n-Uch. <stage>(eilt hastig rechts ab.)</stage></p>
+          <pb n= '12' />        
+		</sp>
+      </div>
+      <div type="scene">
+        <head> 7. Szene. </head>
+        <stage> Chrischtoph, Daniel.</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Was machseh dann d ü noch do?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(blinzelt mit den Augen)</stage>
+          <p>Was maachseh dü do? Chris htoph: Bscht . . . stille . . . dienstlich.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Diensehtlich? — Ich äu.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Waje.... ?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(betonend)</stage>
+          <p>Hoose - strickle - rej.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Aha! Daniels: Un dü.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(leichthin)</stage>
+          <p>Hoosestricklerej.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Aha! — Was isch, mäinsch dü, daß d‘r Schlichers-Juckel . . .</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Hoose strickle daat?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Ja?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Aw'r jo nit! — M'r bhäupt‘s zwar i mDorf, m‘r bhäupt's, ja.. . aw‘r gsahne hett‘ne noch niemeds d‘rbie. — Ich bin schun ze alle Zytte, bie Däuej un bie Noocht haare gange, hab alli Eck un Winkel üsspioniert, hab aw'r noch nie ebs finge könne, noch nie! — Uff Ehrewort: noch nie! — Un wäisch, ich hab doch warli e poor güeti Äueje im Kopf.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Un ich e gueti Noos im Gsicht. — Hesch dann imstöönd jo danne Hoosepfaffer noch nit g‘schmeckt dert drinne? <stage>(weist mit dem Daumen nach der Küche.)</stage> Chrischtoph <stage>(heuchelnd)</stage> : Hoosepfaf fer? Daniel <stage>(mißtrauisch)</stage> : allons, allons, allons, riech doch emol!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(riechend)</stage>
+          <p>Dies isch Hoosepfaffer?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(triumphierend)</stage>
+          <p>Aw‘r göönz sicher isch dies Hoosepfaffer.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Do sott am And doch... ?! ‘s isch aw‘r schier nit ze gläuwe.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Nadierli, so e respaktier- licher Mann, wie d‘r Juckel äiner isch, salbschtv‘r- ee, 7 ur <pb n= '13' /> standli, e so e Mann genießt Respakt un Onsahn, un so äim isch bees biezekume mäinsch dü gall?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Zall will ich jo juscht nit bhäupte, b‘hüet selle m‘r sin, aw‘r ich mäin numme: ‘s isch ewe nit ze gläuwe, daß so e Mann so e niedder- traachdigi Hoosestricklerej betriewe daat. <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Het‘s nit geklopft?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Doch — — ich mäin. — Na — entrez!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 8. Szene. </head>
+        <stage> Chrischtoph, Daniel, Michel,  Schaller.</stage>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(dureh die Mitte)</stage>
+          <p>Güete-n-n-Owe bie- nöönd!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph und Daniel :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Güete-n- Owe Herr Maire!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Was maache dann ihr Zwäi do?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Dienschtlich!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <p>M'r sin uf d‘r Suech!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Was sueche-n-'r dann?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph und Daniel:</speaker>
+          <stage>(salutierend)</stage>
+          <p>De Hoo- sestrickler.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Sackerwald! — Do hinne?! Höön'r soupçon?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>M‘r maacht sini Pflicht. <stage>(salutiert)</stage></p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Soupçon hôôn m'r sehun lang, Herr Maire, numme noch ken Bewies! — Aw'r, v'rloon Uch druf, Harr Maire, hiet noch wurd‘r iewer- füehrt. <stage>(salutiert.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schaut vorsichtig um sich)</stage>
+          <p>Do hatte m‘r also andli emol danne v‘rdammte Hoosestrickler.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Nee, Harr Maire, m'r höön ‘ne noch nit.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(blöde)</stage>
+          <p>Nit?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph und Daniel:</speaker>
+          <stage>(salutierend)</stage>
+          <p>Nee, Harr Burjermäischter.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Ah jaso. — Hm. — Ja do. — Hm. Un jetzt?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutierend)</stage>
+          <p>M‘r mueß halt d‘Auje offe b‘halte.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Ja, dies mueß m'r.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutierend)</stage>
+          <p>D‘r Juckel isch awer sin ar isch bees ze fasse.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(übermäßig laut)</stage>
+          <p>Jaja, alles, was raacht isch! Dies isch wohr, Harr Maire: ar isch bees ze fasse!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(höhnisch)</stage>
+          <p>Ar isch bees ze fasse? — Ar isch bees ze fasse? — Wann ‘ne d'r Bangert nit fasse kann, wann ‘ne d‘r Bolizejdiener nit fasse kann, d'no faBt ‘ne . . . <stage>(wirft sich in Position)</stage> . . d'r Burjermäischter.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Wann‘s numme ‘s Gott‘swille war, Harr Maire.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Dies loßt sich heere, Harr Maire.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(geschmeichelt)</stage>
+          <p>Jaaa, öjerem Burjermäischter maacht noch kener e Ü fer e X vor, noch kener. — Wann m‘r äu grood ken höecheri Schuele bsucht höön, wann ‘s äu üswarts häißt, daß ünseri Gemäin de däubschte Burjermäischter üssem ganze Landel hatt, wann ich bis jetzt äu noch nit bie ‘ne ‘re Stierprämiierung e Pries gholt hab . .. Chrischtoph und Daniel <stage>(salutieren.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>... ze kann doch uf wyt un bräit äu nit äiner vun mine iewergschejde Kollege dane Kuntrakt ufwyse, wie ich, öijer Burjermäischter, uffwyse kann. Chrischtoph und Daniels <stage>(salutieren.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Mir kann noch kener wachsle, vun alle dane Simpel, un wann se v'rknelle vor Wuet un vor Mißv’rgunscht, un wannse d’Zahn zam- mebisse, daß m‘r mäint as ware irjeds Kisselstäin v‘rmahle! . .. As sell emol äiner ufftraate, aw‘r äu numme äiner, wie die Schrift uffwyse kann, wie ich, öijer Burjermäischter, uffwyst, e Schrift, wie schwarz ulf wyß, begläuwigt un gstampelt, im gröschte Simpel kloor un dytli ze v‘rstehn gitt, daß er ee ze er in chter, miner Kopf, d‘r Kopf vun öijerem Burjerm kummt nooch mim Doot ze Stüdjezwacke an d’Universität un vun dort üs in d‘Anatomie in de Spiritüs!.</p>
+          <pb n= '15' />
+		</sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph und Daniel:</speaker>
+          <stage>(salutiren)</stage>
+          <p>à la bon- heur! ! !</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Aha? — Nit daß ihr trumbiere an mir! — As selle emol alli Burjemä ischter üssem göönze Landel zassestehn, in äin Räih, äiner satt nawe de-n-ööndere, un d‘rnoo sell emol da r d‘Hönd in d‘Höeh lipfe, wie mit Stolz säueje kann: miner Schaddel kummt in de Spiritüs!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph und Daniel:</speaker>
+          <stage>(salutieren)</stage>
+          <p>Alle Re- spakt, Herr Burjrmäischter!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(gerührt)</stage>
+          <p>Ja, ich wäiß ihr respaktiere mich, mini göönz Gemäin respaktiert mich, — na, un was öönderi Simpel drüsse erum vun mir babble, dies maacht mir nit kalt un nit warm! — Hünd wie balle welle, loßt m'r balle! — So lang wie se balle, könne se nit bisse! — Gann m‘r d‘’Hand, ihr Manner. <stage>(geschieht)</stage> — So isch‘s raacht! Mir sin äinig un’mir v‘rstehn ainer de-n-ööndre .. un vun üns kannt äiner de-n-ööndere!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Jaja, Herr Maire, mir sin äinig, un mir v‘rstehn enöönd, nit wohr? — <stage>(schüttelt ihm kräftig die Hand.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Zall will ich mäine — Zall will ich mäine!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Un wir kann e enöönd, nit wohr, Harr Maire? <stage>(schüttelt ihm kräftig die Hand)</stage>.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(freudestrahlend)</stage>
+          <p>Zall will ich mäine, — zall will ich mäine! — Numme allewiel de Kopf hoch, solang aß'r noch nit im Spiritüs isch! <stage>(Gepolter hinter der Szene.)</stage> Alle lauschen gespannt nach der Türe rechts. <stage>(Kurze Pause.)</stage> Do isch ebs umkehjt! <stage>(blinzelt mit den Augen)</stage>: As hetsich ebs erzäijt, Harr Maire!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>s‘ kummt m‘r bööl v‘rdaachti vor, im hôchschte Grood v‘rdaachti! — Säe emol, Chrischtoph, wo stackt dann äu d‘r Schakob, daß m‘r ‘ne mit kem Aüj ze sahne kriejt?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Ar wurd drüsse in d‘r Kiche sin, Herr Maire.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>In d'r Kiche?! — Harr Bolizejdiener Daniel Schwing, im Name vun d'r Owrigkäit maache m'r jini Dhüer ulf!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutierend)</stage>
+          <p>Zü Befahl, Harr Burjermäischter! <stage>(reißt die Küchentüre auf.)</stage> Im Name vun d‘r Owrigkäit! <stage>(Alle drei schauen gespannt in die Küche.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <stage>(in langem Atemzuge den Duft durch die  Nase ziehend)</stage>
+          <p>Aaaaaah! — Aha! — Hoosepfaffer!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(triumphierend)</stage>
+          <p>Was hawich nit gsäit, Harr Maire? <stage>(salutiert rasch.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schaut in die Küche)</stage>
+          <p>Ja, zem Dejhanker nochemol ning, wo stackt dann äu d'r Juckel?! Do isch jo gar ken Mensch d‘häime?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(ergreift rasch die Latefne)</stage>
+          <p>Ich will doch emol hurtli lueje, Harr Maire, ich kann e jeds Eck un e jede Winkel in dem Hüs. <stage>(salutiert und eilt rasch rechts ab.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 9. Szene. </head>
+        <stage> Daniel, Michel. </stage>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(stößt den Bürgermeister mit dem Ellenbogen an)</stage>
+          <p>Hesch ebs gemerkt, Michel?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Bseht, nit so lüt, un im e fremde Hüs e weng respatierli, wann‘s beliebt!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(grinsend)</stage>
+          <p>‘s isch jo Niemeds um de Waj.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Un wann äu! D‘Wand höön Ohre, säit m‘r als! — <stage>(horeht vorsichtig an der Küchentüre)</stage> — Un vorem Chrischtoph muehn mir üns e weng besser in Ooeht nahme, dar isch mit alle Däifel ge- ritte.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Jaja, ar isch beköönt for dies, un daß‘r mit‘em Schlichers-Juckel inger äinere Deck stackt, dies wisse m‘r äu Harr Burjermäischter! Un wo d‘r Hoosestrickler ze Sueche isch, dies wisse mir Zwäi besser wie d’Kräisdiraktion, Harr Burjermäischter! <stage>(salutiert grinsend.)</stage></p>
+          <pb n= '17' />        
+		</sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Brüell doch nit eso un babbel nit eso däub, hiernv‘rruckts Gäuckelhirn, iwwerzwarichs!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(hämisch)</stage>
+          <p>Vun was sell m‘r dann babble, wann‘s göönz Hüs nooch Hoosepfaffer riecht?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(verweisend)</stage>
+          <p>Daniel, ich môecht nit höön, daß ... sappermant ning, ich mäin dü wursch mich v‘rstehn!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(grinsend)</stage>
+          <p>Salbschtverstandli, salbscht- verstandli! — Numme ken Angscht, Michel!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(wütend)</stage>
+          <p>Schun wied‘r?! — „Harr Bur- jermäischter“, wann‘s beliebt, allewiel noch „Harr Burjermäischter“!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutiert höhnisch)</stage>
+          <p>Vun nün an bis in alli Ewigkeit: Harrrr Burjermäischter! <stage>(Geräusch hinter der Szene.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>E Starnesappermant nochemol ning, loß m‘r die Däubhäite ewaek! — Höersch‘s nit, daß Jemeds kummt?! — Stell dich e weng respaktierli, od‘r ich müeß dich bie d‘r nachschde beschde Gelajehäid üs dim Amt als Bolizejdiener nüsschmisse!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Ho zall, Michel! — Ho zall! Mül g'halte jetzt, säe ich d‘r! — V‘rstehsch dû</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(stampft zornig mit dem Fuß auf)</stage>
+          <p>‘s mich?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutiert höhnisch)</stage>
+          <p>Ja, Michel, aw'r wann ich babble wott, no könnt‘ ich redde, Harrrrr Burjermäischter!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Haltsch jetzt ‘s Mül?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(gelassen)</stage>
+          <p>Numme respaktierli, Harr Burjermäischter, allewiel e weng respaktierli! — Wäisch, Michel, wann m‘r im e Glashüs huckt, no sell m‘r nit mit Briechhewwel uf öönderi schmisse welle! — V'rstehseh dü mich jetzt, Harrr Burjermäischter ?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(knirsehend)</stage>
+          <p>Elanger Hallunk!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(salutiert grinsend)</stage>
+          <p>Harrrrr Burjermäischter!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 10. Szene. </head>
+        <stage> Michel, Daniel, Chrischtoph.</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(durch die Mitte)</stage>
+          <p>Alli Eck hawich üsgsuecht, hab aw‘r niemeds gfunge, mit Respakt ze malde, Harr Burjermäischter <stage>(salutiert.)</stage></p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Hm . .. hesch aw‘r äu iewerall guet nochgelöijt?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Jewerall. — Wie ich in d‘r Kiche niemeds gfunge hab, no bin ich hingenüs durch‘s Schlipfel inger de Rieswalleschopf, d‘rnoo hawich in d'r Schieredann gelôijt, im Spröijerviertel, im Fuederstall, im Keeler, enfin, vum Fundement bis inger d’Hohlziejle hawich Alles üsgsuecht un üs- gezunge mit d'r Luzern, aw'r e Juckel od‘r e Mey- Katt isch nirjeds ze finge gewahn.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Hm — so ebs isch doch v‘rdaachti, nit wohr? — Dies müesch dü doch salwer säueje, Chrischtoph, so ebs isch doch v‘rdaachti?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(etwas verwirrt)</stage>
+          <p>Ich... ich wäiß halt nit . . . ich wäiß wahrhafti nit, was ich do ze Allem säueje sell.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Sin nirjends ken Hoose-strickle erumgelaje?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Hoosestrickle?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(wie oben)</stage>
+          <p>Äij jo, wäisch jo, vun dane Drohtschlingle?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(gelassen)</stage>
+          <p>Ich wüeßt nit, ich hab nix eso gsahne. — Ich kann halt die Dinger nit. — Ich wüeßt warzi nit emol wie se üssahne.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(gehässig)</stage>
+          <p>Nit, daß d'r Schlicher-Juk- kel eso däub isch, un loßt sini Schlinge grood so offe un frej erum fohre ... da, do höön'r se, griffe zü, loons üsschalle im Dörfel: m‘r höön de Hoose- strickler! Ar isch iewerfüehrt, d‘r Schlicher-Juckel — Vor‘s Güwarlema mit‘m, e Prozeß oonghankt, e Johr Anse ... nee, nee, so däub isch d‘r Schlicher- Juckel doch nit! — War de Juckel for däub v'r- käufe will, dar sell sich numme guet in Oocht nahme daß ar nit salwer vum Juckel v‘rkäuft wurd, hün- ― 19― dertmol fer äinmol! — Soviel säe ich, d‘r Schwinge- Daniel, Bolizejdiener vun hie, un was ich säe, dies het e Gewicht! — D‘r Schliecher-Tuckel isch zwar miener Fynd, min Dootsfynd sozesäueje, aw‘r göönz egal- was Raacht isch mueß Raacht bliewe!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Ja, wann d‘Aktie e so stehn . .. Harr Burjermäischter, d‘rnoo könnte m‘r jo alli drej mitnööd e Hüssuechung vornahme, noch mi- nere Mäinung.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>E Hüssuchung . . . hm... die Mäinung isch juschtemand nit iewel.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(gehässig)</stage>
+          <p>Nee, sie iseh nit iewel, numme e weng ze Spoot.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(wütend)</stage>
+          <p>Worum ze spoot?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(spöttisch lächelnd)</stage>
+          <p>Hm ...ich mäin numme.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Ja was mäinsch? Erüs mit d‘r Sproch!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Wo stackt d'r Juekel? — Wo stackt d‘Mej-Katt?! — Hinne?! — Läuft m‘r dann äu eso bie d‘r Noocht vun d'häime furt loßt Dhüer un Dhor offe stehn bis hinge oon, un d‘rzü goor noch, wann eso e gutes Frico uff em Fyr steht?! — Mhm ... Hoosepfaffer?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Ja, dies isch v‘rdaachti . . im höchschte Grood v'rdaachti.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(ablenkend)</stage>
+          <p>Harr Burjermäisch- ter, wie sieht dann e Hooseschling ungfahr üs?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Hesch noch keni gsahne?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <stage>(beteuernd)</stage>
+          <p>Uf Ehr un Wahrhaf- tigkäit, miner Lawe noch nit, Harr Burjermäischter!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Nit?! — Na, ze kumm emol dohaare. <stage>(zeiehnet mit der Kreide eine Sehlinge an die dem Publikum gut sichtbare Schranktüre, dabei Chrischtoph scharf fixierend)</stage> Löijemol, siesch: zerscht emol eso, d‘rno eso ‘rum — un d‘rno e Ringele, un d’noo do durch un do haare — eso ... un wann d‘rnoo d‘r Hoos drinne stackt — tschupp — drnoo stackt‘r.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(belustigt auflachend)</stage>
+          <p>Aha, jetzt Bschäid!</p>
+          <pb n= '20' />
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Worum? — Was hesch dann welle wisse do waje de Hooseschlinge?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Aij, jetz könnte m‘r Hüssuechung maache.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(gehässig)</stage>
+          <p>Aij jo, zall gläuwich, jetz ware die öndere Zwäij ‘s Hüs üsgerüümt höön. Sie höön jo jetzt lang genuej Zyt ghet d’rzü.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Chrischtoph, wo kumme dann die Hoose- hoor haare do uf dim Blüs?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(momentan etwas bestürzt)</stage>
+          <p>Hoose- hoor? — Uf mim Blüs?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(triumphierend)</stage>
+          <p>Ja warzi, Hoosehoor! — Varitawli Hoosehoor! — D‘r göönz Buckel hankt jo voll!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(wütend)</stage>
+          <p>Ho zall!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Ho zall!? Zaje, Harr Burjermäischter, löije noch emol genäu nooch.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(untersuehend)</stage>
+          <p>Chrischtoph, as sin Hoosehoor, so wohr aß miner Kopf nooch mim Doodt in d‘Anatomie in de Spiritüs kummt. — Dies loßt sich nit läigne, un do loßt sich nix devun ewack dischbediere! Un dü kannsch dieh jetz drahje un wande wie de wit, diemol kann d'r ken Dokter halfe.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Ja zem Dejhanker noch emol ning, wie sotte dann Hoosehoor an min Blüs kumme, meecht ich wisse?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Ja, dies meecht ich äu gaare wisse!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Hesch viellieht e Noocht im e Hoosestall gschloofe?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(schreit)</stage>
+          <p>Däuwer Käib!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(verweisend)</stage>
+          <p>Chrischtoph, beläidig m‘r d‘Owrigkäit nit!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(erbost)</stage>
+          <p>Dies hawich äu grood säueje welle, Harr Burjermäischter!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Un daß d‘s wäisch, dies mit de Hoose- hoor isch v‘rdaachti, im höechschte Grood v‘r- daachti!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Hahahahaha! — Jetzt mueß ich laache! Exküseh, Herr Burjermäischter, ich mueß lache. Hahahahaha!</p>
+          <pb n= '21' />
+		</sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schroff)</stage>
+          <p>Chrischtoph, sell ich d‘r waje Widderstöönd geje d‘Staatsgewalt e Proßeeswarbal maache loon?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(immer noch lachend)</stage>
+          <p>Waje was? — Die Müehj könne-n-ihr uch spaare! — Wisse- n‘r äu, was dies fer Hoosehoor sin?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(hämisch)</stage>
+          <p>Ja, hesch d'r jetzt inger dare Zyt iew‘r Lüeje nochgedankt?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(ernsthaft)</stage>
+          <p>Lüeje?! — Pardon, Harr Burjermäischter, was ich säe isch ken Lüeje! — Parole d’honneur! Uff Ehr un Wahrhaftigkäit! — Un was an mim Blüs hankt, dies sin ken Hoose- hoor....</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Aw‘r doch äu ken Gäisehoor?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(lachend)</stage>
+          <p>Nee, aw‘r Kinjeleshoor!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(spitz)</stage>
+          <p>Ah zallewaj! — Ich hab gemäint as warde Pfoofaddere?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(nachäffend)</stage>
+          <p>„Pfoofaddere?* — Nee as sin ken „Pfoofaddere“, Harr . . pardon, Harr Burjermäischter, derf m‘r im e Polizejdiener Kameel säuje?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Ingersteh dich nit!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Nit? Aw‘r wann ich jetzt im Zoo-logische Goorte war, od‘r in ere Menascherie, un ich daat vor eme Kameel stehn, derft ich dem Kameel no e „Salü“ mache un derft‘m „Harr Bolizejdiener“ säuje?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Dies könnt d‘r niemeds v‘rwehre?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Nit? — Na also: uff Ehr un Wahr: haftigkäit, as sin ken „Pfoofaddere“ ... <stage>(salutiert)</stage> Harr Bolizejdiener!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Chrischtoph, dü hesch e beeses Mül hyt.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Un Öönderi selle-n-ihr‘s üs- schwanke. — War e Pris will, kann schnupfe! Mäine dann ihr, daß ich dSchuehj an mir oobutze loß?!</p>
+          <pb n= '22' />
+		</sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <stage>(verweisend)</stage>
+          <p>Respaktierli gebliewe, Chrischtoph, respaktierli gebliewe!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(wütend)</stage>
+          <p>Ich pfiff uch uff öijeri Respaktierliechkäit! — V‘rstehn ihr mich?! Was bilde dann ihr uch ing, hinne?! De gröeschte Hal- lunkt üssem Dorf het m‘r zem Bolizediener ge- maacht . .. d’kläinschte King mache jo‘s Kryz vor dir- dü Arzhallunk!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(wutschnaubend)</stage>
+          <p>Harr Burjermäischter!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(nachäffend)</stage>
+          <p>„Harr Burjermäischter“?! Was isch dann los mit‘m ,,Harr Burjermäischter“?! Mäinsch daß dar d‘r halfe kann?! Wann ich dam de Sundiname säu, ze schlupft‘r inger de Disch!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Jetzt isch aw‘r Häi genuej hitte! — Harr Bolizejdiener Daniel Schwing, im Name vun d'r Owrigkäit, im Name des Gsetzes ... <stage>(weist auf Chrischtoph.)</stage></p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Ze Befahl, Harr Burjermäischter! Feld- hüter un Banwart Chrischtoph Feldmann: im Name vun d‘r Owriekäit, im Name des Gsetzes ...</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph :</speaker>
+          <stage>(stößt ihn zurück)</stage>
+          <p>Was isch los?! — Basse numme-n-uff, ihr Zwäi: äin Wort vun mir, un zehn Johr Anze sin uch sicher!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 11. Szene. </head>
+        <stage> Michel, Chrischtoph, Daniel,  Mey-Katt.</stage>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(durch die Mitteltür)</stage>
+          <p>Löij do! — M'r höön gläuwi Visit? — Guete-n-Owe äu! — Un d'r Harr Burjermäischter kummt äu noch so spoot in d‘r Noocht?! — Isch ebs üssergewüehnliches das- siert? — Sell imstöönd e üsserordentlichi Gemäine- rootssitzung ooghalte ware hint noch?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(erregt)</stage>
+          <p>Ja, m‘r welle noch e „Sitzung“ oohalte hyt! — E daffeti! — Wo isch dann d'r Juckel, daß m‘r ‘ne mit kem Äu zu sahne krejt?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Driewe biem Noochber, biem We- werlanzebüür. — Ich kum äu grod vun driewe. — ‘s isch e Küh am kälwere. — Löij do, d'r Chrischtoph iseh jo äu do?!</p>
+          <pb n= '23' />
+		</sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>D‘r Chrischtoph? — Un do wündersch dü dich eso? — Hesch ‘ne dann hint noch 'nit gsahne ghet?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Noch mit kem Äu.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Hesch hint noch nit mit ‘m geredt?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(ruhig)</stage>
+          <p>Noch ken Starweswörtele! — Sicher nit! — Ja was het dann dies Alles ze be- dytte, ihr liewi Lyt?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(legt Mey-Katt die Hand auf die Schulter)</stage>
+          <p>Mey-Katt, geh mit, d'r Wohrhäit um, un g'steh's offe un ehrli: Dü, diner Mann un d‘r Chrischtoph, ihr drej äin Komplott!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(zuckt zusammen)</stage>
+          <p>Komplott?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Michel, nimm dich zamme!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Dies sell häiße: Mey-Katt, sieh dich vor! Jaa, die Sprooch v‘rstehn m‘r! — Worum bisch dann ewe eso zammegfahre, Mey-Katt?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(erregt)</stage>
+          <p>Zammegfahre?!. — Ja sell m‘r dann do nit zammefahre, wann m‘r an nix Bee- ses dankt un krejt no so ebs ze höere?! — Komplott! — Haha! — Mir e Komplott! — Ja was dann fer e Komplott wann m‘r fröje derf?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Gieb'm doch ken Ööntwort, Mey- -Katt!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Wit dü din Mül jetzt emol halte, Chrisehtoph?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <stage>(schreit)</stage>
+          <p>‘s fellt m‘r goor nit ing!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(schlägt auf den Tisch)</stage>
+          <p>Ja was dann jetzt mit dem Komplott?! — Harr Bu mäischter, wo will denn dies nüs?! — Do will ich jetzt Ööntwort höön, v‘rstange?! — Un numme nit eso lang bedankt, un mir Red un Ööntwort gee, e Starnsapperamant, noch emol! — Do hinne sin mir dhäime, v‘rstange? <stage>(schlägt sich auf die Brust)</stage> Mir! — Un wann mir e ungschliffeni Visit do ering kummt, un ich will ‘s Hüs süüfer höön, no loß ich de Hünd los, v‘rstange?! — Un wann d'r Bur- jermäischter mit‘m göönze Gemäimeroot do war! — War mir nit baßt, fliejt nüs! — Verstange?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Bisch ferti jetzt?!</p>
+		  <pb n= '24' />
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Vorläufi! Schrieb d's aw'r hinger d‘Obre, Burjermäischter!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Schrieb dü mir vorläuifi emol mit dare Kryd an jini d‘Dhür, wo ihr drej vorewe mitnönd die gstrickelte Hoose anne g‘sehläift höön.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Michel!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p><stage>(Schlägt ihm die Kreide aus der Hand)</stage> Gstrickelti Hoose?! — War het gstrickelte Hoose furtgsehläift, war?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schreit)</stage>
+          <p>Dü, un d‘r Juckel, un öijerer Halfershalfer do, d‘r Bangert!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Dü Arzhallung, dü elanger! — Dü hesch‘s noch notwandi, öönderi Lyt v‘rdaachtige ze welle! — Soll ich dich uf‘s Galee führe?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Mich uf‘s Galee? Harr Bolizejdiener Daniel Schwing: im Name d‘r Owrikäit, im Name des Gsetzes . . . <stage>(weist auf M ey-Katt.)</stage></p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Ze Befahl, Harr Burjermäischter! Ma- ria Katharina Schlicher, geboreni Gluckser, im Name vun d‘r Owrikäit, im Name des Gsetzes! "legt ihr die Hand auf die Schulter.)</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Was isch los! — <stage>(gibt ihm einen kräftigen Stoß, sodaß er rückwärts zu Boden stürzt und die Beine in die Höhe streckt.)</stage> Mir drej Schritt vum Lyb gebliewe, od‘r ich schmiB dich zingerscht- zewerscht zem Hüs nüs! — Dü kamsch m‘r grood gschliche, ja! — Burjermäischter, kannsch de Beläi- digungsparagraph?! — Kannsch de Paragraph iewer Hüßfriddesbruch?! — <stage>(reißt die Mitteltür auf)</stage> — Zem Hüs nüs, säe ich! — Enööndernooch! — Mir' s Hüs süüfer gemoocht, od‘r ich loß de Hünd los!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 12. Szene. </head>
+        <stage> Michel, Daniel, Chrischtopb, Mey-Katt,Schakob.(Schakob stand lauernd hinter der Mitteltüre und tritt  nun ein.)</stage>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(gelassen)</stage>
+          <p>Was isch dann dies fer e Lawesdäuej do hinne? — Ah, löij do, d'r Harr Maire! — So spoot in d‘r Noocht noch? — Un d'r Bolizejdiener? — Un d‘r Bangert? — D‘göönz Ow- rigkäit isch jo bienöönder? — Sitze doch e weng, ihr Harre! -— Als Platz genumme! —- Mey-Katt, hol doch hurtli e Kriejel Wyn eruf.</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(giftig)</stage>
+          <p>Worum nit goor?! — Sell ich nit noch e Stickel Geräuicherts üssem. Kamin d’zü läije?!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ja was geht dann äijetli vor do hinne, um ‘s Himmelswille?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Schakob, mit kurze Worte franschema erüs gsäit: as isch e-n-anonyms Schrywes an ‘s Güwarlema gange ... ..</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(gelass en)</stage>
+          <p>... waje d‘r Hoosestrick- lerej. Ich wäiß's. — In d'r letschte Gemäineroots- sitzung isch jo die Vorläuej vum Harr Kräisdirakter vorgelaase wörre vum Greffier. — Ja un jetzt?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(betonend)</stage>
+          <p>Un jetzt sueche mir d‘r Hoo- sestrickler.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ah zallewaj?! <stage>(pfiffartiger Laut)</stage> — Un do sell ich imstöönd e weng halfe mitsüeche?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(lauernd)</stage>
+          <p>Jusehtémand!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Die göönz Suecherej könnt m'r sich aw'r spaare.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ja?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Äij jo, . . . ich mäin dü könntsch äim am beschte Üskunft geen, wo d‘r Hoosestrickler ze sueche isch.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Worum jetzt grood ich? — Wo will dann dies nüs?! — Sell ‘s im Stöönd uf mich ge- münzt sin?!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Kehj ‘ne doch nüs, Juckel! — D‘Staafel ‘noo mitm, daß'r Halsch un Bäin bricht! Dar isch dr Radelsfüehrer, Juckel! — Dar isch‘s, wie im Burjermäischter in d‘Ohre ghüchelt het, daß mir Zwäi un d‘r Bangert äin Komplott warde! — Dar isch‘s, wie's im Burjermäischter biegebroocht het, daß mir drej hint Owe gstrickelti Hoose furt- gschläift hatte.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ah do will‘s nüs?! — Wit m‘r noch emol e Prozaß ans Bäin hanke? — Elanger, hutt- laachter, mißrawliger Däudieb! — Urkundefalscher kinnitzer!</p>
+          <pb n= '26' />
+		</sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Bolizejdiener Daniel Schwing: im Name vun d‘r Owrigkäit, im Name des Gsetzes . .. <stage>(weist auf Schakob.)</stage></p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Ze Befahl, Harr Burjermäischter! — Gemäinerootsharr Schakob Schlicher: im Name vun d'r Owrigkäit, im Name des Gsetzes .. . . Schakob<stage>( faßt ihn am Kragen und schüttelt ihn kräftig.)</stage> Ingersteh dich numme nit, elanger Schma- rotzlöffel, Urkundefalscher, Prozeßkramer, Hoose- striekler ?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>War isch e Hoosestrickler?!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(wütend)</stage>
+          <p>Wann ich d‘r äini vun owe- raa uf de Bleß bammer, no meriksch's!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Schakob, schläuej‘m doch e Briech- hewwel ins Kryz, daß'r Hang un Füeß vun sich streckt, dar Lumpehünd dar elang!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Schindmarre!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Juckel, loß de Hünd los! Michel <stage>(schlägt mit beiden Fäusten auf den Tisch, springt dann auf einen Stuhl und reckt dro- hend die geballten Fäuste hoch)</stage> — Dod‘rgeje pro- teschtier ieh aw‘r! — Dies isch Widderstöönd geje d'Stootsgewalt!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ja was welle-n'r dann vun mir?</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Schakob, dü bisch iewerfüehrt als dar Hoosestrickler, wie schun johrelang ünsere göönze Bann unsicher maacht. — Dü bisch iewerfüchrt!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Was bin ich?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Was sin mir?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Was sin sie?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <stage>(weist gebieterisch nach der Küche)</stage>
+          <p>Mir danne Hoosepfaffer do ering geträueje! — Do haare mitm uf de Disch! — Im Name vun dr Owrigkäit, im Name des Gesetzes</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>An de Schaddel will ich d'r ne schmisse, no het's s!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Ich gieb mini Demission!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Was fer e Mission! — Dü bisch jo schun oogsetzt!</p>
+		   <pb n= '27' />
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Do wäiß ich nix devun! — Dü setsch mich nit oo, dü nit, mit dim Spiritüsschaddel!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schlägt wütend auf den Tisch)</stage>
+          <p>Danne Hoos epfaffer do ering!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(schreit)</stage>
+          <p>As isch ken Hoosepfaffer! — As isch Kinjelespfaffer!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(giftig)</stage>
+          <p>Im Stöönd goor vum e prä- miierte?</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ja, prämiierter Kinjelespfaffer mit ere gfälschte Ürkundesauce! — Schmecksch dene</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schreit)</stage>
+          <p>In minere Äijeschaft als Bur- jermäischter säe ich‘s zem letsehtemol: danne Hoo- sepfaffer do er ing geträuje! Do haare mit, un e bissel lest wann‘s beliebt!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(gelassen)</stage>
+          <p>Mey-Katt, hol ‘ne,</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Na wart numme, Burjermäischter, na wart numme! — ‘s letscht Wort isch noch nit gebabbelt! <stage>(eilt hastig rechts ab.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 15. Szene. </head>
+        <stage> Schakob, Michel, Chrischtoph,  Daniel.</stage>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Burjermäischter, diesmol hesch d‘r e Sauce inggebrockt! — Diesmol kehjseh ning mit dine Kanntnisse! — Loß d'r ‘s gsäit sin!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Ich hab dich jo noeh goor nix gfroijt!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Ich säe d‘r ‘s aw'r doch!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Dü hesch din Mül ze halte!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Nee ich halt‘s nit! — Vor dir uf kene Fall, dü latzgedrajter Patant-Hoosestrickler!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(wutsehnaubend)</stage>
+          <p>Was säisch dü do?!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Hesch mich nit v‘rstange?! Od'r möechtsch's gaare noch emol höere?!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Numme zefridde, Burjermäischter, m‘r ware schun noch ferti mit dam Gsindel!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Jaja, numme oogewart, m‘r ware sehun noch e Wort mitnöönd redde!</p>
+		  <pb n= '28' />
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 14. Szene. </head>
+        <stage> Schakob, Michel, Chrisehtoph,  Daniel, Mey-Katt.(Mey-Katt kommt von rechts mit einer großen dam-  pfenden Schüssel hereingestürmt und stellt dieselbe polternd auf den Tisch.)</stage>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Do, ihr Hafegücker, hanke öijeri Nase ning!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(nimmt den Deekel von der Schüssel herab)</stage>
+          <p>Mhm . . . aha . . . do lejt d'r Hoos im Pfaffer! — Un dies soll ken Hoosepfaffer sin?!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(gelassen)</stage>
+          <p>‘s isch Kinjelespfaffer.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schreit)</stage>
+          <p>Hoosepfaffer isch‘s!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Nee, e Katzeroller isch‘s, daß ‘r ‘s grood äu wisse, ihr Simpel!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(in der Schüssel herumsuchend)</stage>
+          <p>Wo isch denn äu d'r Kopf?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>In d'r Anatomie im Spiritüs!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <stage>(taumelt zurück, faßt sich jedoch rasch  wieder, deckt die Schüssel zu und legt die Hand auf  den Deckel)</stage>
+          <p>Dar Hoosepfaffer ...</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(schreit)</stage>
+          <p>Kinjelespfaffer!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(schreit)</stage>
+          <p>Katzerollerpfaffer!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Numme zefridde! — Dar Hoosepfaffer isch bschläujnahmt, im Name vun d'r Owrigkäit, im Name des Gsetzes!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Zäije, Burjermäischter, decke dene Hafe noch emol uf!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Nixdo! — Dar Hafe bliet m‘r jetzt zügedeckt, a'wr uch will ich e-n-öönders Hafel uf- decke, daß uch d‘Ohre hyle ware sechs Wuche lang!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Was wit dü?</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Numme staat! -— Also, jetzt wurd emol üsgepackt, un aw‘r krafti! — Nit daß ihr mäine ihr sin gschiedter as wie öönderi Lyt! — Od‘r daß ihr uch iewer eesmools noch ingbilde daate, ihr warde ehrlicher wie öönderi Lyt! — War bragon- niert dann am stärksehte im göönze Dörfel?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(knirschend)</stage>
+          <p>Ja, war?</p>
+          <pb n= '29' />
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(höhnisch auflachend)</stage>
+          <p>War?! — D‘r Burjermäischter un siner Bolizejdiener!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Was säisch dü do?! — Dieh nimm ich vor‘s Gericht! Dir will ich‘s diesmol zäije</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Jaja, zäij m‘r‘s numme! — Fang numme oon ze prozässe, wann Kürasch d‘rzü hesch! — E größeri Fräid kannsch m‘r goor keni maache! — Ich wur‘s de Richter schun vorlaase, ohni Ka- leender in d‘r Höönd, an welle Daaj gstrickelti Hoose und gstriekelti Reh in de Schlinge vum Bur- jermäischter gezawwelt höön, un in welle Naacht gstrickelti Hoose un gstrickelti Reh uffem Buckel vom Bolizejdiener in de Keeler vum Burjermäisch- ter g‘schläift sin worre! — De Datum hawich m‘r jedemol uffgriewe, un d‘Stüeckzahl vun de Hoose un vun de Reh äü! —- Ja, hahahahahaha! — Un de Name vun dem Lumpejud, wie bie Noocht un Naw- wel als d‘Pelz g‘holt het im Schlipfel hingerem Bur- jermäischter sim Küehstall, wisse m‘r äul — Un wann m'r noch meh vun mir wisse will...</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(schreit)</stage>
+          <p>Dies isch Alles v‘rlöije, v'r- stunke un v‘rlöije! — Ehrli un redli bin ich gewahn vun Kingsbäine oon, hab miner Lawe numme Güets gemaacht, hab noch nie nix Schlaachts oongstellt — <stage>(mit erhobener Stimme)</stage> hab noch nie bragonniert un noch nie gstriekelt, bin e Ehremann durch un durch bis uf d‘Knoche, bin vun jehare guet oon- gschriewe gewahn uf d'r Kräisdiraktion, hab mir bis dato noch nix unehrlichs vorzeschmisse, un brüch mir äu nix vorschmisse ze loon! — <stage>(schlägt auf den Tisch )</stage>— Un war mir aw‘r ‘s Gejedhäl bewiese will...</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(triumphierend)</stage>
+          <p>Ja, dies bewiese mir dir, Burjermäischter! — Hündertmol fer äi mol! — Un wann de noch so e große Lawesdäuj maachsch! — Dü wottsch üns als Hoosestrickler deklariere un bisch blööl d‘r gfahrligscht üssem göönze Landel?! — Wart e weng, mit e poor Wörtle kann ich d'r uf d‘Spüür halfe, Burjermäischter! — Am letschte Maandiznoocht sin sechs Hoosepelz üs dim Schlipfel virigschmuggelt worre. — Ich‘s wohr od’r nit? — Worum giebseh dann jetzt ken Öönt- wort?! — Worum brüellt dann d'r Bolizejdiener nimmi d‘rzwische ning?! — Am Samschdi d‘vor sin zwäi Rehpelz un oocht Hoosepelz . ..</p>
+          <pb n= '30' />
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Bscht, stille, stille! — Brüell doch nit eso! — Mey-Katt, sej v'rstandi un brüell nit eso!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt:</speaker>
+          <p>Was isch los?! Vorewe höön ihr zwäi ‘s Hüs vollgebrüellt, jetzt isch‘s brüelle emol an üns! — V'rstange?!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(ängstlich)</stage>
+          <p>Äij jo, äij jo, um's Himmels- wille stille.</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Nix do! — Mey-Katt, brüell daß d' Wand lottle!</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Numme üsgepackt, Mey-Katt! — Wann dü ferti bisch, no fang ich oon!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob:</speaker>
+          <p>Ich hab m‘r äu noch allerläi notiert.</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Harr Burjermäischter!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>hein ?</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel:</speaker>
+          <p>Mir welle häime!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Jo, ‘s wurd ‘s Gschiedscht sin! <stage>(Beide wollen sich zum Gehen wenden.)</stage></p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(versperrt breitspurig die Mitteltüre)</stage>
+          <p>Nix do! — Dogebliewe wurd! — Ueh will ich's schun noch zäije! — Uch will ich schun noch e Nuß. ze kraache geen! — Uch will ch‘s schun noch ze v‘r- stehn geen, wo d‘gfahrligschte Hoosestrickler ze sueche sin, ün was m'r zwische „Ehremanner* v’rsteht!</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Kum, Daniel, was brüche m‘r dann danne ihri Däubhäite uffzehorche! — Dies höön mir juschtemand doch noch nit notwandi!</p>
+        </sp>
+        <sp who="#daniel_schwing">
+          <speaker>Daniel :</speaker>
+          <stage>(erleichtert)</stage>
+          <p>Zall mäin ich doch ewe äu.</p>
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel:</speaker>
+          <p>Platz gemaacht!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(lachend)</stage>
+          <p>Mit d‘r gröeschte Pläsier Harr Burjermäischter! — Fer hyt langt‘s jo jetzt! — <stage>(tritt zurück und öffnet die Türe)</stage> kumme morn Oowe e weng ehnder aß wie hynt! — Wann‘r aw'r noch e weng warte hatte wotte, ze hatte-n-'r grood mitaase könnte. — ‘s war e natter Imbs. <stage>(schnalzt mit der Zunge.)</stage> — Hoosepfaffer! — ‘s räicht fer üns Fünf, un ‘s daat noch e Portion fer de Noocht- waachter iewri bliewe!</p>
+          <pb n= '31' />
+        </sp>
+        <sp who="#michel_schaller">
+          <speaker>Michel :</speaker>
+          <stage>(knirschend)</stage>
+          <p>Schindmarre, vrdammti! — Kum, Daniel! Lümpevolik, elangs, knitzigs! <stage>(Michel und Daniel ab durch die Mitteltüre.)</stage> <stage>(Beide stoßen von außen das Fenster auf und schreien in ohnmächtiger Wut den Dreien Drohungen zu: „Uch ware m‘s schun noch zäije! — Woorte numme, war ze- letscht laacht, laacht am Beschte! usw usw. bis sie mit Besen, Wasserkrug und Knotenstock weggejagt werden)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 15. Szene. </head>
+        <stage> Schakob, Mey-Katt, Chrischtoph.</stage>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(den Fortgehenden höhnisch nachrufend)</stage>
+          <p>Guet Noocht mitnööndt! kumme güet häim! — Gann Oocht, daß‘r nit stulwere! — Träime die Noocht nix beeses! — Loons morn am Spritzehüs oonschläueje daß ‘r Ehremanner sin, ihi zväi, Ehremanner bis uf d' Knoche, un daß morn Owe -d‘Schlicher-Juckels-Mey-Katt e gst ckelter Hoos üssem Burjermäischter sim Rabstück in d‘r Bäitz läijt! <stage>(Man hört den Nachtwächter in der Ferne tuten.)</stage></p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <p>(schließt die Tür: Stille jetzt, Mey-Katt, d’v Noochtwaachter isch um de Waaj!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <p>Mäine-n-r, wie die Zwäij jetzt d‘Schaddel hanke loon?</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>Die loon üns in Rüehj naachsch- tens!</p>
+        </sp>
+        <sp who="#schakob_schlicher">
+          <speaker>Schakob :</speaker>
+          <stage>(lachend)</stage>
+          <p>Hoffetli!</p>
+        </sp>
+        <sp who="#mey-katt">
+          <speaker>Mey-Katt :</speaker>
+          <stage>(lachend)</stage>
+          <p>Ain Komplott isch vor dr Dhüer drüsse.</p>
+        </sp>
+        <sp who="#chrischtoph_feldmann">
+          <speaker>Chrischtoph:</speaker>
+          <p>‘s ööndet Komplott steht noch fescht uf de Hingerfüeß ... Schakob, Chrisc htoph, Mey- Katt <stage>(reichen sich lachend die Hände)</stage>: ...und stricklt witterseh! <stage>(In übermütiger Laune tanzen sie laut lachend einen tollen Reigen)</stage></p>
+          <stage> Vorhang fällt.</stage>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

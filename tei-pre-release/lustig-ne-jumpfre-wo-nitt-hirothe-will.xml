@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ne Jumpfre, wo nitt hirothe will</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-129"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Ne Jumpfre, wo nitt hirothe will
+                        </title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_firig" sex="M">
+            <persName>Herr FIRIG</persName>
+          </person>
+          <person xml:id="herr_schlau" sex="M">
+            <persName>Herr SCHLAÜ</persName>
+          </person>
+          <person xml:id="jumpfer_herz" sex="F">
+            <persName>Jumpfer HERZ</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_firig">
+          <role>
+            <persName>Herr FIRIG</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_schlau">
+          <role>
+            <persName>Herr SCHLAÜ</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#jumpfer_herz">
+          <role>
+            <persName>Jumpfer HERZ</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Jumpfer Herz, derno Herr Firig.
+                </stage>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(sitzt bi dr Lampe-n-un strickt)</stage>
+          <p>Wie heimelig un güet isch's doch eso allei in sim Stiwle
+                        z'Owe, we me si Herr un Meister isch... das heisst, we
+                        me ledig isch... do hat me keine Kinder z'wàsche un
+                        z'b'sorge un ins Bett z'lege, un brücht o uf kei Mann
+                        z'warte un 's Nachtesse in dr Wärme-n-umme z'stelle,
+                        bis ass es ihm g'fallt, heime z'ku, wenn er genüe in
+                        alle Bierhiser umme g'rutscht isch... isch's ebbe nitt
+                        eso?... un do heisst's als noch, ich seig e-n-Original,
+                        wil ich nitt hirothe will!... nei, nei... nur das
+                        nitt!... ne so isch me riehig un frei, un ka esse und
+                        schlofe, we me will... tiens, me klopft a... wer mag
+                        jetz das si... entrez!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(kunnt hinte-n-ine un streckt in dr Jumpfer Herz
+                        beide Hànd entgege)
+                    </stage>
+          <p>Jumpfer Herz!... Finele, lieb Finele!... endlig hat Sie
+                        sich denn jetz doch entschlosse, mir Ihre Hàndle
+                        z'gà... wenn Sie wisse thàt, wie glicklig ass ich bi,
+                        siter ass ich weiss, ass Sie mi lieb Wiwele will gà!...</p>
+          <pb n="593"/>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Was isch jetz das?... was kämme Sie fir Dummheite ku
+                        schwàtze... hàn Sie eigentlig dr Kopf verlore, Herr
+                        Firig?...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Üs lüter Glick, jà, wil Sie mich jetz endlig will
+                        hirothe!... Sie brücht sich jo jetz nimmig
+                        z'verstelle... hat Sie denn nitt in Ihrem Oncle
+                        g'antwortet uf ein vo sine Briefe, ass Sie mich gern
+                        hat un ass Sie kei Andrer thàt choisiere?</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Was!... Sie hàn sich an mi Oncle adressiert? Wer hat
+                        Ihne erlaübt...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>O, zürnt Sie mir nitt, Jumpfer Herz... er isch e güeter
+                        Frind vo mim Vater, un will er sich an mir interessiert
+                        un Ihre-n-einziger Verwandter isch, so ha-n-ich ihn um
+                        Roth g'frogt, un do hat er mir das g'schriwe...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Mi Oncle weisst nitt, was er schribt!... er hat jetz
+                        emol im Kopf, mich z'verhirothe, un das bringt em Nieme
+                        meh drüs... awer ich will nitt!... 's isch wohr, ich
+                        ha-n-ihm g'schriwe, ass ich Sie lide ka, un ass ich kei
+                        Anderer thàt choisiere... wenn ich hirothe wott... awer
+                        noch emol, ich hiroth nitt un dermit fertig!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Un worum denn nitt?... O Finele, lieb Finele! mir sin jo
+                        mitnander ufg'wachse... Dü kennsch mich jo... ha-n-ich
+                        Dich nitt als, wo mr noch in d'Schüel gange sin, iwer
+                        's Wasser gràtzelt, ass De keine nasse Fiess g'macht
+                        hasch un alle güete Sache mit Dir theilt?... g'wiss, i
+                        mach Di glicklig... uf de Hànd <pb n="594"/>ill ich Di umme trage
+                        un e jeder vo Dine Wünsch soll erfillt werde!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(il Baccio)</stage>
+            <l>Längst ha-n-ich, lieb Schàtzle,</l>
+            <l>Scho Di Fràtzle</l>
+            <l>In mim Herz notràit,</l>
+            <l>Wie ne Schimmer;</l>
+            <l>Dü nur bisch mi Freid!</l>
+            <l>Wie wà mir froh</l>
+            <l>Mitnander lewe</l>
+            <l>Un immer do</l>
+            <l>Im Himmel schwewe!</l>
+            <l>Dich, mi lieb Herz,</l>
+            <l>Wil ich nur liewe</l>
+            <l>Un nie kei Schmerz</l>
+            <l>Soll ku 's Glick triewe.</l>
+            <l>Längst ha etc.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Bàh, bàh, bàh!... ich will kei jalouser Mann um mich
+                        umme ha, wo mir e jeder Schritt bewacht.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Ich jaloux!... g'wiss nitt, Jumpfer Herz, g'wiss nitt...
+                        alle Freiheit soll Sie ha... un derno, Sie ka doch nitt
+                        allewil allei do bliwe in dem abg'legene Hüs... wenn
+                        jo-n-emol Schelme kàmte, so kännt Ere jo nitt emol
+                        nieme z'Hilf ku.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>'s sin noch nie keinè ku... un ich ha kei Angst... un
+                        derno, ich will mi Herr un Meister si, ass ich ka
+                        mache, wie-n-ich will... ich ha ewe ne wenig e freier,
+                        unabhàngiger Character... das ha-n-ich alles scho
+                        hundertmol in mim Oncle g'schriwe, wenn er mich als
+                        plogt hat, Sie z'hirothe... ich weiss sicher nitt, was
+                        ihm jetz uf eimol iku isch, Ihne Hoffnung z'mache...<pb n="595"/> er
+                        meint halt, er seig noch allewil Kummedant bi dr Armee
+                        un kännt im e jede kummediere, was er fir güet findet,
+                        awer bi mir packt's nitt!...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Als Vormund un einziger Frind, wo Ihne blibt vo dr
+                        Familie, derft Se doch e wenig uf ihn lose... er hat jo
+                        in Ihrer Müetter versproche uf em Todtbett, ass er Sie
+                        b'schitze un uf Sie wache will... un erst letschthi hat
+                        er noch in mim Vater g'schriwe, ass er e schwerer Stei
+                        ab em Herz hätt, wenn er Sie-n-emol versorgt thàt
+                        wisse!</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Ich brüch Nieme, fir uf mich z'wache... un züedem isch
+                        er jo scho weiss kei Mensch wie lang furt uf Reise...
+                        er hat sich nie gross um mich bekümmert... ich ha-n-'n
+                        nitt emol nie recht kennt un ha-n-'n scho zeh Johr
+                        nimmig g'sàh, ich bi elfe alt gsi, wo-n-er furt isch...
+                        un wenn ich nitt mi Tante noch g'ha hätt e paar Johr,
+                        wàr's mir possig gange...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Also isch das Ihre letscht Wort, Jumpfer Herz, Sie will
+                        denn nit vo mr wisse?...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Lose Se, Herr Firig... glaüwe Sie mir... mr wànn güete
+                        Frind bliwe mitnander wie frieiher, awer bi dem soll's
+                        bliwe...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(decouragiert)</stage>
+          <p>Eh bien... wenn's eso isch, so mach ich mir ebbes am
+                        Lewe... denn eso ka's nimmig geh... ich spring ins
+                        Wasser... in d'Dollre, oder in d'Ill, dert isch's
+                        tiefer... oder nei, ins Stadtbàchle, 's isch nàcher!</p>
+          <pb n="596"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Auf mei'm Grabstein)</stage>
+            <l>Uf mim Grabstei wirsch Dü grine,</l>
+            <l>Ebb dr Vollmond kunnt ku schine,</l>
+            <l>Will Dü mich nitt gnu hasch hit;</l>
+            <l>Adie Schatz, vergiss mi nitt.</l>
+            <l>Uf mim Grabstei wirsch Dü kneie,</l>
+            <l>Vor ebb...</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Vor ebb's grien wird schneie.</p>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_firig">
+            <speaker>Herr Firig.</speaker>
+            <lg>
+              <l>An mim Tod bisch Dü jetz Schuld,</l>
+              <l>Adie, ich stirb mit Geduld!</l>
+            </lg>
+          </sp>
+          <sp who="#jumpfer_herz">
+            <speaker>Jumpfer Herz.</speaker>
+            <lg>
+              <l>We mir üsgeht jetz d'Geduld,</l>
+              <l>So bisch sicher Dü dra d'Schuld!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Mache Se keine Dummheite, Herr Firig, springe Se nur
+                        iwer 's Wasser, 's geht o, 's hàn's scho Viel eso
+                        g'macht...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Oder nei, ich gang mi geh engagiere... in dr Krieg gang
+                        i... hört Se's, Jumpfer Herzlos, ich gang mi geh lo
+                        umbringe... glich morn am Morge pack i uf!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Voyons, Herr Firig... gehn Se jetz riehig geh schlofe
+                        driwer... bis morn hàn Se derno ganz andere Gedanke.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Ich schlofe!... kei Schlof isch meh möglig fir mich!...
+                        und mi einziger Trost wird si, Ihre Fenster die Nacht
+                        dure noch z'b'schaüe vo witem, züem letschte mol...
+                        wenn Sie also viellicht noch Idee changiert in <pb n="597"/>dr Nacht
+                        un mit mr rede will, so derf Se nur e Liecht dra stene,
+                        un do kumm i... wo nitt, so bin i morn Soldat... Adie,
+                        undarmherzige Jumpfer Herz... Se sieht mich nimmig!<stage>(er
+                        geht üse)</stage></p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(allei)</stage>
+          <p>Er dürt mi, dr Herr Firig... awer i ha jetz emol
+                        keine-n-Idee, fir Hose z'flicke un Zulli
+                        z'fawriziere... awer doch hat er mir ebbes g'sàit,
+                        wo-n-ich noch nie dra denkt ha... wenn emol Schelme
+                        kàmte ku ibreche do... un ich, wo ganz allei bi!... ich
+                        derf nitt dra denke, ich bekumm uf eimol Angst!...
+                        brrr!... still, ich hör glaüb ebbes!... 's kunnt
+                        ebber!...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Schlaü, Jumpfer Herz.</stage>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(kunnt hinte-n-ine. Fir sich)</stage>
+          <p>Aha, do isch se jo...<stage>(lüt)</stage> ha-n-ich d'Ehr mit dr
+                        Jumpfer Herz z'rede?</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Jo... awer was wàr Ihne lieb, noch so spot?</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Ich hätt Ere ewe ebbes Wichtigs az'trage.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(mit Verdacht)</stage>
+          <p>Das isch awer jetz kei Zit, fir...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Fir um's Hirothe z'froge... 's isch möglig... awer das
+                        isch mir eithüen, ich bi pressiert... ich ka nimmig
+                        warte...<stage>(er verneigt si)</stage> Jumpfer Herz, ich bi ku, um
+                        Ihne mi Hand un mi Vermöge az'trage...</p>
+        </sp>
+        <pb n="598"/>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah çà... scho wieder Einer... wànn denn alle hirothe
+                        hit?... un noch eso ne-n-Alter...<stage>(lüt)</stage> das isch jetz e
+                        wenig stark...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das ha-n-i wohl g'wisst, ass ich wird aku, wie
+                        ne-n-Elephant, wo züem e Glaser kunnt ku tanze!<stage>(lüt)</stage>
+                        's isch viellicht stark, awer 's isch eso... ich
+                        heiss...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>'s isch unnöthig... ich brüch Ihre Name gar nitt
+                        z'wisse...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(fir sich)</stage>
+          <p>Desto besser, ich brüch ere-n-ewe kei letzer agà.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Züem erste will ich gar nitt hirothe, un züem andre find
+                        ich Sie ne wenig herzhaft, eso mir nit, dir nit in
+                        ebberm e Hirothsatrag z'mache, wo Sie noch nie g'sàh
+                        hàn.</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Was will Se halt... ich bin e-n-alt Original, un bi vo
+                        jeher g'wohnt gsi, alles üsz'fiehre, was mr in Kopf ku
+                        isch... un jetz ha-n-ich Idee, Sie z'hirothe, un ich
+                        hiroth Se!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Das Jagen ist mein Leben)</stage>
+            <l>'s Hirothe, das isch mir mi Lewe</l>
+            <l>Sechs Wiwer, wo mir thien scho schwewe</l>
+            <l>Im Himmel dert owe,</l>
+            <l>Un thien mich g'wiss lowe;</l>
+            <l>Denn güet hàn sie's g'ha.</l>
+            <l>Vorgestert isch d'Sechste verscheide,</l>
+            <l>Drum kumm ich züe Ihr' jetz mit Freide</l>
+            <l>Denn vo dàne-n-alle</l>
+            <l>Thüet Sie mir jetz g'falle</l>
+            <l>Am beste glaüb noch,</l>
+            <l>Sie isch d'Schönste doch!</l>
+          </lg>
+          <pb n="599"/>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Merci fir dr Vorzug!<stage>(lüt)</stage> awer Sie kenne mich gar nitt!
+                       <stage>(fir sich)</stage> hat mr ne-n-ebbe mi Oncle o g'schickt,
+                        dà?...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Das isch grad 's Original dervo... Sie sin e schöne
+                        Person, wo mir g'fallt, das isch, was ich brüch...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Wenn ich Ihne-n-awer sag, ass ich gar nitt hirothe
+                        will!</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Wenn Sie durchüs nitt will hirothe... ich halt nitt so
+                        erschrecklig dra, mr känne jo doch binander wohne.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Das isch awer jetz doch züe arg<stage>(se zeigt uf d'Türe)</stage>
+                        dert isch d'Thüre!... un nur schnell e wenig oder ich
+                        rief um Hilf<stage>(fir sich)</stage> un kei Mensch im Hüs in dem
+                        Moment, wo mich vertheidige kännt!... Oh!...
+                        e-n-Idee!... ich will 's Liecht ans Fenster stelle, ass
+                        dr Herr Firig kunnt.</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(wàhrend ass d'Jumpfer Herz 's Liecht an 's Fenster
+                        stellt)</stage>
+          <p>Sie weiss wohl, ass es Nieme höre thàt, wenn Si o thàt
+                        riefe... also thàt Sie sich decidiere, denn Se bringt
+                        mich nimmig ab... 's müess geh, uf ei Art oder uf
+                        d'Andere...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Gatt!... ich vergang schier vor Angst, wenn nur dr Herr
+                        Firig kunnt!...<stage>(lüt)</stage> Un Sie meine, das Ding geht
+                        eso... Sie känne-n-eso mache, was Sie wàn!...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Das wà mr jetz glich sàh!...<stage>(ar geht a Schritt gege
+                        're).</stage></p>
+        </sp>
+        <pb n="600"/>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(springt hinter dr Tisch)</stage>
+          <p>Z'Hilf!... Firio... 's brennt!...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(springt are no)</stage>
+          <p>'s hört's jo Nieme... also isch's unnöthig!...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Schlaü, Jumpfer Herz, Herr Firig.</stage>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Was sieh-n-i!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Z'Hilf, Herr Firig... me will mich umbringe!<stage>(se springt
+                        ins Schlofzimmer rechts)</stage>.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(nimmt dr Herr Schlaü am Krage)</stage>
+          <p>Was isch, was git's... was hàn Sie um die Zit noch do
+                        z'schaffe?...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(macht si los)</stage>
+          <p>Was hàn Sie selbst do z'schaffe... un üs was fir eme
+                        Recht nàme Sie dr Jumpfer Herz ihre Parthie a?... Sie
+                        sin nitt dr Mann, nitt dr Brüeder, nitt dr Cüsin un nit
+                        eso, soviel as ich weiss!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Das geht Sie nit a... un uf dr Stell... züem erste un
+                        züem andre... mache Se, ass Se-n-abfahre, Sie Brigand,
+                        ass Se sin!</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Ah so!... Brigand!... das Wort zahle Se mr!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Dame blanche)</stage>
+            <l>Das mien Sie mir ibiesse,</l>
+            <l>Ich thüe Sie morn erschiesse,</l>
+            <pb n="601"/>
+            <l>Un kei Pardon isch z'hoffe,</l>
+            <l>Ich bi kennt in dr Stadt;</l>
+            <l>'s isch mir noch Kein entloffe,</l>
+            <l>Wo's mit mir z'thüe g'ha hat!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <lg>
+            <l>Er mag jetz noch so schreie</l>
+            <l>Mit sine Prahlereie!</l>
+            <l>Das alles sin nur Posse;</l>
+            <l>Denn glaüwe, thüe-n-ich doch</l>
+            <l>Die, wo-n-er hat erschosse,</l>
+            <l>Die lewe-n-alle noch.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>Mitnander.</stage>
+          <sp who="#herr_schlau">
+            <speaker>Herr Schlaü.</speaker>
+            <lg>
+              <l>Das mien Sie mir ibiesse, etc.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_firig">
+            <speaker>Herr Firig.</speaker>
+            <lg>
+              <l>Das soll Sie nitt verdriesse;</l>
+              <l>Doch Sie brücht kein meh z'schiesse;</l>
+              <l>Denn Sie sin's, wà mr hoffe,</l>
+              <l>Jo scho im höchste Grad.</l>
+              <l>Fir ein, wo scho so troffe,</l>
+              <l>Wàr's jo fir's Pulver schad.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_firig">
+          <p>Ich will mich messe mit Ihne, morn scho, wenn Sie wànn,
+                        nur mache Se-n-ass Se jetz furt kämme!</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Also morn, wenn d'Sunne-n-ufgeht, uf dr Promenade dert
+                        unte... Sie känne-n-Ihre Testament mache... ich bi
+                        ne-n-alter Soldat<stage>(er stellt si, fir z'fechte)</stage> das Ding
+                        kennt mich... un fehle Se nitt<stage>(er geht gege dr Thüre
+                        un kehrt si noch emol um)</stage> Ah so!... ich bi ne
+                        Brigand!... das Wort zahle Se mr mit em Lewe<stage>(er geht
+                        üse).</stage></p>
+        </sp>
+        <pb n="602"/>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Herr Firig, Jumpfer Herz.</stage>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(kunnt üs dr Schlofstuwe)</stage>
+          <p>Oh, Herr Firig!... wenn Sie wisse thàte, wie Angst ass
+                        ich g'ha ha!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Was isch denn gsi?... was hat er denn eigentlig welle,
+                        dà espèce Ràiwerhaüptmann?</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Was er hat welle?... denke Se nur, er hat mich welle
+                        hirothe... awer glich uf dr Stell... und do ha-n-i halt
+                        Angst biku un ha Sie g'rüefe.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Diable, diable... dà isch schint's noch mehr pressiert
+                        as ich... ich hätt jo gern noch e paar Tàg g'warte...
+                        also isch's nitt, wil Sie Idee g'schangiert hat, ass
+                        Sie mich g'rüefe hat?... un ich, wo voller Freid bi ku
+                        z'laüfe!</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Eh nei... awer ich will o nitt, ass Sie sich gehn geh
+                        schlage wege mir... denn ich ha alles g'hört, was
+                        vorgange-n-isch.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Oh Finele!... was frog ich doch in mim Lewe no, wenn ich
+                        Dich nitt ha!... desto besser, wenn er mich umbringt...
+                        ich will noch hundertmol liewer fir Dich sterwe, as
+                        fir's Vaterland!... Adieu denn!... morn, wenn
+                        d'Sunne-n-ufsteht, so leg ich mich... in d'ewige
+                        Rüeh!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Awer, Herr Firig, denke Se doch dra... wenn Sie umkämme,
+                        so kunnt er am End derno wieder do <pb n="603"/>ane, un wer sott
+                        mich derno vertheidige... wer weiss... am End kunnt er
+                        die Nacht noch emol, wenn er denkt, ass Sie furt sin...
+                        oh bliwe Se noch do... Fonsi, liewer Fonsi, blib do, bi
+                        mir... ich vergang schier vor Angst.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Was, Sie erlaübt mir, doz'bliwe die Nacht bi Ihre?...
+                        oh, Jumpfer Herz oh Finele, ich will jo derno gern
+                        sterwe morn!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Allons, allons... keine Dummheite!... Sie derfe dobliwe,
+                        wenn Sie mir verspreche, alle Cunditione az'nàh,
+                        wo-n-ich Ihne mache will.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Alles, alles nimm ich a, was Se will, un wenn's noch so
+                        schwer isch... wenn ich nur weiss, ass ich in Ihrer
+                        Nàche bi un d'gliche Luft derf iothme!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Eh bien denn... 's. isch gar nitt schwer, was ich vo
+                        Ihne fordre will... Sie schlofe ganz eifach in dem
+                        Lehnstüehl do, un ich dert in mim Schlofzimmer, awer
+                        Sie mien mir verspreche, ass Sie mir d'Schwelle nitt
+                        wànn iwertrete.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Das isch scho nitt eso licht, wie Sie meint... awer 's
+                        isch eithüen... ich ha mi Wort gà un will's o süeche
+                        z'halte.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Also wà mr denn vor allem die Thüre güet züemache<stage>(se
+                        b'schliesst d'hintere Thüre)</stage> so... un jetz güet Nacht
+                        Herr Firig... ich verloss mich uf Se<stage>(se geht in ihre
+                        Schlofstuwe)</stage>.</p>
+        </sp>
+        <pb n="604"/>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(belle Hélène)</stage>
+            <l>'s isch sunderbar (me glaübt doch nitt) <stage>bis</stage></l>
+            <l>Wie's eim ka geh!</l>
+            <l>Wer hätt jetz denkt (ass ich do hit) <stage>bis</stage></l>
+            <l>Mües Schildwacht steh?</l>
+            <l>Un mi Nacht so müess züebringe</l>
+            <l>Vor dr Stuwe-n-anstatt drin;</l>
+            <l>Ich weiss nitt, eb das wird g'linge,</l>
+            <l>'s will mir gar nitt in dr Sinn! <stage>(bis) Fin</stage></l>
+            <l>'s wird mir heiss als uf em Ricke,</l>
+            <l>'s wird mir heiss un wieder kalt,</l>
+            <l>Un doch müess ich mich dri schicke.</l>
+            <l>Denn ich ha mi Wort gà halt! <stage>(Au commencement.)</stage></l>
+          </lg>
+          <p>Ich bi doch g'wiss in ere wunderlige Position do...
+                            doch 's macht nit, ich ha mi Wort gà... awer vom
+                            schlofe wird halt doch kei Red si... un derno
+                            isch's o das Duell, wo mich tracassiert... ich ha
+                            noch nie kei Sawel in de Hànd g'ha un vom
+                            schiesse-n-isch gar kei Red<stage>(me hört e Schrei im Schlofzimmer)</stage></p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(kunnt üse ku z'springe)</stage>
+          <p>Oh! ich ha g'meint, ich hör ebber am Fenster, gehn Se
+                        doch geh lüege, Herr Firig... am End isch's gar dà
+                        Ràiwerhaüptmann, wo züem Fenster inekunnt, wil d'Thüre
+                        jetz züe isch...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Ich derf nitt... ich ha g'schwore, ass ich nitt iwer
+                        d'Schwelle tritt...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Wenn ich drin bi, awer jetz bin ich nitt drin...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(geht in d'Schlofstuwe)</stage>
+          <p><stage>(Vo use)</stage> 's isch nit... ich sieh Nieme! <stage>(er kunnt ine).</stage></p>
+          <pb n="605"/>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>'s isch eithüen, ich traü nimmig dert ine... ich will
+                        liewer do bliwe...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Ich offrier Ihre d'Hälfte vo mim Bett<stage>(er zeigt uf dr
+                        Fauteuil)</stage> we mr ganz eng z'àmmelige, das heisst
+                        z'àmmesitze, so hà mr wohl Platz drin<stage>(fir sich)</stage> un
+                        z'sage, ass we mr g'hirothe wàre, ass mr ganz riehig
+                        ins Bett kännte geh dert im Schlofzimmer!</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Das geht nitt, awer ich ha ne-n-andre-n-Idee...<stage>(se
+                        nimmt e paar Stiehl un stellt se-n-in e Reihe, mittle
+                        dur's Zimmer)</stage> voilà... die Hälfte-n-isch Ihre Zimmer un
+                        die Hälfte-n-isch mi's... Sie schlofe-n-in Ihrem
+                        Fauteuil un ich in mim... awer uf Ihre-n-Ehr, ass Sie
+                        unter keinem Vorwand züe mir iwere kamme, so lang as
+                        ich nitt rief... 's wàr mr sogar lieb, wenn Se mr thàte
+                        dr Ricke kehre un nie ummelüege...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Se brücht kei Angst z'ha, Jumpfer Herz... ich gang nitt
+                        in Ihre Zimmer... awer ich erlaüb Ihre hingege züe mir
+                        iwere z'ku, so vielmol as Sie will... Sie sieht, ass
+                        ich 's Böse mit em Güete vergelte thüe.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(sitzt im Fauteuil un kehrt im Herr Firig dr
+                        Ricke)
+                    </stage>
+          <p>Also... mache Se wie-n-ich un süeche Se z'schlofe... ich
+                        will's o so mache, un b'sunders, kehre Se sich nitt um.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Isch das dumm, hein, ne so-n-enander dr Ricke z'kehre,
+                        we me gar nitt bös mitnander isch!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Was fir e Nacht! was fir e Nacht!...</p>
+          <pb n="606"/>
+          <lg>
+            <head>G;sang</head>
+            <stage>(Richard, coeur de lion).</stage>
+            <l>Ich traü kei Aüg züe z'mache,</l>
+            <l>Üs Angst, dà Ràiwer kunnt;</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#jumpfer_herz">
+            <speaker>Jumpfer Herz.</speaker>
+            <lg>
+              <l>Un doch ka-n-ich nitt wache,</l>
+              <l>Noch z'wit isch d'Morgestund.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_firig">
+            <speaker>Herr Firig.</speaker>
+            <lg>
+              <l>Ich wott scho liewer wache,</l>
+              <l>Doch üs me-n-andre Grund!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <stage>Se singe-n-immer lisliger un schlofe derno i).</stage>
+        <sp who="#herr_firig">
+          <lg>
+            <l>Doch halt ich mi Verspreche.</l>
+            <l>Ass ich ischlofe will.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_firig">
+            <lg>
+              <l>Ich möcht mi Wort nitt breche,</l>
+              <l>Drum d'Aüge züe un still.</l>
+            </lg>
+          </sp>
+          <sp who="#jumpfer_herz">
+            <speaker>Jumpfer Herz.</speaker>
+            <lg>
+              <l>Er haltet si Verspreche,</l>
+              <l>Drum d'Aüge züe un still.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p><stage>(Se losst e Schrei üs im Traüm)</stage>Oh! dr Ràiwer! dr Ràiwer!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(verwacht)</stage>
+          <p>Hein!... was isch... derf i umme lüege... soll i
+                        ku?...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Nei, nei... bliwe Se nur... 's isch nit, ich ha nur
+                        träumt!...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(im ischlofe)</stage>
+          <p>Das Duell, das Duell, das will mr nitt üs em Kopf!...
+                       <stage>(im Traüm)</stage> Aha!... do isch er... Achtung... ich will
+                        güet ziele!...<stage>(er nimmt im Traüm e Tasse, wo-n-uf em
+                        Tisch steht un wirft se-n-an d'Wand)</stage> bum, 's hat ne!...
+                       <stage>(er verwacht).</stage></p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(springt in d'Höcher un losst e Schrei üs).</stage>
+          <p>Was isch... was isch!...</p>
+          <pb n="607"/>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>'s isch nit... ich ha nur traümt, ich heb dr
+                        Ràiwerhaüptmann erschosse...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Awer, wie hàn Sie mich jetz verschreckt! wenn's doch nur
+                        scho Morge wàr!...<stage>(se sitze beide-n-un schlofe wieder
+                        i. Bol geht's Fenster uf un dr Herr Schlaü stigt ine
+                        mit zwei Sàwel)</stage>.</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was fir e pràchtig Tableau... me kännt's nitt schöner
+                        mole!...<stage>(er hüeschtet)</stage>.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(springt uf un losst e Schrei)</stage>
+          <p>Dr Ràiwer!... dr Troppmann!... dr Schinderhans!...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(ribt sine-n-Aüge, noch-halwer im Traüm)</stage>
+          <p>Ich gang nimmig dra... ich ha-n-en jo grad tot
+                        g'schosse!</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(springt züem Herr Firig)</stage>
+          <p>Wache Se denn uf, Herr Firig... er isch do, er isch
+                        do!...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(verwacht)</stage>
+          <p>Wer isch do?... wo?...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(züem Herr Firig)</stage>
+          <p>Ich ha's décidément nitt langer känne-n-iwer's Herz
+                        bringe, das Wort Brigand, un warte bis morn, fir mich
+                        z'schlage... mr mache's liewer glich ferig... do sin
+                        zwe Sàwel... choisiere Se-n-einer dervo, un en garde!</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(züem Herr Schlaü)</stage>
+          <p>Oh, ich bitt Se drum... verschone Se ne... wenn er jetz
+                        o ne wenig vif gsi isch, so isch's jo nur gsi, fir mich
+                        z'vertheidige.</p>
+        </sp>
+        <pb n="608"/>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schläu.</speaker>
+          <p>Was hat er fir e Recht, fir Sie z'vertheidige? Ich
+                        thàt's noch versteh, wenn's Ihre Mann oder Ihre Brüeder
+                        wàr, oder ufs wenigst nur dr Hochziter...</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(züer Jumpfer Herz)</stage>
+          <p>Do hat Se's jetz... ich ha-n-allewil welle hirothe, awer
+                        Sie hat sich allewil g'weigert.</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(streckt im Herr Firig e Sawel ane)</stage>
+          <p>Allons, allons... vorwàrts!...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(züem Herr Schlaü)</stage>
+          <p>Un wer sàit Ihne, ass er nitt mi Hochziter isch?<stage>(lislig
+                        züem Herr Firig)</stage> Sage Se wie-n-ich... awer 's isch nur
+                        e List... nitt ass Sie ebbe meine, 's isch mr Ernst.</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig</speaker>
+          <stage>(züem Herr Schlaü)</stage>
+          <p>Jà... wer sàit Ihne, ass ich dr Hochziter nitt bi... mr
+                        hàn jo morn welle hirothe.</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(vergisst si, züem Herr Firig)</stage>
+          <p>'s isch z'er Làbtig nitt wohr!<stage>(schnell züem Herr
+                        Schlaü)</stage> das heisst, nitt morn, awer die Wuche noch...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Bàh bàh bàh... das glaüb ich alles nur halwer... ich
+                        müess e Bewis ha oder ebbes eso!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Wenn Se wànn, ich will im Finele e Schmutz gà uf jede
+                        Backe... ass Sie sàhn, wie güet mir's mitnander känne
+                       <stage>(d'Jumpfer Herz springt uf d'Site)</stage> un derno, do isch mi
+                        Geburtsschin, wo-n-ich express ha mache lo uf d'Hiroth
+                        hi<stage>(lislig züer Jumpfer Herz)</stage> ich ha-n-en grad fire
+                        g'süecht vorig, fir mich z'engagiere morn...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Enfin... wenn ihr mir wànn schwöre, ass ihr Hochzitslit
+                        sin un ass ihr im Begriff sin z'hirothe die Wuche,<pb n="609"/> o
+                        kännte mir uns viellicht arrangiere... 's wàr halt
+                        derno ebbes ganz anders!</p>
+        </sp>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Ich schwör's Ene mit Freide<stage>(er hebt alle Finger in
+                        d'Höche)</stage> wie eher wie liewer... un wenn mr uf dr Stell'
+                        züem Herr Maire wànn geh... ich bi g'rischtet</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(züer Jumpfer Herz)</stage>
+          <p>Un Sie... ka Sie mir 's Gliche schwöre?...</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz.</speaker>
+          <p>Ich schwör 's Gliche, awer...<stage>(lislig züem Herr Firig)</stage>
+                        's isch noch allewil nur e List, ass Sie's wisse...
+                       <stage>(züem Herr Schlaü)</stage> awer ich müess noch d'Erlaübniss ha
+                        vo mim Oncle un Vormund...</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Also, wenn Sie d'Erlaübniss hätt vo-n-Ihrem Oncle, so
+                        wàr's in Richtigkeit... do thàt Sie glich dr Herr Firig
+                        hirothe?</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich ka herzhaft jo sage, mi Oncle isch wit... we mr nur
+                        emol dà Ràiwer ab em Hals hàn...<stage>(lüt)</stage> Natirlig... ich
+                        wisst nitt,worum ass ich ne nitt sott hirothe!</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Wenn's eso isch, Finele... Di Oncle steht vor Dr un git
+                        Dir d'Erlaübniss un si Sege züe eürer Hochzit... ich bi
+                        di Oncle Schlaü... kennsch mi denn nimmig?</p>
+        </sp>
+        <sp who="#jumpfer_herz">
+          <speaker>Jumpfer Herz</speaker>
+          <stage>(verstünt)</stage>
+          <p>Dr Oncle!... un ich ha-n-en nitt erkennt!... Dü
+                        wieschter Mensch, wie hasch Dü mich in eso ne Schrecke
+                        känne versetze!</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü</speaker>
+          <stage>(streckt d'Arme-n-üsnander)</stage>
+          <p>Allons, allons... mr wànn dr Friede schliesse-n-un dr
+                        Hochzitstag b'stimme<stage>(se umarme sich)</stage>.</p>
+        </sp>
+        <pb n="610"/>
+        <sp who="#herr_firig">
+          <speaker>Herr Firig.</speaker>
+          <p>Isch dà Oncle Schlaü e schlaüer Oncle?</p>
+        </sp>
+        <sp who="#herr_schlau">
+          <speaker>Herr Schlaü.</speaker>
+          <p>Ich ha-n-in Dinere Müetter versproche, Dich
+                        z'versorge... jetz isch mi Pflicht erfillt, denn De
+                        bekunnsch e güeter Mann... un Dü wirsch doch nitt
+                        welle-n-anderscht mache-n-as d'Andere... me hat noch
+                        nie kei Jumpfre g'sàh, wo nitt hirothe will.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Nicolas)</stage>
+            <l>Uf dr Welt isch's Mode,</l>
+            <l>Siter ass se steht,</l>
+            <l>Ass me thüet hirothe</l>
+            <l>Un züenander geht,</l>
+            <l>Wil me sunscht halt immer</l>
+            <l>Züe viel Angst als hätt</l>
+            <l>Z'Nacht im dunkle Zimmer</l>
+            <l>Ganz allei im Bett!</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_herz #herr_firig #herr_schlau">
+          <speaker>(Mitnander)</speaker>
+          <lg>
+            <l>Drum wà mir</l>
+            <l>Thüe derfir</l>
+            <l>Ah ah ah!</l>
+            <stage>{bis</stage>
+            <l>Liewer zwei</l>
+            <l>as allei</l>
+            <l>Ah ah ah!</l>
+            <stage>}bis</stage>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

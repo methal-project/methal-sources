@@ -1,0 +1,1368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D' Schloofere</title>
+        <title type="sub">Elsässischi Quacksalwers-Komedie in aam Uffzug</title>
+        <author key="wikidata:Q96696621">Jean Riff</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q107433569</idno>
+        <idno type="methal" xml:id="mtl-038"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109585p</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q107433569">Jean Riff</author>
+            <title type="main">D' Schloofere</title>
+            <title type="sub">Elsässischi Quacksalwers-Komedie in aam Uffzug</title>
+            <edition>2</edition>
+            <publisher>Verlag von Paul Schweikhardt, Straßburg</publisher>
+            <date when="1914" type="print">1914</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="s_gassenhansels-mariann">
+            <persName>s Gassenhansels-Mariann</persName>
+          </person>
+          <person sex="M" xml:id="dr_buejuckels-chrischtian">
+            <persName>D'r Bußejuckels-Chrischtian</persName>
+          </person>
+          <person sex="F" xml:id="mlle_simselewim">
+            <persName>Mlle. Simselewim</persName>
+          </person>
+          <person sex="M" xml:id="meurs_dissi">
+            <persName>Meurs. Dissi</persName>
+          </person>
+          <person sex="M" xml:id="hieronymus_schloijele">
+            <persName>Hieronymus Schlöijele</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#s_gassenhansels-mariann"><role><persName>s Gassenhansels-Mariann</persName></role>, <roleDesc>Schloofere</roleDesc>.</castItem>
+        <castItem corresp="#dr_buejuckels-chrischtian"><role><persName>D'r Bußejuckels-Chrischtian</persName></role>, <roleDesc>ihrer Schwöijer, Hypnotiseur</roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#mlle_simselewim">
+            <role>
+              <persName>Mlle. Simselewim</persName>
+            </role>
+            <roleDesc>zwei vun d'r Kundschaft</roleDesc>
+          </castItem>
+          <castItem corresp="#meurs_dissi">
+            <role>
+              <persName>Meurs. Dissi</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>zwei vun d'r Kundschaft</roleDesc>
+        </castGroup>
+        <castItem corresp="#hieronymus_schloijele"><role><persName>Hieronymus Schlöijele</persName></role>, <roleDesc>v'rdeckter Blejele</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> 1. Szene. </head>
+        <stage> D’r Butzejuckels-Chrischtian.(Chrischtian sitzt Hinter dem Tische vor einem aufgeschlagenen  Contobuch und liest mit monotoner Stimme.)</stage>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Nümmero 44: Marie Gäisele üs. Wisseburri. Nümmero 45: Schosaff Dunkeli üs Colmer. Nümmero 46: Hanriatt Plapsel üs Babe-Bade. Nümmero 47: Rudi Tschöjdi üs Basel. Nümmero 48: Emanüel Ochsekopf üs Strooßburri. Nümmero 49: Xaverie Klappri üs Offedorf.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 2. Szene. </head>
+        <stage> Chrischtian. — ’s Gassehansels-Mariann. (Mariann tritt geräuchlos und stolz aufgerichtet von links ein  ohne von ihrem Schwager, hinter dem sie stehen bleibt, bemerkt  zu werden.)</stage>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(immer weiter lesend)</stage>
+          <p>Nümmero 50: Antoin Imbecile üs Nanzig.<pb n= '10' /> Nümmero 51: Emilie Kälwele üs Stroßburri. Nümmero 52: Otto Ratzeritzky üs Kattowitz, un Nümmero 53: Kathrin Galleräi üs Schilke. <stage>(Mariann nimmt am Tische Platz )</stage></p>      
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Drejefuffzig sin hyt do gewahn ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja, dies warde sechs wenjer wie gescht.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Drejefuffzig mol fünf Mark — wieviel ich dies?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <stage>(wichtig)</stage>
+          <p>Fuffzig mol fünf isch zwäi- hündertunfuffzig.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Un drejmol fünf isch vierezwanzig.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Drejmol fünf isch fuffzehn, Däuwohrel.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariaun :</speaker>
+          <p>Zyter wann dann?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(wichtig)</stage>
+          <p>Zyter daß d'r Schuelmäischter d'nöij Ortographie in ünserer Gemäin inggfüehrt het.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Mit dene däuwe Anderunge allewiel.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Also, zwäihündertfuffzig un fuffzehn isch zwäihündertfünfesaachzig.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <stage>(steht auf)</stage>
+          <p>Jaaa, jetzt kummt m'r aw'r äu grood ebs ing: inger danne drejefuffzig Patiante sin aw'r doch äu sechs dringer gewahn, wie fer e Sitzung nooch üswarts zwölf Mark oongerachent höön kriejt, statts fünf.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ah jaso. — Dies warde halt no wied’r e paar Mark meh. Sechs mol siewe.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Sechs mol siewe isch siewenesachzig.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Isch zwäijevierzig. Zü dane zwäi- hündertunfünfesachzig Mark, isch : <stage>(rechnet schriftlich auf einem Blatt Papier)</stage> <pb n= '11' /> Zwäihündertunfünfesaachzig un Zwäijevierzig, Strich dringer. — So. — Zwäi un fünf isch siewe — schrieb siewe. — Vier und sechs isch zehn - schrieb Null un bhalt äins. — Zwäi, un äins bhalte, isch drej. — Dies warde also drejhündertunsiewe Mark.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Vun eem Däuej wied'r! — E scheens Stickel Gald! — So an eem Däuej ze v'rdiene! — M'r sott's wajer fascht nit fer möejli halte.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(lachend)</stage>
+          <p>Do sell nocch emol Äiner säueje, ’s gabt noch däuwi Büüre !</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Drejhündertunsiewe Mark von eem Däuej! — E natts Stückel Gald!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ob's natt isch ? Zall will ich mäine — Un was d’Häuptsach d'rbie isch: ’s stinkt nit!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Jetz kummt m'r noch ebs ing: ’s höön sich doch noch drej Lyt fer hyt Owe oongemaldt ghet ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Ah jaso. — <stage>(blättert hastig in dem Anmeldebuch nach.)</stage> — Ja, do stehn sie jo: Melchior Dissi üs Wyrsche, Mamsall Simselewim üs Strooßburri un Hyronimüs Schlöijele üs Strooßburri.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Worum hesch dann die noch uff hyt Owe bstellt ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Bstellt hawich se nit, oowiese höön sie sich aw'r äu nit loon, un d'rnoo hawich halt gedenkt: drejefuffzig un drej isch sechsefuffzig.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>’s isch Alles eraacchht, wann m'r aw'r numme nit eso viel denke und babble müeßt.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(laut auflachend)</stage>
+          <p>Denke un babble! — Hahaha! — Ich mäin, dini Sprüchle sottsch doch jetzt bööl üffewandi könne? — <stage>(in leierndem Tone)</stage> Ich bin im e Wald — bo sieh ich e blöijs Blüemele — dies isch Majoran — un d’rnawe wissi Ardbeerblüemele — —</p>
+          <pb n= '12' />
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(lachend)</stage>
+          <p>Halt's Mül! — Iwerhäupt: 's schloofe! — Mueß nit äu gschloofe ware d'rbie ? — Hein?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Na höer, wann dini Arwäit iewerem schloofe maache kannsch, ze wursch doch nix ze kläueje höön.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(mit den Augen blinzelnd)</stage>
+          <p>Dü mäinsch doch: iewerem „schloofe" ? — Hahahahahahaha!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Laach doch nit eso däub!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Isch dir's ebbe um's hyle ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Nee, vorläifi noch nit.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Na, zenje äu.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ich mäin numme. — Wäisch, s'isch nit guet wenn m'r ze viel und ze früehj laacht.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Dü maachsch allewiel e Gschaftswark ! — E Sternsappermant nochemolning! — De Schaddel loß i noch nit hanke!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Äij jo — äij jo — — —</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Wieviel Prozante zeje m'r dann dene Monet vun ünserem Drogischt fer Malaga ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(im Kontobuch blätternd)</stage>
+          <p>Do hinne hawich's zammegerachent. — So, do steht's jo. — V'rkäuft het'r in dem Monet fer drejhündertunachtzig Mark Malaga un fer zwäihündertfünfenynzig Mark v'rschiedeni Teesorte. Dies macht: Drejhündertunachtzig un zwäihündertunfünfenynzig isch sechshündertunfünfe- siewezig Mark. Uff üns falle damnoch, mit fünf Prozant gerachent: drejedrißig Mark un fünfesiewezig Pfanni.</p>
+          <pb n= '13' />
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Vorigte Monet höön m'r iewer fuffzig Mark vum Drogischt gezöije.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Numme als harzhaft Malaga v'r- schriewwe, d'rnoo gitts schun Prozante.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Zletscht het sich ’s Gartners Fritz driewwer uffghalte, worum daß ich ze alle Tee-Rezaptle Malaga v'rschriewe dhue.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Was hesch no gsäit?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Was hawich selle säueje? — Ich hab 'm gsäit: wann ich ken Malaga d'rzü v'rschriewe dhaat, ze dhaate se mini Krittelsauce nit süffe.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(lachend)</stage>
+          <p>Na, do hesch doch wenigschtens äinmol in diem Lawe d'Wohrhäit geredt.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <stage>(schaut durch das Fenster)</stage>
+          <p>Löij emole, Chrischtian, do hunte schlicht wied'r emol Äiner d' Strooß uff un oo un gickelt so v'rstohlenerwies an ünserem Hüs eruff. Wurd's äiner vun dane Dreje sin, wie hyt noch kumme welle?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(schaut ebenfalls durch das Fenster)</stage>
+          <p>Obs jetzt grood äiner vun ünsere Kliante isch, loßt sich halt uff die Art schwar kunstantiere, aw'r — uff alli Fäll — ebs Gschieds isch's juschtemand grood äu nit.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(beklommen)</stage>
+          <p>Wann's numme kenn Kriminal-Schandarm isch</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Bisch v'rruckt ? Mariann; Wäisch nimmi, daß m'r gewarnt sin worre ?</p>
+		  <pb n= '14' />
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ich bloos d'r druff! — Un iewwer- häupt, dar wie üns gewarnt het sell numme guet Oocht geen, daß ihm d' Kriminalschutzlytt nit hinger d' Um- hängle löije!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Mir isch's raacht. — <stage>(Geht vom Fenster weg)</stage>. — Was ich säueje will: hesch de Käufkuntrakt biem Böijunternahmer ingerschriewwe?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja, glich nooch d'r Noochmiddäuejs- sitzung. 's isch aw'r e Stierhäit gewahn.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <p>Worum?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Worum? — Erschtens kann üns jetzt e jeder Simpel sozesäueje in d' Karte ning gücke un kann's mit de Hange griffe, daß mir göönz häillos Gald v’rdiene muehn, un zwäitens malde sich ewwe uff dies anne äu d' Kunkürrante.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(geringschäzig)</stage>
+          <p>Poh, d' Kunkürrante.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja, d' Kunkürrante! — Sie kumme danewaj schun. — <stage>(nimmt eine Zeitung vom Tisch)</stage> — Do löij, was do drinne steht. <stage>(liest.)</stage> — Heilmethode nach hypnotisch-sugestiver Grundlage! — Phänomenale Erfolge !</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Was fer Erfolge?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Phänomenale. <stage>(kaut an den Finger- nägeln.)</stage></p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariaun:</speaker>
+          <p>Was soll dann dies bedytte ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja ich v'rsteh's äu nit raacht. — <stage>(liest weiter.)</stage> Einzig in der Welt dastehend !</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Ach, jetzt v'rsteh ich's! — Dies isch aw’r Schwindel !</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Numme gemaach, ’s kummt noch besser, — <stage>(liest.)</stage> — Keine Berufsstörung! — Keine Arbeitsversäumnis! — Kein Krankenlager! — Keine Medizin! —</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(gehässig)</stage>
+          <p>Ja, salbschtv'rstandli! — Zerscht mueß m'r äu wisse, was ze v'rschriewe isch!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(liest weiter)</stage>
+          <p>Nur ein Besuch bei mir, und Jeder ist sofort geheilt! -</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(knirschend)</stage>
+          <p>So e Söijvolk, so e kinitzigs!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(liest)</stage>
+          <p>Nachweislich die größten Erfolge, selbst in komplizierten, veralteten, von allen Aerzten und Professoren aufgegebenen Fällen.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Nee, so ebs!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(liest)</stage>
+          <p>Mensch, erkenne und kuriere dich selbst! — Suche und hole Rettung bei Frau Schnatteri, zur Zeit in Straßburg auf die Dauer von nur drei Monaten. Sprechstunden vormittags 8—12 Uhr, nachmittags 2—6 Uhr im Hotel „Zum Teddybär“. — <stage>(legt die Zeitung weg.)</stage> Na, was säisch jetz do d'rzü ?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(geringschätzig)</stage>
+          <p>Die kann üns noch nit wachsle ! <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(erschreckt)</stage>
+          <p>Mariann, träuej hurtli die Büecher ewack! — Räij' di’. — E Starnsappermant !</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Still doch! — Maach doch ken so Laawesdäuj ! — <stage>(rafft rasch die Zeitung und Geschäfts- bücher zusammen.)</stage> <stage>(Es klopft zum zweitenmale.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(drängend)</stage>
+          <p>Los! — Los! — Los!</p>
+          <pb n= '16' />
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Numme gemaach! — <stage>(eilt mit den Sachen rasch rechts ab.)</stage> <stage>(Es klopft zum drittenmale.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Jaja! Numme ering! — entrez! <stage>(Mlles. Simselewim tritt in sichtlicher Erregung hastig durch die Mitte ein.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 3. Szene. </head>
+        <stage> Chrischtian. — Mlles. Simselewim.</stage>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Bonjour Monsieur! — Ich kumm doch noch räecht ums Himmelswille? — Herrjesses bin ich uffgerejt! — Sie erlauwe doch, daß ich mich vor alle Dinge e bissel setze dhue ? — <stage>(setzt sich.)</stage> — Oh, sin Sie aw'r nett ingericht do hinne! — Aanfach, aw'r nett! — Mit aam Wort! — Dies mueß m'r saawe! — Un der groß scheen Garte um's Hüs erum! — E Prachtgarte! Un doch d'rbie so aanfach! — Aanfach, aw'r nett! — Was pflanze Sie denn do alles ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Krütt un Ruewe.</p>
+          <pb n= '17' />
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <stage>(wieder munter drauflossprudelnd)</stage>
+          <p>Soso. — Krütt un Ruewe. — Aanfach, aw'r nett! — Wer's eso han kann! — Unseraaner hätt’ halt au sini Wünsch, sich e gemüetlis Heim ze schaffe! — E gemüetlis Heim! — <stage>(seufzt.)</stage> — Großer Gott! — Wenn m'r's Geld hätt’ wie nit, was könnt m'r do Alles mache, wir könnt me'r sich do innischte un inrichte! — Aanfach, aw'r nett! — E Hiesele zem ellaanbewohne, ’s Hiesel mit eme Borgärtel — Blueme un Rosehecke —, am Hiesel in d' Höeh Rewe od'r Epheu, d' Wohnung Hoch- parterre — e Salon — e salle à manger — zwei scheeni Schloofzimmer — e Fremdezimmer — e Bad- zimmer — e Cabinet toillet — e Wintergarte — e Boudoir — e Herrezimmer — e fumoir — Alles aanfach, aw’r nett! — Vorne in d'r Mitte vum Hiesel e Veranda — <stage>(schöpft tief Atem)</stage> — geje d'r Strooß zü. — D’ Staffel, wie zue d'r Veranda nuffüehrt, müeßt mit ihrem Geländer de Yndruck uff aane mache, als däet aam Jemand mit hell uffjüchzender Stimm züruefe: bienvenu! — entrée seulment! — Jaaa, ich hab Gschmack! Aw'r, dü liewer Gott im Himmel, was kann aam d'r bescht Gschmack un d'scheenschte Illüssione nutze wenn m'r ’s nöetige Klaangeld nit d'rzü het? — Un was spielt hytzedas d' Hauptroll ? — ’s Geld! — Wer isch Hahn im Korb allewiel un iewwerall? — Wer Geld het! — Wo Geld isch, isch alles — wo kaan Geld isch, isch nix — nit emol Kredit! — Denn Kredit un Geld hängt zamme! — Hawi Räecht od'r nit?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Höere, Fräu — — —</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Pardon, ich bin noch Mamsell.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Noch?! — E Kräizdünderwadder! — Do sin’r aw’r e alti Mamsall!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Alt? — Vierzig Jährle. — ’s gäbt m’r se aw'r noch Niemeds. — Nit wohr? — Jaaa, ich hab mich halt guet ghalte in mine junge Johre, un im gfetzte Alter solid gelebt.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Sin'r schun emol ghyroot gewahn ?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Aw'r erlauwe Sie — — — ich bin noch Mamsell!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Ah jaso: — Na höere Se, Jumpfer —</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(verlegen)</stage>
+          <p>Nit so saawe — — — nit Jumpfer — — — — Mamsel.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ah sooo. — Na, höere Sie Mamsall —</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Mamsel Simselewim isch miner Name.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ah so, Ihr sin jetz die Mamsall Simselewim üs Stroßburri?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Ja. — Ich hab mich angemeldt ghet.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Ich wäiß's, ich wäiß's. — Ihr höön d' Nummer fünfefuffzig.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Gerechter Gott im Himmel! — So viel Lyt sin d’rnoo hyt schun do gsin?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Dies isch noch gar nyx. — Mir höön goor e gueter Ruef. — Was ich aw'r säuje will: wo fahlt’s dann Uch äu? — Ihr schyne m'r doch nit krank ze sin, od’r?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <p>Ich? Naan. — Gottsejdank ! — Mir fehlt nix. — Ich bin iewwerhaupt miener Lewe noch nie krank gsin.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Allewaj! — Do wär’ demnoch öijer Mann krank.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Mann?!? — Ich hab'ne doch jetzt schun e paarmal gsaat, daß ich noch Mamsell bin.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Ah jaso. — ’s will m'r halt gar nit in de Kopf. — Bie üns kannt m'r halt nix eso. —</p>        
+		  <pb n= '20' />
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(verlegen)</stage>
+          <p>Naan.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(lachend)</stage>
+          <p>Nix fer unguet! — Was fahlt dann öijerem Patron äijetli ?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(verlegen)</stage>
+          <p>Er het's im Kryz — — eijetli meh im Rückkroode.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Aha. — Isch'r schun alt.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Achtevierzig Jährle het'r.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja do, do isch halt bees Mahl an de Knöepfle in dane Johre. — Was het'r fer e Poschtür ?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <p>Er isch fascht e Kopf klaaner wie ich, un arig maawer schun e Zyt here.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Gröiji Hoor het'r äu schun, nit wohr ? Simselewim; Gröiji Hoor? — Naan, die het'r schun lang nimmi. — Er traat e Bluttkopf, e veritawler Bluttkopf.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Hm. — Soso. — Un, wo wohne-n-'r dann?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Im Gerwergrawe Numero 258 im Hinterhüs.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Soso. — Naja, m'r welle-n-emole sahne, was sich do mache loßt. <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Kummt jetzt d' Schloofere ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Nee, die isch dert driewe. — <stage>(weist nach rechts.)</stage></p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Sie kummt aw'r doch au bal ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Aw'r sicher. <stage>(Es klopft zum zweitenmale.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Harräin! <stage>(Dissi tritt mit einer komisch wirkenden Verbeugung durch die Mitte ein.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 4. Szene. </head>
+        <stage> Chrischtian. — Mlle. Simselewim. — Dissi.</stage>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Bonjour bisamme, hawi gsaat.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Simfelewim: } Bonjour monsieur!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Dissi isch miner Name, Dissi. — Ich kann aw'r nix d'rfüer. — D' Hauptsach isch, wenn ich do räecht bin bie d'r Schloofere ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Ihr sin nit latz geloffe, Harr Dissi. — Rahme Platz! — Sitze-n-e weng!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Merci! — <stage>(setzt sich Mlle. Simselewim gegen- über.)</stage> — Wisse Sie, Madam Schloofere — —</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>D' Fräu Dokter... isch noch nit do, sie isch momantan noch dert driewwe. <stage>(weist nach rechts.)</stage></p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Diffi:</speaker>
+          <p>Ah so? — Pardon. — Was ich saawe hab welle: ich kann mich aw’r nit lang uffhalte, sunscht kriej ich de Anschluß nimmi mit'm Zug vun Strooßburri uff Wyrsche.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Numme ken Angscht, Ihr kreije noch de Zug vorem Letschte.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Isch d' Schloofere aw'r au sicher dhaame?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>D' Fräu Dokter... wurd glich kumme. — Wo fahlt's Uch dann ?</p>
+          <pb n= '22' />
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Ich weiß's selwer nit, un kaan Dokter-findt ebs, un doch bin ich krank.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>M'r däet aw'r nit maane, daß Sie krank wärde.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Worum ? — Wiel ich de Kopf nit henke loß? — Solang m'r zell nit helft, traa ich 'ne frank un frey in d'r Höeh, allem Wind un Wetter üsgsezt. — Wäeje was v’rzwiefle? — Solang d'r Mensch schnüüfe kann sell'r d' Hoffnung nit v'rliere.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Höön'r als Weh?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Weh? Abah, 's isch kaan Weh dirrekt, 's isch aw'r au kaan — — enfin, dies isch's jo ewwe — — 's isch als manischsmol e Gfüehl, ich weiß nit wie ich's bschriewe sell un was ich d'rzü saawe sell. — ’s macht mich so nieddergschlaawe manichsmol, so v’rdrießli un maßleidi, daß ich doch trotzallem tatsächli e manichsmol schun am liebschte nüs wär’ wo kaan Loch isch.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Do sin'r ewwe gemüetskrank.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Naan, ’s Gemüet isch gsund. Ich glaab ehnder ’s mueß im Bluet leje.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Im Bluet. — Hm. — ’s isch möejli. — Na, dies finge m'r schun. — Jetz will ich aw'r doch emol löije, wo d' Fräu Dokter isch. — Ihr exküsiere mich doch e weng?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Simselewim: } Jaja.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>M'r sin glich do. <stage>(ab rechts.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 5. Szene. </head>
+        <stage> Mlle. Simselewim. — Dissi.</stage>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Pardon, monsieur, Sie kumme mir so bekannt vor?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>’s kann sin, denn ich hab langi Johre in Strooßburri gewohnt.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Gelte Sie?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <p>Un wenn m'r nit wäejenem neje Boulevards mini Kräätz sozesaawe iewerem Kopf zammegerisse wär worre, ze dhäet ich hyt noch drinne wohne.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Sehn Sie? — Wo han Sie denn do gewohnt ghet, wenn m'r fröije derf ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Im Stampfgässel.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(naserümpfend)</stage>
+          <p>Uh, in dem v'rruefene Quartier ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(erstaunt)</stage>
+          <p>V'rruefe? — Do isch mir nyx bekannt devun. — au contrair, in dene zwölf Johr wie ich drinne gewohnt hab, han daadäejli d' beschte Familje drinne v'rkehrt. Un, merkwüerdiger Wies : do wo d' Läde am kääbschte zü sin gsin, sin d' meischte Lyt üs-un-in gange. — Un luschti un amesant mueß's dert drinne als zügange sin. — Gelächter, Gsang un Mandolinemüsik alle Nacht bis in de Daa nin. Obdach- losi Maidle selle in dene Hieser gewohnt han, Maidle wie kaan Unterschlupf, kaan Heimet un kaan Familie meh ghet han, aw'r e deschto gröeßerer Bekanntekreis. Un, wie gsaat, als Bekannti üs de beschte Familje.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(naserümpfend)</stage>
+          <p>Maane Sie ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Wenn m'r emol zwölf Johr in aam Hüs wohnt, ze wurd m'r doch minsex wisse, mit wem daß d' Noochberschaft v'rkehrt! — Hein? — Od'r maane Sie nit?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(schnippisch)</stage>
+          <p>'s kummt halt druff an, je noochdem wie m'r sich fer so Vorgäng intressiert.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>So? — Na, ich saa Ihne: wenn Sie in minere günschti geläejene Wohnung gewohnt hätte, ze hätte Sie au e manchsmal hinterem Umhängel nüs ins Gässel gelinzt, viellicht noch meh wie ich.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(entrüstet)</stage>
+          <p>Aw'r monsieur — — —</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Pardon, ich red üs Erfahrung. — Un die Erfahrung hawich in dene zwölf Johr gemacht: die Lyt, wie am meischte d' Nas gerümpfelt han, die han nie genuej könne gickle un genuej könne sehne, un anderi wied'r, wie ganz elend iewwer d' Schamlosigkeit un d' V'rworfeheit vun ere gewisse Sort Wybslyt los- gezöije han, sin am stärkschte in unser Gässel kumme ze springe! — Ja, so isch's halt emol. — Mir kann Niemeds ebs v'rzähle! — Ich weiß Bscheid!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(tief aufseufzend)</stage>
+          <p>Ja, d' Welt isch schläecht un v'rdorwe hytzedaas.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Pardon, Madam, d' Welt nit, d' Lyt. Wieviel isch nit schun gepreddit un gschriewwe worre iewwer „Die Heiligkeit der Ehe!“ — Ja do, dü liewer Alle- daa! — Do hyroothe Zwei, schwöere sich am Altar vor Gott un de Mensche ewigi Trey, loon vier Wuche lang fünf grad sin — bis am e scheene Daa dies Lewe ze langwieli wurd, un e gewirfelter Hüsfrind fer angenehmi Abwechslung sorje mueß. — Dies heißt m'r no e drejeckeds V'rhältnis. — Dies V'rhältnis bringt Lewe in d' Büdick. Hiewwe wie driewwe. Bis am e scheene Daa im guete Schorsch d' Auue uff gehn. No isch d'r Krach ferti. — D'r Anfang isch aw'r gemacht gsin, un d'noo geht's halt au so wyttersch, denn, wenn emol's Kätzel e Begriff vum müüse het, ze kann's ’s nimmi miede. — Un wie kummts d’rnoo? — Geht „sie“ räechts nüs, ze geht „er“ ewwe links nüs! — Was in Aam räecht isch, isch im Andere billi! — Uff die Art kann d'rnoo au kaans im andere meh ebs vorschmisse.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(etwas verlegen)</stage>
+          <p>Un d'r Hüsfrind ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(höhnisch auflachend)</stage>
+          <p>Haha! — D'r Hüs- frind! — Wenn der nimmi ins Hüs derf kumme, ze bliet'r doch noch bis in d' Hälft Frind. — Ze was het m'r denn d' Poscht, de Telephon un d' rote Radler?! — Wenn Zwei zammekumme welle, ze finde se sich! — Sehn Se, dies isch e Bild vun dem viel- gerüehmte „heilige Ehstand“. — Do halt' ich bal noch meh vun dene, wie bienand hucke wie d' Spatze. — Pardon, Madam, Sie sin doch ghyrooth ?</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(verlegen)</stage>
+          <p>Ob ich — — — ob ich v’rhyrooth bin ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <p>Ja? <stage>(Lautes Gelächter erschallt aus dem Zimmer rechts.)</stage></p>
+		  <pb n= '26' />
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(erleichtert aufatmend)</stage>
+          <p>Endli schient emol Jemand ze kumme. <stage>(steht auf.)</stage> <stage>(Durch die Türe rechts treten Mariann und Chrischtian laut lachend ein.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 6. Szene. </head>
+        <stage> Dissi. — Mlle. Simselewim. — Mariann. —  Chrischtian.</stage>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(noch unter der Türe)</stage>
+          <p>M'r welle-n- emole sahne war Raacht het, Dü od'r ich? — <stage>(zu den Uebrigen)</stage> So, do warde m'r jetzt. <stage>(vorstellend)</stage> D' Mamsall Simselewim. — D'r Harr Dissi — D' Fräu Doktere.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(welche in stolzer, majestätischer Haltung  hereingerauscht kam, herablassend)</stage>
+          <p>D' Schloofere. <stage>(Dissi und Mlle. Simselewim verbeugen sich respektvoll.)</stage></p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(lächelnd)</stage>
+          <p>Jetz mueß ich hyt noch e Extra- Sitzung maache.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(äußerst devot)</stage>
+          <p>Sie muehn exküsiere, Frau Dokter, ’s het sich aw'r absolüma nit anderscht inrichte loon.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(sich mehrmals verbeugend)</stage>
+          <p>Exküse, Frau Dokter, ’s isch bie mir ’s nämli. — Wenn m'r halt allewiel mache könnt, wie m'r grad wott — — —</p>
+          <pb n= '27' />
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(gnädig abwinkend)</stage>
+          <p>Reje-n-Uch numme nit uff d'rwaje. — Wann d' Pflicht rueft, hawich äinfach ze kumme.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Zall mäin ich doch äu! — Wann d' Pflicht rueft, ze sin mir do! — Mittle-n-in d'r Noocht, wann's müeßt sin! — Un züdam: Ihr Zwäi kumme nit elläin, ’s kummt noch Jemeds.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p/>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>} Noch Jemeds? Mariann? Ja ’s het sich noch Jemeds fer hyt Owe oongemaldt.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>E Harr üs Strooßburri.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(freudig)</stage>
+          <p>Na, do hawich jo Reise- begleitung genuej uff d'r Haamfahrt ?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(lachend)</stage>
+          <p>Aw'r sicher !</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(zu Chrischtian)</stage>
+          <p>M'r welle oonfange. <stage>(setzt sich ziemlich umständlich, mit gewählter Pose nieder.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Äij jo. — <stage>(mit wichtiger Miene zu den Übrigen.)</stage> — Jetz e weng stille, wann ’s beliebt, orig stille. <stage>(Dissi und Mlle. Simselewim verfolgen mit an- gehaltenem Atem gespannt den sich nun abspielenden Vorgang.)</stage> <stage>(Chrischtian stellt sich vor Mariann, schaut derselben mit starrem Blick in die Augen, erhebt beide Hände, und spricht langsam in befehlendem Tone.)</stage></p>
+          <pb n= '28' />        
+		</sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Mariann, nimm oon de Bann! Hilf de Lyt üs ihrer Not! Jäuej ewack, was sie bedroht! Riß se üs d'r Angscht un Sorje! Maach se gsünd von hyt uff morje! Hilf, wo kener halfe kann! Ingersuech die Lyt, Mariann! Äins — — zwäij — — un drej!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(läßt langsam die Augen zufallen)</stage>
+          <p>Jetzert!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(flüstert)</stage>
+          <p>Schlooft se?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Aw'r sicher !</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Herrjesses, ’s wurd m'r jo ganz Angscht!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Bscht, stille jetzt. — Do, setze-n-Uch uff dene Saasel. <stage>(Mlle. Simselewim, am ganzen Körper zitternd wie Espenlaub, nimmt Mariann gegenüber Platz. — Chrischtian setzt sich hinter den Tisch, und notiert die Antworten seiner Schwägerin eifrig auf die Blätter des Rezeptblocks.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Mariann, geh uff Strooßburri.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(nach kurzer Pause)</stage>
+          <p>Ich bin derte.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Geh in de Garwergrawe Nümero zwäihündertoochtefuffzig, ins Hingerhüs.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(nach kurzer Pause)</stage>
+          <p>Ich bin derte.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Was siehsch Dü derte?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(eintönig)</stage>
+          <p>Ich sieh e kläins Mannele — ar geht e weng gebuckelt — — ar isch arig, arig mäuejer — — — müäuejer wie e Baachschyttt — — — d'r Kopf vum glanzt wie e Tomat — — aw'r — — ar het's im Kryz — — — harrjesses, wie het’s dar Mann im Kryz! Simselewim <stage>(erschauernd)</stage> : Aw'r, Aw'r, Aw'r!</p>
+          <pb n= '29' />
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Bscht, stille! — Mariann, was kann dam Mann halfe ?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Dar Mann het Waaser inger de Rippe, grood wie ünserer Gückelhahn. — Ich sieh's jetz göönz genäu. — Do mueß m'r Plapperrose, Vejlotte, Äiche- rind, Furkekrütt, Zimmet, Brunsblueme, Kanztistriewel- blatter, Süürampfer un Baredrak im e Liter Malaga vonsetze, vierzehn Daaj uffem Feenschtersimse in d'r Sunn stehn loon — — — Dissi <stage>(schüchtern)</stage> : Wenn aw'r kaan Sunn schient ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Hesch ghöert, Mariann : wann aw'r ken Sunn schient ?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>No muß dam Mann sini Hüshaltere z' noochts die Budall mit ins Bett nahme un d' Füeß droon stelle. <stage>(Dissi schaut Mlle. Simselewim vielsagend von der Seite an.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Un wie lang jo?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Bis dar Tee oonfangt ze gahre. D'rnoo friejt d'r Patiant alle Däuej zmorjeds nüechtere e Schnapsglasel voll vun dare Essanz ze trinke. — Dies butzt.</p>
+          <pb n= '30' />        
+		</sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <stage>(reißt das beschriebene Rezept vom  Block ab und überreicht dasselbe der Mlle. Simselewim.)</stage>
+          <p>So — voilà — do steht Alles drowwe.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(schüchtern)</stage>
+          <p>merçi bien. — Was koscht's ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>D’ Visit fünf Mark. — Fer de Jewwer- rascht giebt Uch d'r Drogischt schun d' Rachnung. Sinselewim: D'r Abbedeeker, nit wohr ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Nee, d'r Drogischt. — D' Adraß steht uffem Rezapt.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Wenn's numme-n-au hilft ums Himmelswille.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ob's halft? — Ha ! — E kranks Roß daat jo vun dam Tee gsüünd ware! — So, Harr Dissi, jetz kamte Ihr an d' Räihj. — Ihr könne noch e weng dobliewe, Mamsall Simselewim. — Sitze grood dert hingere. — <stage>(geschieht.)</stage> — Un ihr, Harr Dissi, Ihr sitze jetz do hare uff dene Saasel.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Sapperment, ich bin jetz so v'rschameriert, daß mich d' Füeß bal nimmi traawe. — <stage>(setzt sich auf den ihm angewiesenen Stuhl.)</stage></p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Dies läijt sich schun wied'r. — Mariann, was fahlt dam Mann?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Dar Mann het Würm.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(schüttelt sich fröstelnd)</stage>
+          <p>Brrrrrr! — Würm?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Bscht, stille! — Wo sitze die Würm ?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Die Würm sitze uffem Mäuejebodde.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(jammernd)</stage>
+          <p>Oh, oh, oh!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Bscht, stille, stille, stille! — Mariann, isch dies Alles? —</p>
+		  <pb n= '31' />
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Nee, ar het noch Dupfe an d'r Lawer, Stäinle in d'r Gall, Kalkstoff im Bluet, Waaser im Hirn, un e viehmaaßis Loch im Maschtdarm.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(jammernd)</stage>
+          <p>Oh, oh, oh! — Ken Wunder, daß ich d'rnoo als eso randswies krank bin.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Bscht, stille! — Mariann, was hilft dam Mann?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Ich bin im e Wald, — Do sieh ich e blöiji Bluem. — Dies isch Majoran. — Un d'rnawe wissi Ardbeerblüemele. —- Dies nimm ich mit häim, setz's mit Ochsezungekrütt, Mannstrejkrütt, Schwarzdorn- bluescht un Söijbohneschiffle in ere Schissel oon, schitt e Liter haller Malaga driewwer, loß's nyn Daaj lang in d’r Sunn vorem Feenschter stehn, daß's zammezehje mueß. — D'rnoo wurd's oogschitt un jede Däuej e Aßlöffel voll vorem Zowenasse inggenumme.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(immer eifrig notierend)</stage>
+          <p>Ich dies Alles ?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>No mueß dar Mann äu alle Wuch bade. Dod’rzü brücht m'r Ackerschacht, Schwalbwurzel, Walschkornwurzel, fuffzig Gramm, e Hampfel jedsmol ins Waaser kehjt, un am Sundimorje äinmol bade. <stage>(Es klopft.)</stage> Mariann; entréz!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(gibt ihr unbemerkt rash einen Stoß)</stage>
+          <p>Harräin! <stage>(Schlöijele tritt durch die Mitte ein, und fixiert die Anwesenden scharf.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 7. Szene. </head>
+        <stage> Chrischtian. — Mariann. — Mlle. Simselewim.  Dissi. — Schlöijele.</stage>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <p>bonjour.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p/>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Simselewim: } bonjour.</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <p>Do kum ich glaawi grod erräecht ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Ja, m'r höön grood Sitzung. <stage>(reißt das beschriebene Rezept vom Block und händigt das- selbe Dissi aus.)</stage> — Fünf Mark. — De Tee biem Drogischt hole. — So, monsieur, Ihr könne glich sitze. — Ihr sin doch d'r Harr Schlöijele?</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Ja, der bin ich.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <stage>(das Portmonnai durchsuchend)</stage>
+          <p>Fünf Mark, nit wohr?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Warte noch e weng, ’s isch glich gschahne. — Sitze noch e weng dert hingere. <stage>(geschieht.)</stage> Wo fahlt's dann Uch, Harr Schlöijele ?</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Dieß wurd doch hoffetli d' Schloofere erüsfinde könne? Od’r nit?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Salbschtv'rstandli kann se dieß. — Mariann, was fahlt dem Mann?</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Dar Mann het alli siewwe Harzfahler. — Ar het blöiji Narve, wissi Dupfe än d'r Milz, gaal Waaser im Büch, schwarzi Klötzle im Bluet, un isch nit raacht im Kopf.</p>
+          <pb n= '33' />
+		</sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Ich dies Alles ?</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Fahlt noch ebs? Schhlöijele : Naan ’s langt fer e Düür. — Ich hätt’ numme noch ze erkläre, daß ich gsund bin wie e Eichel, un daß mir au nit e Krimmele fehlt.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(schnellt erbost vom Stuhl in die Höhe)</stage>
+          <p>Ja was welle n-'r dann d'rnoo do, wann Uch nix fahlt?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(mißt ihn mit zornfunkelnden Augen)</stage>
+          <p>Ja, was welle-n-'r dann d'rnoo do?!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <stage>(scharf)</stage>
+          <p>Was ich do will? — D' Larv will ich Ejch Zwei emol vum Gsicht risse! — ’s Hand- werk will ich Ejch emol leije! — D' Quacksalwerej will ich Ejch emol v'rtriewe! — Ejere Schwindel will ich emol vor aller Welt uffdecke! — So, jetzt wisse-n-’v ’s! — Wäeje dem bin ich do here kumme!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(schreit)</stage>
+          <p>Ihr sin e Wolf im Schafspelz!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(schreit)</stage>
+          <p>Was ischer?! — E fracher, unv'rschamter Gascht isch'r ! — E Kunkürrant isch'r! — E Schwindler isch'r! — E Löijebittel !</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <stage>(öffnet rasch seine Jacke, und weist auf die  Legitimationsmarke)</stage>
+          <p>Kriminal-Abteilung Straßburg!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Herrjesses! — Frau Dokter, do sin mini fünf Mark! <stage>(will bezahlen.)</stage></p>
+		  <pb n= '34' />
+
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(den Kriminalschutzmann wie geistes-  abwesend anstarrend)</stage>
+          <p>E V'rdeckter!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <stage>(lacht gezwungen auf)</stage>
+          <p>E V'rdeckter ?! — Hahaha! — Ach, Ihr wotte e V'rdeckter markiere ?! — Na, höere, mich maache-n-'r nit zingerschtzewwerscht! — Nee, noch lang nit! — Un dies will ich Uch glich im Vorüs gsäit höön: uff Oijere Plapper isch Uch gebloose un gepfiffe! — So e Blachgschirrel kann sich jeder Simpel oonhanke un kann säueje: Kriminal Abtäilung- Straßburig!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Ganz mini Maanung. — Wisse Sie au, monsieur, fer was daß ich Sie anlöij?</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Ja? — Fer was?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Fer e Köpeniker !</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Un ich Sie, mit V'rlaub, fer e vieh- mäßigs Kameel, die Madam dert fer e — — — räecht ansältigi Person — — — un Ejch Zwei fer e ganz gemaangfährlis Schwindler- un Betrüejerpack !</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(drängend)</stage>
+          <p>Frau Dokter, do sin mini fünf Mark!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <p>E viehmäßigs Kameel, saat der mir?!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>E Schwindler- un Betrüejerspack sin mir ?! — Chrischtian, dieß losch Dü Dir biete?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Räich m'r de Ochsewaddel hinger d'r Dhüer, aw'r danne mit'm Blejknopf!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Herr Dokter, do sin mini fünf Mark!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <stage>(rasch notierend)</stage>
+          <p>Fünf Mark.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>E Spritz voll Pfeffer in d' Nas, daß'm d' Auue iewwer laufe.</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Wie heiße Sie?!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Dies geht doch Sie nix an? Sclöijele: Ich fröij Se zem zweitemol, wie Sie heiße, un zwar im Name — — —</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Ach was! — Löij im Adreßbuech nooch wunderfitziger Satan! — Un züdem: bekümmer Dich nit um ungeleijti Eier, un zweitens: lehr’ Moral un Anstand, denn bis jetzt weisch schients noch nit, wie m'r sich in ere fremde Wohnung ze benemme het!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <stage>(kalt lächelnd)</stage>
+          <p>Sie allefalls schiene sich do hinne räecht heimisch ze füehle.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(schreit)</stage>
+          <p>Chrischtian, ich kann Dich goor nit v'rstehn, daß De dene Göijschaddel nit zingerscht- zewwerscht d' Staaj 'nooschmisch ! — Zügegriffe-n-emol! — D’ kurze Prozaß sin d' beschte! Chrischtian <stage>(schreit)</stage> : ’s Hüs süüfer gemaacht jetzt emol!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Sell ich 'ne an d'r Cravatt nemme?!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <p>Ich fröij Sie jetzt zem letschtemol: wie heiße Sie?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <stage>(will mit einem Stuhl auf Schlöijele  einhauen)</stage>
+          <p>Hündsknoche, elanger! — V'rreck!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <stage>(hat blitzschnell einen Revolver aus der  Tasche gezogen und auf Chrischtian angelegt)</stage>
+          <p>Halt!!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(schreit auf)</stage>
+          <p>Chrischtian !</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Jesses Chrischtes, Gottes Sohn, un Vadder!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <stage>(zu Chrischtian, welcher den Stuhl wieder  langsam sinken ließ)</stage>
+          <p>Kaan Mückser meh!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Diffi:</speaker>
+          <p>So e Unv’rschämtheit!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Reje Sie sich nit künschtli uff, Herr Dissi.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(überrascht)</stage>
+          <p>Wer saat denn Ihne mine Name ?</p>
+          <pb n= '36' />
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele :</speaker>
+          <stage>(überlegen lächelnd)</stage>
+          <p>Sie selbscht — — im „goldene Sterne“ d'vorne — — — wie Sie sich im Wirt vorgstellt han.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(knirschend)</stage>
+          <p>Sie sin e Filou!</p>
+        </sp>
+        <sp who="#hieronymus_schloijele">
+          <speaker>Schlöijele:</speaker>
+          <p>Noch Ihrer Uffassung. — eh bien, ihr Herrschafte, mini Mission isch erledigt, d'r Jewwerrescht kummt nooch. — Nix fer unguet. — Was m'r noch ze redde hätte mitnander, redde m'r später am e andere Platz. — D' Ynladung zem rendez-vous kummt nooch. — Bis dert anne: uff's Wiedersehn! — <stage>(ab durch die Mitte.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 8. Szene. </head>
+        <stage> Chrischtian. — Mariann. — Dissi.  Mlle. Simselewim.</stage>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Nee, so ebs!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>E Kryzmillionepfiffedeckel !</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Dieß gitt m'r e netti Gschicht!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Ich bin ganz krank vun d'r Uff- rejung. — Do sin mini fünf Mark.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>Loon numme ’s Gald stacke.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(aufbrausend)</stage>
+          <p>Allewaj ?! — Worum nit goor?!</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <stage>(spitz betonend)</stage>
+          <p>Oh jeh! Ich will nix gschenkt.</p>
+          <pb n= '37' />
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Ich bezahl min Sach au.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(erbost)</stage>
+          <p>Mariann, Dü bisch e Simpel, e stiermaaßiger, daß ken gröeßerer meh uff d'r Harrgotts- sunnewalt erumläuft.</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(die Situation erfassend)</stage>
+          <p>Wieso?! — Worum?! — Ihr höön mich allewaj Alli latz v'rstange. Was ich gsäit hab, dieß het soviel selle häiße aß wie: m'r ware doch Uch ken Gald oonahme selle uff die Unmueß anne?!</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(erleichtert)</stage>
+          <p>So mäin ich's doch äu!</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <stage>(schiebt sein Portemonnai wieder in die  Tasche)</stage>
+          <p>Wenn's eso raucht, dieß loß ich m'r gfalle.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim :</speaker>
+          <p>merçi au vielmole.</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <p>’s isch nit d'r Warth! — Was ich säueje will: wann aw'r jetz dar Blejele mit üns tat- sachli vor's Güvarlema geht, was no?</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Was mine Person anbelangt, mich het'r gereizt. — Was ejch betrifft — — — —</p>
+        </sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian:</speaker>
+          <stage>(lauernd)</stage>
+          <p>Üns betr als Schwindler erklart.</p>
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Na, ich bring ejch e paar hundert Zeje, wie grad ’s Gejedhaal bhaupte.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Un ich bsorj e Million Zeje, wenn's mueß sin!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(wischt sich eine Träne aus dem Auge)</stage>
+          <p>Nit wohr, wann m’r ’s guet mäint mit d'r Menschhäit, wann m'r an d' Regierung un an d' Gemäin e himmel- hohi Lisanz bezohlt, wann m'r de Fremdev'rkehr halft in d' Höeh triewe, was doch äu wied'r d'r Räichs- yseboohn de Galdbittel fillt, no wott m'r äim noch d' Gurjel züdrucke owedring.</p>
+          <pb n= '38' />
+        </sp>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi:</speaker>
+          <p>Numme kaan Angscht, Frau Dokter, sowyt sin se noch nit! — Do wäre m'r vor alle Dinge au noch e Wörtele mitredde.</p>
+        </sp>
+        <sp who="#mlle_simselewim">
+          <speaker>Simselewim:</speaker>
+          <p>Un ich, mini ganz Frindschaft un Bekanntschaft, un noch viel Anderi au. - V'rloon Sie sich druff! — Ich kenn’ die Lyt, wie bis jetzt allewiel numme Guets iewwer Sie üsgsaat han, wie Felse uff Sie böije däete, wie numme mit allex Hochachtung vun Ihne un vun Ihrer Kunscht vedde, un wie Sie bie Gott un d'r Welt, bie jedere Geläejeheit, mit Fyr un Flamm warm anempfehle! — V'rloon Sie sich druff! — Adje bisamme! <stage>(ab durch die Mitte.)</stage></p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann:</speaker>
+          <p>Chrischtian } Adje Mamsall Simselewim!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 9. Szene. </head>
+        <stage>(Chrischtian. — Mariann. — Dissi.</stage>
+        <sp who="#meurs_dissi">
+          <speaker>Dissi :</speaker>
+          <p>Ja, ich will jetzt au gehn. — enfin, wie gsaat, Sie brüche nix ze fürchte, un Sie han nix ze reskiere. — Loon se numme kumme, loon se numme prozesse, m'r welle'ne de Pelz schun warm mache. — V'rloon Sie sich druff! — Adje bisamme! — <stage>(ab durch die Mitte.)</stage></p>
+          <pb n= '39' />
+		</sp>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <p>Mariann} Adje Harr Dissi!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 10. Szene. </head>
+        <stage>(Chrischtian. — Mariann.)(Beide schleichen an die Mitteltüre, und horchen  gespannt nach den sich entfernenden Schritten. Nach  kurzer Pause lachen sie belustigt auf.)</stage>
+        <sp who="#dr_buejuckels-chrischtian">
+          <speaker>Chrischtian :</speaker>
+          <stage>(lachend)</stage>
+          <p>Na, was säesch jetzt?!</p>
+        </sp>
+        <sp who="#s_gassenhansels-mariann">
+          <speaker>Mariann :</speaker>
+          <stage>(in stolzer Pose mit siegesbewußter Stimme)</stage>
+          <p>Kann's kumme wie's will — selle se dewwere un pfüttere wie sie welle — selle se schikaniere, demon- striere un mobilisiere — mir höön nix ze reskiere! — Chrischtian — Schwöijer — merk' D'r dieß: solang die Sort Lyt nit üsstarbt, blüehjt ünsere Wäize noch wyttersch!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

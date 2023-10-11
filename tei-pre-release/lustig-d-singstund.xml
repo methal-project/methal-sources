@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Drei schwarze Liebschafte</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-110"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Drei schwarze Liebschafte</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_tannezapfe" sex="M">
+            <persName>Herr TANNEZAPFE</persName>
+          </person>
+          <person xml:id="herr_schluch" sex="M">
+            <persName>Herr SCHLÜCH</persName>
+          </person>
+          <person xml:id="herr_gager" sex="M">
+            <persName>Herr GAGER</persName>
+          </person>
+          <person xml:id="herr_papegai" sex="M">
+            <persName>Herr PAPEGAI</persName>
+          </person>
+          <person xml:id="marie" sex="F">
+            <persName>Marie</persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_tannezapfe">
+          <role>
+            <persName>Herr TANNEZAPFE</persName>
+          </role>
+          <roleDesc>Rentner</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_schluch">
+          <role>
+            <persName>Herr SCHLÜCH</persName>
+          </role>
+          <roleDesc>Kàmifeger</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_gager">
+          <role>
+            <persName>Herr GAGER</persName>
+          </role>
+          <roleDesc>"</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_papegai">
+          <role>
+            <persName>Herr PAPEGAI</persName>
+          </role>
+          <roleDesc>"</roleDesc>
+        </castItem>
+        <castItem corresp="#marie">
+          <role>
+            <persName>Marie</persName>
+          </role>
+          <roleDesc>Käche vom Herr Tannezapfe</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Marie, derno Schlüch.</stage>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(rechts bi dr Thüre vom zweite Plan rieft üse)</stage>
+          <p>Mache-n-ass Ihr jetz emol furt kämme, Schlüch!...</p>
+          <p>Gott, wie thüet mich dà Mensch efange-n-agaciere!...</p>
+          <p>Güet, jetz thüet er si schwarze Nase noch in mi hintere
+                        Kochhafe stosse... höre-n-Ihr denn nitt, ass dr Herr
+                        dert in sim Zimmer isch un sich alegt... fahre-n-ab
+                        jetz, nitt ass er I hit scho wieder do atrifft, er ka
+                        wohl denke, ass mi Kàmi nitt alle Tag z'putze-n-isch...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse, links)</stage>
+          <p>Marie!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Höre-n'-r!... dr Herr, wo mr rieft...<stage>(antwortet)</stage></p>
+          <p>Was b'liebt, Herr?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>Wo hasch mine Hosetràger ane tho?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ihre Hosetràger, Herr...<stage>(fir sich)</stage> sine Hosetràger wo
+                        känne jetz sine Hosetràger si?<stage>(lüt)</stage> Aha, se sin <pb n="9"/>in dr
+                        Zuckerbichse, Herr...<stage>(wàhrend ass se antwortet' links,
+                        kunnt dr Schlüch ine, rechts, zweiter Plan, un hat in
+                        jeder Hand e Kochläffel un schlàckt se-n-ab)</stage> So! jetz
+                        versüecht er noch mine Sauce... Wenn dr Herr Tannezapfe
+                        das thàt sàh...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Eüer Herr, Marie, Eüer Herr Tannebibele.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Zapfe...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Eüer Zapfe, das isch mir doch eithüen, wo-n-Ihr alles
+                        mit em mache, was Ihr wànn... er hat jo ne kurz
+                        G'sicht, Ihr sage-n-em, ich sei's Wiehnàchtskindle,
+                        wenn er kunnt, awer er isch jo erst an de Hosetràger, i
+                        ha dr Zit... nur noch e Wort, Marie...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Awer gschwind e wenig!...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Grad ha-n-i d'Kuche ne wenig g'mustert, als Kàmifeger
+                        ha-n-i 's Fir untersüecht... awer als Mensch wott i
+                        gern wisse, was dert hinte ne so güet's druf brotet?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>'isch e welscher Hahne...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Kännt' ich em nitt e wenig Milhüserditsch lehre im Platz
+                        vo Eürem Herr?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Awer Schlüch! Ihr sin doch züe àrg verfresse!...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>I müess es gsteh... Pardon, noch ebbes...</p>
+        </sp>
+        <pb n="10"/>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>G'schwind, g'schwind, g'schwind.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>I ha ebbes versüecht, wo dert mischotiert im e Hafe uf
+                        em Ofe, was mag das si?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ah! un wie finde-n-ihr das Ding?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Fin, delizios!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <p>Das isch Caout wie dr Kückücks sàit em doch dr Herr
+                        wieder? Caout... Caout...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Chouc... Caoutchouc...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, i glaüb; der Herr hat das Ding kaüft.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(mit Verwunderung)</stage>
+          <p>Ne Caoutchouc-Suppe?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Dr Herr sàit, 's thàt eim feist mache... Das wàr nit fir
+                        Eüch, Schlüch, Ihr kännte sunscht nimm in d'Löcher
+                        schlupfe!...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>'s isch doch sunderbar, was me-n-efange mit em
+                        Caoutchouc macht!....</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Madame Angot)</stage>
+            <l>Mit Caoutchouc ka me mache,</l>
+            <l>Was d'Aüge nur wànn sàh,</l>
+            <l>Nitt nur allei Spielsache</l>
+            <l>Ka-n-er de Kinder gà,</l>
+            <pb n="11"/>
+            <l>Make sich omit kleide noch,</l>
+            <l>Me macht Strumpfbàndel mit,</l>
+            <l>Un sunst so Dings, das alles doch</l>
+            <l>Isch g'macht vo Caoutchouc hit!</l>
+            <l>Un die Sache alle z'sàmmme <stage>(bis)</stage></l>
+            <l>We me se nimm brüche thüet,</l>
+            <l>Ka me jetz in d'Kuche nàmme,</l>
+            <l>'s isch noch fir dr Hunger güet.</l>
+          </lg>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(nimmt 'm sine Läffel)</stage>
+          <p>Zeige, fahre-n-ab jetz in d'Halle, Ihr kämme wieder,
+                        wenn dr Herr furt isch...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Geht er furt?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Glich, wie-n-er z'Nacht g'gesse hat... er geht in's
+                        Concert... un wenn Ihr brav sin un jetz gli geh'n, so
+                        versprich i Eüch e-n-Iwerraschung, wenn Ihr z'ruck
+                        kämme.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Bekumm i e Stätzle vom Hahne?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Besser noch... dr ganze Hahne un dr Caoutchouc noch
+                        drzüe....</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Was! 's Nachtesse vo Eürem Herr?... o Marie, wenn Ihr
+                        das mache, so hirothe mr vierzeh' Tàg frieiher, ich
+                        gang gli Morn uf's G'meinhüs, fir is lo aschlage.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>G'wiss?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>Marie!</p>
+        </sp>
+        <pb n="12"/>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Was b'liebt, Herr?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>I find' mine Hàndschig niene.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Bigr! er isch scho an de Hàndschig... jetz isch's glaüb
+                        Zit, Pech z'kaüfe. I will noch g'schwind geh' ne Kàmi
+                        putze, derno kumm i wieder, wenn i denk ass er furt
+                        isch...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>Awer Marie...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(züem Schlüch)</stage>
+          <p>Gehn denn emol!</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Adie.</p>
+          <stage>Er geht hinte-n-üse, rechts. 's Marie thüet d'Läffel
+                        uf's Tischle rechts.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Marie, Herr Tannezapfe.</stage>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>So, jetz isch er emol furt!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(kunnt ine dur d'zweite Thüre rechts)</stage>
+          <p>He, Marie... ah! de bisch do Màgdle. Ich ha Dr g'rüefe,
+                        hasch mi denn nitt g'hört?<stage>(Er legt si Stock, si Hüet
+                        un sine Hàndschig uf dr Tisch.)</stage></p>
+          <pb n="13"/>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich ha 's G'hör halt e wenig härt...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wenn nur Di Herz nitt so härt isch, as wie 's G'hör.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Wo will das üse, Herr...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Zeig, Marie, bisch doch nitt so spröd, ich bi jo ledig
+                        un ha ne ziemlig rund Vermöge, wie De weisch...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, awer Sie lehn sich allewil iwerschwàtze vo Ihrer
+                        alte Cüsine, d'Madame Ribise, wo Ihne ne Last Dummheite
+                        verzehlt iwer mich...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Was frogsch cloch Dü no miner Cüsine un no dem, was sie
+                        sàit, Marie!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Oh! ich ha nit z'ferchte, ich bi ne brave Person.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich weiss es, wege dem g'fallsch mr eso... denk' nur,
+                        alle-n-andere Käche, wo-n-i g'ha ha vor Dir, hàn
+                        Liebster g'ha...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ah!...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Soldate-n-un so Dings...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Oh! pfui!</p>
+        </sp>
+        <pb n="14"/>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>O bi-n-i als gli fertig gsi mit Ihne : mi Cüsine hat als
+                        nog'frogt iwer se un wenn i 's G'ringste g'sàh' ha, so
+                        ha-n-ise vor d'Thüre g'stellt Nümero eis! Awer, Dü,
+                        Marie, Dü bisch brav...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Uf jedefall, Herr, bi-n-i brav, un wenn i mr wott lo dr
+                        Hof mache vo Eim, so wàr's nur fir dr bon motif...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Heisch Dü d'Hiroth dr bon motif?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Natirlig, Herr, was meine Sie denn?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Dü hasch ganz recht, Marie, doch möcht i jetz z'Nacht
+                        esse</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz geht's los.<stage>(lüt)</stage> Z'Nacht esse! jà, jà, 's isch
+                        noch wit dervo, vom z'Nachtesse, dà Caoutchouc, da
+                        müess ewe lang koche.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wie sàisch, Caoutchouc?... Racahout witt sage... 's isch
+                        schint's excellent, das Ding, fir d'magere Lit, 's
+                        füllt e wenig d'Ecke-n-üs... i ha's vom e-n-alte
+                        Schüelkamerad, wo-n-i gestert atroffe ha... dà ha-n-i
+                        gar nimm kennt, sa dick isch er worde, 's isch wohr, i
+                        ha-n-en scho vierzig Johr nimm g'sàh g'ha, un das hat
+                        er im Racahout z'verdanke...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ass Sie-n-en scho sa lang nimm g'sàh hàn, Herr?</p>
+          <pb n="15"/>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Nei, ass er so dick worde-n-isch... Dü serviersch mir
+                        jetz alle Tag dervo, Marie.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, Herr, awer e-n-andermol müess i frieiher afange
+                        koche, denn hit geht's allewil noch e Stund, bis Se
+                        känne z'Nacht esse.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Noch e Stund... das geht viel z'lang. De weisch, ass ich
+                        gern vorne sitz im e Concert, ass i d'Sàngere ka
+                        b'schaüe... Dr Boursesaal isch ewe lang un mi G'sicht
+                        kurz... ich möcht nitt z'spot ku.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>('s freit mi nitt ass das)</stage>
+            <l>Wenn ich in's Concert gang,</l>
+            <l>So b'sinn ich mich nitt lang</l>
+            <l>Un mach' mi glich ganz nooch derzüe,</l>
+            <l>Um dass ich alles höre thüe</l>
+            <l>O d'Sàng're zieh'n mich a,</l>
+            <l>Mehr as ich sage ka.</l>
+            <l>Wie wird's hit wieder lustig si,</l>
+            <l>I frei mi scho druf hi!</l>
+          </lg>
+          <p>Awer wege dem gieng ich doch nitt gern mit em leere
+                            Mage... Ich kännt awer eigentlig in's Restaurant
+                            geh' esse?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Endlig packt's jetz emol...<stage>(lüt)</stage> Jo, jo, ich glaüb, dr
+                        Herr thàt viel besser.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>C'est çà!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Awer Ihr Nachtesse, wo jetz uf em Fir isch?</p>
+        </sp>
+        <pb n="16"/>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich loss Dir's, Mariettle, stell mr nur e wenig Racahout
+                        z'ruck, fir wenn's Concert üs isch.<stage>(Er nimmt si Hüet
+                        un si Stock un geht.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, Herr.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ah! i ha doch g'wisst, ass mr ebbes fehlt! mine
+                        Brille... gang, hol mr se doch, denn die derf i nitt
+                        vergesse.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Sie brüche se jo nitt, Herr, Se hàn je Ihre Lorgnette.</p>
+        </sp>
+        <sp who="#herr_tahnezapfe">
+          <speaker>Herr Tahnezapfe</speaker>
+          <stage>(grifft sine Säck)</stage>
+          <p>Jo, 's isch wohr... un mi Hüsschlissel... i ha-n-en...
+                        güet, De brüchsch nitt uf mi z'warte.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Do sin Ihre Hàndschig.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Merci Mariettle.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Amüsiere Sie sich güet.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Oh, im Concert in dr Bourse ha-n-ich nie kei lange
+                        Zit.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich fir mi Theil gang liewer in dr Cercle... 's isch
+                        viel luschtiger dert.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(lüegt uf d'Uehre)</stage>
+          <p>Bol Siewene... i ha grad noch dr Zit, ane z'ku... i
+                        müess halt nochher z'Nacht esse... 's schmeckt mr derno
+                        desto besser... Adie, Marie...</p>
+          <pb n="17"/>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Adie, Herr...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(rutsch hi, rutsch her)</stage>
+            <l>'s isch d'höchste Zit,</l>
+            <l>Wenn Sie ne güeter Platz wànn ha,</l>
+            <l>Denn 's isch noch wit,</l>
+            <l>Drum g'schwind e Tràpple g'schla,</l>
+            <l>Ich wärm Ene derwilst Ihr Bett.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <lg>
+            <l>Dü kunnsch in's Testament, Mariett',</l>
+          </lg>
+        </sp>
+        <sp who="#marie #herr_tannezapfe">
+          <speaker>Beide.</speaker>
+          <lg>
+            <l>Doch jetz isch's Zit,</l>
+            <l>Denn 's isch misegs noch wit.</l>
+            <stage>(Herr Tannezapfe geht hinte-n-üse, links.)</stage>
+          </lg>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(allei, deckt dr Tisch)</stage>
+          <p>Endlig, i ha g'meint, er kunnt nitt furt!... Dà güete
+                        Herr! wenn er wisse thàt, ass sie Nachtesse g'rischtet
+                        isch un ass ich's verzehre will mit em Schlüch... 's
+                        isch halt, fir mi Hochzit z'avanciere... Dà Idee wàr in
+                        mine zwe erste, wo-n-i g'ha ha, nie iku... im Herr
+                        Gager üs dr Fresheweid un im Herr Papegài üs dr Cité...
+                        schöne Mànner, i müess es sage... awer Farceurs, wo
+                        glaüb eher im Mond wàre geh' d'Kàminer putze, ebb se mr
+                        vom Hirothe g'redt hätte... I ha miesse do ane ku züe
+                        der Giesserei üse, fir das z'finde... 's isch g'wiss
+                        possig, scho dreimol ha-n-i jetz dr Platz g'changiert
+                        un allemol hat, sich's troffe, ass e Kàmifeger dernàwe
+                        wohnt... was mir <pb n="18"/>gar nit g'macht hat, denn mi Herz hat
+                        vo jeher fir Kàmifeger stärker g'schla... zwei Sache
+                        b'sunders gfalle mr bi dere Sorte Lit... ihre wisse
+                        Zähn un ihre schrecklige-n-Aüge...</p>
+          <lg>
+            <head>G'sang</head>
+	    <stage>(müess i denn) bis.</stage>
+            <l>Schaüt mich e Kàmifeger a - feger a,</l>
+            <l>So klopft mr 's Herz von Freid,</l>
+            <l>Vor Lust ha-n-ich scho Gàns'hüt g'ha - Gàns'hüt g'ha,</l>
+            <l>Wenn Ein' mr ebbes sàit,</l>
+            <l>Un zeigt er erst noch sine Zähn,</l>
+            <l>Derno erst isch er schön,</l>
+            <l>Schäut mich e Kàmifeger a - feger a,</l>
+            <l>So kunnt mi d'Gàns'hüt a.</l>
+          </lg>
+          <p>So, jetz isch dr Tisch deckt, jetz wird mi dr Schlüch
+                        gli noch mache z'warte...<stage>(Me klopft a hinte, rechts.)</stage>
+                        Aha, do isch er... ich kenn 'n, er schmeckt vo zeh'
+                        Schritt scho no Rüess... Entrez!...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Marie, Gager.</stage>
+        <stage>(Gager kunnt ine, rechts.)</stage>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was sieh-n-i? mi Kàmifeger üs der Frescheweid!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Ah! do isch Se jo!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Herr Gager!</p>
+          <pb n="19"/>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Jà, dr Gager, dr unglicklige Gager! dass isch nitt schön
+                        vo Eüch, Jumpfer Marie!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Was denn?</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Ihr hàn g'wiss schlecht g'handelt gege mir... Ich, wo
+                        wàhrend drei Monet in Eüch ganz vernarrt gsi bi' wo fir
+                        Eüch in's engste Kàmi g'schlupft wàr, ich sieh' am e
+                        schöne Morge, ass Ihr furt sin üs Eürem Platz, ohne mir
+                        nur e Wörtle z'schnüfe dervo... Nun-de-bib noch emol!
+                        Ihr hàn Eüch g'wiss schlecht ufg'fiehrt gege mir...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich will's I expliziere, Herr Gager...<stage>(fir sich)</stage>
+                        Herrje, wenn der Schlüch jetz kunnt.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Tag un Nacht ha-n-i g'frogt und g'süecht un ha endlig
+                        erfahre, ass Ihr bi dr Giesserei hinte im e-n-alte
+                        Knochepeter sine Suppe koche, und do ha-n-i mi halt
+                        glich uf dr Weg g'macht, un do bi-n-i...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ohne mich z'preveniere...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Bi-n-i ebbe nitt recht ku, oder bi-n-i z'viel do?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Nei, awer...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Isch dr Alt viellicht e Hitzkopf?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich sag' nitt...</p>
+        </sp>
+        <pb n="20"/>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Marie, ich sieh scho, siter ass ich do bi, thien Ihr
+                        mich grad nitt mit Liewenswörtle iwerhiffe...
+                        Nun-de-bib noch emol!... Hat ebbe einer mi Platz ignu
+                        bi Euch?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Herr Gager!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Ah! jetz kunnt's mr... 's wird dà Kàmifeger üs dr Cité
+                        si, wo Eüch als vor mir dr Hof g'macht hat, wo mir
+                        schade thüet...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was, er weisst's?</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Ich kenn 'n nitt, awer ich will Achtung gà uf sine
+                        Manöver, und wenn i ne verwitsch do ummenander, sao hat
+                        er si letscht Kàmi üsg'rackelt...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Nu jo! wenn er dr Schlüch sieht...<stage>(lüt)</stage> das isch
+                        awer...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Kalt mach i ne, Nun-de-bib noch emol!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(geht rechts)</stage>
+          <p>Jà, worum denn mache-n-Ihr ne kalt, dà Mann? wil er
+                        ordentliger gsi isch as Ihr, un mir si Herz un si Hand
+                        offriert hat?</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Was, Ihr sin g'hirothe?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Eh bien, jà, i bi g'hirothe, un wenn Eüch mi Mann do
+                        atrifft...</p>
+          <pb n="21"/>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(salütirt)</stage>
+          <p>Ah! derno isch's ebbes anders... Do blibt mr nur noch,
+                        si Courage z'bewundere, wo-n-er g'ha hat,<stage>(fir sich)</stage> so
+                        ne Dummheit hätt Kein g'macht üs dr Frescheweid.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(thüet lose)</stage>
+          <p>Herrje! 's kunnt ebber d'Stege-n-ufe.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>'s isch viellicht Eüer Mann<stage>(dr Herr Papagài kunnt
+                        hinte-n-ine, rechts)</stage>. Was ha-n-i g'sàit?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>O je!... mi Feger üs der Cité...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Papegài.</stage>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ne Co... Colleg!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(lislig züem Marie)</stage>
+          <p>Ihr brüche kei Angst z'ha... I will I nitt
+                        compromettiere.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(lislig züem Papegài, ditet uf der Gager)</stage>
+          <p>Mi Mann!</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(lislig züem Marie)</stage>
+          <p>Eüer Ma... a... ann!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(lislig züem Papegài)</stage>
+          <p>Siter drei Monet<stage>(lislig züem Gager)</stage> Er isch nitt recht
+                        z'friede, ass Ihr do sin...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich glaüb's scho.</p>
+        </sp>
+        <pb n="22"/>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(lislig züem Papegài)</stage>
+          <p>'s geht 'm glaüb nur halwer, Eüch do az'treffe.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich dà... dà... danks wohl.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(in alle Beide lislig)</stage>
+          <p>Sin still... sin still...<stage>(lüt un wàhrend ass Beide sich
+                        dr Ricke kehre un sich nitt traüe alüege)</stage> Liewer
+                        Mann...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se thüet 'm e Bàre-n-abinde.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se losst en bla... bla... blaü alaüfe.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Dà Herr isch dr Cüsin, wo-n-ich Dr scho vielmol vo-n-'m
+                        g'redt ha...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi-n-en, dr Cüsin...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi dr Cü... Cü...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Er isch mr ku ne kleine Visite abstatte. 's isch</p>
+          <p>g'wiss 's erstemol. Dü sàisch nit?...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er isch we... we... wexiert.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was fir e Hundscharacter!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Dü brietelsch ebbes... ich kenn Di... De wirsch jetz
+                        glich in Zorn g'rothe un uf eimol wird's üsbreche...</p>
+          <pb n="23"/>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Bi-biger...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er isch in sim Recht... 's isch dr Mann .. . ich will mi
+                        üs em Staüb mache...<stage>(Er geht uf de Zeche gege dr
+                        Thüre).</stage></p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich gang a-ab...<stage>(Er macht 's Gliche).</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Güet!... se mache si dervo.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(voruse)</stage>
+          <p>Jetz kämme d'Illziger Jàger, trà là là là là.</p>
+          <stage>(D'Kamifeger bliwe beide steh.)</stage>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch im Schlüch si Stimm'.<stage>(Se geht geh 's Riegele
+                        stosse. Lüt)</stage> 's isch mi Herr... Wenn er Eüch do
+                        findet...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Wo soll i mi verstecke.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Do in das Cabinet...<stage>(Se stosst ne in's linke Cabinet,
+                        erster Plan)</stage> un sin rüehig.<stage>(zum Papegài)</stage> Un Ihr...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Thien mi nur nitt züe Eürem Ha-halbwilde vo Mann...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(macht 's Cabinet uf rechts, erster Plan)</stage>
+          <p>In das do, un mücke-n-I nitt...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(klopft)</stage>
+          <p>He... Marie!</p>
+          <stage>(Marie macht d'Thüre-n-nf hinte, rechts.)</stage>
+        </sp>
+        <pb n="24"/>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Marie, Schlüch.</stage>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Do bi-n-i jetz... fröhlig wie ne Vogel in dr Luft... un
+                        mit eme Appetit... tiens, isch dr Brotes no nitt uf em
+                        Tisch?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>'s isch unmöglich fir hit z'Owe, dr Herr isst d'heim..</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Was verzähle-n-Ihr do!... i ha-n-en grad g'sah abfahre
+                        in's Concert.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>'s macht nit, er kunnt wieder...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Awer hit nimm, so g'schwind kunnt me nitt dervo, vom e.
+                        Concert... 's isch e Hahne do z'verwichse, er müess
+                        verwichst si...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Wenn i sag...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Sunscht gang i uns geh lo abschla' uf em G'meinhüs...
+                        Kei Hahne, kei Hochzit!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Un d'Andere, wo dert inne krüppe!...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Allons, üse mit, mit dem Federvieh, ich will 'n g'laüb'
+                        selwer hole in dr Kuche.<stage>(Er stigt rechts).</stage></p>
+          <pb n="25"/>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Gehn wege mir...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Das isch gli g'schàh.<stage>(Er geht in d'Kuche zweite Plan
+                        rechts.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(züem Papegài, wo d'Thüre ufmacht)</stage>
+          <p>Dr Herr wird jetz gli an dr Tisch geh.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(zeigt si)</stage>
+          <p>Sa-sapristi... ich verstick...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(züem Gager, wo si zeigt)</stage>
+          <p>s' isch der Herr, wo kunnt zu z'Nacht esse</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Mache-n-ass er si dummelt.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(kunnt ine mit em Hahne un mit dr Supne)</stage>
+          <p>Do isch das Dings, 's schint mr nitt iwel g'rothe
+                        z'si!...<stage>(Er stellt alles uf dr Tisch.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Das stopft... me müess e-n-aparter Mage ha fir dr
+                        Caoutchouc.<stage>(Se mache dr Tisch in d'Mittle.)</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Einer, wo si ziege losst... jetz züe g'sesse.<stage>(Se setze
+                        sich.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(sitzt an's andre End' vom Tisch)</stage>
+          <p>Jo, un g'schwind e wenig.<stage>(Dr Schlüch nimmt
+                        d'Suppeschüssle un isst mit em grosse Löffel.)</stage> Oh a,
+                        Ihr esse jo d'Suppe-n-alle, lehn doch e wenig fir der
+                        Herr...</p>
+        </sp>
+        <pb n="26"/>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Fir was, Ihr mache-n-'m e-n-andere...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(macht d'Thüre ne wenig uf)</stage>
+          <p>Das isch e G'schrnàckle... nun-de-bib...<stage>(macht züe).</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Ihr mache-n-'m zwei andere...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(macht d'Thüre uf)</stage>
+          <p>Das schmeckt fi- fi-fin<stage>(Er macht wieder züe).</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(ssellt d'Schüssle-n-ab)</stage>
+          <p>So, jetz isch d'Schüssle süfer... wenn Eüer Herr do wàr,
+                        so wàr er g'wiss z'friede mit dr Arwet... jetz wà mr
+                        hinter's Hàhnle<stage>(Er film si Teller.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Was, Ihr wànn?...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(füllt d'Gläser)</stage>
+          <p>Awer z'erscht, vor allem, wà mr nf Eüre G'sundhcit
+                        trinke, Marie, un uf unsre Liewe!<stage>(Se stosse-n-a).</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Uf unser Hochzit!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(trutz nitt so)</stage>
+            <l>G'sundheit denn uf d'Hochzit hi,</l>
+            <l>G'sundheit uf unsre Liewe,</l>
+            <l>Bol wà mr jetz glicklig si,</l>
+            <l>Mr wànn's nimm üse schiewe.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <lg>
+            <l>'s isch so güet, wenn Herz un Hand</l>
+            <l>Uf Erde sich thien finde,</l>
+            <l>Un wenn d'Liewe-n-isch ihr Band,</l>
+            <l>Wo sie thüet z'sàmme binde.</l>
+          </lg>
+          <pb n="27"/>
+        </sp>
+        <sp who="#marie #herr_schluch">
+          <speaker>Beide.</speaker>
+          <lg>
+            <l>Drum G'sundheit uf d'Hochzit hi,</l>
+            <l>G'sundheit uf unsre Liewe,</l>
+            <l>Bol wà mr jetz glicklig si,</l>
+            <l>Bol wà mr glicklig si.</l>
+          </lg>
+          <stage>(Se schlage an ihre Gläser dr Tact.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Tannezapfe.</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(kunnt hinte ine rechts)</stage>
+          <p>Was sieh-n-i do?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Dr Herr!<stage>(Se steht uf.)</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(ohne sich z'derangiere)</stage>
+          <p>Dr Herr... i bi verwischt!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(kunnt fire)</stage>
+          <p>Ne Kàmifeger an mim Tisch?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Derangiere Sie sieh nitt wege mir, Herr Tannebi...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(züem Marie)</stage>
+          <p>So, so... kasch Dü mir expliziere, Marie...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>('s Mül voll)</stage>
+          <p>Ich will's Ihne sage, Herr...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich red' nitt mit Eüch...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Herr... ich ha's Ihne nitt traüe sage bis dohi.. eh
+                        bien...</p>
+        </sp>
+        <pb n="28"/>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Eh bien?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich bi...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich bi... er isch... kunnt's bol üse-n-endlig?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <p>Mi Mann!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Di Mann?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Das isch jetz wieder emol e güete...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Hein?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(redt si üs)</stage>
+          <p>I ha die Hüehn do 'g'meint<stage>(wàhrend der Zit isst er
+                        allewil furt un furt).</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, Herr, verzeihe Se mr, wenn ich's Ihne nitt frieiher
+                        scho g'stande ha, ich weiss ewe, ass viel Persone
+                        d'g'hirothene Màgd nitt gern hàn...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Doch, doch, ich ha se recht gern... ich ha Dr jo sogar
+                        emol züeg'redt...<stage>(fir sich)</stage> 's isch güet, ass i's
+                        weiss...<stage>(lüt)</stage> und das isch...<stage>(zïem Schlüch, wo nitt
+                        bougiert)</stage> Derangier Di nitt, mi Liewer, mach nur furt.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>('s Mül voll)</stage>
+          <p>Sie sin gar sa güet...</p>
+        </sp>
+        <stage>(Marie isch hintere gange hinter dr Tisch.)</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Er hat kei iwel G'sicht... vo witem, ohne Brille,
+                        g'fallt er mr eso ziemlig... Allons Marie, mach Dr <pb n="29"/>kei
+                        bös Gebliet... un kumm do zwische-n-uns Zwei ku sitze.
+                       <stage>(Er sitzt am Marie si Platz.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(bringt e Couvert un e Stüehl)</stage>
+          <p>Was, Sie erlaüwe?... O, was sin Sie fir e güeter Herr.
+                       <stage>(Se sitzt in d'Mittle.)</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Das isch wohr... 's isch g'wiss e-n-Ehr...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ah ça, sin Sie denn nitt in's Concert gange?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Doch, doch... das heisst, i bi scho uf em neüe
+                        Quartierplatz gsi, uf eimol rieft mr ebber, un wo-n-i
+                        lüeg, isch's e güeter Frind, wo optirt hat un jetz
+                        z'Basel wohnt, un dà hat mir e Last Dings verzählt... i
+                        bi gar nimm vo-n-'m ku... un wo-n-i derno in d'Bourse
+                        ku bi, so hat's scho lang ag'fange g'ha... derno bi-n-i
+                        halt wieder umkehrt, denn de weisch, wenn i nitt fire
+                        ka...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Un Sie hàn sich doch eso g'freit druf.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Jà do, was witt halt... un derno ha-n-i o denkt, mi
+                        Racahout-Suppe erwartet mi d'heim... wottsch mr
+                        d'Suppeschüssle passiere...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>D'Suppeschüssle?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>D'Suppeschüssle?... do isch se, Herr...<stage>(Er git's 'm.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(will si serviere)</stage>
+          <p>'s isch jo gar nit drin !</p>
+        </sp>
+        <pb n="30"/>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>'s isch halt mi Mann... Herr...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ah! mi Alter, Dü hasch alle g'gesse.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Se mien mr halt verzeihe, Herr, 's Marie hat mr ewe
+                        g'sàit, se thàt eirn feisst mache...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>'s isch wohr, Dü bisch scho nitt so dick... enfin, macht
+                        nit, làng mr dr Hahne...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Mi Mann hàt en grad entàmiert; wo Sie ine ku sin...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>I ha noch nit dervo g'gesse as zwei Stätzle., zwei
+                        Fattig, d'Làwere un 's Hintere...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Un 's G'stell, das wird doch noch bliwe?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Mr wànn's hoffe... Mr theile's mitnander.<stage>(Er serviert
+                        dr Herr Tannezapfe un sich nochher.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er hat e güeter Schluck, si Mann.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das geht e Länge, un d'Andere...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(wo ig'schànkt hat)</stage>
+          <p>G'sundheit, Herr... ich weiss nitt... awer Sie geh'nr
+                        jetz emol recht... Sie hàn e güeter Keigel...</p>
+          <pb n="31"/>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(lustig)</stage>
+          <p>Er findet, ich heb e güeter Keigel...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Wo Sie inne ku sin, so ha-n-ich grad 's Marie...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>So hasch Dü grad 's Marie?...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Mache singe, 's isch schad, ass Sie's nitt g'hört hàn.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Eh bien! singe's noch emol...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>'s Marie wird Ihne das Dings astimme.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(trutz nitt so)</stage>
+            <l>'s isch so schön, wenn Herz un Hand</l>
+            <l>Uf Erde sich thien finde,</l>
+            <l>Un wenn d'Liewe-n-isch ihr Band,</l>
+            <l>Wo sie thüet z'sàmme binde.</l>
+          </lg>
+        </sp>
+        <sp who="#marie #herr_tannezapfe #herr_schluch">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>'s isch so schön, wenn Herz un Hand</l>
+            <l>Uf Erde sich thien finde,</l>
+            <l>Un wenn d'Liewe-n-isch ihr Band,</l>
+            <l>Wenn d'Liewe-n-isch ihr Band.</l>
+            <stage>(Se schlage dr Takt an de Gläser.)</stage>
+          </lg>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Eh bien! güeter Frind, Dü gehsch mr jetz...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Se hàn keine Vorurtheil'... ich o nitt, e Kàmifeger
+                        kennt das nitt.</p>
+        </sp>
+        <pb n="32"/>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Sag emol, mi Held, verzähl mr emol, was Dich azoge hat,
+                        fir Kàmifeger z'lehre...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(macht e wenig uf, fir sich)</stage>
+          <p>Tiens, dr Herr isst mit em Mann<stage>(macht züe).</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Was i ho nie ha kanne begriffe, das isch, ass Ihr frieih
+                        scho so schwarz sin, vor ebb Ihr im e Kàmi gsi sin.</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Eh! grad das mache mr, ass mr in de Kàmi nitt schwarz
+                        werde... Was mi Lewensg'schichte abelangt... soll i se
+                        afange?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Die schwàtze doch noch bis morn am Morge... das isch
+                        sicher...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Das Ding wird interessant... Wart e wenig... 's Marie
+                        holt jetz 's Kaffee... Trinksch Dü's gern, 's Kaffee?</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Ich spei grad nitt druf...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wàhrend der Zit will ich geh mi Frack üszieh' un dr
+                        Nachtrock alege...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Geniere Sie sich nitt... mache. Se nur, wie wenn Se
+                        d'heim wàre.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wart mr do... nur zwei Minüte.<stage>(Er geht dur d'zweite
+                        Thüre links.)</stage></p>
+          <pb n="33"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">Schlüch, Marie.</stage>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jetz fahre-n-ab...<stage>(fir sich)</stage> ass d'Andere o känne
+                        üsrisse...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Was, abfahre... ohne 's Kaffee z'erscht z'trinke... jà
+                        nei...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich kenn ewe dr Herr Tannezapfe, er wird nie fertig mit
+                        froge, er isch so wunderfitzig!... Do, gehn do ine<stage>(se
+                        zeigt 'm d'Thüre hinte links)</stage>. Ich sag 'm, Ihr seige
+                        furt, derno geht er geh schlofe, un nochher...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Un nochher nàmme mr 's Kaffee, un noch em Kaffee...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(stosst 'n)</stage>
+          <p>Jo, jo, sin z'friede<stage>(er geht ine, se macht d'Thüre
+                        züe)</stage>. Un jetz g'schwind furt mit de-n-Andere.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>Do bi-n-i jetz wieder.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(kunnt wieder z'ruck)</stage>
+          <p>'s geht nitt.<stage>(Se geht in d'Kuche, zweite Thüre
+                        rechts.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">Papegài, Gager.</stage>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(macht si Thüre uf)</stage>
+          <p>Er will jetz noch 's Kaffee nàh?.. Nun-de-bib! was fir e
+                        Faction!</p>
+        </sp>
+        <pb n="34"/>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(kunnt züem Cabinet üse)</stage>
+          <p>Me-n-isch doch wiethig schlecht: do inne... I will
+                        e-n-andrer Pla-atz süeche...<stage>(Er isch ganz duss un
+                        macht d'Thüre züe.)</stage></p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(hat welle-n-üse ku)</stage>
+          <p>Oho! dr Mann!</p>
+          <stage>(Papegài geht gege-n-em Cabinet vom Gager, dà macht
+                        g'schwind si Thüre züe.)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">Herr Tannezapfe, Papegài.</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Eh bien! Marie, isch 's Kaffee g'rischtet?...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Oho! dr He-err<stage>(er blibt hinte steh).</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(züem Papegài, wo-n-er fir dr Schlüch nimmt)</stage>
+          <p>Allons, mi Alter, kumm setz Di an Tisch.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>An Ti-i-isch.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Zeig... kumm... sitz wieder an Di Platz<stage>(er setzt si).</stage></p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>I-i kumm<stage>(fir sich)</stage> er nimmt mi fir dr A-Ander...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Allons denn!</p>
+          <pb n="35"/>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>We-wenn's halt nitt anderscht ka si...<stage>(Er setzt si am
+                        Schlüch si Platz un isst, 's G'sicht ganz nooch bim
+                        Teller.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Marie, eh bien! kunnt das Kaffee bol?...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage type="characters">D'Gliche, 's Marie.</stage>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(kunnt üs dr Küche mit eme Plateau, mit Kaffee,
+                        Tasse un Zucker druf)</stage>
+          <p>Do, Herr...<stage>(fir sich)</stage> Was! dr Schlüch isch wieder an dr
+                        Tisch z'ruckku?<stage>(Se stellt dr Plateau uf dr Tisch.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(b'schaüt dr Papegài, wo isst)</stage>
+          <p>Ah ça... er fangt wieder a z'esse, halt' 'n doch ab...
+                        er macht si sunscht weh...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(kunnt uf d'linke Site vom Papegài)</stage>
+          <p>Ihr verspringe noch, 's isch sicher<stage>(erkennt 'n, fir
+                        sich)</stage> dr Papegài! Jetz wird's schön geh züem Glick hat
+                        dr Herr e kurz G'sicht...<stage>(Se geht hinter dr Tisch
+                        z'ruck.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(serviert dr Kaffee un dr Zucker)</stage>
+          <p>Versüech mr jetz emol das Kaffee do... mr wànn lüege,
+                        was De sàisch derzüe<stage>(er git im Papegài e Tasse, er
+                        trinkt)</stage>. Eh bien! was haltsch dervo?</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>'s isch güet, Ihr' Ka-Ka...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Hein?</p>
+        </sp>
+        <pb n="36"/>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>fee...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Er redt eso possig, was hat er denn?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Er wird... er wird z'viel g'gesse ha.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>'s isch mögli... zeig jetz, güeter Frind, loss jetz Di
+                        Kaffee fir e Minüte un verzahl mr jetz das Ding
+                       <stage>(b'schaüt 'n)</stage> 's schint mr allewil... eh.. alleweg
+                        isch's 'n nitt!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do hà mr's...<stage>(lüt un herzhaft)</stage> Wer das, Herr?...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Di Mann!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ah bah!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Eh,lüeg emol, 's isch dà Kàmifeger nitt vo vorig.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Dr Herr will mich glaüb ha?</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Dr Herr spa-spa-spasst.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Doch, doch, 's isch ne.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich ha halt mine Brille nitt. Enfin, wenn Dü sicher
+                        bisch...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Natirlig bi-n-i sicher... awer 's isch jetz glaüb Zit,
+                        ass er heim geht.</p>
+          <pb n="37"/>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(steht uf)</stage>
+          <p>I ga-gang...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Nitt, vor eb er mir die G'schichte verzählt hat.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Was fir e G'schi-G'schi-G'schichte?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ah ça, er stosst glaüb a jetz?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Das kunnt üs em Mage<stage>(lislig züem Papagài)</stage> fahre-n-ah
+                       <stage>(Se kunnt fire rechts).</stage></p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(steht uf)</stage>
+          <p>Güe - güetnacht...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(macht 'n z'bliwe)</stage>
+          <p>Nur noch e wenig... das alles ist nitt recht klar<stage>(züem
+                        Marie)</stage> gib mr mine Brille...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(verwirrt)</stage>
+          <p>Ihre Brille... i ha se verlegt... weiss nitt, wo se
+                        sìn...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich will se scho finde... Zind mr...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich soll...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Hör'sch mi oder nitt?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, Herr<stage>(lislig züem Papegài)</stage> mache-n-ass Ihr furt
+                        kämme, sunscht bi-n-i verlore<stage>(se geht in d'Mittle).</stage></p>
+          <pb n="38"/>
+        </sp>
+        <stage>G'sang (Hinter em Münster)</stage>
+        <stage>Mitnander.</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <lg>
+            <l>Ich will's jetz wisse!</l>
+            <l>'s liege, das nutzt nit meh,</l>
+            <l>Nur e schlecht G'wisse</l>
+            <l>Thüet widersteh.</l>
+          </lg>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <lg>
+            <l>Er will's jetz wisse!</l>
+            <l>Drum will ich mit 'm geh,</l>
+            <l>Ass er mi G'wisse</l>
+            <l>Glaübt wiss wie Schnee.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegai.</speaker>
+          <lg>
+            <l>Er will's jetz wisse!</l>
+            <l>'s liege, das nutzt nit meh,</l>
+            <l>Ich, uf mi G'wisse,</l>
+            <l>Blib nitt do steh.</l>
+          </lg>
+        </sp>
+        <stage>('s Marie nimmt 's Liecht un geht mit em Herr
+                        Tannezapfe üse dur d'zweite Thüre links. 's isch ganz
+                        Nacht uf em Theater.)</stage>
+      </div>
+      <div type="scene">
+        <head>XII. Uftritt.</head>
+        <stage type="characters">Papegài, derno Gager un Schlüch.</stage>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Kunnsch mo-orn dure, ass ich do wart... wo isch d'Thüre?
+                       <stage>(Er geht mit vorg'streckte Hànd links, vor em Tisch
+                        verbi.)</stage></p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <stage>(kunnt züe sim Cabinet üse)</stage>
+          <p>Ich gieng jetz gern emol ab<stage>(cr sieht im Dunkle e
+                        Kàmifeger, fir sich)</stage> wer isch' das? nun-de-bib! 's isch <pb n="39"/>
+                        dr Mann.<stage>(Er geht hintere, dr Schlüch kunnt züem
+                        hintere Zimmer üse, links, un geht rechts.)</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(geht immer vorsichtig rechts)</stage>
+          <p>Wenn i nur d'Kuche kännt finde...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(voruse)</stage>
+          <p>Jetz wà mr emol sàh...</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Ah!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>G'schwind do ine.<stage>(Er geht ins linke Cabinet hinte, wo
+                        d'Thüre-n-uf isch.)</stage></p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Dert...<stage>(Er geht links ine, erster Plan.)</stage></p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>'s isch nit z'mache...<stage>(Er geht rechts iue, erster Plan.
+                        Alle mache-n-ihre Thüre züe.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIII. Uftritt.</head>
+        <stage type="characters">Marie, Herr Tannezapfe.</stage>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(kunnt z'erscht ine, stellt 's Liecht uf dr Tisch,
+                        un sieht dr Papegai nimmig)</stage>
+          <p>Ah! er isch furt!<stage>('s Theater wird heiter.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(kunnt ine, er hat sine Brille-n-uf dr Nase)</stage>
+          <p>Jetz, wo-n-i mine Brille ha, wà mr emol lüege... Eh
+                        bien! wo isch er denn? hasch g'sàh, ass er si dervo
+                        g'macht hat... er wird wohl wisse worum... Oh! ich merk
+                        ebbes... Marie... do steckt ebbes derhinter.</p>
+        </sp>
+        <pb n="40"/>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Ich merk' o, ass Sie nitt heiter sàhn un ass Sie allewil
+                        Sache fire bringe...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Worum isch er denn furt, das bezigt doch...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Das bezigt gar nit<stage>(fir sich)</stage> Oh! ne güeter Idee! Dr
+                        Schlüch isch jo dert...<stage>(lüt)</stage> Un züedàm isch er gar
+                        nitt furt, er isch dert in mim Zimmer.<stage>(Se zeigt 's
+                        Cabinet hinte links.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>In Dim Zimmer?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Worum nitt, mi Mann?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Eh bien, zeig, rief 'm...<stage>(er geht links).</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(geht hintere)</stage>
+          <p>Wenn Se nur das brüche, fir sich z'versichere... putze
+                        Se nur Ihre Brille... Se wàrde sàh, eb's nitt mi Mann
+                        isch.<stage>(Se macht d'Thüre vom Cabinet uf hinte links.)</stage>
+                        Kumm, Schlüch, dr Herr will mit Dr rede.<stage>(Se nimmt dr
+                        Gager bi dr Hand un fiehrt 'n ine.)</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Kumm emol nächer, güeter Frind...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fiehrt dr Gager, ohne z'lüege)</stage>
+          <p>Do, sàhn Se...</p>
+          <pb n="41"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIV. Uftritt.</head>
+        <stage type="characters">D'Gliche, dr Gager.</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(b'schaüt 'n ganz nooch)</stage>
+          <p>Scho wieder e-n-Anderer?...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Se mien mi excüsiere...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich, wo 'n erkennt)</stage>
+          <p>Dr Gager anstatt dr Schlüch?...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ich bin der Doktor Eisenbart)</stage>
+            <l>Ich bi glaüb nimm recht bi Vernunft!</l>
+            <l>Was isch mit mim Hüs?</l>
+            <l>'s isch glaüb e Kàmifegerzunft,</l>
+            <l>Ich kumm gar nimm drüs!</l>
+            <l>'s hat küm als Ein dr Tisch verlo,</l>
+            <l>So sitzt e-n-And'rer wieder do!</l>
+            <l>Wo me hi nur stellt dr Füess,</l>
+            <l>Sieht me nit as Rüess!</l>
+            <stage>(züem Marie)</stage>
+            <l>Zeig, lüeg mi a, <stage>(bis)</stage></l>
+            <l>Marie, Dü bisch schuld do dra!</l>
+            <l>Zeig, lüeg mi a, <stage>(bis)</stage></l>
+            <l>Dü bisch schuld do dra.</l>
+            <stage>(züem Marie)</stage>
+            <l>Eh bien, Marie?</l>
+          </lg>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Eh bien... was?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Isch en jetz das o, Di Mann?...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(blickt im Gager)</stage>
+          <p>I mein's emol, Herr, ass es ne isch...</p>
+        </sp>
+        <pb n="42"/>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(lislig züem Marie)</stage>
+          <p>Verstande...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Was... dà Dicke do?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Isch's e Wunder, Herr? Sie hàn 'n so viel mache
+                            z'esse.</p>
+          <stage>(Se stupft dr Gager.)</stage>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Nun-de-bib noch emol... das isch wohr... Se hà mich
+                            g'schoppt...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Was... Dü bisch's, wo...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(bloost im Gager i)</stage>
+          <p>Dr Hahne g'gesse hat...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Dr Hahne g'gesse hat.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(lislig im Gager)</stage>
+          <p>Un dr Racahout.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Un dr Raca... was?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(bloost 'm)</stage>
+          <p>Hout.<stage>(Se geht in d'Mittle hinter dr Tisch.)</stage></p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Un dr Racahout... un 's hat mi nitt iwel uftriwe...
+                            Nun-de-bib noch emol!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Do hat mi denn mi Schüelkamerad nitt trumpiert... 's
+                            macht feist, nur hat er mr nitt g'sàit, ass es so
+                            g'schwind geht...</p>
+          <pb n="43"/>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Eh bien, mr wànn wieder an dr Tisch sitze. Nunde-bib
+                            noch emol...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>'s isch sunderbar, jetz schwört er, un noch ohne
+                            az'stosse.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Er hat allemol die G'wohnet am Dessert.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich ha das nitt ungern... Eh bien, 's isch mr recht,
+                            kumm Alter, wieder an dr Tisch, me ka besser
+                            schwàtze.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>C'est ça <stage>(se sitze, dr Gager am Platz vom Papegài)</stage> Kännt i viellicht die Platte ha dert?</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(zieht se z'ruck)</stage>
+          <p>Jà halt! nei, Dü hasch jetz g'nüe g'gesse...<stage>(züem Marie)</stage>do, rüm das alles eweg... <stage>(Marie tràit's ufs Tischle links, mit dr Bouteille.)</stage></p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Nun-de-bib!...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich wott ewe nitt, ass es Dir sott schlecht werde...
+                        De bisch jetz scho ganz bleich.<stage>(züem Marie)</stage>Nimm o d'Kaffeekanne furt... <stage>(Marie nimmt dr Plateau mit em Kaffee.)</stage></p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Was, sogar noch...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Jo, jo... Dü hasch Di Kaffee g'ha... De nimmsch jetz
+                            nit meh as e Glasle Rhum... denn dr Rhum, dà thüet
+                            eim das Ding als wieder e wenig vertriwe...</p>
+        </sp>
+        <pb n="44"/>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Bi mir isch nit z'vertriwe-n-as dr Hunger...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>A propos... De hasch mr die G'schichte noch allewil
+                            nitt verzahlt!...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(wo in d'Kuche will geh mit em Kaffeeg'schirr, blibt
+                        steh', fir sich)</stage>
+          <p>Allons, bon <stage>(lislig züem Gager)</stage>Sage-n-Ihr hewe 's Zahnweh un mache-n-I fremd...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(hebt si Backe)</stage>
+          <p>Aïe, aïe, sapristi...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wo fehlt's?...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(steht uf)</stage>
+          <p>Mi Zahn, wo mr scho so lang Malàschte macht... awer
+                            jetz gang i ne geh lo üsrisse, jetz schiew i's nimm
+                            uf... ich verzähl Ihne das Ding morn... jetz müess
+                            er üse...</p>
+        </sp>
+        <stage>('s Marie nimmt im Gager si Stüehl eweg).</stage>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Das isch jetz doch ärgerlig, enfin, De kunnsch
+                            wieder.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Eb i wieder kumm!<stage>(lislig züem Marie)</stage> derno...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(lislig züem Gager)</stage>
+          <p>Nix do!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(lislig züem Marie)</stage>
+          <p>Oder i sag alles!...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(hat si Stüehl eweg g'stellt un kunnt jetz wieder an
+                        dr Tisch)</stage>
+          <p>Do, nimm noch e Gläsle Rhum, 's isch o güet fir's
+                            Zahnweh...</p>
+          <pb n="45"/>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Nun-de-bib! noch nie hat e Kàmifeger refüsiert, e
+                            Gläsle z'iwernachte... nitt emol e Glas...</p>
+          <stage>(er trinkt ei Gläsle no-n-em andere üs)</stage>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch emol e Feger!...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Allons... Güetnacht Herr Tannebibele.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Tannezapfe, güeter Frind, Herkül Tannezapfe...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(lacht)</stage>
+          <p>Ah! Sie sin e Herkül, Sie <stage>(er schlat em uf d'Achsle un an dr Büch)</stage> Farceur...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(züem Marie)</stage>
+          <p>Er isch charmant... un ganz güet uferzoge...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Güetnacht Marie... làwe Se wohl, Herr.<stage>(fir sich im hinteregeh)</stage>Ass ich furtgang... sàll sin Schnàcketànz <stage>(singt fir sich)</stage></p>
+          <lg>
+            <l>Nei, nei, das thüet dr Gager nitt,</l>
+            <l>Er möcht noch ebbes esse hit...</l>
+          </lg>
+          <p>Ich will emol prawiere, in d'Kuche z'witsche...</p>
+        </sp>
+        <stage>G'sang (im Wald und auf der Heide)</stage>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <lg>
+            <l>Güetnacht, ich müess jetz scheide,</l>
+            <l>'s wàr mir no nitt verleide,</l>
+            <l>Doch ha-n-i Weh am Zahn. <stage>(bis)</stage></l>
+            <l>'s isch mir jetz leid, <stage>(bis)</stage></l>
+            <l>Verderbt isch jetz mi Freid.</l>
+          </lg>
+          <pb n="46"/>
+        </sp>
+        <sp who="#marie #herr_tannezapfe">
+          <speaker>Marie, Herr Tannezapfe.</speaker>
+          <lg>
+            <l>'isch uns jetz leid, <stage>(bis)</stage></l>
+            <l>Verderbt isch unser Freid.</l>
+          </lg>
+          <stage>(Dr Gager macht dr gliche, as gieng er furt un schlicht awer in d'Kuche, zweite Thüre rechts).</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XV. Uftritt.</head>
+        <stage type="characters">Marie, Herr Tannezapfe.</stage>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Endlig ha-n-i Di jetz ab <stage>(lüt)</stage> 's isch efange spot, Herr... wenn Se jetz giengte geh schlofe?...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Sag... Marie... 's isch doch possig... grad denk i
+                            jetz no iwer ebbes... Ass Einer ka uf eimol feisst
+                            werde, wenn er züem Exempel Racahout isst, das ka
+                            me viellicht noch versteh...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo... dr Herr hat's jo g'sàh.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Di Mann hat Racahout g'gesse, güet, awer explizier
+                            mr emol, wie sine Kleider, wo kei Racahout g'gesse
+                            hàn, sich känne versteh züem eso ne Wachsthum?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Sine Kleider? er hat jo schier nit a ass e Girtel un
+                            dà hat er nur derfe ne wenig ufmache...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>'s isch eigentlig wohr... er wird dr Girtel
+                            ufg'macht ha... doch i will jetz glaüb geh schlofe,
+                            awer z'erscht will i die zwei Briefe lese, wo mr dr
+                            Portner gà hat im ufegeh<stage>(er nimmt se-n-üs em Sack un b'schaüt se)</stage><pb n="47"/>Tiens, dà do isch vo miner Cüsine Ribise <stage>(er steckt dr ander wieder in Sack)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Se wird wieder e Bosheit ufbringe... lese Sie's
+                            morn.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Nei, denn 's isch viellicht pressiert... zind mr e
+                        wenig.<stage>(Marie nimmt 's Liecht un zindet, Er liest)</stage>Liewer Cüsin, ich ha schöne Sache erfahre iwer Eüer Marie <stage>(er haltet)</stage> Hein?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aïe! aïe!</p>
+          <stage>(Se zieht 's Liecht z'ruck.)</stage>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Zind mr denn<stage>(liest)</stage>Se hat schint's Liebschafte...</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(kunnt mit em Liecht nächer, fir sich)</stage>
+          <p>Die hat wohrschinlig alles erfahre!...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(liest)</stage>
+          <p>Mit drei Kàm...<stage>(er kehrt 's Blätt um).</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi verlore<stage>('s kunnt ere ne Idee)</stage>Ah !</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Mit drei Kàm... was will se mit dem sage?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(zindet dr Brief a)</stage>
+          <p>Oh! Bosheite will se sage.</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Das wà mr jetz gli sàh... Herrje! ich brenn!<stage>(schreit)</stage>Firio! Firio!... <stage>(Er wirft dr Brief an Bode un schreit, wie wenn 's ganze Hüs in Flamme wàr. Uf si Gschrei kämme-n-alle drei Kàmifeger üse ku z'springe uf dr Herr Tannezapfe.)</stage></p>
+        </sp>
+        <pb n="48"/>
+      </div>
+      <div type="scene">
+        <head>XVI. Uftritt.</head>
+        <stage>D'Gliche, Schlüch, Gager, Papegài</stage>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(kunnt ku z'springe)</stage>
+          <p>Firio!</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Firio!</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Firio! Firio!...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(ganz verstört)</stage>
+          <p>A ça... schneits denn Kàmifeger hit?</p>
+        </sp>
+        <stage>G'sang (Ach, ich bin so müde)</stage>
+        <sp who="#herr_schluch #herr_gager #herr_papegai">
+          <speaker>Mitnander.</speaker>
+          <l>Wott me nitt grad meine,</l>
+          <l>'s sin sunscht niene Keine -</l>
+          <l>Nit as Kàmifeger hit</l>
+          <l>Trifft me-n-a bi jedem Schritt!</l>
+          <l>Alles schmeekt no Kohle,</l>
+          <l>'s isch züem Kückück hole!</l>
+          <l>Ich verstand kei Wort dervo,</l>
+          <l>Was die mache do!</l>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch 's Bouquet!</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe</speaker>
+          <stage>(verstört)</stage>
+          <p>Was will das sage?...</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài.</speaker>
+          <p>Mr sin drei Kàm... Kàm...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Drei Kàm... mi Cüsine hat schint's recht g'ha in
+                            ihrem Brief .</p>
+          <pb n="49"/>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(geht uf 'n züe)</stage>
+          <p>Eh bien, Herr... ich will Ihne liewer gli d'ganze
+                            Wohret sage.</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das will i o höre!</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>'s isch keiner vo dàne drei mi Mann!<stage>(se geht züem Schlüch)</stage>Awer das isch dà, wo-n-i hiroth mit dr Eh'stir, wo Sie mir versproche hàn...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch</speaker>
+          <stage>(macht Grimasse)</stage>
+          <p>Ah! 's git e-n-Eh'stir?...</p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Ich ha Dir e-n-Eh'stir versproche?</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <p>Jo, Herr!...<stage>(presentiert dr Schlüch)</stage>Dr Herr Schlüch üs em Didemergàssle, d'andere zwei sin mine Cüsin, mi Cüsin Gager un mi Cüsin Pagepài.</p>
+        </sp>
+        <sp who="#herr_papegai">
+          <speaker>Papegài</speaker>
+          <stage>(fir sich)</stage>
+          <p>Si Cü - Cüsin?</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Verstande!...</p>
+        </sp>
+        <sp who="#herr_schluch">
+          <speaker>Schlüch.</speaker>
+          <p>Wo mine zwei Zige gàn.<stage>(Dr Gager git 'm d'Hand).</stage></p>
+        </sp>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>De hättsch's denn gli sotte sage. Eh bien, morn isch
+                            's Brütesse un... doch halt, i ha jo noch e Brief
+                            im Sack, wo-n-i noch g'schwind müess lese.<stage>(Er nimmt dr Brief üs em Sack un liest
+                            lislig.)</stage></p>
+        </sp>
+        <sp who="#marie">
+          <speaker>Marie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn's nur nitt wieder...</p>
+        </sp>
+        <pb n="50"/>
+        <sp who="#herr_tannezapfe">
+          <speaker>Herr Tannezapfe.</speaker>
+          <p>Wie-n-i gsàit ha, Ihr Herre-n-un Dame, morn isch 's
+                            Esse, un mi güeter Frind in Basel ladet mi grad i,
+                            fir morn ku dr Zug z'bschaüe... wenn Ihr wànn, so
+                            geh mr z,Mittag uf Basel, ich zahl d'Reis'.<stage>(fir sich)</stage>Was frog ich derno, ich zieh's im Marie ab vo dr Eh'stir...</p>
+        </sp>
+        <stage>G'sang (trutz nitt so)</stage>
+        <sp who="#marie">
+          <speaker>Marie.</speaker>
+          <l>Jetz isch's üs un nit meh dra,</l>
+          <l>Un hat das Stick eüch g'falle,</l>
+          <l>So thien ihr in d'Hànd recht schla</l>
+          <l>Un riefe Bravo! Alle.</l>
+        </sp>
+        <sp who="#herr_papegai #herr_gager #herr_schluch #herr_tannezapfe #marie">
+          <speaker>Mitnander.</speaker>
+          <l>Jetz isch's üs un nitt me dra,</l>
+          <l>Un hat das Stick eüch gfalle,</l>
+          <l>So thien ihr in d' Hànd recht schla,</l>
+          <l>So stark as Jeder ka.</l>
+        </sp>
+        <pb n="51"/>
+      </div>
+    </body>
+  </text>
+</TEI>

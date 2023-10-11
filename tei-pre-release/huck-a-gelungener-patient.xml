@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">A gelungener Patient</title>
+        <title type="sub">Komische Duoszene für zwei Herren von Martin Huck</title>
+        <author key="wikidata:Q96482470">Martin Huck</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q107246593</idno>
+        <idno type="methal" xml:id="mtl-031"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109675n</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q107246593">Martin Huck</author>
+            <title type="main">A gelungener Patient</title>
+            <title type="sub">Komische Duoszene für zwei Herren von Martin Huck</title>
+            <publisher>Salvator Verlag Mülhausen</publisher>
+            <date when="1931" type="print">1931</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="dr_schropfer">
+            <persName>Dr. Schröpfer</persName>
+          </person>
+          <person sex="M" xml:id="patient">
+            <persName>Patient</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#dr_schropfer"><role><persName>Dr. Schröpfer</persName></role>, <roleDesc>Doktor, älterer Herr, weiße Perücke, eleganter Anzug</roleDesc>.</castItem>
+        <castItem corresp="#patient"><role><persName>Patient</persName></role>, <roleDesc>komisch gekleidet, mit verbundenem Gesicht, verbundene linke Hand</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(tritt ein, singt)</stage>
+        <p>E Doktr isch, wer hett Idée? Zwiewele wie Bum-Bum! E vielgeblöjtes Menschekind; Zwiewele wie Bum-Bum! Ihm kläut'mr alles Leid un Weh Wenn irgend’s Mensche unwohl sinn. In’s Innere kann er zwar nit sähn, Zwiewele wie Bum-Bum! Un bstimme wo die Krankheit sitzt, Zwiewele wie Bum-Bum! Doch ich, ich gläub s’isch zu versteh’n, Mach’ immer, daß d'r Kranke schwitzt. Ja, schwitze isch e prachtvolls Universalmittel bie'n alle Kranke un hilft manchem Verzwiefelte widdr uff d’Bein. Leider gibt’s awr e so viel, wo d'Schwitzkürfür ebs ganz Gräßlichs halte, biem e Kranke un uewwer em Schaffe heißt’s, nur nit schwitze; awr biem Keijle, Esse un Trinke isch’s kenn Blöj, do geht’s. Ja, mit de Patiente hett m'r sini lieb Not, e jeder möcht ander’sch b’han- delt sin. Einer mit Mitleid, dr ander mit Grobheit, jener mit Medezin, zäller mit Wasser oder heißi Um- schläj, widdr anderi mit Iss oder Unterhaltung, un no sin noch do, die welle mit Ruej b’handelt sin, un mir Doktr muen uns immer noch de Lünne von de Kranke richte, des heißt also Geduld han. <stage>(Es klopft.)</stage> Es klopft, gewiß e Patient. Entré!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(kläglich grüssend)</stage>
+        <p>Guete Morje, Herr Doktr!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(mitleidend)</stage>
+        <p>Guete Morje, min Liewer, na sin Ihr krank ?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(nickend)</stage>
+        <p>Hm!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>So, so, na was fahlt Eujch denn? Patient <stage>(kläglich)</stage>; D’Gsundheit, Herr Doktr!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, ja, des glaüb ich schon, awr s’allererscht, was fehlt Eujch, wo han’r weh?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(nickend)</stage>
+        <p>Hm!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Un wo un was, wenn ich fröje derf ?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(zeigt auf den Magen)</stage>
+        <p>Do!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Aha, am Mäuje! Un was isch mit’m Mäuje, was fehlt’m denn?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(ärgerlich)</stage>
+        <p>Na, wenn Sie’s nit wisse, ich kann’s doch nit wisse, waye dem komm ich doher, um zu froje, was im Mäuje fehlt!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(für sich)</stage>
+        <p>Dummkopf! <stage>(Zum Patient)</stage>: Na ja, ich mein, was han Sie fuer Beobachtunge gemacht, wo sitze die Schmerze?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(zeigt auf eine Stelle des Magens)</stage>
+        <p>Na, sehn’se, Herr Doktr, wenn ich do drutf druck, tuet’s weh.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, do muehn’se ewe nit druft drucke, no tuet’s nit weh!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(zweifeln)</stage>
+        <p>Meine Sie?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ey niadierlich! Zeye Sie emol Ihri Zung!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(schlecht verstehend)</stage>
+        <p>Mini Zang? Ich hab keini mitgebrocht.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ärgerlich)</stage>
+        <p>Ihri Zung solle Sie mir zäje!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(verlegen)</stage>
+        <p>O nä, do scham ich mich.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Unsinn, worum denn?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ich kann sie doch nit geje Eujch erußstrecke.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ärgerlich)</stage>
+        <p>Ach was, des geniert gar nit, erüß mit dr Zung.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(verlegen)</stage>
+        <p>Na, mintwaje. <stage>(Zeigt die Zunge ein wenig.)</stage></p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Widdersch erüß! Patient <stage>(versucht's mit komischer Geberde)</stage>.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ungeduldig)</stage>
+        <p>Widdersch, noch widdersch!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(die Zunge zurücknehmend)</stage>
+        <p>Sie isch nit länger, Herr Dokter, widdersch eruß, geht se nim!</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ernst)</stage>
+        <p>D’Zung isch belajt.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(verwundert)</stage>
+        <p>Na, dies isch jetzt ebbs merikwür- digs, ich hab d’ganz Woch noch nia belejt’s gässe.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Dies kommt nit do druff an. Ich seh Eujere Mäuje isch krank. Es schint, daß Sie Darmkatarrh han.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(entsetzt)</stage>
+        <p>Was, e Darmkater? Ja, wie isch denn dies Vieh enin komme?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ärgerlich)</stage>
+        <p>: Nä, Sie verstehn mich nit guet. Sie han sien Mäuje un Gedärm verkältet.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(abwehrend)</stage>
+        <p>Jetzt bi dere Hitz? — Dies könne Sie im e andere verzähle, awr mir nit.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Sie han wahrschinlich kalt getrunke ?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ja, soll ich denn in dere Hitz Vin chaud trinke ?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(für sich)</stage>
+        <p>E zue dummer Mensch. <stage>(Zum Patienten.)</stage> Jetzt, wenn Sie heimkomme, mache Sie heißes Sandsäckl un lejes uff de Lieb. So, jetzt könne Sie geh’n.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(kopfschüllelnd)</stage>
+        <p>O nein, mir sin noch lang nit ferdi.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(verwundert)</stage>
+        <p>So!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(zeigt seine linke Hand)</stage>
+        <p>Do, Herr Doktr, was isch mit dere stand? <stage>(Wickelt die Hand aus.)</stage></p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(besieht sich die Hand)</stage>
+        <p>Hm, was han’se denn ge- macht?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(verächtlich)</stage>
+        <p>Wisse Sie’s schon widdr nit? Ich hab d'Hand verfrore.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Verfrore? Un numme die ein’t Hand? Do han Sie wohl d’andere immer im Sack?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>O, nein.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, wo han’se denn uewerhäupt die Hand verfrore, uff d'r Strooß?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Nein, im Tanzsaall</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Babble Sie doch kein Unsinn, wie kann m'r im warme Tanzsaal d’Hand verfriere? Dies isch jo lächerlich.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(wichtig)</stage>
+        <p>Do gibt’s gar nix lächerlichs derbie.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(ungeduldig)</stage>
+        <p>Na, no erkläre Sie mir doch die Sach!</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Na, so höre Se emol. Ich bin nämlich Müsikant un spiel d’Baßgeij, in unserem Dorf awr, in dem Re- staurant, wo als dies Konzert isch, isch dr Plafon e so nieder, daß mini Baßgeij kein Platz hett ghett. Drno isch dr Wirt anne gange un hett e Loch in de Plafon mache lohn, un durich dies wurd dr Hals von minem Baß enüsgsteckt in s’Freije. Wenn jetzt dr Hals drüsse isch, do mueß mini Hand doch äuj mit enüs — un e so hab ich mini Hand verfrore.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(lachend)</stage>
+        <p>Ja, wenn die Sach so isch, derno isch’s zue verstehn.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Na ja, jetzt wisse Sie’s.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Awr wenn ich’ne rote derf, seije’se vorsichtig mit dere Hand, denn wenn Sie se lichtsinnig b’handle, kann der Fall komme, daß sie sich entzünd’t, un selbst- verständlich mueßt d’Hand amputiert wäre.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Was ramponiert? Ich hab gedenkt, dies wär’s sie schon.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Nein, amputiert heißt soviel als abhäuije.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ja, nein, dies gibt’s nit. Mit was soll ich denn nochher d’Baßgeij spiele? Mit einere Hand griffe un noch de Böje hewe, geht nit.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Na, drum muen Sie sich in Acht näme, sonscht kenn’s noch e so komme.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ich hab’s schon unserm Wirt gsait, er soll um des Loch e kleini Mür un e Dach druff mache un e kleinr Petrollofe enin setze, daß d’Hand nit verfriert.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, un jetzt bade Sie d’Hand im warme Wasser mit Kamille, jede Owed. Derno wurd’s bstimmt besser. Awr, worum han’se noch e Düech um de Kopf?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(kläglich)</stage>
+        <p>Dies do? <stage>(Zeigt auf das Tuch.)</stage></p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient :</speaker>
+        <stage>(weinerlich)</stage>
+        <p>Dies esch e Schlaganfall.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(verwundert)</stage>
+        <p>Was, Schlaganfall?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ja, denke Sie sich, Herr Doktr, vorgeschtr bin ich e bißl spaat heim komme. S’isch m'r ganz wohl g’sin, un leij mich in s’Bett — un uff einmol —</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr :</speaker>
+        <stage>(gespannt)</stage>
+        <p>Widdersch, widdersch —</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ja, uff einmol springt mini Fräuj üss'm Bett fallt uewer mich her, un schläujt mich —</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, un widdersch — —</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Ja, isch dies kein Schlaganfall, wenn mich mini Fräuj anfällt un schläujt?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ah so, jetzt versteh ich’s, Herr, in dem Fall helfe numme Kühlunge.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Was Küh-Lunge? Ja, wo soll ich denn e so viel Küh-Lunge herbekomme, wäre die kocht odr röj uff- geleijt, odr gesse?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ach, Sie verstehn mich schon widder falsch, ich mein, ebs kiehls uffleije, awer doch kein Lunge von ere Küeh.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Aha, jetzt versteh ich’s; säuje Sie emol, Herr Doktr —</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Was denn?</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Sie han do ewe vom amputiere geredd —</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Ja, ganz rächt —</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Wie wär’s denn, wenn Sie min’ere Fräuj d’Händ amputiere däte, daß sie mir nim e so viel Schläujanfall bibringe kennt, denn wo die anne häut lüijt’s g’fähr- lich drinn. <stage>(Zeigt seine Stirne.)</stage> Sähn Sie, Herr Doktr, dies seht üß, wie wenn mich e Ochs gedrette hätt, un nit, wie wenn mich e zarti Fräujehand gstreichelt hätt.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Hahaha, ja dies looßt sich emol nit ändere, wenn’se kenn Hand meh hett, derno bißt’se schließlich.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Na, do kennt m'r üß’m Wäj gehn, odr m'r rißtere Zähn erüß.</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Na, mache Sie jetzt nur kalti Kompresse um de Kopf.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Was soll ich mache?</p>
+      </sp>
+      <sp who="#dr_schropfer">
+        <speaker>Doktr:</speaker>
+        <p>Kompresse, des heißt kalti Umschläj.</p>
+      </sp>
+      <sp who="#patient">
+        <speaker>Patient:</speaker>
+        <p>Nä, so e veruckti Welt, mini Fräuj macht mir warmi Umschläj <stage>(markiert das Zuschlagen)</stage> un dr Doktr macht widdr kalti drhinter. — Nä, wie gsait, d’Welt isch verdräjt.</p>
+      </sp>
+      <sp who="#_beide">
+        <speaker>Beide:</speaker>
+        <p>Ja, dies kann m'r bewiese. <stage>(Rideau.)</stage></p>
+      </sp>
+    </body>
+  </text>
+</TEI>

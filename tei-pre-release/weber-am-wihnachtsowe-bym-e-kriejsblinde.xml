@@ -1,0 +1,1235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Am Wihnachtsowe bym 'e Kriejsblinde</title>
+        <title type="sub">E Wihnachtsstüeck in eim Akt</title>
+        <author key="wikidata:Q97103623">Emile Weber</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106636780</idno>
+        <idno type="methal" xml:id="mtl-138"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/https://www.numistral.fr/ark:/12148/bpt6k9109724p</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106636780">Emile Weber</author>
+            <title type="main">Am Wihnachtsowe bym 'e Kriejsblinde</title>
+            <title type="sub">E Wihnachtsstüeck in eim Akt</title>
+            <publisher>Sostralib</publisher>
+            <date when="1927" type="print">1927</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="albert_braun">
+            <persName>Albert Braun </persName>
+          </person>
+          <person sex="F" xml:id="jeanne">
+            <persName>Jeanne  </persName>
+          </person>
+          <person sex="M" xml:id="charele">
+            <persName>Charele </persName>
+          </person>
+          <person sex="B" xml:id="d_grand-mere_oder_grand-pere">
+            <persName>d'Grand-mère oder Grand-père</persName>
+          </person>
+          <person sex="M" xml:id="henri_greiner">
+            <persName>Henri Greiner </persName>
+          </person>
+          <person sex="M" xml:id="paul">
+            <persName>Paul </persName>
+          </person>
+          <person sex="M" xml:id="hol">
+            <persName>Hol</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#albert_braun"><role><persName>Albert Braun </persName></role>, <roleDesc>e Kriejsblinder </roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#jeanne">
+            <role>
+              <persName>Jeanne  </persName>
+            </role>
+            <roleDesc>sini Kinder</roleDesc>
+          </castItem>
+          <castItem corresp="#charele">
+            <role>
+              <persName>Charele </persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>sini Kinder</roleDesc>
+        </castGroup>
+        <castItem corresp="#d_grand-mere_oder_grand-pere"><role><persName>d'Grand-mère oder Grand-père</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#henri_greiner"><role><persName>Henri Greiner </persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#paul"><role><persName>Paul </persName></role>, <roleDesc>siner Chauffeur </roleDesc>.</castItem>
+        <castItem corresp="#hol"><role><persName>Hol</persName></role>, <roleDesc>Hüssherr</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> I. SCENE. </head>
+        <stage> Grand’mère un Charele</stage>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p> <stage>(sitzt beim Ofen und strickt)</stage> </p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(sitzt mitten in der Stube und spielt mit einem  Rösslein)</stage>
+          <p>Grand’meman, gäll hyt Owe kummt’s?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Wer denn Charele?</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ei s’Chrischtkindel, Grand’meman! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja min Liewer. Awer der Hanstrapp kummt awer au mit.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(spielt weiter — — nach einer Weile)</stage>
+          <p>Grand’- meman zue uns brüecht jo de Hanstrapp nit zu kumme, ich bin jo immer brav! ! Grand’mère: Ich weiss nit, ich weiss nit? Am End kummt de Hanstrapp doch zue uns! Zeij lüej mich emol aan, Charele. Bisch düe immer brav g'sinn? ?</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ja, ja Grand'meman ich immer, awer s’Jeanne als nit.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p><stage>(lacht)</stage> Ah düe immer, awer s’Jeanne als nit?</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ja, ja Grand’meman. <stage>(spielt weiter)</stage></p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ich glaub, düe bisch als au bœss g’sin.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ein Mol, e kleins bissele. Awer düe müesch dess nit im Hanstrapp saawe. Grand’mère: Ja der weiss alles, dem brüecht m'r nix ze saawe.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ich schliess einfach Tüer zu, wenns Chrischtkindel hinne isch, no kummt er nit erin. Grand’mère : Ja no kummt er züem Fenschter erin.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>No versteckel ich mich; un ich kann jo bete, un de Babe hilft mir, un ich will jo nix vum Hanstrapp! ! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Wie düe jetzt awer uff einmol e grosses Mül hesch? Ich will numme sähn was düe machsch, wenn de Hanstrapp kummt? ? ? 6</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(spielt weiter — — nach einer Weile)</stage>
+          <p>Grand’- meman, kummt s’Chrischtkindel bal? Es isch jo schun ganz finschter drüsse.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Es kummt, wie de Babe un s’Jeanne d’heime sin.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(nach einer Weile)</stage>
+          <p>Kummt de Babe uns Jeanne bal, Grand’meman? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ich weiss nit, awer ich denk sie wäre bal kumme.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(steht auf und geht zu Grand'mère)</stage>
+          <p>Weisch was Grand’meman, wenn de Hanstrapp do erin-kumme will, no saasch düe züem, es sin kein Kinder do.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(lacht)</stage>
+          <p>Werum nit gar! M’r derf doch nit lüeje! Un de Hanstrapp weiss doch wo alli Kinder wohne.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ich will awer nit, dass er züe uns kummt. Grand’möre: Gäll düe hesch jetzt schon Angscht? Wer weiss, viellicht kummt s’Chrischtkindel au gar nit zu uns, wenn’s so schnejt kann’s nit zu alle Lyt kumme — Zeij ich hœr jemand an de Tüer, am End isch’r dess schun! ! <stage>(es klopft)</stage></p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p> <stage>(geht schnell unter den Tisch und zieht die Decke runter)</stage> <stage>(es klopft)</stage> </p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Entrez!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> II. SCENE. </head>
+        <stage> D’Vorige un Hol</stage>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <stage>(kommt herein)</stage>
+          <p>Bonsoir Madame Braun! Sie wundere sich viellicht, will ich noch um dess Zyt züe ihne kumm, awer ihr Sohn het mir versproche, hyt Owe Antwort zu gän weje de Wohnung. Ich bin dodeweje kumme. Het er jetzt e Wohnung gfunde? ? Sie wisse nit? ? ? ? Güet ich wart bis er kummt.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Han sie sich e bissel setze wœlle? <stage>(Holt einen Stuhl und stellt ihn Hol hin.)</stage></p>
+          <pb n= '7' />
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Merci, ich will nit sitze. Also sie wisse nit ob er e Wohnung g’funde het ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Nein, Herr Hol.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Sicher nit, denn sunscht het er’s ihne g’saat. Mini Geduld het awer jetzt e End! ! ! Ich müess die Woh- nung do han, miner Sohn will hyrode. Ich hab lang genüej Rucksicht uff sie g’het, will ihre Sohn e Kriejs- blinder isch. D’r Staat soll sich um d’Kriejsblinde annehme. Mir Hüessherre han numme Unangenehms ..... Do wäre einfach 500 Mietsg’setzer votiert un unsereins het no die Scherereje mit. ..... Ich bin jo gar net ver- pflicht g’sin, euch so lang do wohne ze lonn, awer was macht m'r nit alles üess Mitleid? ? ? Also saawe sie ihrem Sohn, dass ich am erschte Jänner die Woh- nung müess han, sunscht bin ich gezwunge, de Hüessjé kumme ze lonn.... Nix wie Unkœschte het m'r hyt- zedaas mit sine Locataires ..... Es wurd doch au emol wieder andersch kumme! ! ! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Herr Hol ich glaub nit, dass miner Sohn e Wohnung g’funde het, awer es vergeht kein Daa, wo er nit süecht.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <stage>(erzürnt)</stage>
+          <p>Mini Geduld isch züe End, ich saa’s ihne züem letschde Mol. Am erschte Jänner miess die Woh- nung gerümt sin! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Bedänke sie doch, es sin zwei Kinder do.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ich weiss dess alles; alles weiss ich. Ihre Sohn het üewerhaupt gar kein Recht do in dere Wohnung, er het jo by mir gar nit gelehnt, sie sin jo Locataire. Er wohnt jo by ihne.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja werum wœlle sie denn mim Sohn die Wohnung nit gänn ? ?</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Will ich nit kann, ich müess sie füer miner Sohn han. Grand’were: Sie wisse ganz genau, dass mir nit meh Zins bezahle kœnne, drum dränge sie druff, dass mir zeje. Mit dere Pension, wo miner Sohn bekummt, müen mir alli 4 läwe. Viel verdiene kann er jo nit.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Au wenn Sie mir 100 Franke meh wodde gänn im Monet, kœnnt ich ihne die Wohnung nit lonn.</p>
+          <pb n= '8' />
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja wo solle mir denn am erschte Jänner ane, wenn mir kein anderi Wohnung han?</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ich weiss nit! Gehn sie züem Maire, er soll ihne eini b’sorje.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Miner Sohn isch jo schun e paar Mol dorte g’'sinn, er het awer keini. Wenn sie numme däte warte wœlle, bis im Früehjohr, Herr Hol.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Bis im Früehjohr? ? ? Saawe sie doch glich bis im Spootjohr! ! Ich kann nit, ich hab lang genüej gewart. Hätte sie sich früejer um e anderi Wohnung bekümmert un nit gewart bis züem letschde Moment. Grand’mère: Mir han jo alles gemacht.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <stage>(geht aufgeregt hin und her, schlägt mit der Faust  auf den Tisch)</stage>
+          <p>Schint’s doch nit, denn sunscht hätte sie schun eini.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(kommt ängstlich auf allen Vieren unter dem Tische  hervor und stellt sich hinter Grand’mère)</stage>
+          <p>Grand’mère. Doch, doch, ich versicher ihne, Herr Hol! !</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Dess ich gar net notwendi. Zeje sie am erschte Jänner un no bin ich zefriedde un brüech ihri Versicherunge nimmi !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Wo solle mir jetzt schnell, in 4-5 Daa, e Wohnung here nämme?</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ja do min sie mich nit froeje, ich hab keini! Un wenn ich eini het, no gäb ich sie ihne nit. Mir sieht jo, wie sie sin, kumpliziert un noch frech dezüe. Grand'mère. Dess isch awer nit wohr, Herr Hol, dess sin mir nit! !</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Sooo? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Nein!!!</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Na, no sin sie ebs andersch’s, wenn sie dess nit woelle sin. Uff alli Fäll hab ich satt mit ihne bis owe aan. Verstehn sie mich! ! ! ! Am erschte Jänner will ich mini Wohnung han, un jetzt Schluss mit allem. <stage>(Schritte und Stimmen)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> III. SCENE. </head>
+        <stage> D’Vorige, Braun un Jeanne</stage>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(öffnet die Türe und führt Braun herein)</stage>
+          <p>Güete Owe Grand'mère!</p>
+          <pb n= '9' />
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(sobald sich die Türe öffnet, verschwindet wieder  unter den Tisch)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Güete Owe Mame!</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p><stage>(geht zu Braun)</stage> Güete Owe Albert! ! D'r Herr Hol isch do un will mit dir redde.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(zieht den Mantel aus und wärmt sich dann am  Ofen)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Güete Owe Herr Hol! Sie kumme waje de Wohnung? ?</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ja, han sie jetzt eini g'funde ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Es düet mir arich leid, dass sie sich wieder de- rangiere han müen. Ich hab mit'm beschte Wille noch kein anderi Wohnung finde kenne.</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Des verzehle sie mir jetzt schon 4 Monet lang.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ess isch d’Wohrheit Herr Hol! !</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Dene Witz koenne sie im’e andere verzehle. Ich mein, wenn sie numme e bissel güeter Wille hätte g’het, no hätte sie in 4 Monet e Wohnung koennte finde. Am erschte Jänner will ich die Wohnung gerümt han.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja woelle sie uns by dem Wetter uff d’Stross stelle?</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ich kann kein ander Wetter mache!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Denke sie doch an mini 2 Kinder, an mini alt Mame! ! !</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <stage>(kalt)</stage>
+          <p>Am erschte Jänner müess ich die Wohnung han, sunscht loss ich de Hüessjé kumme. Braun; Herr Hol, ich bitt sie, seje sie nit so hart! !</p>
+        </sp>
+        <sp who="#hol">
+          <speaker>Hol:</speaker>
+          <p>Ich hät vor 6 Monet schun mit ihne so solle sin, no hätte sie hyt au e anderi Wohnung ....... Adjé, bysamme! ! <stage>(geht hinten ab)</stage> <stage>(kl. Pause)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> IV. SCENE. </head>
+        <stage> D’Vorige ohne Hol</stage>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Un jetzt Mame?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Düe müesch de Müet nit verliere. Es isch bis züem erschte Jänner noch fascht e ganzi Wuch, un <pb n= '10' /> wer weiss, wer weiss, viellicht geht alles güet üess <stage>(hilft Braun den Mantel ausziehen und führt ihn zu einem Stuhl beim Tische)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ich bin hyt wiedder an 4, 5 Plätz g’sin, es isch awer nierigs e Wohnung zu krieje. D’Maire het mir jetzt eini versproche uff de erschte März. Un mit der Arweit isch au nit viel los. Alles isch eim verleid! ! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Allez, Allez, Albert! Redd nit eso! Denk an dini Kinder!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, ja, mini Kinder. Güet dass die do sin! Wer weiss, wer weiss? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Stille Büe, stille.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(kommt nach vorn)</stage>
+          <p>Wo isch denn de Charele, Grand'mère? ? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>De Charele? ? ? Ich weiss nit. Ah, so, er het sich wohrschints vorhere versteckelt, will er gemeint het, de Hanstrapp kummt schun.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Het er denn Angscht er bekummt se vum Hans- trapp?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Wohrschint’s!</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Ja er isch als au boes.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(unterem Tisch)</stage>
+          <p>Un düe au.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja wo steckt er denn?</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(lacht)</stage>
+          <p>Er sitzt unterem Tisch, Babe.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Unterem Tisch? <stage>(sucht mit beiden Händen unterem Tisch)</stage> Wo bisch denn Charele? ? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(macht die Decke weg)</stage>
+          <p>Do sitzt er jo, unsere Angschtpeter !</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p> <stage>(kommt hervor und geht zu Braun)</stage> </p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(sucht mit den Händen nach Charele)</stage>
+          <p>Ah do bisch jo. <stage>(zieht ihn an sich und küsst ihn)</stage> Düe müech kein Angscht han, min Liewer. <stage>(lässt Charele wieder gehen)</stage></p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(geht zu Jeanne an den Ofen)</stage>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(leise zu Braun)</stage>
+          <p>Albert, hesch düe noch e bissel Geld? s’Jeanne sott e paar Wecke hole füer hyt Owe. Ich hab sunscht nix füer d’Kinder un sie sölle doch au wisse, dass Wihnachte isch. Ich hab kein Süü meh im Hüess.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(legt einige Geldstücke auf den Tisch)</stage>
+          <p>Do s’isch noch alles was ich hab. .....</p>
+          <pb n= '11' />
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(zählt das Geld)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>.... Wihnachte, un kenn Geld im Hüess! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>es sin noch e 1.80 Fr.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Dess Klavier wo ich hyt g’stimmt hab, bekumm ich an Nejohr bezahlt, un Gott weiss wenn die be- zahle, wo mir s’Geld noch schuldig sin! Grand’mère: Soll s’Jeanne für alles Geld Wecke hole? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja. Wenn de Charele gesse het, vergisst er viel- licht s’Chrischtkindel.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Armer Büe! ! !</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame, im Mantel hab ich e Trumpet, wo ich füer ne kauft hab. Dess isch alles was er bekummt. s’Jeanne kriejt halt dess Johr gar nix. Grand’mère: Es versteht’s un weiss dass mir arm sin.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, ja; ..... arm! ! ! arm! ! ! <stage>(sucht nach seiner Mutter und hält sie am Arme)</stage> Es gibt viellicht noch ärmeri wie mir, gäll Mame? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Aermeri? ? ? <stage>(schaut Braun an, wischt sich mit einem Taschentuche die Tränen ab)</stage> ärmeri ..... ?? Ja, es gibt noch ärmeri Lyt wie mir.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Was hech denn Mame? ? ? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Nix, nix, Albert. <stage>(geht vom Tische weg)</stage> Ich schick no s’Jeanne furt Wecke hole.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, es soll awer güet acht gänn, wenn es üewer d’Stross geht.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Kumm Jeanne. <stage>(geht zu Jeanne und redet mit ihr)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Charele! !!</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Ja, Babe. <stage>(geht zu Braun)</stage></p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(zieht den Mantel an, geht hinten ab)</stage>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand’mère</speaker>
+          <stage>(geht rechts ab)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(sucht Charele)</stage>
+          <p>Wo bisch denn, min Liewer? Zeij kumm setzt dich e bissel züe mir. <stage>(setzt Charele auf seine Knie)</stage></p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Babe meinsch vergisst uns s’Chrischtkindel nit?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Allewej, wo denksch düe ane! Es vergisst kein Kind. Un dir bringt es doch die Trumpet mit, wo düe schun lang witt.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Awer ich will noch viel meh vum Chrischtkindel.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja was denn? ?</p>
+          <pb n= '12' />
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Es soll e Tannebaum bringe un ich will noch e Flint un e Savel un e Soldatekapp.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(laut)</stage>
+          <p>Charele, nein! ! kein Flint un kein Sawel! !</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Doch Babe, füer ze spiele.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Nein!! nein!! mit Flint un Sawel spielt m'r nit! !</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Doch Babe, Soldatels un Kriej! !</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(lauter)</stage>
+          <p>Nein! ! nein! ! <stage>(stellt Charele auf den Boden)</stage> Düe sollsch nit Soldatels un Kriej spiele, Charele!! Nein, düe nit. Hoersch, diner Babe will’s nit han. <stage>(zieht Charele wieder sich)</stage> Gäll Charele, düe spielsch nie, nie Soldatels un Kriej, nie, gäll nit min liewer Büe!!! Lüej, d’Soldate sin alles boesi Männer, wo de andere Lyt numme Weh mache. Lüej, dim Babe han d’Soldate au arich weh an de Gigele gemacht, ich kann jetzt nix meh sehn, au dich nimmi min Liewer! ! ! !</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>An de Gigele?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja min Liewer, an de Gigele. <stage>(presst Charele fest an sich und küesst ihn)</stage> Charele, liewer goldiger Büe, dir sol’s emol nit gehn wie mir.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(bedrachtet Braun)</stage>
+          <p>Babe, ja werum mache d’Soldate eim Weh? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Werum??? werum??? Kind, dess wisse ah jo d’Soldate sälwer nit. Sie müen, un dorum mache sie’s. <stage>(presst Charele wieder fest an sich)</stage> <stage>(erregt, sehr laut)</stage> Min Büe, du sollsch un derfsch nie Kriej spiele!!! Grand’mère: <stage>(kommt von rechts)</stage> Was hesch düe denn Albert? Düe reddsch jo so lütt, dass mir näwes dran e jeds Wort versteht. 4</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(geht zu Grand'mère)</stage>
+          <p>Grand’meman, d’Soldate han im Papa weh an de Gigele gemacht. Ich will vum Chrischtkindel kein Flint un kein Sawel. <stage>(holt sein Roess- lein, setzt sich in eine Ecke und spielt damit)</stage></p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Was hesch denn Albert? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Isch wo de Kriej so arich hass, hab e Büe wo e Flint un e Sawel will füer mit ze spiele!!! Grand’mère: Er isch noch e Kind, er weiss noch nit, was er saat. <stage>(zu Charele)</stage> Ja min Liewer spiel düe scheen mit dim Rœssele.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame!!!! Mame! ! ! !</p>
+          <pb n= '13' />
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Was denn? <stage>(geht zu Braun)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(sucht Grand’mère und hält mit beiden Händen  ihr Gesicht)</stage>
+          <p>Mame! ! ! ! Mame! ! ! ! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Was denn, min Büe? ? ? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame!! ......ich wott...... gern hiele!!!! Grand’mère: Armer, armer Büe!!!! <stage>(umarmt Braun und küsst ihn)</stage> <stage>(kl. Pause)</stage> <stage>(es klopft an die Türe)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame!</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja;</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ich glaub es het geklopft. <stage>(es klopft an die Türe)</stage></p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Kumm setzt dich. <stage>(macht Braun sitzen)</stage> <stage>(es klopft fest an die Türe)</stage></p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(geht schnell unter den Tisch)</stage>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja, ja. <stage>(geht an die Türe und macht auf)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> V. SCENE. </head>
+        <stage> D’Vorige, Henri, Paul un Jeanne</stage>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(an der Türe)</stage>
+          <p>Pardon Madame, wohnt do viellicht Braun? ? ?</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja, was soll sin Monsieur? ?</p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <p>Ein Moment, Madame. <stage>(geht wieder von der Türe weg und ruft)</stage> Ja Monsieur, do isch’s <stage>(kommt wieder an die Türe)</stage> Sie müen nit verschrecke Madame, es isch nit schlimm.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja was isch denn? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(hat zugehört, steht auf)</stage>
+          <p>Was isch Mame, saa! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ich weiss nit. <stage>(sobald Henri mit Jeanne er- scheint)</stage> O Gott was ich denn passiert??? ?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <stage>(trägt auf seinen Armen Jeanne, legt sie auf das  Canapé)</stage>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(ist ohnmächtig)</stage>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Was isch denn passiert? ? Was het's denn? ? Redde sie doch <stage>(zu Paul)</stage> Monsieur!!!</p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(hält Grand’mère zurück)</stage>
+          <p>Es isch jo nit schlimm Madame.</p>
+          <pb n= '14' />
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame, Mame!!!!</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(geht zu Braun)</stage>
+          <p>s’Jeanne, s’Jeanne! ! !</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Was isch, was het’s??? <stage>(hält Grand'mère am Arme fest)</stage></p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <stage>(hat inzwischen Jeanne auf’s Canapé gebettet)</stage>
+          <p>Sie kœnne ganz berüehigt sin Madame, es isch numme e kleini Ohnmacht.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Wo isch denn s’Jeanne, Mame??? Wo??? Grand’mère: <stage>(führt Braun zu Jeanne ans Canapé)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(sucht Jeanne)</stage>
+          <p>Jeanne, Jeanne, min Kind!!! Was hesch düe denn??. ..... Mame es gibt jo kein Ant- wort!!!!</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Es isch nix Monsieur, sie kœnne sicher berüehigt sin. Ihri Tochder isch uff de Stross aneg’fallle, direckt vor min Auto. Vor Schrecke isch sie jetzt ohnmächtig. Es düert noch e paar Auwesblick. Sie het nit die geringschde Verletzunge.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Uessgerutscht saawe sie? Sie wäres üewerfahre han, dess arme Kind.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ich versicher ihne Monsieur, dass ihri Tochder nit üewerfahre isch wore. Es sin jo Zeje do wo’s g’sähne han: e Schutzmann un e Frau wo do im Hüess wohnt.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>S’isch schun güet, sie han Recht, wie immer all richi Lyt Recht han, wenn ebs pasiert. D’r arm Teifel isch immer de Schuldig. Gehn sie jetzt numme...... sie han jo ihri Pflicht gemacht.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Nein Monsieur, ich blie. Ich bin Dokter un geh erscht, wenn ich seh, dass alles erum isch.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(hat in der Zwischenzeit Jeanne das Gesicht  abgewaschen)</stage>
+          <p>Jeanne!!! Jeanne! !!!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(sucht Jeanne auf dem Canapé)</stage>
+          <p>Mame was isch? ? Grand’mère: Es kummt züe sich. Es isch wie der Herr do saat, es isch nit schlimm.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(ruft)</stage>
+          <p>Jeanne, Jeanne!!!</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(hat sich zu Jeanne gesetzt und sie auf-  gerichtet, hält sie nun in ihren Armen)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame, saa wie geht's ihm? ? Grand’mère: Stille, stille.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(kommt wieder zu sich, lächelt)</stage>
+          <p>Grand'mère! ! ! ! <stage>(küsst sie)</stage></p>
+          <pb n= '15' />
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Jeanne, Jeanne! !</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Babe!!!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Hesch weh min Kind?</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Nein, Babe; ich hab nit weh.... Grand'mère, wo sinn denn d’Wecke wo ich g’holt hab? ?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Die leje drunte uff de Stross un sin nass <stage>(geht zu Paul und sagt etwas)</stage></p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(geht ab)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Was hesch denn gemacht Kind? ?</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Ich hab wœlle schnell üewer d’Stross laufe, wo ich d’Wecke hab g’hett; bin awer üessgerutscht un aneg’falle. Ich hab noch die zwei grosse Lichter vum Auto g’sähn, un no isch alles schwarz worre.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Hesch sicher nierigs Weh?</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Nein, ganz sicher nit.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Saa’s numme Jeanne.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Grand'mère ich hab nierigs Weh.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ich versicher ihne nochemol Monsieur, dass ihri Tochder nit vum Auto berührt worre isch. Wenn sie wœlle untersüech ich sie awer trotzdem.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Merci vielmols Monsieur un verzeje sie mir vun vorhere.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>s’isch schun güet, ich kann’s verstehn, d'Uffrejung im erschte Moment.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja so isch’s. Awer ‚merci will ich ihne doch saawe, denn Geld kann ich ihne nit gän, will ich kein’s hab.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>s’isch schun güet Monsieur. Sie han e Auweliede ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, es isch vum Kriej.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Sie sin blind?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja ..... blind.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>An beide Auwe ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, Monsieur.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Sie nämme mir’s doch nit in Uewel uff, wenn ich sie frœj?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Nein, nein, Monsieur.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Durich was isch’s den kumme ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Vun-ere Miin.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Vun-ere Miin?</p>
+          <pb n= '16' />
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, ich bin grad vum Sanitätsunterstand here kum- me, wo ich e Schwerverletzter anegetrawe hab g’het. Es ich noch e Büe gsin, küm 19 Johr alt. Ich hab grad in de Grawe ningewœllt, no het e Miin iingschlaawe. s’Fier wo ich dert g’sähne hab, isch’s s’letschde g’sin, was isch g’sähne hab. Blind! ! blind!!! vun dert aan isch immer Nacht um mich g’sin.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Armer Mam!!...... un wo ich dess g’sin, wo sie verwundt worre sin? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>By Cambrai.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>By Cambrai?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, in de Stellung vun Pronville.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Pronville?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja. Sie kenne die Stellunge dort ?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ja. Un der Soldat wo sie üess’m Drohtverhau erüesg’holt han ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Es isch e Strossburjer g’sin.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>D’r Greiner Henri, gäll Albert! ! Düe bisch’s gäll? ? <stage>(umarmt Braun)</stage></p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Wer sin sie?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ich bin’s de Henri. ..... kennsch mich nimmi? ? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(langsam)</stage>
+          <p>de Henri? ? ?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ja Albert, ich bin’s. Mich hesch düe üess’m Droht- verhau erüess g’holt, mir hesch s’Läwe gerett un bisch debie blind worre.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Düe bisch de Henri? <stage>(tastet das Gesicht von Henri ab)</stage></p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ja, ja ich bin’s. Hyt endlich noch lange Johre kann ich dir merci saawe.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Loss, loss Henri. Loss „Kleiner“.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ja „Kleiner“, so hesch düe mir als g’saat, die Zyt, die paar Monet, wo mir bynand sin g’sin.</p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(kommt von hinten — — hat eine gr. Tüte, welche  er auf den Tisch legt)</stage>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja „Kleiner“ ..... awer saa, wie isch’s dir denn speder no gange?</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <pb n= '17' />
+          <p>Ich bin by Cambrai in e Feldlazarett kumme. Im Früehjohr 1918 wo no d'r Vormarsch, d. h. de Rüeck- marsch ang’fange het, sin mir no vun Engländer in’s Innere transportiert worre. Ich hab noch Orleans in’e Lazarett verlangt, will ich dort Verwandti hab. Dort bin ich au operiert worre. Mini Eldere sin noch’m Armistice au ane kumme und dort gebliewe. Ich hab no mini Stüdie in Paris ferti gemacht un bin jetzt in Orleans etabliert.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Un dini Wunde ???</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Es isch alles güet g’heilt, numme düe bisch nit güet devun kumme.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Loss „Kleiner“.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p><stage>(zeigt auf Jeanne)</stage> Ich dess nit din Tœchderle, s’Jeannele, wo düe mir als verzehlt hesch? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja min Jeannele!! kumm here züe mir Jeanne!</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(geht zu Braun)</stage>
+          <p>Henri Un dini Frau, Albert?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>s’Madeleine.....</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ja!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>...... <stage>(erregt)</stage> ..... isch ..... voreme ..... halwe Johr .....g’storwe.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Düe Armer, hesch au gar kein chance!</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>E Lungeentzüendung ..... un noch ..... s’Misère! Ah, un dort ich au mini lieb un güet Mame, Henri! !!!</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <stage>(geht zu Grand'mère)</stage>
+          <p>Ich hab viel vun ihne ver- zehle hœre, Madame Braun. D’Mame, d’Frau un sin Jeannel sin immer sin Alles g’sin.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Noch ebs „Kleiner“.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Was denn Albert?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <stage>(ruft)</stage>
+          <p>Charele! !! Wo steckt er denn? ?</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Er isch gar nit do.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Er isch allewäj in de Küeche <stage>(geht rechts ab)</stage></p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Düe hesch noch e fils? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja, e fils wo ich kenn awer noch nie g’sähne hab.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(von rechts)</stage>
+          <p>Er isch nit do.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ja wo steckt er denn. Charele! !!!</p>
+          <pb n= '18' />
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(geht an den Tisch und hebt die Decke in die  Höhe)</stage>
+          <p>Do sitzt er jo. Zeij kumm vor, Charele.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(unterem Tisch)</stage>
+          <p>Isch de Hanstrapp furt? ?</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Alle:</speaker>
+          <stage>(lachen)</stage>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <stage>(geht an den Tisch und bückt sich)</stage>
+          <p>D'r Hans- trapp? ? Ja der isch jo gar nit do g’sin.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Doch, doch, ich hab ne jo g’sähn.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <stage>(holt Charele unterem Tisch hervor)</stage>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(sieht Paul)</stage>
+          <p>Dort steht er jo. <stage>(lauft schnell hinter Grand'mère)</stage></p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Dess isch doch de Hanstrapp nit.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Nein. Awer er kann, ne jetzt emol spiele. Paul, hole sie alli Sache wo im Auto leje, eruff.</p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(hinten ab)</stage>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Ich bin nämlich by minere Schwechder wo hy g'hyrot isch, üewer Wihnachte. Ich hab grad Inkeif gemacht un bin jetzt durich des Accident vum Jeanne do here kumme. Wie geht’s dir sunscht Albert, was machsch? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Ich hab noch’m Kriej Klavierstimmer gelehrt, will ich uff mim Handwerik nimmi schaffe kann.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Un was verdiensch do? ?</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>So, emol viel.....</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>..... un emol gar nix, gäll. Dess hœrt jetzt uff. Ich sorig vun hyt an füer dich. Wer weiss wo ich wär, wenn düe nit wärsch g’sin.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Loss „Kleiner“ ..... nein.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Doch Albert ....... loss düe numme diner „Kleiner“ mache. Ich denk mir, dass düe mit dinere Pen- sion un mit dem was düe verdiensch mit 4 Persone in däne Zyte nit läwe kannsch. Ich hab noch ebs quitt zu mache. Vor alle Dinge bekummsch düe emol e Woh- nung in eim vun de Hiser vun mine Eldere. S’andere wo no noch ze mache isch, wur ich no schun sähn.</p>
+        </sp>
+        <sp who="#paul">
+          <speaker>Paul:</speaker>
+          <stage>(bringt eine Menge Pakete uud ein kleines Tannen-  bäumchen mit einigen Kerzen und legt alles auf den  Tisch)</stage>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <stage>(will wieder unter den Tisch, sobald Paul herein kommt)</stage>
+          <pb n= '19' />
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <stage>(hält Charele zurück)</stage>
+          <p>Düe brüesch doch kein Angscht ze han.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Grand’meman! ! <stage>(stellt sich hinter Grand'mère)</stage></p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Do Madame Braun, ebs füer ihri Kinder. Miner neveu un mini nièce bekumme anderi Sache. <stage>(gibt Grand'mère Geld)</stage></p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <stage>(will es nicht annehmen)</stage>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Doch doch Madame Braun; sie müens nämme.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Oh, je, was viel Dings. <stage>(bedrachtet die Pakete)</stage> Charele zeij lüej doch emol.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Nochher.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>„Kleiner“ nein, ich kann dess nit annämme.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Albert, ich hab gar kein Zyt, füer mit dir ze disch- betiere. Ich müess unbedingt glich furt. Ich kumm morje wieder, no redde mir mitnand.</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Merci vielmols füer alles, Monsieur.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Nein Madame Braun, <stage>(zeigt auf Braun)</stage> dort steht der, wo ellein e „Merci“ verdient.</p>
+        </sp>
+        <sp who="#jeanne">
+          <speaker>Jeanne:</speaker>
+          <p>Merci Monsieur ! !</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p>Aurevoir Albert! ich kumm morje wieder un no fiere mir Wihnachte do by dir. <stage>(umarmt Braun)</stage> Amüesiere euch hyt Owes güet.</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Aurevoir „Kleiner“.</p>
+        </sp>
+        <sp who="#henri_greiner">
+          <speaker>Henri:</speaker>
+          <p><stage>(gibt allen die Hand und geht mit Paul hinten ab)</stage>.</p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p>Adjé Hanstrapp ! ! Grand’mère: <stage>(geht mit Jeanne an die Türe, machen sie zu)</stage></p>
+        </sp>
+        <sp who="#charele">
+          <speaker>Charele:</speaker>
+          <p> <stage>(geht ängstlich hinter Grand'mère her)</stage> </p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Mame, Mame!! Grand’mère: <stage>(geht zu Braun)</stage> Was myn Büe ??</p>
+        </sp>
+        <sp who="#albert_braun">
+          <speaker>Braun:</speaker>
+          <p>Wenn numme noch s’Madeleine läwe dät! ! !</p>
+        </sp>
+        <sp who="#d_grand-mere_oder_grand-pere">
+          <speaker>Grand'mère:</speaker>
+          <p>Ja, ja s’Madeleine! Awer lüej dess isch sicher au so zefriedde wenn es weiss, dass es uns wieder besser geht. Wihnachte het füer uns e grossi Ande- rung gebrocht. Due derfsch de Müet nit verliere, denn es gibt doch noch gueti Lyt uff de Wält, wo helfe, wenn sie könne. <stage>(zu den Kindern.)</stage> Un au ihr Kinder,</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

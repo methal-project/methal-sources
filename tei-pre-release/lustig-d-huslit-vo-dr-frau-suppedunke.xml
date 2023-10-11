@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'Hüslit vo dr Fraü Suppedunke</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-118"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">D'Hüslit vo dr Fraü Suppedunke
+                        </title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_hecht" sex="M">
+            <persName>Herr HECHT</persName>
+          </person>
+          <person xml:id="herr_kuckuck" sex="M">
+            <persName>Herr KÜCKÜCK</persName>
+          </person>
+          <person xml:id="herr_pflasterle" sex="M">
+            <persName>Herr PFLÀSTERLE</persName>
+          </person>
+          <person xml:id="madame_hecht" sex="F">
+            <persName>Madame HECHT</persName>
+          </person>
+          <person xml:id="frau_suppedunke" sex="F">
+            <persName>Fraü SUPPEDUNKE</persName>
+          </person>
+          <person xml:id="finele" sex="F">
+            <persName>FINELE</persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_hecht">
+          <role>
+            <persName>Herr HECHT</persName>
+          </role>
+          <roleDesc>G'schàftsmann</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_kuckuck">
+          <role>
+            <persName>Herr KÜCKÜCK</persName>
+          </role>
+          <roleDesc>Seifesieder</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_pflasterle">
+          <role>
+            <persName>Herr PFLÀSTERLE</persName>
+          </role>
+          <roleDesc>Dokter</roleDesc>
+        </castItem>
+        <castItem corresp="#madame_hecht">
+          <role>
+            <persName>Madame HECHT</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#frau_suppedunke">
+          <role>
+            <persName>Fraü SUPPEDUNKE</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#finele">
+          <role>
+            <persName>FINELE</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(sitzt am Tisch bim Fenster un stützt dr Kopf in
+                        d'Hand)
+                    </stage>
+          <p>Isch das e trürige-n-Existenz, wenn eim d'Liewe-n-eso
+                        unglicklig üsfalle thüet!...<stage>(er steht uf)</stage> vor acht Tàg
+                        noch bin i g'licklig gsi... 's Finele-n-un ich hàn
+                        enander gern g'ha un hàn ghofft, bol mitnander
+                        z'hirothe... un mit Freid ha-n-ich süeche mine
+                        Seifestange an Mann z'bringe, fir Geld z'verdiene...
+                        denn ich bi in dr Seife... un im letschte Moment derno,
+                        wo-n-ich um ihre Hand g'frogt ha, so hàn ihre-n-Eltere
+                        refüsiert!... un worum?... wil se ne wenig ebbes hàn un
+                        hoffe ne bessere Parthie z'finde fir ihre Tochter!...ne
+                        bessere Parthie as dr Alexander Kückück,
+                        Seifefawrikant?... niemols!... viellicht finde se mehr
+                        Geld, 's isch möglig, awer nie mehr Liewe... mr sin
+                        schier narràchtig worde, 's Finele-n-un ich, vor
+                        Kummer... ich ha mich vergewes g'süecht z'vergesse mit
+                        reise.... ich bi uf Paris gange, wo-n-i grad G'schàfte
+                        g'ha ha un jetz bin i wieder uf em Heimweg, doch
+                        allewil denk i nur an sie... 's isch mr verleide, ich
+                        möcht glaüb grad grine...
+                    </p>
+          <pb n="291"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ach wie ist's möglich...)</stage>
+            <l>Wie isch mi Herz so schwer!</l>
+            <l>Wenn ich nur bi ihr' wàr,</l>
+            <l>Denn ich denk hait an Sie,</l>
+            <l>Wo-n-ich nur bi;</l>
+            <l>Kännt ich se b'schaüe noch,</l>
+            <l>Wie wàr ich glicklig doch!</l>
+            <l>s' g'fallt mir nit anders meh,</l>
+            <l>Mächt züe-n-ihr' geh!</l>
+            <l>Ich mächt geh grine fast!</l>
+            <l>D'Seife-n-isch mir züer Last,</l>
+            <l>Grad as wie ihre Schüm</l>
+            <l>Dürt 's Glick nur küm;</l>
+            <l>Mit alle Farwe drin,</l>
+            <l>So schwebt's eim vor em Sinn,</l>
+            <l>Doch, will me's hewe g'schwind,</l>
+            <l>So nimmt's dr Wind!</l>
+          </lg>
+          <p>Ich ha mich jetz nur noch ufz'halte do in Zillese,
+                            zwe oder drei Tàg, derno gang i halt wieder uf
+                            Milhüse z'ruck... denn 's zieht mi wider mi Wille
+                            wie ne Magnet dert ane... awer was nutzt's mi, wenn
+                            i doch nimmig derf züe-n-ere geh...
+                        </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Kückück, Fräu Suppedunke.</stage>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(macht Thüre-n-uf hinte)</stage>
+          <p>Ich müess ku lüege, eb dr Herr z'friede-n-isch mit sim
+                        Zimmer un eb er ebbes brücht viellicht?...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ganz z'friede bin i, Madame Suppedunke... ganz
+                        z'friede... wo-n-i dà morge vom Isebahn ku bi un g'sàh
+                        ha, ass in dem Hüs Chambres garnies z'verlehne <pb n="292"/> sin, so
+                        ha-n-ich mich nitt lang b'sunne... ich ha glich züe mir
+                        selbst g'sàit: Alexander, do kasch dü schön logiere fir
+                        e paar Tàg... 's isch rüehig un still... Sie hat do ne
+                        schöne Proprietät, Madame Suppedunke...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>He, he... jo, jo... 's isch eso ziemlig ag'nehm do...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Das ich ebbes werth, eso ne Hüs mit eme so ne schöne
+                        Garte drum... à propos, ich will Se doch glich zahle
+                        fir die drei Tàg, wo-n-i do blib... denn ich will
+                        décidément nitt länger bliwe-n-as drei Tàg...<stage>(fir
+                        sich)</stage> 's isch dr Magnet, wo zieht...<stage>(lüt)</stage> do isch dr
+                        Pris, wo mir üsg'macht hàn mitnander<stage>(er git ere Geld).</stage>
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(steckt's i)</stage>
+          <p>Eh, pressiert's denn eso mit dem zahle, Herr Kückück...
+                        Sie hätte jo noch känne warte... also sin Se z'friede
+                        un 's fehlt Ene nit?...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(fir sich)</stage>
+          <p>Eb mr nit fehlt, meint Se noch!...<stage>(lüt)</stage> doch, Madame
+                        Suppedunke... doch... 's fehlt mr viel, gar viel...
+                        awer was ich gern hätt, das ka Sie mir doch nitt
+                        verschaffe...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(wunderfitzig)</stage>
+          <p>Was miesst denn das si, we me froge derf?</p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ne Fraü, Madame Suppedunke!... das heisst, die Fraü,
+                        wo-n-ich gern hätt.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Ich ha Wunder g'meint was!... lose Se, junger Mensch,
+                        wenn Sie noch ledig sin, so bliwe Sie ledig... glaüwe
+                        Sie mir, thien Sie sich kei Fraü uf dr Hals lade...
+                    </p>
+          <pb n="293"/>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ich thàt mr se nitt uf dr Hals lade, Madame
+                        Suppedunke... ich thàt se-n-uf de Hànd trage...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Sie wàre glich mied, Herr Kückück... glaüwe Se mir, 's
+                        git nit dümmer's as d'Hiroth!...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Meine Se, Madame Suppedunke?</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(gentille couturière)</stage>
+            <l>Fir güete Seife z'siede,</l>
+            <l>Sott mir e Fraü scho lang</l>
+            <l>D'heim mi Fawrike hiete,</l>
+            <l>Wenn ich uf d'Reis als gang,</l>
+            <l>Un sott mich als güet empfange,</l>
+            <l>Wenn ich vo dr Reis, der lange,</l>
+            <l>Freidig wieder z'ruck als kumm;</l>
+            <l>Das isch doch glaüb scho nitt dumm.</l>
+          </lg>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <lg>
+            <l>Er soll nur Seife siede,</l>
+            <l>Das bringt em Geid in's Hüs,</l>
+            <l>Kei Mensch wird's em verbiete,</l>
+            <l>D'Fraü git's scho wieder üs</l>
+            <l>Fir Toilette-n-un so Sache,</l>
+            <l>Wenn sie nur viel G'staat ka mache,</l>
+            <l>Das isch jetz ihr höchste Güet,</l>
+            <l>Wenn sie ne Mann hirothe thüet.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Awer die, wo-n-ich gern hätt, Madame Suppedunke, die
+                        isch nitt eso...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(lipft d'Achsle)</stage>
+          <p>Sa thien Sie halt hirothe, ass d'arme Seel Rüeh
+                        hat!...
+                    </p>
+        </sp>
+        <pb n="294"/>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ich watt scho... awer ihre-n-Eltere wànn's nitt ha...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Eh, wenn's nur d'Jumpfere will ha!...</p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Das geht nitt...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Worum geht's nitt!... sàhn Se, dr Suppedunke, mi Mann
+                        selig, wo g'storwe-n-isch, dà hat mit mir d'gliche
+                        G'schichte g'ha... eh bien, er hat mich g'hirothe,
+                        züedem ass alle derwider gsi sin... wisse Se... ich
+                        bi-n-als ewe gar e schöne Jumpfere gsi...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(fir sich)</stage>
+          <p>Me wott's nitt meine... 's isch ere wiescht
+                        vergange...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Awer wie g'sàit, ich thàt Ene nitt rothe züem
+                        Eh'stand... 's isch selte, wenn Zwei güet mitnander
+                        furtkämme... oh! wenn ich dra denk, was mir als g'ha
+                        hàn!... wenn ich « hischt » ha welle geh, so isch er «
+                        hott » gange... ha-n-ich grine, so hat er g'sunge...
+                        nei, nei... nur nitt hirothe... so lang as me Hochziter
+                        isch, so sieht me dr Himmel voll Bassgige hànke, später
+                        kämme se-n-owe-n-awe... alle Tag fallt eim
+                        e-n-Andere-n-uf dr Kopf un 's git als màngmol famose
+                        Bile, Herr Kückück... ich garantier Ene derfir!
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>We me-n-awer enander gern hat, Madame Suppedunke,
+                        so...
+                    </p>
+          <pb n="295"/>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Scho güet... oh! ich weiss wohl, ass es nit nutzt 's
+                        Predige... d'junge Lit mahne mich an das Kind wo
+                        allewil alles hat welle am Tisch, un wo derno, wo
+                        me-n-emol Sànft brocht hat, natirlig o glich g'rüefe
+                        hat: « Ich will o Sànft »... vergewes hat me-n-ihm
+                        g'sàit, asses nitt güet isch... 's hat alles nit
+                        g'nutzt... « ich will o Sànft » isch d'Antwort gsi...
+                        un do hat me-n-ihm halt Sànft gà un do hat's ne
+                        üseg'spaüe... voilà... dr Herr Kückück will o Sànft!
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Was will Se halt... d'Welt isch jetz emol eso g'macht...
+                        awer einstwile müess ich jetz doch geh mine G'schàfte
+                        b'sorge und lüege, ass ich e paar Kiste Seife losbring
+                       <stage>(er nimmt si Hüet)</stage> au revoir, Madame Suppedunke<stage>(er
+                        geht gege dr Thüre)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Au revoir, Herr Kückück... ich wünsch Ene Glick
+                        derzüe... wànn Se das Ding do nitt mitnàh<stage>(se zeigt uf
+                        d'Paresollade)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Das?... nei, 's isch e Paresol fir e g'wisse Madame
+                        Hecht vo Milhüse... mr hat mir die Cummission ag'hànkt
+                        im letschte-n-Aügeblick, wo-n-i scho im Train g'sesse
+                        bi z'Paris, fir do ane z'ku.... ich müess es ere geh
+                        bringe, wenn ich uf Milhüse kumm.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Ah, 's isch e Sunne-Paresol?... ich ha g'meint, 's seig
+                        ebbe Seife oder eso ebbes... kannt me's nitt e wenig
+                        b'schaüe, Herr Kückück... wisse Se, ich bi ewe ne wenig
+                        wunderfitzig...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se hat alle Qualitäte, die Fraü...<stage>(lüt)</stage> worum nitt...
+                       <stage>(er zeigt's ere)</stage> hein, Madame Suppedunke, do dra isch
+                        nitt g'spart worde... ma macht doch efange schöne
+                        Sache!
+                    </p>
+        </sp>
+        <pb n="296"/>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Do, hàn Se jetz wieder e-n-Exempel vom G'staat,
+                        wo-n-Alle mache... sàhn Se, dr Suppedunke, mi Mann
+                        selig...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Wo g'storwe-n-isch...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Sie hàn's errothe... dr Suppedunke, mi Mann selig, wo
+                        g'storwe-n-isch, dà hat dr G'staat nie welle lide-n-an
+                        mir... wenn ich denk, was mir als fir G'schichte g'ha
+                        hàn...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(legt 's Paresol wieder in d'Lade un legt 's Papier
+                        driwer)
+                    </stage>
+          <p>Güet, güet... Madame Suppedunke... ich will jetz geh...
+                        ich ka das Paresol jo do lige lo, nitt wohr... 's
+                        geniert nitt... au revoir...<stage>(er geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(allei)</stage>
+          <p>Wenn dà sich jetz ibildet, ass das Hüs un dà Garte mi
+                        g'hört, so trumpiert er sich wiescht... ich
+                        Propriétaire!.. mit was, dü liewe Zit!.. im Herr Bumm
+                        vo Milhüse g'hört das ganze G'schàft, ich bi nur drin,
+                        fir's z'hiete... ich bi so was me nennt e vertraüte
+                        Person... müess dà Mensch, dà Herr Bumm rich si un Geld
+                        eweg z'werfe ha, fir eso ne Hüs z'unterhalte do,
+                        wo-n-er nur emol 's Monets kunnt ku logiere drin, fir e
+                        Tag oder zwe... un do nitt allewil!... wenn er kunnt,
+                        so isch's als dr Erst oder dr Zweit, nie später... also
+                        hit isch dr Dritt, jetz kunnt er nimmig dà Monet, do
+                        ka-n-i sicher si, drum ha-n-i mi Chambre-garnie-Tàfele
+                        wieder üseg'hànkt... ich verlehn als ewe das Dings,
+                        wenn er nitt do isch... das tràit mir ebbes i 's Johr
+                        dure... do isch e Zimmer mit eme Bett<stage>(se zeigt rechts)</stage>
+                        un dert isch e Zimmer mit eme Bett<stage>(se zeigt links)</stage>
+                        soll ich das Dings alles leer lo steh?... un<pb n="297"/> derno, mit
+                        wem wott ich als schwàtze, wenn eso Monete lang
+                        nieme-n-im Hüs wàr... ich kännts nitt üshalte... ich ha
+                        wohl e Spatz d'vorne im Käfig; wo-n-ich als mit em
+                        red', wenn i sunscht nieme ha... awer dà git mr nur
+                        allewill « Zwilch » züer Antwort, nit as « Zwilch »<stage>(se
+                        lüegt par hasard züem Feuster üse)</stage> doch wer kunnt jetz
+                        dert dur dr Garte?... wohrschinlig wieder ebber fir
+                        z'lehne!... o sapristi, dr Herr Bumm, dr
+                        Propriétaire!... isch's möglig! er trumpiert sich jo,
+                        dà Mann... 's isch jo hit dr Dritte... er isch noch nie
+                        dr Dritte ku!... un ich, wo-n-eins vo sine Zimmer
+                        verlehnt ha!... jetz stand i schön!...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Fraü Suppedunke, Herr Hecht.</stage>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(kunnt hinte-n-ine mit Angelrüethe un o blàchige
+                        Lade-n-in dr Hand)
+                    </stage>
+          <p>Aha, do isch Se, Fraü Suppedunke?... ich ha Se g'süecht
+                        d'vorne... was git's Neüs... isch alles in Ordnung?...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(verlege)</stage>
+          <p>Isch's möglig, Herr Bumm!... isch's möglig!... sin Sie's
+                        wirklig?
+                    </p>
+          <p>Natirlig bin ich's... Sie isch verwundert, nitt wohr ass
+                        ich erst dr Dritte kumm?... was will Se halt.. fir
+                        dasmol ha-n-ich mich miesse derangiere... ich ha züe
+                        viel G'schàfte g'ha...<stage>(fir sich)</stage> un mi Fraü geht mr
+                        halt streng uf d'Ise, se-n-isch jalouse... gehn geh
+                        hirothe!... nitt emol geh fische därf me!
+                    </p>
+        </sp>
+        <pb n="298"/>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Un dr Herr Kückück, wo ne jeder Aügeblick z'ruck kumme
+                        ka!...<stage>(lüt)</stage> awer Herr Bumm, hit bickt's jo nitt... dr
+                        Himmel isch-jo ganz blaü.... un Sie hàn jo selbst scho
+                        g'sàit, 's müess trieb Wetter si, sunscht fangt me
+                        nit...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(git sich mit de-n-Angelrüethe z'schaffe)</stage>
+          <p>Ich weiss es wohl... ich ha g'wackelt, eb ich noch ku
+                        will oder nitt... doch hat's mich züe arg g'lustet,
+                        wieder emol uf 's Land z'geh...<stage>(fir sich)</stage> un mi Fraü
+                        wo mich jetz riehig im mim Bureau glaübt!... doch ich
+                        lieb d'Fischerei viel z'viel, fir nitt dann un wann e
+                        Tàgle Freiheit z'zahle in dr schöne Natür... ich ha's
+                        nitt wie mi Fraü, wo 's Land gar nitt lide ka.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was hat er jetz dert eso z'brummle fir sich?... wenn ich
+                        ne doch nur furt kannt bringe!<stage>(lüt)</stage> also hàn Sie im
+                        Sinn do z'bliwe hit, Herr Bumm?...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Sie g'fallt mr jetz noch!... natirlig ha-n-ich im Sinn
+                        do z'bliwe.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Awer Herr Bumm...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Ah çà... was isch ere hit?...<stage>(fir sich)</stage> die Fraü
+                        agàciert mich mit ihrem Herr Bumm, e falscher Name,
+                        wo-n-ich do agnu ha, fir ass mir mi Fraü nitt soll uf
+                        d'Spür g'rothe...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Herr Bumm...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Scho wieder!...</p>
+          <pb n="299"/>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Dr Suppedunke, mi Mann selig, wo g'storwe-n-isch...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Dà isch g'wiss o gern gange geh fische, nitt wohr ?<stage>(fir
+                        sich)</stage> fir ass er d'heim furt ku isch!
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>'s isch wohr... jà... er hat als känne Tagelang am Kanal
+                        sitze un hungrig uf si Angel lüege, eb's nitt bol
+                        bickt, as wie wenn er d'heim nitt genüeg z'esse biku
+                        hätt... awer bi so Wetter nie!... an Ihrem Platz, Herr
+                        Bumm...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Was thàt Sie mache-n-an mim Platz, Fraü Suppedunke?<stage>(er
+                        süecht in sine Säck)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Hm...<stage>(fir sich)</stage> ich ka-n-en doch nitt eso gradeweg heim
+                        schicke...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>A propos... wo isch denn mi Angel?... ich ha-n-en glaüb
+                        's letschte mol do lige lo, wc-n-i furt bi... wo hat
+                        Sie-n-en ane tho, Fraü Suppedunke?
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Kunnsch morn dure, ass ich Dir Di Angel gib<stage>(lüt)</stage>
+                        Ihre-n-Angel?... ich ha kei Angel g'sàh...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Wenn Sie nur dr Kückück thàt hole!</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Hein?... dr Kückück... merkt er viellicht ebbes?...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Er sott doch do si... ich 'ha ne nitt im Sack un er isch
+                        doch o nitt d'heim...
+                    </p>
+        </sp>
+        <pb n="300"/>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Sie hàn en wohrschinlig lige lo im Isebahn, wo Se heim
+                        g'fahre sin 's letschte mol... an Ihrem Platz gieng ich
+                        geh nolüege...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Hein... worum nitt gar!<stage>(fir sich)</stage> me wott grad meine,
+                        se hätt mich gern ab, die Alte... was isch jetz
+                        z'mache?... ma fois, wil ich kei Angel ha, so kännt ich
+                        viellicht mit dr Bààre fische...<stage>(lüt)</stage> wo isch mi
+                        Bààre, Fraü Suppedunke?... ich ha-n-emol eine brocht...
+                        ich kännt se viellicht an mi
+                        dickste-n-Angel-rüethe-n-amache...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Ich wott Ene gern eine-n-abinde, Herr Bumm, awer...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Awer...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Awer Sie hàn se wieder mitgnu...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>'s isch wohr... ich ha se wieder mitgnu... se hat e Loch
+                        g'ha...<stage>(fir sich)</stage> enfin, ich loss es glaüb liewer geh
+                        fir hit... ich hätt jo wohrschinlig doch nitt g'fange
+                        un ha noch ohnedem viel z'thüe im Bureau z'Milhüse.<stage>(er
+                        lüegt uf d'Ühre)</stage> In zeh Minüte fahrt e Train... ich ha
+                        jetz noch grad Zit, an Isebahn z'geh...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Gottlob, er geht!... ha-n-ich Chance, hein!... ha-n-ich
+                        Chance!...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Fraü Suppedunke...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Herr Bumm?...</p>
+          <pb n="301"/>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Ich ha-n-Idee g'changiert... ich gang nitt geh fische,
+                        awer dr Zweit dr ander Monet kumm i ohne Fehler...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Güet, Herr Bumm...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(nimmt sine-n-Angelrüethe)</stage>
+          <p>Un ass alles in Ordnung isch... denkt Se dra!...</p>
+          <lg>
+            <head>G'sang</head>
+            <l>Thàt Sie 's Hüs güet bewache</l>
+            <l>Un Ihre Dienst recht mache,</l>
+            <l>Wonitt, so isch's glich üs,</l>
+            <l>Sie müess mr wieder drüs.</l>
+          </lg>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <lg>
+            <l>Sie brüche sich nitt z'quäle,</l>
+            <l>Sie känne-n-uf mich zähle,</l>
+            <l>Denn g'wiss, 's geht drin derher,</l>
+            <l>Wie wenn's mi eige wàr.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Ich will's hoffe... haltet Sie sich nur güet<stage>(er geht
+                        hinte-n-üse.</stage>
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Fraü Suppedunke, derno Herr Pflàsterle
+                    un Finele.
+                </stage>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(allei)</stage>
+          <p>Ouf!...<stage>(se losst sie uf e Stüehl sinke un macht si Wind
+                        mit em Nastüech)</stage> dasmol ha-n-i g'schwitzt!... züem
+                        Glick, ass er nitt bliwe-n-isch, un ass er 's
+                        Chambre-garnie-Tàfele nitt g'sàh hat am Hüs hànke,
+                        sunscht hätt er am End ebbes g'merkt... jetz will ich
+                        awer emol geh mi z'Mittagesse rischte<stage>(d'Thüre geht uf
+                        un<pb n="303"/> dr Herr Pflàsterle kunnt ine mit em Finele, wo glich
+                        uf e Stüehl sitzt un vor si hi schaüt ohne ne Wort
+                        z'sage)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterte.</speaker>
+          <p>Pardon... isch Sie's, wo Chambres garnies z'verlehne
+                        hat... ich ha's ewe-n-ag'schriwe gsàh d'vorne...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Se sin ganz recht... 's isch do... awer...</p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Güet... ich bi dr Dokter Pflàsterle vo Milhüse un ha do
+                        ne Kranke, ne Jumpfere, wo-n-ich gern thàt unterbringe
+                        fir ebbe acht Tàg vor dr Stadt use, am e rüehige,
+                        stille-n-Ort, denn 's isch nur das, wo se wieder ka
+                        herstelle... Ihre Hus, wo mir züefàlligerwis dernewe
+                        dure sin vorig, hat mir glich g'falle... drum wenn mir
+                        känne iwereins ku mitnander...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Herr Bumm kunnt nimmig bis dr ander Monet... also
+                        ka-n-ich das ganz güet mitnàh... 's isch wieder eso
+                        viel...<stage>(lüt)</stage> Wenn's Ihne g'fallt do, un ass Sie dr
+                        Pris wànn zahle, so isch's mir scho recht... Se känne
+                        Ihre Kranke glich do lo... dert isch e Zimmer<stage>(se zeigt
+                        links)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Güet... Sie derf mir nur d'Rechnung mache, ich
+                        marchandier nitt... ich will se glich ine fiehre... Sie
+                        erlaüwe, nitt wohr?...<stage>(er nimmt 's Finele am Arm un
+                        fiehrt's in's Zimmer links)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(allei)</stage>
+          <p>Die güete Person!... noch so jung un scho so
+                        unglicklig... was mag se nur o fir e Krankhet ha... ich
+                        müess dr Dokter froge, wenn er üse kunnt... un derno,
+                        ich kännt jetz schön profetiere un e Consultation nàh
+                        fir mich, denn siter ebbes Zit isch's mir gar nitt
+                        recht...
+                    </p>
+          <pb n="303"/>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(kunnt üse)</stage>
+          <p>So... se sitzt jetz dert am Fenster... Sie wird kei
+                        grosse Mieih mit ere ha... ich ka se Ihre jo avertraüe,
+                        nitt wohr?... ich müess Ere ewe sage... die Jumpfre
+                        isch e wenig hintersinnt...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Hintersinnt!... isch's möglig!...</p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Sie brücht awer kei Angst z'ha... se macht in Nieme
+                        nitt... se ka Stunde lang e-n-àime sitze un vor si hi
+                        schaüe, nur wenn se-n-als e Herr sieht, so fallt
+                        se-n-em um dr Hals und meint, 's seig ihre Hochziter.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Die arme Person!... lose Se, Herr Dokter, wil Sie grad
+                        do sin, so mächt ich Se doch o froge, eb Sie mr nit
+                        kännte verschriwe dr Suppedunke, mi Mann selig, wo
+                        g'storwe-n-isch...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Güet, güet... wenn er g'storwe-n-isch, so brücht er nit
+                        meh... awer Sie... isch Sie krank, güete Fraü?...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Siter ebbes Zit, jo, ha-n-i eso 's Herzwasser am e
+                        Morge.
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Zeigt Se-n-emol Ihre Zunge.<stage>(d'Fraü Suppedunke streckt
+                        d'Zunge-n-üse)</stage> In dr Zunge fehlt emol nit.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Frau Suppedunke.</speaker>
+          <p>Das weiss ich ganz güet... ich hätt kei Dokter brücht
+                        fir das... hat er ebbe g'meint ich heb se verstücht?...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(grifft ere dr Puls)</stage>
+          <p>'s isch e wenig Fiewer...</p>
+        </sp>
+        <pb n="304"/>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>'s Fiewer! nu jo... dr Suppedunke, mi Mann selig,
+                        wo...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(macht e-n-abwehrende Bewegung)</stage>
+          <p>Genüeg!... non bis in idem, güete Fraü...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>In was soll i bisse?.. verzeihe Se, ich ka ewe nitt
+                        franzesch rede... das heisst, ich ha als känne, awer
+                        siter, ass mir zwe Zähn fehle do vorne, so geht's
+                        nimmig...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Thàt Se China-Wi trinke... ich will jetz noch geh ne
+                        Visite mache im Dorf unte, ich kumm derno noch emol
+                        dure, vor ebb ich furt fahr, fir z'lüege, eb in miner
+                        Kranke dert nit fehlt... au revoir<stage>(er geht
+                        hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(allei)</stage>
+          <p>Wenn ich Wi trinke müess, geht's noch... denn ich ha ne
+                        Angst vor dr Wassersucht, 's glaübt's Nieme!... Dr
+                        Suppedunke, mi Mann selig, wo g'storwe-n-isch, hat se
+                        g'ha... un doch hat er o nit as Wi trunke... 's isch
+                        sunderbar viellicht hat er awer doch nitt genüeg
+                        trunke?... un ich, wo-n-en als noch g'schimpft ha!...
+                        Doch 's isch jetz nitt das... ich will jetz emol geh mi
+                        z'Mittag esse rischte...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Fraü Suppedunke, Madame Hecht.</stage>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Isch denn Nieme do in dem Hüs, fir eim Red un Antwort
+                        z'gà?...
+                    </p>
+          <pb n="305"/>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Verzeihe Se, Madame...<stage>(fir sich)</stage> scho wieder e
+                        Visite... ich kumm nitt in d'Kuche hit!...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Ich bi express uf Zillese ku fahre in ere Citadine fir
+                        do ne Wohnung z'süeche, un wo-n-i Ihre Tàfele g'sàh ha
+                        im dure geh, so ha-n-i denkt, ich müess ku lüege... 's
+                        Hüs thàt mr eso ziemlig g'falle...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>'s isch mr g'wiss leid, awer in dem Moment...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Warte Se nur, ich ha no nitt fertig... mr känne-n-is
+                        viellicht arrangiere... mi Mann, dr Herr Hecht, hat ewe
+                        ne G'schàft z'Milhüse, un isch also d'ganze Zit in sim
+                        Bureau ig'sperrt, er, wo d'Natür un b'sunders
+                        d'Fischerei eso liebt... Dà güete Mann! er thüet sich
+                        die Freid versage wege mir, wil er weisst, ass ich's
+                        nitt gern ha...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Do müess er sie g'wiss gern ha, denn d'Mànner sin
+                        sunscht nitt halwer eso bled mit ihrer Ehehälfte... Dr
+                        Suppedunke, mi Mann selig, wo g'storwe-n-isch, dà hätt
+                        das nitt tho fir mich...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Uf jedefall hat er mich gern!... ich glaüb's emol...
+                        denn wenn's anderscht wàr...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Isch Sie viellicht jalouse?...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Eb ich jalouse bi!... jo, jo... ich thàt em jo
+                        d'Aüge-n-üskratze, wenn ich emol ebbes merke thàt...
+                        doch nei... das thüet mi Mànnle nitt... ich ha-n-en
+                        awer o gern un will's em jetz bewise hit.
+                    </p>
+        </sp>
+        <pb n="306"/>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Aha... ich merk's jetz scho... Sie will ihm e Surprise
+                        mache un lehne do in Zillese, fir ass Sie als mitnander
+                        känne vo Zit züe Zit e Tag oder zwe ku züebringe uf em
+                        Land?
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Sie hat's errothe... ich ha denkt, mr kännte-n-als am e
+                        Samstig z'Owe ku un iwer dr Sunntig bliwe... ich thàt
+                        ewe derno 's ganze Hüs lehne...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ha-n-ich Chance mit mim Hüs!... Das ka ganz güet geh...
+                        dr Herr Bumm kunnt nie am e Sunntig...<stage>(lüt)</stage> 's isch
+                        wie Se will, Madame Hecht, nur kännte Se erscht in acht
+                        Tag itrete... Bis dert ane wird's leer.
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Das macht nitt... also kannt ich 's Hüs b'schaüe?...</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Wenn Sie sich d'Mieih will gà un mit mr geh, so will ich
+                        Ihre alles zeige... mir känne dert dure geh, wenn Se
+                        will<stage>(se zeigt d'Thüre rechts, D'Madame Hecht g'eht
+                        z'erst üse, d'Fraü Suppedunke geht ere no)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Herr Hecht, derno Madame Hecht un Fraü
+                    Suppedunke.
+                </stage>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(kunnt hinte-n-ine un stellt sine-n-Angelrüethe un
+                        si Lade in dr Ecke hinte rechts)
+                    </stage>
+          <p>Ich ha dr Train verfehlt!... ma foi, ich ha jetz doch im
+                        Sinn doz'bliwe hit... was nutzt's mich, e Landhüs z'ha
+                        in Zillese, wenn ich nie drin will si!
+                    </p>
+          <pb n="307"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(ah qu'il fait donc bon)</stage>
+            <l>Wie isch's mir so wohl <stage>(bis)</stage></l>
+            <l>Immer im Freie,</l>
+            <l>'s isch als allemol <stage>(bis)</stage></l>
+            <l>Firtig fir mich.</l>
+            <l>Keine Sorge, keine Quale</l>
+            <l>Kämme do ku schneie,</l>
+            <l>Iwer d'Gschàfte, iwer d'Zahle</l>
+            <l>Mach ich als e Strich.</l>
+            <l>Wie isch's mir so wohl <stage>(bis)</stage></l>
+            <l>Immer im Freie,</l>
+            <l>'s isch als allemol <stage>(bis)</stage></l>
+            <l>Firtig fir mich.</l>
+          </lg>
+          <p>Ah çà, wo mag jetz nur mi Portnere wieder si?... Die
+                            Fraü g'fallt mir nur halwer siter ebbes Zit... ich
+                            ha glaüb e schlechter Fisch g'fange-n-an
+                            dere-n-Alte... un jetz kunnt's mir grad i... ha-n-i
+                            nitt e Tàfele g'sàh am Hüs hànke: «Chambres garnies à louer», was tribt eigentlig die Fraü do, wàhrend ass ich furt bi?... ich will emol in dem Ding geh nolüege... <stage>(d'Thüre rechts geht uf, d'Madame Hecht un d'Fraü Suppedunke kamme-n-ine).</stage>
+                        </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Also isch's eso üsg'macht, Madame Hecht...<stage>(se sieht dr
+                        Herr Hccht)</stage> Kritzesackerdie! dr Herr Bumm<stage>(se springt
+                        züer hintere Thüre-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Mi Fraü!</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Mi Mann!</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Ich traüm wohrschinlig, 's ka nitt anderscht si...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Ich sieh letz, 's isch nitt anderscht möglig!...</p>
+        </sp>
+        <pb n="308"/>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Was, Dü, wo sottsch rüehig d'heim si un Di Hüshaltung
+                        b'sorge!
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Mächt me nitt uf dr Kopf steh un sich mit de Fiess
+                        verwundere!... Ah so... anstatt ass Dü in Dine
+                        G'schàfte nogehsch, so kunnsch Dü in eso ne Espèce
+                        Hotel unter eme falsche Name ku dr Sültan spiele!...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Hat se Toupet, mi Fraü!...<stage>(lüt)</stage> Ich find Dich noch
+                        famos, mich welle az'klage, wenn ich Dich am e Fehler
+                        ertapp... kasch Dü mir viellicht sage, was Dü bisch ku
+                        mache do?...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Nit sag i Dr... ich ha Dir nit z'sage<stage>(se fangt a
+                        z'grine)</stage>. O ich bi d'unglickligste Fraü vo dr ganze
+                        Welt...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Scho güet, das packt nitt...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Un ich, wo hit express uf Zillese ku bi, fir Dir e
+                        Surprise z'mache, fir Dir e Freid z'verschaffe...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(nimmt ere d'Hand)</stage>
+          <p>Isch's g'wiss wohr, Sàlmele?... isch's g'wiss wohr, was
+                        De mir do sàisch?
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Un wo ha welle das Hüs lehne, fir ass mr als uf
+                        d'Fischerei hätte känne ku mitnander... un Dü machsch
+                        mir's eso!....
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Dü trumpiersch Di, Sàlmele... loss mi doch nur rede...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Ich will nit höre... Dü kasch sage, was De witt...</p>
+          <pb n="309"/>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>G'wiss, Dü irrsch Dich, liewe Fraü... grad fir z'fische
+                        isch's jo, ass ich do bi... das Hüs isch mi... ich ha's
+                        kaüft, fir ass ich als e-n-Unterschlupf ha, wenn i
+                        kumm... Dü hasch halt nie welle ha, ass mr am e Sunntig
+                        üse gehn in's Freie un do ha-n-ich mich halt
+                        arrangiert, ass ich als e Tàg in dr Wuche ka geh.
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Isch's g'wiss wohr, Hippolyte... witt mi nitt
+                        betriege... worum denn awer das « Chambre-garnie-Tàfele
+                        », wenn Dü 's Hüs kaüft hasch fir Dich...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Das weiss ich selbst nitt... 's isch wohrschinlig mi
+                        Portnere, wo mir dà Streich g'spielt hat, Dü hasch jo
+                        g'sàh, wie se dervo g'loffe-n-Isch, wo se mi erblickt
+                        hat... De siehsch jo an dem, was sie fir e güet G'wisse
+                        müess ha.
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Das isch alles nitt ganz klar, das Ding...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Wenn ich Dir sag...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>O Hippolyte!... wenn ich Dir glaüwe kännt !...
+                        trumpiersch mi g'wiss nitt?... gàll, De trumpiersch mi
+                        nitt?
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Ich Dich trumpiere?... ich miesst jo ne Schelm si... ne
+                        Schurk!<stage>(se schmutze enander)</stage> wie kasch Dü nur eso
+                        ebbes glaüwe vo mir...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(il était un bergère)</stage>
+            <l>Mr wànn dr Friede schliesse</l>
+            <l>Un wieder froh un fröhlig si,</l>
+            <l>'s soll uns nitt meh verdriesse,</l>
+            <l>'s isch alles nur e-n-Irrthum gsi.</l>
+            <l>'s isch nur e-n-Irrthum gsi.</l>
+          </lg>
+        </sp>
+        <pb n="310"/>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <lg>
+            <l>Soll ich Dir Glaüwe schenke</l>
+            <l>Un wieder froh un fröhlig si?</l>
+            <l>Ich weiss nitt recht, was denke,</l>
+            <l>Kunnsch Dü g'wiss nur fir d'Fisch dohi,</l>
+            <l>Kunnsch Dü fir d'Fisch dohi?</l>
+          </lg>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Natirlig Sàlmele... ich ka doch nitt d'heim im
+                        Stadtbàchle fische; worum wott ich Dich hintergeh?...
+                        De siehsch jo, dert stehn noch mine-n-Angelrüthe im
+                        Ecke.
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht</speaker>
+          <stage>(geht geh lüege un findet 's Paresol)</stage>
+          <p>Un das, was isch denn das do?... ne Paresoi mit Zätzele
+                        dra!<stage>(zornig)</stage> ah so... Dü Zipfel!... isch das elegante
+                        Pareselele ebbe-n-o fir Fisch z'fange!...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>E Paresol?... ich weiss vo nit...</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Scho güet... De brüchsch Di jetz nimmig z'verstelle...
+                        ich weiss jetz, was ich wisse will!...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Dü trumpiersch Di, Sàlmele... 's wird in miner Portnere
+                        si...<stage>(er nimmt's un b'schaüts un legt's uf dr Tisch
+                        vorne)</stage>.
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Allons donc!... in dere-n-alte!... ich ha jo nitt emol
+                        kei so schön's... 's isch unnöthig, ass Dü Dich
+                        süechsch üsz'rede... ich will jetz emol geh lüege bi
+                        dere Portnere, was das fir e süfere
+                        G'schichte-n-isch...<stage>(se geht hinte-n-üse, er will mit)</stage>
+                        Nix do... ich verbiet Dir nur e Schritt meh mit mir
+                        z'amache... 's isch ferig zwische-n-uns, ich loss mi
+                        scheide vo Dr!...<stage>(se geht zornig üse)</stage>.
+                    </p>
+          <pb n="311"/>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(allei)</stage>
+          <p>Ich weiss nitt, awer mi Fraü macht mir viel z'viel
+                        Manöver... ich mein allewil, sie hat mich nur aklagt,
+                        fir ass ich sie nitt soll z'Red stelle... se-n-isch mit
+                        eme Herr do gsi, das isch sicher... denn 's schmeckt no
+                        Cigarre, un ich raüch nitt un d'Fraü Suppedunke
+                        wohrschinlig o nitt... doch still... ich hör ebber
+                        ku... das isch ne viellicht<stage>(er setzt si breit in e
+                        Fauteuil)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">Herr Hecht, Herr Kückück.</stage>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(kunnt hinte-n-ine; fir sich)</stage>
+          <p>Was fir schlechte G'schàfte...in allem z'sàmme ha-n-i
+                        jetz nur e Kiste...<stage>(er sieht dr Herr Hecht)</stage> tiens...
+                        was isch jetz das fir e Particulier, wo sich eso breit
+                        setzt do in mim Zimmer, wie wenn er d'heim wàr?...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wohrschinlig ha-n-ich mich nitt trumpiert... er hat e
+                        Kiste, sàit er? .. wart, ich will Dr se
+                        helfe-n-ablade... ich will Dich niechter mache!...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Güeter Frind, was wàr Ihne g'fàllig?... wànn Sie
+                        viellicht o ne Kiste?...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Comment, was wàr Ihne g'fàllig!... d'abord bin ich gar
+                        nitt Ihr güeter Frind, un derno wàr's glaüb eher an mir
+                        fir Se z'froge, was Ihne g'fàllig wàr, denn ich bi
+                        d'heim do, ass Sie's nur wisse!
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückük</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ha-n-ich's viellich mit eme Narr z'thüe, wo e-n-àime üs
+                        ku isch?... uf jedefall will ich ne nitt brusquiere.
+                       <stage>(lüt)</stage> Güeter Mann, Sie sin letz... b'sinne Sie sich...
+                    </p>
+        </sp>
+        <pb n="312"/>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(nimmt zornig 's Paresol un gesticuliert mit)
+                    </stage>
+          <p>Genüeg eso!... wànn Sie mir sage, jo oder nei, was Sie
+                        do sin ku mache in mim Landhüs?
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Tiens, 's Paresol vo dr Madame Hecht!... wànn Sie das
+                        Ding lige lo so g'schwind as Sie känne<stage>(er wills em
+                        nah)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Aha, isch's jetz endlig üse ku!... ah 's isch in dr
+                        Madame Hecht!<stage>(fir sich)</stage> un mi Fraü, wo's Toupet g'ha
+                        hat, mir e Scene z'mache derwege!<stage>(lüt)</stage> Sie
+                        niedertràchtiger Mensch, ass Sie sin!... das wird Ene
+                        awer sür ufstosse, denn alle Tropfe Blüet, wo sie im
+                        Lib hàn, sin nitt genüeg, fir dà Schandflecke
+                        abz'wàsche
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(la lune brille)</stage>
+            <l>Ich ha hit Schlange</l>
+            <l>Anstatt Fisch g'fange!</l>
+            <l>Wer hätt das glaübt,</l>
+            <l>Das isch nitt erlaübt;</l>
+            <l>Ich will in Beide</l>
+            <l>Das Ding verleide,</l>
+            <l>'s bringt mir Keins do</l>
+            <l>Si Lewe dervo.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <lg>
+            <l>Was soll das heisse?</l>
+            <l>Uf alle Reise</l>
+            <l>Ha-n-ich noch nie</l>
+            <l>So üs miesse zieh;</l>
+            <l>Ich will abfahre,</l>
+            <l>Denn bi de Narre</l>
+            <l>Isch's als nitt g'hir,</l>
+            <l>Ich fercht se wie's Fir.</l>
+          </lg>
+          <p>Ich ha mich nitt trumpiert... er isch hintersinnt... ich
+                        will glaüb geh d'Madame Suppedunke riefe!...
+                    </p>
+          <pb n="313"/>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Nix do!... Sie entlaüfe mir nitt... 's müess jetz glich
+                        üsg'macht si... Sie sin de Katze...<stage>(er hebt 's Paresol
+                        in (d'Höche un geht gege dr Herr Kückück, wo hintersi
+                        z'ruck geht; wo-n-er bol bi dr Thüre-n-isch, wird se
+                        ufg'macht vo dr Madame Hecht)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Madame Suppedunke... ah, pardon... ich ha g'meint 's
+                        seig d'Madame Suppedunke<stage>(er laüft hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage>Herr Hecht, Madame Hecht, derno Finele un Herr
+                    Pflàsterle.</stage>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Ich ha die Portnere nitt känne-n-üsfindig mache,
+                        awer...
+                    </p>
+        </sp>
+        <sp who="#finele">
+          <speaker>Finele</speaker>
+          <stage>(kunnt ine links un fallt im Herr Hecht um dr
+                        Hals)
+                    </stage>
+          <p>Endlig sieh-n-i Di denn jetz wieder, mi liewer Schatz!
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(süecht si los z'mache)</stage>
+          <p>Was, was.... ah ça, was isch jetz das wieder fir Eine?
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Ah so!... isch's möglig!.... eso vor mine-n-Aüge! jetz
+                        bin i fixiert... De brüchsch dr Dollweck nitt z'spiele
+                        !... oder witt's jetz ebbe noch làigne...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(macht si los)</stage>
+          <p>Ich wird sicher noch narràchtig hit...</p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Pardon... ich kumm glaüb grad recht, fir e-n-Unglick
+                        z'verhiete... verzeihe Se dàre Person, se-n-isch <pb n="314"/>
+                        krank...<stage>(er macht 's Finele uf e Stühl z'sitze)</stage>
+                        se-n-isch e wenig hintersinnt...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Herr Dokter Pflàsterle-n-un e Narràchtige?... bin ich
+                        eigentlig uf mim Landgüet oder bin i im Narrehüs?...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Was will jetz das alles heisse?...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(züem Herr Pflasterle)</stage>
+          <p>Zeige Se... Sie schine mr doch glaüb e vernünftiger
+                        Mensch z'si, Herr Dokter... wànn Se mir viellicht sage,
+                        was Sie do mache mit dere kranke Person!...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Ich ha d'Ehr nitt Sie z'kenne, awer ich kännt glaüb eher
+                        froge, was Sie do mache... ich ha dà Morge ne Zimmer
+                        g'lehnt do fir die kranke Person, in dr Meinung, ass se
+                        rüehig un allei isch, fir sich z'erhole...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(macht e Füst gege dr Thüre)</stage>
+          <p>Oh, d'Fraü Suppedunke, die alte Hex, hat mi Hüs
+                        verlehnt, während ass ich nitt do gsi bi...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Ihre Hüs?...<stage>(er git sich mit siner Kranke-n-ab)</stage>.</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Verstehsch's jetz, Sàlmele?... Dü wirsch mich doch ebbe
+                        jetz in Rüeh lo... awer Dü... was bisch Dü do ku mache
+                        mit dem Herr?...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Mit wellem Herr?...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Mit dern, wo grad üse-n-isch, parbleu... De brüchsch Di
+                        nitt z'verstelle . .' 's packt nimmig... er hat sich
+                        verschnàpft mit Dim Paresol...
+                    </p>
+          <pb n="315"/>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Was verzählsch mr do vom e Paresol?... bisch Dü
+                        g'schittelt?.. ich ha jo dà Herr noch nie g'sàh
+                        g'ha!...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Kückück.</stage>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(kunnt hinte-n-ine, fir sich)</stage>
+          <p>'s isch sunderbar, ass die Madame Suppedunke niene meh
+                        z'finde-n-isch... dr Ander isch viellicht doch nitt
+                        ganz narràchtig?.. tiens, 's isch G'sellschaft do?..
+                        desto besser...
+                    </p>
+        </sp>
+        <sp who="#finele">
+          <speaker>Finele</speaker>
+          <stage>(losst e Schrei üs un springt im Herr Kückück um dr
+                        Hals)
+                    </stage>
+          <p>Alexander!... Dü... mi Hochziter!...</p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Finele!... lieb Finele!...</p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Tiens, tiens... 's isch glaüb kei Irrthum dasmol... sin
+                        Sie wirklig dr Herr Kückück?
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Alexander Kückück, Seifesieder... ich selbst!</p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Wenn das isch, so isch mi Kranke g'rettet, das isch 's
+                        beste Heilmittel fir se gsi...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Eh, isch se denn krank gsi... un wie kunnt se do
+                        ane?...
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Si-n-isch krank gsi, siter ass Sie furtgange sin, un
+                        wege dem will o dr Vater jetz d'Iwilligung gà un <pb n="316"/>
+                        d'Hiroth igeh... Sie kanne sich präsentiere, wenn Se
+                        wànn.
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Das isch jetz alles schön un güet!<stage>(er nimmt dr Herr
+                        Kückück am Arm un fiehrt en vor d'Madame Hecht)</stage> Un die
+                        do?...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aha... jetz fangt dà wieder a mit sine Stàmpeneie...
+                       <stage>(lüt)</stage> Herr Pflàsterle, lüege, Se doch, was in dem Herr
+                        do fehlt...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht</speaker>
+          <stage>(zornig)</stage>
+          <p>Das isch kei Antwort... was sin Sie do ku mache-n-in dem
+                        Hüs?...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Wenn Sie-n-eso dra halte... eh bien, ich bi do ane ku,
+                        fir d'Artikel z'mache...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>A so!... fir d'Artikel z'mache, ich zwifel nitt dra.</p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Fir mine Seife z'verkaüfe... à votre service...
+                        Schmierseife, wisse-n-un rothe Seife, g'wöhnlige Seife
+                        andere Seife...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Gehn Se züem Kückück mit Ihrer Seife!...</p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ich kenn nur einer, un dà bin ich...<stage>(züe de-n-Andere)</stage>
+                        isch er amüsant, dà Mànn!
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Wànn Sie eigentligmi Landhüs züe me Seifemagazin
+                        mache?... ich glaüb du reste kei Wort dervo... wer hat
+                        Ihne d'Erlaübniss gà, do ane z'ku?
+                    </p>
+          <pb n="317"/>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ich ha ne Zimmer do g'lehnt un ha's zahlt, also sin Sie
+                        bi mir un nitt ich bi Ihne!
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle.</speaker>
+          <p>Grad as wie-n-ich!</p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Das isch e possige G'schichte.</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Scho recht... ich weiss jetz, ass mi Portnere, d'Fraü
+                        Suppedunke, mi Hüs verlehnt hat, derwilscht ass ich
+                        nitt do gsi bi...<stage>(züem Herr Kückück)</stage> awer wenn Sie nur
+                        wege dem do ane ku sin, wie kunnt's denn, ass Sie uf dr
+                        erste-n-Ablick 's Paresol vo miner Fraü do erkennt
+                        hàn?...
+                    </p>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Eh, sin Sie dr Herr Hecht?.. isch das d'Madame Hecht?...
+                        tant mieux!... do ka-n-ich mi Cummission glich do mache
+                       <stage>(er nimmt 's Paresol un präsentiert's dr Madame Hecht)</stage>
+                        Madame Hecht, do isch e Paresol, wo mir Ihre Schwester
+                        in Paris mitgà hat fir Sie... ich ha recht Achtung gà
+                        g'ha derzüe, awer Ihre Mann hat's halt jetz im Zorn e
+                        wenig chiffonniert.
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>So hätte Sie's denn glich g'sàit...<stage>(zornig)</stage> awer jetz
+                        geht's an d'Fraü Suppedunke!... wo isch se, die
+                        Portnere? . . . die müess mir fir alle zahle!
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">D'Gliche, Fraü Suppedunke.</stage>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(steckt dr Kopf ine-n-an dr Thüre hinte)</stage>
+          <p>Ich ha denkt, ich müess ku lüege... 's hat mi Wunder
+                        gnu... o sapristi, mine Hüslit z'àmme!...
+                    </p>
+        </sp>
+        <pb n="318"/>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Nur ine, Fraü Suppedunke, nur ine... Se kunnt grad
+                        recht... mr wànn jetz emol rechne mitnander... ah
+                        so!... Sie spielt dr Propriétaire, wenn ich nitt do
+                        bi!...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Verzeihe Se, Herr Bumm...</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Herr Bumm...</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Gàn Se nitt Achtung, 's isch mi Fischername<stage>(züer Fraü
+                        Suppedunke)</stage> ich heiss Herr Hecht un nitt Herr Bumm...
+                        was hat Sie jetz z'antworte?
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Ich ka jo nit derfir, Herr Bumm, ass Sie Herr Hecht
+                        heisse!...
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Was hat Sie sich fir Sache-n-erlaübt?</p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Verzeihe Se, Herr Bumm oder Herr Stockfisch, ich will
+                        sage Herr Hecht... verzeihe Se... jo nitt wohr, Sie
+                        wisse jo... dr Sùppedunke, mi Mann selig...
+                    </p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Wo g'storwe-n-isch!</p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <p>Fir az'fange, git se-n-emol glich in dem Herr, wo
+                        vorzahlt hat, si Geld z'ruck...
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke.</speaker>
+          <p>Im Herr Kückück?... Hat er vorzahlt? .. 's isch
+                        möglig... wisse Se, ich ha halt China- Wi
+                        miesse-n-asetze... dr Herr Dokter dert will durchüs ha,
+                        ich soll China-Wi trinke... un do ha-n-i halt...
+                    </p>
+          <pb n="319"/>
+        </sp>
+        <sp who="#herr_kuckuck">
+          <speaker>Herr Kückück.</speaker>
+          <p>Ich schenk's Ere, Fraü Suppedunke, fir dr Dienst wo Sie
+                        mir g'leistet hat... denn dur Sie ha-n-ich jetz mi Brüt
+                        wiederg'funde.
+                    </p>
+        </sp>
+        <sp who="#herr_pflasterle">
+          <speaker>Herr Pflàsterle</speaker>
+          <stage>(züem Herr Hecht)</stage>
+          <p>Sie mien ere verzeihe, dere Fraü... denn Se hat hit ohne
+                        z'wisse ne böse Krankhet g'heilt un zwei Glicklige
+                        g'macht.
+                    </p>
+        </sp>
+        <sp who="#frau_suppedunke">
+          <speaker>Fraü Suppedunke</speaker>
+          <stage>(züem Herr Hecht)</stage>
+          <p>Eh bien!... ha-n-ich nitt alles in Ordnung g'macht, Herr
+                        Hecht?... un derno, das isch jo mi Madame, nitt wohr
+                       <stage>(se zeigt uf d'Madame Hecht)</stage>, was hàn Sie
+                        z'reklamiere... ich wird doch ebbe in dr Madame derfe
+                        's Hüs zeige... Oh, wie sin d'Herrschafte hitigstags
+                        eso wunderlig!... 's isch nimmig züem üshalte!...
+                    </p>
+        </sp>
+        <sp who="#madame_hecht">
+          <speaker>Madame Hecht.</speaker>
+          <p>Mr wànn's ere lo dure geh fir dasmol, Hippolyte, denn
+                        uns zwei hat se jo o g'heilt, vo dr Jalousität,
+                    </p>
+        </sp>
+        <sp who="#herr_hecht">
+          <speaker>Herr Hecht.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Dr Papst)</stage>
+            <l>Soll alles denn vergesse si!</l>
+            <l>Ich hi halt z'erst im Fehler gsi.</l>
+          </lg>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <lg>
+            <l>Drum soll kei Zank uns scheide meh,</l>
+            <l>Wànn All e rüehig heim jetz geh.</l>
+            <stage>}bis</stage>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

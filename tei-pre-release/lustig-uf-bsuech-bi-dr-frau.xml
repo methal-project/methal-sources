@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Uf B'süech bi dr Fraü</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-132"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Uf B'süech bi dr Fraü</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_dampf" sex="M">
+            <persName>Herr DAMPF</persName>
+          </person>
+          <person xml:id="herr_turk" sex="M">
+            <persName>Herr TÜRK</persName>
+          </person>
+          <person xml:id="herr_zitelpost" sex="M">
+            <persName>Herr ZITELPOST</persName>
+          </person>
+          <person xml:id="madame_dampf" sex="F">
+            <persName>Madame DAMPF</persName>
+          </person>
+          <person xml:id="madame_turk" sex="F">
+            <persName>Madame TÜRK</persName>
+          </person>
+          <person xml:id="dr_portner_vom_hotel" sex="M">
+            <persName>Dr Portner vom Hotel</persName>
+          </person>
+          <person xml:id="dr_portner_vom_hus" sex="M">
+            <persName>Dr Portner vom Hüs</persName>
+          </person>
+          <person xml:id="junger_mensch" sex="U">
+            <persName>Ne junger Mensch</persName>
+          </person>
+          <person xml:id="kutschner" sex="M">
+            <persName>Ne Kütschner
+                    </persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_dampf">
+          <role>
+            <persName>Herr DAMPF</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_turk">
+          <role>
+            <persName>Herr TÜRK</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_zitelpost">
+          <role>
+            <persName>Herr ZITELPOST</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#madame_dampf">
+          <role>
+            <persName>Madame DAMPF</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#madame_turk">
+          <role>
+            <persName>Madame TÜRK</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#dr_portner_vom_hotel">
+          <role>
+            <persName>Dr Portner vom Hotel</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#dr_portner_vom_hus">
+          <role>
+            <persName>Dr Portner vom Hüs</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#junger_mensch">
+          <role>
+            <persName>Ne junger Mensch</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#kutschner">
+          <role>
+            <persName>Ne Kütschner</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Madame Türk, derno dr Portner vom Hotel.</stage>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(kunnt züem Hotel üse)</stage>
+          <p>Mine Hànschig, mi Eventail... ich ha glaüb alles... jà
+                        so... mi brodiert Nastüech... ich ha mi brodiert
+                        Nastüech vergesse... jetz müess ich wieder in dr dritte
+                        Stock ufekràbse... wenn ich awer dr Portner thàt
+                        schicke?...<stage>(se geht an d'Thüre z'ruck)</stage> Herr
+                        Tschobe!... Herr Tschobe!...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Was b'liebt, Madame Türk?</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Sin Se doch so güet un nàmme Se mi Schlissel un hole Se
+                        mr mi brodiert Nastüech in mim Zimmer, 's ligt uf em
+                        Tisch...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Glich, Madame Türk... ich will nur noch dr Katz d'Milch
+                        blose...</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Dummle Sie sich, ich wart uf Se... wenn ich nur nitt
+                        z'spot bi... ich glaüb nitt...<stage>(se macht e Brief uf)</stage> 's
+                        isch erst am Nine, wo mich dr Herr Dampf soll ku
+                        abhole... do sàit er jo, ass er hit z'Nacht am Nine
+                        d'Ehr wird ha, mich abz'hole, fir mich züe dàne Herre<pb n="675"/>
+                        z'fiehre, wo-n-ich gern hätt, ass mi Mann Diràcter thàt
+                        werde... er meint noch, se werde-n-in eso schöne-n-Aüge
+                        nit refüsiere känne, un doch isch's jetz scho vierzeh
+                        Tàg, ass me mir allewil verspricht... un dà Herr Dampf
+                        hat mich ag'lüegt gestert uf e bedenklige Manier fir e
+                        junge Fräu, wo-n-erst sechs Wuche g'hirothe-n-isch...
+                        ich ha-n-en awer o nitt in mim Zimmer im Hotel
+                        empfange, fir mi abz'hole... ich ha-n-em d'Adresse vo
+                        minere Cüsine gà, se wohnt grad do àne... 's isch
+                        sicher dert... wenn's nur scho umme wàr!... Was macht
+                        me doch nitt fir dr Mann! Dà liewe Mann! er hat mich
+                        nitt welle lo furt geh... er haltet nitt dra, ebbes
+                        z'werde, awer ich desto mehr... we me-n-uf ihn thàt
+                        lose, so thàt er si ganz Lewe-n-am gliche Platz bliwe
+                        grüpe...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Gentille couturière)</stage>
+            <l>Wenn ich thàt uf ihn lose,</l>
+            <l>So wàr bol 's Elend Trumpf,</l>
+            <l>Boll hätt er keine Hose</l>
+            <l>Un o kei güeter Strumpf.</l>
+          </lg>
+          <lg>
+            <l>Doch das Ding ka nitt so bliwe,</l>
+            <l>Ich will ihn scho vorwàrts triwe,</l>
+            <l>Wenn's mir hit nitt fehl thüet schla,</l>
+            <l>Soll er e besser Plàtzle ha.</l>
+          </lg>
+          <p>Awer dà Portner kunnt jo gar nitt... wenn nur dr
+                            Herr Dampf no nitt aruckt...<stage>(se geht an d'Thüre)</stage>kämme Se bol, Herr Tschobe?...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner</speaker>
+          <stage>(làngt 's Nastüech züer Thüre-n-üse)</stage>
+          <p>Do, Madame Türk.</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Endlig!<stage>(lüt)</stage> Sie lehn Nieme-n-in mi Zimmer ufe geh, Se
+                        sàhn, ass ich üsgang...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Müess me-n-uf Se warte?</p>
+        </sp>
+        <pb n="676"/>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>'s isch unnöthig, ich gang an e Soirée un kumm
+                        wohrschinlig spot heim...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner.</speaker>
+          <p>Ich wünsch viel Plaisier, Madame Türk<stage>(er macht d'Thüre
+                        züe).</stage></p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Merci, Herr Tschobe!<stage>(se geht ans Hüs en face)</stage> jetz
+                        g'schwind züe miner Cüsine... ich müess lüege, eb se
+                        ihre Portner preveniert hat<stage>(se geht ine, me hört se
+                        rede)</stage>. Hat me-n-Ihne g'sàit, ass wenn hit z'Owe-n-ebber
+                        no de Madame Türk kunnt ku froge...</p>
+        </sp>
+        <sp who="#dr_portner_vom_hotel">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Güet, güet... ich weiss es scho... ich schick alle
+                        züe-n-Ihrer Cüsine ufe.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(kunnt rechts)</stage>
+          <p>Sackerdie!... wo bin i jetz do wieder! Scho dreiviertel
+                        Stund laüf ich jetz umme-n-un süech d'Schnokegasse un
+                        bi nitt g'fuchst, se z'finde... ich bi halt scho lang
+                        nimmig z'Milhüse gsi... me hat se viellicht
+                        supprimiert, d'Schnokegasse? ich müess halt froge<stage>(er
+                        schreit)</stage> d'Schnokegasse, wenn's i b'liebt!... kei
+                        Mensch niene... ich müess das bi-n-ere-n-etablierte
+                        Person froge, 's Hotel « Billig » soll ewe dert si,
+                        wo-n-ich scho vierzeh Tàg halwer drin logier... denn mi
+                        Hälfte logiert ewe drin, mi Sàlmele... me macht sich
+                        iwerhäupt kei rechter Begriff dervo, wie's eim isch, we
+                        me zwölfmol vierezwanzig Stund vo sinere Fraü eweg
+                        isch, mehrere Kilometer wit... un b'sunders e junger
+                        Mann, wo erst sechs Wuche g'hirothe-n-isch... ich ha's
+                        efange nimmig <pb n="677"/>känne-n-üshalte... Tag un Nacht ha-n-i se
+                        g'sàh im Traüm in ihrer Hochzitstoilette un andere
+                        Costümes... ich ha-n-in dem Ding e-n-End g'macht un ha
+                        hit z'Owe dr Isebahn gnu... mine Biecher sin in
+                        Ordnung... morn isch Sunntig, wenn ich nur wieder am
+                        Màntig am Morge-n-uf em Bureau bi... bis derthi bin ich
+                        frei un ka bi minere junge Fraü si. Allons bon, jetz
+                        kunnt's noch ku regne... jetz isch's Zit, ass ich das
+                        Hotel find... ah çà, geht denn eigentlig kei Mensch do
+                        dure, wo-n-ich froge kännt!...<stage>(d'Madame Dampf kunnt
+                        links mit eme-n-offene Parepli un vom e junge Mensch
+                        poursuiviert).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Türk, Madame Dampf, ne junger Mensch.</stage>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ah! ne Dame... die will ich glich froge...</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(nimmt im Herr Türk si Arm, se sin beide-n-unter'm
+                        Parepli)</stage>
+          <p>Endlig... bisch Dü's, mi Liewer...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Verzeiht Se...</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Dü hasch mich erwartet... ich ha mr's denkt...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Bàh!...</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Thüe doch dem Herr dert danke, wo durchüs mich hat welle
+                        heim begleite.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ah! so!...</p>
+        </sp>
+        <pb n="678"/>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(züem junge Mensch)</stage>
+          <p>Dà Herr isch mi Mann.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Hein!<stage>(fir sich)</stage> ich bi ihr...</p>
+        </sp>
+        <sp who="#junger_mensch">
+          <speaker>Dr junge Mensch</speaker>
+          <stage>(salütiert)</stage>
+          <p>Madame... ich salütier Se<stage>(er laüft dervo rechts).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Madame Dampf, Herr Türk.</stage>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was dr Kückücks isch jetz das fir Eine?</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>('s wird ere schwach, se losst dr Paresol uf d'Site
+                        hànke)</stage>
+          <p>Ah! 's wird mr glaüb weh!...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Was laüft mr in dr Nàcke?... ah, 's isch dr Parepli, wo
+                        abtropft uf mi Faux-col... derft ich Se froge, dur wer
+                        ass ich d'Ehr ha, ne so ig'spretzt z'werde?</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Awer, was werde Sie denke vo mr, nitt wohr?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Eh, eh, eh!... losst Se mich z'erst emol dà Riflard
+                        hewe... das Ding geht jo wie ne Kànel in mi Hals awe...</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Verfolgt vo dem unverschàmte Mensch, ha-n-ich halt 's
+                        nächste beste Mittel ergriffe, fir en abz'biku...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sie hat mi Arm unter dr Hand g'ha, un...</p>
+          <pb n="679"/>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Un ich möcht Sie bitte, mich vielmol z'excüsiere...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Worum denn, worum denn<stage>(fir sich)</stage> Se schint güet
+                        uferzoge z'si<stage>(lüt)</stage> we mir thàte das Ding züemache...
+                        's regent niene meh as uf mich<stage>(er macht dr Parepli züe
+                        un b'haltet en in dr Hand).</stage></p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Ich bi g'wiss froh, ass ich mich an e galanter Herr
+                        adressiert ha.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Oh! galant... nur am e Sunntig... in dr Wuche ha-n-ich
+                        nitt gross dr Zit... ich bi-n-Employerter in Gàwiller,
+                        wo dr Kitterle wachst.</p>
+        </sp>
+        <stage>G'sang (Le sapeur)</stage>
+        
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <lg>
+            <l>Wie mehr ass ich ne b'schaü,</l>
+            <l>Thüet er güet mich dunke.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <lg>
+            <l>Was fir e schöne Frau!</l>
+            <l>Ich bi Fir un Funke.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_turk">
+            <speaker>Er.</speaker>
+            <lg>
+              <l>Wenn ich jetz, anstatt Türk nur z'heisse,</l>
+              <l>Wirklig eso ne Landsmann wàr,</l>
+              <l>Miesst Sie mit in mi Serail reise,</l>
+              <l>Un g'wiss, derno gieng's anderscht her.</l>
+            </lg>
+          </sp>
+          <sp who="#madame_dampf">
+            <speaker>Sie.</speaker>
+            <lg>
+              <l>Wenn er doch nur Herr Dampf thàt heisse</l>
+              <l>Un wirklig jetz mi Mànnle wàr,</l>
+              <l>So thàt ich gli mit ihm furt reise</l>
+              <l>Un g'wiss, derno gieng's anderscht her.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="680"/>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aha! ich erkenn mi jetz... ich bi-n-an Ort un Stell ku,
+                        ohne-n-ass ich's g'wisst ha...<stage>(ze zieht d'Ühre-n-üse)</stage>
+                        scho Zehne!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ah bah!... dr Zug isch schint's z'spot gsi... ich hätt
+                        jo am Achte scho solle-n-aku.</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Un dr Herr Zitelpost, wo-n-ich hätt solle-n-atreffe do
+                        par hasard am Nine... er wird mied gsi si mit
+                        warte-n-un isch halt furt.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Geht Ihre Ziwele güet?</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Desto besser... ich ha-n-Unrecht g'ha, ihm das erste
+                        Rendez-vous z'gà.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(zieht si Ühre-n-üse)</stage>
+          <p>'s isch also jetz noch e Viertel bis Nine-n-in
+                        Gàwiller... die laüfe schint's hinte no?</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich ha-n-in dr Magd g'sàit, wo-n-i furt bi, ich gieng
+                        züe dr Nàiere, drum will ich fir alle Fürsorg' e kleine
+                        Visite geh mache.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(galant)</stage>
+          <p>Wenn Se will, ass ich Se heimbegleit, so derf Se's nur
+                        sage...</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Ich dank Ene vielmol... awer ich ha ne Visite z'mache
+                        dert in dem Hüs<stage>(se zeigt ufs Hüs links)</stage> 's isch also
+                        unnöthig...</p>
+          <pb n="681"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Das macht nit... ich wart uf Se.... ich möcht nitt, ass
+                        Sie wieder üsg'setzt wàr... wie vorig... also 's blibt
+                        derbi... ich begleit Se...<stage>(fir sich)</stage> im e Fiacre.</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(unter dr Hüsthüre)</stage>
+          <p>'s isch g'wiss unnöthig... ich dank Ene noch emol, Adie <stage>(se salütiert un geht ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Se sàit mr Adie!... das macht awer mi Affaire nitt...
+                        tiens, se hat ihr Parepli vergesse... bàh, ich gib's
+                        ere, wenn se-n-üse kunnt... wenn se nur wit eweg
+                        wohnt... ich sag im Kütschner, er soll Rinkli-Rànkli
+                        fahre... un mi Fraü... ich liederliger Zipfel!... bàh,
+                        die denkt doch nitt, ass ich z'Milhüse bi!
+                        ..sapristi... 's geht gar kei warmer Wind... dà
+                        kàtzer's Parepli do hindert mich, d'Hànd in d'Säck
+                        z'stosse... er isch nitt wiescht, dà Riflard... er hat
+                        e silwrige Plaque mit em Name druf « H. J. D. »... dr
+                        Name vo-n-ihrem Mann... Hans Jobi Dabinsmüess
+                        viellicht?... un e beiniger Griff... Sackerdie! ich
+                        bekumm efange kalt do<stage>(er geht spaziere)</stage> mi Nase-n-isch
+                        wie ne-n-Iszàpfle... wenn ich nur dr Schnüppe nitt
+                        verwitsch... das wàr embetant!</p>
+        </sp>
+        <pb n="682"/>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Herr Zitelpost, Herr Türk.</stage>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(kunnt mit schnelle Schritt')</stage>
+          <p>Aha!... jetz bin i glaüb am Ort, wo se mr g'sàit hat<stage>(er
+                        süecht in de Säck)</stage> wo ha-n-i dà Brief ane tho?... ah,
+                        do isch er... ich will noch emol lüege...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich im spazieregeh)</stage>
+          <p>Mi Nase g'friert mr alleweg noch ab...<stage>(er niesst).</stage></p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(liest)</stage>
+          <p>« Mi Mann müess no-n-em Nachtesse uf si Bureau z'ruck...
+                        ich profetier vo minere Freiheit, fir am Nine züe miner
+                        Nàiere z'geh, wo-n-am Ecke vo dr Schnokegasse wohnt. »</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(niesst)</stage>
+          <p>Ah! das macht mr güet, das...<stage>(er geht uf un awe).</stage></p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Das isch do... endlig hat se mr emol das erste
+                        Rendez-vous gà<stage>(er geht o spaziere).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(niesst)</stage>
+          <p>Geht's jetz eigentlig eso furt!...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(im spazieregeh)</stage>
+          <p>Se hat e wiescht Quartier g'choisiert.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(im spazieregeh)</stage>
+          <p>Das ich emol e Faction, wo zählt!...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(im spazieregeh)</stage>
+          <p>Wenn ich e Cigarettle thàt raüche ?... awer nei... am
+                        erste Rendez-vous...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(sieht dr Herr Zitelpost)</stage>
+          <p>Tiens, tiens, do isch jo ne Herr, wo schint's o Faction
+                        isch<stage>(er hebt si Parepli wie ne Flinte)</stage>, er hat awer
+                        keine Waffe bi si...</p>
+          <pb n="683"/>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(blibt steh)</stage>
+          <p>Tiens, was isch jetz das fir Einer .. was macht dà do?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Will er eigentlig do bliwe?...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn se jetz kàm!...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er thüet mich<stage>(er niesst)</stage> geniere.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lüt)</stage>
+          <p>G'sundheit!... das isch kei güet Wetter fir eso duss
+                        z'bliwe, güeter Frind!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch wohr... e Hundswetter<stage>(schittelt si)</stage> Brrr! 's
+                        wàr viel besser d'heim.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sie thien wohrschinlig uf ebber warte?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà, jà... un Sie?...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ich o.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ne Dame viellicht?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ne Dame, jà... un Sie?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich o.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Wo do in dem Quartier wohnt?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>In dem Hüs do... un Ihre Dame?</p>
+        </sp>
+        <pb n="684"/>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Soll o in das Hüs do ku... das isch sunderbar!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch possig... un Sie wànn do bliwe?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Bis ass se kunnt... un Sie?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Bis ass se furt geht.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sie verstehn awer doch wohl, ass, we me sich erwartet,
+                        nur ei Person z'finde...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Un findet zwei, ass das geniert...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>B'sunders, wenn e Dame sich müess in Acht nàh vor ihrem
+                        Mann.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch ganz das...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ne Fraü in dàre Situation isch misstraüisch, un wenn Sie
+                        do bliwe...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>So traüt se nitt üse ku!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sie wàre g'wiss recht ordlig...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sie thàte mr Freid mache...</p>
+        </sp>
+        <sp who="#herr_turk #herr_zitelpost">
+          <speaker>Beide mitnander.</speaker>
+          <p>Wenn Sie furt giengte!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich wich nitt vom Fleck!</p>
+          <pb n="685"/>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sin Se nitt so stättig... un lehn Se mi allei do.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Die Gasse isch in alle Lit... 's ka sich drin ufhalte,
+                        wer will...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Bringe Se mi nitt in d'Hitze!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Wenn Sie kalt hätte wie-n-ich, so wàr das höchstens güet
+                        fir Se.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ich bi vif, ass Sie's wisse!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s Pulver isch nur e Narr gege mir...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se kunnt jetz alleweg glich<stage>(lüt)</stage> züem letschte mol
+                        jetz, mache Sie sich dervo oder ich...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(croisiert dr Parepli)</stage>
+          <p>Halt! oder i schiess!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(hebt dr Parepli)</stage>
+          <p>Was isch das! ich kenn 'n, dà Parepli!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(zieht en z'ruck)</stage>
+          <p>Wann Se mr g'schwind das Ding geh lo.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(hebt en fest)</stage>
+          <p>Eh alleweg... 's isch ihrer!<stage>(er losst en fahre; rasend)</stage>
+                        un sie hat ne Ihne gà?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Die Dame?... nei, nur g'lehnt.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sie isch's also, wo dert ine-n-isch?</p>
+        </sp>
+        <pb n="686"/>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>In das Hüs?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>s' isch uf sie, wo Se warte?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Fir se heimz'begleite?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Das g'schieht nitt!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Was b'liebt?...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ich verbiet's Ene!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ah! bah!<stage>(fir sich)</stage> dà g'fallt mr jetzt noch!...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sich vo me-n-Andere lo begleite, no ihrem Brief, wo sie
+                        mir e Rendez-vous git drin! das isch e wenig stark!
+                       <stage>(lüt)</stage> die Dame geht allei heim, ass Sie's wisse!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(c. c. mon père)</stage>
+            <l>Ich will nitt, wenn sie scheidet,</l>
+            <l>Ass ebber sie begleitet!</l>
+            <l>Un wer sich untersteht derzüe,</l>
+            <l>Hat's mit mir z'thüe!</l>
+          </lg>
+          <pb n="687"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <lg>
+            <l>Un ich loss mir nit sage,</l>
+            <l>Das ka-n-ich nitt vertrage,</l>
+            <l>Ich bi g'wöhnt, immer z'mache halt,</l>
+            <l>Grad wie's mir g'fallt!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Eh bien... ich forder Sie üse!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Uf d'Pistole... awer glich jetz<stage>(fir sich)</stage> ne Duell in
+                        ere Gasse z'Milhüse z'Nacht am Nine... das hat me no
+                        nitt vielmol g'sàh!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Güet... ich hol Pistole un e Zige... süeche Sie sich o
+                        einer... in zeh Minüte bin i wieder do.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich gib Ene drizehne, ohne Secunde!</p>
+        </sp>
+        <stage>G'sang (dr gliche)</stage>
+        <sp who="#herr_zitelpost #herr_turk">
+          <speaker>Beide mitnander.</speaker>
+          <lg>
+            <l>Dà müess mir's dasmol biesse,</l>
+            <l>Ich will ne lehre schiesse,</l>
+            <l>Er geht so bol nimm uf dr Strich,</l>
+            <l>Fir das sorg ich!</l>
+          </lg>
+          <stage>(Herr Zitelpost geht furt rechts)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(allei)</stage>
+          <p>Armer Tropf! er meint, er macht mir Angst... ich, wo als
+                        uf dr Foire alle Pfiffeköpf z'àmme schiess!... awer wo
+                        ne Zige hernàh?... ich kenn jo Nieme do... wenn ich
+                        thàt e Porte-faix lehne? tiens, das isch e-n-Idee!...
+                        awer wo einer finde um die Zit?</p>
+        </sp>
+        <pb n="688"/>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">Herr Türk, Herr Dampf.</stage>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(kunnt links; fir sich)</stage>
+          <p>Ne Summervogel isch nitt besser ufg'legt, as ich hit
+                        z'Owe, fir e galanter Üsflug z'mache!... Ich ha ne
+                        güete-n-Idee g'ha, ass ich alle-n-Ühre d'heim e Stund
+                        vorg'richte ha im versteckte...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jà, Jà, wo isch awer jetz einer z'finde?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich hätt sunscht nie känne mine G'schàfte ferig mache un
+                        am Nine do si...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(sieht dr Herr Dampf; fir sich)</stage>
+          <p>Ah... still! dà kunnt jetz wie g'rüete...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn mi Fraü wisse thàt, ass ich, anstatt Zahle z'àmme
+                        z'zähle, d'Minüte zählt ha, fir an mi Rendez-vous
+                        z'geh!...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Wie will ich's eigentlig aschicke, fir ne az'rede?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Voyons, do bin i jetz emol in dr Gasse... dr Nümero
+                        müess do e-n-àime si...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aha, ich 'weiss jetz wie!<stage>(er steht em uf dr Weg)</stage> Kännte
+                        Se mir sage, wel Zit as es isch!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(verschrocke)</stage>
+          <p>'s isch mr Leid... awer ich ha kei Geld uf mr... un gàn
+                        Se Achtung, 's Polizeibureau isch nitt wit vo do...</p>
+          <pb n="689"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lipft dr Hüet)</stage>
+          <p>Pardon... 's isch d'Zit un nitt d'Ühre, wo-n-ich Ihne
+                        g'heische ha...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(salutiert)</stage>
+          <p>Verzeihe Se... awer Sie verstehn wohl, we me d'Lit nitt
+                        kennt un um die Zit...<stage>(er zieht si Ühre)</stage> voilà... Nine
+                        un fünf Minüte...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sie gehn z'spot...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich gang as wie d'Finanze...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Enfin, das hat nit z'sage... Sie sin in dr Ordnung
+                        kleidet, hàn Hànschig un e güete Tournure, das isch,
+                        was ich brüch...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Jà un derno... was hàn Se-n-eigentlig im Sinn?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Berüehige Sie sich... ich möcht Se nur bitte, mir als
+                        Zige z'diene im e Duell...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ne Duell!... un worum?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich weiss es nitt recht...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Mit wem?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sàll weiss i gar nitt! jetz wisse Se so viel as ich...
+                        un das Ding soll do statt ha unter dr Laterne...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Uf dr Gasse!</p>
+        </sp>
+        <pb n="690"/>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Un dà, wo Meister wird, dem isch se si Eigethum...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà Mensch isch e Narr oder er macht mich z'posiere<stage>(lüt)</stage>
+                        's isch mr Leid, awer ich ka Ihne dà Dienst nitt
+                        leiste... ich ha ebbes pressants vor... e Rendes-vous
+                        mit ere junge Dame... ich ha ne fin Nachtessele fir se
+                        b'stellt im Hotel...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Aha... zwei Couverts...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ne so ne Unschuld e-n-àime üs dr Umgegend, wo meint, ich
+                        kumm se ku hole, fir se in mine Patrone z'presentiere,
+                        wo sie fir ihre Imbécile vo Mann e Platz erlangt hat,
+                        ohne's z'wisse noch... Sie sàhn, ass ich pressiert bi
+                        un ass es mir unmöglig isch...<stage>(er will geh).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(haltet en z'ruck)</stage>
+          <p>'s isch eithüen, ich hätt Sie doch gern als Zige
+                        g'ha...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>'s isch mr Leid... ich ka rundüs nitt...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">Herr Dampf, Herr Türk, Herr Zitelpost.</stage>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(kunnt rechts; züem Herr Türk)</stage>
+          <p>Allons... ich bi g'rischtet... ein vo mine güete Frind
+                        wartet uf is mit Pistole un isch mi Zige...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(presentiert dr Herr Dampf)</stage>
+          <p>Un do isch miner!..</p>
+          <pb n="691"/>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Nei, nei, 's ka nitt si!</p>
+        </sp>
+        <sp who="#herr_zitelpost #herr_dampf">
+          <speaker>Herr Zitelpost un Herr Dampf</speaker>
+          <stage>(erkenne sich enander)</stage>
+          <p>Ah!...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Dr Herr Dampf!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Dr Herr Zitelpost!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Tiens!... se kenne sich!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Was... Sie, Herr Zitelpost... Sie wànn sich
+                        schlage?...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Dà Herr hat mich beleidigt!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(züem Herr Zitelpost)</stage>
+          <p>Was! Sie, im Gegetheil, hàn mich versàgt... embetiert
+                        sogar...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(züem Herr Zitelpost)</stage>
+          <p>Worum eigentlig, wànn ihr eüch schlage?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich will's Ene ufrichtig sage...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig züem Herr Türk)</stage>
+          <p>Sage Se nit... 's isch dr Mann!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig)</stage>
+          <p>Dr Mann vo dàre junge Dame mit em Parepli?.. ah! bah!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig)</stage>
+          <p>Jà!<stage>(dr Herr Türk versteckt g'schwind dr Parepli hinter
+                        si Ricke).</stage></p>
+        </sp>
+        <pb n="692"/>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig)</stage>
+          <p>Ah... ah... eh bien, wart... ich will in dem eine
+                        abinde.<stage>(lüt)</stage> ln zwei Worte, das isch, um was es sich
+                        handelt... denke Sie sich, Herr Krampf...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Dampf.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig züem Herr Türk)</stage>
+          <p>Was wànn Se-n-ihm sage?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig)</stage>
+          <p>Ich weiss es no nitt.<stage>(lüt)</stage> Denke Sie sich... Sie, denke
+                        sich, nitt wohr?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich mach mi möglig's.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Also, ka-n-ich furtfahre... 's handelt sich...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Um was?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Um e Verfiehrung...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig)</stage>
+          <p>Gàn Se-n-Achtung!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig züem Herr Zitelpost)</stage>
+          <p>Scho güet<stage>(lüt züem Herr Dampf)</stage>. Sie solle das kenne...
+                        Sie...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(lislig)</stage>
+          <p>Gàn Se-n-Achtung... dr Herr Zitelpost isch g'frindet mit
+                        minere Fraü!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Mit dr Madame Krampf...</p>
+        </sp>
+        <sp who="#herr_dampf #herr_zitelpost">
+          <speaker>Herr Dampf un Herr Zitelpost</speaker>
+          <stage>(ziehn en uf jeder Site am e Kittelfättig)</stage>
+          <p>Still!</p>
+          <pb n="693"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Die mach ich z'schwitze!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(lüt)</stage>
+          <p>Jà, un derno... die Verfiehrung... wer hàn Se
+                        verfiehrt?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig züem Herr Zitelpost)</stage>
+          <p>Hàn Se viellicht e Verwandte?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig)</stage>
+          <p>Ne Stiefschwester in Amerika.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig)</stage>
+          <p>Güet!<stage>(lüt züem Herr Dampf)</stage> Wer ich verfiehrt ha? Im
+                        Herr Zitelpost si... Stiefschwester!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Tiens!... ich ha nitt g'wisst, ass er e Stiefschwester
+                        hat.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Das isch kei Wunder... ich ha o nitt g'wisst, ass die
+                        güete Jumpfer... Kà-kà-o ne Stiefbrüeder hat.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Kà-kà-o!... was dr Kückücks isch das fir e Name?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch e Negresse.</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was will er em eigentlig abinde?...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Was!... Sie hàn e Schwarze verfiehrt?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Was wànn Se halt:</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(La lüne brille)</stage>
+            <l>Brüne-n-un Blunde</l>
+            <l>Ha-n-ich g'nüe g'funde,</l>
+            <l>Un sogar Rothe</l>
+            <l>Sin drunter gsi;</l>
+            <pb n="694"/>
+            <l>Die Farwe-n-alle</l>
+            <l>Hà mir nimm g'falle,</l>
+            <l>'s Schwarz isch jetz Mode,</l>
+            <l>Das müess d'Schuld si.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ne ganz schwarze Fraü... oh pfui! un jetz wànn Sie se
+                        nitt hirothe?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich müess g'steh, ass ich Angst ha... vor de kleine
+                        Neger!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>'s isch jetz genüe! 's isch nitt im Herr Dampf si
+                        Charakter, sich in eso Sache z'meliere... mir wànn's
+                        scho üsmache mitnander.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich ka doch awer nitt lide, ass Sie sich schlage
+                        mitnander... Zeige Se, Herr Zitelpost... denke Se doch
+                        e wenig no!<stage>(se kämme beide fire; dr Herr Dampf macht
+                        lislig im Herr Zitelpost Vorstellunge. Se sàhn nitt,
+                        was vorgeht).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage>Madame Dampf, Herr Türk, Herr Dampf, Herr
+                        Zitelpost.</stage>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(sieht d'Madame Dampf züem Hüs links üse ku)</stage>
+          <p>Herr je! d'Madame Dampf!<stage>(er laüft züe-n-ere)</stage> Ihre Mann
+                        isch dert .. gehn Se g'schwind wieder ine<stage>(er stosst se
+                        z'ruck).</stage></p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(àngstlig)</stage>
+          <p>'s isch nitt möglig!<stage>(dr Herr Türk geht mit ere ine;
+                        d'Thüre geht züe).</stage></p>
+          <pb n="695"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage type="characters">Herr Dampf, Herr Zitelpost.</stage>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Er isch im Fehler, 's isch wohr... er sott halt vo
+                        Rechtswege die Negresse hirothe...<stage>(züem Herr Türk,
+                        wo-n-er noch dert glaübt)</stage> voyons, Sie sin jo schön
+                        wiss... Ihre Kinder werde höchstens g'sprickelt...
+                        tiens, wo isch er jetz ane ku?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Was git's?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Er isch jo nimmig do!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Er isch verschwunde!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Wo mag er jetz ane ku si?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Ich merk's scho, wo-n-er ane ku isch!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Meine Se?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Jo, jo... er isch geh si Dulcinée ufsüeche... er isch in
+                        dem Hüs do.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sapristi... un mi Rendez-vous... die güete Fraü wird
+                        lange Zit biku!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Awer nur Geduld... Se mien emol üsekumme... ich wart uf
+                        se un verwitsch ich se binander... derno...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich ka doch nitt dert ine geh, wenn dr Herr Zitelpost do
+                        isch... sunscht miesst ich ihm sage worum?</p>
+        </sp>
+        <pb n="696"/>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Awer ich ka doch kei Explication mit ihre ha vor
+                        ihm...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn ich ne nur ab hätt...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich.)</stage>
+          <p>Ich müess ne süeche abz'schifle...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(zeigt in d'Gasse rechts)</stage>
+          <p>Ich glaüb eher, ass er dert dure-n-isch...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Oh! ich find en scho... awer, ich ha g'meint, Sie hàn
+                        eso viel z'thüe hit z'Owe uf em Büreau?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Aha... jà... 's isch güet, ass Sie mich dra mahne, ich
+                        bi recht pressiert...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Un ich o.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Adie!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Adie!<stage>(se verschwinde ne-n-Aügesblick un kämme Beide
+                        wieder z'ruck. Fir sich)</stage> Was! er blibt do!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich ha g'meint, er isch furt!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Merkt er ebbe-n-ebbes?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er wird doch ebbe nitt soupçonniere...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich will ne scho verwitsche!</p>
+          <pb n="697"/>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich müess es halt noch emol prawiere...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lüt)</stage>
+          <p>Au revoir denn!<stage>(er geht furt, rechts).</stage></p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Au revoir!<stage>(er geht furt, links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XII. Uftritt.</head>
+        <stage type="characters">Herr Türk, derno ne Kütschner.</stage>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(macht vorsichtig d'Hüsthüre-n-uf)</stage>
+          <p>Se sin furt<stage>(er rieft ine)</stage> Ich will lüege, ass ich e
+                        Fiacre bikumm, Se brücht kei Angst z'ha<stage>(er kunnt üse)</stage>
+                        tiens, dert kunnt grad einer ku z'fahre... He...
+                        Kütschner!</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Kütschner</speaker>
+          <stage>(hinte, ohne sich z'zeige)</stage>
+          <p>Voilà... voilà...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Kämme ne wenig nàcher mit Eürer Citàdine... so...<stage>(ma
+                        hört ne halte rechts).</stage></p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Kütschner</speaker>
+          <stage>(hinte)</stage>
+          <p>Hoo, Schimmel!<stage>(er kunnt fire)</stage> Wo müess i Se-n-ane
+                        fiehre?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(denkt no)</stage>
+          <p>Ich weiss es nitt.</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Kütschner.</speaker>
+          <p>Jà... wo halte mr denn drno?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch mr eis... wo Eüer Pferd will...</p>
+        </sp>
+        <pb n="698"/>
+        <sp who="#kutschner">
+          <speaker>Kütschner</speaker>
+          <stage>(lacht)</stage>
+          <p>Ça y est,<stage>(fir sich)</stage>, wenn ich mi Schimmel loss trappe,
+                        so kunnt er wieder do uf dr Platz z'ruck... ich kenn
+                        en!... si Stall isch ewe do!...<stage>(er verschwindet).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Un jetz vorwärts!... ich fahr mit ere-n-ab, vor dr Nase
+                        vo ihrem Mann un vo ihrem... güete Frind... ich will se
+                        jetz geh hole<stage>(er geht ins Hüs).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIII. Uftritt.</head>
+        <stage type="characters">Herr Zitetpost, derno Herr Türk un
+                    Madame Dampf</stage>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(kunnt ku springe links)</stage>
+          <p>Endlig isch dr Herr Dampf jetz furt! tiens... ne
+                        Citadine, wo wartet!<stage>(Herr Türk kunnt üse)</stage> Still, 's
+                        kunnt ebber<stage>(er versteckt si am Ecke vom Hüs links).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(künnt üse mit dr Madame Dampf)</stage>
+          <p>Ich versicher Se, ass kei G'fohr meh isch...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch ne!</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Sin Se sicher, ass Nieme meh...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch se!... ich brüch nimmig zwifle.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ganz sicher... 's isch nit meh z'riskiere.</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Oh! dà gràsslige-n-Owe!... mi ganz Lewe denk i dra!</p>
+          <pb n="699"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Stigt Se nur i jetz<stage>(se verschwindet rechts)</stage>. Un jetz
+                        isch's an mir.</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf.</speaker>
+          <p>Herr je! un mi Parepli!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Tiens, dà ha-n-i jetz vergesse bim Portner... ich will
+                        ne g'schwind geh hole<stage>(er laüft ins Hüs z'ruck).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIV. Uftritt.</head>
+        <stage>Dr Kütschner, Madame Dampf, Herr Zitelpost.</stage>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(zeigt si)</stage>
+          <p>Un ich sott se-n-eso furt lo fahre, ganz riehig
+                        mitnander!... Jà nei!... das sin Schnàcketànz<stage>(dr
+                        Kütschner kunnt fire)</stage> Zwanzig Franke fir Euch, wenn Ihr
+                        im Galopp dervo fahre.</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner</speaker>
+          <stage>(wo meint, 's isch dr Herr Türk)</stage>
+          <p>'s isch e Wort... un allewil noch, wie mir's üsg'macht
+                        hàn?<stage>(er verschwindet rechts).</stage></p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Allewil!...<stage>(fir sich)</stage> So, jetz will ich emol istige, un
+                        hasch mi nitt g'sàh<stage>(er verschwindet rechts).</stage></p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(losst e Schrei üs in dr Citadine)</stage>
+          <p>Ah! dr Herr Zitelpost!</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Kütschner.</speaker>
+          <p>Allez, hü Schimmel!<stage>(me hört ne dervo fahre).</stage></p>
+        </sp>
+        <pb n="700"/>
+      </div>
+      <div type="scene">
+        <head>XV. Uftritt.</head>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(kunnt züem Hüs üse)</stage>
+          <p>Dà Portner g'fallt mr noch, wo mr hat welle siner gà,
+                        e-n-alter Riflard mit rothe Sticker plàtzt!.. Eh bien!
+                        wo isch se denn, d'Citàdine?... tiens, dert fahrt
+                        se-n-im Kalopp dervo... isch 's Ross ebbe
+                        verschiche?... he! Kütschner! Ihr vergesse-n-ebber...
+                        halte denn<stage>(er winkt un laüft no un verschwindet
+                        rechts).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVI. Uftritt.</head>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(kunnt ku z'dissle links)</stage>
+          <p>Endlig isch er jetz furt, dr Herr Zitelpost... wenn mich
+                        nur Nieme sieht in das Hüs ine geh, wo mi kennt...
+                        wenn's mi Fraü erfahre thàt!.. se-n-isch eso
+                        jalouse!... un hat mich eso gern... also wàr's denn do.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVII. Uftritt.</head>
+        <stage type="characters">Herr Dampf, Herr Türk.</stage>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(kunnt rechts)</stage>
+          <p>Ich ha ne nitt känne verwitsche... dà Schimmel laüft as
+                        wie dr Deihànker!...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich will mi doch versichere, eb das dr rechte Nümero
+                        isch...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich bi glaüb efange ne wenig abkiehlt jetz mit dere
+                        Nachtschwàrmerei... wenn ich doch nur d'Schnokegasse
+                        kännt üsfindig màche!</p>
+          <pb n="701"/>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch glaüb kei Glocke an dr Thüre,</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Still! do isch grad ebber, wo heim geht... dà wà mr
+                        froge<stage>(lüt)</stage> Pardon... kännte Se mir d'Schnokegasse...
+                        tiens... 's isch dr Herr Krampf!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Tiens!... dà wo d'Negresse... ah çà... wo sin Se denn uf
+                        eimol ane ku vorig?... unter uns g'sàit sin Sie's, wo
+                        Unrecht hàn... sicher...Sie sotte se hirothe.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Wer das?... aha... güet... d'Schnokegasse, wenn's I
+                        b'liebt?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Sie sin jo drin.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ah bah... un 's Hotel Billig?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(dràiht en um)</stage>
+          <p>Se stehn dervor.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Dert?... o sapristi... ich ha d'Nase druf g'ha un find's
+                        nitt... merci, Herr Stampf.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(geht wieder ans Hüs)</stage>
+          <p>'s isch jetz nitt das... ich will jetz emol mache, ass
+                        ich do ine kumm<stage>(er klopft; züem Herr Türk)</stage> Sage Se...
+                        wie sin Se denn züe dàre Negresse ku?...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(klopft am Hotel)</stage>
+          <p>Hein?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(klopft am Hüs links)</stage>
+          <p>Dr Herr Zitelpost isch in sim Recht... an Ihrem Platz
+                        thàt ich die Jumpfer Kà-kà-o hirothe.</p>
+        </sp>
+        <pb n="702"/>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(klopft)</stage>
+          <p>Isch denn eigentlig dà Portner taüb?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Miner schint mr o nitt d'ganz beste-n-Ohre z'ha... se
+                        klopfe beide; d'Thüre gehn uf) Endlig!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch nimmig z'frieih!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Adie.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Güetnacht.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(innehàr)</stage>
+          <p>D'Madame Türk, wenn's I b'liebt.</p>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Se-n-isch d'heim... gehn Se nur d'Stege-n-ufe.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(unter dr Thüre)</stage>
+          <p>D'Madame Türk, wenn's I b'liebt.</p>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Se-n-isch nitt d'heim.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(unter dr Thüre)</stage>
+          <p>Was!... se-n-isch nitt in ihrem Zimmer?</p>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Se-n-isch dà-n-Owe üsgange un hat g'sàit, se kàm erst
+                        spot heim, un viellicht gar nitt.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Gar nitt!...<stage>(er kunnt uf d'Scene)</stage> Was, 's Sàlmele isch
+                        allei do z'Milhüse... 's Sàlmele geht üs z'Nacht un
+                        kunnt nitt heim... das isch ebbes süfers!... un ich,
+                        wo's ha welle iwerrasche... ich bi iwerrascht<stage>(er geht
+                        wieder an d'Thüre; züem Portner)</stage> ich will uf se warte
+                        in ihrem Zimmer... gàn Se mr ihre Schlissel.</p>
+          <pb n="703"/>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner</speaker>
+          <stage>(innehàr)</stage>
+          <p>Das geht nitt... 's isch d'Gwohnet nitt vom Hüs.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich bi jo awer ihre Mann.</p>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner.</speaker>
+          <p>Jo doch!... die Dame-n-isch jo ne Wittfraü.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Hein!... ich bi ganz sicher vom Gegetheil!... So gàn Se
+                        mr e-n-ander Zimmer, bis ass mi Fräü z'ruckkunnt....</p>
+        </sp>
+        <sp who="#dr_portner_vom_hus">
+          <speaker>Dr Portner.</speaker>
+          <p>Ich ha keins meh... 's sin alle b'setzt...<stage>(er macht em
+                        d'Thüre vor dr Nase züe).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Dà isch jetz noch emol höflig... er g'schbliesst mich
+                        üse, mi Fraü hat em viellicht 's Wort gà!... awer das
+                        isch mir eithüen!... wenn ich müess warte do vor dr
+                        Thüre d'ganze Nacht, bis ass se kunt, so wart i... 's
+                        wàr awer doch unkommod... ich verschnatter schier...
+                        wenn ich viellicht noch e Fiacre kännt ha, fir drin
+                        z'iwernachte... ich thàt en vo dr Stund zahle...<stage>(er
+                        lüegt in d'Gasse)</stage> awer 's isch halt niene keiner.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVIII. Uftritt.</head>
+        <stage>Herr Türk, Herr Dampf, Madame Türk, derno dr
+                        Kütschner.</stage>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(kunnt züem Hüs üse links mit dr verschleierte
+                        Madame Türk)</stage>
+          <p>Stirt Se sich nur herzhaft uf mi Arm, mi liewer Engel...
+                        Se brücht kei Angst z'ha, ich fiehr Se, denn mit dem
+                        Schleier vor em G'sicht kännt Se gar licht<pb n="704"/> stolpere...
+                        mr nàmme derno ne Citadine, fir züe dàne Herre z'fahre.</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(schnell)</stage>
+          <p>Gar nitt... gar nitt... 's isch ganz unnöthig, ass mr e
+                        Citadine nàmme!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>'s isch ewe wit... Sie kännt mied werde.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(hinte)</stage>
+          <p>Aha! do kunnt einer<stage>(er schreit)</stage> he! Kütschner!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(schnell)</stage>
+          <p>Do kunnt grad eine ku z'fahre.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(hinte)</stage>
+          <p>G'schwind denn e wenig... das geht e Länge!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich kenn die Stimm... un doch...</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner</speaker>
+          <stage>(voruse)</stage>
+          <p>Ho! Schimmel! ho!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(geht hintere)</stage>
+          <p>Ich nimm se!...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(schreit)</stage>
+          <p>Nix do... ich ha se z'erst gnu!</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner</speaker>
+          <stage>(kunnt fire-n-un stosst se z'ruck)</stage>
+          <p>Ah çà! lehn doch nur z'erst mine Lit üsstige.</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(vorne)</stage>
+          <p>Ich zwifel nimmig... 's isch ne... 's isch mi Mann!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(kunnt fire mit em Herr Türk, lislig)</stage>
+          <p>Ich bi mit ere Dame... lehn Se mir die Citadine.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens, scho wieder dr Herr Krampf... isch er denn
+                        allewil uf dr Reis'?<stage>(er geht hintere).</stage></p>
+          <pb n="705"/>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Negresse-Verfiehrer!... laüft er denn noch allewil
+                        umme<stage>(er geht hintere).</stage></p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner</speaker>
+          <stage>(haltet se-n-a)</stage>
+          <p>Wenn mine Lit üsg'stige sin, so arrangiere-n-ihr eüch
+                        mitnander.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIX. Uftritt.</head>
+        <stage>Dr Kütschner, Herr Zitelpost, Madame Dampf, Herr
+                        Türk, Herr Dampf, Madame Türk vorne.</stage>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(stigt üs un kunnt fire)</stage>
+          <p>Was isch eigentlig das fir e G'schrei?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(verwundert)</stage>
+          <p>Dr Herr Zitelpost !</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(fir sich)</stage>
+          <p>Oh! sapristi!... dr Herr Dampf.</p>
+        </sp>
+        <sp who="#madame_dampf">
+          <speaker>Madame Dampf</speaker>
+          <stage>(wo hat welle fire ku, geht wieder z'ruck)</stage>
+          <p>Herr je!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Tiens! tiens!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(fir sich bi dr Madame Türk)</stage>
+          <p>Aïe, aïe! wenn mich dr Herr Zitelpost mit dàre Dame
+                        sieht!...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(hinte lislig züem Kütschner)</stage>
+          <p>Sin Ihr eigentlig g'schosse, ass Ihr mich wieder do ane
+                        fiehre!</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner.</speaker>
+          <p>Eh... Sie hàn mir jo g'sàit: wo Eüer Pferd ane will.</p>
+        </sp>
+        <pb n="706"/>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(lislig züem Herr Türk. Er schiebt em d'Madame Türk
+                        unter dr Arm)</stage>
+          <p>Ich bitt Se drum... nàmme Se doch die Dame an Arm un
+                        sage Se, se seig mit Ihne.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(verwundert mit dr Madame Türk am Arm)</stage>
+          <p>Hein? was kunnt Ihne-n-i?</p>
+        </sp>
+        <sp who="#kutschner">
+          <speaker>Dr Kütschner</speaker>
+          <stage>(züem Herr Zitelpost)</stage>
+          <p>Ah ça... thüet Ihre Dame nitt bol üsstige?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(mit foppe züem Herr Zitelpost)</stage>
+          <p>Ne Dame?... ah, ah! Herr Zitelpost, Sie sin mit ere
+                        Dame?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Ich, mit ere Dame... z'er Làbtig nitt!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Eh!... ich erkenn jo mi Kütschner!... die Dame wàr denn
+                        derno d'Madame...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(kunnt fire, lislig züem Herr Türk)</stage>
+          <p>Um 's Himmelswille, verrothe Se-n-is nitt!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch se!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Isch die Dame viellicht...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Grad...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Jà wer?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sie hàn's errothe...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Wer denn?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig züem Herr Türk)</stage>
+          <p>Sage Se nit!</p>
+          <pb n="707"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch wohr... ich ka-n-em doch nitt sage, ass es si
+                        Fraü isch<stage>(lüt züem Herr Dampf)</stage> mi... Negresse isch's!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>D'Jumpfer Kà-kà-o!... ich ha mr's ibildet!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Oh!... 's wird mr lichter!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was isch jetz das fir e Jumpfer Kà-kà-o?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(züem Herr Türk)</stage>
+          <p>Güet, güet!... ich verstand's jetz... dasmol känne Sie
+                        nimmig z'ruck<stage>(züem Herr Zitelpost)</stage> Sie sin se geh
+                        hole...</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Jà... jà... 's isch ganz das!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Fir ass ihre Thràne-n-ihn bewege, ihre d'Ehr wieder
+                        z'ruck z'gà?</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost.</speaker>
+          <p>Sie hàn dr Finger druf.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er hat ne druf!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Das isch jo abscheülig!<stage>(se pfatzt dr Herr Türk).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Aïe!<stage>(verwundert, fir sich)</stage> die Dame pfàtzt mi!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich lad mich i an d'Hochzit... das müess g'wiss possig
+                        si, ne Brüt vo so-n-ere Farb.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s isch recht... 's blibt derbi... d'nàchste Wuche
+                        hiroth ich se.</p>
+        </sp>
+        <pb n="708"/>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(rasend, lipft ihre Schleier)</stage>
+          <p>Ah so!... Dü hirothsch se... Dü Zittel!... un was witt
+                        mit Dinere Fraü afange?</p>
+        </sp>
+        <sp who="#herr_zitelpost_un_herr_dampf">
+          <speaker>Herr Zitelpost un Herr Dampf.</speaker>
+          <p>Si Fraü!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>'s Sàlmele!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>'s Sàlmele, jà... wo Dü trumpiert un hintergange
+                        hasch... awer ich will mich ràche!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(verschreckt)</stage>
+          <p>Jà halt!... das Ding isch ganz anderscht!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Un die Junpfer Kà-kà-o?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Die existiert nitt emol!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(verwundert)</stage>
+          <p>Hein!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Un die Hirothsg'schichte?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Das isch alles erfunde!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ah! bah!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(lislig)</stage>
+          <p>Wànn Se mich denn verrothe?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(lislig)</stage>
+          <p>Nei... ich will Se rette un mich o...<stage>(lüt)</stage> 's isch nur
+                        einer do, wo schuldig isch, un das isch dr Herr Dampf!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich!</p>
+          <pb n="709"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà Sie<stage>(er kehrt sich gege dr Citadine, fir sich güet
+                        mache z'höre)</stage>. Sie, wo z'Nacht ummeziehn, anstatt uf
+                        Ihr Bureau z'geh... sodass Ihne-n-Ihre junge Fraü müess
+                        nogeh un ufpasse...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Was hör i!...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Hàn Sie jetz endlig verstande, Sie alter Sünder, ass es
+                        Ihre Fraü isch, wo dert in dr Citadine isch?</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Mi Fraü im e Fiacre... mit em Herr Zitelpost!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Jà... dr Herr Zitelpost... Ihr güeter Frind Zitelpost...
+                        e veritawliger Frind... Sie wisse nitt, was er alles
+                        scho hat welle mache fir Se... er hat doch Ihre Fraü
+                        nitt allei känne lo geh, fir Sie z'süeche.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Mi Fraü im e Fiacre!... ich will ere zeige...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(hebt ne z'ruck)</stage>
+          <p>Se weisst alles, diè güete Fraü... Ihre-n-Üsred fir
+                        furtz'geh hit z'Owe un Ihre Rendez-vous mit ere junge
+                        Dame.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich bi im Dunkes!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was verzählt er do?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Un ass Sie hàn welle geh z'Nacht esse mit ere...<stage>(er
+                        losst e Schrei üs und schaüt uf si Fraü)</stage> Eh! 's isch jo
+                        mit minere Fraü, wo-n-er hat welle geh!... das wàr mr
+                        jetz emol e süfere G'schichte gsi.</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Ich schwör Dr, liewer Mann, ass ich nit g'wisst ha...</p>
+        </sp>
+        <pb n="710"/>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Vo dem Nachtesse... ich weiss es... er hat mr's g'sàit,
+                        ich b'sinn mi...<stage>(zornig züem Herr Dampf)</stage> Alter Süeri!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Nàmme Se's nitt so bös uf... Herr Pascha !</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Türk, un nitt Pascha... Sie sin e Pascha!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Ich ha in dàre junge Dame nur welle Ihre Nomination als
+                        Diràcter bringe, Nomination, wo-n-ich eso frei bi, Ihne
+                        z'offriere<stage>(er presentiert em's Brevet).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(zornig, refüsiert)</stage>
+          <p>Mi Nomination!<stage>(er lipft d'Achsle).</stage></p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk.</speaker>
+          <p>Di Brevet... nimm's doch.</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(nimmt's, fir sich)</stage>
+          <p>Er hat mr glaüb zwei welle ahànke; awer ich glaüb, er ka
+                        's zweite fir sich b'halte.</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(nimmt im Herr Zitelpost d'Hand)</stage>
+          <p>Dà güete Herr Zittelpost<stage>(züem Herr Türk)</stage> Jà so... awer
+                        mi Fraü?</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Ich bi sicher, ass se güetherzig genüeg isch un stigt üs
+                        un kunnt Ihne d'Hand ku gà, fir Ihne z'zeige, ass sie
+                        Ihne verzeiht un scho alles vergesse hat...<stage>(Madame
+                        Dampf zeigt si).</stage></p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf</speaker>
+          <stage>(springt uf se züe un nimmt ere d'Hand)</stage>
+          <p>Oh! 's isch mr also verzeiht!</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Sie verdiene's nitt!</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Mi liewer Herr Pascha!</p>
+          <pb n="711"/>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Türk... Herr Krampf...</p>
+        </sp>
+        <sp who="#herr_dampf">
+          <speaker>Herr Dampf.</speaker>
+          <p>Dampf... Herr Pascha... ich lüeg Sie fir mi güeter Frind
+                        a un wenn Se-n-emol ebbes brüche, so bin ich do<stage>(er
+                        geht hintere mit sinere Fraü; züem Kütschner)</stage> Allons,
+                        Kütschner, uf dr Bock un abg'fahre!</p>
+        </sp>
+        <sp who="#herr_zitelpost">
+          <speaker>Herr Zitelpost</speaker>
+          <stage>(züem Herr Türk)</stage>
+          <p>Ich will Ene ewig dankbar si!<stage>(er geht hintere).</stage></p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk.</speaker>
+          <p>Schön... schön, 's wird mi freie!</p>
+        </sp>
+        <sp who="#madame_turk">
+          <speaker>Madame Türk</speaker>
+          <stage>(züem Herr Türk)</stage>
+          <p>De wirsch mr awer doch ufs wenigst sage, was De bisch ku
+                        mache z'Milhüse...</p>
+        </sp>
+        <sp who="#herr_turk">
+          <speaker>Herr Türk</speaker>
+          <stage>(zàrtlig)</stage>
+          <p>Jo, mi liewe Fraü... ich sag Dr's... im Hotel... brrr!
+                        ich ha kalt efange vo dem umesteh uf dr Gasse... mr
+                        wànn mache, ass mr ins Truckene kämme...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(dr Papst)</stage>
+            <l>'s thüet Kein vo alle do, ich wett.</l>
+            <l>Wie-n-ich pressiere, fir ins Bett.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_turk #madame_turk #herr_zitelpost #madame_dampf">
+          <speaker>Alle mitnander.</speaker>
+          <lg>
+            <l>Drum ziege mir dr Vorhang züe,</l>
+            <l>Ne jeder ka geh 's gliche thüe.</l>
+            <stage>}bis</stage>
+          </lg>
+        </sp>
+        <pb n="712"/>
+      </div>
+    </body>
+  </text>
+</TEI>

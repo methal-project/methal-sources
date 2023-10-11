@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vor un no dr Hochzit</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-122"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Vor un no dr Hochzit</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_schnitz" sex="M">
+            <persName>Herr SCHNITZ</persName>
+          </person>
+          <person xml:id="lisettle" sex="F">
+            <persName>LISETTLE</persName>
+            <persName type="variant">Madame Spàtzle.</persName>
+          </person>
+          <person xml:id="herr_mues" sex="M">
+            <persName>Herr MÜES</persName>
+          </person>
+          <person xml:id="schambedis" sex="M">
+            <persName>SCHAMBEDIS</persName>
+          </person>
+          <person xml:id="herr_spatzle" sex="M">
+            <persName>Herr SPATZLE</persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_schnitz">
+          <role>
+            <persName>Herr SCHNITZ</persName>
+          </role>
+          <roleDesc>Spezereihàndler</roleDesc>
+        </castItem>
+        <castItem corresp="#lisettle">
+          <role>
+            <persName>LISETTLE</persName>
+          </role>
+          <roleDesc>si Tochter</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_mues">
+          <role>
+            <persName>Herr MÜES</persName>
+          </role>
+          <roleDesc>dr erste Commis</roleDesc>
+        </castItem>
+        <castItem corresp="#schambedis">
+          <role>
+            <persName>SCHAMBEDIS</persName>
+          </role>
+          <roleDesc>dr Knecht</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_spatzle">
+          <role>
+            <persName>Herr SPATZLE</persName>
+          </role>
+          <roleDesc>dr Liebhawer vom Lisettle</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="ACT">
+        <head>= I. ACT. =</head>
+        <stage>('s Theater stellt e Spezereilade vor; hinte ne Thüre, dernewe
+                    rechts dr Ladetisch mit Waare-n-un e grosser Confiture-Hafedruf,
+                    dernewe links e grosser Mehlschrank, uf dr Site rechts eThüre, uf
+                    dr Site links e Fenster.)</stage>
+        <div type="scene">
+          <head>I. Uftritt.</head>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(git sich z'schaffe-n-im Lade)</stage>
+            <p>'s glaübt mr awer jetz doch g'wiss kei Mensch, wie
+                            iwel dra
+                            as ich bi!... vo drei Liebhawer weiss ich jetz
+                            sicher nitt,
+                            weller as ich nàh sott... Mi Pape hat mr einer
+                            üsg'süecht,
+                            e Richer, e Fawrikant, dr Herr Gas, wo-n-ihm am
+                            liebschte
+                            wàr un wo mir awer eso ziemlig glichgiltig isch,
+                            denn 's
+                            isch scho ne wenig e-n-alter... derno isch dr Herr
+                            Spàtzle,
+                            dà isch grad o nitt arm un isch jung, awer
+                            wiescht... un
+                            derno dr Herr Mües, unser erster Commis... das isch
+                            e
+                            schöner junger Mensch, awer hat nit... was mache
+                            jetz...
+                            ich find das G'setz dumm, ass me nur ei Mann derf
+                            ha...
+                            worum sott me nitt ewe-n-eso güet drei känne nàh...
+                            me hätt
+                            doch derno ufs wenigst Chance, e güeter
+                            z'finde-n-unter dr
+                            Zahl...</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Schweizerbua)</stage>
+              <l>Bin ich nitt iwel dra,</l>
+              <l>So drei Liebhawer z'ha?</l>
+              <l>Ich weiss nitt weller nàh,</l>
+              <l>Was wird drüs g'schàh?</l>
+              <pb n="421"/>
+              <l>Ein isch mir jetz scho z'alt,</l>
+              <l>Doch er wàr rich g'nüeg halt;</l>
+              <l>O nitt arm isch dr Zweit,</l>
+              <l>Doch wiescht, züem Leid!</l>
+            </lg>
+            <lg>
+              <l>Wenn dr Dritt' richer wàr,</l>
+              <l>Kàms mir nitt vor so schwer,</l>
+              <l>Das miesst mi Mànnle si,</l>
+              <l>Denk ich mithi.</l>
+              <l>Wenn's no mim Kopf thàt geh,</l>
+              <l>Thàt mir g'wiss d'Wahl nitt weh,</l>
+              <l>Denn ich nàhm, wàr ich frei,</l>
+              <l>Glich alle drei!</l>
+            </lg>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>II. Uftritt.</head>
+          <stage type="characters">Lisettle, Herr Spàtzle.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(kunnt hinte-n-ine)</stage>
+            <p>Eh, güete-n-Owe Jumpfer Schnitz... ich ha g'sàh im
+                            Duregeh,
+                            ass Sie-n-allei im Lade-n-isch... un do ha-n-i nitt
+                            anderscht känne, ich ha miesse-n-ine ku...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Allewil uf d'letschte Mode... wenn er nur schöner
+                            wàr...<stage>(züem Herr Spàtzls)</stage> Sie werde fir e Grosche
+                            Bàredràck
+                            welle, wie alle Tag, nitt wohr, Herr Spàtzle?...
+                            Sie mien e
+                            famoser Hüeschte ha... denn er dürt jetz scho
+                            ziemlig
+                            lang... nimmt er denn allewil no nitt ab?</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Nie, Jumpfer Schnitz... So lang ass Sie Sieselsaft
+                            z'verkaüfe hat!</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Wenn nur dr Herr Mües, unser erster Commis, nitt
+                            emol derzüe
+                            kunnt, wenn Sie do sin... denn er isch <pb n="422"/>ne Find...
+                            er isch
+                            jaloux, er will mr glaüb dr Hof mache un obschon
+                            Sie nur
+                            kämme ku Sieselsaft kaüfe...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Oh Jumpfer Lisette!... Sie weisst ganz güet, ass es
+                            mir nitt
+                            isch um dr Bàredràck, wenn ich do ane kumm... Sie
+                            wird 'n
+                            doch ebbe mir nitt vorzieh?...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Wer, dr Bàredràck?</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Eh nei, dr Commis... er hat ganz Recht, wenn er
+                            jaloux
+                            isch... denn 's hat Sie kei Mensch liewer as ich...
+                            wenn
+                            ich doch nur an sim Platz wàr!... worum bin ich
+                            nitt
+                            Ihre-n-erste Commis, Jumpfer Schnitz!... nitt wohr,
+                            Sie git
+                            em dr Vorzug nitt... das wàr jo mi Tod... un was
+                            hätt
+                            Se-n-am eso ne Ladediener... Sie wird doch nitt
+                            ewig im eso
+                            ne Lade am Sirop bliwe klàwe un drin züe-n-ere
+                            dirre
+                            Zwàtschke werde!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Er hat Recht... wenn er nur schöner wàr!...</p>
+          </sp>
+          <stage>G'sang (air suisse)</stage>          
+          <sp who="#lisettle #herr_spatzle">
+            <speaker>Mitnander.</speaker>
+            <lg>
+            <l>Ich will mine junge Johre,</l>
+              <l>Das ha-n-ich scho vielmol g'schwore,</l>
+              <l>Nitt im Lade do verliere</l>
+              <l>Zwische Sirop, Mehl un Schmalz;</l>
+              <l>'s Wàge geht mr nitt,</l>
+              <l>Ich spir's ganz güet hit,</l>
+              <l>All' die dumme Waar'</l>
+              <l>Hass ich, das isch klar;</l>
+              <l>Ich wott liewer geh spaziere</l>
+              <l>Un uf d'Bàll geh tanze-n-als!</l>
+            </lg>
+            <pb n="423"/>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <lg>
+              <l>Fir Ihre Johre</l>
+              <l>Wàr d'Zit verlore,</l>
+              <l>Do so z'serviere</l>
+              <l>Sirop un Schmalz;</l>
+              <l>Das geht nitt,</l>
+              <l>Sie sieht's hit,</l>
+              <l>Sie hasst d'Waar,</l>
+              <l>Das isch klar;</l>
+              <l>G'wiss, geh spaziere</l>
+              <l>Wàr besser als!</l>
+            </lg>
+            <p>Oh Lisettle!<stage>(er will se-n-umarme, sie stosst en
+                            z'ruck).</stage>
+                            Sie stosst mich z'ruck, Lisettle... un 's isch mr
+                            doch
+                            g'wiss Ernst... wenn ich bis dohi no nitt g'frogt
+                            ha um
+                            Ihre Hand bi Ihrem Vater, so isch's jo nur, wil Sie
+                            mir
+                            allewil g'sàit hat, ich soll noch warte awer wenn
+                            Sie will,
+                            so gang ich gli jetz uf dr Stell'...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Nei... jetz nitt... dr Pape-n-isch glaüb iwel
+                            z'Müeth hit
+                            z'Owe...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Das sàit Sie mr jetz scho Monete lang!</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Ich müess mi doch emol entschliesse fir Ein oder dr
+                            And're
+                           <stage>(lüt)</stage> still, 's kunnt ebber<stage>(se lüegt am Fenster).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Eh bien, ich mach mich dervo... awer nitt wohr, Sie
+                            verspricht mr...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(unterbricht ne)</stage>
+            <p>Se känne jetz nitt üse... 's isch dr Commis... er
+                            kunnt üs
+                            em Bureau dert àne... Sie thàte-n-em grad in d'Hànd
+                            laüfe...</p>
+          </sp>
+          <pb n="424"/>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Eh bien... ich kaüf fir e Grosche Meertriwel... das
+                            isch jo
+                            ganz natürell...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Nei, nei... Sie wisse-n-ass er Sie hasst... ich wott
+                            nitt,
+                            ass er Sie thàt atreffe do... 's gàb am End
+                            G'schichte...
+                            do... verstecke Sie sich do drin<stage>(se zeigt uf dr
+                            Mehlschrank).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Ich, do dri?... mit mim neüe Kleid!</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(lipft dr Deckel)</stage>
+            <p>'s isch dr Mehlschrank, awer er isch leer in dem
+                            Moment...
+                            Sie hàn ganz güet Platz drin...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Awer mi Kleid!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Ich bitt Se drum, Herr Spàtzle... wenn Sie mich gern
+                            hàn ,
+                            so schlupfe Se dri... denn wenn Sie dr Herr Mües
+                            thàt sàh
+                            do...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Awer nitt lang, nitt wohr?...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Nur e-n-Aügesblick... wie-n-er wieder üse geht, so
+                            mache Se
+                            sich natirlig dervo...<stage>(se druckt en awe, macht dr
+                            Deckel
+                            züe un springt üse rechts).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>III. Uftritt.</head>
+          <stage type="characters">Herr Mües, Herr Spàtzle.</stage>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües</speaker>
+            <stage>(zornig)</stage>
+            <p>Also mir, im erste Commis, wo so z'age 's ganze
+                            G'schàft
+                            tüet b'sorge, mir refusiert me d'Tochter üs<pb n="425"/> em
+                            Hüs... grad
+                            ha-n-ich um ihre Hand g'frogt un bin abg'wiese
+                            worde, un
+                            das unter em Vorwand, wil er, dr Vater, scho ne
+                            Choix
+                            g'macht hat fir si Tochter... er wird schön aku mit
+                            sim
+                            Choix!... wie vielmol hat mr d'Jumpfer Schnitz scho
+                            g'sàit,
+                            ass se ne nitt will, dà alte Kracher!... ich ha
+                            viellicht e
+                            wenig z'viel pressiert mit em froge... d'Jumpfer
+                            Lisette
+                            hat mr allewil g'sàit, ich soll noch warte... awer
+                            ich
+                            ha-n-Angst g'ha, ich wird abg'streckt vo dem Herr
+                            Spàtzle,
+                            wo-n-afange-n-allewil do ummeflattert...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(lipft dr Deckel)</stage>
+            <p>Dem g'schieht's jetz emol Recht!<stage>(er
+                            verschwindet).</stage></p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües</speaker>
+            <stage>(lüegt z'ruck)</stage>
+            <p>Hein... ich ha g'meint, ich hör rede... was soll ich
+                            jetz
+                            afange, wenn dr Herr Schnitz e Madame will
+                            mache-n-üs
+                            sinere Tochter?</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Savetier et Financier)</stage>
+              <l>Er thüet mir se refüsiere,</l>
+              <l>Isch das nitt e wahre Schand!</l>
+              <l>Ich, wo 's ganze G'schàft thüe fiehre,</l>
+              <l>Bi nitt güet g'nüe fir ihr' Hand;</l>
+              <l>Ich bi halt kei Fawrikant!</l>
+              <l>Was thüet denn dà Kràmer meine,</l>
+              <l>Glaübt er, 's git sunscht niene keine?</l>
+              <l>Das steht ihm jetz o gar schlecht,</l>
+              <l>Ass er thüet verachte d'Kleine...</l>
+            </lg>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Hërr Spàtzle</speaker>
+            <stage>(lipft dr Deckel un singt fertig)</stage>
+            <p>Dir g'schieht's recht!<stage>(er verschwindet).</stage></p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües</speaker>
+            <stage>(lüegt hintere)</stage>
+            <p>Hein... dasmol ha-n-i jetz glaübt, ich hör singe...
+                            's isch
+                            e Fawrikant, wo-n-er g'chosiert hat fir si Tochter,
+                            er hat
+                            awer glaüb meh Rhumetisse-n-ass Geld... un doch
+                            thüet er ne
+                            schier abete... 's vergeht kei Tag <pb n="426"/> wo-n-er em nitt
+                            ebbes
+                            schickt... do isch scho wieder e Hafe voll frischer
+                            Hunig
+                            g'rischtet fir ne, wo-n-em derno dr Knecht bringe
+                            müess...
+                            awer wart, ich will dir dr Hunig istriche
+                            dasmol!... ich ha
+                            ne-n-Idee!... ich will e Hafe voll brüne
+                            Schmierseife
+                            rischte un will ne an dr Platz vom Hunig stelle...
+                            dà wird
+                            speie... ha ha ha... das git e güeter Spass!... ich
+                            will mi
+                            gli an d'Arwet mache<stage>(er geht hinte-n-üse).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IV. Uftritt.</head>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(lipft dr Deckel)</stage>
+            <p>Endlig!... ich ha g'meint, er will nimmig üsegeh!
+                           <stage>(er geht
+                            üs dr Kiste)</stage> vo dem ha-n-i jetz scho nit meh
+                            z'riskiere...
+                            dà isch abdankt worde... un dr Andere bikunnt,
+                            wie-n-i
+                            g'hört ha, Schmierseife-n-anstatt Hunig... ich
+                            glaüb, ass
+                            ihm eso ne Flade d'Hirothsgedanke vertriwe wird...
+                            awer
+                            einstwile mach ich mich jetz dervo...<stage>(er lüegt am
+                            Fenster)</stage>
+                            güet... jetz kunnt dert dr Herr Schnitz selbst un
+                            dr
+                            Knecht... jetz ka-n-i nitt furt, ich müess halt
+                            wieder in
+                            mi Kiste...<stage>(er springt dri un macht dr Deckel
+                            züe).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>V. Uftritt.</head>
+          <stage type="characters">Herr Schnitz, Schambedis.</stage>
+          <stage>(Dr Herr Schnitz kunnt hinte-n-ine, dr
+                        Schambedis hinte
+                        no mit eme Sack uf em Buckel)</stage>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(züem Schambedis)</stage>
+            <p>Do...<stage>(er zeigt uf dr Mehlschrank)</stage> leere-n-Eüer Mehl
+                            do dri
+                            un trage derno dr Sack wieder z'ruck ins Ma- <pb n="427"/>gazin un
+                            noher
+                            nàmme-n-Ihr derno dà Hafe, wo do uf em Ladetisch
+                            steht un
+                            trage ne züem Herr Gas un sage ne schön Kumpliment
+                            vo mir,
+                            un do seig ebbes fir si Namestag<stage>(er geht gege dr
+                            Thüre
+                            rechts).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Jo Herr...<stage>(er macht dr Deckel uf un stellt dr Sack
+                            uf dr
+                            Rand).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(kehrt si um)</stage>
+            <p>Gàn awer Achtung, 's isch Hunig drin... un
+                            mache-n-ass Ihr
+                            gli wieder do sin... nitt ass Ihr wieder
+                            e-n-Ewigkeit
+                            furtbliwe<stage>(er geht üse rechts).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(allei)</stage>
+            <p>Ich sott nur allewil laüfe un g'schwind wieder do
+                            si... ich
+                            wird doch ebbe ne wenig derfe steh bliwe, wenn ich
+                            dr
+                            Hafe-n-abgà ha un warte, bis ass me mir e Trinkgeld
+                            git...
+                           <stage>(er hat derwilst dr Sack ufg'macht, leert en jetz
+                            in dr
+                            Kaste, stàibt en recht üs un macht dr Deckel züe).</stage></p>
+            <lg>
+              <head>G'sang</head>
+              <stage>('s isch Hochzit uf mi Treü)</stage>
+              <l>Dr Schambedis müess alles mache</l>
+              <l>Er geht fir d'Kummissione-n-üs</l>
+              <l>Un müess dr Lade do bewache</l>
+              <l>Un erst nochhelfe dert im Hüs!</l>
+              <l>Un iweral züe glicher Zit</l>
+              <l>Sott er bediene-n-alle Lit. <stage>(bis)</stage></l>
+            </lg>
+            <lg>
+              <l>Wenn ich thàt àndre mi Betrage,</l>
+              <l>So gàb's kei Trinkgeld niene meh,</l>
+              <l>Denn wenn ich ebbes gang geh trage,</l>
+              <l>So blib ich express als dert steh,</l>
+              <l>Dr Schambedis isch nitt so dumm,</l>
+              <l>Werm er das macht, weis er worum. <stage>(bis)</stage></l>
+            </lg>
+            <lg>
+              <l>Wird ebbes als im Hüs verbroche,</l>
+              <l>Heisst's gli, dr Schambedis isch's gsi...</l>
+              <pb n="428"/>
+              <l>Doch kein hat's ihm ins G'sicht noch
+                                g'sproche,</l>
+              <l>Wil's Keiner g'sàh hat bis dohi,</l>
+              <l>Dr Schambedis isch wohl so g'scheidt,</l>
+              <l>Er rümt eweg, was er verheit! <stage>(bis)</stage></l>
+            </lg>
+            <p>Doch, ich will jetz geh mi Sack ins Magazin
+                                z'rucktrage-n-un mich e wenig abstàiwe, ass ich
+                                ka mi
+                                Honig geh abliefere <stage>(er geht hinte-n-üse)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IV. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Herr Mües.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(steht uf im Kaste, er isch ganz wiss vo owe bis
+                            awe)</stage>
+            <p>Jetz bin i schön,<stage>(er b'schaüt si)</stage> ich traü jo nitt
+                            heim
+                            z'geh-n-eso!... wenn ich uf d'Gasse kàm, so thàte
+                            mir alle
+                            Kinder « Jee » schreie!... Hatt ich mich doch nur
+                            üs em
+                            Staüb g'macht vorig!... güet... jetz kunnt wieder
+                            ebber 's
+                            wird dr Ladediener si, wo d'Schmierseife bringt<stage>(er
+                            verschwindet)</stage></p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües</speaker>
+            <stage>(kunnt hinte-n-ine mit eme ganz gliche Hafe wie
+                            dà,
+                            wo-n-nf ern Ladetisch steht)</stage>
+            <p>So... do wàr jetz das Ding... dr ganz gliche Hafe un
+                            mit
+                            Schmierseife g'fillt<stage>(er stellt en uf dr Tisch un
+                            nimmt dr
+                            andere-n-eweg)</stage> un dà do mit em Hunig stell ich
+                            einstwile do
+                            unter dr Ladetisch, bis ass ich furt gang, derno
+                            nimm ich
+                            ne mit...<stage>(er sitzt uf dr Mehlschrank un lacht)</stage>
+                            wird dà
+                            Kerle speie, wenn er in e Schmierseifeflade
+                            bisst!... ha ha
+                            ha!... wenn ich ne nur kännt sàh... ich will mich
+                            jetz
+                            glich geb alege, ass ich furt kumm<stage>(er springt awe)</stage>
+                            ich ha
+                            jetz genüe in dere Baracke!... vom dobliwe isch
+                            natirlig
+                            kei Red meh<stage>(er geht hinte-n-üse).</stage></p>
+            <pb n="429"/>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VII. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Lisettle, Schambedis un
+                            Herr Mües.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(lipft dr Deckel)</stage>
+            <p>Was soll ich nur afange!... müess ich eigentlig mi
+                            Lewe-n-in
+                            dem Kaste züebringe!... wenn nur 's Lisettle kàm,
+                            ass ich
+                            mich kännt wàsche-n-un putze... denn eso ka-n-ich
+                            nitt
+                            furt... still... 's kunnt scho wieder ebber...<stage>(er
+                            verschwindet).</stage></p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(kunnt ine rechts)</stage>
+            <p>Tiens... isch nieme do?... ich ha g'meint, ich hör e
+                            Pratik,
+                            wo ebbes hole will... was macht denn dà Hafe do uf
+                            em
+                            Ladetisch dr ganze Tag?... dà g'hört doch nitt do
+                            ane... 's
+                            isch allewil e-n-Unordnung in dem Lade!...<stage>(se
+                            nimmt ne un
+                            stellt ne unter dr Ladetisch).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(steht uf in sim Kaste)</stage>
+            <p>Oh Jumpfer Schnitz!...<stage>('s Lisettle losst e Schrei
+                            üs vor
+                            Schrecke un laüft dervo rechts).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(rieft ere no)</stage>
+            <p>Ich bi's... Jumpfer Lisettle! thàt Se doch nur nitt
+                            verschrecke!...<stage>(fir sich)</stage> so... jetz laüf mr
+                            no!... Die
+                            isch jetz scho lang wit... ich müess schint's nitt
+                            iwel
+                            wiescht züeg'richte si, ass sie mich nitt kennt
+                            hat...<stage>(er
+                            zeigt uf d'Thüre hinte)</stage> Scho wieder ebber...<stage>(er
+                            verschwindet).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(kunnt hinte-n-ine)</stage>
+            <p>Sa... jetz wà mir denn dà Hunig geh trage...
+                            tiens... wo
+                            isch er jetz, dà Hafe?... wo hàn se ne jetz
+                            anetho?...<stage>(er
+                            lüegt unter dr Ladetisoh)</stage> aha, do isch er jo...
+                            sogar noch
+                            zwe sin do... ich nimm halt dr nàchste beste... 's
+                            wird jo
+                            eithüen si... ich ha awer dà Hunig no nitt
+                            versüecht... ma
+                            foi, ich ha jetz <pb n="430"/> nimmig dr Zit, ich versüech ne uf
+                            em
+                            Weg... dr Schambedis versüecht ewe ne Sach, vor ebb
+                            er sine
+                            Pratike serwiert mit...<stage>(er geht mit sim Hafe
+                            hinte-n-üse).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(lipft dr Deckel)</stage>
+            <p>Ich wird halt doch miesse woge, heim z'geh... 's
+                            wird glaüb
+                            scho ne wenig dunkel?... wenn ich recht g'schwind
+                            laüf, so
+                            achtet's viellicht Nieme, wie-n-ich züeg'richte
+                            bi...
+                            still... 's kunnt scho wieder ebber!...<stage>(er
+                            verschwindet).</stage></p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües</speaker>
+            <stage>(kunnt hinte-n-ine ku z'laüfe mit Hüet un Kittel
+                            a)</stage>
+            <p>Jetz g'schwind mi Hunig... ich ha dr Knecht g'sàh
+                            furt geh
+                            mit dr Schmierseife... ich mach mi jetz üs em
+                            Staüb...<stage>(er
+                            hat dr and're Hafe gnu unter'm Ladetisch un isch
+                            fire
+                            gange).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(lipft e wenig dr Deckel)</stage>
+            <p>Wenn ich mich nur o kännt drüs mache!<stage>(er
+                            verschwindet).</stage></p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües.</speaker>
+            <p>Das git jetz grad e güete Régalade fir mich un mine
+                            Kamerade...<stage>(er springt hinte-n-üse.</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VIII. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Herr Schnitz
+                        un
+                        Lisettle.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(springt üs em Kaste)</stage>
+            <p>Awer jetz halt ich's nimmig üs!... ich glaüb, ich
+                            ka's woge
+                            fir z'geh;<stage>(er lüegt am Fenster)</stage> 's isch halt
+                            allewil noch
+                            e wenig z'heiter!...</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Màidele putz di)</stage>
+              <l>Wàr doch jetz hit nur Fasenacht!</l>
+              <l>Mi Costüm war druf hi scho g'macht!</l>
+              <l>Ich traü nitt üse z'geh-n-eso,</l>
+              <l>Üs Angst, mir laüfe d'Büewe no!</l>
+            </lg>
+            <pb n="431"/>
+            <lg>
+              <l>Mich thüet d'Liewe</l>
+              <l>Nimmig schiewe</l>
+              <l>In e Kaste meh so g'schwind!</l>
+              <l>Ich ha g'funde</l>
+              <l>Hit dert unte,</l>
+              <l>'s Mehl un d'Liewe mache blind!</l>
+            </lg>
+            <lg>
+              <l>Wàr doch jetz hit nur Fasenacht!</l>
+              <l>Mi Costüm wàr druf hi scho g'macht!</l>
+              <l>Ich traü nitt üse z'geh-n-eso,</l>
+              <l>Üs Angst, mir laüfe d'Büewe no!</l>
+            </lg>
+            <p>Bàh!... ha-n-i's jetz eso lang üsg'halte, so
+                                ka-n-ich o
+                                noch warte, bis es gar finster isch... mi
+                                Schicksal
+                                will's halt jetz emol eso ha, ass ich dà Kaste
+                                soll
+                                bewohne...<stage>(er lost)</stage>was ha-n-i g'sàit?... 's kunnt scho wieder ebber!... <stage>(er springt in dr Kaste un macht dr Deckel züe).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(kunnt hinte-n-ine ku z'laüfe)</stage>
+            <p>Lisettle!... Lisettle!...<stage>(fir sich)</stage> jà, jà.. jetz
+                            steh mir
+                            schön!..<stage>(er macht d'Thüre-n-uf rechts)</stage> Lisettle,
+                            wo
+                            stàcksch?...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(voruse)</stage>
+            <p>Was b'liebt, Pape?...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Was tribsch dert owe?... stehsch wieder vor em
+                            Spiegel?...
+                            kumm g'schwind!<stage>(er kunnt fire)</stage> dà Halunk!.. dà
+                            Spitzbüe!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle</speaker>
+            <stage>(kunnt ine rechts)</stage>
+            <p>Was isch?... Was isch?... mit wem hasch's?..</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Mir sin im e schöne Dunkes!... ich ha im Herr Gas e
+                            Hafe
+                            voll Hunig g'schickt dur dr Knecht... un dr Herr
+                            Mües, dà
+                            Halunk, hat'm schint's e-n-andrer
+                            Hafe-n-aneg'stellt mit
+                            Schmierseife drin, fir uns un im <pb n="432"/> Herr Gas e Spück
+                            z'spiele... er hat's im zweite Commis g'riehmt
+                            duss, vor
+                            ebb er furt isch... was meinsch, was wird dr Herr
+                            Gas
+                            sage... 's isch gar kei Red meh vo-n-ere Hiroth uf
+                            das
+                            hi... das isch mr jetz e schöne G'schichte...
+                            Schmierseife,
+                            anstatt Hunig!...</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Carnaval de Venise)</stage>
+              <l>Er thüet uns nie verzeihe,</l>
+              <l>Das Ding isch halt nitt güet!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <lg>
+              <l>Er soll's halt üsespeie,</l>
+              <l>Wenn's ihm' nitt g'schmecke thüet!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle #herr_schnitz">
+            <speaker>Mitnander.</speaker>
+            <lg>
+              <l>D'Schmierseife bringt Dich/mich leider</l>
+              <l>Jetz um Di/mi Fawrikant;</l>
+              <l>Dü findsch/Ich find nitt bol e Zweiter,</l>
+              <l>Wo Dir/mir offriert si Hand!</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Er.</speaker>
+            <lg>
+              <l>Er thüet uns nie verzeihe,</l>
+              <l>Das Ding isch halt nitt güet!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Sie.</speaker>
+            <lg>
+              <l>Er soll's halt üsespeie,</l>
+              <l>Wenn's ihm nitt g'schmecke thüet!</l>
+            </lg>
+            <p>Un derno, was brüchsch Dü Dir bös Gebliet z'mache
+                            derwege...
+                            's isch 'm jo viellicht doch nitt recht Ernst gsi
+                            mit dàre
+                            Hiroth...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Awer ich verlier si Pratik jetz mit dem G'spass!...
+                            d'beste,
+                            wo-n-ich g'ha ha!...</p>
+            <pb n="433"/>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Worum hat awer dr Herr Mües das g'macht?</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Worum?... ah, Dü weisch's no nitt... ha-n-ich Dir's
+                            denn no
+                            nitt g'sàit?... wil er um Di Hand g'frogt hat un
+                            ich nit ha
+                            welle wisse dervo...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Awer, Pape... uf die Art verlier ich jo jetz zwe
+                            Liebhawer
+                            uf eimol... ich, wo embarrassiert gsi bi,
+                            z'wähle... hi hi
+                            hi...<stage>(se grint).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(steht uf im Kaste)</stage>
+            <p>Un ich, Jumpfer Schnitz... bin ich denn nitt do!...
+                           <stage>('s
+                            Lisettle losst e Schrei üs).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(verwundert)</stage>
+            <p>Was dr Kückück's isch jetz das fir e Mehlwurm
+                            do?...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(kunnt üse)</stage>
+            <p>Schäut Se, in was fir eme Züestand as ich bi dur
+                            Ihre Schuld
+                            un was ich jetz g'litte ha fir Sie!..</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(züem Lisettle)</stage>
+            <p>Ah çà was isch das fir einer?... wie kunnt jetz dà
+                            do ane in
+                            mi Mehlkaste?...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Eh... 's isch dr Herr Spàtzle, Pape... er kunnt Dich
+                            ku um
+                            mi Hand froge<stage>(se schiebt dr Herr Spàtzle
+                            gege-n-ihrem
+                            Vater; lislig)</stage> allons, vorwàrts!<stage>(fir sich)</stage> 's isch
+                            dr
+                            Letscht... ich derf mi nimmig lang b'sinne!</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Eh jo, Herr Schnitz...ich kumm ku froge...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(züem Lisettle)</stage>
+            <p>Un fir das isch er in dr Mehlschrank krobelt?...
+                            bossige
+                            Manier, fir ku ums Hirothe z'froge... enfin,<pb n="434"/> wenn
+                            Dü-n-en
+                            witt, so nimm 'n... mit em Andere isch jo doch nitt
+                            meh
+                            z'mache...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>O merci, Pape!...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IX. Uftritt.</head>
+          <stage type="characters">D'Gliche, Schambedis.</stage>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(kunnt hinte-n-ine un lacht, ass er schier nitt
+                            züem
+                            Othem kunnt)</stage>
+            <p>Hi Hi Hi!... ha ha ha!... oh!...<stage>(er sitzt uf dr
+                            Mehlschrank).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Was isch das fir e Manier, Schambedis, sich so
+                            z'presentiere!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Verzeihe Se, Herr... awer wenn Sie wisse thàte... ha
+                            ha
+                            ha!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(ungeduldig)</stage>
+            <p>Genüeg eso!... Ihr hàn da Hafe ane tràit, nitt wohr,
+                            wo-n-ich Eüch g'sàit ha... natirlig... wenn's fir
+                            mi
+                            Schade-n-isch, so sin Ihr allewil flink, fir e Sach
+                            üsz'richte...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(fir sich)</stage>
+            <p>Güet... jetz isch's wieder nitt recht!...<stage>(lüt)</stage> Sie
+                            hàn jo
+                            g'sàit, ich soll mi dummle... ha ha ha... ich müess
+                            lache,
+                            eb ich will oder nitt!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Was isch denn eso possig's g'schàh... üse mit
+                            emol!</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Wo-n-i z'ruck ku bi vom Herr Gas un bi bim « Wisse
+                            Lamm »
+                            dure, so rieft mr dr Herr Mües, wo <pb n="435"/> dert mit e paar
+                            Kamerade
+                            gsi isch, eb ich nitt eins trinke will... dr
+                            Schambedis
+                            natirlig schlat nie keins ab... drum bin ich ine...
+                            un do
+                            sin se grad dra gsi, fir z'wette, wer am
+                            g'schwindste sechs
+                            Hunigflade verschlinge ka... se sin scho alle ne
+                            wenig
+                            atrunke gsi, un dr Herr Mües hat e glicher Hafe
+                            dert steh
+                            g'ha mit Hunig drin, wie dà wo-n-ich im Herr Gas
+                            brocht
+                            ha... un do hàn se halt im e Jede... hi hi hi...
+                            sechs
+                            Hunigflade g'rischtet... ha ha ha... un wo me drei
+                            zahlt
+                            hat... hi hi hi... wo me drei zählt hat... ha ha
+                            ha... hàn
+                            se-n-ag'fange un hàn's awer ewe-n-eso g'schwind
+                            wieder
+                            üseg'spaüe... hi hi hi... 's isch Schmierseife gsi,
+                            brüne... dr Herr Mües hat sich schint's trumpiert
+                            g'ha...
+                            ha ha ha... er hat Schmierseife gnu, anstatt
+                            Hunig... fir
+                            's Bouquet hàn se-n-im Zorn im Herr Mües dr Hafe
+                            z'unterst
+                            z'ewerst uf dr Kopf g'setzt... hi hi hi... Sie
+                            hatte ne nur
+                            sotte sàh... ha ha ha... hi hi hi...<stage>(alle lache).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Also hätt denn dr Herr Gas doch dr rechte Hafe mit
+                            Hunig
+                            biku?...<stage>(züem Herr Spàtzle)</stage> do war unser Sach nit,
+                            junger
+                            Mensch... ich ha mi Tochter vo jeher im Herr Gas
+                            b'stimmt
+                            g'ha...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Sie werde doch nitt wege me Hunighafe ihr Wort, wo
+                            Sie uns
+                            gà hàn, wieder z'ruck nàh...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Lisettle.</speaker>
+            <p>Dr Herr Spàtzle hat Recht... 's isch z'spot Pape...
+                            Dü hasch
+                            is Di Wort gà!<stage>(fir sich)</stage> ich will jetz liewer dà
+                            nàh, will
+                            ich ne ka ha... 's isch sicherer... ich kännt
+                            sunscht nàwe
+                            zwe Stiehl awe sitze.</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(er zeigt uf dr Herr Spàtzle)</stage>
+            <p>Ich möcht jetz nur wisse, was das fir e Held
+                            isch...</p>
+          </sp>
+          <pb n="436"/>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Enfin, will ich «jo» g'sàit ha, so wà mir's lo
+                            geh... was dr
+                            Herr Mües abelangt, g'schieht's'm ganz Recht... do
+                            ka me
+                            jetz wieder emol sage, wer Andre ne Grüewe grabt,
+                            fallt
+                            selbst dri!...</p>
+          </sp>
+          
+          <stage>G'sang ('s isch Hochzit uf mi Treü)</stage>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <lg>
+            <l>Dr Schambedis hat's güet errothe,</l>
+              <l>Wo-n-er dr Hafe g'numme hat,</l>
+              <l>In Màngem wàr das nitt so g'rothe,</l>
+              <l>Er hätt d'Schmierseife tràit in d'Stadt.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schnitz #lisettle #herr_spatzle">
+            <speaker>Mitnander.</speaker>
+            <lg>
+              <l>Dr Schambedis versteht si Sach,</l>
+              <l>Er isch e Rehrle-n-in sim Fach. <stage>(bis)</stage></l>
+            </lg>
+          </sp>
+        </div>
+      </div>
+      <div type="ACT">
+        <head>= II. ACT. </head>
+        <stage>'s Theater stellt e Salon vor; hinte, links un
+                    rechts e
+                    Thüre, uf dr Site links e Tisch, rechts e Spiegel.</stage>
+        <div type="scene">
+          <head>I. Uftritt.</head>
+          <stage type="characters">Madame Spàtzle, derno Herr
+                        Schnitz.</stage>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle</speaker>
+            <stage>(steht vor em Spiegel un legt dr neüe Hüet a)</stage>
+            <p>Jà, ja... do ka me geh hirothe!... 's isch halt doch
+                            nitt
+                            ganz, was ich glaübt ha, d'Hiroth... küm isch's
+                            jetz e
+                            Johr, ass uns 's Eh'band mit sine Rose-n-umschlunge
+                            hat un
+                            scho git's als màngmol e wenig Mischbes!... wir
+                            verstehn is
+                            ewe nitt allewil ganz <pb n="437"/>am beste, mi Mann un ich...
+                            er lüegt
+                            halt d'Hiroth vo sinere Site-n-a un ich màngmol
+                            ve-n-ere
+                            ganz andere.</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Wer will unter die Soldaten)</stage>
+              <l>Fir was thüet me denn hirothe?</l>
+              <l>'s isch fir in d'Visite z'geh <stage>(bis)</stage></l>
+              <l>Un sich z'richte no dr Mode,</l>
+              <l>Das thüet sich vo selbst versteh!</l>
+              <l>D'Fraü hat jo kei andre Freid</l>
+              <l>As geh spiegle-n-ihr neü Kleid</l>
+              <l>Un bim G'spràch am Kaffeetisch</l>
+              <l>Nur eso verstand ich d'Eh',</l>
+              <l>Anderscht wott ich nitt dri geh!</l>
+              <stage>}bis</stage>
+            </lg>
+            <p>Mi Mann hingege thàt mich gern d'heim
+                                igschpliesse... as
+                                wie wenn er nitt o in sine Lustbarkeite thàt
+                                nolaüfe!
+                                blibt er denn e-n-einzig's mol d'heim
+                                z'Nacht!... un
+                                ich soll derno nitt furt geh am Tag?... Ich
+                                hätt am End
+                                besser tho, dr Herr Mües z'hirothe wenn ich
+                                g'wisst
+                                hätt, was ich jetz weiss!... er hat jetz
+                                'g'erbt, dr
+                                Herr Mües, un wàr gar kei so schlechte Parthie
+                                meh...
+                                un wenn ich ganz awe schaü in mi G'wisse, so
+                                müess ich
+                                g'steh, ass ich noch immer e g'wisse Simpethie
+                                fir ne
+                                empfind... doch, was fir Gedanke loss ich jetz
+                                in mir
+                                ufku!... g'schwind furt mit ene... ich bi
+                                viellicht e
+                                wenig lichtsinnig... awer ass ich mine Pflicht
+                                vergesse
+                                thàt... niemols! un derno, mi Isidore isch grad
+                                o kei
+                                iwler Mann... er geht e wenig viel ins Bierhüs,
+                                's isch
+                                wohr un isch e wenig jaloux... e wenig viel
+                                sogar...
+                                awer hat denn nitt Jedermann sine Fehler...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(kunnt ine rechts, er isch im Schlofrock un geht
+                            am e
+                            Stock)</stage>
+            <p>Scho wieder g'ristet fir üsz'geh... allewil furt un
+                            nie
+                            d'heim!... wo witt jetz scho wieder ane springe?</p>
+          </sp>
+          <pb n="438"/>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle</speaker>
+            <stage>(b'schaüt si im Spiegel, zieht d'Hànschig üs em
+                            Sack un
+                            legt se-n-a; züe glicher Zit hat se ne Briefie mit
+                            üse
+                            zoge, wo an Bode fallt ohne-n-ass sie's sahn)</stage>
+            <p>Eh, ich gang in mi Fritig hit, Pape!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>So, so!... hit gehsch in Di Fritig... un gestert
+                            bisch in
+                            Dim Dunstig gsi... un Morn gehsch in Di Samstig...
+                            alle Tag
+                            ebbes anders!... un d'Hüshaltung blibt in de Màgd
+                            iwerlo,
+                            wo hüse drin, ass es eim grüst drab... isch's e
+                            Wunder,
+                            wenn e Mann missmüethig wird eso, un ass es dann un
+                            wann e
+                            Scene git... 's mag Einer jo noch so ne gross
+                            Vermöge ha
+                            oder verdiene was er will, so müess es druf geh am
+                            End!</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Grad' aus dem Wirthshaus)</stage>
+              <l>Anstatt eso z'Visite geh,</l>
+              <l>Thàtsch liewer flicke</l>
+              <l>Un Din're Hüshaltung vorsteh</l>
+              <l>Un als Strimpf stricke;</l>
+              <l>Was wird's eso noch gà do drüs,</l>
+              <l>Wenn das thüet düre?</l>
+              <l>Das bringt wahrhaft kei Glick ins Hüs,</l>
+              <l>'s isch als bol üs!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <lg>
+              <l>Das, Pape, das verstehsch Dü nitt,</l>
+              <l>In dr Visite</l>
+              <l>Lehrt me-n-o gar viel Sache hit</l>
+              <l>Vo alle Site!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle #herr_schnitz">
+            <speaker>Mitnander.</speaker>
+            <lg>
+              <l>Ich gang jo nitt so vielmol üs,</l>
+              <l>'s thüet nie lang düre,</l>
+              <l>Un ha-n-ich denn nitt Màgd im Hüs?</l>
+              <l>Ich derf scho drüs;</l>
+            </lg>
+            <pb n="439"/>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <lg>
+              <l>Was wird's eso noch gà do drüs.</l>
+              <l>Wenn das thüet düre?</l>
+              <l>Das bringt wahrhaft kei Glick ins Hüs,</l>
+              <l>'s isch als bol üs!</l>
+            </lg>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Dü thüesch das Ding viel z'viel chargiere, Pape...
+                            's isch
+                            nitt eso g'fàhrlig, wie Dü machsch... ich ka doch
+                            nitt
+                            d'ganze Zit d'heim grübbe un Nastiecher sàime...
+                            doch los,
+                            Pape, noch ebbes... ich ha jetz im Sinne dr Lade
+                            z'verkaüfe... siter ass Dü Dich z'ruckzoge hasch no
+                            Dinere
+                            Krankhet un hasch ne uns iwerlo, so weisch, was mir
+                            allewil
+                            fir G'schichte hàn mit dem verlehne... ich wàr jetz
+                            gern
+                            emol debarrassiert derno un mi Mann haltet o nitt
+                            dra...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Ich will nit wisse vo dem... hätte-n-ihr ne selbst
+                            iwernu...
+                            's wàr besser gsi fir Dich un fir Di Mann... uf die
+                            Art
+                            hätte-n-ihr e B'schàftigung g'ha un anstatt Geld
+                            z'depensiere hätte-n-ihr noch g'wunne derbi...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>De weisch jo awer, ass ich nie nit gsi bi fir in e
+                            Lade!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Desto schlechter... wenn ihr jetz eso furtmache, so
+                            sin ihr
+                            am End noch emol froh driwer... drum will ich o
+                            nitt, ass
+                            er verkaüft wird!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Un ich, wo glaübt ha, ich heb ne jetz scho ab!...
+                           <stage>(lüt)</stage> awer
+                            Pape...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Nit... ich will nit wisse... so lang as ich leb wird
+                            er nitt
+                            verkaüft... un züedem wird Di Mann o nitt grad eso
+                            z'friede
+                            si...</p>
+          </sp>
+          <pb n="440"/>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>O fir das garantier ich Dir... wie vielmol hat er
+                            mir nitt
+                            g'sàit, ich soll mache, was ich will... ich soll ne
+                            nur in
+                            Rüeh lo mit!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>'s isch eithüen... De hasch's jetz g'hört... ihr sin
+                            lichtsinnige junge Lit un thien mir später
+                            viellicht emol
+                            danke derfir, ass ich's nitt g'litte ha...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Dü hasch halt allewil Dine schwarze-n-Idee, Pape,
+                           <stage>(se lüegt
+                            uf d'Ühre)</stage> scho zwei!... jetz müess i awer geh...
+                            Adie
+                            Pape!<stage>(so git em e Schmutz uf d'Stirne un geht
+                            hinte-n-üse.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>II. Uftritt.</head>
+          <stage type="characters">Herr Schnitz, derno Herr
+                        Spàtzle.</stage>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(allei)</stage>
+            <p>Ne so sin jetz also d'Hirothe hitigstags!... dr Mann
+                            läuft
+                            uf sinre Site ins Kaffee un in d'Bierhiser un
+                            d'Fraü macht
+                            Toilette, ass eim dr Verstand still steht dervor,
+                            un geht
+                            alle Tag in d'Visite, un d'heim losst se hànke, was
+                            hànkt... Sin awer mir Eltre nitt o ne wenig Schuld
+                            do dra,
+                            we me's g'naü betrachtet?... thien mir nitt vo
+                            Jugend uf
+                            unsre Kinder an das alles g'wöhne?... mir derfe jo
+                            nur die
+                            Uferziegung mit unserer vergliche, wo mir g'ha
+                            hàn... wie
+                            isch's als do eifach derher gange! mir hàn is mit
+                            ere jede
+                            Kleinigkeit begniegt un hàn e Freid dra g'ha!...
+                            Miner
+                            Làbtig b'sinn ich mi jo, wie mir als an dr
+                            Wiehnàche züem
+                            Exempel d'halwe Nacht schier nitt g'schlofe hàn un
+                            vor Tag
+                            ufg'stande sin fir d'Plaisier<pb n="441"/> z'ha, ne paar Äpfel
+                            un Nuss
+                            uf eme Teller in Empfang z'nàmme, wo-n-is 's
+                            Wiehnàchtskindle g'stirt g'ha hat... doch jetz hàn
+                            sich die
+                            Äpfel un die Nuss in ganze Bazer verwandelt, wo me
+                            de
+                            Kinder als git... un eso isch's in allem z'àmme...
+                            vo
+                            Jugend uf hàn se jetz alles scho, was me sich
+                            wünsche ka,
+                            un später, derno wisse se gar nimmig, was afange un
+                            bringe-n-eso d'làcherligste Sache-n-uf!...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(kunnt hinte-n-ine).</stage>
+            <p>Wo isch se, mi Frau?.. ich süech se jetz scho im
+                            ganze
+                            Hüs!... isch se denn scho wieder furt?...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Grad isch se-n-üsgange... im Aügesblick.</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Ich sieh se-n-efange ninmig vielmol d'heim, mi
+                            Frau...
+                            d'ganze Zit isch se-n-uf dr Reis', geht in
+                            d'Visite, kaüft
+                            e Last Dings un hat dr Kopf voll Mode-n-un
+                            G'schàfte-n-ass
+                            me gar nimmig mit ere rede ka!...<stage>(er sieht 's
+                            Briefle-n-am
+                            Bode-n-un hebt's uf, ohne-n-ass er's z'erst
+                            b'schaüt).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(fir sich)</stage>
+            <p>Er hat Recht, awer ich derf's em doch nitt sage...
+                           <stage>(lüt)</stage> 's
+                            Lisettle-n-isch halt noch jung un...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(unterbricht ne)</stage>
+            <p>Das isch alles güet... awer ich find, 's derft doch
+                            e wenig
+                            mehr ihalte... 's verschwendet efange z'viel...
+                            sogar
+                            Schnider vo Strossburg losst's jetz express ku, fir
+                            sich lo
+                            's Màss z'nàh fir neüe Toilette... ich find, er
+                            nimmt's em
+                            als nur z'lang, 's Màss!... 's isch em schint's kei
+                            Nàiere
+                            me thir g'nüe z'Milhüse!... ich ha jetz efange satt
+                            an dem
+                            Dings!...</p>
+            <pb n="442"/>
+            <lg>
+              <head>G'sang</head>
+              <stage>(nei nei, das thüet dr Peter nitt)</stage>
+              <l>Me müess jo bol Millione ha,</l>
+              <l>Fir ass me d'Fraü erhalte ka!</l>
+              <l>Ihr G'staat kennt gar kei Grenze meh,</l>
+              <l>'s müess alles jo-n-eso druf geh!</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <l>'s Bierhüs, das kost' a viel Geld!</l>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <l>D'Fraü isch's Unglick uf dr Welt!</l>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <l>Worum hàn Sie Eine g'nu?</l>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <l>Leider ha-n-ich satt biku!</l>
+          </sp>
+          <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#herr_spatzle">
+              <speaker>Herr Spàtzle.</speaker>
+              <lg>
+                <l>Me müess, etc...</l>
+              </lg>
+            </sp>
+            <sp who="#herr_schnitz">
+              <speaker>Herr Schnitz.</speaker>
+              <lg>
+                <l>Wenn Sie jetz satt bekämme dra,</l>
+                <l>So hàn Sie's jo so welle ha;</l>
+                <l>Die alle, wo prawiere d'Eh',</l>
+                <l>Die mien jetz halt do dure geh!</l>
+              </lg>
+            </sp>
+          </spGrp>
+          <stage>(Dr Herr Spàtzle liest 's Briefle, wo-n-er noch
+                        immer in
+                        dr Hand g'ha hat)</stage>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Sie mien em halt e wenig nogà... un züedem, Sie,
+                            Herr
+                            Tochtermann... sin Sie viellicht nitt o ne wenig
+                            dra
+                            d'Schuld?...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(zeigt zornig uf dr Brief)</stage>
+            <p>Hein!... was isch das?... Ah so!... also bin ich dra
+                            Schuld,
+                            wenn sich Ihre Tochter schlecht uffiehrt!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(zornig)</stage>
+            <p>Herr Spàtzle!...</p>
+            <pb n="443"/>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Ah, Sie glaüwe's erst nitt emol?... do b'schaüe
+                            Se...<stage>(er
+                            git im 's Briefle).</stage></p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Was isch das?...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Lese Se... mi Fraü hat's wohrschinlig do verlore,
+                            ebb se
+                            furt isch.</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(liest)</stage>
+            <p>« Hit z'Owe am Drei, im Ladestiwle, erwartet Sie Ihr
+                            getreüer Jacques Mües. »</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Ne Rendez-vous, wie Sie sàhn, mit Ihrem eh'malige
+                            Commis...
+                            se hàn schint's enander no nitt vergesse!..</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>'s Lisettle!... isch's mögli!... doch nei, 's ka
+                            nitt si...
+                           <stage>(er losst si uf o Stüehl sinke).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(geht hin un her)</stage>
+            <p>Dà elende Herr Mües, wo dr Lade g'lehnt hat siter
+                            ebbes
+                            lit... wohrschinlig, ass sie den besser känne
+                            z'àmme ku!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(steht uf)</stage>
+            <p>Un ich sag Ene, 's ka nitt si!... ich kenn 's
+                            Lisettle
+                            besser as nur eso... un fir d'Gwissheit z'ha, will
+                            ich mich
+                            glich alege un geh nolüege!<stage>(er geht üse rechts).</stage></p>
+          </sp>
+          <pb n="444"/>
+        </div>
+        <div type="scene">
+          <head>III. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Schambedis.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(allei)</stage>
+            <p>Bis er g'rischtet isch un dert ane kunnt isch d'Zit
+                            scho
+                            längst verbi... er laüft grad nimmig eso schnell,
+                            ich o
+                            will d'G'wissheit ha... selbst will i awer nitt
+                            geh, denn
+                            ich kenn mi, ich thàt e-n-Unglick astelle.. ich
+                            schick dr
+                            Schambedis...<stage>(er geht an d'Thüre links un rieft)</stage>
+                            Schambedis!</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Was b'liebt, Herr?...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Kämme g'schwind!</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(voruse)</stage>
+            <p>Ich ka jetz grad nitt... ich müess 's Kind wagle,
+                            sunscht
+                            grint's!...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Wenn halt d'Madame allewil furt geht, so macht's
+                            natirlig
+                            d'Kindsmagd o-n-eso... un do müess halt wie immer
+                            dr
+                            Schambedis ans Brett...<stage>(lüt züer Thüre-n-üse)</stage>
+                            lehn's
+                            grine-n-un kämme g'schwind... 's pressiert!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(voruse)</stage>
+            <p>Ich kumm gli, Herr... im Aügesblick... ich will nur
+                            noch dà
+                            Zulli z'àmmebinde!...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Ich weiss wirklig nitt, wie's gieng, we mr dr
+                            Schambedis
+                            nitt hätte...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(kunnt me un zieht e Schnüer noch si, wo-n-er
+                            regelmàssig dra zieht un wieder luck losst)</stage>
+            <p>Do wàr ich jetz, Herr!...</p>
+            <pb n="445"/>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Was Kückücks isch das fir e Seil, wo-n-Ihr do
+                            noziehn?...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Ich ha's an dr Wagle-n-ag'macht, ass ich wagle ka vo
+                            do...
+                            denn wie das Ding still steht, so grint 's Kind<stage>(er
+                            wagelt
+                            furt).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>'s handelt sich jetz nitt um's Kind z'wagle... lose
+                            jetz
+                            recht, Schambedis, was ich Eüch sage will... gehn
+                            jetz ohne
+                            Zit z'verliere in unser Lade, wo dr Herr Mües
+                            g'lehnt
+                            hat... gehn awer hinte-n-ine, ass Eüch nieme
+                            sieht... Ihr
+                            wisse, ass e Thüre-n-üs em Magazin ins Ladestiwle
+                            fiehrt,
+                            wo-n-awer condamniert isch... dert süeche-n-Ihr
+                            z'lose un
+                            z'sàh, wenn's möglig isch, was drin vorgeht un
+                            kämme mir's
+                            derno Wort fir Wort ku sage...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Oho... Herr Spàtzle... o das noch?...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Schambedis, mache mir dà G'falle... 's geht um mi
+                            Lewensglick... Ihr werde dert wohrschinlig mi Fraü
+                            un dr
+                            Herr Mües höre...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Aha... jetz merk ich scho, wo d'Katz im Hei
+                            steckt... awer
+                            wenn's nur wege dem isch, so känne Sie sicher si,
+                            ass Ihre
+                            Fraü unschuldig isch... se-n-isch viellicht e wenig
+                            lichtsinnig, awer eso doch nitt.</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(ungeduldig)</stage>
+            <p>Desto besser... awer gehn jetz...<stage>(er lüegt uf
+                            d'Ühre)</stage> 's
+                            isch noch zeh Minüte bis Drei... Ihr känne grad ane
+                            ku...</p>
+          </sp>
+          <pb n="446"/>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Güet ich gang, wenn's nur wàr, fir Sie
+                            z'versichere...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(unterbricht ne)</stage>
+            <p>Passe recht uf un b'sunders kämme gli wieder,
+                            wie-n-Ihr
+                            ebbes sichers wisse... ich will siter no-n-em Kind
+                            lüege...
+                           <stage>(er nimmt dr Schnüer un geht üse links).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(allei)</stage>
+            <p>Ich sott eigentlig Valet de chambre si do, siter ass
+                            ich
+                            nimmig Knecht bi... awer wil d'Kindsmagd vielmol
+                            spaziere
+                            geht mit ihrem Soldat, so bin ich mehrmol
+                            Kindsmagd... un
+                            jetz sott ich noch sogar dr Spion mache!...</p>
+            <lg>
+              <head>G'sang</head>
+              <stage>(Ach ich bin so müde)</stage>
+              <l>Thüet's eim nitt verleide</l>
+              <l>Bi so G'legeheite!</l>
+              <l>Ich bi jetz scho bis dohi</l>
+              <l>Knecht un Magd un Diener gsi</l>
+              <l>Un sott mit dr G'schichte</l>
+              <l>Jetz dr Herr noch b'richte,</l>
+              <l>Wie sich d'Madame d'Zit vertribt,</l>
+              <l>Wenn se z'lang üsblibt!</l>
+            </lg>
+            <p>Do geht's züe in dem Hüs!... do geht's züe!...<stage>(er springt hinte-n-üse)</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(kunnt links, er hat Papier, Fedre un Tinte in
+                            einer
+                            Rand un in dr andere ne Pistole, er legt alles uf
+                            dr Tisch)</stage>
+            <p>'s Kind isch ig'schlofe jetz züem Glick!<stage>(er zeigt
+                            uf dr
+                            Tisch)</stage> das isch jetz alles, was mir iwrig blibt...
+                            ne Brief
+                            z'schriwe, ass ich mir freiwillig 's Lewe gnu ha un
+                            derno...<stage>(er macht, wie wenn er sich erschiesse
+                            thàt)</stage>
+                            isch's ferig... ich weiss eigentlig nitt emol,
+                            worum as ich
+                            warte soll... d'G'wissheit?... do isch se<stage>(er zeigt
+                            uf's
+                            Briefle, wo-n-er üs em Sack nimmt un uf dr Tisch
+                            wirft)</stage><pb n="447"/> un
+                            eso ne Tortür isch nitt üsz'halte...<stage>(er nimmt
+                            d'Pistole)</stage>
+                            awer 's Kind? ich U nglickligcr as ich bi!.. nei,
+                            nei!...
+                            no nitt... still, 's grint glaüb?... ich kumm, ich
+                            kumm!
+                           <stage>(er schiebt d'Pistole unter 's Papier)</stage> Oh, das
+                            Lewe!...<stage>(er
+                            verschwindet links).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>IV. Uftritt.</head>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(kunnt ine rechts, er isch ag'legt fir
+                            üsz'geh)</stage>
+            <p>Jetz wà mr denn geh lüege, was das fir e
+                            G'schichte-n-isch... dà elende Herr Mües!... er
+                            wird
+                            d'Schmierseife noch uf em Mage ha un wird sich jetz
+                            eso uf
+                            die Art welle ràche... awer vom Lisettle ka-n-i's
+                            nitt
+                            begrife!... wenn's wohr isch, so bring ich se-n-um,
+                            alle
+                            beide!...<stage>(er geht hinte-n-üse).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>V. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Schambedis.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(kunnt ine links)</stage>
+            <p>'s hat nur traümt, 's Kind...<stage>(er sitzt an dr Tisch,
+                            dr Kopf
+                            uf d'rechte Hand g'stützt)</stage> also, das isch jetz die
+                            Hiroth,
+                            wo-n-ich mir so viel Glick versproche ha dervo!..
+                            's isch
+                            si wohl dr Werth gsi, ass ich e halwer Tag im
+                            Mehlschrank
+                            grübbt bi un schier verstickt bi derwege! Oh, die
+                            Liewe!...
+                            die sieht halt nitt witer as d'Nase lang isch!...
+                            ich hätt
+                            jo sotte merke, ass 's Lisettle nur e lichtsinnige
+                            Person
+                            isch, wo an nit as am G'staat haltet un am
+                            Spazieregeh!...
+                            awer we me jung isch un verliebt, so sieht
+                            me-n-iwer das
+                            alles üse... un jetz, im letschte-n-Aügesblick,
+                            wenn ich mi
+                            G'wisse-<pb n="448"/>n-untersüech, so find ich's o nitt ohne
+                            Fehler...
+                            ich hätt viellicht o sotte mehr d'heim bliwe...
+                            awer wer
+                            hat z'erst ag'fange, isch's mi Fraü gsi oder ich,
+                            wo si
+                            Plaisier z'erst voruse g'süecht hat? ich weiss es
+                            nitt...
+                            uf jedefall, wenn ich's noch emol z'thüe hatt, so
+                            thàt ich
+                            mich anderscht benàmme... mir hàn halt vo Afang a
+                            beide ne
+                            letzer Weg ig'schlage... ich sieh's jetz erst i,
+                            ass nur
+                            d'heim im e stille Lewe 's Glick vom Ehstand mag
+                            z'finde
+                            si!... awer jetz isch's z'spot!... un doch ha-n-i
+                            's
+                            Lisettle viellicht noch nie liewer g'ha as in dem
+                            Moment!...<stage>(er springt uf)</stage> un dà Schambedis, wo
+                            nitt
+                            z'ruckkunnt<stage>(me hört ebber ku)</stage> doch, do isch er
+                            glaüb!...
+                            uf ei Art wie-n-uf d'and're müess jetz die Folter
+                            e-n-End
+                            nàh!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(kunnt hinte-n-ine)</stage>
+            <p>Do bin i jetz scho wieder! ich ha nitt lang Zit
+                            brücht
+                            fir...<stage>(er dreiht embarrassiert si Kappa-n-in de
+                            Hànd
+                            umme).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Rede-n-ungeniert... ich bin uf alles g'fasst!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Fir z'wisse... ass ich...<stage>(er stockt).</stage></p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(niederg'schlage)</stage>
+            <p>Ass Ihr Eüch trumpiert hàn... nitt wohr?...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Leider ha-n-ich mich schint's trumpiert iwer
+                            d'Madame...
+                            jo... nitt wohr, no dem was ich g'hört ha... ich
+                            sott's Ene
+                            viellicht nitt sage...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(rasend)</stage>
+            <p>Was hàn Ihr denn g'hört... so rede doch emol!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Also bin ich an die Thüre gange dert hinte, wo Sie
+                            mir
+                            g'sàit hàn, wo-n-awer e Last Kiste-n-un Dings dra
+                            ufbigt
+                            gsi isch, so dass ich nur einzeine Worte ha<pb n="449"/> känne
+                            vernàh...
+                            wo-n-i ku bi, hat grad dr Herr Mües g'redt un do
+                            ha-n-i
+                            g'hört vo «noch allewil gern ha... d'Madame kännt
+                            ne dr
+                            glickligste Mensch mache... »</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(ganz üsser sich)</stage>
+            <p>Un... d'Madame?...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Se hat weniger stark g'redt... drum ha-n-i nitt viel
+                            verstande... doch ha-n-i g'hört, ass se g'sàit hat,
+                            se
+                            wott's in ihrem Vater nitt z'Leid thüe... er soll
+                            noch
+                            gedulde...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Ah so!... also an dr Mann hat se nitt emol denkt...
+                            dà
+                            giltet scho nit me... 's isch nur dr Vater, wo se
+                            noch
+                            z'ruckhaltet...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Ich bi derno gli furt... denn ich ha-n-Angst g'ha,
+                            ass me
+                            mich ertappt un im Z'ruckku ha-n-ich dr Herr
+                            Schnitz
+                            atroffe, wo grad ane-n-isch...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>'s isch güet... Ihr känne geh...<stage>(fir sich)</stage> ich
+                            weiss jetz
+                            scho, was ich z'mache ha!</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Un doch ka-n-i's no nitt glaüwe!...<stage>(er geht üse
+                            links).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VI. Uftritt.</head>
+          <stage type="characters">Herr Spàtzle, derno Madame
+                        Spàtzle.</stage>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(allei)</stage>
+            <p>Also isch's denn wohr!... mi Fräu isch mr untreü!...
+                            eh
+                            bien!... dà Aügesblick entscheidet... fir was eso
+                            ne Lewe
+                            z'fiehre!...<stage>(er nimmt d'Pistole un hebt se-n-an
+                            d'Stirne).</stage></p>
+          </sp>
+          <pb n="450"/>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle</speaker>
+            <stage>(kunnt hinte-n-ine ku z'stürze un schiebt em dr
+                            Arm uf
+                            d'Site)</stage>
+            <p>Unglickliger!... was witt astelle!... grad hat mr dr
+                            Pape
+                            g'sàit, in was fir eme fatale-n-Irrthum ass De
+                            bisch!...</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(rasend)</stage>
+            <p>Ah so... 's isch e-n-Irrthum!<stage>(er zeigt ufs Briefie)</stage>
+                            do
+                            isch's Briefle vom Herr Mües un dr Rest hat dr
+                            Schambedis
+                            g'hört an dr Thüre vom Ladestiwle... do hasch, was
+                            De
+                            verdiensch<stage>(er hebt ere d'Pistole vor's G'sicht).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VII. Uftritt.</head>
+          <stage type="characters">D'Gliche, Schambedis.</stage>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(stürzt üs em Zimmer links un windet em
+                            d'Pistole-n-üs
+                            dr Hand)</stage>
+            <p>Bscht!... Sie wecke jo 's Kind, wenn Se schiesse
+                            do!...<stage>(se
+                            lüege ne beide verstört a)</stage> ich ha's vorig grad
+                            drucke
+                            g'legt... 's müess es jo ebber b'sorge, das arme
+                            G'schöpf,
+                            wenn d'Kindsmagd spaziere geht mit ihrem Soldat!</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle</speaker>
+            <stage>(fir sich)</stage>
+            <p>Was fir e Lektion fir mich!...<stage>(lüt)</stage> awer Isidor!
+                            hasch Dü
+                            eigentlig dr Verstand verlore?... was hat er denn
+                            g'hört,
+                            dr Schambedis?... er soll rede!...<stage>(dr Herr Spàtzle
+                            losst
+                            si uf e Stüehl sinke vor em Tisch un versteckt si
+                            G'sicht
+                            in de Hand).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(verlege)</stage>
+            <p>Ich ha jo allewil g'sàit 's isch nitt wohr... awer
+                            ich ha
+                            halt miesse sage, was ich g'hört ha!</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Un was hàn Ihr denn g'hört... üse mit emol!...</p>
+            <pb n="451"/>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <p>Eh... vom gern ha... vom Lewensglick mache un eso
+                            Dings...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Also isch's denn das?.. un ihr hàn beide nitt
+                            g'merkt, ass
+                            es wege-n-em Lade-n-isch, wo dr Herr Mües kaüfe
+                            wott... do,
+                            Schambedis... Ihr känne jo lese, nitt wohr?...
+                            lese-n-emol
+                            z'erst dà Brief do...<stage>(se nimmt e Papier üs em Sack
+                            un
+                            git's em).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(liest)</stage>
+            <p>Madame Spàtzle!</p>
+            <p>Verzeiht Se mr, wenn ich wir erlaüb, Ihre
+                            z'schriwe, awer
+                            ich kännt e güete Parthie mache un mi Züekünftige
+                            haltet
+                            dra, ass ich dr Lade kaüfe soll; sie will nitt im e
+                            g'lehnte G'schàft si... wenn Sie also wott, so
+                            kännte mir
+                            das Ding in Richtigkeit mache; Sie weisst, ass ich
+                            baar
+                            üszahle thüe.</p>
+            <stage>Ihr getreüer: Jacques Mües.</stage>
+            <stage>(Dr Herr Spatzle fangt a ufz'lüege)</stage>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Uf das hi ha-n-ich em g'antwortet, ass ich mit em
+                            Pape dervo
+                            rede will, wo wohrschinlig nit dergege ha wird...
+                            er soll
+                            mr nur sage, wenn ass ich soll ku, fir ass mir's
+                            känne
+                            fertig mache mitnander... denn Dü hasch mir jo
+                            hundertmol
+                            g'sàit, ass De nit witt mit em z'thüe ha... wil's
+                            awer dr
+                            Pape durchüs nitt hat welle lide, ass mir dr Lade
+                            verkaüfe,
+                            so ha-n-ich's hit halt im Herr Mües sage miesse un
+                            do hat
+                            er mir en effet z'erst g'sàit, ass er dà Lade noch
+                            allewil
+                            gern hat, wil er drin ufg'wachse-n-isch un ass ich
+                            si Glick
+                            kännt mache, wenn ich ne-n-abtrete will, denn er
+                            hännt
+                            derno si Züekünftige hirothe... das isch d'ganze
+                            G'schichte.</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(züem Herr Spàtzle)</stage>
+            <p>Ha-n-i nitt allewil g'sàit, ass es nitt wohr
+                            isch!...</p>
+          </sp>
+          <pb n="452"/>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(springt uf)</stage>
+            <p>O Lisettle!... isch's möglig?... kumm verzeih mr,
+                            ass ich
+                            Dich eso unschuldigerwis aklagt ha!...<stage>(se
+                            umarme-n-enander).</stage></p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(züer Madame Spàtzle)</stage>
+            <p>Un mir Madame, ka Se mir o verzeille, ass ich eso
+                            dumm Dings
+                            g'schwàzt ha... ich ha halt nitt känne wisse...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>G'wiss, Schambedis, verzeih ich Eüch... denn Ihr hàn
+                            mir jo
+                            grad 's Lewe g'rettet un erst noch e Lektion gà,
+                            wo-n-ich
+                            eso bol nimmig vergesse wird!</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle.</speaker>
+            <p>Un ich o, Schambedis, verdank Eüch alles... wenn Ihr
+                            nitt
+                            gsi wàre... oh, ich derf nitt dra denke!... awer
+                            das soll
+                            mir e Warnung si... vo hit eweg, Lisettle, wà mir e
+                            frisch
+                            Lewe-n-afange... wenn's jo nur wàr fir unser
+                            Kind!...</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>G'wiss, liewer Mann... ich versprich Dir's un wird's
+                            o wisse
+                            z'halte!...</p>
+          </sp>
+          <sp who="#schambedis">
+            <speaker>Schambedis</speaker>
+            <stage>(freidig mit dr Pistole-n-in dr Hand)</stage>
+            <p>Aha!... das heiss ich jetz emol g'redt... dr
+                            Schambedis
+                            hat's jetz doch derzüe brocht... 's isch schad, ass
+                            ich
+                            Angst ha vor em Schiesse, sunscht thàt ich jetz
+                            glich e
+                            paar Schitz abfire vor lüter Freid!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>VIII. Uftritt.</head>
+          <stage type="characters">D'Gliche, Herr Schnitz un Herr
+                        Mües.</stage>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz</speaker>
+            <stage>(kunnt mit em Herr Mües hinte-n-ine)</stage>
+            <p>Do bring ich dr Herr Mües, Herr Tochtermann, ass
+                            er's Ihne
+                            selbst bezige ka, ass Sie im Irrthum sin!</p>
+            <pb n="453"/>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>'s isch alles scho arrangiert, Pape... un mir
+                            verspreche Dir
+                            noch owedri, ass mir jetz e ganz ander Lewe fiehre
+                            wànn!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>A la bonne heure! un wenn das isch, so känne-n-ihr
+                            im Herr
+                            Mües dr Lade verkaüfe, wil's denn si Glick mache
+                            soll.. ich
+                            ha nit meh dergege.</p>
+          </sp>
+          <sp who="#herr_spatzle">
+            <speaker>Herr Spàtzle</speaker>
+            <stage>(züem Herr Mües)</stage>
+            <p>Awer mache Se nur Etiquettes uf d'Hunighàfe, Herr
+                            Mües, nitt
+                            ass Sie sich wieder emol trumpiere..</p>
+          </sp>
+          <sp who="#herr_mues">
+            <speaker>Herr Mües.</speaker>
+            <p>Un dr Mehlschrank will ich o lo absite mache, nitt
+                            ass
+                            wieder emol e-n-Unglick g'schieht... nitt wohr,
+                            Herr
+                            Spàtzle!...</p>
+          </sp>
+          <sp who="#herr_schnitz">
+            <speaker>Herr Schnitz.</speaker>
+            <p>Ah çà!... was macht denn dr Schambedis do mit sin're
+                            Pistole?....</p>
+          </sp>
+          <sp who="#lisettle">
+            <speaker>Madame Spàtzle.</speaker>
+            <p>Dr Schambedis, Pape, hat uns beide vom Verderwe
+                            g'rettet!...</p>
+          </sp>
+          
+          <stage>G'sang ('s isch Hochzit uf mi Treü)</stage>
+          <sp who="#schambedis">
+            <speaker>Schambedis.</speaker>
+            <lg>
+            <l>Dr Schambedis müess alles mache,</l>
+              <l>Sogar noch leider in dr G'fohr</l>
+              <l>Müess er jetz iwer d'Herrschaft wache,</l>
+              <l>Wenn sie sich nàh will an de Hoor!</l>
+            </lg>
+          </sp>
+          <sp who="#alle">
+            <speaker>Alle.</speaker>
+            <lg>
+              <l>'s isch güet, ass mir jetz sin am End,</l>
+              <l>Sunscht hätt er jo bol nimm g'nüeg Hànd! <stage>(bis)</stage></l>
+            </lg>
+          </sp>
+          <pb n="454"/>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

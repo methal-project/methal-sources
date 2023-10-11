@@ -1,0 +1,2996 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'Mamsell Elis</title>
+        <title type="sub">Volksstück üsm Bürelawe in 3 Akte un 1 Vorakt</title>
+        <author key="wikidata:Q96761607">Xavier Sengelin</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106559660</idno>
+        <idno type="methal" xml:id="mtl-037"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k91095900</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106559660">Xavier Sengelin</author>
+            <title type="main">D'Mamsell Elis</title>
+            <title type="sub">Volksstück üsm Bürelawe in 3 Akte un 1 Vorakt</title>
+            <edition>1</edition>
+            <publisher>Société Alsacienne d'Edition (Alsatia) S. A.</publisher>
+            <date when="1920" type="print">1920</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="hanstiabelt">
+            <persName>Hanstiabelt</persName>
+          </person>
+          <person sex="M" xml:id="jorg">
+            <persName>Jörg</persName>
+          </person>
+          <person sex="M" xml:id="maire_vu_schondorf">
+            <persName>Maire vu Schöndorf</persName>
+          </person>
+          <person sex="M" xml:id="dorfweibel_vu_schondorf">
+            <persName>Dorfweibel vu Schöndorf</persName>
+          </person>
+          <person sex="M" xml:id="schaber">
+            <persName>Schaber</persName>
+          </person>
+          <person sex="M" xml:id="isidor">
+            <persName>Isidor</persName>
+          </person>
+          <person sex="F" xml:id="mariurs">
+            <persName>Mariurs</persName>
+          </person>
+          <person sex="F" xml:id="amerei">
+            <persName>Amerei</persName>
+          </person>
+          <person sex="F" xml:id="elis">
+            <persName>Elis</persName>
+          </person>
+          <person sex="F" xml:id="lisa">
+            <persName>Lisa</persName>
+          </person>
+          <person sex="F" xml:id="katri">
+            <persName>Katri</persName>
+          </person>
+          <person sex="M" xml:id="_bannwart">
+            <persName>Bannwart</persName>
+          </person>
+          <person sex="U" xml:id="dacki">
+            <persName>Dacki</persName>
+          </person>
+          <person sex="U" xml:id="micki">
+            <persName>Micki</persName>
+          </person>
+          <person sex="F" xml:id="geissa">
+            <persName>Geissa</persName>
+          </person>
+          <person sex="B" xml:id="ziginerburscht_und_ziginermaidle">
+            <persName>Ziginerburscht und Ziginermaidle</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#hanstiabelt"><role><persName>Hanstiabelt</persName></role>, <roleDesc>Bür vu Krönige</roleDesc>.</castItem>
+        <castItem corresp="#jorg"><role><persName>Jörg</persName></role>, <roleDesc>si Suhn</roleDesc>.</castItem>
+        <castItem corresp="#maire_vu_schondorf"><role><persName>Maire vu Schöndorf</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dorfweibel_vu_schondorf"><role><persName>Dorfweibel vu Schöndorf</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#schaber"><role><persName>Schaber</persName></role>, <roleDesc>Coiffeur</roleDesc>.</castItem>
+        <castItem corresp="#isidor"><role><persName>Isidor</persName></role>, <roleDesc>Briefträger</roleDesc>.</castItem>
+        <castItem corresp="#mariurs"><role><persName>Mariurs</persName></role>, <roleDesc>im Hanstiabelt sini Fraui</roleDesc>.</castItem>
+        <castItem corresp="#amerei"><role><persName>Amerei</persName></role>, <roleDesc>im Maire sini Fraui</roleDesc>.</castItem>
+        <castItem corresp="#elis"><role><persName>Elis</persName></role>, <roleDesc>ihri Tochter</roleDesc>.</castItem>
+        <castItem corresp="#lisa"><role><persName>Lisa</persName></role>, <roleDesc>Cousine vum  Elis</roleDesc>.</castItem>
+        <castItem corresp="#katri"><role><persName>Katri</persName></role>, <roleDesc>Magd bim Maire</roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#dacki">
+            <role>
+              <persName>Dacki</persName>
+            </role>
+            <roleDesc>Ziginer</roleDesc>
+          </castItem>
+          <castItem corresp="#micki">
+            <role>
+              <persName>Micki</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>Ziginer</roleDesc>
+        </castGroup>
+        <castItem corresp="#geissa"><role><persName>Geissa</persName></role>, <roleDesc>alte Ziginera</roleDesc>.</castItem>
+        <castItem corresp="#ziginerburscht_und_ziginermaidle"><role><persName>Ziginerburscht und Ziginermaidle</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> Vorspiel. </head>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> Dekoration: Altmodische Bauernstube mit einer  „Kunscht“.  Hanstiabelt und Mariurs. Er sitzt auf der Kunscht und  raucht aus einer tönernen Pfeife. Sie sitzt am Spinnrad.  Beide recht altmodisch gekleidet.  arichte, Klavierkläppere aber nit malke?! Un nimmt  denn dia sini Mamsell o unser Jörg? Dü hesch’s  wohrschinlig numme mit em Maier üsgmacht, dü?</stage>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p>Mariurs, es isch wia i gsait ha: Dr Jörg müass hirote. Viellicht wird er derno gscheiter. Sag, wia alt bi eigetlig ich gsi, wu i ghirote ha?</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>Eh, am Schnitzzischtig wirds wohl so witt si, as mer dr drissigjahrig Kriag fire kennte. Dü wirsch jetz 60, eh bien rachne üs !</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>Das ware 30! Nüdlewatter! Geht die Zitt ume. Was fir e natt Maidle bisch dü sallmols gsi! Un jetzt brr, me seht dr nimme viel drvo a <stage>(lacht)</stage>.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p><stage>(ein wenig ärgerlich)</stage> Heb di an diner Nase, Hanstiabelt. Meinsch ebbe, dü seisch no so üstrait wia salmols. Wenn dü so Rumpfle gha hatsch wie hit un so e Laternenasle, dü hatsch misex vergabe gschmüst.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p><stage>(will Mariurs zärtlich umfassen)</stage> Hoho Alti, wird mer numme nit bes wage dam Gspass. Han mer net e schen Labe gha die 30 Johr dure <stage>(will sie küssen)</stage>.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>Gang ewag, alter Narr! <stage>(stösst ihn weg)</stage>.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>Wage mir, alter Narr! Äbä, so e glückliger alter Narr, wia ich ein bi, sell unser Jörg o emol einer warde; er müass hirote, er isch so grad in dam Alter wu ich sallemols. Uff d' Weisheitszähn könne mer nit warte bi em, ’s Warte kennt eim sunscht verdriesse.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>E, müasch en nit no dümmer mache, as er isch. Wenn er numme nit so e grisliger Wiaschreder war; i färcht übel, er bringts nit färig, im e Maidle schen zrede. Ä Muni an dr Hörner packe, das ka er besser, TERN</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(schlau)</stage> Oh, wage salem brüchsch ke Kummer zha. Schen rede brücht er gar nimme. Ich ha em o scho eini üsgsüacht. Er brücht sich numme ge vor- stelle un so Sache.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p><stage>(droht mit d. Finger)</stage> A, Alter, hinter mim Rucke machsch dü so Dings! Ha ich do nit dri zrede, sag?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(verlegen)</stage> Heh, wage dam sag i dirs jo jetz. Mach doch ke Gschichte un so Sache!</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>Jetz, jetzt, wus färig isch!! <stage>(spöttisch nach- ahmend, mit Hüften fest)</stage> Gschichte un so Sache! Gschichte un so Sache! Wer macht dumme Gschichte? Dü! Hat mer scho emo lghört sinerlabtig, as e Müater nit sell sage bim Hirote vo me Kind? Hein? Wenn si aber mir nit gfallt, dia Suhnsfraui? Hein?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>Se gfallt dr aber sicher, sag i dr. ’s isch im Maier vo Schendorf si Tochter, anzig Kind, Lisi heisst’, edder eigetlig Elis in ihrem Hüs. 's isch e nobli, mei, ’s isch kenni so z’ Krönige, nit emol im Säitrankehans sini. Si spielt Klavier wie dr Schül- meischter, singt wie e Vegele, ka brodiere, Umhangle häckle, un so Sache.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>So, so! Un naje, stricke, koche, uff em Fald schaffe, ka se sal 0?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(ein wenig verlegen kratzend)</stage> Därt kennt i grad nit Täifel schwöre, i glauib sogar, sie isch nit bsunders stark in dane Artikel. Aber zeig, Mariurs, hett im Jörg si Fraui denn di Sache o nötig? ’s isch e richi un ar hett o Mumes <stage>(klopft auf die Tasche)</stage>, do kenne se jo e Magd halte un so Sache!</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>E Magd? E Magd? Baberlabab! Weisch, wie mi Grossmüater als gsait het? In dam Hüs geht’s sicher schlacht, Wu d' Fraui nit mache ka dr Knacht.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>Loss mi imkeit mit diner Grossmüater, dü weisch jo, ’s isch e alti Fraui gsi. Marius: <stage>(zornig)</stage> Un dü e Doddel!! Weisch’s jetz? Was nutzt im e Bür e Fraui, wu ka brodiere, aber ke Säck platze, Paschtetle bache, aber ke Saitranke } b</p>
+          </sp>
+          <pb n= '7' />
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(mit offenem Mund)</stage> Wa... wa... was seisch do, Mariurs? Eb se en nimmt? <stage>(Lacht schallend)</stage> Pfischter noch emol, jowohl. Alle Finger no em schlacke wurd se. Ein nit namme, wu si Vater 20 Stück Veh im Stall het, wu 3 Mohre unter dr Hard losst lauife, wu e neumodischi Mischtlache hett, wia keni im Pfirter Amt me isch so kommod un so Sache! ! Un er erbt alles allei. Nit name, nit name!...</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p> <stage>(spinnt weiter und zuckt bloss mit den Achseln.)</stage> </p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Die Vorigen; Jörg (in aufgestülpten Hemdärmeln, etwas  blöder Ausdruck, der doch was pfiffiges verrät, die Haare  ins Gesicht hängend. Jörg spricht sehr langsam; er tritt  mit der Mistgabel in die Stube.</stage>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Vo wem rede Ihr denn, ebbe vo mir? Hein?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>Ah, dü hesch glost? Zeig, isch das alles, wu de kasch?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>He, he, i ha grad welle ku froge, ebb dr Kiahl- trank grischte isch fir d'’ Roti. Do ha i euch häre rede un ha euch nit welle verraschble.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>He, ’s macht jetz nit, wenn dü e Teil uffgschnappt hesch. Mir han jo grad vo dir gha. Sag Jörg, hesch no nia driber nodankt, wias war mit em hirote?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p><stage>(ohne Verständnis)</stage> Mit em hirote? Wer sell denn hirote?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(ungeduldig)</stage> E dü, bigobbliger!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>I...i... ich? Ja, ja, s mian doch zwei si zum hirote, hett saller gsait.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(nachahmend)</stage> Hett saller gsait, hett saller gsait. E nu jo, Dubel, so sag o ebbis un frog eini un so Sache.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ja, ja, ja i weiss nit, wia mr das afangt. Hanst: ha He, sal kunt scho, dü machschs, wia ichs gmacht</p>
+          </sp>
+          <pb n= '8' />
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p><stage>(schlau blinzelnd)</stage> Ja, dir, dir, dir hans güat ka, dir han numme d'’ Müater gfrogt, galet Müater?</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p><stage>(lacht)</stage> Los Jörg, i gläuib, wu dr Herrgott d' Hirner verteilt het, hesch dü grad uf em Mon Walle gmacht.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p>I has dankt, as de so Gschichte wirdsch mache, wage dam ha i dir salbscht eini üsgsüacht. Dü Le numme anezgeh un sage: Do bin i! un so Sache.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ischs ebbe dia Fini, wu d' Müater vorig verzehlt hett?</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>Jo, Jörg, sali ischs.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ja, Müater, dir han doch gsait, se kennt nit emol ke Säitranke arichte <stage>(kratzt hinter den Ohren)</stage>. Ja, - - drno Knepfle <stage>(Knödeln)</stage> koche un Pflüte mache, ein?</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(ärgerlich)</stage>: He, wenn se’s o nit ka, so nimmsch halt ä Magd, dü vermagschs emol scho. Un d' Pflüte sin bigüscht allewag Nabesach.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Nabesach ! Bi mir nit! Un drno a Magd? Äh, ä! ’s war e Mül zviel am Tisch.</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs :</speaker>
+            <p>Do hesch jetzt racht, Jörg!</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanst.:</speaker>
+            <p><stage>(ärgerlich)</stage>: Racht, Jörg! Racht, Jörg! Halt! dü jetz ’s Mül, Müater, un mach mer nit o no Wüascht in d' Milch! Un dü Jörg, bisch nit verruckt. Dank emol driber no. Mir zwei wan drwilscht dr Roti geh dr Kiahltrank ga <stage>(ab mit Mariurs)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Jörg allein, auf Mistgabel gestützt.</stage>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Also hirote sell i, hirote <stage>(kratzt sich wieder)</stage>. Wia geht denn das? Mer kunt e schwarz Kleid iber, nimmt e Maidle unterm Arm <stage>(Geste!)</stage>, geht in d' Kilche, 's wird wiatig gschosse un gsoffe un ’s koscht e Strumpf voll Gald, sal weiss i. Aber drno? Drno isch mini Gscheidheit am And <stage>(schlägt sich vor die Stirn)</stage>. Jörg, Jörg, was müasch acht o in dr Kilche afange un drno nohar? <stage>(ärgerlich)</stage>: Unser Schüal- meischter hät is eigetlig ringer vum hirote verzählt, anstatt vo dr Obstbaim, dia wachse allei, un drno vum Bade, wia m'r sell Zähe putze, vu dane Kasse, vo Schuldschin un so Dings, das wisse d'’ Büre jo. alles besser as ar, aber bim hirote isch doch dr Schüalmeischter allewill drbi, aber dr Kaib hett is vu dam nie ebbis verzehlt. <stage>(Wischt sich den Angst- schweiss ab und wandelt eine Weile auf und ab.)</stage> Was ischs acht fir eini? E Dicki? <stage>(schnalzt)</stage> Sal war racht! Will se mi aber 0? <stage>(betrachtet sich)</stage> O zall, i ha ke Angscht. Bin i net e schener Büab, wia üsdrait? D’ Maidle lache jo allewiil, wenn se mi sahn. Se sage als im Wirtshüs, i säig ene z’ dumm, aber därt lüage se mi latz a. Wer trinkt als ihr Wi, wenn se mit de Maidle tanze? Dr dumm Jörg! Wer zahlt en aber? Die gscheite Affe! <stage>(lacht vor sich hin)</stage> Un wenn i o sunscht e bizi dumm war, dia Lisi edder Elis hirotet jo nit mi Dummheit, se hirotet dr natt Jörg, dr rich Jörg, dr schaffig Jörg. Si hirotet <stage>(wichtig)</stage> unsere zwanzig Stick Veh, unsere 3 Mohre un unseri kommode Mischtlache, wia dr Vater gsait hett. Drzüa bin i Krischte a lei Suhn, Jörg, lörg, i gläuib jetz salbscht, es ka dir nit fahle. <stage>(Sehultert die Gabel und marschiert komisch auf und ab. Vor der Mitte dann stehen bleibend, die Arme mit der Gabel ausbreitend, stösst einen Jauch- zer aus und ruft, mit beiden Beinen in die Höhe springend)</stage>: Nüdlewatter! Hochzitter ich! Ich bi so luschtig hit, wia e Soi in dr Mischtlache!! <stage>(ab)</stage>. <stage> Ende des Vorspiels.</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> Erster Akt. </head>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> Moderne Bauernstube. Kanapee, Nähmaschine, Arbeitstischehen, runder Tisch mit Hängelampe usw.  Türen links und rechts.  Elis und Lisa. Dann Isidor. (Elis kokett, Lisa einfach, aber doch gut gekleidet. Elis  brodiert, Lisa strickt an einem Strumpi. Elis schon  etwas überreif, Lisa frisches, junges Ding. Elis spricht  affektiert, liebt französische Ausdrücke; Lisa spricht,  wie ihr der Schnabel gewachsen ist.)</stage>
+          <sp who="#elis">
+            <speaker>Elis :</speaker>
+            <stage>(in überlegenem Ton)</stage>
+            <p>Dü dürsch mi eigentlig doch, Lisa, as de nit emol häckle kansch, vom brodiere will i nit emol rede, sal isch so fir minesgliche, aber häckle setsch doch lehre. Wit? Ich zeig ders.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Fir was denn! Was dü do mit dim häckle Zit ver- brüchsch, das isch je e Sind un Schand. Un d' Arbet isch gwiss d'’ Miah nit wart, Elis! Fir e paar Sü kauift mer bim Wronker z’ Milhüse ganz fine Sache, wu dü als wuchelang dra d'’ Finger verhäisch.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(hochfahrend)</stage>
+            <p>Mit dir ka mer halt nit vo so Sache rede, das isch grad, wie wenn dr Herr Pfarrer dr Gans predigt. So ebbis geht iber di Horizont.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Horizont! Was isch das wieder fir a fremd Tiar? Gehts o ins Wasser?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(spöttisch lachend)</stage>
+            <p>Mer merkts wohl, as dü numme d' Geishüser Schual vu innewandig kensch. An so ebbis han ihr in dr Schual halt nit gschmeckt.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Los Elis, schilt mir unsere Schual nit. E Pensionat ischs jo grad nit gsi, sall isch wohr, abber was mer firs Labe brücht, sal han mer därt glehrt, wenn o nit franzesch babble, Bliamle mole, Kalvier drüdle un so Dings. Das sin so Sache, wu im e Büremaidle wenig öder gar nit itrage. ..... Se |</p>
+          </sp>
+          <pb n= '11' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(gereizt)</stage>
+            <p>Brücht mer grad allewil e Büremaidle bliewe? So Künscht han scho im e manche Büremaidle zu ere güati Parti verhulfe, je te le jure. <stage>(In diesem Augenblick klopft es. Elis ruft: Entrez!)</stage></p>
+          </sp>
+          <sp who="#isidor">
+            <speaker>Isidor:</speaker>
+            <stage>(älterer Briefträger, eintretend)</stage>
+            <p>Gäate Tag, ihr Jungfrauie! Do han ihr Neuigkeite! <stage>(legt eine Zei- tung und einige Briefe auf den Tisch)</stage> Adjes bisamme! <stage>(will gehen)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Attendez doch, wenn ihr nit zerscht eis trinke?</p>
+          </sp>
+          <sp who="#isidor">
+            <speaker>Isidor:</speaker>
+            <p>Merci, i ha scho eis gnu bis Jobbeles Hansjörg do nite. Er brennt grad, dr Hansjörg.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>E, Isidor, e Seschter Lewat geht allewil no in e Sack voll Riawe <stage>(alle lachen)</stage>.</p>
+          </sp>
+          <sp who="#isidor">
+            <speaker>Isidor:</speaker>
+            <p>Sal isch jetz wohr, allez, mir ah! <stage>(Lisa schenkt ein Gläschen ein, Isidor trinkt, während Elis die Zei- tung durchstöbert)</stage>. +</p>
+          </sp>
+          <sp who="#isidor">
+            <speaker>Isidor:</speaker>
+            <p>Es isch e luschtig Stickle drin vom Schweiss- dissi z’ Milhüse; es hett em nacht e luschtigi Bande e Rock aglegt <stage>(lacht)</stage>.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Dia han jetz emol racht gha. ’s isch e Schand gsi, so e blutt Mannshild mittel uf e Marktplatz z’ stelle, wu allewil so viel Wibslitt duregehn.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p><stage>(von oben herab)</stage> Do merkt mers wieder, as dü niane gsi bisch, d'’ Kunscht müass alles vorstelle d’après nature.</p>
+          </sp>
+          <sp who="#isidor">
+            <speaker>Isidor:</speaker>
+            <stage>(lachend)</stage>
+            <p>Do sin halt d’Milhüser alle Dummköpf, dia sage schints, dr blutt Mann dat nit vorstelle as ’s rachte Bei. <stage>(Lisa und Isidor lachen. Isidor ab, nachdem ausgetrunken.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Die Vorigen; dann Katri.</stage>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(ruft)</stage>
+            <p>Katri!</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(dick, klein, schon überreif, ziemlich altmodisch)</stage>
+            <p>Was isch?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Sapristi! Wieviel mol han i äich scho .gsait, Ihr sälle sage: Was bliabt, Mamsell Elis ? Vergasse ihrs dann allewil? Do bringe die Briafe im Babe, <stage>(Katri brummend ab.)</stage> .....</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p> <stage>(hat einen Brief eröffnet, liest ihn stehend, Lisa hat ihre Arbeit wieder aufgenommen.)</stage> </p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(ärgerlich)</stage>
+            <p>Da kennt mi jetz o bol in Rüah lo!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p><stage>(neugierig)</stage> Wer denn?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Do, so e simpler Bartkratzer vo Altkirch schribt m'r scho ebene sechs edder siebemol, da imbécile.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>E, kennsch dü en denn?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Mir sin emol vo Pfirt uff Altkirch gfahre mite- nander. Üs langer Zit han i mi abeglo, fir mit em e Gsprach z’fiahre, voilä tout. Un jetz meint da Simpel bol . .. <stage>(erregt)</stage> äh. äh, Roter, 's Elis isch z’ güat fir so e eifaltiger Coiffeur. Was meint denn so e hargloffener Stoffel eigetlig 0?!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Sag, Elis, wieviel han dr eigetlig scho dr Hof ge- macht?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Warum? Bisch ebhe jalouse, ass bi dir ken will abisse. Wart, i will dir se uffzähle. <stage>(holt aus einer Lade einige Briefbündel hervor)</stage> Lüag, das Bündel isch vum Iziger, i mein vom Percepteur vo Pfirt; dia sin vum Granzkontrolör vo Leime, dia vum Kum- messari, dia vom Apetheker vo Sept, wu er Witmann gsi isch, un dia...</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(hält sich die Ohren zu und fällt ein)</stage>
+            <p>Halt!, halt, halt, i ha gnüa, das isch jo scho e ganzi Litanei vu alle Heilige. Un dia han alle um di aghalte?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(ein wenig verlegen)</stage>
+            <p>Dumm Gansle, bisch dü aber ignorante! Wia gsait, mer merkt, as dü no nit in dr Walt umeku bisch. Meinsch, so Herre falle o gli mit dr Tire ins Hüs wia e Bürekoltri? Do wird zerscht a Zitlang dr postillon d’amour ume un ane gschickt, as mer sich gegesitig kenne lehrt.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(ein wenig neckisch)</stage>
+            <p>Ja un jetz?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Was jetz? Meinsch ebbe?? Ach, hesch gmeint? Nit güat, Lisa, im Elis git ken e refus, ä ä! Ich, wu zwei Johr z' Nancy.... -13_</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(lachend einfallend)</stage>
+            <p>Un zwei Johr z’ Offeburg...</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Ja, und zwei Johr z` Offeburg im Pensionat gsi bin, ich im Maire vo Schöndorf si einzig Kind, ich wu nabe miner Person, wu i doch o derf sah lo <stage>(kokett sich wiegend)</stage> un nabe mim Geischt no emol 100 000 Franke mitbring, ich e refus? Ich? <stage>(lacht überlegen)</stage>.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Ja, ja, aber worum....???</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(rasch)</stage>
+            <p>Worum as i ken gnu ha vo dane Fitzer alle? <stage>(Schlägt auf die Briefbündel)</stage> As dorum! Ein isch mir z’ alt gsi, ein z’ kalt, ein z’ schich, ein het Kinder gha und zwe sin ane am Rhi gewachse.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(tritt mit Tellern herein, die sie auf den Kachel-  ofen stellt. In der Mitte halblaut gegen das Publikum)</stage>
+            <p>Jo, un ken hetts welle, so ischs. Se hai numme dr Büsel mit em gemacht, so wohr ― i Chatri heiss. <stage>(ab.)</stage></p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Jo un derno, war das ebbis, ’s git dane sicher so rachte Lit as do!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schnippisch)</stage>
+            <p>So such dü ein dert ane.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(lacht)</stage>
+            <p>Worum nit, wenn i do ken find! <stage>(halblaut beiseits)</stage> ’s isch hoffentlig nit notwandig, wenns Gott will, isch er scho gfunda... <stage>(laut)</stage> Ten war allwa o nit e so schlackerig un dat so vornahme Herre so Körb üsteile. <stage>(mit Ironie)</stage> Pass uff, Elis, as dü nit no zwische zwe Stiahl abeplumpsch!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>O sal, an jedem Finger zene, wenn i numme will. Aber se gfalle mer gar nimme, dia grossartige Mes- sieurs, ich glauib, 's isch besser, mer blibt in sim milieu fir glicklig z’warde.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Ah, ah lüag do, am And weisch schon ebbis.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Hm, rot emol!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>I rot nit garn, üse mit, sunscht gits e Kropf.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Nei, rot, dü kensch en sehr güat.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Wenn i sag, i rot nit garn.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(lauernd)</stage>
+            <p>Eh bien denn, was seisch zu unserem neue Lehrer?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>(führt erschrocken Enke</p>
+          </sp>
+          <pb n= '14' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(bemerkt es)</stage>
+            <p>Was hesch?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(schnell sich bezwingend)</stage>
+            <p>Nit, nit, sisch numme e Krampf gsi. Der Herr Wacker meinsch also? Hein?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Ja, gfallt er dir nit o, alli Lit riahme ne so.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>I... Ich.. ich ha allewag o no nit as Güats von em ghört.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Eh bien, ich glaub, ass er e faible het fir mi. 's isch mer, er kam dado so grislig viel in unser Hüs, wage em Katri doch sicher nit <stage>(lacht)</stage>.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(erregt)</stage>
+            <p>Dank doch, as Gmeinschriber hett ar doch alle Tag fast mit em Unkel z’ rede. <stage>(Amerei erscheint in der Türe, ohne dass die beiden sie sehen.)</stage></p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Babberlababb! Der alt Lehrer isch nit halb so viel ku, da het d' Kinder üs der Schüal als gschickt. Kurz- um, ich loss mers nit namme, as es d'amour isch, wu dr Herr Wacker in unser Hüs tribt.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(kaum noch an sich haltend)</stage>
+            <p>Un dü?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(stolz)</stage>
+            <p>Ich? Hm, numme no vorm Johr hat er wage mir drei Auge kenne üsluage no mer, nit numme zwei, das hat mi kalt glo. Awer wia gseit, mer wird ver- nünftiger. <stage>(für sich: Un älter!)</stage> Do seht mer besser, was zamme passt, ass salmols, wu mer no ’s erschte Korsett drait het.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(beiseit, seuft)</stage>
+            <p>Am And isch’s e so, un er kunt doch nit wage mir.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(die sich unterdessen in einem Taschenspiegel besehen hat)</stage>
+            <p>Sag, Lisa, passe mer nit prachtig zamme? Isch er nit e natter Mann, grad wia gschaffe zu mir? Ich glauib, mit der Zit kennt ich ihn no ganz anderst garn beku wie salle <stage>(zeigt auf Briefe)</stage>.</p>
+          </sp>
+          <pb n= '15' />
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Die Vorigen. Amerei.</stage>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(fest und drall. Tritt erregt hervor, die Hände  auf den Hüften. Mit zorniger Stimme)</stage>
+            <p>Was hör ich do fir natte Plan? Was, dü wotsch unser Schüal- meischter hirote? Sal sin Schnacketanz! Dia kasch dir üs em Kopf schla! Pfischter no emol, han mir dich fir das 4 Johr ins Pensionat gschickt, fir as dü emol im e so e Naschtle datsch de Maidele der latz un racht Stich lehre? Do wars am halbe z’ viel gsi, dü... dü... dü...!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(trotzig aufstampfend)</stage>
+            <p>Un ich sag, ich hirot da wu ich will!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Was, no uftrumpfe tüasch, dü gottlos Tiar? Han ich das an dir verdiant, as dü e so e simpler 99er hirotsch?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(stolz, eifrig einfallend)</stage>
+            <p>D’ Zitte vo de 99er sin ume, Tante! Sal isch no gsi, wu d' junge Wiwer Bedelekappe drait han. Hit isch e Lehrer e g’achteter Mann, un dr Herr Wacker bsunders isch bi alle Lit bliabt; er isch so nowel un doch gar nit stolz, so ordlig, so....</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(spottend einfallend)</stage>
+            <p>Dü o? E lüag mer doch eis do ane! E, dü kasch en jo namme, dr novel Herr Wacker, da ordlig Herr Wacker; wenn er dich will, dir tüan mer en garn gänne !</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(erregt)</stage>
+            <p>Mi isch er, mi, mi! Ich ha jetz lang gnüa gwarte. <stage>(gegen Lisa gewendet, lauernd)</stage> Dü hesch ihn ebe so merkwiedig verteidigt. Un 's isch mir vorhar scho so ebbis ufgfalle! Hesch am And dü Hoffnung uff ihn, dü? <stage>(spöttisch)</stage> Dia kasch ins Kami schriwe! <stage>(von oben herab)</stage> Mit mir ka sich so e arm un ungebildet Maidle wia dü halt nit masse. <stage>(lacht wegwerfend)</stage>.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(für sich)</stage>
+            <p>Sal weiss ich jo wohl, as d' Galdsäck viel züadecke. <stage>(laut, ruhig)</stage> Wer red denn vo so ebbis? Ich mein awer, mer sott nit üs so elande Grind uff e Hirot trachte. Und derno! Ich ha gmeint, dü hesch allewil numme so z’ choisiere ka. Gal. Cousinle, Liabschter gnüa, awer ke Hochzitter!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(beleidigt)</stage>
+            <p>Jetz, los mer emol ein das ine- schneite Maidle a! Un ich sag dir, dr Apotheker vo Sept hats mit toisig Fraide gnu, wenn numme ich hat welle. Awer nai, e Notari uffs wenigschte müass es si, ich will doch emol lüage! E Schüalmeischter! Hahaha! Da len mer dir, wia gsait. Un jetz ab in d' Kuche, as dr Tisch deckt wird! <stage>(Lisa ab)</stage>.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(zu Elis)</stage>
+            <p>Loss numme nit vu dane Plan bim Vater häre. Da war am And im Stand, un... ! Er hett jo o dr Narr gfrasse an dam Herr Wacker. Mer meint, er war nundebuckel zuckerig, wia ner alle mache.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Un jetz will i ihn erscht racht. <stage>(Geht hocherho- benen Hauptes ab.)</stage></p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(stürzt ihr nach. Elis hat aber die Türe von  aussen verriegelt. Amerei erhebt beide Fäuste gegen  die Türe und schreit drohend:)</stage>
+            <p>Wart numme, wart numme!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Auftritt. </head>
+          <stage> Amerei, dann Maire.</stage>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(ist auf einen Stuhl gesunken, stützt das Knie  auf und spricht laut für sich)</stage>
+            <p>A Schüalmeischter as Schwiegersuhn! ’s isch zum Totschiasse! Hahaha! Wie wenn ich fir so ein scho Johre lang mir d' Nägel abbisse hat! Wia wenn ich das Meidle fir da Herr Wacker so üseputzt hat mit em letschte Grosche. Ja, mit em letschte Grosche! <stage>(aufspringend)</stage> Nei, ich gib d' Hoffnung no nit uf. ’s git nit uff dr Walt, wu e schlaui Fraui nit kennt ferig bringe. D’ Mannslit sin in so Sache so dumm, ass mer ene kennt e Ring dur d' Nase mache fir si dra spaziere z’ fiahre. Un so bring i mi Mann allwag o uff mi Site. <stage>(geht lebhaft gestikulierend auf und ab)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p><stage>(schaut Amerei eine Weile zu, ohne dass diese ihn gewahrt)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Was schreisch denn e so, Amerei? Was hesch, worum verwirfsch d' Hand eso?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Nit han i, was wot i ha?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Hoho, sall seisch im e Narr, nit mir. Dir isch hit e Katz iwer dr Wag gloffe, tüas numme gsteh.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Wage mir, i ha no welle warte, bis... enfin, emol hatschs doch erfahre.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Dü machsch mi famos wunderfitzig.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>E so nu denn. Meinsch nit, unser Elis lauift im Schüalmeischter no. Da Nineninziger mächts uns als Tochtermann bringe. a</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(sprachlos, mit offenem Mund)</stage>
+            <p>Wa... wa... was seisch do. Hä.. hä.. här i racht?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(ihn missverstehend, triumphierend)</stage>
+            <p>Gal, Alter, do sin mir emol einig, dir gfallt er o nit, da Herr Schwiegersuhn</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(der sich inzwischen von seinem Erstaunen erholt hat)</stage>
+            <p>Nei, misex nit, wenn i nit wusst, as er viel z` räsonabel war, fir sich in unser Hochmüatsaffle z` vergaffe, dat i ihn uff der Stell geh warne?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(baff)</stage>
+            <p>Warne? Oho!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(mit Nachdruck)</stage>
+            <p>Ja, warne! Denn i wott da güat Mann nit mit ebene Fiass sah in si Unglick renne.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>I versteh di nit.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Nit! No minere Meinung sott e Lehrer im Dorf e Musterhüshaltung ha, fir de andere e Exampel z’ geh Un jetz dank dir emol unser Elis as Hüshaltere! Brr !! i `</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(beleidigt)</stage>
+            <p>E fir was sin d' Manner do? Er kennt em jo halfe!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Halfe! Mit sine Nawesamtle hett e Lehrer ke Zitt fir sich no um so Sache z’ kümmere. Un derno isch no ebbis, wu... nei, das verstehsch doch nit.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>So i bi denn e Gans! Los, Schambedischt, ües mit, edder ’s kracht.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Also, wage mir! Unser Elis het ke Harz, ke Gmiat un das isch d'’ Hauptsach, worum as i gege dia Hirot war. es Isch das ebbis so notwandigs? Ich mein ’s Gald ....</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(schnell)</stage>
+            <p>Wies mit sallem bi uns steht, weisch so güat wie ich. <stage>(Pause)</stage> Ja, ’s Gmiat isch fir e Lehrersfrau d' Hauptsach, Amerei. A Lehrer hett so ‘viel Ärger z’ schlucke in der Schüal un mangmol no sunscht wage iwerempfindlige Lit mit iwerspannte näie Idee, as er nit no e Lünenarr wia unser Elis im Hüs ha därf. Er brücht e Fraui, wu’s versteht, ihm d' Wulke z’ verschiche. Un wage dam war ich, M gsait, der erscht, wu gege dia Hirotsplan dat rede.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(rot vor Zorn, die Arme auf den Hüften)</stage>
+            <p>So, so, so e Vater bisch dü! Di eige Kind datsch ver- briale? Dü.. dü..! Un ich sag dir jetzt, z’ leid hirotet’s da Herr Wacker, z’ leid. Nundebuckel, wenn mir einer vor 5 Minüte gsait hat, as ich hit no dat so rede, i hat em bigüscht uf d' Nas gspoie. Awer dir Manner kennet d' beschte Frau zü me Täifel mache! Also Schambedischt, in 3 Wuche isch Hochzit, ich will doch emol lüage, äb mir Wiwer hitigestags nit meh galte! <stage>(will ab)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(hält sie zurück)</stage>
+            <p>So sin ihr, ihr Wiwer, wenn dr Eigesinn kommediert, schlupft dr Verstand in e Kanschterle. <stage>(Amerei will sich losreissen)</stage> Nei, horch no e wenig. Mi Frind Hanstiabelt vu Krönige schribt mer, ass si Suhn, dr Jörg, hit züa nis uf Visit kummt. Im Elis han is scho gsait. Mach em ke so bes Gsicht wia letscht dam arme Lüi vum Geisesepp.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(höhnisch)</stage>
+            <p>E, i wird dankwohl no miasse im Spiegel Gsichter stüdiare fir so Büredoddel z’ emp- fange !</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(mit Nachdruck)</stage>
+            <p>Amerei, mach ke Dummheite, wage dim Hochmüat verschitsch sicher no dim anzige Kind si Gliek. Dü warsch viellicht salbscht no froh, ’s dat e braver Bürebua ums ahalte.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(schnippisch)</stage>
+            <p>Sal erlabsch nit! <stage>(will hinaus)</stage>. Maire <stage>(zuckt schweigend die Achseln und wandelt auf und ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Auftritt. </head>
+          <stage> Die Vorigen. Lisa und Katri. (Lisa und Katri kommen den Tisch decken; dann holt  Katri die Suppe.)</stage>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>'s Asse isch grischte, Tante.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Also, denn an der Tisch! Gang, riaf im Elis, Lisa!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>’s isch unnötig, do kunnts grad.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So batet, i ha bigobbliger Hunger, uf dr Jörg känne mir nit warte.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Da hatsch kenne dane lo. Pape !</p>
+          </sp>
+          <pb n= '19' />
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Pape! Pape! I ha dir schun hundert mol gsait, ass i di Vater, nit di Pape bi! <stage>(Beten leise und setzen sich dann zu Tische. Katri holt die übrigen Gänge, Pflüte und Apfelmus. Lisa hilft ihr ab und zu. Elis hat allein eine Ser- viette. Sie schiebt die Pflüte usw. mit einem Brot- stückchen in der rechten Hand auf die Gabel in der Linken.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zu Elis)</stage>
+            <p>Dunnerschiass! Worum müasch denn dü allewill so e Geifermantele aha?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Loss doch emol das Maidle riäwig, wit? Worum sotts nit zeige, as es im Pensionat bessere Maniere glehrt hett as andere? <stage>(Blick auf Lisa)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>I pfiff dr uff so verruckte Maniere, wenn das alles isch, was vo dam Pensionatsgschneigs z’ brüche isch. Wenn mer bigüscht.... <stage>(bricht ab)</stage>.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Was denn? Üse mit!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Also, wenn düs denn absolüt wisse wit. 's isch güat, as mer nit no e Maidle han, sunscht gabs Krach.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Krach? Wieso?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Loss en doch geh, Mamme!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Mame! Mame! Red bigott wia dr der Schnabel gwachse isch! Nei, i schwärs, ins Pensionat kam mer käs meh, ke Bür sett so dumm si, nohar hett er nit as ufbloste Gansle.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>So, so! Do sät unsereins sine Maidle lo uf- wachse wie so e Jesüsbirle sine Krabbe?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Krabbe? Krabbe! ’s sin Mensche wia andere, mangmol isch no mehr üsene z’ mache.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Ja, isch ebbe nit worde üs em Elis z’ Nancy un z’ Offeburg, hein?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(bittend)</stage>
+            <p>Gan doch no, Unkel!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Nit do, Lisa, emol müass nüss, was mi scho wuche- lang druckt. Ja, Amerei, ebbis isch worde üs unserem Maidle, e Puppe, wu niane nit ariahrt un wu mer o salbscht nit ariahre därf, nit emol mit em Mül. Wia gsait, wenn's no z’ tüa war, gsach’s ke Pensionat meh. <stage>(Lisa und Katri mit Suppenschüssel ab in die Küche.)</stage></p>
+          </sp>
+          <pb n= '20' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Andere Vater sin doch o nit troublé au cerveau un schicke ihre Töchter doch ins Etranger.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(schnell)</stage>
+            <p>Ja, awer wu ane? In d' Hüshaltungs- schüal, ins Bürepensionat. Vo därt bringe se doch no ebbis mit, wu in d' Walt taugt, mer sehts ans Franztonis Üscheni. Amerei und Elis <stage>(lachen schallend und sehen einander lachend an.)</stage></p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Das isch güat !</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Ka’s Üscheni brodiere? Ka’s singe? Ka’s Klavier- spiele? Ka’s d' Brandmolerei? Ka’s turne? <stage>(Immer mit steigender Stimme.)</stage> <stage>(Katri hat inzwischen Pflüte aufgestellt, Lisa das Apfelmus gebracht.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(hält sich die Ohren zu)</stage>
+            <p>I will nit meh wisse. Gant aire Miler z’ asse!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(beim Anblick der Speisen)</stage>
+            <p>Pflüte? Scho widder Pflüte? Mon Dieu! Mr han doch erscht Ia semaine derniere gha.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>’s isch Fritig hit, Elis.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(spottend)</stage>
+            <p>Awer, Müater, dü hatsch doch un- serem liewe Kind kene Nüdle un Karpfe koche.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schnippisch)</stage>
+            <p>Allwag wars ebbs anders gsi. On dirait as mr so Armeseelebirle ware.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(beiseits)</stage>
+            <p>‘s war is viellicht wohler as e so. <stage>(laut)</stage> E, dü danksch dir einstwile, d' Pflüte ware Karpfe. Wenn emol dr Müater ihr Notari kunnt, wirds jo alle Tag so Plattle ga.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>'s brücht grad ke Notari si, allewag nit der Jörg, wu dü fir hit iglade hesch, sall sag ich dr. I bi doch wunderfitzig, was das fir e Mussie isch? <stage>(Alle essen eine Weile still weiter. Katri schmatzend.)</stage></p>
+          </sp>
+          <pb n= '21' />
+        </div>
+        <div type="scene">
+          <head> 6. Auftritt. </head>
+          <stage> Die Vorigen. Jörg.  (Jörg möglichst bäuerisch ausstaffiert; graue Bluse,  derbe Schuhe, grosses Halstuch (Foularde), breitrandiger  Hut, mit Schnur zusammengebund. Schirm. Spricht breit.)</stage>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(im Eintreten)</stage>
+            <p>Do bin i, het saller gsait. Sin dir der Maier <stage>(nit maire)</stage> vu hia ? <stage>(Alle betrachten ihn teils verdutzt, teils ironisch.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Da bin i, ja. Un wer sin ihr, wenn mr froge därf? Ebbe dr...?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(rascher als sonst)</stage>
+            <p>Natirlig bin is, dr Jörg bin i, äier züakinftiger Tochterma. <stage>(wieder langsamer)</stage> Bin i nit e schener Büab? <stage>(gegen Elis)</stage> Sin dir’s Lisi? Ja? Loset, dir känntet e bizi feister si. Vo so nere. Mohr därfte jo d' Jude Spack asse, hat saller gsait, hahah. <stage>(Lisa und Katri kichern.)</stage></p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Amerei und <stage>(schreien laut auf, dann zornig)</stage> Nei, isch das e Kolteri!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(ein wenig perplex)</stage>
+            <p>So setzet äich doch, Ihr han allewag Hunger?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>E sall grad nitt. Wisset dir, d' Müater het mr e Dotzet Eier in Ange gschlage eb i furt bi un nohar han i no e halwer Schambung verwitscht im Kansch- terle. ’s isch grad ke grosser gsi, numme vo nere zweizantrige Soi, awer 's langt allewag bis z’Owe.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Nei, so e gourmand! Vor dam müesst mer jo Angscht ha, as er eim dat abisse.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>O, do därfet dir riawig si, Jingferle, dr Jörg nagt nit garn an Knoche, wu nit dra isch.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(vor Lachen sich schüttelnd)</stage>
+            <p>Galet Jörg, ihr han z’ erscht bim Säihirt Stunde gnu, vor ebb ihr do ane ku sin?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>E lüag mer do ane, isch das e nat Kaferle! <stage>(will sie umfassen.)</stage> Lisa <stage>(wehrt lachend ab und verduftet samt Katri.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Allez, wenn ihr no ebbis want, schenieret eich nit; ’s isch e witer Wag vo Krönige bis do ane, do sin d' Eier allewag scho lang z’ Amerika.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Scheniere tüa i mi grad nit. <stage>(schneuzt sich mit grossem, rotem Taschentuch gegen die Tischgesell- schaft)</stage> Wenn dir ebbis güats hattet... ? Wisset dir, e Seschter Lewat...</p>
+          </sp>
+          <pb n= '22' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(lachend)</stage>
+            <p>geht allewill no in e Sack voll Riawe, sait als unser Lisa.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>He, mir han halt numme Pflüte. Wissen ihr, ’s isch Fritig. Wage dam han i mi vorhar gwundert, wu ihr vo dam Schambung gred han.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ah ja, bigott! An da Fritig han i jetz nimmi dankt. Jörg, Jörg, wia bisch dü so dumm! <stage>(schlägt sich vor die Stirn.)</stage></p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(die, wie Elis weiter gegessen)</stage>
+            <p>’s isch doch schen, ass ihr das salbscht isah tian.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Jo, dir han verdüschmi racht. Ich Esel kum am e Fritig un ha mi so gfreit uf e Schifele. Wisset dir, so e feists, wu eim dr Schmutz ’s Mül ablauift, so vo nere dreizantrige, wia mir han. Meine Müater, mir han Säi, se sin no dicker um d' Weiche as dir <stage>(lacht un will sie umfassen)</stage>. Amerei und Elis <stage>(schreien auf)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(vergnügt)</stage>
+            <p>Hein, ich ka o Varsle mache ! O, dr Jörg isch nit so dumm, wia er dri lüagt. <stage>(setzt sich)</stage> Awer jetz will i Büass tüa fir da Schambung un ’z leid Pflüte asse. Dr miant wisse, Jingferle, i iss d' Pflüte verwirkt garn <stage>(bedient sich auf Teller von Lisa)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Halt, namme doch e süferer Taller. <stage>(ruft in die Küche)</stage> Katri, e Taller un e Gable! Katri <stage>(bringt beides und stellt’s vor Jörg)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg :</speaker>
+            <p><stage>(Mund und Nase aufsperrend)</stage> Eh, eh, wer isch en das widder? <stage>(zu Maire)</stage> Dir han jo e ganzer tall voll.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Unser Magd, ’s Katri, se isch jo vorig scho do gsi.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Do müass i blind gsi si! Häckerundia! Het dia e dick Hintergschirr. Dia tat mer jetz o gfalle. <stage>(Alle lachen schallend.)</stage></p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>E, froget se, viellicht nimmt se ech!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Was kennt mer sage, het saller gsait, gal Katri.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Jo, galet dir, es sind scho grössere Wunger gechah <stage>(lachend ab in die Küche mit Tellern)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(fährt nun auf die Platte los)</stage>
+            <p>O Pflüte, Pflüte, do willi wauite! <stage>(nimmt Riesenportion)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(spottend)</stage>
+            <p>Namme doch. meh, nit ass ihr ver- hungere.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(kauend)</stage>
+            <p>’s langt fir dr Afang... Nüdlewatter, sin dia güat. Han dir se gmacht, Jüngferle?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(zornig)</stage>
+            <p>Ich bin fir äich ke Jingferle, comprenez- vous?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(noch immer kauend)</stage>
+            <p>E, e, was denn? E Fraui doch o nit, un Hose han dir bigüscht doch o nit a.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(von oben herab)</stage>
+            <p>Natirlig, vo so me Mischtkür, wu nit kennt as Kiah un Ochse, ka mer nit verlange, as er eim Mamsell tituliert, wia sichs fir unsereiner conveniert.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zornig auffahrend)</stage>
+            <p>Jetz ischs verdanzig gnüa mit dam fuchse un trate! Gascht isch Gascht! Un das sag i dir Elis,, wenn dim Vater sine Kiah un Ochse nit gsi ware, wenn ar nit o dr „Mischtbür“ gmacht hat, hatsch dü verdoni o nit kenne lehre d' Mamsell spiele, dü Hochmüatsgingel, dü! Andere Maidle im Dorf, wu ufs wenigscht sin wer dü, date sich schame, wenn mer se dat mit Mamsell arede, edder wenn se am Suntig so e Kreditfatze vors Larvle miasste setze wia dü.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Was fir Maidle? Jo, so Drackdüdi, wu nit kenne as Mischt zettle un Säitranke arichte.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(spottend)</stage>
+            <p>In dr Kopfverdraischüal sin se halt nit gsi geh läre drüdle. Se han halt ke so gscheite Miatere gha, wu partü han welle e Halbaff mache üs ihrem Kind.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Scham di, Schambedischt, fir so z’rede vor ebberm Fremd’s!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(kauend)</stage>
+            <p>O, ich bi doch nit fremd, san dir’s nit <stage>(bedient sich wieder)</stage>.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(ohne auf Jörgs Einwurf zu achten)</stage>
+            <p>Un ich sag dir zum toisigschte Mol, ’s Elis müass ebbis Finers hirote as so e Bür <stage>(Blick auf J.)</stage>. Dir z’leid müass es jetz da Schüalmeischter ha. Elis <stage>(fällt Mutter jubelnd um den Hals)</stage>.</p>
+          </sp>
+          <pb n= '24' />
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Jo, pfiffe düat er dir uff die Mülaffle wia alle andere. Wenn’s a Herr hat welle, wars nit 27 Johr alt worde!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Was bin i? ’s geht jo noch mehr as e Monet, bis i so alt bi. Un das sag i, der Herr Wacker will i, i pfiff uf e Bür. <stage>(verächtl. Blick auf J.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Dü hesch racht, i wott e rachtschaffener Bür nit emol mit dir in's Unglück bringe. Dü miüasch ein hirote, wu dü nit z’ tüa hesch, as d' Madame z’ spiele <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(der seelenruhig weitergegessen, wischt sich mit  dem Tischtuch den Mund ab und streicht dann behag-  lich den Bauch.)</stage>
+            <p>Mir isch so wohl wia i ere Soi in dr Mischtlach. <stage>(A. und E. zucken zusammen)</stage> Awer Jingferle eder Mamsell, dir han mer allewil no nit gsait, wer dia güate Pflüte gmacht hett. Sin dir so e finer Kuchemutz?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(für sich)</stage>
+            <p>Nei, so e Stiar! Ender as i so ein nahm, giang i ins Kloschter! <stage>(laut)</stage> Mit so ebbs gib ich mich nit ab; das isch güat firs Katri. <stage>(steht auf und faltet die Serviette zusammen)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ah ja, d' Müater het jo gsait, dir kenntet nit emol de Säi koche. Do tiant dir mer leid. Wenn dir die Pflüte gmacht hattet, kamet dir e Schmutz iwer. i weiss jo, as sich d' Maidle um e Schmutz vo mir risse wia e Wolf um e verreckt Schof. Jetz awer gib i en em Katri. Bi ihm kläpfts o besser <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(ihm nachgehend)</stage>
+            <p>Dam Ding will i doch o züa- häre. I gang ene geh uflose im Rumpelkammerle.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 7. Auftritt. </head>
+          <stage> Elis. Lisa.  isch acht... Awer fir was der Kopf verbrache! Jetzt  heisst’s dr Schlachtplan entworfe, fir da Schüalmeisch-  ter izzieh. E Schüalmeischter! Noch vor eme Johr,  do hat so e Herr Wacker därfe heim bliewe, do han  i gmeint, 's miasst au moins e Kreisdirakter si, edder  e Amtsrichter. Awer mon Dieu, dia Herre sin efange  so exigeant. Ich bin doch gwiss e scheni Person (betrachtet sich im Spiegel) und doch het kenn welle  abisse. ’s isch jo wohr, i hilf no un petit peu, awer  das mache hitigestags jo alle. In Offeburg han d'  Kamerade no falsche Arm und falsche Wade drait,  was ich doch nit mach, do isch e Sach wenigstens  echt (betrachtet sich an den entsprechenden Stellen).  Un drbi weiss ich doch z’ plauidere, lies viel, kum  allewil chie (mit Nachdruck) un blib doch sitze!  Mer hett do awer o fast numme so Bürebekanntschafte  wu unsereiner nit taxiere kenne. Un will halt so  wenig bessere Herre in so e Nascht kämme, wurd  sogar unsereiner 27 Johr alt un isch no ledig. — Wenn  jetz numme mi letschti Hoffnung nit o no ins Wasser  fallt! Awer nai, do han i ke Angscht! Ich wett, dr  Lehrer meint, er säi im siebte Himmel, wenn er mir  numme e mol därf e Schmutz ga. Er isch numme e  bezi schich, do wird i em dankwol miasse avance  mache, wenn’s sie o nit so racht schickt fir Maidle. (Man hört Schritte.) </stage>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p><stage>(allein; legt das Tischtuch zusammen, ohne es erst auszuschütteln und schiebt es dann in die Schub- lade hinein. Hierauf nimmt sie ein Modejournal aus einer Mappe und setzt sich damit ans Fenster)</stage>:. Nach einer Weile sinnend: Worum numme d' Mamme so schnall umegschwankt hät? Vor ere Stund no hat se So deibelet wagen em Herr Wacker. Und jetzt! Was</p>
+          </sp>
+          <pb n= '25' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Jesses, i glauib, das isch en, er kunnt als gwenlig um dia Zit mit de Papierer zum Pape, un ich ha mi nit emol no agstriche. <stage>(Wirft schnell die Modezeitung weg und nimmt eine Häckelarbeit vor; mit Nach- druck)</stage> Hit edder nia! Lisa <stage>(tritt ein)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(gedehnt und ärgerlich)</stage>
+            <p>Ah, dü bischs?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(belustigt)</stage>
+            <p>Was machsch denn dü fir e Gsicht? Bin ich am And e Gspangscht, ass dü mi so aglotze tüasch? Was hesch denn?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Nit, nit, i ha numme gmeint...</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Was denn?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Nit, as dü’s weisch. I will geh e andere Rock alege; i bi do vorig bliwe hanke am e Nagel <stage>(schnell ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 8. Auftritt. </head>
+          <stage> Lisa, dann Wacker.  Lisa (setzt sich an die Nähmaschine und näht irgend  etwas; sie singt dabei eines der landläufigen Lieder:  ‚Edelweiss‘ oder ‚Zwei dunkle Augen‘ oder ‚Böhmer-  wald‘ usw.) numme schnall welle ebbis mit em Herr Maire rede,  Sie wisse jo, me hat dato viel Arwet as Gmein-  schriewer....</stage>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(gewinnendes Aeussere, offenes Wesen, ein-  fach aber korrekt gekleidet, schöne Figur. Er tritt  von links unbemerkt ein, hört eine Weile mit glück-  lichem Ausdruck zu, dann)</stage>
+            <p>Bonjour, Mamsell Lisa ! Sie han jo e Stimmle wia e Nachtigall.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(fährt herum und wird purpurrot)</stage>
+            <p>Ah, Sie sins, Herr Lehrer? Han Sie mich awer verschreckt!</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Verschreckt? Lüag i denn so schrecklig dri?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(rasch)</stage>
+            <p>O nei, im Gegeteil! Sie sin jo so e... <stage>(verlegen innehaltend)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(schelmisch)</stage>
+            <p>Was bin i? Üse mitt</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(wehrt mit beiden Händen)</stage>
+            <p>Nei, nei, ’s isch e Dummheit gsi.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Macht nit, dia sin jo derfir do, as me se sait.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Also, in Gottes Name, fir mi Strof, Ich ha welle sage... Sie sin jo so e liawer Herr, <stage>(eifrig)</stage> natirlig zu de Kinder un zu de Lit, han i gemeint.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(belustigt)</stage>
+            <p>Awer natirlig, i dank jo nit an- derscht.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(sich immer mehr in Eifer redend)</stage>
+            <p>Mir han scho e paar rachte Lehrer gha, ’s isch wohr, awer no kenn het d' Kinder eso wisse z’ namme, Sie fliage jo numme so in d' Schüal dato. Mir han’s nit so güat gha un mer han doch o e braver Lehrer gha. Awer er isch allewil eso arnscht gsi, mir han gar nia därfe lache, Sie mache als salbscht Gspass, ass d' Wand als zittere vor'm Lache vo de Kinder.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(ernster)</stage>
+            <p>Awer Mamsell Lisa, isch denn das ebs bsunders? Das isch jo ganz natirlig, as mer die Kleine dann und wann uffrischt. Sie mache z’ viel</p>
+          </sp>
+          <pb n= '27' />
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Z' viel? Z’ viel? Oh nei, Herr Wacker, viel z’ weni, In e so e Schüal möchte jo mir alte Esel no geh, wu wer so frei därf rede, so vo der Brust awag schriewe, wie d' Kinder als verzähle. Bi uns ischs grad gsi, wia wenn mer im e Joch dat stake wu me niane anders ane därf, ass wu eim dr Führmann anefährt.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(beschwörend die Hände hebend)</stage>
+            <p>Halte Sie doch emol, Mam....</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(unbeirrt)</stage>
+            <p>Nei, und dia gfitzte Spaziergangle, wu Sie als mit der Schüal mache in der Wald, uf der Barg, zum Weiher. So ebbis han mer nia gha, numme ’s dummme Lasebuach. Un was fir Molereie as sie jetz mache gege dia dumme Tafele, wu mer han miasse nomole. Kurz, Sie sin e Muschter vom e Lehrer.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Awer nei, Mamsell Lisa, das isch doch nit mi Verdianst, das isch hitigestags Vorschrift. Das mache jo alle.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(eifrig protestierend)</stage>
+            <p>Still, still, sal isch nit wohr, ich weiss es. Dr Unkel kunnt jo viel in dr Umgegend umme, un do het er o scho manchmol vernümme, as es no an mange Orte in der Schüal züageht, wia zum Grossvater sinere Zit. Sie han ewe d' Kinder garn un wage dam süache Sie allewil ebbis z’ bringe, wu ene Fraid macht. 's blibt drbi, Sie sin e Muster vum e Lehrer oder wage mir e Ideal, wias Elis dat sage... Oh, do fallt mer grad i, im Hüsfrind vo geschter isch wider e nat Varle vom Zumstei. „Mi Ideal“ heisst’s, I bi doch wunderfitzig, was Sie derzüa sage. I wills schnall geh hole <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(allein)</stage>
+            <p>A harzig, harzig Kind, ’s Lisa. Wer kennt glichgiltig bliewe, wenn so e ordlig Schnügerle so si Quacksilbermilele geh macht?... Wie’s so rot worde isch vorig, wu im’s Komplimant fir mi isch bliewe im Hals stake... Gege d' Kinder liab, het se gmeint. Hm, wenn i numme wüsst, sicher wüsst, as es numme e verlageni Üsred gsi isch. Fast glauib is. Wenn is anderscht därfte üslege, das „liawer Mann“ ! Ichs’s eso, isch’s, as i dam Harzkaferle o e bizi liab war? I war züa glicklig <stage>(seufzt)</stage>.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(lustig hereinspringend)</stage>
+            <p>Do han is, lose Se emol, Herr Lehrer <stage>(liest)</stage> Mein Ideal. An Geiste und am Herzchen reich Und unberührt vom Trug der Welt, Mit innigem Gemüt bestellt, So ganz wie aus der Feen Reich, Begabt mit einem Sinne fein Für Kunst samt Dichterwerken, Für’s Schön’ in Tal und Bergen, Ja so, so sollt sie sein. Und wär dazu sie kenntnisvoll In all der Hausfrau Dingen, Um so 'ne Maid möcht ich wohl ringen, Wenn Hymen mich mal fesseln soll ! Und hätt’ dazu sie Äuglein klar Und kirschenrote Küssmichlippen Und Bäckchen rund zum Wonnenippen, So würden heut wir noch ein Paar! Isch das awer nat! Was sage Sie derzüa, Herr Wacker? Lüagt am And Ihr Ideal o eso dri? <stage>(lacht schelmisch)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(der mehr und mehr träumerisch auf die Le-  serin geschaut hat, blickt ihr jetzt fest ins Auge)</stage>
+            <p>Awer sicher. Mamsell Lisa, fascht uffs Tipfele. Mer meint grad, d' Sundgauinachtigall hat dasmol mit minere Fadere gschriwe. Fascht ganz eso dank ich mir mie Wiwele, wenn i emol ’s Glick sott ha, fir eins heim z’fiahre.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(forschend)</stage>
+            <p>Ja, meine Sie denn. so e Ideal war z’ finde? ’s miasst ja fascht e Angel si.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(lebhaft)</stage>
+            <p>Ebbs e so git? Ich sag Ihne, Lisa, pardon, Mamsell Lisa, ich wusst scho eini un ich....</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(neu geschminkt und aufgeputzt schnell herein-  tretend)</stage>
+            <p>A, bonjour, Monsieur Wacker, käme Sie o z’visite?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(beiseits)</stage>
+            <p>As dich der... hesch dü jetz grad im schenschte Augeblick muasse derzwische ku ? <stage>(laut)</stage> Sal nit, fir z’visite z’ku fahlt mer d’Zit, i ha</p>
+          </sp>
+          <pb n= '29' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(unterbrechend)</stage>
+            <p>Je comprend, Monsieur Wacker, awer nit wohr, e bizzele bliewe Sie doch bin is. Dr Babbe isch numme im Grasgarte hinte, ’s Lisa geht en gschwind geh hole, gang Lisa! <stage>(diese ab)</stage> Nahme Sie doch Platz, Monsieur Wacker. Wacker <stage>(setzt sich)</stage> .</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(für sich)</stage>
+            <p>Jetz oder nia! <stage>(laut)</stage> I will gschwind e Glasle Wi geh hole, Sie exküsiere mich, n’est-ce pas? Lüage Se en attendant ins Modejournal, Sie han doch sicher o goût fir schöne Toilette <stage>(schaut ihn kokett an; ab)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(ihr nachschauend)</stage>
+            <p>Was dia mir fir Auge gschickt hat! Meint se ebbe? <stage>(lacht schallend)</stage> Was wot ich denn in minere Dreifaltigkeit als Lehrer, greffier un Organist mit so nere Fraui afange, wu ein hinfe un vorne si sett, fir as d' Hüshaltung nit üs der Angle geht. Wuhar d' Zitt namme ohne z’ stahle? Un drno so e Modepuppe, brr! Do miasste eim d' Güldfichs no ganz anderst züafliage as bi der letschti <stage>(spöttisch)</stage> „augmentation“... Un iwerhaupt bi so zwei Kusinle ka eim d' Wahl nit schwar falle, bim Elis e Köpfle voll Schnickschnack, bim Lisa e guldig Harzle.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 9. Auftritt. </head>
+          <stage> Wacker, dann Elis,  gha, wenn i mit Ihne hat kenne plauidere. ’s isch jo  allbekannt, ass Sie so fini Unterhaltung fiahre kenne. (für sich) Scham di, so z'liage.</stage>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(mit Wein und Gläsern zurückkehrend)</stage>
+            <p>Nit wohr, Sie akzeptiere e Glasle? <stage>(schenkt ein)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Wage mir, wenns Ihne Fraid macht.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>A la vôtre, Monsieur Wacker.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>A votre santé, Mamsell Elis.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Sie han allewag bol langi Zit gha, nit? I bin numme gschwind geh lüage, eb dr Babe no nit kunnt.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(für sich)</stage>
+            <p>Se kennt jetz ku, d’langi Zit. Awer se sell mers zahle. <stage>(laut)</stage> Allwag hat i kirzeri Zit Nm</p>
+          </sp>
+          <pb n= '30' />
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(geschmeichelt)</stage>
+            <p>Das isch allewag numme so e Galanterie vu Ihne, Monsieur Wacker.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Awer sicher nit, Mademoiselle Elis, ich liag nia, eder i sags <stage>(beide lachen)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Fir e Mamsell, wu im Pensionat gsi isch, isch'g ‚o nit z’verwundere, wenn sie vo ebbs anderm z’rede weiss as vom Watter un de näie Hiat. Apropos, Made- moiselle Elis, wu sin Sie eigetlig im Pensionat gsi?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(wichtig)</stage>
+            <p>Zwei Johr z’Nancy un zwei Johr z’Offe- burg!</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(erstaunt tuend)</stage>
+            <p>Ah, ah, in zwei, jetz nimmt’s mi nimme wunder. <stage>(für sich)</stage> Was sag i nit. <stage>(laut)</stage> Da Mann, wu Sie heimfiahrt, därf sich gratüliare, da bekumt doch e Frau wo Bildung, eini wu er in dr Gsellschaft sah lo därf. <stage>(seufzt komisch)</stage> Oh, ich benied da, wu Sie emol mit Ihrer Hand beglicke.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(für sich)</stage>
+            <p>Comme il est charmant! Er bisst a. Awer züa schich, ich müass e bizi nochhalfe. <stage>(laut, mit dem Finger drohend)</stage> Awer Monsieur Wacker, wer hat in Ihne so e gfahliger Flatteur gsüacht! Sie han allewag scho mankem Maidli ’s Harz gstohle.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(lachend)</stage>
+            <p>Ich, o nei, das Verbrache han i grad nit uf em Gwisse. Ich wott wette, ass Sie de junge Herre zehmol gfahrliger sin.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schnell)</stage>
+            <p>Vous vous trompez, Monsieur Wacker, d' Koketti z’spiele isch mer no nia gange.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(für sich)</stage>
+            <p>Sapristi, das isch starker Tübak.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(fortfahrend)</stage>
+            <p>Ich wusst o nit, wage wem. User- einer het jo so wenig Glageheit, Bekanntschaft z’ mache. <stage>(lauernd)</stage> Awer, Sie, so e schener, junger Herr un ke Liabschte, ’s isch nit z’glauibe. Wenns jo numme gsi war fir kurze Zit, denn Sie han doch gwiss schrecklig langi Zit in dr Schüal, so allei mit Kinder, wu mer nit gscheits rede ka mit ene.</p>
+          </sp>
+          <pb n= '31' />
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(für sich)</stage>
+            <p>Aha, jetz kunt scho ’s grobe Gschitz. <stage>(laut)</stage> Langi Zit? In dr Schüal? Awer, Mademoiselle Elis, wia war das möglig? Han Sie scho emol ghärt, as e Moler eder e Bildhauer langi Zit hat, wenn er in siner Warkstatt steht? Eh bien, e Lehrer isch o so e Kinschtler, nur het ers nit mit Ölfarb eder mit Marmor z’ tüa, si Material sin weiche Kinderseele. Wie ka mer do retouchiere, file, meissle! <stage>(begeistert)</stage> Gits e scheenere Beruf, as e so kleine Biawle un Maidele langsam, langsam züa sich ufe z’zieah? Ka das langwilig si, üs dane junge Menscheblüame süache Persönlichkeite z’ mache wu Kopf un Harz uf em rachte Flack han?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(ohne wärmeren Anteil)</stage>
+            <p>Güat, awer no der Schüal, wenn Sie so allei sin in Ihrem grosse, laare Schüal- hüs, so müaterseeleallei zwische viar Müre, do mian Sie jo allewag schier starwe vor ennui.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p><stage>(blickt träumerisch, ohne zu hören, in die Ferne)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(dringender)</stage>
+            <p>Häre Sie mich eigetlig, Monsieur Wacker? Voyons, an was danke Sie denn? <stage>(schüttelt seinen Arm)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(wie aus einem Traum erwachend)</stage>
+            <p>An was i dankt ha? Das will ich Ihne sage. Ich ha mer üs- gmolt, wia Sie eigetli racht han mit dam Alleisi. Wia viel saliger war ich no in minere Arwet, wenn i no dr Schüal eber hat, wu mich voll un ganz dat versteh. Wia garn dat ich mine Schüalfreide mit ere teile, wia wohl dat’s mer awer o mangmol, wenn i im e Wiwele klage kännt. wenn eim züa grosse Stei in Wag kämme un eim d' Fattig lahm warde.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(die ungeduldig zugehört)</stage>
+            <p>Eh bien, Monsieur Wacker, so mache Sie numme d' Auge uff, so e Angel müass z’ finde si.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(für sich)</stage>
+            <p>Dunnerschiass, jetz kas bol nimm ditliger warde. Wart Fischle, dü müasch-zapple, Strof müass si. <stage>(laut)</stage> Racht han Sie, toisigmol racht, so e Angel müass z'finde si. Un ich glauib, ass ich en scho gfunde ha.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(mit Spannung)</stage>
+            <p>Ach, un därf mer erfahre, wer das isch? Kenn ich en ebe, da Angel?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(lächelnd)</stage>
+            <p>O ja, racht güat sogar.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(noch erregter)</stage>
+            <p>Isch se vo hia?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(nickt zustimmend und immerfort lächelnd)</stage>
+            <p>Na- tirlig, se wohnt sogar in dam Hüs.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(freudig. kokett verschämt tuend)</stage>
+            <p>In dam Hüs???</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Sal dscho, in dam Hüs! Sie firt sogar am nam- lige Kalandertag Namestag wia Sie.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(aufspringend, breitet die Arme aus und will  Wacker um den Hals fallen)</stage>
+            <p>Mi liawer...</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(schnell einfallend)</stage>
+            <p>Numme riaft mer ihr LISA anstatt Elis.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(erbleichend, fassungslos die Arme sinken lassend,  stammelt:)</stage>
+            <p>I...i...i ha gmeint, se .. se.. heisst anderscht. <stage>(Nach und nach die Fassung zurückge- winnend, während W. sich an ihrer Verlegenheit weidet)</stage> Pardon, Herr Lehrer, i müass doch geh lüaga, wu der Babe isch. <stage>(ab. schlägt heftig die Türe zu)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(in schallendes Gelächter ausbrechend, sich  aufs Knie schlagend)</stage>
+            <p>Dunnerwatter, das gab i nit billig, hät das Fischle awer nat abisse, hahaha! Nei, so ebbis! <stage>(ernster)</stage> Eigetlig isch’s nit ganz schen vo mir gsi, das Kind so fir e Narre z’ha... <stage>(Geste)</stage> Ah bah, emol het em eis ufs hochmiatige Nasle g’härt! <stage>(Pause, dann nachdenklich:)</stage> Un du reste, es isch ganz güat, ass i zum Bichte ku bi, jetz isch’s dus, 'swar viellicht sunscht nia derzüa ku, ass ich mi em Lisa hat droje erkläre... <stage>(Schritte)</stage> Tiens, das isch der Herr Maire, i kenn en am Schritt. Güat, as mine Gschafte nit lang düre, sunscht bekam i am And d' Madame uf dr Buckel mit em Kochlöffel.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 10. Auftritt. </head>
+          <stage> Wacker, Maire.</stage>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Güate Tag, Herr Lehrer! Ich ha e bizi lang gmacht, hein? s’ Lisa het mi nit gli gfunde, i bi nam- lig no bim Nochber gsi, er het e kranki Küah,</p>
+          </sp>
+          <pb n= '33' />
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Oh, ’s macht nit, Herr Maire. Ich ha derwilscht d' kirzeschti Zit gha. Ihre zwei Mamselle han mi so lang unterhalte.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So, so. Un was ham mer Näis?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Nit viel! Die par erledigte Sache, ’s Budget, d' Fronrolle, ’s Gsüach wegenem Üffener Wag un e Dotzet Briaf an d' Sousprefecture.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Nundefütter! Numme e Dotzet? Dia meine alle- wag bol, d' Lehrer ware bloss fir d' Gmeinschriwerei uf dr Walt.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>So-ganz Unracht han Ihr nit, mr weiss bol nimme wuhar d' Zitt fir d' notwendigschti Vorberei- tung uf d' Schüal un d' noch netigeri Üsspannung. Enfin, unterschriewe die Papierer gli, awer lüage se zerscht dure <stage>(lächelt Maire an)</stage> i will se derno gli im Bot mitgah, wenn er dure kunt, nit ass is Adminis- tration am Samschtig wider ins Bulletin officiel setzt wias letschtemol.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(schon unter der Türe)</stage>
+            <p>Oh, wage salem starwe mer grad doch no nit. <stage>(Maire ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 11. Auftritt. </head>
+          <stage> Wacker, dann Lisa.</stage>
+	  <stage>Wacker (geht im Hintergrund der Stube sinnend auf  und ab).  Lisa (kommt von links herein und setzt sich vorn auf  einen Stuhl, ohne Wacker zu bemerken, dem sie den  Rücken kehrt. Lisa schluchzt herzzerbrechend, das  Gesicht in die Hände bergend). </stage>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(steht erstaunt still und sieht Lisa anfangs verwundert an, tritt dann schnell hinzu und sagt)</stage>
+            <p>Was han Sie, Mamsell Lisa, wu fahlt’s? Druckt Sie ebbis? Han Sie e Kummer? Hat Ihne ebber weh do? Harzle find ich nimmi uf dr Walt. Lüag, vorig scho, wu mer is iwer em Zumstein si Ideal unterhalte han, hat i dr garn mi Liab gstande. Also, gal, dü wit? Gal, dü seisch jo?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa :</speaker>
+            <stage>(die beim Klang seiner Stimme erregt vom Stuhle  aufgefahren, schaut jetzt verwirrt zu Boden)</stage>
+            <p>Nit, nit, Herr Lehrer. <stage>(will schnell ab)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(stellt sich vor die Türe)</stage>
+            <p>Nit, eso Mamsell Lisa. Ich loss Se nit üse bis i weiss, was Sie druckt. Viellicht kann ich halfe. -34'</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Nei, nei! <stage>(flehend)</stage> Lohn Sie mich geh, Herr Wacker. Unmiglig kann ich Ihne sage, was mers Harz so schwar macht, Ihne gar nit.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(schelmisch)</stage>
+            <p>So, so! Wenn ich’s awer errot?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Sie ? Unmiglig !!</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Mer wann sah. Lüage Sie mir emol ufrichtig in d' Auige, Lisa, Galte, Ihr Cousinle het Krach mit Ihne gha.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(erschrocken)</stage>
+            <p>Jesses, wuhar wisse Sie....</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(schnell)</stage>
+            <p>Un was het se welle mit Ihne?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(abwehrend)</stage>
+            <p>Nei, nei, froge Sie mich nit länger. I därf nit sage. ’s war wiascht vo mir, wu ich scho so viel Güats in dam Hüs gnosse ha, bsunders vom Unkel, do schickt’s sich schlacht fir mich, ewer üs em Hüs azschwärze.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(bittend)</stage>
+            <p>Wenn ich Se awer drum bitt. Ich frog gwiss nit üs Wunderfitz. Sahn Se, ich ka Sie nit so trürig sah, mache Sie’s Harzle doch lichter dur e freji Üssproch.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(die ihn warm angeblickt)</stage>
+            <p>Eh bien, Ihne will i vertroje. Sie sinn e Ehremann un dia kenne schwige. <stage>(Pause.)</stage> Was sell i do sage? Scho mangmol han i miasse lide unter de Lüne vo dr Tante un vum Elis, awer nia hat i klagt, nit emol im Unkel, i hat’s em nit welle z’Leid tüa. Awer jetz isch’s z’viel. <stage>(fängt wieder an zu schluchzen)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(warm)</stage>
+            <p>Nit grine, Lisa, ich ahn ebis. Un was Sie viellicht fir e Unglück alüage, kennt dr Himmel fir ewer in e gross Glick verwandle, Lisa <stage>(schaut Wacker verständnislos’an)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Ja, ja, 's isch eso. Awer jetzt verzehle Sie numme wieder.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Vorig bi i in dr Kuche gsi am Zoweasserischte. Do sin uf einmol d’Tante un’s Elis ku ineschiasse wia wild, wia wild, i ka nit anderscht sage. ’s Elis hat mit de Fischt <stage>(Geste)</stage> uf mi losgschlage <stage>(Wacker fährt zusammen und ballt unwillkürlich die Fäuste)</stage> un alle zwei han mich agschroje, ass i zerscht ke Wort verstande ha. Erscht no z’no bin i drüs ku: I säi e fül Maidle, anstatt z’ schaffe <stage>(verschämt)</stage> dat i numme de junge Manner Auige schicke un ene d' Köpf verdraje. I weiss gar nit, wu das üse will.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(für sich)</stage>
+            <p>Aha, awer ich!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Un ich säll’s Bindele rischte, am Suntig miasst i zum Hüs üs, si hatte jetz lang gnüa züaglüagt un so furt <stage>(schlägt wieder die Hände vors Gesicht und sinkt schluchzend auf einen Stuhl.)</stage></p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(rückt einen andern Stuhl neben Lisa, um-  fasst sie sanft, hebt ihr Köpfchen in die Höhe und  streichelt ihr das Haar; innig)</stage>
+            <p>Wie dank ich im Herrgott fir dia Stund! Wie froh bi ich, ass alles eso ku isch! Schmutze möcht ich im Elis si Hand, wu Sie gschlage hat, denn wenn das alles nit so ku war, hat ich jo nia d' Courage gha, fir Ihne z’ sage, was ich Ihne jetz sage will. Denn ass Sie’s wisse, Lisa, ich, numme ich bi schuld dra an allem, wu mer Ihne hit ato hat. Lisa <stage>(sieht Wacker erstaunt an)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Sahn Sie, firs kurz z’sage, Ihri Cousine hat mir vorhar soz'sage e Hirotsantrag gemacht. <stage>(Lisa fährt zusammen)</stage> Ich ha ihre awer z’versteh ga, ass ich scho gschoisiert ha, ass dü, dü, Lisa <stage>(ergreift ihre Hände)</stage> mi Ideal bisch. Lisa <stage>(ist erregt aufgesprugen)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(feuriger, zieht Lisa zu sich heran)</stage>
+            <p>Un jetz frog ich dich, kenntsch dü mich o e bizzele garn ha, Lisa? Wotsch? Datsch züa mer ziah ins stille, awer grad deswage so heimelige Schüalhüs? Wotsch mi harzig Wiwele warde? Wotsch ?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p><stage>(verwirrt, die Augen niederschlagend)</stage> O Gott, war’s möglig? 's ka jo nit si. 's war z’viel Glick fir so e arm eifach Maidle wia ich.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(sie stürmisch umarmend)</stage>
+            <p>Z’ viel Glick? O dü Schatz, dü harzigi Eifalt! Dü weisch jo nit, wie rich ass dü mich machsch mit dim guldige Gmiat. Fir mich isch’s z’viel Glick, fir mich! Denn so e rich en</p>
+          </sp>
+          <pb n= '36' />
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(vertrauend ihr Köpfchen auf Wackers Schulter  legend)</stage>
+            <p>Mi liawer Xavier! <stage>(lange innige Umarmung)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(nach einer Weile stillen Glücks)</stage>
+            <p>Un das mit diner Tante un mit em Elis säll dr jetz ke Kummer meh mache. In hechstens 3—4 Wuche müass mi defi- nitivi Anstellung do si, un derno, <stage>(freudig)</stage> derno mache mr Hochzit. <stage>(Neue Umarmung)</stage> Un bis därt ane gesch zu miner Müater, dia wird sich fraje, wenn ich ihre so e liabs, liabs Töchterle bring. Hit no red ich mit dim Unkel, ar isch e rachter Mann, er wird nit z’wider si.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(sich anschmiegend)</stage>
+            <p>O wia lab bisch dü zu mir, o, jetz därf is sage, vo Afang a han i di scho garn ka, Xavier, awer nia, nia hat i troje hoffe! Un jetz... jetzt! <stage>(fällt ihm nochmals um den Hals)</stage>. <stage>(Man hört Schritte.)</stage></p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>’s kunt ewer, Schatzele, wahrschints dr Unkel. So gang einstwile. Im e Rung ane kum i im grand tenue ku d' Iwilligung hole; derwilscht han d' Wibs- litt dr Unkel alewag vorbereitet. <stage>(Neue Umarmung, Lisa ab.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(im Eintreten)</stage>
+            <p>Do han i dia Briafe. Wenn numme emol das Gsüach mit dam Vizinalwag ebbis nutzt! Was doch wage dam Drackwag scho gschriwe worde isch. Was numme unseri Gmein scho derwage Tinte verschliergt het! Awer i glauib o, ass es in dr Höill ke schlachtere git, sunscht kennt dr Luzifär d' Lawes- mittel fir sine Gäscht nit züafiahre. <stage>(beide lachen)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Mr wann dasmol ’s beschte hoffe, Adje, Herr Maire.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Awer bliwe doch no e wenig. Ihr sie doch o pres- siert. Wann mer nit zerscht der Näi versüache? Allons! 37</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>E andermol, Herr Maire! <stage>(für sich)</stage> Nit ass | mer dia zwu d' Stimmung verderwe! <stage>(laut)</stage> Der Bot | müass allewag bol dureku. Adje, Herr Maire! |</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So, adje denn, Herr Lehrer. Kämme bol widder | z’ Stubete! | Vorhang fällt.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> Zweiter Akt. </head>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> Jörg, Katri.</stage>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(kauend)</stage>
+            <p>Jo, jetzt langt's! Dia ungschmälzte Pflüte sie no besser gsi as d’angere. Kumm Katri, i gib der derfür e Schmutz <stage>(küsst sie schallend und Katri erwiedert derb)</stage> Nundebuckel, un din Schmitz sin fascht no saftiger ass d' Pflüte. <stage>(nachdenklich)</stage> Weisch was, Katri? So e Fraui wie dü war mer grad racht. Do hat mer doch ebs fir si Gald. <stage>(umhalst sie)</stage>.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(wehrt sich, aber nicht.)</stage>
+            <p>besonder entschieden) Aber nei, dir sind ein!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(stürmisch)</stage>
+            <p>Sag jo, Katri, un bsinn di nit so lang! Dich eder keini! Wit mi? Dine Pflüte hai mers ado!</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Kati:</speaker>
+            <stage>(verschämt)</stage>
+            <p>Numme wage de Pflüte? ... Ich kumm nit lar in äier Hüs. Do! <stage>(holt einen Strumpf voll Fünfer unterm Küchenschrank hervor und leert ihn auf den Tisch aus)</stage> Sahn dr! Ich ka o spare. I hang nit an dr Gstate!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg :</speaker>
+            <stage>(begeistert)</stage>
+            <p>O Katri, Katri! So e Maidle gits kes me im Sungau! <stage>(küssen sich derb ab)</stage> Un jetz zum Meier, ass er di üszahlt. Und derno im Vater un dr Müater ergege. Dia warde lüage, wenn ich ne anstatt e Lisi e Katri bring.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(energisch)</stage>
+            <p>Eis sag i dir aber Jörg, sag im Maier nit vo dam, wu mer do vorig dur d' Wand dure uff- gschnappt hai.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(verständnislos)</stage>
+            <p>Was meinsch denn?</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>E... do ane <stage>(Zeigt)</stage>, wia unser Schüalmeischter unser Elis verwitscht het! Weisch, es sin doch alle- wil mine Meischterslit.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ke Bang! Ich ha iberhauipt nit ghärt. Ich ha gnüa mit de Pflüte Z'tüa gha. Wenn dü mir nit gsait hatsch... Aber kum jetz ku ipacke. ’s isch Zit, ass mer is uf der Wag mache. <stage>(Wie sie zur Tür hinauswollen, kommt der Maire herein.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>O do stacket dr? Was zum Kückück süachet dir denn in unserer Küche? Kämmet mit in dr Stall.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Gli, gli! Ich ha numme no ebs z’rede mit em Katri <stage>(beide ab)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(erstaunt nachblickend)</stage>
+            <p>Wia käme mir denn dia zwei vor? Ebbe...? Hahaha! Das war Nüdlawatter nit latz! <stage>(lacht schallend)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Maire, dann Amerei und Elis.</stage>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p><stage>(die mit Elis hereinschiesst, schreit)</stage> Ah, do stacksch! Wu bisch denn bigobbliger so lang gsi? Mir süache di scho a Rung in alle Ecke!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Wu i gsi bi? E zerscht bim Nochber siner Küah, derno hat i mit em Lehrer Papierer erledigt un nohar bi i e bizzi im Kaller gsi, jetz weischs. Un was gits denn, ― ass allebed so Auge machet wie firige Drache?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Ah, er isch scho furt, da nat Schüalmeischter? I ha mers doch dankt!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Meinsch der Herr Wacker? Was säll das heisse: Nater Schüalmeischter! Red! Üse mit!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Da Schinheilig! Da Wackes! Da Kaib!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Oho, oho, oho! <stage>(ironisch)</stage> Dü redsch fin fir so e Mamsell wia dü witt si!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Halts Mül vo dam jetz! Do ane müass er, da Halunk, do ane losch en ku, un uf der Stell!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Sal dscho, d' Auge üskratze tüa i em!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>E Nundebuckel, was isch denn do los? Dir machet eine jo Angscht!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(immer erregter)</stage>
+            <p>Sunscht macht er, wia wenn er der heilig Alisi war, da Kaib. Nia hat i glauibt, ass er e Maidle numme droit az’lüage, verschwige so, da falsch Jüdas.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(streng)</stage>
+            <p>Jetz üse mit, was isch passiert?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Was passiert isch? Meinsch nit, da nobel Ehre- mann, da Muschterlehrer, da Üsstich edder wia ihr im sunscht alle saget, het er nit vorig im Elis e schand- liger Atrag gmacht!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(verblüfft)</stage>
+            <p>Der Herr Wacker! <stage>(bestimmt)</stage> Sal isch e Lug, e elander Lug!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(weinend)</stage>
+            <p>I ha dir’s jo gsait, Maman, er hilft em no.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Sal wan mer doch sah, eb da Soikaib das dür dure schlupft. Abgsetzt müass er si, un uff der Stell.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Allez, allez, Amerei, red nit wia eini üs eme Karre. Un dü <stage>(zu Elis)</stage> verzehl mer das Dings vo A bis Z!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis :</speaker>
+            <p>Eh bien, Babe, derwilscht ass’s Lisa dich gsüacht het, han ich im ... im Herr Lehrer Gesellschaft gleischte.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Sag em doch nimme Herr, dam Lüader!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Still dü! <stage>(zu Elis)</stage> Witterscht dü!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Zerscht het er mer so schen gred, so gflatiert un Kumplimante gschnite. Derno het er mi glockt mit so firige Wort, ass es mir ums Harz ganz heiss worde isch. Wias z’arg worde isch, bin i üsgrisse un ha um Hilf gschroje.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(halb zweifelnd)</stage>
+            <p>I ha doch nit ghärt.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Natirlig, wenn dü sälsch here, hasch allewil Drack in de Ohre.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>E Babe, dü hasch jo salbscht gsait, dü warsch bim Nochber gsi.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Ja, da wohnt doch numme nawes a, i hats miasse häre.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(zu Elis)</stage>
+            <p>Härsch en widder, wia er em hilft. Oh, mir arme Wibslit! <stage>(schluchzt)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p><stage>(zornig)</stage> Wer hilft? Awer heiter sah will i, eb i ischritt.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Un Babe, weisch, so lüt ha i nit gschroje. i ha doch ke Skandal wälle. ’s isch jo so so schlimm gnüa, i ka nimme hia bliwe, i müass furt, dia Schand! Furt! furt! <stage>(schluchzt)</stage>. pee f -4 1-</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Bisch verruckt? E Schand fir dich? F ir ihn wars eine, nit fir dich! Eder steckt do am And ebbis anders derhinter? Hesch dü am And.....</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schnell)</stage>
+            <p>Was danksch, Babe? Sicher Babe, ’s isch wia i gsait ha, sicher! <stage>(weint wieder)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p><stage>(nachdenklich)</stage> Hm, hm, wer hat so ebs glauibt! Därf mer denn hit uf niame meh boje? <stage>(Pause)</stage> Ah, wag dam hat’s en furt driwe, hat er absolüt nit welle bliwe, ah, ah! <stage>(geht nachdenklich auf und ab)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Amerei und <stage>(blicken einander triumphierend an; beide:)</stage> Zum Dorf üse müass er, hit no, hit no! Fir was bisch Maire?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Oho, so schnall schiasse d' Präisse nit. Dü meinsch, e Lehrer säi numme e Scharmüser, wu mer vo hit uf morn ums Platzle bringe ka. Nei, nei, do wirds no harze, un wenn nit alles ufs Dipfele wohr isch <stage>(schaut beide zweifelnd an)</stage>, derno käje mir ine.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Numme ke Bang, ‘s Elis liagt nit. Un das ischs einzige Unglick nit hit. Meinsch nit, hett is nit da dirmlig Doddel ’s Katri abgspanschtig gmacht !</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zerstreut)</stage>
+            <p>Wer, der Lehrer?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Eh nei, bisch dü awer dumm hit. Da Jörg mein i, dr Pflütesack!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(sich erinnernd)</stage>
+            <p>Also ischs wohr?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Dü weischs scho? Ja, hirote tüat er se. I ha ene ufglost, wie se gschmüst han, Zum Totlache wars gsi, wenn mir numme widder so e Magd hatte.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Ah, ah, also han i racht dankt vorig, ’s isch mer numme nit gli iku.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Do stehn mer jetz nat do, mittel im Hardäpfel- üsmachet! <stage>(zu Elis)</stage> Hatsch ringer gsait, dü hatsch dia verwirkte Pflüte gmacht, Elis!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Wer hat an so ebbs dankt, Maman. Un los mi geh, 's isch mir nit ums Dispetiare.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Was het denn’s Katri eigetlig gsait drzüa? S</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Das? Lo schlacke het's sich wia e jung Katzl, da ramlig Aff!</p>
+          </sp>
+          <pb n= '42' />
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Hm, hm, do seht mer wider emol, ass d’alte Schire am ärgschte brenne, wenn se emol agehn. <stage>(Die Türe geht auf und die beiden werden darunter sichtbar)</stage> Ah, do käme se jo, dia Hochzitslit. Mer wann ene doch gli grateliere!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Die Vorigen. Jörg und Katri.</stage>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ja, Meier, Hochzitslit sin mer. Hein, das isch e ander Dundi ass äier Handschig <stage>(täschelt Katri dabei auf den Rücken)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lachend)</stage>
+            <p>I müass lache, ebs mer drumm isch edder nit. Sin dir zwei eigetlig verruckt?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p><stage>(beleidigt)</stage> Verrückt? Wie so. Ich find do nit verruckts dra. Dü Katri!</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Loss se doch lache, se häre allei wieder üf.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>E säll mer nit lache un Fraid ha, wenn d’Gscheid- heit und d' Schenheit mitenander en mariage trate?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>O schwiget numme dir, Jungfere Mamsell. Hein, mit aller äirer Gscheidheit un agmolti Schenheit <stage>(tupft dabei auf seine Backen)</stage> un mit samt äirem Walsch- babble het äich dr Schüal....</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p><stage>(hält ihm den Mund zu)</stage> Schwig doch, Plauideri! Jörg <stage>(reisst die Hand weg)</stage> Nit do, Katri, se hat mi scho z’viel gfoppt hitt, so dumm bin i nit, ass is nit gmerkt ha.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(hält ihm von neuem den Mund zu)</stage>
+            <p>Jörg <stage>(sich befreiend)</stage> Un i sags doch.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(forschend)</stage>
+            <p>Was wisset dir denn? Was isch mit em Schüalmeischter?</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Nit, nit, Meischter!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Doch, doch. Mir han vorig glost vor dr Türe, un han do fächterlig häre liage. <stage>(zu Elis)</stage> Wer het gschmüst eder glockt? Dir, dir! Wer het awer nit welle abisse un het äich verwitscht wie e Misle, dr Schüalmeischter.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Amerei zugleich Üse mit dam Liager! Liager, elander!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ah, so kämet dir bigüscht, ah! Alle Wort hets Katri ghärt, un ich e teil, jowohl.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schäumend vor Wut)</stage>
+            <p>Nit hesch ghärt, Cochon! Üse mit dir! <stage>(Schiebt ihn fort)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(schreiend)</stage>
+            <p>Un’s isch doch eso, dir sind no ender e ramliger Aff, ass’s Katri.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(schiebt mit)</stage>
+            <p>Fracher Kaib! Wiaschter Liager! Nit han Ihr kenne here, suscht hat ichs im Rumpel- kammerle o miasse here.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(befreit Jörg)</stage>
+            <p>A, dir hait äis üfglost, ah! Aber do hait dir halt numme Ohre gha fir äis. Un derno danket dir nit dra, ass därt no e Gang derzwische isch, aber in der Chuche nit. Ah, dir hait glost. I hat nit gsait, aber jetz schwig i o nit. Ja, Meischter, ’s isch eso wia dr Jörg gsait het. ’s Elis het gloge wia e Säihandler.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(spottend zu Elis)</stage>
+            <p>Ah, so isch des Dings. A Korb het er dir ga, der Herr Wacker, dir, wie em no vor e paar Monet e Notari nit emol güat gnüa gsi isch, wenn mer dich un di Müâter ghert het? I bi doch wunderfitzig, was das fir e Herr isch, wie sich vo äich losst fange.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(zornig)</stage>
+            <p>Ja, mir wann lüage. Awer dam elande nineninziger un dam Dundi, wie im dr Kopf verdrait het, will is zeige. Z’ leid hirotet ’s Elis jetz e Notari, z’ leid, numme ass da schen, da nowel, da ordlig Herr Wacker verspringt vor Wüat. Kum Elis, do han mir- nit meh verlore. <stage>(ab mit Elis)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(nachrufend)</stage>
+            <p>Wenn ar mit em Verspringe uf di Notari därf warte, wird er allewag älter ass dr Me- thusalem! <stage>(für sich)</stage> Gott sei Dank, ass das Dings: eso isch, do hat i dam güate Herr Wacker bol Unracht do. Awer derno Gnad dir, Liagere! <stage>(ballt die Faust)</stage>. Jörg <stage>(räuspert sich stark)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Ah so, dir sint no do. Was wann Ihr denn no!</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Aber Meischter, dir sind mer doch no dr Lohn schulig fir e ganz Johr!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(verlegen kratzend)</stage>
+            <p>Aber pressiert denn das eso? —</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Sal dscho. morn scho lehn mer is aschlah, gal Katri?</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Je ender, je liaber, wenn mer emol so lang gwartet hett.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Zerscht müass awer doch dr Vater z’fride si, nit?</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Oh, da git scho no, d' Müater hilft mer scho. Also, üse mit dam Mumes!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(noch verlegener)</stage>
+            <p>Ufe gstande, i ka dato nit! Dir miant warte, bis i d' Frucht verkauft ha.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Ah so sind dir ein, das isch nit latz.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <stage>(entschieden)</stage>
+            <p>Ich loss mi Meischter nit schalte, Jörg, verstange? Ar isch nit d' schuld. Un das Gald lauift is. nit furt. Der Maier git is dr Zäis dervo, galet dir? Maire <stage>(nickt)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Wage mir, so warte mir no meh. Mr hais jo nit eso netig. <stage>(beide ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Auftritt. </head>
+          <stage> Maire. Lisa.</stage>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(hat sich nachdenklich auf einen Stuhl gesetzt.)</stage>
+            <p>Wia doch das ka ku. Jetz han i mi Labtag ghüst un gschafft un müass jetz no z’schande steh vor ere Magd!!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(reisefertig eintretend, einen Handkoffer in der  Hand, geht auf den Maire zu)</stage>
+            <p>Adje, Unkel <stage>(schluch- zend)</stage> Vielmol merci fir alles Liawe un Güate, wu Ihr mir arme Maidle allewil anto han. Ihr wenigsch- tens hans doch allewil güat gmeint mit mir.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(perplex, aufspringend)</stage>
+            <p>Ja, Dunnerschiass, was isch dann do wieder los? Was will di Red sage? Wu witt ane in dr Suntigkleider un mit eme Reissack?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Was Unkel, Ihr wisse nit? Isch’s miglig? Ah, Ihr wisse nit, ass se mich üs em Hüs triewe han?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(verwundert)</stage>
+            <p>Üs em Hüs triewe? Dich? Wer?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(aufs neue schluchzend)</stage>
+            <p>D’ Tante uns Elis wann mi nimme dulde. Ich säi z’fül, i tat’s Brot nimme verdiane, sage se; enfin, se han mer z’versteh ga, ass se mich do han i....</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(wütend)</stage>
+            <p>Dü z’fül? Dü, dü! <stage>(auf und ab mar- schierend; dann vor Lisa stehen bleibend)</stage> Dü z’fül, dü, wu hinte un vorne sich alles im Hüs drait um di, hahaha! Nei, Maidle, das isch nit alles. Do stackt ebs derhinter, wu dü mir nit saisch. <stage>(versucht zu scher- zen und fasst sie am Kinn)</stage> Zeig, sags im Unkel.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(sich losreissend)</stage>
+            <p>Nei, Unkel, i ka nit.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Aha, i ha’s doch dankt. Jetz awer loss i erscht racht nit luk. <stage>(schliesst die Türe ab)</stage> Dü gehsch do nit üse, vor eb dü bichte hesch.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(gequält)</stage>
+            <p>I ka nit, i scham mi fir’s z’sage <stage>(verbirgt das Gesicht an seiner Schulter)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Dü schamsch di? Dü? Un vor mir? Allons, ebs schlachts droj ich dir nit züa, un sunscht, bin ich nit allewil wia e veritabler Vater gsi züa dir? <stage>(Hebt ihren Kopf hoch)</stage> Lisa, zeig, bisch ufrichtig.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Also denn, wenns nit andersch ka si, ’s isch wage- nem Herr Wacker,</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(gedehnt)</stage>
+            <p>Wagenem He.. He.. Herr Wa.. a Wa..cker ? Lisa <stage>(nickt stumm)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Ja, was hat denn da mit dir z’tüa? Wit dü en am And o aschwärze bi mir?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(sich verstellend)</stage>
+            <p>Sal dscho, er isch e Schelm.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(mit offenem Mund)</stage>
+            <p>Ä Schelm !?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>'s stimmt, Unkel, e Schelm, awer numme ein, wu dr Maidle d' Harzle stiehlt.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(erleichter)</stage>
+            <p>Ah so! Hm! Ja un derno, un dü?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(immer lächelnd)</stage>
+            <p>Ass er im Elis hit e Korb ga het, wisse Ihr?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Jojo, ebe weiss ich’s!</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Eh bien, er het’s gmacht, will er.. will, eh jo, will...</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Was will? liawer hit scho ziah sahn ass morn, un</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(schnell)</stage>
+            <p>Will, will er mich garn het.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(schlägt die Hände zusammen)</stage>
+            <p>Hit fallt allewag no dr Himmel zamme! Ah so, jetz seh i heiter ! Wartet, dir Zatze! Wartet! <stage>(ballt die Fäuste)</stage> So, so, vo do kunnt dia Wüat uf dr Herr Wacker, vo do?... Numme ke Angscht, Lisa. I merk, ass dü nit nei gsait hesch züa em. Eh bien, fir was warsch mi liab Niècle! Dü blibsch do bis ihr zwei hirote. Lisa <stage>(wehrt ab)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Abgmacht, fertig! Potz Nundebuckel, wia mich das frait! Ke besserer Mann hat ich dir kenne winsche, awer i weiss o, ass dr Lehrer mit dir ‘s grosse Loos zoge het, wenn dü o ke Millionäre bisch. Abgseh dr- vo, mit lare Hand loss ich di grad o nit ins Schüal- hüs ziah, fir sal loss numme mich sorge.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(fälllt ihm um den Hals)</stage>
+            <p>Dü güater Unkel!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(wischt die Augen)</stage>
+            <p>Loss doch!... Un jetz kumm numme wieder zu unsere Wibslit. Mir wann doch sah, wer do im Hüs d’Hose ahet. <stage>(beide ab)</stage>.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> Dritter Akt. </head>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> Bannwart, Velofahrer, Zigeuner, dann Maire.</stage>
+	  <stage>(Bannwart tritt gesucht stramm auf, trägt Säbel und Po-  lizeimütze, sonst ist er bäuerisch gekleidet. Er bringt  einen Velofahrer und einige mit Geigen versehene Zi-  geuner samt deren Weibern und Kindern in die Küche.  Die Zigeunerweiber tragen die Kinder auf dem Rücken.  Einige Burschen und Mädchen der Rasse sind ebenfalls  darunter. Lebhaftes Kauderwelsch beim Eintreten. Den  Bannwart hört man bereits draussen poltern, eine er-  regte Stimme (Velofahrer), der zuletzt eintritt, ant-  wortet.  fasst sich aber schnell; (für sich) Quelle miracle,  e Zeiche vum Himmel! (auf Schaber zueilend und  ihm die Hand schüttelnd, mit gekünsteltem freudigen  Schreck) Eh, lüag do, dr Herr Schaber, si je ne me  trompe pas. Sin Sie’s, mi compagnon de voyage eder  sin Sie's nit?</stage>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p>Do bliwe er jetz alle schen binenander, ich will geh dr Maier hole.</p>
+          </sp>
+          <sp who="#ziginerburscht_und_ziginermaidle">
+            <speaker>Alle:</speaker>
+            <p> <stage>(schreien wild durcheinander; ein Zigeuner ver- sucht mit dem Velofahrer einen Geigenhandel. Ein paar Weiber visitieren heimlich die Schubladen, da- runter die Älteste, Geisha.)</stage> </p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(mit Bannwart hereinkommend)</stage>
+            <p>Do sin se, Toni? Worum zum Kückück fiahrsch dü dia Bande grad in d’Kuche? Ass se racht kene müse? <stage>(zu Geisha)</stage> Zei- get Alti, was han dir dscho im Firtüech?</p>
+          </sp>
+          <sp who="#geissa">
+            <speaker>Geisha:</speaker>
+            <p>Nix, nix, Missie <stage>(hält zu)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(greift zu und zieht einige Päckchen hervor)</stage>
+            <p>Aha, das isch vo unserem Kneippkaffee, da kenn i am bsundere Zeiche. San dir Toni, was dir agrichte han.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p>He, i ha dankt, se date sunscht d' Stube drackig mache.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(ärgerlich)</stage>
+            <p>Ihr han allewil so iwergscheite Ifall, Toni. ’s isch nit nutz, wenn e Weibel z’viel dankt. Also, redet jetzt, was isch eigetlig los mit dene Vegel?</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <stage>(wichtig tuend)</stage>
+            <p>Dia ganzi Bagage do han i in de Reyrawe atroffe. Erscht geschter han i därt e Tafele ufgstellt, ass der Durmarsch verbote isch, wil d' Triwel bol zitig sin. Un da Rotkopf därt <stage>(Velo- fahrer tut entrüstet)</stage> het vorhar in dr Halle ’s Eierfine vo Rauschbi zammegfahre. Mer kennt bi- güscht Eierküache mache uf em Wag nümero pfiff <stage>(schnalzt)</stage>.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(der Velofahrer, kokett gekleidet, rothaarig)</stage>
+            <p>Ihr brücha äich uflo mit äire Triwel. Mer kennt jo no Spatze schiasse mit un z’ Altkirch gits scho Näjer.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(spöttisch)</stage>
+            <p>E, was dir nit saget, e, e ! Awer hof- fetlig sin das unsere Sache, eb mer Rawe wann halte eder nit. Mir rede no mit enander. I will zerscht dia do <stage>(deutet auf Zigeuner)</stage> abschifele. <stage>(zu Zigeuner)</stage> Han dir nit kenne lase, ass mer nit dur d' Rawe därf?</p>
+          </sp>
+          <sp who="#ziginerburscht_und_ziginermaidle">
+            <speaker>Zigeuner:</speaker>
+            <p><stage>(gestikulieren wild und kauderwelschen)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Rüah! <stage>(macht energisches Zeichen)</stage> Nundefuter, so rede allewag d' Gselle vum Herr Lüzifar, Kenne dir nit ditsch?</p>
+          </sp>
+          <sp who="#micki">
+            <speaker>Miecki:</speaker>
+            <stage>(radebrechend)</stage>
+            <p>Ich se kann se, Herze Bückel- meischter.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Aiso redet, worum sin dir dur d' Rawe!</p>
+          </sp>
+          <sp who="#micki">
+            <speaker>Micki:</speaker>
+            <stage>(auf Schaber zeigend)</stage>
+            <p>Grosses, rotes Mensch sein gangen vor mich, sein ich so nachgehüpft, Herze Bückelmeischter un sein nachgommt alle sammen.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So, so. Ja kenne dir nit lase? Dir sind doch all- wag o emol in d' Schüal gange! Hia allewag sin alle paar Tag so Vegel in dr Schüal fir unsere Kinder Lis az’hanke. Dacki: Sehn Se, Mizziö Bürgelmeizi, wir sie gehn so sweimal oder dreimal in der Monet in de Sul, da lern nit viel. Ei Mizziö Lehr makt grad runde Buchßtab, so welsch, e aner so mit Hek, so dütsch, do weiss arm Ziginer nit, was gilt.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lachend)</stage>
+            <p>Das ka ich mir grad danke. <stage>(zu Katri, die eben mit Jörg hereingekommen)</stage> Gehnt Katri, holet dane arme Kaibe eis z’trinke.</p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Das goht mi nit meh a, Meischter. SST</p>
+          </sp>
+          <pb n= '49' />
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(geärgert)</stage>
+            <p>E Nundefuter, das hat gwiss im Däifel ke Ohr abgfrasse, mein i. So gang i halt salbscht. <stage>(zu Zigeunern)</stage> Kämmet mit in d' Stuwe. <stage>(ab mit Zigeunern)</stage>.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(zu Katri)</stage>
+            <p>Han dir awer e färchterliger Bammert! Da lüagt jo no schnauiziger dri ass unser Schandarm, hett saller gsait.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <stage>(stolz)</stage>
+            <p>Das geht äich e Kas a, Koltri! Wenn me so e wichtig Amtle het, ka mer nit allewil siass lüage, sunscht geht dr Respakt bläite.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Awer äich lo schmiere, därt hat dr Respakt nit dergege, hein?</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p>Wer? Ich? Nia !</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(lachend)</stage>
+            <p>Das isch güat! Han Ihr mir nit vo- rig 10 Sü wälle ablüse? Han Ihr nit gsait, Ihr datte derno d' Auige züadrucke? Passe uf, ich lang äich ein.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <stage>(ängstlich)</stage>
+            <p>Nei, galet nit, Herr, dir saget im Maier nit, er isch gar ein. Dir wardet doch e armer Familievater nit welle ums Brot bringe, galet nit! 's isch jo numme Gspass gsi.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Ah, lüag emol do, wia heflig dam Mann uf eimol der Schnawel gwachse isch! Nit do, im sous-prefet verzehl is, wenn i am Samstig züa em gang fir en z’rasiere.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <stage>(jetzt trotzig)</stage>
+            <p>Ach, dir sind so ein, so e Sehureputzer, so e hochnasiger! Will dir der Sü- prefakt rasieret? Bah, wage mir kennet dir’s im Präsident z’ Paris verzehle. In sinere Heimat warde d' Bammert grad so güat e Sü dernave z’ verdiane süache, wie im Sungau. Vu was wot mer sunscht Tüwak kauife fir d' Pfife?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(wieder hereintretend)</stage>
+            <p>So, un jetz zu äich, Velo- fahrer! Saget dir viellicht o, dir kennet nit lase, wia die Ziginer?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(in spöttischem Ton)</stage>
+            <p>He nei, Herr Maire, so- viel han i in der Schüal grad scho glehrt. Awer in dr Geographiestund het mer halt niames gsait, ass do im Pfirter Amt no Rawe sin, un do han i halt nit gross acht ga.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Awer d' Rawe seht mer doch, mer ka doch nit driwer käje!</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Sehawer:</speaker>
+            <p>Ich bi halt mit andere Gedanke bschaftigt gsi, un do han i se tatsachlig nit gsah.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p>Un dia Tafele vorne am Umrank, dia han dir doch gwiss miasse sah, wenn dir nit blind sin.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Heh jo, i ha so e Gschribs gsah, bi awer nit gscheit worde drüss!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(belustigt)</stage>
+            <p>Do han dir’s Toni!</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <stage>(beleidigt)</stage>
+            <p>Nit kenne lase? Un ich has doch salbscht gschriwe, un no derzüa mit gotische Büach- stawe.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Gotisch eder hollandisch, i bi miner Träi nit drüs ku.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zum Bannwart)</stage>
+            <p>Das kunt dervo, wenn mer so- e gscheiter Bammert het. Hattet's bigott ringer mit so Kirsehäcke gmolt, derno hat er ke Üsred. — Awer wia ischs gsi mit dare Frau?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>I ha ere d' Eier zahlt un unschuldigerwis, uf mi Seel! Schalle ha i ere nit kenne, denn sie isch mer do nite ab em Velo käit, awer gschroje un pfiffe han i wia bsasse, doch die Fraui isch nit abzite.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(erregt)</stage>
+            <p>Brücht se o nit, hat se nit notwandig! Absolüt nit! Sin denn hitigestags d' Wag numme do, ass mer äich Velofahrer un dane barepelzige Stink- karreherre druf üswiche müass. Boiet sackermant eigene Strosse eder gehnt z’ Füass, wia unsereiner o, wenn dir nit kenne langsam fahre. Worum sin dir eigetlig so schnall gfahre? Het’s brennt?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Sal grad nit, awer 's het mi sunscht ebs triwe.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Üse mit! Mir wann lüage, i strof nit garn, wenn i nit müass.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Eh bien, äich kann is jo sage. Ich bin vor e paar Wuche mit ere Mamsell vu hia Isebahn gfahre, Elie het se gheisse.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(verdutzt)</stage>
+            <p>Elis han dir gsait?</p>
+          </sp>
+          <pb n= '51' />
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Ja, Elis het ihre ewer grüefe. Sie isch salmols uf Altkirch zum Masson gfahre fir e Büach z'hole, glauib i.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zuckt zusammen, für sich)</stage>
+            <p>I wett, das isch un- seri Mamsell gsi.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Dia hat mer gfalle wia no kenni in mim Lawe, un das düat ebs heisse bi me Mann, wu d' Walt gsah het wia ich.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Un han dir se siterhar nimme gsah?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Nei, ebe nit, awer gschriwe han i ere scho e paarmol. Se hat mir merkwirdigerwis no nia Antwort ga. Un doch han i salmols gmeint, sie dat sich e wenig interessiare fir mi. Wage dam han i emol welle lüage, eb ihre am And ebs passiert isch. Do bi i in der Gedanke an se allewil schnaller un schnaller gfahre un ha halt nimme schnall gnüa kenne halte, wu dia Fraui mir im Wag umeglofe isch.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(für sich)</stage>
+            <p>Elis! Alkilch! Büach gholt! Ke Zwifel 's isch se! <stage>(laut)</stage> Zeige, sage mir e wenig, wia se üsgsah het, die Mamsell, viellicht ka ich äich derno dr Wag wise.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(begeistert)</stage>
+            <p>Üsgsah? Grad wia e Angele, e fini Taille, rote Backle, blitzblanke Zehn, wenn se glacht het.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(für sich)</stage>
+            <p>Bigüscht, ‘s isch se. I kenn se an de rote Backle, an sine agstrichene un an sinere Waschbe- weiche. Do bi i awer jetz gspannt wia e Gigesaite <stage>(laut)</stage> Un was han dir denne jetz im Sinn, hein?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Mi Harz mächt i ere ku z’ Fiasse lege, denn siter salmols ka i nimme riawi schlofe. <stage>(Die Türe geht auf.)</stage> Elis kommt herein mit dem Gesicht gegen den Flur gewendet. Sie sieht also Schaber nicht. Sie spricht gegen draussen.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Un ich sag, ich hirot der nechscht wu kunnt. I wart uf ke Notari, ke Iziger un ke Akotheker. Viellicht kam emol so e alter Kracher. E junger will i, e junger, säi er was er will un wia er will un dermit basta. (schlägt die Türe zu und dreht sich um; sie erblickt Schaber, den sie zuerst mit offenem Mund anstarrt,</p>
+          </sp>
+          <pb n= '52' />
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(freudig)</stage>
+            <p>Natirlig bin i’s, Mademoiselle Elis, awer wia.....</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Voyons, das isch e surprise! Quel rencontre! Was verschafft uns dia grand’honneur?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Grad so frog ich, dur was fir e glickliger Züa- fall ich Sie do im Hüs vum Herr Maire find! Sin Sie ewe....?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>’s Tächterle vom Hüs? Natirlig! Han is Ihne denn salmols nit gsait?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(sich vor die Stirne schlagend)</stage>
+            <p>En vérité, main- tenant je m'en souviens, wie kann mer awer so ebbs vergasse! Um so dankbarer bin i dam Züafall, wu...</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Mit dam han Sie mir alls no nit gsait, weller hasard ass Sie meine.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Fir d' Wohret z'sage, Mademoiselle Elis, Sie han i gsüacht. <stage>(Elis tut verschämt)</stage> Un do ewe isch mer der Witz passiert, ass mich Ihr Bammert därt arretiart het; denn voyez-vous, Mademoiselle Elis, will ich do allewil numme an Sie dankt ha, han i nim uf d'r Wag acht ga, un do han i Ihre hl. Rawe- bode betrate un no gar d' Eierfraui mit samt ihre Eier zammegfahre, meine Se, do hets üsgsah! Un jetz wann sie mi ufs wenigscht hanke, wenn nit gar la- wandig brote derwage.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(zu Maire)</stage>
+            <p>Awer Pape, das isch doch der Herr Schaher vu Alkilch, weisch, i ha dir jo von em ver- zehlt.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(für sich)</stage>
+            <p>Ke Schnüf! Awer hit wird gloge, ass d' Schwarte krache, viellicht nutzt's ebs. <stage>(laut)</stage> Doch, doch, 's kunnt mer jetz. Ach, dir sind’s, Herr Schaber, do müass i äich no merci sage, ass dir salmols im Elis d' langwilige Isebahnfahrt so kurzwilig gmacht han.</p>
+          </sp>
+          <pb n= '53' />
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(entzückt)</stage>
+            <p>Oh, Herr Maire, ’s isch garn g'schah. <stage>(für sich)</stage> Quel heureux hasard!</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p><stage>(zum Maire)</stage> Ich seh scho, Herr Maier, do gits wider ke Zigegald z’ Pfirt, un i ha mi no so gfrait, ass i wider emol hat känne Tüwak kauife. Dir wisset jo, d’Alti blacht nit üse fir so Sache.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Oh, wenns numme das isch, do, voilà fir e paar Packle <stage>(gibt ihm Geld)</stage>; Ihr han mir jo dr Wag zeigt zu mim Glick.</p>
+          </sp>
+          <sp who="#_bannwart">
+            <speaker>Bannwart:</speaker>
+            <p><stage>(freudig)</stage> Merci, merci, Herr, wage mir där- fet dir e so alle Tag dur d’Rawe! <stage>(ab)</stage></p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Un mir wann dankwohl o geh, Katri, hein? Kämmet, Maier, haltet is dr Vater iwerrede. Er kunt allewag bol, denn er het gsait, er säig zobe do. Do sin mir doch z’viel, i merk’s scho. Tüant numme dam rote Musje am Zug e Retourbillje lese, denn da kunt no emol, da passt zu äirem Lisi exakt wie e Stil zu ere Schüfle. <stage>(lacht; ab mit Katri und Maire)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Elis und Schaber, dann Amerei.</stage>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Was isch denn das fir a patron gsi?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Oh, lehn Se ne doch geh, qu’est-ce que cela nous fait? Mir sin allei, Monsieur Schaber, grad wia sal- mols im coupé. Mer meint, me dat e Roman lase, wie sunderbar ass uns der hasard hit do zammegfiahrt het.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Un ich glauib, es isch so ku, will mir allewil anenander dankt han. Do han sich unsere Geischter azoge, 's isch spiritisme,</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Vom spiritisme weiss i grad nit, wisse Sie, dia näje Mode brüche gar viel Zit bis zu uns do hinte dure. Awer wenn Sie's sage, wird’s wohl so si; denn sahn Sie, Monsieur Schaber, i ha e granzelos Vertroie zu Ihne.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(geschmeichelt)</stage>
+            <p>Oh, Mademoiselle Elis, ich...</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Ja, un mit em dra danke, das han Se nat gsait. Ich allewag han’s e so ka, je vous assure <stage>(für sich)</stage> Uf e Lug mehr kunts jetz nimme a.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(entzückt)</stage>
+            <p>Un wia bin i Ihne erschiene, Made- moiselle Elis?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Gwehnlig, wenn i als e natte Roman lies, so vo zwei verliabte Turteltiwle, do mol ich mir als üs, wia wenn Sie der amoureux ware un ich das Kind, wu nem 's Harz gstohle worde isch. Denn Sie wisse grad so agnahm z’redde wia so richtiger Romanheld.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(ihre Hand fassend)</stage>
+            <p>Sie mache mich züa stolz, Mademoiselle Elis; awer ich gsteh mir gehts als grad wia Ihne. Wenn ich als lies, wia in Angland eder Frankrich d’Frauje sich ufschwingewann, wia sie sich frei wann mache vu dr Sklavefessle, wu se hit noch trage, do dank i allewal an Sie.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(stolz)</stage>
+            <p>Awer nei! Sie stelle mich z’hoch.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Z’ hoch? Emil, sag i als züa mir salbscht, Emil, kennsch dü nit o so eini, wu sich üs ihrem Stand himmelhoch ufegschwunge het! Kennsch nit eini, wu ihre Geischt, ihre Talante im Sungoi owe müass verbarge wie sich e Väjele unter de Därn ver- steckt? „Emil“, so riaf i mir als derno züa, „kenntsch dü denn nit mache, fir da Starn am Sungauihimmel an e Platz z’stelle, wu er zündet?“</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(zu Boden schauend)</stage>
+            <p>Ich glaib Sie z’versteh. Sahn se, vorgeschter han i e scheni Gschicht vom Zola glase, wia e Paarle sich im coupé kenne lehre het, un wia derno langsam, langsam ihre Harze han afange z'brenne bis se z’letscht nimm han kenne läsche. Do sin mir ganz sunderbari Gedanke kumme.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(in Ekstase)</stage>
+            <p>Un was firige denn, Elis? Oh, martere mich nit länger!</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(kokett)</stage>
+            <p>Wia wars, han i dankt, wann d' Harze vu zwei gewisse Lit o date afange z’brenne. Set mer acht derno läsche? Sott mer?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(Elis erregt umfassend)</stage>
+            <p>Oh, nei, numme das nit, no blose, blose müass mer, ass es no meh brennt. Do därf mer numme e so läsche. <stage>(küsst Elis leiden- schaftlich)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(den Kuss geschäftsmässig erwiedernd)</stage>
+            <p>Mia liawer Emil!</p>
+          </sp>
+          <pb n= '55' />
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Mia harziger Angel! <stage>(lange Umarmung)</stage>. <stage>(Während derselben stürtzt Amerei in höchster Erregung herein und drängt die beiden voneinander. Die Hände auf den Hüften schaut Amerei die beiden mit blitzenden Augen an, indem sie donnert:)</stage></p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Oho, oho, oho! Do will ich o derbi si. Üse mit dir, dü roter Putzemummel! <stage>(zu Elis)</stage> Ender ass ich dich mit dam... mit dam, dam Rotkopf loss hi- rote, dam Hargloffene, ender riss ich dir d' Hoor üs un ihm derzüa. <stage>(spôttisch)</stage> Han Ihr gmeint? Äh, äh, därt Roter het dr Zimmermann ’s Loch gmacht <stage>(geht drohend auf ihn los)</stage>.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(entschieden)</stage>
+            <p>Wenn ar geht, gang ich o.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(rasend Elis am Halse packend)</stage>
+            <p>Was tüasch dü, Schnuderding?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(so gut es geht schreiend)</stage>
+            <p>Ich bi ke Schnuderding meh, ich bi bol siebe.... <stage>(hält sich erschrocken den Mund zu)</stage>.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Was, no umeschnauize, dü wiaschti Zatz? <stage>(schüttelt Elis)</stage> Isch das der Dank derfir, ass ich bim Vater allewil di Partie agnu ha, hein? Dü datsch’s mer glauib z’leid, ass er mi kennt üslache!</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Aber Madame....</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(lässt Elis los und wendet sich wild gegen  Schaber)</stage>
+            <p>Halt! d’Gosche, dü Schirebirtzler! Bisch iwerhauipt no do? Üse mit dr, üse, üse! <stage>(drängt ihn nach der Türe)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Die Vorigen; dann Maire, Jörg und Katri; sie kommen  durch die andere Türe. Jörg und Katri tragen Bündel.  Katri hat einen langen „Kittel“ an und ein grosses Hals-  tuch, eine altmodische „Kappe“ (nicht Hut!) und derbe  Lederschuhe.</stage>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(im Hereingehen)</stage>
+            <p>Mer kenne jo drinne warte. Mir packe derwilscht eins, <stage>(dann verwundert)</stage> Was zum Kückück isch denn do fir e Spektakel?</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Meinsch nit, da Affegingel do möcht 's Elis hi- rote. <stage>(spöttisch)</stage> Wia gfallt er dr, da Herr Tochter- mann?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>He, ufs Üssah allei kams grad nit a, wenn er sunscht e rachter Mann war.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(wütend)</stage>
+            <p>Ach, pfifft dr Wind üs dam Loch? Mächtsch lache iwer mi, Schambedischt, hein?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(ernst)</stage>
+            <p>Sal isch z’dumm, ass ich wage so ebs 's Lawesglick vo mim anzig Kind dat ufs Spiel setze.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Dia schene Sprich kasch bhalte, Alter!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Schene Sprich? ’s isch mi bitterer Arnscht. Un wenn dü dir dia Sach iwerlegsch, wirdsch mer am And racht ga.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Do isch nit z’iwerlege! !</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Dine hohe Plan kasch in Rauich hanke, sal wirdsch bol salbscht isah. E Amtsrichter, e Notari un so Herre, dia pfiffe uf unser Elis. D’ Gschicht mit em Lehrer kennsch o. Fir e Bür awer eder fir e Handwarker vum Dorf isch se nit ufezoge, das weisch so güat wia ich; bi so Lit heisst's: Dribisse. Do blibt nit ass in e Gschaft vu enere Stadt hirote. Eh bien, Amerei, da Herr isch Rasierer z’Alkilch <stage>(Amerei zuckt zusammen)</stage>.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Pardon, Herr Maire, ke simple Rasierer, e coiffeur.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(schnell einfallend)</stage>
+            <p>Awer Pape, er isch doch coiffeur, das isch ....</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Jo, jo, ich verstand mi, wenn i mit mer red, also wage mir Coiffeur, das war grad so ebs firs Elis. Do hats nit viel z’mache <stage>(zu Schaber)</stage> Nit wohr?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>‘s isch eso, Herr Maire.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Eh bien, das dat passe, denn wisse n'r, zum schaffe isch’s Elis nia bsunders aghalte worde. <stage>(beiseits zu Amerei)</stage> ’s war e gfunde Glick, wenn mer merkt, ass er güat steht; <stage>(laut zu Schaber)</stage> Dir sahnt, ich bi ufrichtig, awer wage dam wardet dir jo nit räig warde. Ich mein numme, was für e Büersfraui netig war. das ka’s nit. Koche un so Dings, wus bi äich dat brücha, das war no z’lehre. By</p>
+          </sp>
+          <pb n= '57' />
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(eifrig)</stage>
+            <p>Gwiss, gwiss. Bi unserem Gschaft isch d' Hauptsach dr Geischt fir d' elientele z’ unter- halte, un da han i bi Ihrer Tochter gfunde; do kann ich doch nit o no verlange, ass se noch alle qualité von ere grosse ménagère het.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(misstrauisch)</stage>
+            <p>Ménagère? Han dir am And no e Menagerie? Sal war latz. Fir äire Lewe z’fiatere gab ich äich mi Tochter nit.</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Awer Pape, e ménagère isch doch e Hüshaltere, gal, ‘s Franzesche nutzt eim doch ebs.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(erleichtert)</stage>
+            <p>Ah so!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Un ich sag, grad wage Ihrem Geischt gib is nit züa. Wenns o grad ke Notari gsi war, awer doch wenigschtens e Mann, wu’s si savoir vivre, wia mer seit, hat kenne zeige. Awer so, brr! Bim hiasige Bart- putzer rede se nit as vo Mischt un vo Hardäpfel, das isch dr ganze Geischt, un z’Alkilch wirds nit an- dersch si.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Awer, Madame, Sie han jo ke...</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(eifrig)</stage>
+            <p>Awer Mame, dr Herr Schaber isch doch ke so gwehnliger Bartputzer wia hia der alt Hans- heiri. Er steht e Leitere hecher! Zu ihm kämme lüter gebildete un noble Herre: dr Kreisdirakter, d' Herre vum Gricht, vum College, vum Zoll, vu dr Poscht un vum Isebahn, d' Lehrer, dr Owerfärschter, d' Gen- darme, d’Inamer, d' commergants, d’Fabrikante, enfin, tout, tout ce qu'il y a de chic, er hets mer salmols im Isebahn verzehlt, weisch, wu mer mitnander allei gfahre sin. Lüag, Maman, do kennt di Töchterle grad eim zeige, was es in zwei Pensionate <stage>(Blick auf Schaber)</stage> glehrt hat.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p><stage>(beiseits)</stage> Dasmol wil i schwige. Amarei: <stage>(freundlicher)</stage> Isch das awer o wohr?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Wort fir Wort! Un so e Fraui, wia Ihre Toch- ter, sahn Se, dia war fir mi Gschaft e Vermöge wart. Dia dat aziage, do kame dia Herre no liawer wage dr sini conversation mit der Madame as fir wider süfer z'warde. Ich brüchte ke Zitung meh, pour sur, denn d' Mademoiselle Elis dat scho fir Gsprachstoff sorge.</p>
+          </sp>
+          <pb n= '58' />
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(geschmeichelt)</stage>
+            <p>Das isch ebs andrs. Jetz bin i o derfir.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Halt, Amerei, jetz bisch dü z’ schnall! Zerscht mian mer doch e mangs wisse, dr Charakter, eb er Religion het un so Dings. Dü weisch jo, in de Städt git’s hitigestags so viel neimodische Heide, un so ein war mir als Tochtermann halt doch nit willkumme.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Ah, wage salem därfe Sie nochfroge in Alkilch, wu Sie wann.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Das war racht. Awer derno müass mer doch o wisse, wias mit em Ikummes steht? Nit ass mir schliasslig ’s Elis mit samt äich miasste erhalte un no e paar Krabbe derzüa. Alo, wia steht äier Gschaft? Han Ihr Gselle ?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Nei, awer se kamme. I ha e grossi Kundschaft, i ka alle Monet so 100 Franke reiner bénéfice rachne.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Hm, hm, 100 Fr., do han dir allewag e eige Gschaft?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(verlegen)</stage>
+            <p>He nei, awer’s kunnt. I ha dankt, jo... i wart numme ....</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(schnell)</stage>
+            <p>Ebe uf d' Ehstier vo ere riche Frau ? Do waret dir bi uns latz. Das will ich äich gli sage; i bi nit so schwar, ass i schin.</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(vielsagend lächelnd)</stage>
+            <p>Sie spiele numme dr Bscheide. Mer seit nit vergawe, dane wu klage, sott mer namme uns dane gah, wu riahme.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(halblaut zu Katri)</stage>
+            <p>Ähä! Da ka geh süge am Fir- tüachbandel, was meinsch Katri? <stage>(Die beiden haben bald gespannt.gelauscht, bald wieder gekost.)</stage></p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>Sal d’scho! Dane chunnts amet no angerscht. Nu, Jörg, äiss chas jo e chillig si !</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(mit bösem Blick auf Maire, ihm einen heim-  lichen Rippenstoss versetzend)</stage>
+            <p>Ganz racht, Herr Schaber! D’ Sprichwörter rede gwehnlig wohr. Wenn mr im Elis natirlig o ke Million kenne in d' Eh ga, e nater Batze isch doch do <stage>(Geste)</stage>. Awer as gebil- deter Mann wisse Sie jo, ass’s Gald allei nit glicklig macht. — Zeige, sage emol d' Wohret, was gfallt äich denn so bsunders am Elis?</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(begeistert)</stage>
+            <p>Alles! Alles! Wennisag! D’ Bil- dung, ihr savoir vivre. Sahn Se, Madame Maire, ’s isch fir e Mann wia unsereins doch ebs anderscht, e Fräui z’beku, wu im Pensionat gsi isch, wu Sinn fir progres un Ideale het.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(für sich)</stage>
+            <p>progres in dr Mode un im Fälsche!</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>As so eifaltig Dundi, wu nia üs em Bann ku isch un wu numme hischt un hott kennt.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(strahlend)</stage>
+            <p>Hasch shert, Vater? Hein, das isch emol anderi Müsik! Kumm an mi Harz, mi Tochter- mann! <stage>(Küsst ihn und Elis)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(für sich)</stage>
+            <p>I will schwige, sunscht wird er am And wider räig!</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <p>Was brummsch?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Nit, nit! I ha numme nograchnet im Kalander wagenem Hochzitstag. Wenn wars äich liab?</p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <p>Schaber und Je ehnder, je liawer! <stage>(umarmen sich und dann Maire)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So wann mer dann sage, hit in viar Wuche. Un jetz en avent in d' eweri Stube, pardon Elis, in dr Salon han i welle sage, mr wann därt geh dr Wi- kauif trinke <stage>(alle schicken sich zum Abgehen)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Auftritt. </head>
+          <stage> Die Vorigen; Wacker, dann Lisa. (Während die Vorigen noch unter der Türe stehen,  stürzt zur andern Wacker herein, schwenkt einen Brief  ìn der Hand.)</stage>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(ruft)</stage>
+            <p>Andlig isch se do! Andlig!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(sich umkehrend)</stage>
+            <p>Holla, Herr Lehrer, dir sind jo ganz üs em Hisle. Was täifels isch do passiart? <stage>(Maire kehrt wieder zurück.)</stage> Die andern drängen neugierig nach.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Do, voilä, grad vor ere Minüt hat se dr Bot bracht.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Was denn?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>E mini definitivi Astellung, Ihr wisse jo! Wu isch....? <stage>(sucht mit den Augen)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lächelnd)</stage>
+            <p>Wer süache dir, Herr Lehrer, am And unser Lisa?</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(ihn verdutzt anschauend)</stage>
+            <p>Wuhar wisse Ihr ..?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lächelnd)</stage>
+            <p>’s wird scho so sie.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(begreifend)</stage>
+            <p>E so nu denn, Herr Maire, äire luschtige Auge verrote äich. Da ischs o nimme netig, ass i zerscht gang geh grand tenue mache. Ihr sin d'r Mamsell Lisa Vogt. Eh bien, wann Ihr mir äler niècle avertroje?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(wie in Verlegenheit sich kratzend)</stage>
+            <p>Ja, do müass i halt ewer anderscht froge. Lisa! Lisa! Lisa <stage>(hinter der Szene)</stage> Gli, Unkel! <stage>(Kommt eilig herein, um bei Waekers Anblick errötend zusammenzu- schauern)</stage>.</p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p><stage>(fasst sie bei der Hand und zieht sie vor den Maire)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(komisch ernst)</stage>
+            <p>Also Lisa, unser sunscht so braver Lehrer isch uf eimol e Schelm worde. Er mächt absolüt stahle. Un meinsch wer? Dich! Witt dü dir das gfalle lo?</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <stage>(lehnt ihr Köpfehen an W. Brust)</stage>
+            <p>Jo, Unkel, vo so me liawe Schelm scho.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>So gant enander e Schmutz, Kinder! <stage>(gerührt)</stage> I ha in dane zwanzig Johr, wu i Maire bi, scho e mang Paarle zammegah, awer no nia het mers Harz eso glache wia bi äich <stage>(küsst Lisa und drückt Wacker derb die Hand)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(wieder in lustigem Ton)</stage>
+            <p>Un do, nit ass dir meinet, dir waret hit allei glieklig, do stell ich äich mi züakünftiger Tochtermann vor, der Herr Schaber vu Altkilch un do dr Jörg uns Katri, dia sin zerscht einig gsi, awer’s wird no harze bis dr alt Hanstiawelt jo un Amen sait.</p>
+          </sp>
+          <sp who="#lisa">
+            <speaker>Lisa:</speaker>
+            <p>Wacker un <stage>(anfangs baff)</stage> fassen sich rasch und gratulieren.</p>
+            <pb n= '61' />
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <p>Awer nei, was fir e Üwerraschung! Hit isch jo. dr reinscht Wundertag!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Un was,fir ein! Allons, Amerei! Wi do ane, ass mir kenne astosse. Mr bliwe jetz in der Kuche, si isch gresser as d' Stuwe. Ich hol d' Ziginer ine, hit müass do no danzt warde; denn siter as Schendorf steht, isch so ebbs no nit vorku, ass es drei Hochzite an ein Tag ga het, das isch wider ebs fir der Züamstei. <stage>(Ab mit Amerei.)</stage> <stage>(Die drei Paare kosen miteinander je nach Na- turell: Lisa und Wacker innig, Elis und Schaber leer, auffallend, Jörg und Katri derb.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Auftritt. </head>
+          <stage> Die Vorigen. Maire, Amerei, dann Zigeuner, endlich  Hanstiawelt und Mariurs.)</stage>
+          <sp who="#amerei">
+            <speaker>Maire und Amerei:</speaker>
+            <stage>(bringen Gläser. Der Maire schiebt  die Zigeuner hinein)</stage>
+            <p>So, sin dir jetz emol do, so miant dir o mit Gsundheit trinke. Hit därf do inne niames laar üsgeh. Un nohar giget dir is e Tanzle uf. <stage>(zur Gesellschaft:)</stage> Hein? <stage>(Alle geben laut ihrer Zustim- mung Ausdruck. Die Zigeuner stimmen die Geigen. Wie Maire einschenken will, treten Hanstiawelt und Mariurs in die Stube.)</stage></p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt und Mariurs:</speaker>
+            <p>E, e, e! Lüag emol do, isch Kilbe do inne?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Sal nit, alter Frind, ebbis luschtigers, Hochzit, eder wage mir Verspruch.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p>Hochzit? <stage>(freudig)</stage> Also hat’s dr Jörg das dür doch ane bracht? Un di Maidle hat also nit dergege?</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lachend)</stage>
+            <p>Nei, nei, das war doch e züa unglich Paarle gsi, fir dia in ei Joch z’spanne. Do, i will se vrstelle: Unser Lehrer, der Herr Wacker un mi niècle, ’s Lisa. Un do, der Herr Schaber vo Altkilch un unser Elis. <stage>(Schalkhaft auf Jörg und Katri deu- tend)</stage> Un do, därf i dia zwei o vorstelle? Dr Jörg uns Katri, unseri Käche.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <stage>(wie erstarrt, dann polternd)</stage>
+            <p>Was seisch? E Magd? As Suhnsfraui? Unser einziger Suhn e Magd! Im Labe nia!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(gelassen)</stage>
+            <p>Wie wenns ’s erschte Mol war, ass e richer Bür e Magd hirotet! Zeig, Hanstiabelt, wieviel Kröninger Büre han ihre Magd g’hirote? Mehr as e halb Dotzet. Un han se sich nit all güat bettet dermit? Sie han doch Wiwer beku, Schaffere, ke Gstaatepuppe un Zuckerschlackere!</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p>I ka nit 's Gegeteil behaupte, aber.... nei, i bi jo wia vum Himmel gfalle!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(warm werdend)</stage>
+            <p>Nundefutter, wer hat mir hitte morge gsait, ass ich z’ Mittag dat firs Katri dr Brüt- warber mache! Awer ’s isch bigobbhliger eso. Ebis Unrachts geht mer emol nit! Lüag, Hanstiawelt, 's Katri bringt im Jörg ke zeh Jürde Acker uf e Fald, awer ebbis hets doch. I weiss, es het die zeh Johr, wus bi is isch, a nats zammegspart. Un was i sage müass, e schafrigiri un hurtigeri Fraui findet di Jörg nimme. Dia düat em in zeh Johr mehr erhüse, ass e mangi richi Büredochter in d' Eh bringt, wus viel- licht derno wieder dur d' Finger gingle losst.</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Härsch Vater, so sag emol „jo“. Lüag ’s Katri un ich wann äich un d' Müater halte wia zwei Sügsäile, gal Katri. <stage>(Alles hält sich den Bauch vor Lachen, Hanstiabelt und Mariurs inbegriffen.)</stage></p>
+          </sp>
+          <sp who="#katri">
+            <speaker>Katri:</speaker>
+            <p>alle Fritig dat i Pflüte mache, e ganzi Wanne voll!</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <stage>(noch immer lachend)</stage>
+            <p>streckt beschwörend die Hände aus: Um Gotteswille, ich heiss nit Jörg, liawer trocke Brot!</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(sich vor Lachen schüttelnd)</stage>
+            <p>Do härsch, Hans- tiawelt, wia güat ass düs bekunnsch uf dine alte Tage.</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <stage>(zu Mariurs)</stage>
+            <p>Was meinsch, Müater, es wird is am And nit iwrig bliwe, ass dane zwei der Sage z’ gah ?</p>
+          </sp>
+          <sp who="#mariurs">
+            <speaker>Mariurs:</speaker>
+            <p>Ich bi scho lang iverstande. Ich glauib em Maier. Dam Maidle seht mers a, ass es ka Fülanzere isch. So e Hilf kenne mine alte Bei güat brüche. ―63―</p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p>E so mira denn, Jörg, so nimm di Katri. <stage>(Alle klatschen dröhnend Beifall.)</stage></p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p> <stage>(stösst wilden Jauchzer aus, schwingt dann seine Katri in die Höhe und gibt dann Katri, Vater, Mutter und nachher allen Anwesenden, auch den Zigeunern, einen derben Kuss, was alle lachend geschehen lassen.)</stage> </p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(klopft ans Glas)</stage>
+            <p>Un jetzt hewet ech an de Gleser! Allez, dir Schnurrante, griffet o züa! Jetzt losst ei Paarle 's andere hochlawe! Unsere Hochzits- litt, sie selle lawe hoch, hoch, hoch! <stage>(Alle haben um den grossen Tisch einen Kreis gebildet und singen nun dreimal: Sie leben hoch... und stossen während dessen miteinander lachend an.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Awer jetz wird eis gwalzt! Allez, Amerei, heb di am Tisch. <stage>(Tisch wird an die Wand gestellt.)</stage> <stage>(Die Zigeuner spielen lustige Weisen. Die drei Paare drehen sich nach Temperament. Jörg jauchzt dazwischen. Maire und Mariurs, Hanstiabelt und Amerei drehen sich eine Weile mit.)</stage></p>
+          </sp>
+          <sp who="#dacki">
+            <speaker>Wacker:</speaker>
+            <stage>(in einer Tanzpause)</stage>
+            <p>So, jetz e extra Gross- vaterwalzerle fir unsere züakinftige Grosspapa un Grossmamma. <stage>(Die Alten tanzen kurzen Extrapolka)</stage>.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(zu Mariurs)</stage>
+            <p>Mer merkt wohl, ass mer nimm conscrit sin.</p>
+          </sp>
+          <sp who="#geissa">
+            <speaker>Geisha:</speaker>
+            <stage>(ist während der Extrapolka von einer Braut  zur andern und hat ihre Handlinien betrachtet; jetzt  zu Lisa gewendet)</stage>
+            <p>Du wirst begommen viel Kind. <stage>(Alles lacht.)</stage></p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <p>Dr Herr Wacker miasst scho üs dr Art schla. Das tian doch d' Lehrer nit anderscht! <stage>(Schallendes Gelächter.)</stage></p>
+          </sp>
+          <sp who="#geissa">
+            <speaker>Geisha:</speaker>
+            <stage>(zu Elis)</stage>
+            <p>Un du wirst hab drei gross vornehm Sönn. Ein wird sein Schandarm. bös Find vo arm Zigin. <stage>(Lachen.)</stage> Un e Dochter wirst begomm, heirat reich Notari.</p>
+          </sp>
+          <sp who="#maire_vu_schondorf">
+            <speaker>Maire:</speaker>
+            <stage>(lachend zu Amerei)</stage>
+            <p>Hesch ghert, Alti, dr Notari kunnt doch no in d' Familie.</p>
+          </sp>
+          <sp who="#amerei">
+            <speaker>Amerei:</speaker>
+            <stage>(triumphierend)</stage>
+            <p>Han is nit allewil gsait?</p>
+          </sp>
+          <sp who="#geissa">
+            <speaker>Geisha:</speaker>
+            <stage>(zu Katri)</stage>
+            <p>D’ Madam wird nur hab ei Sun, awer sein viel gscheit, gross gscheit. <stage>(Lachen.)</stage></p>
+          </sp>
+          <sp who="#hanstiabelt">
+            <speaker>Hanstiabelt:</speaker>
+            <p>Er miasst bigott nit der Eltere noschla. <stage>(Neues Lachen.)</stage></p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(fragend zu Geisha)</stage>
+            <p>Am And no gscheiter as si Vater?</p>
+          </sp>
+          <sp who="#geissa">
+            <speaker>Geisha:</speaker>
+            <stage>(nickt zustimmend)</stage>
+            <p>Wohl, wohl!</p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <stage>(zu Hanstiabelt)</stage>
+            <p>Galet, Vater, so e Sun han dir ken ka! <stage>(Schallende Heiterkeit.)</stage></p>
+          </sp>
+          <sp who="#jorg">
+            <speaker>Jörg:</speaker>
+            <p>Was lachet dir, dir Doddel? Allez, Müsikante, giget is no ein, do isch e Taler! <stage>(Tanz wie anfangs. Jörg schwenkt Katri jauch- zend in der Luft. Dann phantastischer Fandango der Zigeunerburschen und Dirnen. Jörg und Katri ahmen das komisch nach.)</stage></p>
+          </sp>
+          <sp who="#elis">
+            <speaker>Elis:</speaker>
+            <stage>(Schaber in den Vordergrund ziehend) </stage>
+            <p>Wu Schick un Esprit sich üniare</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <p>Do wird gwiss ’s Labe interessant. Elise: Wenn mir un d' Klient conversiare,</p>
+          </sp>
+          <sp who="#schaber">
+            <speaker>Schaber:</speaker>
+            <stage>(begeistert)</stage>
+            <p>Do heisst’s bi all: ’s isch epatant. <stage>(Alles klatscht dröhnend Beifall.)</stage> <stage>ENDE</stage></p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

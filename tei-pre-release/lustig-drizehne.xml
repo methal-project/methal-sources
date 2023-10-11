@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dr Hochzitstag</title>
+        <title type="sub">Monolog mit Gesang</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-134"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Dr Hochzitstag</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="edi" sex="M">
+            <persName>Edi</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <set><p>'s Theater stellt e Salon vor mit Tisch, Stiehl, Kanepee etc. ... drei Thüre: links, rechts un hinte, rechts e Spiegel un owe dra ne Ühre; uf em Stüehl unte-n-an dr Ühre ne wisser Hàndschig.</p></set>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#edi">
+          <speaker>Edi</speaker>
+          <stage>(kunnt-hinte-n-ine-n-im Frack un wisse Hàndschig, er
+                        hat e Liecht in dr Hand un stellts uf dr Tisch)</stage>
+          <p>Endlig sin jetz uns're Hochzitsgäst emol heim geh
+                        schlofe un ich bin allei, ass ich doch ka mine-n-Idee
+                        ne wenig z'àmmesüeche!... g'hirothe siter dà Morge-n-am
+                        Elfe!... isch's denn wirklig wohr un isch mi Wunsch, mi
+                        heisser Wunsch, denn wirklig in Erfillung gange!...
+                        nei, 's isch kei Traürn, denn do isch jo dr Eh'ring...
+                        siter am Elfe dà Morge isch 's Lenele mi Fraü...
+                        d'Hochzit hà mr dunte g'halte, im Erste, bim Lenele
+                        sin're Tante... 's isch jetz dert, 's Lenele, in dr
+                        Schlofstuwe<stage>(er zeigt links)</stage> 's zieht si Kranz ab!...
+                        ich ha-n-em awer versproche, ass mr ne-n-ufbewahre
+                        unter eme Globe, ass kei Staüb dra kunnt... tiens... do
+                        ligt ein vo sine Hàndschig... 's isch schint's noch do
+                        g'si im Salon, vor ebb's ins Schlofzimmer isch... 's
+                        isch ewe vor mir ufe, un vor ebb's gange-n-isch,
+                        ha-n-ich ihm miesse verspreche, ass ich nitt vor de
+                        Zwölfe-n-in d'Schlofstuwe kumm...<stage>(er lüegt uf si ühre)</stage>
+                        's isch jetz halwer!... o mi Lenele!... ihr
+                        känne-n-eüch kei Begriff mache, wie gern ass ich's
+                        ha!... das Ding hat scho lang dürt im Stille... ich
+                        hätt's ihm scho lang gern g'sàit... doch endlig am
+                        letschte Ball hat's üse miesse... ich hätt nimmig
+                        langer känne schwige...
+                    </p>
+          <pb n="717"/>
+          <lg>
+            <head>G'sang</head>
+            <l>Lieb Kind, ha-n-ich ihm g'sàit,</l>
+            <l>Dü bisch allei mei Freid,</l>
+            <l>Ich ka jetz nimmig si,</l>
+            <l>Wenn ich nitt bi Dir bi;</l>
+            <l>Wenn Dü mich gern witt ha,</l>
+            <l>So lüeg mich zàrtlig a</l>
+            <l>Un zeig mir in Dim Blick</l>
+            <l>Mi allergrösstes Glick.</l>
+          </lg>
+          <lg>
+            <l>Ohne Dich</l>
+            <l>Wàr fir mich</l>
+            <l>Alles leer,</l>
+            <l>Um mich her,</l>
+            <l>Doch mit Dir</l>
+            <l>Làchelt mir</l>
+            <l>Alles do</l>
+            <l>Gar so froh!</l>
+            <stage>}bis</stage>
+          </lg>
+          <p>Un jetz isch's mi Fraü!... mi Fraü!... wie mich das
+                            possig dunkt, wenn ich sag « mi Fraü »... ich müess
+                            mich jetz halt doch dra g'wöhne... 's isch doch
+                            ebbes schön's um d'Liewe... un doch isch's
+                            sunderbar!... z'erst ha-n-i 's Bàwele gern g'ha...
+                            derno 's Gretele... uf eimol awer ha-n-i 's Lenele
+                            gern biku... awer jetz spir i, ass es fir allewil
+                            isch... doch b'sinn ich mich jetz, ass ich 's
+                            gliche g'spirt ha bim Bàwele un bim Gretele...
+                            enfin, was will me halt... 's isch in dr Natür...
+                            's Lenele isch 's' schönste Kind, wo me will sàh...
+                            wà mir glicklig si mitnander do owe in unserm
+                            kleine Paredies!... denn gross isch 's nitt, 's
+                            isch wohr... e-n-Esszimmer, e Schlofzimmer un e
+                            Salon... was brüche mr mehr?... Ich hätt nie
+                            glaübt, ass 's Paredies g'macht isch mit
+                            eme-n-Esszimmer, e Schlofzimmer un e Salon... mr
+                            brücht schint's kei Garte, un we mir Aepfel esse
+                            wànn fir 's Dessert, so hat uns dr Hüsmeister erst
+                            nitt emol nit z'sage in unsrem do... <pb n="718"/> sunscht kinde
+                        mir em uf...<stage>(er lüegt uf si Ühre)</stage> erst fünf Minüte ab halwer... wie die Zit so langsam umme geht... o was fir e Tag... ich ha g'meint, er will kei End meh nàh!...</p>
+          <lg>
+            <head>G'sang.</head>            
+            <l>Vor ebb dr Tag isch kumme,</l>
+            <l>Laüf ich jetz hit scho umme,</l>
+            <l>Ich ha schier d'ganze Nacht</l>
+            <l>Vor Freid kei Aüg züeg'macht;</l>
+            <l>Ich ha mir d'Hoor lo stutze</l>
+            <l>Un gli dr Kopf lo putze</l>
+            <l>Un ha mich bol derno</l>
+            <l>Züer Brüt heimfiehre lo,</l>
+            <l>Was fir e Tag un was fir Cumplemente!</l>
+            <l>Ich ha schier glaübt, er will gar nimmig ende;</l>
+            <l>Bol dert, bol do</l>
+            <l>Sin d'Cüsin un d'Verwandte</l>
+            <l>Uns zwei als no,</l>
+            <l>Hàn uns nitt rüehig g'lo!</l>
+            <l>Do hat nit g'nutzt,</l>
+            <l>Se hàn d'Brüt g'schmutzt,</l>
+            <l>Ich hätt bol trutzt</l>
+            <l>Mit de Frind un Bekannte,</l>
+            <l>Do hat nit g'nutzt,</l>
+            <l>Se hàn d'Brüt g'schmutzt,</l>
+            <l>Ich hätt bol trutzt;</l>
+            <l>Ich allei ha nitt g'schmutzt!</l>
+          </lg>
+          <p>Dr grosse Lipps b'sunders, dr Cüsin vo minre Fraü...
+                            hein, wie-n-ich's jetz scho g'wohnt bi, fir z'sage
+                            « mi Fraü »!... Dr grosse Lipps, denn b'sunders
+                            isch im Lenele nog'schliche dr ganze Tag... er
+                            hätt's ewe-n-o gern, g'hirothe... awer « schüit »<stage>(er fahrt mit em Finger unter, dr Nase durch)</stage>ich ha-n-em gli g'sàit, « De brüchsch Di nitt z'melde mit Dim Kopf wie ne dicke Riewe... De fallsch derdur, Lipps »... d'abord ha-n-ich scho ne <pb n="719"/>schönere Position...<stage>(stolz)</stage> Chef de Bureau!... un derno, ohne mich z'flattiere, bin ich glaüb o ne wenig besser...<stage>(er b'schaüt sich im Spiegel)</stage> décidément, jà, ich bi viel besser... dr Lipps isch e Tapp-ins-Mües... hat er nitt hit, wo me-n-em hat welle am Esse dr erste Wi ischenke, sie klei Glasle präsentiert... er hat g'sàit, er will 's grosse b'halte fir dr Güete!... er ka-n-en ewe vertrage... hinte-n-un vorne-n-isch er hit allewil um 's Lenele-n-ume gsi!... un am Dessert hat er natirlig o welle de Strumpfbàndel hole... dert ha-n- ich ne awer derno verwischt... denn wo-n-er unter em Tisch grübt isch, so ha-n-ich uf emol meine Bei üsg'streckt un bin em derno, ass wie par hasard, an si grosse Nase g'stolpert...</p>
+          <lg>
+            <head>G'sang.</head>
+            <l>Ich ha's ganz güet g'merkt am Tisch,</l>
+            <l>Ass er will dr Bàndel hole,</l>
+            <l>Wo-n-er drunter krobelt isch</l>
+            <l>Wie ne Schelm, eso verstohle.</l>
+            <l>Ich ha ihn derno</l>
+            <l>Noch viel mehr glaüb g'hasst,</l>
+            <l>Ha-n-em awer o</l>
+            <l>Wege dem ufpasst,</l>
+            <l>Hat scho ebber g'sàh</l>
+            <l>Denn scho so ne Klette?</l>
+            <l>'s müess d'Geduld dem nàh,</l>
+            <l>Wo am liebste spasst!</l>
+            <l>Wart nur, ha-n-ich denkt,</l>
+            <l>Das isch Dir nit g'schenkt,</l>
+            <l>Un ha-n-ihm eso</l>
+                        <l>Ein's uf d'Nase g'làngt!</l></lg>
+          <p>Ich ha mich halt derno natirlig glich excüsiert...
+                            du reste, 's sin nur Vernischüeh gsi... g'wiss...
+                            me macht sich kei Idee, was eso ne-n-armer
+                            Hochziter müess dure mache!... dà Morge scho, wo
+                            mir üs dr <pb n="720"/>Kirche ku sin, hàn se durchüs alle welle
+                            spazierefahre uf Habse... ich wàr liewer d'heim
+                            bliwe... oder mit em Lenele-n-allei uf Habse
+                            g'fahre... wenn se mi derno noch hätte lo züe-n-em
+                            sitze in dr Kütsche!... awer nei... es isch in eim
+                            Ecke gsi un ich im and're uf dr and're Site!... se
+                            hätte mi glaüb uf dr Bock mache z'sitze züem
+                            Kütschner, wenn se hätte känne!... und derno... hàn
+                            se mir nitt noch hit z'Owe d'Bettlade üsnander
+                            g'strübt, die Halunke!... awer eso fin, as wie sie,
+                            bin ich o noch... vorig, ebb mi Fraü ufe-n-isch,
+                            bin ich g'schwind noch emol geh lüege dowe, eb
+                            alles in Ordnung isch... un bi derno uf das Ding
+                            g'rothe un ha se wieder inander g'strübt... uf die
+                            Art, wenn derno die Herre meine... hà hà hà... so
+                            meine se ganz làtz... wer z'letscht lacht, lacht am
+                            beste!...<stage>(er lüegt uf si Ühre)</stage>noch zwanzig Minüte!... se wird doch ebbe nitt steh?... <stage>(er lost)</stage> nei... 's macht tic tac, tic tac... as wie mi Puls... er geht famos schnell, mi Puls... ich glaüb, ich ha 's Fiewer.</p>
+          <lg>
+            <head>G'sang.</head>            
+            <l>Wenn dr Puls eso schnell schlat,</l>
+            <l>Heisst's, me hat's im höchste Grad,</l>
+            <l>Wo kunnt das bi mir jetz her?</l>
+            <l>Isch's nitt ung'fàhr, <stage>(bis)</stage></l>
+            <l>Wil mr 's Lenele so zart</l>
+            <l>Blickt hat uf e g'wisse-n-Art,</l>
+            <l>Wo bim Tanz, satt an ihm a,</l>
+            <l>Ich 's Hàndle-n-ihm druckt ha?</l>
+            <l>Froh un glicklig si mir galoppiert druf los,</l>
+            <l>Hand in Hand, 's isch jetz e Viertelstund nur blos.</l>
+            <l>Wie im Sturmwind hat is d'Müsik mit si gnu,</l>
+            <l>Un so ka me 's Fiewer scho biku;</l>
+            <l>Wenn dr Puls eso schnell schlat,</l>
+            <l>Heisst's, me hat's im höchste Grad,</l>
+            <pb n="721"/>
+            <l>Wo kunnt das bi mir jetz her?</l>
+            <l>Isch's nitt ung'fàhr, <stage>(bis)</stage></l>
+            <l>Wil als bis am Zwölfe z'Nacht</l>
+            <l>'s Fiewer g'wöhnlig Progrès macht?</l>
+            <l>Das isch o bi mir dr Fall,</l>
+            <l>Ich spir's jetz iwerall!</l>
+          </lg>
+          <p>Mr wànn awer hoffe, ass es wie alle Fiewer gege
+                            Morge wieder abnimmt...<stage>('s schlat zwölfe-n-uf dr Wandühre, dr Herr
+                                Liebling zählt un schaüt derno uf sine)</stage>Eh... ich ha jo erst dreiviertel!... un doch ha-n-i alle beide mitnander g'richtet dà Morge... <stage>(er lacht)</stage> aha, ich merk's... 's Lenele-n-isch do gsi un hat se ne Viertelstund fire g'richtet... Hàndschig hat's verrothe!... <stage>(er läscht 's Liecht)</stage> Güet Nacht... schlofe wohl <stage>(er springt ins Schlofzimmer).</stage></p>
+        </sp>
+        <pb n="722"/>
+      </div>
+    </body>
+  </text>
+</TEI>

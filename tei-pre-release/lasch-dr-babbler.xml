@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'r Babbler</title>
+        <title type="sub">Volksstück in drei Szenen von Gustav Lasch</title>
+        <author key="wikidata:Q96634160">Gustav Lasch</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">nan</idno>
+        <idno type="methal" xml:id="mtl-064"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109532j</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:nan">Gustav Lasch</author>
+            <title type="main">D'r Babbler</title>
+            <title type="sub">Volksstück in drei Szenen von Gustav Lasch</title>
+            <publisher>J. H. Ed. Heitz (Heitz &amp; Mündel), Straßburg</publisher>
+            <date when="1911" type="print">1911</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="frackel">
+            <persName>Fräckel</persName>
+          </person>
+          <person sex="M" xml:id="fritz">
+            <persName>Fritz</persName>
+          </person>
+          <person sex="M" xml:id="muller">
+            <persName>Müller</persName>
+          </person>
+          <person sex="M" xml:id="bechler-lehn">
+            <persName>Bechler-Lehn</persName>
+          </person>
+          <person sex="M" xml:id="schwind">
+            <persName>Schwind</persName>
+          </person>
+          <person sex="M" xml:id="merkel">
+            <persName>Merkel</persName>
+          </person>
+          <person sex="F" xml:id="vermicell">
+            <persName>Vermicell</persName>
+          </person>
+          <person sex="M" xml:id="rederer">
+            <persName>Rederer</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#frackel"><role><persName>Fräckel</persName></role>, <roleDesc>Schnidermeischter</roleDesc>.</castItem>
+        <castItem corresp="#fritz"><role><persName>Fritz</persName></role>, <roleDesc>siner Gsell</roleDesc>.</castItem>
+        <castItem corresp="#muller"><role><persName>Müller</persName></role>, <roleDesc>junger Kaufmann</roleDesc>.</castItem>
+        <castItem corresp="#bechler-lehn"><role><persName>Bechler-Lehn</persName></role>, <roleDesc>Schüemacher</roleDesc>.</castItem>
+        <castItem corresp="#schwind"><role><persName>Schwind</persName></role>, <roleDesc>Autoverkaifer</roleDesc>.</castItem>
+        <castItem corresp="#merkel"><role><persName>Merkel</persName></role>, <roleDesc>Hisermakler</roleDesc>.</castItem>
+        <castItem corresp="#vermicell"><role><persName>Vermicell</persName></role>, <roleDesc>Katzemame</roleDesc>.</castItem>
+        <castItem corresp="#rederer"><role><persName>Rederer</persName></role>, <roleDesc>Hausmieter</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> I. Szene. </head>
+        <stage>(Auf dem großen Schneidertische fitzt Fritz mit gekreuzten Beinen und näht an einem Paar hosen.)</stage>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage> (unwillig)</stage>
+          <p>Versüere möcht mer im Essikrüj. Jetz isch’s nine zmorjes un der Meischter isch schun wider furt. Küm het er de Café getrunke, macht er sich uf d' Reis un geht mit sine Neüigkeite un dauwe Blän hüsiere. Ja, wenns noch fürs Gschäft wär, des dhät mer sich gfalle Ion. Awer naan — nur fraubase will er un sich wichti mache mit sine Gschichtle üwer dene un zelle. No wurd ball do e Schöppele gepfetzt, dort e bissel Babbel- waffer getrunke, am zwölfe kommt er haam mit em e klaane Dembes un unsereins kann von Morjes bis z’Owes schaffe un sich blöje. Dürts <stage>(Es Klopft.)</stage></p>
+        </sp>
+	<sp who="#fritz">
+	  <speaker>Fritz:</speaker>
+	  <p>Na, der Client kommt bezidde. Entrez!</p>
+	</sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(in elegantem Straßenanzug, erregt)</stage>
+          <p>Bonjour, kann ich mit em Meischter redde?</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(springt vom Tisch herunter, höflich)</stage>
+          <p>Ewe isch er üsgange,</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller:</speaker>
+          <p>Ze ward i e Auesblick.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(stellt einen Stuhl hin, verlegen)</stage>
+          <p>Des kennt am End e langer Auesblick wäre.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller:</speaker>
+          <p>Wieso? Ihr Meischter isch doch bi kaanre Licht?</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(zögernd)</stage>
+          <p>Zell nit grad. Awer er isch hit güet uffgelajt un do dürts immer e Paar Stündle bis er widder kummt.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller:</speaker>
+          <p>Na dis schint mer e netti Hüshaltung ze sin. Awer saue sie emol, wie rauchts denn mit mim neue Frack? Am Dienschdaa isch mini Hoch- zit, hit isch Samschdaa. Er het mer versproche, ne unfehlbar uf hit ferti ze mache.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>Ihre Frack? Pardon, do derdun weiß i nix. Kaan Wörtel het d’r Meischter gsaat, daß ebs pressiert.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(braust auf)</stage>
+          <p>Was?! Sie wisse nix?! Jetz wurd’s mer nimmi besser! Ja maant denn der gebickt Geisbock ich loß mich von im an d’r Nas erumfüere? Süeche Sie numme, wenns beliebt. Des Staatshawit hängt sicher irix. Fritz <stage>(sucht unter den halbfertigen Kleidern, findet nichts, end- lich, entdeckt er ein größeres Paket mit der Aufschrift einer Tuchfirma und der Bemerkung: Pour Monsieur Müller)</stage> : S’dhüet mer leid, Herr Müller, ich kann nix finde. Nur do isch e Päckel «pour Monsieur Müller». Villicht, daß do ebbs drinne isch. Ich will doch lüeje <stage>(öffnet und wickelt ein Stück feines ich warzes Tuch heraus)</stage>; soll des ebbe der Frack sin?</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(erbost)</stage>
+          <p>Ich glaub, Sie welle ütze?! Des isch e Frechheit, e Niederträchtigkeit von Ihrem Meischter, mich so sitze ze lon. Here mit dem Päckel, ich find e andere Schnider. Aber Ihrem Herre soll des gedenke, so schnell nemmt er nieme meh ins Gschirr . . . <stage>(will eilig fort)</stage>.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(hält ihn zurück)</stage>
+          <p>Berühige Sie sich doch, Herr Müller! D’r Meischter het villicht d’Wuch von Ihre hochzit verwechselt.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(ingrimmig)</stage>
+          <p>Dhät der sine Strohkopf emol wechsle lon. Fritz <stage>(bemüht, Müller von der Türe zurück zu bringen)</stage>; Es loßt sich jo noch alles guet rangire.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(etwas besänftigt, spöttelnd)</stage>
+          <p>Do het er mer vorgebabbelt, daß niemes e so schöne, schicke Frack han soll, wie ich. Selwer will er ne mache un em e Façon gen numero Pfiff.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(für sich)</stage>
+          <p>Der saad vil, wenn der Daa lang isch. <stage>(laut)</stage> Wie wärs, Herr Müller, wenn ich Ihne verspreche dhät, dene Frack bis am Mon- daa morjes ferdi ze mache. Sie solle sehn, ich kann au ebs, wenn i au nit Meischter bin.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller:</speaker>
+          <p>Na ich hab nix dergeje <stage>(legt das Paket hin)</stage>, ich verloß mich meh uf Si, als uf Ihre letz- gedräjte Herr. Daß Sie im Meischter sini Par- tie annemme, des will ebs heiße bim e Gsell in dene Zitte. Amer, saue Sie emol uffrichtig : Ihr Meischter isch nimm so recht derbi, bi sim Handwerick?</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>Na, Herr Müller, Ihne kann ichs klaue, was mich shun lang druckt. Sie sin e Kaufmann, wie er im Büech steht. Awer wenn Sie do wärde un sehn däte, wie der Meischter über sim ewige Gebabbels alles gehn un stehn loßt und sich sel- wer D’Kundschaft vertribt, sie d’häte an de Wänd nuff! Er ish jo s'hell Wucheblättel, Wenn hinte in der Dürkei sich e Paar d’Köpf verschlaue, so halt er de ganze Nochberschaft großi politischi Rede. Greit Jemand e Kind, so rüejt er nit, bis er weiß, wer Pfedder wurd. Manchmol wurd er bi ärmere Lit au selwer genumme. Hirot Einer, so horcht er üweral, was Sie mit- bekommt. Er isch e güter Mann, het awer e böfi Zung. Un was ihm einer uff d’Nas bind, des glaubt er felsefescht. Na, ich könnt verzähle, wenn i wot.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(hat nachdenklich zugehört; für sich)</stage>
+          <p>Wie wärs, wenn mer dem Mann e Denkzettel gäb, wo ne für sin Lebdaa kurive dhät. S' fallt mer grad ebs in.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(erfreut)</stage>
+          <p>Horch do, ich hör im Meischter sine Schritt. Der het sicher ebbs vergesse, daß er so schnell wider kommt.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(in Pantoffeln und einem Hauskäppchen, ein schwar- zes Tuch, unter dem Arm; schnell sprechend)</stage>
+          <p>Ah, lüj do, der Herr Müller. Quel honneur, quel bonheur! Freit mi, freit mi ari, daß Sie schun in aller Herrgottsfrüej kumme. Gewiß weje dem Fräckele; o es wurd ferdi, kaan Angscht, e Klaanigkeit. Angfange ischs freili noch nit, awer mer kennte vellicht s'Meß noch emol nemme. E Hochzitter wurd licht ebbs dicker bi dem vile guete Esse bi der Schweijermame. Seie Sie so güet un zeje Sie s'West üs.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(für sich)</stage>
+          <p>Na, mer merkts, daß er nit uffs Mül gfalle isch. <stage>(laut)</stage> O, Herr Fräckel, ich kann mer jo denke, werum Sie nimmi grad gern in Ihrem Atelier schaffe.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Ich nimm gern schaffe? Gelle Sie, ’s het mich Aaner schlecht gemacht bi Ihne?</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(langsam)</stage>
+          <p>Wenn mer halt e so Erbschäftel in Üssicht het, wie Sie.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>E Erbschäftel? Sie welle doch nit von dere alte Cafferol redde, wo mir min Julie seli ze- ruckgelon het un wo jetz bim Kesselflicker isch. Ach, wie oft het sie gsaat: Charel, die Casserol bind ich Dir uffs Herz. Hab Sori druff, mini Großmame het schun d’ Supp drin kocht. Müller <stage>(setz sich und spricht mit Nahdruck)</stage> : Herr Fräckel, nix für ungüt, awer Sie komme mer vor, wie e klaans Kind, wo noch am biberon nullt. Gescht hawi in der Frankfurter Zittung gelese, daß e Familie Meyer in Südditschland gsüecht wurd, füer e Erbschaft ze erhewe, wo Aaner namens Meyer in Amerika hinterlon het. Isch's mer e Recht, so isch jo ihri Frau e geboreni Meyere gsin.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Un ob sie e Meyere isch gsin, di gued Seel. Un e Unkel het sie ghett, d'r Meyer Schang, der isch üsgewandert nach Amerika; ’s isch so fufzig Jor here un — e Wagebum erschter Klaff isch er au gsin. Un so rich soll der wore sin? Was Sie nit saue?! <stage>(ereifert sich immer mehr)</stage> Ja, do dhät ich jo ebbe Millionär wäre? Fritz höre Sie, Millionär! <stage>(zu Fritz)</stage> Wisse Sie was des isch e Million? Soviel Geld han Sie noch nit zsamme gsehn. O daß des min Julie nimm er- lebt het!</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller:</speaker>
+          <p>Halt, halt, nit so vif! Ich hab nur gsaat, was in der Zittung steht. Vergesse Sie nit: „Südditschland" steht do, des isch groß un Stroß- buri het ze Frankrich ghert, wie der Meyer Schang ümer ’s Waffer isch.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Nix do, Herr Müller, soviel Meyer sin nit nüwer gange. Gunne Sie unseraam au emol e Glück un merci, merci vielmol, daß Sie mer d’Neüigkeit gebrocht henn. Ihr Frack soll ferdi wäre, s'Ietscht Kunstwerk üs mim Atelier; <stage>(ge- leitet Müller hinaus; dann zu Fritz)</stage> Runter jetz von dem Disch. Hit wurd nimmi gschafft, un Spätter wäre kaani meh uff d’Hose gsetzt.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>Meischter, under uns gsaat, ich dhät des Ding nit so schnell packe. Z’erscht müeß Aaner doch wiffe, was für e Meyer gemaant isch. S’Heiße doch noch viel Lit Meyer.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Awer di sin nit von der Familie von dem Schang gsin. Miner Anglees her un s’Steckel, jetz wurd. emol zue e Paar guete Frind gange. <stage>(Fritz hilft ihm in den Gehrock; wie er hinausgehen will, kommt der Beche Üschen herein, im Arbeitskleid, ein Paar Schuhe unterm Arm.)</stage></p>
+        </sp>
+        <sp who="#bechler-lehn">
+          <speaker>Bech:</speaker>
+          <p>Potz döifi! Dü wit, glauwi, uff e Hochzitt un ich hab Dir dini neje Schüeh anbrowire welle?!</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Waas Schüeh? Maansch ebbe ich draa vun jetz an noch von Dine Kanalschiffle? Naan, min Liwer, di Zitte fin erum; wenn Dü mit mir wit gehn e Budell Champagner drinke, ze jetz Dine hoche Hüt uf, no fansch zwei Schritt Hinter mer herelaufe.</p>
+        </sp>
+        <sp who="#bechler-lehn">
+          <speaker>Bech :</speaker>
+          <stage>(für sich)</stage>
+          <p>Des müeß awer e stariks Winel sin gsin, wo der hit morje geblose het. So het er noch nie üs de Hitze geredt.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Allons, voran, ich hab kaan Zit ze verlire mit Dir ümerzwerchem Beches; <stage>(schlägt ihm vertraulich auf die Schulter)</stage> daß ich Millionär wur, hesch noch nit ghert, alti Pflüm. Gell jeg machsch e Gsicht un stehch do wie drei un elf.</p>
+        </sp>
+        <sp who="#bechler-lehn">
+          <speaker>Bech :</speaker>
+          <stage>(betrachtet seinen Freund in höchster Verwunderung)</stage>
+          <p>Dü Millionär? Ehnder hätt ich geglaubt, daß der Minschderzipfel e Burzelbaam schlaat. Awer wie isch denn dies kumme ?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Komm, ich verzähl Der’s. Sperr awer wenns beliebt nit Mül und Nas sowit uff. <stage>(Mamsel Vermicell, altmodisch gekleidet, eine Katze auf dem Arm, kommt zur eben geöffneten Tür herein, in großer Aufregung läßt sie sich auf einen Stuhl sinken.)</stage></p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(für sich)</stage>
+          <p>Was will denn die alt Schachtel wider ?</p>
+        </sp>
+        <sp who="#vermicell">
+          <speaker>Mamfell Vermicell:</speaker>
+          <p>Monsieur Fräckel, Sie sin e so e Liewer, güeteter Mann. Sie babble mit Alle, wo im Hüs sin, un sin so artli zü mir; saue Sie, isch’s erlaubt, was die böfe Büewe wider mine Katze angedon han?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Lon Sie mi in Fridde mit dem Katzevolk. Sie kämte mer gshliche mit dem Gejomers, au noch jetz grad.</p>
+        </sp>
+        <sp who="#vermicell">
+          <speaker>Mamfell Vermicell:</speaker>
+          <p>O, Herr Fräckel, Sie han sicher kaan Herz von Staan. Denke Sie numme: mim Minedel han sie e Schell ans Wäddele gebunde un im Negerle han sie de Schnüzer weggebrennt!</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Was geht des mich an? Soll ich vellicht Ihri Katze hüete helfe? Sie sin e meschuggeni Gans, e üwerspannts Frauezimmer mit Ihre Katze! Des Vieh gheert in de Bach! Daß Sie 's wiffe! Un jetz gehn Sie Ihre Wej; ich müeß furt.</p>
+        </sp>
+        <sp who="#vermicell">
+          <speaker>Mamfell Vermicell :</speaker>
+          <stage>(einer Ohpnmacht nahe)</stage>
+          <p>Oh, oh! Ich kenn Sie jo nimmeh Herr Fräckel; Herr Fräckel, mir so Dings ze saue! <stage>(pfötzlich empört)</stage> Awer warte Sie; büeße solle Sie mirs. „E meschuggeni Gans, e üwerspannts Frauezimmer" han Sie mir gsaat! Der Herr Bech un der Herr Fritz fin Zeje. Dis koscht uffs wenigscht 20 Marik in d’Armekass <stage>(ad im Zorn)</stage>.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Zwanzig Marik! Wie wenn des ebs wär für e Millionär!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> II. Szene. </head>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(im Gehrock, hinter einer Taffe shwarzen Kaffee im Fauteuil fitzend, zu Fritz)</stage>
+          <p>Was neschdle Sie un bäschle Sie denn schun widder am frücje No- midda; nit emol e Nickerle kann mer mache.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>S'isch der Frack vum Herr Müller, wo uff der Dienschdaa ferdi wäre müeß.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Ich erinner mich küm meh, daß der aane bschtellt het. So isch’s halt, wenn mer rich wurd. D’halb Stadt weiß es jetz schun, daß Fräckel sich uff Geldsäckel raamt.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>Wenns nur bi dem Vers blit, Meischter.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Fritz, Sie sin e ingedrickeldi Häriseel; kaan Fraid, Kaan Lewesluscht isch ine, nur Arweit, Arweit heißt’s allewil! Un babble dhuen Sie au nix un doch wurd aam bim Babble s’Herz so licht.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(für sich)</stage>
+          <p>Un s'Portemonnaie au.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Awer aans müeß ich ne Ion. E Schaffer sin Sie, e Schnider numéro aans, un dorum solle Sie min Gschäft widdersch füere; ich mueß es jo doch abgen. Üwer de Bris wäre mer schun eini wäre. <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(setzt sich in Positur)</stage>
+          <p>Aha, jetz finde Sie Alli mini Düer, der wurd ebs welle. Entrez! Gshwind <stage>(flott auftretend)</stage>: Hab ich die Ehre mit Herrn Fräckel zu sprechen?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(stolz in seinem Sessel)</stage>
+          <p>Der bin ich! scfhwind: Mein Name ist Gschwind; Vertreter der Autofabrik „Geruchlos", gratuliere zu der kolos- salen Erbschaft, ein feiner Onkel gewesen, der sich so an seiner Familie revanchiert.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Jo s'isch e glatts Früchdel gsin, wie er durch D’Latte isch. Kaan ehrlicher Mensch het ne meh angelüjt.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Als Millionär müssen Sie selbstverständ- lich ein Automobil haben. Habe zur Zeit nur erstklassige Fabrikate auf Lager. Ein Mercedes- wagen etwa stände zur Verfügung. Fräckel der nur unvollkommen Fremdwörter versteht: E Mercerielade? Des hätt mini Julie immer, gern ghet. So Faderöllerle ze verkaafe, des wärd ihr Sach gsin.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind :</speaker>
+          <stage>(der seine Geschäftsphotographien auskramt)</stage>
+          <p>Sehn Sie hier eine Maschine mit Rumplerkühler, letzter sensationeller Erfolg der Technik.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Glaabs schun, daß mer in dem Karich rumple und füllere kann. Awver, wisse Sie, mini Knoche sin mer au noch ebs wert. Bedenke Sie, Mil: lionärsknoche!</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Und hier die neuesten Michelinpneuma- tiks, unverwüstlich !</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Tiens, miner Babbe seli isch au bi de Michele gsin um Wüschtele han sie au genüe unter sich ghett in zelle Zitte. A propos, wisse Sie, was e Michelesauce isch?</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Leider führen wir diefe Maschine nicht.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Na, ich lad Sie emol in. Des isch e Re- gal! E Paar Tropfe guets Bir von hie, e bissel Pfeffer, e bissel Salz un Senf, un no aan Stickel Schwizerkäs noch em andre drin gedunkt. Ich saa Ihne, e Gänslewerpaschtet isch- e Dreck der- geje. Also die Michelemaschin wurd genumme.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Und darf ich fragen: Wievielsitzig? Ein Siß für Ihre Frau Gemahlin, einer für Fräu- lein Tochter ?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Halte e bissel, ich bin Wittmann un hab kaan Kinder.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Aber zur Vorsorge, nicht wahr. Frau und Tochter können eventuell mitgeliefert werden. Denn, gestatten, ich bin zugleich Heiratsvermittler.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Naan, naan, nur gemach. Z'erscht emol die Kütsch, s'ander Unglück kommt noch früehj genüe.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Zu dienen; also ein Mercedeswagen, 30000 Mark, abgemacht, Lieferung erfolgt prompt. Bitte den Kaufauftrag zu unterzeichnen. <stage>(Während Fräckel umständlich die Brille aufsetzt und einige Krähenfüße unter das Schriftstück jetzt, hat Gschwind seiner Handtasche eine Autoausftattung entnommen.)</stage></p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Automobilausstattung habe ich gleich mit- gebracht. Bitte, den Mantel zuerst!</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Na, der het’s Meß.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Nun die Müße.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Do versüft mer jo drine.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Endlich die Autobrille.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Do sieht mer Alles grün un gel.</p>
+        </sp>
+        <sp who="#schwind">
+          <speaker>Gschwind:</speaker>
+          <p>Sitzt Alles wundervoll! Auf Wieder- sehen <stage>(ab)</stage>. Fräckel <stage>(besieht sich)</stage> mit Wohlgefallen : Na denne wärde mer los. <stage>(Es klopft. Auf das Entrez kommt Merkel herein.)</stage></p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Herr Fräckel? <stage>(verbeugt fich)</stage> Ich heiße Mer- kel, bin Häuseragent. Sie suchen ein ihren Ver- hältnissen entsprechendes Haus, eine Villa natür- lich, in der Ruprechtsauer Allee, zwanzig Zimmer, Portierwohnung, Stallungen, Automobilgarage, Hundehütte.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Nix meh, am End noch e Katzestall.</p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Preis spielt wohl keine Rolle, 200000 Mark ist das Billigste, nur das Badezimmer muß noch hergerichtet werden.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>E Badezimmer? Alle Jor nem ich ein Mol e Douche im Bolksbad für e Nickel.</p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Ich denke, wir legen die Wände mit Kacheln aus, nach Entwürfen eines modernen Künstlers.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Des isch e recht. Do kann der Schulze Edwärel sini Kunscht zeje. Dis isch e so e Kachler- meischter. Jeder Borzellinofe, wo er uffstellt, rüeßt oder fallt zamme. Awer er isch mer noch e Paar Hose schuldi; die kann er no abverdiene.</p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Bestimmen Sie, daß das Gartenzimmer als Salon für den five o’ clock tea eingerichtet wird ?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Wie maane Sie? Pfiffekopf? Jo so e Pfiff kennt mer schun under de Blüeme rauche. Miner Burrus Schmeckt e bissel scharf.</p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Und der Hof endlich; soll er als Lawn- Tennis- oder als Fußballplatz benützt werden?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Nix do, e Kejelbahn wurd angelajt. Die gschdüdirte Herre in der Allee solle in der Nacht höre, wie e pensionierter Schnider mit der Köjle umzegehn weiß; un e Gloriettel muß dernewe, wo mer als e paar gebacheni Fischle esse.</p>
+        </sp>
+        <sp who="#merkel">
+          <speaker>Merkel:</speaker>
+          <p>Wird beforgt werden. Alfo Berkaufgsbe- dingungen werden bei Ihrem Notar erledigt, Vielleicht morgen 10 Uhr.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Minetweje, Sie mins besser wisse als ich. Merkel: Besten Dank; adieu.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(seufzt)</stage>
+          <p>Der wärd furt. Fritz, Sie han immer gsaat, ich kann babble. Die könne’s awer noch ganz andersch. Mit kaam Hämmerle kommt mer derzmische.</p>
+        </sp>
+        <sp who="#rederer">
+          <speaker>Rederer :</speaker>
+          <stage>(stottert sehr; kommt zögernd herein, hinter ihm einige Mieter ; erblickt entsetzt Fräckel im Autoanzug)</stage>
+          <p>Ums Himmels wille, Fritz, was han Ihr do for e Butzemummel fitze; isch der Meischter nit do?</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Der Meischter? Do bin ich. Was stulpre denn Ihr do erin?</p>
+        </sp>
+        <sp who="#rederer">
+          <speaker>Rederer :</speaker>
+          <stage>(sotternd)</stage>
+          <p>Im Uffdraa vun der Hüslitt gratulire mir Ihne ze dene Millione, Herr Fräckel. Dis isch d’schönscht Neüigkeit, wo mer von ine erfahre han. Wäre Sie glückli un lon Sie uns au ebs vun Ihrem Richtum gschpire.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(gibt allen gerührt die hand)</stage>
+          <p>Ich saa Alle im Hüs merci für die Begrüßung. Lang wäre mer nit zsamme wohne. Drum laad i Sie Alli in züem e gemüetlichi Grumbeeresalat un Wirscht uff dene Owed. Do welle mer no aans babble mit nand, daß es batt. <stage>(Mieter gehen ab)</stage>.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz:</speaker>
+          <p>Meischter, Ieje Sie sich jetz uff e Ohr. Shunsch wisse Sie nit hit Owe, wo Ihne de Kopf steht.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Sie han Recht. S'isch mer jetz sehun nimmi recht ums Babble.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Szene </head>
+        <stage>(Fräckel sitzt ganz geknikt am Tisch.)</stage>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(weinerlich)</stage>
+          <p>Fritz, ich bin e verlorener Mann. Nix isch’s, gar nix mit dene Millione. Hät ich mer doch s'Mül zügenäjt. Do Iefe Sie.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(liest)</stage>
+          <p>Nach telegraphischer Erkundigung an zu- ständiger Stelle in New-Nork teilen wir Ihnen mit, daß die Nachricht von der Errbschaft Meyer auf einem Irrtum beruht. Es liegt eine Ber- wechslung vor mit einem kleineren Barvermögen, das nicht nach Süddeutschland, sondern nach Süd- amerika gehen foll. Die Kosten im Betrag von 10 Mark bitten wir umgehend zu begleichen. Rot, Notar. Fräckel. Da Sie plötzlich reich geworden find, werden Sie einen alten Schulkameraden, der man chen dummen Streich mit Ihnen gemacht, nicht vergessen und gewiß mit Freuden mit dev näch- ften Post tausend Mark an den Unterzeichneten schicken. In Demut ersterbend Schorsch Leichtfuß. de Spott nit ze forje. daß Ihre Millionenerbschaft ein Schwindel, bitte um sofortige Rücksendung der Autoausstattung und um eine Entschädigung von 200 Mark für Nichtabschluß des Kaufes. Im Falle die Summe nicht bis in acht Tagen eintrifft, wird sich der Gerichtsvollzieher mit der Sache befassen. Gschwind. bringe, ich bin e gebrochener Mann. Ihrer bodenlosen Dummheit und Geshwätzigkeit geworden find. Trotz der Höhe des Objekts for- dere ich nur 400 Mark für den nicht zustande gekommenen Berkauf der Villa Nadelruhe. Merkel.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel:</speaker>
+          <p>Des au noch. Un d’Rechnung derzüe vom Grumbeeresalat. E halwe Sack Grumbeere han sie gebrücht un 20 Dutzed Würscht. S’Liweh gar nit ze zehle, wo ich hab. <stage>(Es klopft.)</stage></p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(schreit)</stage>
+          <p>Ich will Niemand sehn. Gehn Sie, Fritz, saue Sie, ich sei krank.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(schaut durd die Türspalte)</stage>
+          <p>Herr Müller, Sie derf i nit heimschicke. Sie wisse doch am End schun Alles.</p>
+        </sp>
+        <sp who="#muller">
+          <speaker>Müller :</speaker>
+          <stage>(tröstend zu Fräckel, der den Kopf auf den Tisch gelegt)</stage>
+          <p>Ja ich weiß, Meischter Fräckel. Awer Kopf hoch, so ari isch die Gschicht doch nit. Des mit dene Lieferante rangier ich, sie zahle nur des Z'Nachtesse für d’Locataires un die 20 Marik für d’Mamsell Vermicell. Awer aans isch Be- dingung, denn Strof müeß sin. Gen Sie im Herr Fritz Ihr Gschäft un bliwe Sie bi im als erster Arweiter.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(erfreut)</stage>
+          <p>Des isch au schun miner Gedanke gsin. Wenn der Fritz nur will.</p>
+        </sp>
+        <sp who="#fritz">
+          <speaker>Fritz :</speaker>
+          <stage>(drückt Fräckel die Hand)</stage>
+          <p>Un ob er will! Un zsammehalte welle mir, wie zwei Brüder.</p>
+        </sp>
+        <sp who="#frackel">
+          <speaker>Fräckel :</speaker>
+          <stage>(betrachtet seinen Arbeitstisch)</stage>
+          <p>Wie e Stummele will ich uff dem Schnidertisch von jetz an sitze. Soll Niemes meh saue: ich sei S’Wucheblättel oder mich d’r Babbler heiße. Denn gar ze dir isch mich des Babble kumme. <stage> Ende. </stage></p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

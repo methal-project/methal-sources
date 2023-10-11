@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Babette, mach 's Fenster züe</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-131"/>
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Babette, mach 's Fenster züe</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_solo" sex="M">
+            <persName>Herr SOLO</persName>
+          </person>
+          <person xml:id="babette" sex="F">
+            <persName>BABETTE</persName>
+          </person>
+          <person xml:id="frau_rumpel" sex="F">
+            <persName>Fraü RUMPEL</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_solo">
+          <role>
+            <persName>Herr SOLO</persName>
+          </role>
+          <roleDesc>Cumponist</roleDesc>
+        </castItem>
+        <castItem corresp="#babette">
+          <role>
+            <persName>BABETTE</persName>
+          </role>
+          <roleDesc>si Hüshàltere</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_rumpel">
+          <role>
+            <persName>Fraü RUMPEL</persName>
+          </role>
+          <roleDesc>d'Hüsfraü</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(steht vom Klavier uf; er hat Müsik in dr Hand)
+                    </stage>
+          <p>So... mi Romance avanciert... die Phrase do: « Ihr
+                        G'sicht isch wiss wie Schnee », die isch ganz güet
+                        erfunde... (er singt) mi sol do si la sol... was kunnt
+                        jetz?... (er consultiert o Manüscript uf em Tisch
+                        un liest:)
+                    </p>
+          <lg>
+            <l>Se stürzt vom hoche Fels</l>
+            <l>Sich in dr tiefe See!</l>
+          </lg>
+          <p>Jetz heisst's e müsikalische Phrase g'funde, fir das
+                        mache z'versteh (er singt e Phrase, wo hoch afangt
+                        un nieder endet). Jà, halt, nei... fir dr « hoche Fels
+                        » müess ich hoche Note nàh un derno müess es si,
+                        wie wenn ebbes in dr Luft schwebt (er singt): « Se
+                        stürzt vom hoche Fels »... Aha!... das isch jetz emol
+                        g'lunge!... dà point d'orgue will ich gli notiere (er
+                        prawiert uf em Klavier) do do do la la do. (er
+                        sitzt an Tisch un schribt; uf eimol hört me dur 's
+                        offene Fenster e Klavier Gamme spiele) Babette!...
+                        Babette!... wo stecksch wieder?
+                    </p>
+          <pb n="658 659"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Solo, Babette.</stage>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(kunnt züer Thüre ine links)</stage>
+          <p>Was isch... wo fehlt's wieder?...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(im schriwe; zornig)</stage>
+          <p>Babette... mach 's Fenster züe... 's isch nimmig züem
+                        üshalte... me ka kei Minüte rüehig schaffe... das
+                        isch jetz scho wieder 's zweite mol hit...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Awer Herr Solo... wie ka Sie ne eifàltig Klavier in eso
+                        ne Hitz bringe...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(springt uf)</stage>
+          <p>Was, e-n-eifàltig Klavier!... zwei sin's jetz oder gar
+                        drei, wo mitnander spiele... eins do unter uns im
+                        Erste un eins dert àne un 's andere was weiss ich wo...
+                        und alle spiele falsch... un ich, wo express do
+                        ane bi ku wohne, wil noch keins im Hüs un in dr
+                        Nochberschaft gsi isch!... awer ich zieh wieder üs, bis
+                        ass se mich emol nimmig verfolge thien!... <stage>('s Klavier
+                        hört uf).</stage>
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Wieder üszieh!... merci! ich wàr jetz bol genüe
+                        g'wandelt... denn ich ha d'ganze-n-Arwet als uf em
+                        Hals... Sie bekümmere sich nitt drum... mr sin ganz
+                        güet logiert do... me müess sich e wenig ebbes
+                        g'falle lo... un züedem isch's jo nur ei Klavier, wo
+                        spielt... Sie hàn wirklig e b'sundere Chance, Herr
+                        Solo!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Ah!... ich ha ne b'sundere Chance!... ass nitt zehne
+                        mitnander spiele, nitt wohr?... wie will ich denn
+                        composiere bi me so ne Làrme!
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Lieschen et Fritzchen)</stage>
+            <l>Me thüet nit meh höre,</l>
+            <l>As immer Klavier,</l>
+            <l>Das Ding thüet mich störe,</l>
+            <l>Wenn ich composier;</l>
+            <l>Das ka nitt so düre,</l>
+            <l>Ich hass se, die Lit,</l>
+            <l>Se thien mir versüre</l>
+            <l>Mi Lewe, mi Zit.</l>
+            <l>Babette! mir ziege jetz wieder do üs!</l>
+            <l>Pack uf! kei Stund meh blib ich in dem Hüs.</l>
+          </lg>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <lg>
+            <l>Pack uf! wo ane? das isch jetz gli g'sàit!</l>
+            <l>Ich dank! denn 's Wandle isch fir mich kei Freid!</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_solo">
+            <speaker>Er.</speaker>
+            <lg>
+              <l>Me thüet nit meh höre,</l>
+              <l>As immer Klavier,</l>
+              <l>Das Ding macht mich narràchtig schier!</l>
+            </lg>
+          </sp>
+          <sp who="#babette">
+            <speaker>Sie.</speaker>
+            <lg>
+              <l>Ich ka's ganz güet höre,</l>
+              <l>Wenn g'spielt wird Klavier,</l>
+              <l>Ich ha dra mi grösste Plaisier!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Ne b'sundere Chance hàn Se... g'wiss... denn wie g'sàit
+                        spielt nur ei Klavier, das en face, denn die Lit
+                        unte an uns ziehn hit üs mit ihrem, un dur e b'sundere
+                        Züefall sàlle dert àne dr andre Monet.
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Aha!... endlig, endlig wird i denn vo mine zwe Todtfind
+                        befreit un ha wieder Rüeh, do im Hüs
+                        wenigstens... ganz unte wohnt d'Hüsfraü, un die wird in
+                        ihrem sechzigste Johr nitt afange Müsik
+                        z'mache... obscho se nitt iwel dri vernarrt isch.
+                    </p>
+          <pb n="660 661"/>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Se hat awer e Suhn, wo schint's uf B'süech kunnt fir e
+                        Zit lang...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Dà wird doch ebbe g'scheidt si un wird nitt ku müsiziere
+                        do!... un 's hat noch nieme g'lehnt im Erste,
+                        nitt wohr, Babette?
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Bis dohi weiss i noch nit.</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Güet!... un owe-n-an uns wohnt dr alte Hüewer... mit dem
+                        ha-n-i nit z'riskiere!
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Verlehn Sie sich nitt druf... er hat parfaitement ne
+                        Klavier in sim Salon steh, un wie-n-i g'hört ha,
+                        soll e Nièce vo Basel jetz züe-n-em ku wohne,
+                        wo-n-ihre-n-Eltre verlore hat...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Oh Babette!... wenn i vo Basel hör rede, so denk i
+                        allewil an e junge Person, wo-n-i vor em Johr dert ha
+                        lehre kenne... se hat Rösle g'heisse... ich bi ganz
+                        verliebt gsi in se... un sie hat mich o gern
+                        g'ha!... nur ha-n-i nie kenne wisse, eb's vo wege minre
+                        Person gsi isch oder vo wege mim Talent...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà wott schön ag'rennt si mit sine fufzig johr!</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Hein... was sàisch, Babette?</p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Ich sag, Sie hàn jo no nitt viel graüe Hoor.</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Nitt wohr, Babette, ich bi noch güet conserviert?...
+                        hätt ich se doch nur g'frogt... ich ha-n-ere Klavier
+                        stunde gà un ha-n-ere ne Romance composiert, express
+                        fir sie... awer bi dem ich's bliwe.
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Awer, Herr Solo, wenn Sie-n-eso gern thàte hirothe,
+                        worum nàmme Sie nitt e Person ung'fàhr im
+                        gliche-n-Alter as wie Sie... ne so ebber in mim Genre
+                        viellicht?... (se stellt si).
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Oho!... ich glaüb gar, mi Hüshàltere will mr dr Hof
+                        mache!
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Ne so ne Person, wo-n-alle-n-Ihre Bedürfnisse-n-un Ihre
+                        G'wohnheite kennt, un wo Sie g'wiss besser
+                        b'sorge thàt as eso ne Junge...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Robin des bois)</stage>
+            <l>Fir in d'Hiroth</l>
+            <l>Ich's no nitt z'spot,</l>
+            <l>Se känne's jo noch woge,</l>
+            <l>Thien Sie nur bol,</l>
+            <l>Wenn's g'rothe soll,</l>
+            <l>Ne zàrtlig Herz drum froge.</l>
+            <l>Thien Sie froge,</l>
+            <l>Froge Sie nur bol!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <lg>
+            <l>Fir in d'Hiroth</l>
+            <l>Wàr's no nitt z'spot,</l>
+            <l>Sie thàt's jetz glaüb noch woge,</l>
+            <l>Am End kunnt bol</l>
+            <l>Sie mich emol</l>
+            <l>Noch selwer drum ku froge!</l>
+          </lg>
+          <pb n="662 663"/>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_solo">
+            <speaker>Herr Solo.</speaker>
+            <lg>
+              <l>Mich ku froge,</l>
+              <l>Froge thüet sie bol!</l>
+            </lg>
+          </sp>
+          <sp who="#babette">
+            <speaker>Sie.</speaker>
+            <lg>
+              <l>Thien Sie froge,</l>
+              <l>Froge Sie nur bol!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Nitt wohr, Babette, ich kännt's noch woge? ich ha o scho
+                        dra denkt... awer mit allem dem thüe-n-ich nit
+                        as plaüdere (er sitzt ans Klavier un süecht) mach jetz
+                        nur 's Fenster züe un loss mich derno schaffe.
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah so... er schickt mich glaüb spaziere!... (se macht 's
+                        Fenster züe).
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Re si sol mi si...</p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(fir sich)</stage>
+          <p>De kasch lang singe: « 's Resi soll mi si », De
+                        bekunnsch's doch nitt! (se geht üse links).
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Solo, Fraü Rumpel.</stage>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(allei)</stage>
+          <p>Ich kumm décidément nitt derzüe, das Ding ferig z'mache
+                        hit... tiens, me klopft... noch e Visite jetz!...
+                        (ungeduldig) entrez!
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Thüe-n-ich Se viellicht störe, Herr Solo!...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Nit im g'ringste... Hüsfraü... nitt im g'ringste... (fir
+                        sich) thüet se mich agaciere, die Fraü!...
+                        se-n-isch efange-n-allewil do!...
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Ich ha denkt, ich will Ene d'Neüigkeit gli ku sage, Herr
+                        Solo... fir Sie, wo so ne Müsiknarr sin, isch
+                        das e famose Surprise... Sie thàte's nie errothe?...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ne Müsiknarr... ich!... merci.</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>'s Babette wird Ene jo g'sàit ha, ass die Lit do
+                        unte-n-üsziehn?... à propos... wisse Se, ass mi Suhn
+                        aku
+                        isch?... das güete Babette! Sie hàn doch g'wiss e güete
+                        Hüshàltere an dàre Person!...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>'s isch wohr, ja... 's Babette isch e güete
+                        Hüshàltere... 's erlaübt sich màngmol e wenig z'viel,
+                        awer
+                        wil's vo jeher in unsrer Familie gsi isch, so loss ich
+                        em halt viel dure geh... awer sage Se mr, Fraü
+                        Rumpel, isch Ihr Suhn viellicht Müsikant?...
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>O nei!... was denke Se... er hat z'er Làbtig kei Note
+                        kennt!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Gottlob!</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Er lehrt alle-n-Instrumente üs dr Füst, wie me sàit...
+                        er hat jetz grad e Jagdhorn mitbrocht, wo-n-er
+                        studiert mit, un Se werde sàh, er ka's gli spiele...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(consterniert)</stage>
+          <p>Ne Jagdhorn!...</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Ich will em sage, ass er herzhaft derhinter geht... Sie
+                        känne derno accompagniere, wenn er's emol güet
+                        ka... awer, fir uf unser Surprise z'ruckz'ku... wisse
+                        Se, ass ich dr erste Stock verlehnt ha?... im e
+                        Müsigprofesser... er spielt alle-n-Instrumente... uf
+                        die Art hà mr derno dr ganze Tag Müsik im Hüs!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(losst si uf e Stüehl sinke)</stage>
+          <p>'s hat mr nit meh g'fehlt as das!... (er springt uf) Sie
+                        unbarmherzige Fraü, ass Se-n-isch!... will Sie
+                        denn mi Tod, ass Se-n-eso Sache geht geh mache!
+                    </p>
+          <pb n="664 665"/>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Was isch Ene!... was hàn Se... ich ha jetz g'meint
+                        Wunder was fir e Freid, ass ich Ene verschaffe thüe.
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Lost Se... ich will nitt, ass Sie das Logis in dem
+                        Professer verlehnt... ich nimm's eher fir mich
+                        selbst.
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Jà... 's isch mr Leid... awer ich ka jetz nimmig
+                        z'ruck... ich ha mi Wort gà!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Eh bien... thàt Se sage, 's Hüs thüet sich setze... 's
+                        seig am zàmmefalle... oder sunscht ebbes... nur
+                        losst Se dà Professer nitt ine.
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Isch das jetz e possiger Held!...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Also isch's abg'macht... ich lehn do unte un do isch's
+                        Drufgeld.
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Jà awer... (fir sich) se sin alle verruckt,
+                        d'Müsikante!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(nimmt se-n-an de-n-Achsle un schiebt se gege
+                        d'Thüre)
+                    </stage>
+          <p>Ich wil nit wisse... geht Se-n-em nur gli geh
+                        absage...
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel</speaker>
+          <stage>(unter dr Thüre)</stage>
+          <p>Jà, Jà... absage...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Gieng Se nur g'schwind (er schiebt se-n-üse un macht
+                        d'Thüre züe) ouf!... me ka wahrhaft niene kei Hüs
+                        meh finde, wo me rüehig isch drin!... mit dem allem
+                        ha-n-ich jetz dr doppelte Hüszins z'zahle... 's
+                        Babette wird ufbegehre!... ich müess halt e wenig mehr
+                        schaffe... (er setzt si ans Klavier) vor allem
+                        müess i jetz emol die Romance ferig mache.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Herr Solo, Babette.</stage>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Was ha-n-i g'hört!... grad sàit mr d'Hüsfraü im duregeh,
+                        Sie hewe dr erste Stock noch g'lehnt!... Sin Sie
+                        eigentlig g'schittelt... mr hàn eso scho Mieih fir dure
+                        z'ku!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Eh, grad kämme mr derno besser dure, we mr mehr Platz
+                        hàn... 's isch doch allewil e wenig eng gsi do...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Was isch's eng!... mr hàn jo noch miesse Möwle kaüte, wo
+                        mr do ane ku sin, fir d'Ecke ne wenig
+                        üsz'fille.
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Un derno, 's isch kummod... wenn is owe-n-ebber geniert,
+                        so ziege mr awe un wenn's is unte nimmig
+                        g'fallt, so ziege mr ufe...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(zornig)</stage>
+          <p>C'est ça... mr wandle 's Tags zweimol derno, nitt
+                        wohr... worum nitt gar... wer müess als e Sach
+                        ummenanderschleppe und wieder in Ordnung mache? das
+                        isch's Babette!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Still! was isch das?... hört me nitt Klavier spiele
+                        owe-n-an uns?...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>'s isch wohl mögli... d'Nièce isch ag'ruckt... züe
+                        glicher Zit as wie dr Hüsfraü ihre Suhn.
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Un spielt jetz scho Klavier!... ich bi verlore! mr ziehn
+                        awe, Babette!... nimm e Sach z'àmme!...
+                    </p>
+          <pb n="666 667"/>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(fir sich)</stage>
+          <p>Décidément, er isch g'schittelt... (lüt) awe zieh!...
+                        ich denk nitt emol dra ... wandle Sie, wenn Sie
+                        wandle wànn (se geht üse links).
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(allei)</stage>
+          <p>Was mache?... (er springt uf) Was hör i?... mi Romance,
+                        wo-n-i im Rösle g'macht ha... 's isch 's Rösle,
+                        wo spielt... ich kenn's an sinre Manier... isch's
+                        mögli... (er losst si uf dr Stüehl z'ruckfalle)
+                        Babette!... Babette!...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(lüegt ine)</stage>
+          <p>Was isch... wo brennt's!... ich wandel nitt, das isch
+                        emol fertig!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Babette... mach 's Fenster uf!</p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(geht ans Fenster)</stage>
+          <p>Züe, wànn Se sage... 's isch jo züe... ich ka nit
+                        derfir, we me doch spiele hört!
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Mach's uf, Babette... mach's uf un gang derno in Di
+                        Kuche.
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(verstünt)</stage>
+          <p>'s isch nitt möglig!... (se macht's uf) ich weiss sicher
+                        nimmig, was ich denke soll! (se geht üse links
+                        un zeigt mit dr Hand an d'Stirne; 's Klavier spielt
+                        furt).
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Also denkt se denn doch allewil noch an mich!...
+                        wohrschinlig hat se vo-n-ihrem Oncle erfahre, wer do
+                        wohnt un do hat se gli mi Romance g'spielt, fir mich
+                        züe-n-ere z'riefe... do isch denn kei Zwifel meh
+                        vorhande, se hat mich gern... worum nitt... ich bi jo
+                        nitt eso schlecht... ich mein wahrhaft, ich heb
+                        erst zwanzig Johr in dem Moment... wenn ich's thàt woge
+                        un gieng geh um ihre Hand froge?... Babette,
+                        Babette!...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Ich kumm, ich kumm... (se will 's Fenster züe mache) ich
+                        ha wohl denkt, ass ich's gli wieder müess züe
+                        mache ('s Klavier hört uf mit spiele).
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Loss nur 's Fenster in Rüeh!... De machsch's nie meh
+                        züe... hasch g'hört!...
+                    </p>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <head>G'sang</head>
+          <stage>(tyrolienne)</stage>
+          <stage>Mitnander</stage>
+          <sp who="#herr_solo">
+            <speaker>Herr Solo.</speaker>
+            <lg>
+              <l>Ich bi jetz wie neügebore,</l>
+              <l>Längst isch's mir nitt gsi-n-eso,</l>
+              <l>Drum nur nitt dr Müeth verlore,</l>
+              <l>'s Herz isch g'sund un schlat jetz froh!</l>
+            </lg>
+            <lg>
+              <l>Wenn als d'Liewe kunnt</l>
+              <l>In're spote Stund,</l>
+              <l>Isch als ihre Schwur</l>
+              <l>Desto fester nur!</l>
+              <l>Drum nur nitt dr Müeth verlore,</l>
+              <l>'s Herz isch g'sund un schlat jetz froh!</l>
+            </lg>
+          </sp>
+          <sp who="#babette">
+            <speaker>Babette.</speaker>
+            <lg>
+              <l>Das find ich jetz kurios,</l>
+              <l>Was isch denn wieder los?</l>
+              <l>'s himpelt halt wieder do,</l>
+              <l>Das sieh-n-ich scho!</l>
+            </lg>
+            <lg>
+              <l>Wenn ich dr Friede will,</l>
+              <l>Müess ich halt schwige still,</l>
+              <l>'s himpelt halt wieder do,</l>
+              <l>Das sieh-n-ich scho!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Zeig jetz, Babette... sag mr ufrichtig was thàt me mir
+                        fir e-n-Alter gà?
+                    </p>
+          <pb n="668 669"/>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>He... ich, wo's weiss, gib Ene fufzig Johr... awer
+                        ebber, wo's nitt weisst...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Aha... nitt wohr, ebber, wo's nitt weisst...</p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Ebber, wo's nitt weisst, git Ene güet sechzig...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(zornig)</stage>
+          <p>Was? sechzig!... Dü hasch jo selbst g'sàit dà Morge, ich
+                        heb noch schier keine graüe Hoor... gang, fahr
+                        ab in Di Kuche...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(im üsegeh)</stage>
+          <p>'s isch alleweg ebbes nitt ganz recht im Kopf vom Herr
+                        Solo...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(allei)</stage>
+          <p>'s Babette hat e bös Mül... 's will mich glaüb älter
+                        mache-n-as ich bi, fir ass ich Nieme sott hirothe as
+                        ihn's viellicht... awer dasmol nutzt's nit... ich
+                        wog's... ich bi jo jetz sicher, ass mi 's Rösle gern
+                        hat... drum will i gli geh dr Frack un d'Hànschig alege
+                        un will geh froge... Oh Rösle, Rösle, wie wà mir
+                        eso glicklig si mitnander (er geht üse rechts).
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(kunnt links)</stage>
+          <p>'s nimmt mich nur Wunder, was dr Herr Solo eigentlig
+                        wieder hat... ich weiss scho lang, ass alle
+                        Müsikante mehr oder weniger apufft sin... awer hit
+                        isch's jetz doch e wenig z'bunt... er, wo kei
+                        Instrument un b'sunders kei Klavier hat känne höre,
+                        wil's ne g'stört hat, macht jetz 's Fenster uf, ass
+                        er besser lose ka.... ich kumm nitt do drüs...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(rieft üs sim Zimmer)</stage>
+          <p>Babette!</p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <p>Was b'liebt?...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Gang geh lüege, eb mich dr Herr Hüewer dowe
+                        ka-n-empfange... ich ha-n-ebbes mitem z'rede... awer
+                        wart e
+                        wenig, de müesch mr z'erst mi Kravatte arrangiere...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Jo Herr... (fir sich) was kunnt em i!... steckt em ebbe
+                        d'Nièce im Kopf... awer er hat se jo no nit emol
+                        g'sàh...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(kunnt rechts im Frack un legt d'Hànschig a)</stage>
+          <p>So... do wàr i jetz g'rischtet... schaü emol Babette,
+                        isch mi Litsch güet eso?...
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette.</speaker>
+          <p>Eh, was dr Kückücks wànn Sie geh mache in dem
+                        Costume?... ich ha Se jo scho Johre lang nimmig g'sàh
+                        im
+                        Frack!...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Wenn Dich ebber frogt, Babette, so sàisch nur, De
+                        weisch's nitt... gang jetz geh Di Cummission mache...
+                        's isch awer eigentlig unnöthig... wil ich jetz
+                        g'rischtet bi, so gang ich selbst... schaü liewer no,
+                        wer duss isch... ich hör ebber ku... sag nur, ich bi
+                        nitt d'heim... hasch g'hört... ich ka Nieme
+                        empfange jetz (me klopft a).
+                    </p>
+        </sp>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(macht d'Thüre-n-uf)</stage>
+          <p>Eh, tiens!... 's isch d'Hüsfraü... (fir sich) die wird
+                        jetz aku... ich mach mich üs em Staüb!... (se geht
+                        links üse).
+                    </p>
+          <pb n="670 671"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Herr Solo, Fraü Rumpel.</stage>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Tüe-n-ich Se viellicht störe, Herr Solo?...</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>O was denkt Se, Fraü Rumpel... nitt im G'ringste!...
+                        (fir sich) wenn se nur d'Ente thàte vertrete! (lüt)
+                        thàt Se sitze? (er git ere ne Stüehl).
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel</speaker>
+          <stage>(setzt si)</stage>
+          <p>Ich ha jetz in dem Professor abg'sàit... un 's hat
+                        g'wiss Mieih koste, Se derfe's glaüwe... awer hingege
+                        möcht ich Sie jetz o um e kleiner G'falle aspreche...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Allons... ich müess mi gedulde! (lüt) Güet, Fraü
+                        Rumpel... was miesst das fir e G'falle si? (er sitzt).
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Ich möcht Se froge, eb Se nitt wotte bim Herr Hüewer um
+                        d'Hand vo sinere Nièce froge fir mi Suhn...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(springt uf)</stage>
+          <p>Hein!... was hàn Se g'sàit!</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Ich begriff Ihre Verwunderung... awer ich will Ene
+                        d'ganze G'schichte verzähle...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ne schöne G'schichte... jà!...</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Die junge Lit hàn sich lehre kenne in Basel, wo sich mi
+                        Suhn die letschte Zit ufg'halte hat un wo die
+                        Jumpfre Lehrere isch... un jetz sin se uf hie ku
+                        mitnander, fir d'Hochzit ferig z'mache mit em Oncle...
+                        's Rösle...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s Rösle!... 's isch se!...</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Se heisst schint's Rösle... se hat in mim Suhn g'sàit,
+                        ass wenn se ne g'wisse Romance thàt spiele,
+                        wo-n-er gern hört, so soll er nur herzhaft si
+                        Declaration ku mache, dr Oncle seig derno preveniert...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Un ich, wo g'meint ha, 's isch fir mich!...</p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>'s wàr eigentlig an mir, fir geh z'froge, awer ich wàr
+                        embarrassiert, ich thàt's nitt ane bringe... un do
+                        ha-n-i an Sie denkt... Sie sin jo ne-n-alter
+                        respectawler Mann un känne sich viel besser
+                        presentiere...
+                        Sie thien mir jo wohl dà kleine G'falle, nitt wohr?...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah, ich bi ne-n-alter respectawler Mann!... so müess i's
+                        denn am End doch glaüwe... ich dummer Narr mit
+                        mine Illusione!... O Jugend, Jugend!... so isch's denn
+                        wohr, ass de verschwunde bisch, ohne-n-ass ich's
+                        nur g'achtet ha, un uf eimol kunnt me mir ku sage, ass
+                        ich e-n-alter Mann bi!... (züer Fraü Rumpel) 's
+                        isch güet, ass Sie mich dra g'mahnt hat... sunscht hätt
+                        ich am End e Dummheit begange ('s Klavier spielt
+                        d'Romance wieder).
+                    </p>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Höre Se... se spielt wieder... se-n-isch schint's
+                        ungeduldig... ka-n-ich uf Sie zähle?
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo</speaker>
+          <stage>(nimmt si güeter Müeth wieder)</stage>
+          <p>Ma foi... wil i jetz doch scho g'rischtet bi, sag i nitt
+                        nei... awer mit dr Cundition, ass Ihre Herr Suhn
+                        nitt Horn spielt, so lang as er do im Hüs blibt.
+                    </p>
+          <pb n="672 673"/>
+        </sp>
+        <sp who="#frau_rumpel">
+          <speaker>Fraü Rumpel.</speaker>
+          <p>Oh, wenn's nur das isch... er wird wohrschinlig gar nitt
+                        an dem Instrument halte, wenn er emol
+                        g'hirothe-n-isch...
+                    </p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Allons... wer hätt glaübt vor ere Viertelstund, ass Ich
+                        gang um d'Hand froge vom Rösle fir e-n-Anderer...
+                        Babette, Babette!
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">D'Gliche, Babette.</stage>
+        <sp who="#babette">
+          <speaker>Babette</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Was bliebt?</p>
+        </sp>
+        <sp who="#herr_solo">
+          <speaker>Herr Solo.</speaker>
+          <p>Babette... mach 's Fenster züe!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

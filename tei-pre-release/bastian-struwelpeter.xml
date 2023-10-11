@@ -1,0 +1,3613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Strüwelpeter</title>
+        <title type="sub">Originalmaerel in 7 Bilder un 3 Verwandlunge</title>
+        <author key="wikidata:Q13099282">Ferdinand Bastian</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q107247375</idno>
+        <idno type="methal" xml:id="mtl-203"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/https://www.numistral.fr/ark:/12148/bpt6k91097090</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q107247375">Ferdinand Bastian</author>
+            <title type="main">Strüwelpeter</title>
+            <title type="sub">Originalmaerel in 7 Bilder un 3 Verwandlunge</title>
+            <publisher>C. A. Vomhoff</publisher>
+            <date when="1932" type="print">1932</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="struwelpeter">
+            <persName>Strüwelpeter</persName>
+          </person>
+          <person sex="M" xml:id="mehlstaub_muller">
+            <persName>Mehlstaub, Müller</persName>
+          </person>
+          <person sex="F" xml:id="frau_mehlstaub">
+            <persName>Frau Mehlstaub</persName>
+          </person>
+          <person sex="M" xml:id="natz">
+            <persName>Natz</persName>
+          </person>
+          <person sex="M" xml:id="schang">
+            <persName>Schang</persName>
+          </person>
+          <person sex="M" xml:id="dr_lehrer">
+            <persName>D'r Lehrer</persName>
+          </person>
+          <person sex="F" xml:id="frau_maykuechel">
+            <persName>Frau Mayküechel</persName>
+          </person>
+          <person sex="F" xml:id="frau_biereschnitz">
+            <persName>Frau Biereschnitz</persName>
+          </person>
+          <person sex="M" xml:id="dr_kaminfajer">
+            <persName>D'r Kaminfäjer</persName>
+          </person>
+          <person sex="M" xml:id="acavoyons">
+            <persName>Açavoyons</persName>
+          </person>
+          <person sex="F" xml:id="maykuechel">
+            <persName>Mayküechel</persName>
+          </person>
+          <person sex="F" xml:id="biereschnitz">
+            <persName>Biereschnitz</persName>
+          </person>
+          <person sex="M" xml:id="charlot">
+            <persName>Charlot</persName>
+          </person>
+          <person sex="F" xml:id="isabella">
+            <persName>Isabella</persName>
+          </person>
+          <person sex="M" xml:id="gummielastigum">
+            <persName>Gummielastigum</persName>
+          </person>
+          <person sex="F" xml:id="spitznas">
+            <persName>Spitznas</persName>
+          </person>
+          <person sex="F" xml:id="kath">
+            <persName>Käth</persName>
+          </person>
+          <person sex="M" xml:id="martin">
+            <persName>Martin</persName>
+          </person>
+          <person sex="M" xml:id="dr_ochsewirt">
+            <persName>D'r Ochsewirt</persName>
+          </person>
+          <person sex="F" xml:id="frau_mehlstaub_1">
+            <persName>Frau Mehlstaub</persName>
+          </person>
+          <person sex="M" xml:id="mullersknecht">
+            <persName>Müllersknecht</persName>
+          </person>
+          <person sex="M" xml:id="moppel">
+            <persName>Moppel</persName>
+          </person>
+          <person sex="M" xml:id="monsieur_paragraph">
+            <persName>Monsieur Paragraph</persName>
+          </person>
+          <person sex="F" xml:id="hex_spitznas">
+            <persName>Hex Spitznas</persName>
+          </person>
+          <person sex="U" xml:id="wettermacher">
+            <persName>Wettermacher</persName>
+          </person>
+          <person sex="M" xml:id="wettermannel">
+            <persName>Wettermännel</persName>
+          </person>
+          <person sex="F" xml:id="wetterwiewel">
+            <persName>Wetterwiewel</persName>
+          </person>
+          <person sex="F" xml:id="margrittel">
+            <persName>Margrittel</persName>
+          </person>
+          <person sex="F" xml:id="waldfee">
+            <persName>Waldfee</persName>
+          </person>
+          <person sex="U" xml:id="dr_diefel">
+            <persName>D'r Diefel</persName>
+          </person>
+          <person sex="U" xml:id="sini_grossel">
+            <persName>Sini Grossel</persName>
+          </person>
+          <person sex="F" xml:id="lojebittel">
+            <persName>Löjebittel</persName>
+          </person>
+          <person sex="U" xml:id="springdeifel">
+            <persName>Springdeifel</persName>
+          </person>
+          <person sex="U" xml:id="hupsdeifel">
+            <persName>Hüpsdeifel</persName>
+          </person>
+          <person sex="U" xml:id="fyrdeifel">
+            <persName>Fyrdeifel</persName>
+          </person>
+          <person sex="U" xml:id="vier_klaani_deifel">
+            <persName>Vier klaani Deifel</persName>
+          </person>
+          <person sex="M" xml:id="e_muller">
+            <persName>E Müller</persName>
+          </person>
+          <person sex="M" xml:id="e_metzjer">
+            <persName>E Metzjer</persName>
+          </person>
+          <person sex="M" xml:id="e_winmacher">
+            <persName>E Winmacher</persName>
+          </person>
+          <person sex="M" xml:id="e_schneider">
+            <persName>E Schneider</persName>
+          </person>
+          <person sex="F" xml:id="e_buurefrau">
+            <persName>E Büürefrau</persName>
+          </person>
+          <person sex="M" xml:id="schlagbaum">
+            <persName>Schlagbaum</persName>
+          </person>
+          <person sex="F" xml:id="donna_isabella">
+            <persName>Donna Isabella</persName>
+          </person>
+          <person sex="M" xml:id="cric">
+            <persName>Cric</persName>
+          </person>
+          <person sex="M" xml:id="crac">
+            <persName>Crac</persName>
+          </person>
+          <person sex="M" xml:id="kraftini">
+            <persName>Kraftini</persName>
+          </person>
+          <person sex="M" xml:id="saftini">
+            <persName>Saftini</persName>
+          </person>
+          <person sex="F" xml:id="e_frau_uss-em_publikum">
+            <persName>E Frau üss-em Publikum</persName>
+          </person>
+          <person sex="M" xml:id="bojon">
+            <persName>Bojon</persName>
+          </person>
+          <person sex="M" xml:id="tete">
+            <persName>Tete</persName>
+          </person>
+          <person sex="M" xml:id="heschmichgsehn">
+            <persName>Heschmichgsehn</persName>
+          </person>
+          <person sex="M" xml:id="fricatelli_marius">
+            <persName>Fricatelli Marius</persName>
+          </person>
+          <person sex="M" xml:id="fricatelli_jean">
+            <persName>Fricatelli Jean</persName>
+          </person>
+          <person sex="U" xml:id="bibi-coco">
+            <persName>Bibi-Coco</persName>
+          </person>
+          <person sex="U" xml:id="dr_esel_schakob">
+            <persName>D'r Esel Schakob</persName>
+          </person>
+          <person sex="U" xml:id="dr_bar_chocolat">
+            <persName>D'r Bär Chocolat</persName>
+          </person>
+          <person sex="U" xml:id="ali-baba">
+            <persName>Ali-Baba</persName>
+          </person>
+          <person sex="U" xml:id="zirikdiener_in_gala">
+            <persName>Zirikdiener in Gala</persName>
+          </person>
+          <person sex="U" xml:id="vier_klaani_matrose_clairon">
+            <persName>vier klaani Matrose (Clairon)</persName>
+          </person>
+          <person sex="U" xml:id="vier_klaani_matrose_drummerle">
+            <persName>Vier klaani Matrose (Drummerle)</persName>
+          </person>
+          <person sex="U" xml:id="personal_vom_ballet">
+            <persName>Personal vom Ballet</persName>
+          </person>
+          <person sex="F" xml:id="waldfeekonigin_flora">
+            <persName>Waldfeekönigin Flora</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#struwelpeter"><role><persName>Strüwelpeter</persName></role>, <roleDesc>Zirikdirekter</roleDesc>.</castItem>
+        <castItem corresp="#mehlstaub_muller"><role><persName>Mehlstaub, Müller</persName></role>, <roleDesc>Eltere vum Strüwelpeter</roleDesc>.</castItem>
+        <castItem corresp="#frau_mehlstaub"><role><persName>Frau Mehlstaub</persName></role>, <roleDesc>Eltere vum Strüwelpeter</roleDesc>.</castItem>
+        <castItem corresp="#natz"><role><persName>Natz</persName></role>, <roleDesc>Müllersknecht</roleDesc>.</castItem>
+        <castItem corresp="#schang"><role><persName>Schang</persName></role>, <roleDesc>Müllersknecht</roleDesc>.</castItem>
+        <castItem corresp="#dr_lehrer"><role><persName>D'r Lehrer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#frau_maykuechel"><role><persName>Frau Mayküechel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#frau_biereschnitz"><role><persName>Frau Biereschnitz</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_kaminfajer"><role><persName>D'r Kaminfäjer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#acavoyons"><role><persName>Açavoyons</persName></role>, <roleDesc>Gendarm</roleDesc>.</castItem>
+        <castItem corresp="#maykuechel"><role><persName>Mayküechel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#biereschnitz"><role><persName>Biereschnitz</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#charlot"><role><persName>Charlot</persName></role>, <roleDesc>e klaaner Clowe</roleDesc>.</castItem>
+        <castItem corresp="#isabella"><role><persName>Isabella</persName></role>, <roleDesc>e klaani Seildänzere</roleDesc>.</castItem>
+        <castItem corresp="#gummielastigum"><role><persName>Gummielastigum</persName></role>, <roleDesc>Direkter vun e're Messtibüdik</roleDesc>.</castItem>
+        <castItem corresp="#spitznas"><role><persName>Spitznas</persName></role>, <roleDesc>e verhexti Waldfee</roleDesc>.</castItem>
+        <castItem corresp="#kath"><role><persName>Käth</persName></role>, <roleDesc>e Büürefrau</roleDesc>.</castItem>
+        <castItem corresp="#martin"><role><persName>Martin</persName></role>, <roleDesc>e Blinder</roleDesc>.</castItem>
+        <castItem corresp="#dr_ochsewirt"><role><persName>D'r Ochsewirt</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#frau_mehlstaub"><role><persName>Frau Mehlstaub</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#mullersknecht"><role><persName>Müllersknecht</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#moppel"><role><persName>Moppel</persName></role>, <roleDesc>Gfängiswärter</roleDesc>.</castItem>
+        <castItem corresp="#monsieur_paragraph"><role><persName>Monsieur Paragraph</persName></role>, <roleDesc>Juge</roleDesc>.</castItem>
+        <castItem corresp="#hex_spitznas"><role><persName>Hex Spitznas</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#wettermacher"><role><persName>Wettermacher</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#wettermannel"><role><persName>Wettermännel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#wetterwiewel"><role><persName>Wetterwiewel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#margrittel"><role><persName>Margrittel</persName></role>, <roleDesc>e Waldfee</roleDesc>.</castItem>
+        <castItem corresp="#waldfee"><role><persName>Waldfee</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_diefel"><role><persName>D'r Diefel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#sini_grossel"><role><persName>Sini Grossel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#lojebittel"><role><persName>Löjebittel</persName></role>, <roleDesc>im Diefel siner Sekretär</roleDesc>.</castItem>
+        <castItem corresp="#springdeifel"><role><persName>Springdeifel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#hupsdeifel"><role><persName>Hüpsdeifel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#fyrdeifel"><role><persName>Fyrdeifel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#vier_klaani_deifel"><role><persName>Vier klaani Deifel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_muller"><role><persName>E Müller</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_metzjer"><role><persName>E Metzjer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_winmacher"><role><persName>E Winmacher</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_schneider"><role><persName>E Schneider</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_buurefrau"><role><persName>E Büürefrau</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#schlagbaum"><role><persName>Schlagbaum</persName></role>, <roleDesc>Colporteur</roleDesc>.</castItem>
+        <castItem corresp="#donna_isabella"><role><persName>Donna Isabella</persName></role>, <roleDesc>Kunstrittere</roleDesc>.</castItem>
+        <castItem corresp="#cric"><role><persName>Cric</persName></role>, <roleDesc>Clowe</roleDesc>.</castItem>
+        <castItem corresp="#crac"><role><persName>Crac</persName></role>, <roleDesc>Clowe</roleDesc>.</castItem>
+        <castItem corresp="#kraftini"><role><persName>Kraftini</persName></role>, <roleDesc>römischi Ringkämpfer</roleDesc>.</castItem>
+        <castItem corresp="#saftini"><role><persName>Saftini</persName></role>, <roleDesc>römischi Ringkämpfer</roleDesc>.</castItem>
+        <castItem corresp="#e_frau_uss-em_publikum"><role><persName>E Frau üss-em Publikum</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#bojon"><role><persName>Bojon</persName></role>, <roleDesc>Athlet</roleDesc>.</castItem>
+        <castItem corresp="#tete"><role><persName>Tete</persName></role>, <roleDesc>e ganz klaaner Clowe</roleDesc>.</castItem>
+        <castItem corresp="#heschmichgsehn"><role><persName>Heschmichgsehn</persName></role>, <roleDesc>Zauberküenstler</roleDesc>.</castItem>
+        <castItem corresp="#fricatelli_marius"><role><persName>Fricatelli Marius</persName></role>, <roleDesc>Müsikclowe</roleDesc>.</castItem>
+        <castItem corresp="#fricatelli_jean"><role><persName>Fricatelli Jean</persName></role>, <roleDesc>Müsikclowe</roleDesc>.</castItem>
+        <castItem corresp="#bibi-coco"><role><persName>Bibi-Coco</persName></role>, <roleDesc>e Elephant</roleDesc>.</castItem>
+        <castItem corresp="#dr_esel_schakob"><role><persName>D'r Esel Schakob</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_bar_chocolat"><role><persName>D'r Bär Chocolat</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#ali-baba"><role><persName>Ali-Baba</persName></role>, <roleDesc>e Ries</roleDesc>.</castItem>
+        <castItem corresp="#zirikdiener_in_gala"><role><persName>Zirikdiener in Gala</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#vier_klaani_matrose_clairon"><role><persName>vier klaani Matrose (Clairon)</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#vier_klaani_matrose_drummerle"><role><persName>Vier klaani Matrose (Drummerle)</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#personal_vom_ballet"><role><persName>Personal vom Ballet</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#waldfeekonigin_flora"><role><persName>Waldfeekönigin Flora</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> I. Bild. </head>
+        <stage> Scène: Büürestubb, Iinks im Eck e Kacheloffe, geje d’Mitte e Tisch mit Bänk. Hinte zwische zwei Fenster: mit rotwissgschtriffie Umhängle e Tüer, links d’rvun e grosser Uehrekaschte, rechts e Kaschte. Rechts e Spinnrädel, e Komod, d’rnäwe e Tüer, links e Fenster, e Sessel, e Tüer.  An de Wänd alti Bilder. Mer höert ’s Mühlrad klebbere.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <stage> Frau Mehlstaub, e Dieki mit rote Backe, Gasseweck, Schurz aan, bringt e Kueche, macht üss e're Blechbüechs Zucker druff, deckt d'r Tisch. Glich druff d'r Lehrer, alts Männel mit wisse Hoor im lange Stechschorefrack,  redd bedächtig, nämt allegelte e Pries, klabbt d’Büechs zue.</stage>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Guete Daa, Frau Mehlstaub.</p>
+          </sp>
+          <sp who="#mehlstaub_muller">
+            <speaker>Müllere</speaker>
+            <p>Ah, guete Daa, Herr Lehrer. Was verschafft uns die Ehr’, Euch in d'r Mühl ze sehn? Isch Euch ebbe s’Mehl üssgange?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Nix Mehl. Ich möcht gern mit-em Maischter redde.</p>
+          </sp>
+          <sp who="#mehlstaub_muller">
+            <speaker>Müllere</speaker>
+            <p>Mit-em Müller? Soso! Könnte Ihr mir’s nit anver- troüje?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Doch. Awer ich möcht d'r Maischter d’rbie han.</p>
+          </sp>
+          <sp who="#mehlstaub_muller">
+            <speaker>Müllere:</speaker>
+            <stage>(zum Fenster links)</stage>
+            <p>Michel, kumm hurtli eryn, es isch Bsuech do. Kumme Ihr amend wäje unserem Bue?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Geduld, Frau Mehlstaub, Geduld. Numme d’Ruehj kann’s mache un d’Uewerlajung.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Mir han e Söüi gemetzt, un do gibt's allerlei gueti Stüeckle. Wotte Ihr nit mithalte, dass Euch d'r Saft am Bart nablauft?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Merci. Ich hab mich hitt schun so verzüernt, dass ich küm e Bisse nuntergebrocht hab.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei, was Er nit saat. Ich hab gemaant, numme d’Ruehj kann’s mache.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Zell schun — awer —</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Setze Euch doch, Herr Lehrer <stage>(holt d'r Sessel)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <stage> D’Vorige. Müller, ganz verstaibt.</stage>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Guete Daa, Herr Lehrer. Was han Ihr Guet’s uff-m Herze?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Guet’s? Nit gerote, Maischter Mehlstaub. Ich kumm waje Euerem Peter. <stage>(Setzt sich.)</stage></p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Was hett’r denn widder angschtellt, diss Früechtel?</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Früechtel, ganz, erächt, Früechtel. <stage>(Priest)</stage> Also, Maischter, ich muess mich bitter beklaaue.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Er kummt jede Daa ungewäsche, mit Strüewelhoor, in d’Schuel. E Hals hett’r, mer könnt Ruebsoome druff säje, un Fingernäjel, dass Gottserbarm, wie Adlerkralle Es isch e Schand un e böses Exempel for d’andere Kinder, bsunders wenn mer in e’re Mühl d’haam isch, wo soviel Wasser lauft.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>s’Verdraat halt nit e jed’s s’ Wasser.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Do muess e Ross lache, wenn mer e Frau het, wo so gscheid babbelt.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Euere Bue het nit umesunscht d'r Uewername Strüwel- peter. <stage>(Priest.)</stage> E böses Exempel. Sini devoirs sin so schlecht, dass mer grad griene möcht. Schriewe duet’r wie e Katz, wo in’s Dintefässel getrette isch un derno uff-em cahier erum- lauft.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Mit-m Lese geht's so. Geographie, Gschicht nix, Zeichne nix.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Sei emol still mit dim dumme ei-ei-ei. Herr Lehrer, verzehle mer alles, was Ihr vun dem Galjestrick wisse. Wie isch’s denn mit-em Rechne?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Galjestrick, ganz erächt. <stage>(Priest)</stage> Rechne kann’r guet. Was wobr isch, isch wohr.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Er kann doch ebbs, hesch’s g'höert ?</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Awer Zahle macht’r wie Fleischhooge in e’re Metz.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Schön singe kann’r au noch.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Meh brüehle wie singe, Frau Mehlstaub, un sich mit sine Schuelkamerade erumschlaaue. Betrachte numme sini Büecher, m'r maant grad, e Lumpejudd het sie schun im Lumpesack ghett. So isch’s. Er isch d'r ältscht üss dr ganze Klass, un bliebt allewiel sitze. Un hitt, hitt hett’r d’Schuel gschwänzt. Was saat Sie jetzt, Frau Mehlstaub? <stage>(Priest.)</stage></p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub :</speaker>
+            <stage>(springt uff, hin un her)</stage>
+            <p>Was, er isch näwe d’Schuel? Do soll doch e Haauelwetter — denne soll e Bumm pfetze.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Numme d’Ruhj kann’s mache. Setze Euch, Maischter.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Ich kann nit. Ah, wart, ah, wart, dü Büerschtel. Jetzt isch’s Messel voll. Was zeviel isch, isch zeviel. Ich bind’ ne uff’s Mühlrad und drickel ’ne mit 'me Hewel!</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Ich hab mich gezwunge gsehn, so leid ass mer duet, e Brief an d'r Schuelinspekter zu schriewe, dass der bös Bue zue d'r Schuel nüsskummt. <stage>(Priest.)</stage></p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Zue d'r Schuel nüss. Hörsch’s, Frau?</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei, er isch doch nit so dumm, dass —</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>In de Lumpestreich nit. Ah, wart Büerschtel.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Ganz erächt, Lumpestreich. Er sott sich schämme, so gross un so starik dass’r isch.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>O, er het awer e guet’s Herz.’ Er gäb’s Hemd here.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Ich pfiff-em uff’s Herz un sin Hemd, wo niemes wott. Der Nixnutz isch e Naauel an mim Todebaam. Oh, was het der schun Wichs vun mir bekumme. Gschtroft hab ich ’ne sogar um’s Esse. Awer ich glaab als, dass d’Müllere do ihm als hinterucks ebbs zueschuestert.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>O naan, o naan.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Liej nit, Frau.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere :</speaker>
+            <stage>(grient)</stage>
+            <p>Ich hab 'ne sogar emol in d’Aepfelkammer gschberrt.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Wo d’Confitürhäfe stehn. Ja, diss isch d'r richtig Platz for ze strofe. Frau, Frau, dü bisch nit ze kuriere. Dü verdeck’sch sini Bosheite, sini Spitzbuewereie. Awer wart, Büerschtel, dissmol raucht’s, dissmol danzt d'r Stock uff dim</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Hossebodde erum, dass-es klebbert, un nit ze knapp. Kleb. bere muess-es! : Der arm Bue.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Stille will ich han.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Maischter, wenn ich Euch e gueter Rot derf gänn, lonn ’ne e schwers Handwerik lehre — dass-em d’Ribbe krache. Grobschmidt, odder —</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Goldschmidt wäre besser, odder Sterneeickler.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <stage>(schlaat uff d'r Tisch)</stage>
+            <p>Frau!</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Odder Staanhauer, Zimmermann, Pfläschterer.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Odder Mehlsäck furtdraaue wie unser Esel. Au guet. <stage>(Priest.)</stage></p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Jo, bringe ’ne doch glich um, denne arme Bue.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Bedüür ‘ne numme, diner Herzkäfer.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage> D’Vorige. Frau Mayküechel im Crinolinrock, Frau Biereschħitz im Gasseweck, Näwelskapp uff.</stage>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel :</speaker>
+            <stage>(uffgerejt)</stage>
+            <p>Maischter Mehlstaub, wo isch’r?</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Wer, wo isch'r? Redd Sie, Frau Mayküechel.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Euer frech Bue. Er het mer e Schieb yngeworfe</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Höersch’s Frau? E Schieb!</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Un wie ich gsaat hab, die zahlt awer diner Vadder, hett’r mer e langi Nas gemacht un het gsunge: Mayküechel, Crinolin, D’Schieb isch hin, uff d'r Büehn.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Höersch’s, wie’r schön singe kann.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Wenn ’ne d'r Mayküechel verwitscht, Guetnacht Ohre.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz :</speaker>
+            <stage>(schnell eryn)</stage>
+            <p>Wo isch Euer Nixnutz, Müller?</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Was isch gschehne, Frau Biereschnitz?</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Er hett unserem brave Bello, unserem Hund, e Sprenzkann an de Waddel gebunde.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Hôersch’s, Frau, e Sprenzkann. Do hesch sin guet Herz.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Un jetzt rennt der aım Hund in de Strosse erum dass-es klebbert.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Ja, es wurde noch meh klebbere, Frau Biereschnitz. Was hör ich? Ich glaab, Ihr halte noch zuem.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Im Gejedail, Frau Biereschnitz, im Conträr.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Un wie d'r Gendarm Açavoyons um’s Eck erum kumme isch, isch-em d'r Hund zwische d’Baan gerennt. Wer fallt-anne wie e Mehlsack, isch d'r Gendarm un verschlaat</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>sich d’Nas mitsammt d'r Brill. Jesses, was sin diss for Sache. Gröuj Hoor macht mir der Lüüser.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Maischter, sachte, sachte.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Mache Euch uff e saftiges Protokoll gfasst.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Au diss noch. Ich verlier noch d'r Kopf. Maischter, diss isch gefährlich, wenn Ihr ken zweiter han.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Zell isch wohr. Numme d’Ruehj un d'Uewerlajung kann’s mache. Yan <stage>(Yun drüsse.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Kaminfäjer, Steckeledräjer, Herdlochbutzer, Ziwele- schlutzer!</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Höre ’ne, denne Galjestrick! <stage>(Alli laufe an’s Fenster: hinte rechts, d’Müllere links.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Ufftritt. </head>
+          <stage> D’Vorige, Strüwelpeter im blöüje Blüüs mit Ledergurt, brüni Hosse, rot- un wissgschtreifte Strüempf, Schnalleschueh, luejt verstohle d’Hintertüer eryn, werft d'r Schuelersack unter de Tisch, zopft d'Müllere am Rock.  Müllere (steckt-em Blechbüchs in de Hossebodde, gibt-em e Stück Kueche).</stage>
+          <sp who="#e_muller">
+            <speaker>Müllere :</speaker>
+            <stage>(verzwiefelt)</stage>
+            <p>Bscht! Bscht! Versteckel dich schnell.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Lueje, wie d'r Kaminfäjer ’ne suecht. Er verliert d'r links Schlabbe. Hoha! <stage>(Alli lache)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(sieht d'r Kueche)</stage>
+            <p>Muedder! Muedder!</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Bscht! Bscht! Du krejsch’se <stage>(Mimik)</stage>. Strüwelpeter <stage>(Mimik, sie soll-em Blechbüchs in d’Hosse stecke)</stage>.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Wenn der 'ne verwitscht. Jojo, der gerbt ne windelweich.</p>
+          </sp>
+          <pb n= '10' />
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <stage>(steckt-em Blechbüchs in de Hossebodde, gibt-em e Stück Kueche).</stage>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(macht denne am Fenster)</stage>
+            <p>e langi Nas, schlicht in de Uehrekaschte.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Bscht! Bscht! <stage>(Macht d'r Uehrekaschte zue, un stellt sich vor d'r grosse Kaschte.)</stage></p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Jetzt stulbert’r annoch üewer d’Leiter. Haha!</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Ich glaab, er het ’ne, er het ’ne.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(zue d'r Tüer erüss)</stage>
+            <p>Noch nit, Frau Quätschelstaan mit d'r Näwelskabb.</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Bscht! Bscht!</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Höere, do babbelt’r ierjets. Ich kenn 'ne an d'r Stimm.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Ich glaab's au. Er het gebabbelt.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ja, Frau Crinolin.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Han’r ne g’hôrt?</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Wo steckt’r denn? Peter, wo bisch?</p>
+          </sp>
+          <sp who="#mehlstaub_muller">
+            <speaker>Alli:</speaker>
+            <p>Peter, wo bisch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(mit hohler Stimm)</stage>
+            <p>In d'r Hütt bis üewer d’Ohre, sunscht wär-er verlore. Bscht! Bscht!</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>So e Frechheit, so e. <stage>(Priest.)</stage></p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Unter’'m Tisch lejt siner Schuelersack. <stage>(Alli laufe an de Tisch, lueje nab.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Kückück! Ex üssgelacht! Bscht! Bscht! <stage>(Ali lneje verduzt erum)</stage></p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Do hinne isch’r. Do! Do! <stage>(Ali laufe an d’Sittetüer links.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Ufftritt. </head>
+          <stage> D’Vorige. D’r Kaminfäjer mit d'r Leiter, schnell d’Hintertüer eryn. </stage>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Maischter Mehlstaub, wo isch Euer Lüüser?</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Mer sueche ’ne grad.</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Miner Zorn wachst mer üewer d'r Cylinder. Alli Buewe hett’r uffgschtift, un ruefe mer: Kaminfäjer, Steckele- dräjer, Herdlochbutzer, Ziwelesehlutzer. D'r schwarz Schweis lauft mer an d'r Stirn eraa for lütter Nervezucke.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Herr Kaminfäjermaischter, reje Euch nit uff, es. könnt vun Schade sin.</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Herr Lehrer, miner Zorn wachst als meh.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Numme d’Ruehj kann’s mache.</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Wenn ich e Zorn hab, no wurr ich gfährlich. Un Ihr Müller, Ihr sin-an-allem d’Schuld. Ihr han denne Bue letz ufigezöüje, Ihr g’hörte mit 'me Hewel traktiert.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Diss fehlt mer grad noch. Saawe so ebbs jo nimi, sunscht —</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Ich verlang, dass Ihr denne Boswicht vor mine Aue verprejle, dass-em schwach wurd.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>So isch errächt.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Schad for d’Streich, wo näwetsnüss falle.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Horche, Herr Kaminfejermaischter, ich glaab d’bescht Strof wär, wenn Ihr d'r Peter däte in d’Lehr näme. !</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Ich denne als Lehrbue? Pfui, er isch mer viel ze drecket.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Kaminfäjer, Steckeledräjer, Herdlochbutzer, Ziwe- leschlutzer. <stage>(Alli: « Aha! »)</stage></p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Han’r n’e g’hört, denne Lüüsangel. Wo isch’r? <stage>(Alli: «Wo isch’r? » </stage> <stage>(Horche.)</stage></p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Bscht! Bscht!</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Frau, worum mach’sch dü allegelte «Bscht» ?</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Ejo, ihr brüehle alli so arig, dass mer sin aje Wort nim hört.</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Wo isch’r? Ich zitter, ich rieder.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Still, ich hab's. Weg, Frau, weg! <stage>(Stosst sie uff d’Sitt, risst d'r Kaschte uff.)</stage> Ich hab ’ne! <stage>(Alli: « Aha »)</stage></p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>D’r Hewel. Strüwelpeter: Ex üssgelacht. Müllere: Ei, ei.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub :</speaker>
+            <stage>(winkt)</stage>
+            <p>Do hinne, kumme, dohinne! <stage>(Alli laufe an d’Tüer rechts.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(schlicht in de grosse Kaschte)</stage>
+            <p>Aprillegschirr!</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere :</speaker>
+            <stage>(steht vor de Uehrekaschte)</stage>
+            <p>Ei, ei.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel :</speaker>
+            <p>Do isch’r au nit. Biereschnitz So e Deifelsbue!</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer :</speaker>
+            <p>Maischter, im Uehrekaschte! <stage>(ditt anne, winkt)</stage>. <stage>(Ali uff de Zeh anne.)</stage></p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Strüwelpeter <stage>(schlicht um sie erum unter d'r Tisch)</stage>.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehistaub:</speaker>
+            <p>Isch’s möglieh, do isch’r au nit. Still, ich hör ebbs wischble. Do, do, unterm Tisch. <stage>(Alli grattle hinterenand unter d'r Tisch un ruefe: «Jetzt awer druff ».)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p><stage>(will zue dr Tüer nüss, stulpert)</stage>.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehistaub:</speaker>
+            <p>Halt!, Männel, jetzt klebberts. <stage>(Zejht n’e bis in d'Mitte.)</stage> Dü bisch näwe d’Schuel, wo hesch dich erumgetriewe?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Nierjets.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehistaub:</speaker>
+            <stage>(holt üss)</stage>
+            <p>Wart ich lehr dich nierjets ze sin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Vadder, nit schlaaue, ich hab e Knübbe hinte.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehistaub:</speaker>
+            <p>Ich kenn nix. <stage>(Haut druff.)</stage> So, diss isch for’s Schuel- schwänze, diss isch for’s Schiebinwerfe, diss isch for de Hund mit d'r Sprenzkann am Waddel.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Au, au, halte Vadder.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel :</speaker>
+            <p>Biereschnitz: Als druff! Noch meh! Dass-es raucht.</p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer :</speaker>
+            <p>Müllere: Ei, ei.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p>Dir trieb ich dinni Streich üss, dir, halt — was, was hört mer denn schättere?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Es kummt vum Knübbe, Vadder.</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <stage>(grifft)</stage>
+            <p>Oho, der het jo Blech in de Hosse.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>So e Spitzbue. <stage>(Priest.)</stage></p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub :</speaker>
+            <stage>(holt s’Blech erüss)</stage>
+            <p>Dich solle d’Ente vertrette. So, jetzt wurd’s andersch ohne Knübbe. D’Vorige. Naz, Schang <stage>(Mitteltüen)</stage>, glich druff d'r Gendarm, im blöüje Blüüs, wissi Hosse, Zweispitz uff, e Sawel umghengt. Er het e roti Nas,</p>
+          </sp>
+          <sp who="#schang">
+            <speaker>Schang:</speaker>
+            <p>Maischter, er kummt im Galopp ze renne.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 6 Ufftritt. </head>
+          <stage> e grosser Schnützer, e grossi Brill uff.</stage>
+          <sp who="#natz">
+            <speaker>Naz:</speaker>
+            <p>Maischter, d'r Gendarm! D’r Açavoyons!</p>
+          </sp>
+          <sp who="#_gendarm">
+            <speaker>Gendarm:</speaker>
+            <p>Avec ça! En prison mit-em.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(witscht durich, springt im Gendarm zwische d’Baan, ab.)</stage>
+          </sp>
+          <sp who="#_gendarm">
+            <speaker>Gendarm :</speaker>
+            <stage>(fallt anne)</stage>
+            <p>Avec-ça!</p>
+          </sp>
+          <sp who="#frau_mehlstaub">
+            <speaker>Mehlstaub:</speaker>
+            <p><stage>(Naz un Schang hewe 'ne uff, füehre 'ne an de Sessel.)</stage> Er isch durichgewitscht.</p>
+          </sp>
+          <sp who="#_gendarm">
+            <speaker>Gendarm :</speaker>
+            <stage>(blotzt in de Sessel)</stage>
+            <p>Oweh, oweh, je suis mort, ich bin tot.</p>
+          </sp>
+          <sp who="#ALLE">
+            <speaker>Alli:</speaker>
+            <p> <stage>( «Er isch durich! »)</stage> </p>
+          </sp>
+          <sp who="#dr_kaminfajer">
+            <speaker>Kaminfäjer:</speaker>
+            <p>Es nutzt mich alles nix. Ich muess miner Zorn ab- küehle, sunscht brennt’s. Ihr sin an allem schuld, Mal <stage>(Packt ne.)</stage> s <stage>(Müsik: Tremolo.)</stage> <stage>(Sie schlaaue sich erum, d’Knecht helfe im Maischter; d’Müller wäre schwarz, d'r Kaminfäjer wiss.)</stage> <stage>(D’r Kaminfäjer un d’Müller betrachte sich e Wiel, lache unbändig.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(lüejt ziem Fenster rächts eryn, lacht un batscht in d’Händ. — Rideau. — End vum 1. Bild.</stage>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> II. Bild. </head>
+        <stage> Scène: Platz mit Hieser rechts un links, eweso Strosse. Links e Wirtschaft, d'rvor e Tisch mit Bänk. Nit witt d’rvun e Leiter. Geje hinte  rechts e Messtibüdik mit Ringkampfbilder, d'rvor e Estrade, wo e Gross-  drumm, Zingedeckel un e Piston stehn, Rechts sittwärts Gemüessköerb,  e Eierkorb mit 'me Ei drowe. Alles isch mit 'me Tuech verdeckt Hinter de Köerb e Bänkel, wo e Mantel drowe leijb.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(spielt Reifes)</stage>
+            <p>Bonjour Kamerädle! Han’r gsehne, wie ich d’Blechbüechs verhaue hab bekumme? Haha! Awer dere Frau Biereschnitz un d'r Mayküechlere will ich jetzt e Streich spiele, un dass sie mich nit kenne, setz ich die Larv uff. <stage>(Larv mit Schnützer.)</stage> Hä, so isch’s guet? Kamrädle, wenn d'r Gendarm kummt, ruefe n’r «Attention!» Wölle n’r? Merci! <stage>(Geht nooch hinte links, schellt, stellt sich an d’Wand.)</stage> Biereschnitz! Wer risst denn so arig an d'r Schell? Wer rueft um Hilf? Strüwelpeter <stage>(macht s’nämlich.)</stage> Mayküechel: Hilf! Raiwer! Hilf! Strüwelpeter <stage>(lauft an d’Büdik)</stage>: He, Charlot! Isabella! <stage>(Pfifft.)</stage> Hörsch denn nit? <stage>(macht e’re d'r Reif üewer de Kopf, zeihjt dran, ver- schmiert e’re Gsicht schwarz.)</stage></p>
+          </sp>
+          <pb n= '14' />
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Hilf! Hilf! Raiwer! Raiwer!</p>
+            <stage>(Macht s’Fenster zue.)</stage>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel :</speaker>
+            <stage>(am andere Fenster)</stage>
+            <p>Wer rueft um Hilf?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter </speaker>
+            <stage>(macht s’nämlich.)</stage>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel</speaker>
+            <p>Hilf! Raiwer! Hilf!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(lauft an d’Büdik)</stage>
+            <p>He, Charlot! Isabella! <stage>(Pfifft.)</stage> Hörsch denn nit?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <stage> Charlot, e klaaner Clowe, Isabella, e klaani Seildänzere.</stage>
+          <sp who="#charlot">
+            <speaker>Charlot :</speaker>
+            <stage>(luejt hinterem Rideau erüss)</stage>
+            <p>Ah, dü bisch’s, Strüwel- peter. Was gibt’s Neijs? Kumm Isabella. <stage>(Gehn vor an d’Scène.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Hesch dir’s üewerlajt, was ich dir gsaat hab?</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot :</speaker>
+            <p>Ja, ich un min Schwesterle wölle schun. Waisch, mir sin Waiselkinder.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>D’r Clowe Crie und d'r Crac macht au mit. Villicht noch d'r Athlet Boyon.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Awer dr Kraftini un dr Saftini nit.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Was nit? Armi Schlucker, Dummköpf! Was ver- diene ihr denn?</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Nix.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Haha, diss isch awer wenj.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Mir schaffe numme for d’Kleider un d’Schueh,</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un s’Esse?</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Diss isch arig mauwer.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella</speaker>
+            <p>Mir han allewiel Hunger. Wenn unser Direkter nix verdient, muehn mer als an de Bach unser Esse fische, sunscht däte mer verhungere.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gschieht euch ganz erächt. Ihr g’hörte ch» ver- haue d’rzue.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Wäre mir au.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hör, Charlot, wie ich dir schun gsaat hab. Dü un dini Kamerade un ich, mache e Zirik mitnander. Ich wurr Zirikdirekter, un dü wursch Stallmeischter odder sunscht ebbs. Witte? Un din Schwesterle wurd Kunstrittere. Witte?</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Ja gehsch nimi in d’Schuel?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan. Ich riss üss, furt in d’gross Welt.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Bisch schun gscheid genue?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>E paaar Pfund schwer. Ich kann mini Gscheidheit mit-em Meter messe.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Mach d’Litt nit lache. $trüwelpeter: Glaub mir, ich kann Pferd, Hund un Katze dres- sıere. Charlot Au Flöh un Löwe?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>kann ich. Uewerlaj dr’s nit lang. Mir könne derno läwe wie Prinze. Esse, trinke, Cigarettle rauche, un verdiene jede Daa e Grumbeeresack voll Geld. Un dü, Isabella, könnscht Bonbon schluzze un Biscuit esse, so viel ass dü witt.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Es geht nit.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ihr brenne mit mir durich. Kurasch muss mer han.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Gfitzt wär’s jo, awer es geht nit. Wenn mer verwitscht däte wäre. Jojo!</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>No könnte mir ebbs erläwe. D’r Direkter Gummielastigum isch nit süüfer. Strüwelpeter! Dü, ich kenn e alti Hex im Wald. Die hett e Zaubertee. Wenn mer vun dem e Schluck trinkt, kann mer verschwinde, ohne dass ane ebber sieht.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Hehe, diss verzehlsch in aam, wo d’Hose mit d'r Bisszang zuemacht.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Es isch awer eso.</p>
+          </sp>
+          <sp who="#isabella">
+            <speaker>Isabella:</speaker>
+            <p>Dü liejsch, dü liejsch sicher.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gelöüje hab ich au schun. Awer dissmol nit. Charlot: D’Hand uff’s Herz.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>D’Hand uff’s Herz.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter  :</speaker>
+            <stage>(schlaat uff d'Bruscht)</stage>
+            <p>Do will ich blind wäre, wenn’s nit wohr isch. Also sei gscheid, redd mit dine Kamerade. Ich geh hitt noch in de Wald zue dr Hex Spitz- nas, for denne Zaubertee zu hole. No awer herzhaft ge- trunke, un hui, sin’r verschwunde.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Bscht! Ich hör unsere Direkter kumme. Salü Strüwel- peter! <stage>(Nämt Isabella an d'r Hand, ab in d’Büdik.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Salü Charlot!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage> Strüwelpeter, Gummielastigum im e farhige Kleid, Cylinder uff, vun links.</stage>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Was mach’sch denn dü do?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Nix, Here Direkter Gummielastigum.</p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Nix? Bass uff Männel, ich hab dich doch höre redde mit-em Charlot un d'r Isabella.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hab mit mir gebabbelt.</p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Geh haam un wäsch dich. Dü siehsch nit ganz süüfer drin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>So? Na, jetzt en ich zue mine Kamerade, un saa ne, sie solle nimi in dini Büdik kumme. No hesch d'r Profit. Adie.</p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>He, Männel, he, mach mer ken Plän. Do hesch zwei Grosche. Saasch, alli solle kumme, Kinder, Babbe, Mame, Grossbabbe, Grossmame. N</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss isch jetzt gscheid. Merci, Herr Direkter! <stage>(Pfifft, ab hinter’s Zelt.)</stage></p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Dess Büerschtel het ebbs vor. Do heisst's uffgebasst. He, Charlot, Isabella. <stage>(Ab in d’Büdik, kumme, erüss. D’r Direkter nämt’s Piston, Charlot d’Grossdrumm, Isabella d’Zingedeckel.)</stage> Jetzt wölle m'r d'Litt zammehole! <stage>(Mache Müsik, links ab.)</stage></p>
+          </sp>
+          <pb n= '17' />
+        </div>
+        <div type="scene">
+          <head> 4. Ufftritt. </head>
+          <stage> Spitznas (in roter Beleichtung) mit Ruckkorb, geht schwerfällig am Stock, vun rechts; später Kinder, Strüwelpeter.  Melo:</stage>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ihr Mensche wenn ihr wüsste was e Herzeleid ich draa, Un g’hetzt, verlacht, verspott ich wurr vun Alle jede Daa; Uess jedem Eck, üss Gässle, Strosse ruefts: do kummt sie d’Gäx, Versaife sie im Bach die Alt, die giftig Spitznashex. — — Denk ich zeruck als Waldfeekönigin üss frührer Zitt, An Vôjelgsang, an Waldfeedanz, an Glockebluemgelitt, So duet mer s’Herz so weh. Ich suech un suech e Menschekind, Durch diss ich armes Wese glückselig Erlösung find! <stage>(Wider helli Beleichtung.)</stage></p>
+          </sp>
+          <sp who="#zirikdiener_in_gala">
+            <speaker>Kinder :</speaker>
+            <stage>(im Chor)</stage>
+            <p>Alti Hex, alti Hex.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas :</speaker>
+            <stage>(geht gejes Wirtshüs)</stage>
+            <p>Warte nume, ihr bösi Kinder. Tee! Tee! Wer kauft Tee? Sin ihr au Kinder? Naan, ihr sin Littschinder.</p>
+          </sp>
+          <sp who="#zirikdiener_in_gala">
+            <speaker>Kinder :</speaker>
+            <stage>(batsche in d’Händ)</stage>
+            <p>Alti Hex, Spitznas, alti Hex.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Warte nume. <stage>(Zajt d'r Stock.)</stage> Wenn ich besser laufe könnt, Gnad euch.</p>
+          </sp>
+          <sp who="#e_buurefrau">
+            <speaker>E Bue:</speaker>
+            <p>Alti Hex, Alti Gäx, G’hörsch gedaift, Im Bach versaift! Alti Hex, Alti Gäx! Kinder <stage>(widderhole im Chor)</stage>.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Was isch denn do los? Wölle ihr die alt Frau in Ruehj lonn.</p>
+          </sp>
+          <sp who="#e_buurefrau">
+            <speaker>E Bue:</speaker>
+            <p>He, d'r Strüwelpeter halt noch zue d'r Hex.</p>
+          </sp>
+          <sp who="#zirikdiener_in_gala">
+            <speaker>Kinder:</speaker>
+            <p>He, Strüwelpeter.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Mache, dass’r furtkumme, odder ich verbox euch.</p>
+          </sp>
+          <sp who="#zirikdiener_in_gala">
+            <speaker>Kinder:</speaker>
+            <p>Strüwelpeter, stupf d'r Esel, no geht’r.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(geht uff sie los)</stage>
+            <p>Als los! Kinder <stage>(mit Gschrei ab nooch links)</stage>.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Schön vun dir, Peterle, dass dü mir g’holfe hesch. Bisch au e braver Bue.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Brav? Maansch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wo find ich denn d’Höll?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Jo, brav un au nit. Ich kenn dich <stage>(stricht-em d’Hoor)</stage>. Dü hesch awer Strüwelhoor. Wart, ich bring dir e gueter Pumad, dass sie weich un fyn wäre wie Sied.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich möcht ken Pumad.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Was möcht’sch denn, saa?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hätt e anderer Wunsch. <stage>(M'r hört gedämpfti Zirikmüsik.)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich kenn diner Wunsch. Dü wottsch gern Zirik- direkter wäre.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(verschrocke)</stage>
+            <p>Ja... ja wo-woher waisch denn dü diss?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ja, Bue, ich hab fyni Ohre, ich hör sogar e Floh hueschte.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Könntsch dü mir e Zirik herhexe, e echter Zirik mit Pferd, un, un?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>E Zirik? E Kleinigkeit! Un wiel dü so friendlich zue mir bisch gsin, will ich dir denne Wunsch erfüelle.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>For sicher un gewiss? Liewi Hex, for sicher, isch’s Wohrheit? <stage>(D’Müsik hört uff)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Jaja. Awer aan Bedingung isch d’rbie. Dü muehsch zerscht in d’Höll un im Deifel drei Hoor üss sim Bocksbart zowle. Die muehsch mir bringe.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hui! Die Kommission isch gfährlich. Gell, dü kannsch au e Verschwindibüstee koche? Wottsch dü mir denne gänn?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>kann ich, Peterle, kann ich. Ich bring dir ’ne.</p>
+          </sp>
+          <sp who="#zirikdiener_in_gala">
+            <speaker>Kinder :</speaker>
+            <stage>(kumme widder)</stage>
+            <p>Alti Hex, alti Gäx.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Zaj, gib mer diner Stock. Kinder <stage>(unter Gschrei ab.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hesch gsehne, wie die geloffe sin? Awer hör, Frau, wenn ich diss mache dät, wie kumm ich widder üss d'r Höll?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ei, wie dü die drei Hoor hesch.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich zaj dir d'r Wäj. Odider, wenn d’glich witt, kumm mit mir.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Strüweipeter: Hui, so schnell? Hesch amend Angscht?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Angscht kenn ich nit. Ich hab nit emol Angscht for zwanzig Gendarme.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hihihi, diss isch viel gsaat uff aanmol. Ich glaub dir’s awer erscht, wenn ich die drei Hoor hab. Hopp, dini Hand druff, es soll dich nit reje.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gueti Frau, ich will noch e Düür drüewer schlofe.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Wie dü witt. Hehe. Angsthäsel. <stage>(Ab rechts.)</stage> Angst- häsel, hehe!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(bedenkt sich)</stage>
+            <p>Ich glaab’s ball selwer. <stage>(Kurzi gedämpfti Zirikmüsik.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Ufftritt. </head>
+          <stage> Strüwelpeter, Büürefrau vun rechts, deckt d’Köerb uif, setzt sich, drähjt Dümme. Martin, e Blinder im e lange Mantel, an d'r Bruscht e Däfele «Aveugle», kummt vun links, suecht d'r Wäj mit-em Stock.</stage>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Guete Daa Martin, kumm, ich füehr dich. Dü witt sicher e Schöbbel trinke.</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>Nit gerote, Strüwelpeter. Ich hab ken Geld for so Sache.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Do, Martin, hesch’ zwai Grosche.</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>Oho, wo hesch denn diss Geld her?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Vum Büdikdirekter Gummielastigum. Näm’s numme.</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>Merci. Bisch doch e gueter Bue. Dod’rfor kauf ich mir Brot. Füehr mich do an’s Eck, do gänn mer als d’Litt ebb’s in de Huet. Hesch mich emol üss-em Mühlbach gholt, wo ich nyngfalle bin. Jo, ich waiss-es noch guet. Ich will dir ebbs verrote. D’r Gendarm Açavoyons suecht dich, d'r Kaminfäjer au. Dini Mueter grient, un d'r Maischter Mehlstaub isch arig bös. Er het gsaat, der Lüüsbue kummt mer in e Besserungsanstalt. Was, Martin, in e Besserungsanstalt? Was isch denn diss?</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>Ja, Männel, diss isch e grosses Hüss, wo d’böse Buewe annekumme. Dort muehn sie schaffe, dass-es buttert, un jede Daa gibt's Hewelandiffi, Stocksalat un langer Hawere.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Merci, Martin! Jetzt muess ich durichbrenne, ob ich will odder nit.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 6. Ufftritt. </head>
+          <stage> D'Vorige, d'r Ochsewirt üss-m Wirtshüss, noochher Mayküechel, Biereschnitz mit Korb, vun links.</stage>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Strüwelpeter, kumm her! Gib mer acht uff d’Wirtschaft. Ich muess heidebritsch in d’Apethek. Minni Frau het Weh am grosse Zeh.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ja, wenn awer Litt kumme, soll ich sie bediene?</p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Es wurd niemes kumme.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gib mer schnell dini Kabb un d'r Schurz, dass ich au üssich wie e Wirt.</p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Da, do hesch’s. Ich muess laufe. <stage>(Ab rechts.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(riebt sich d’Händ)</stage>
+            <p>Bonjour, Herr Ochsewirt! <stage>(Bliebt an d’r Tüer stehn.)</stage></p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Guete Daa, Käth!</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Buschur, Frau Mayküechel! Was belieabt?</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Was koschte d’Eier hitt?</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>E Grosche ’s Stüeck.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Was, e Grosche? Diss isch meh wie d’Litt üss- gebittelt. Hett mer jemols so ebbs erlebt?</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Un d'r Butter?</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Fufzeh Süü ’s Pfünd.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Um’s Gottswille! Was saat Sie, Frau Biereschnitz?</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Diss isch unverschämt, so Pries zu verlange for e Pfüendel Butter. Wo kumme mir Fraue anne mit unserem _ Hüssgeld?</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Horche, Kät, wenn Euri Hüehner wüesste, was e Ei koscht, däte sie for Hochmuet erumlaufe wie e Pfoo, un Euri Küehj däte sich in’s Bett laje mit siedene Umhängle un wotte mit Silverbschteck an d'r table d’höte esse.</p>
+          </sp>
+          <pb n= '21' />
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Jaja, as esch öö alles gar griesserli dyr.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Jo, Plän vun Kapperschlabbersche! Was wölle n’r for diss Hüehnel?</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Zwäi Gülde, Frau Biereschnitz.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Ob’s gepermettiert isch?</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Was, zwai Gulde? — Wenn ich e Stüehl hätt, dät ich mich setze vor Schrecke.</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>As esch frisch gemetzt un wejt füenf Pfünd.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel :</speaker>
+            <stage>(schmeckt dran)</stage>
+            <p>Frisch gemetzt? Hm, es müchelt jo. Schmeckt Sie emol, Frau Biereschnitz. Biereschnitz! Es müchelt waier, Frau Mayküechel. Pfui!</p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Ihr müchle öö wan dis Hüehnel müchelt.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>So e Frechheit.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Sie g’hört angezajt, Sie impertinenti Person.</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Mir wäre Ihre zaje, wer müchelt. Kummt Sie, Frau Biereschnitz.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 7. Ufftritt. </head>
+          <stage> D’Vorige. Açavoyons vun links, schellt üss.</stage>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Es wurd bekannt gemacht, dass e wüetiger Hund mit e’re Sprenzkann am Waddel im Städtel erumlauft, Alli Burjer wäre gewarnt. Wer gebisse wurd, isch kapores. Martin, hesch dü d'r Strüwelpeter gsehne?</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>Wenn ich denne sehne könnt, dät ich lache.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Lache? Avec ga! Es wurd bekannt gemacht, dass e wüetigi Sprenzkann —</p>
+          </sp>
+          <sp who="#maykuechel">
+            <speaker>Mayküechel:</speaker>
+            <p>Ah, do ich d'r Gendarm. Herr Gendarm, kumme her un rieche an die Huehn ob die nit e Gschmäckel het for zeh Gulde.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Ich riech nix.</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>For was han Ihr denn e Nas? Mayküecheli Ich maan, sie ich doch gross genue, un derzue noch rot angeloffe.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Ihr Fraue, ken Beleidigung vun e’re staatsan- gschtellte Nas, sunscht, a ça voyons!</p>
+          </sp>
+          <sp who="#biereschnitz">
+            <speaker>Biereschnitz:</speaker>
+            <p>Es isch amend nit wohr? Alli Burjer wisse-es.</p>
+          </sp>
+          <pb n= '22' />
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Wisse-es? Au nom de la loi, verhaft ich Euch. kumme mit uff’s Wachthüss. Kät, Ihr sin Zeije, Martin, dü bisch Zeije, Ochsewirt, Ihr au.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Guet, Herr Gendarm. Näme nume die zwai mit <stage>(Lacht.)</stage> <stage>(Mayküechel un Biereschnitz wölle uff d'r Strüwelpeter los, wäre unter Protescht noch links abgführt.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 8. Ufftritt. </head>
+          <stage> Strüwelpeter. Spitznas vun rechts. (Müsik: Waldfeemotif.)</stage>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ei luej do, d'r Strüwelpeter isch Wirt worre! Gell hesch Angscht vor mir?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Abba.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Jetzt hör emol. Ich hab schnell denne Tee gekochi un gib dir 'ne. Awer die drei Hoor muesch mer bringe in d’Zitt vun drei Daa. Wenn din Wort nit haltsch, so verhex ich dini Eltere, dass sie Katze wäre, un am vierte Daa loss ich dim Vadder d’Müehl abbrenne.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>‘Was, mini Eltere Katze, un au noch d’Müehl ab- brenne? Naan, naan, alles ass diss nit.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Luej emol in miner Ruckkorb, do isch die Budell mit- em Zaubertee.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(luejt nyn)</stage>
+            <p>Ja, ich sieh sie, die Budell. J aja ich sieh sie. Spitznas: Witt sie? — Näm sie!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(langt nyn)</stage>
+            <p>Naan, um’s Gottswille naan. B’halt diner Zaubertee.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich hab gemaant, dü hesch soviel Kürasch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hab ich, awer soviel. doch nit.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hehe, Hasefuess, hehe. Un dü witt Zirikdirekter wäre? Bedenk dich nit lang, griff zue, ich verhelf dir au zue dem Zirik. Wenn dü in die gross Stadt kummsch hin-</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>term Wald, dort steht’r schun wie gewunsche. Sicher, ganz sicher?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ganz sicher. No bisch e stolzer Zirikdirekter, kannsch d’ganz Welt durichreise, un bisch e berüehmter Mann.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Zell schun, awer, awer diss mit denne drei Hoor vum Deifel.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Adie Peterle, hihi. <stage>(Langsam ab, luejt e paarmol erum.)</stage> Adie dumms Peterle, arms Strüwelpeterle, klaans Angschthäsele, Nixnixele. <stage>(Singt:)</stage> Geh schämm dich, geh schämm dich. Hihi.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Frau! Liewi Frau, hör doch.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <stage>(kummt nähcher)</stage>
+            <p>Was witt denn noch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich versprech dir ze mache was dü verlangsch.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Endlich. Schwör, schwör: so wohr ass ich e Seel im Lyb hab.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(hebbt d’link in d’Höh)</stage>
+            <p>Ich schwör.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Nit eso. Mit d'r rechte Hand.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich schwör, dass ich min Verspreche in d’Zitt vun drei Daa halt, so wohr als ich e Seel im Lyb hab. Spitznas: Guet. Lang d’Budell üss-em Ruckkorb. Strüwelpeter <stage>(schnell)</stage>: Merci.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Vergess-es nit. Denk an d’Strof. <stage>(Langsam links ab.)</stage> Vergess-es nit.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(betracht e Wiel d’Budell)</stage>
+            <p>Soll ich sie wegwerfe, odder nit?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas :</speaker>
+            <stage>(vun Wittem)</stage>
+            <p>Hasefüessele, Hasefüessele.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Naan, ich bin ken Hasefuess. <stage>(Luejt d'r Hex nooch, geht an d’Büdik.)</stage> He, Crie und Crae, Saftini, Kraftini! Sin’r alli do? Ich bring denne Zaubertee, wo Euch verschwinde macht. <stage>(ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 9. Ufftritt.</head>
+          <stage> Strüwelpeter, Agavoyons vun links, später d'r Ochsewirt.</stage>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <stage>(schwitzt)</stage>
+            <p>Was unseraaner alles üsszebisse het. Mon Dieu, un e Durscht, un e Hunger. <stage>(Holt üss-em Sack Brot un Wurscht.)</stage> Ochsewirt, e Schobbe! <stage>(Klopft.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(üss-em Eck erüss)</stage>
+            <p>O letz, d'r Açaavoyons! <stage>(Mit tiefer Stimm.)</stage> Was beliebt, Herr Gendarm? Açavoyons: Açavoyons! E Schobbe hab ich gsaat.</p>
+          </sp>
+          <pb n= '24' />
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Glich, Herr Gendarm. Viel Schümm, Herr Gendarm? <stage>(Ab.)</stage></p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Schümm? Avecça! Nix, Bier will ich. Annoch bie denne Zitte.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(bringt e Schobbe im Martin, saat-em ebbs ins Ohr, stellt ’s leer Glas vor de Açavoyons)</stage>
+            <p>So, Herr Gendarm, Gsundheit! <stage>(Ab in Tüer.)</stage></p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Schmeckt’s, Herr Gendarm?</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Mhm! <stage>(Will trinke, luejt in’s Glas.)</stage> He, Ochsewirt, açavoyons, Ihr han mir e leers Glas annegschtellt.</p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Ihr trumbiere Euch. Es isch ganz voll gsin, ich sieh’s am Schümm.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Schümm, Schümm! Avec ça!</p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Ihr wäre’s in de Gedanke leer getrunke han.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Ich hab ken Gedanke.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(winkt, gibt d'r Schurz un d’Kabb im Wirt.)</stage>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt:</speaker>
+            <p>Na, ich hol Euch e andere Schobbe. <stage>(ab.)</stage></p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons :</speaker>
+            <stage>(springt uff)</stage>
+            <p>Aha, d'r Strüwelpeter. En prison!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(schnell d’Leiter nuff.)</stage>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Jetzt hett’s dich, jaja, gradel nume. <stage>(Gradelt hinte- nooch.)</stage> Oweh, ’s wurd mer schwindlich, hewe mich, he- he- we mich.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hab ken Zitt, Herr Açavoyons.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Strüwelpeter, zehj mich eruff, gib mer d’Hand, gib mer d’Hand.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Do müesst ich gebickt sin.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Strüwelpeter, gib mer d’Hand, ich fall sunscht.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Na, ich will dir helfe. <stage>(Gibt-em d’Hand.)</stage> Alle- hoppla!</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Hab ich dich jetzt, hä?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Noch nit <stage>(Springt durichs Fenster, luejt vers gniejt erüss)</stage> Wenn d'r Laubfrosch uff d'r Leiter sitzt, gibt’s schön Wetter.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Wart ich will dich laubfrosche. Avec ça!</p>
+          </sp>
+          <sp who="#dr_ochsewirt">
+            <speaker>Ochsewirt :</speaker>
+            <stage>(mit-em Schobbe, lacht, dass’s Bier üewerlauft)</stage>
+            <p>Ich glaub, ihr zwai mache Gymnastik?</p>
+          </sp>
+          <pb n= '25' />
+          <sp who="#acavoyons">
+            <speaker>Açavoyons :</speaker>
+            <stage>(Gradelt sachte erab)</stage>
+            <p>Jesses, d’Leiter bambelt. Gottseidank, unte sin mer. <stage>(Will ins Wirtshüss.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(schnell d’Leiter erab, verschwind unter'm Mantel vum Martin.)</stage>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons :</speaker>
+            <stage>(sieht ’ne e Moment)</stage>
+            <p>Dissmol geh’sch mer nim</p>
+          </sp>
+          <sp who="#martin">
+            <speaker>Martin:</speaker>
+            <p>durich. Açavoyons, wo isch’r? O, ich verwitsch n’e. Martin, hesch dü d'r Strüwelpeter gsehne? Naan, Herr Gendarm, do dät ich lache.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(pfätzt im Açavoyons in de Wade, hebbt ne am Sawel.)</stage>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons :</speaker>
+            <p>Oho, wer pfätzt mich do? <stage>(Buckt sich, will unter d'r Mantel lueje.)</stage> Avec ça! Ochsewirt! Ich lach mich noch ze tot. <stage>(Ab ins Wirtshüss.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(lauft rechts ab)</stage>
+            <p>Adie Martin.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons :</speaker>
+            <stage>(hintenooch)</stage>
+            <p>Es geht uff Läwe un Tod, <stage>(Holt d'r Sawel erüss.)</stage> Umbringe dueh ich dich. Avec ça!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(luejt am Eck vun d'r Büdik erum)</stage>
+            <p>Kamerädle, isch d'r Gendarm noch do? <stage>(ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 10. Ufftritt. </head>
+          <stage> Vun links: Gummielastigum, Charlot, Isabella, mache Müsik uff dr Estrade, hintenooch Mehlstaub mit "me Hewel, d'Müllere, Mühlknecht, d'r Kaminfäjer, Biereschnitz, Mayküechel, anderi Burjer, wo üss de Hieser kumme, Kinder, stelle sich vor d’Büdik, Strüwelpeter schlicht hinte dran. Açavoyons vun rechts. Charlot un Isabella ab in d'Büdik.</stage>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Hochverehrts Publikum, ehrwüerdigi Fraue, Männer, lie- wi Kinder, min Theater isch’s berüehmscht vun d'r ganz Welt. Vun Schilike, Bische, Hüehne bis noch Baris finde ihr ken’s meh so. Drum, liewi Kinder un anderi Litt, seie froh, dass ich kumme bin, fur Euch unseri Kunst un mini Artiste ze zaje. Ihr wäre Träne lache üewer die gschbassige Clowe- sprüeng, ihr wäre stünne üewer die gross Zauberkunst vum weltberüehmte Zauberer Heschmichgsehn, üewer d’Ring- kämpfer Kraftini un Saftini, üewer d'r Athlet Bojon, wo Ambose in d'r Luft erumwerft als wärde’s Balle. Noch aans lejt mer am Herz. Wenn d’Madam Direkter mit-em Sammel- teller erumgeht, laje ken Hoseknöpf druff, denn vun denne ellaan kann ken Mensch läwe. Jetzt. will ich Euch d'r Ali</p>
+          </sp>
+          <sp who="#ALLE">
+            <speaker>Alli:</speaker>
+            <p>Baba zaje, e Ries, zwai Meter gros, no geht d’Vorstellung los. Entrez, entrez mes amis! Ali Baba kumm erüss Ali Baba! <stage>(Batscht in d’Händ.)</stage> He, Ali Baba! <stage>(Luejt hinter de Umhang, geht nyn.)</stage> <stage>( «Ali Baba! Ali Baba!»)</stage></p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter :</speaker>
+            <stage>(verzwiefelt erüss)</stage>
+            <p>Liewi Litt, mini Artiste sin ver-</p>
+          </sp>
+          <sp who="#ALLE">
+            <speaker>Alli:</speaker>
+            <p>schwunde, ken Mensch meh ze finde. Durichgebrennt! <stage>( «Durichgebrennt?»)</stage></p>
+          </sp>
+          <sp who="#tete">
+            <speaker>Direkter:</speaker>
+            <p>Ich bin rüiniert. Açavoyons: Was, durichgebrennt? Avec ça! Ja, Herr Gendarm. Ich hab dr Strüwelpeter im Ver- dacht, dass er mini Litt uffgschtift het. Er isch e paarmol do erumgschliche. s <stage>(Gemurmel.)</stage></p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Ha, denne Vagebum suech ich üewerall. Awer ich verwitsch’ne. No kummt’r en prison. <stage>(Alli: «En prison !»)</stage> Herr Gendarm, dort hinte steht’r. Hewe ne! <stage>(Alli: «Hewe ’nel»)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(lauft links ab)</stage>
+            <p>Hewe ’ne! <stage>(Alli hintenooch, ruefe «Hewe ’nel» kumme vun rechts, d'r Strüwelpeter springt üewer d’Köerb vun d'r Käth, d’andere au, d'r Asavoyons falls in de Eierkorb.)</stage></p>
+          </sp>
+          <sp who="#kath">
+            <speaker>Käth:</speaker>
+            <p>Mini Aeier, mini Aeier! Herr Gendarm, mini Aeier. <stage>(Müsik-Tremolo.)</stage> <stage>(Strüwelpeter lauft zwaimol um d'Büdik erum, alli hintenooch, Käth lauft mit, verliert d’Schlupfkabb. Strüwelpeter rennt in d’Büdik, alli laufe nyn, Strüwelpeter kummt hinter d'r Büdik erüss, setzt d’Schlupfkabb uff, duet dr Mantel vun dr Käth an.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p><stage>(D'Müsik höert uff.)</stage> Frischi Eier, e Grosche s’Stüeck, frischer Butter, e Gulde s’Pfund. Als noch frischi Eier, Gemües, Salat, Ziewle, Knowli.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <stage>(Alli erüss-em Theater, Iueje um sich, ruefe: «Strüwelpeter wo bisch?)</stage>
+            <p>Strüwelpeter wo bisch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Als noch frischi Eier, Gemüess, Salat, Ziewle, Knowli. <stage>(D'r Hund mit d'r Sprenzkann bellt vun Wittem, kummt vun links)</stage></p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>D'r wüetig Bello kummt, Sauve qui peut! <stage>(Losst d'r Sawel falle, graddelt hinter d'r Leiter in d’Höh.)</stage> <stage>(Müsik.)</stage> Alli krische: «Sauve qui peut!», laufe durichenander in d'Hieser.) <stage>— Rideau. — End vum 2. Bild.</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> III. Bild. </head>
+        <stage>(Müsik: Kurzes Vorspiel.)Scène: Gfängiszell: Im Eck rechts e Holzpritsch, d’rnäwe e Stuehl mit  ’me grosse Wasserkruej. In d'r Mitte e Tisch mit Packpapier, Limhafe, Bänzel. Rechts hoch an d'r Wand e Gitterfenschter; d’Sunn schinnt eryn.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt.</head>
+          <stage> Strüwelpeter sitzt uff d'r Pritsch, d'r Kopf in de Händ vergrawe. Wittlos Kindergsang mit Gejbegleitung: «Au fond des bois J'entends la voix  Du cor qui retentit. L'écho lointain,  Son doux refrain  Au fond du val redit.»</stage>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(horicht, steht uff)</stage>
+            <p>Jetzt geht d’Schüel üss.</p>
+          </sp>
+          <sp who="#e_winmacher">
+            <speaker>Kinderchor:</speaker>
+            <p>«Chagrin, douleur Sortent du cœur Au bruit de leurs accords, Avec les sons De nos chansons Accompagnant les cors.»</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un ich sitz in dem Käffi. <stage>(Ruckt d'r Tisch ans Gitter, luejt nüss.)</stage></p>
+          </sp>
+          <sp who="#e_winmacher">
+            <speaker>Kinderchor:</speaker>
+            <p>«Et dans mon cœur Plein de bonheur Le beau son répété Produit plaisir Et fait partir Le chagrin du passé !» <stage>(Es litt wittlos.)</stage></p>
+          </sp>
+          <pb n= '28' />
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D'r Vorig. Moppel, het e Nas wie e Grumbeer, e Süürkrüttschnützer un e riesiger Büch, rasselt mit-m-e Schlüesselbund, bringt e Esskessel. Luej, wie sie renne, hüpse un luschtig sin! 0, wär ich numme bie’ne!</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Oho! Witt dü mache dass de runter kummsch. Nüss- lueje isch streng verbotte.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>For was isch derno dess Fenschter do?</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Erab saa ich, awer schnell. Strüwelpeter <stage>(geht erab, stellt d'r Tisch zeruck)</stage>.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Wenn ich diss nochemol sieh, kummsch in e dunkli Kellerzell mit Wasser und Brot, in Gsellschaft vun Mies un Ratte,</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hab ken Angscht vor Mies un Ratte.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Hesch dini Portion Dudde gebäbbt?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>So! Worum mt?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’Haam hab ich als Timbres in d’Sammlung ge- bäbbt, — Awer Dudde, abba. Moppel! Guet, no näm ich denne Fricot wiedder mit. Wer nit schafft brüecht au nix ze esse. <stage>(Niest.)</stage> Worum saasch nit: Gsundheit Herr Gfängniswärter?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Mir saat au Niemes Gsundheit.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Büerschtel, ich lehr dich noch e Manichs, wart numme. Witt als noch nit d’Hoor gschnitte han?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan. Die sin mine.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Un d’Näjel gschtutzt?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Die sin au mine.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Bon. Hitt bekummsch noch vom Hammelscherer dini Barik gschnitte, ratzekahl eweg. No wursch mit Süüdwasser, Schmirichelpapier, Schmierseif, Strohbusche un Wurzel- büerscht gefummelt, dass d'r Dreck ewegfliehjt.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Do müesst ich au d’rbie sin. <stage>(Setzt sich uff d'Pritsch.)</stage></p>
+          </sp>
+          <pb n= '29' />
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Männel, dü wursch dich verwundere. <stage>(Langt in de Sack)</stage>. Siesch do denne Ochsewaddel? Der wurd dir an- gemesse bis ass dü weichgsotte bisch.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Herr Gfängniswärter, ich will gern schaffe, awer z'erscht wott ich Permission han, for e bressierti Kommission ze mache.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Haha! Permission? Was fur e Kommission, hä?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hab ebbs versproche, wo bressiert.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Was denn, hä?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss kann ich nit saaue.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Dü Schlöüele, haha. Ich kann mer’s denke. Dü wottsch durichbrenne.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan, sicher nit. Ich schwör, dass ich ball widder do bin.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Jaja, uff Nimmerwiddersehn. Mir sin froh, dass mer dich Vejele endlich verwitscht han. Nix ze mache. Was dätsch mer denn gänn for die Permission?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Vorlaifig nix.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Diss isch din Glüeck, sunscht hätt ich dich wäje Beamtebschtechung angezajt. <stage>(Niest.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gsundheit, Herr Gfängnisdirekter.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel :</speaker>
+            <stage>(macht e Salü)</stage>
+            <p>Merci.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage>D’Vorige. Juge im Amtskleid, lang, maauer, diefi Stimm. (Klopft.)</stage>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Herr Gfängnisdirekter, es klopft drüsse.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Wer isch drüsse?</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Ich, d'r Juge, monsieur Paragraph.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel :</speaker>
+            <stage>(macht unter Kumplimente uff)</stage>
+            <p>Bonjour, Herr Juge Paragraph.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph :</speaker>
+            <stage>(betracht streng d'r Strüwelpeter)</stage>
+            <p>Strüwelpeter, kannsch nit guete Daa Herr Juge saaue, wenn ich kumm?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan, diss kann ich dir nit saaue, Herr Juge. Paragraph: Ungezôüjener Bue. Worum nit?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’r guete Daa isch drüsse vor-em Tor. Paragraph! Un «Sie» muesch zue mir saaue, verschtande! Sie!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Mir saat mer jo au nit Sie.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Hett mer schun so e Frechheit erlebt? Un uffstehn sollsch, wenn ich mit dir redd.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich bin dorin gfüehrt worre, for ze sitze. Un ich bin unschuldig.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>So saaue alli</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(steht uff)</stage>
+            <p>Na, wenn’s alli saaue muess-es doch wohr sin.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Dini Missetate sin bekannt. Dü hesch Schiewe yn- geworfe, d’Hund g’hetzt, d'r Gendarm Açavoyons üssgelacht, un hesch sunscht noch Spitzbüewerei getriewe. Mer het dich sogar gesehne, wie dü mit d'r Hex Spitznas geredd hesch. Worum, fröüj ich dich, hesch dü diss alles gemacht?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’r Herr Lehrer het als gsaat: Prowiert isch üewer stüdiert. Drum hab ich alles prowiert. Un was d'r Herr Lehrer saat, ich gscheid.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>So? Na, mir gänn dir Zitt do drüewer noochze- denke. Vorlaifig wursch dü nooch-em Paragraph 20 397 zue me ganze Johr Gfängnis verdundert wäre. Un hitt wursch im Name vum Gsetz gewäsche un gebüerscht.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Herr Juge, mit Verlaub, er het ken aanzigi Dutt ge- bäbbt. Soll ich-em s’Esse ewegnäme?</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Recht so. Was saasch do d’rzue? Strüewelpeter: Do hinne vergeht aam d'r Appetit.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Herr Moppel, wenn’r nit foljt, nab in de Keller mit- em. Also Büerschtel, Dutte bäbbe. Moppel <stage>(salütiert, macht d’Tüer uff, d'r Lehrer wart drüsse)</stage>.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Herr Juge, ich hab Erlaubnis, d'r Strüewelpeter ze bsueche.</p>
+          </sp>
+          <sp who="#monsieur_paragraph">
+            <speaker>Paragraph:</speaker>
+            <p>Kumme numme eryn, Herr Lehrer, un redde dem Galjestrick in’s Gewisse. <stage>(Ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Ufftritt. </head>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>D’Vorige, ohne Paragraph, d'r Lehrer. Boujour! Strüwelpeter: Guete Daa, Herr Lehrer!</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Es duet mer Leid, dich do uffsueche ze muehn. Awer</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Verschwunde?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Mini Eltere verschwunde?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Grosser Gott, helf!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un ich kann nit helfe!! Gott, o Gott, verzeih mer!</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Bet brav! Wenn ich ebbs erfahr, kumm ich widder.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Hä, wurrsch jetzt weich, Männel?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(lajt d’Händ zamme)</stage>
+            <p>Gueti, liewi Eltere, verzeihe</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Jaja, Peterle, ich bin’s.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(springt uff)</stage>
+            <p>Ach, dü bischs? Wie kummsch denn mini Pflicht isch’s, dir ze saawe, dass sitter gescht dini Eltere verschwunde sin.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Ja! Alli Litt üss-em ganze Städtel han sie g’suecht. Im Wald, üweral. Sie sin nit ze finde gsin. Mer föercht, es isch 'ne ebbs Böses basiert.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>D’Müehl isch leer, s’Mühlrad lauft nim, alles isch wie üssgschtorwe.</p>
+          </sp>
+          <sp who="#dr_lehrer">
+            <speaker>Lehrer:</speaker>
+            <p>Siehsch, Bue, wie witt dass-es kumme isch mit dine lichtsinnige Streich! Womöjlich sin dini Eltere üss Kummer in’s Wasser un d'r aje Bue het sie in d'r Tod getriewe. Un diss alles hesch dü uff-em Gewisse. <stage>(ab.)</stage> mer, Ich will alles for euch duehn. Herr Gfängniswärter, loss mich nüss, ich kumm widder. <stage>(Knejt vor 'ne)</stage> Glaub mir, ich kumm widder, so wohr als ich do knej.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Nix ze mache. <stage>(Lacht, rappelt mit de Schlüessel, ab.)</stage> <stage>(Melo höert uff.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter"><speaker>Strüwelpeter:</speaker><stage>(steht uff, werft sich uff d’Pritsch, grient herzbrechend).</stage>
+            <stage>(Grossi Paus. Es wurd langsam Owe.)</stage></sp>
+        </div>
+        <div type="scene">
+          <head> 5. Ufftritt. </head>
+          <stage> Strüwelpeter, Spitznas.(Roti Beleuchtung; Müsik: Waldfeemotiv.)</stage>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Guete Owe, Strüwelpeterle! Guete Owe!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wer, wer redd denn do? dü durich die schwer ysrig Tüer?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich kumm üeweral nyn ohne Schlüessel. Dü hesch din Verspreche nit g'halte. Die drei Daa sin erum.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wie kann ich denn, wenn ich yngschberrt bin?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Gell, dü hesch gegrine? Hihi.</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hesch’se ghöert?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(verschrocke)</stage>
+            <p>Was isch diss?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hihi! Katze! Strüwelpeter <stage>(schlaat d'Händ vor’s Gsicht)</stage>.</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau! Strüwelpeter; Sin diss amend?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Jaja. Hihi, dini Eltere!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’r Vadder, d’Muedder?</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich hab sie verhext, wie ich dir gsaat hab. Dü bisch gewarnt gsin. Hihi!!</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich kann’s gar nit glauwe, dass mer so bösi Sache mache kann.</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(suecht)</stage>
+            <p>Mer sieht sie jo gar nit.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Diss isch jo grad mini Kunscht.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Bisch dü miner Vadder?</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katz:</speaker>
+            <p>Miau!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Bisch dü mini Muedder?</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katz:</speaker>
+            <p>Miau!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Katzemuedder, spring in d’Luft, un bring dim Bue e Schambong! <stage>(Vun owe e Schambong.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>O Jerum! Katzevadder, spring in d’Luft, un bring dim Bue e Laib Brot un e Budell Schnaps! <stage>(Wie ewe.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Herrjesses!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Glaubsch’s jetzerte? Hihi! Dini Eltere sin mini Diener, solang bis din Verspreche nit g’halte hesch.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>O dü bösi Hex, du giftigi Hex!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Verzüern mich nit, sunscht brennt hitt noch d'Müehl vun dine Eltere ab.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Um’s Gottswille nit. Liewi Hex, alles will ich duen, was dü witt. Mach numme, dass mini Eltere widder Mensche wäre!</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Höersch, wie sie anhalte un jomere?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Es geht mer e Stich in’s Herz, wenn ich sie höer. O, ich armer Bue! Hätt ich numme denne Zaubertee nit angenumme, no wär alles guet! Worum brüch’sch denn die drei dumme Hoor vum Deifel? <stage>(Melo.)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Bass uff, was ich dir jetzt verzehl. Ich haiss Flora un bin Königin vun de Waldfee gsin. Im Maie vorigs Johr, wo alli Baam ihri grüene Aerm geje’s Sunnegold gschtreckt han, wo alli Blüemle im Maiduft gschtande sin, wo alli Käfer gsummt han, un alli Vöejele e Kunzert gänn han, do het’s' unter uns Waldfee e grosses Maifescht gänn. Uffaanmol ich e böser Waldgeischt kumme, un der het mich als sini Frau mitnäme wöelle. Dod’rgeje hab ich mich gewehrt, un üss Zorn het mich der bös Waldgeischt in e Hex verzaubert, wo numme Böeses mache muess. Awer wenn ich erlöst bin, no mach ich numme Guets in de Mensche, un dir besunders.</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katze:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Un alles isch wohr, was dü saasch?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Alles, Peterle!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Stüwelpeter: Ich will dir helfe un alles mache, was de witt! Saa, wie kumm ich denn in d’Höell? Ich weiss d'r Wäj nit. Zwanzigtöüsig Kilometer dief unter'm Bodde. Strüwelpeter: O jo, do kumm ich nim in d’Höh. Doch. Wie dü die drei Hoor hesch. Strüwelpeter: Bin ich derno frei un brüch nim in’s Gfängnis? Dod’rfor loss mich sorje. Strüwelpeter: Un wo sin denn die Litt vun d'r Messtibüdik?</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Die sin bie mir, die sin guet uffg’hebbt bie mir. Strüwelpeter: Kumm, zaj mer d'r Wäj, dummel dich. Katze: Miau! Miau! Stell dich do anne. Halt, näm d'r Schambong, ’s Brot un d’Budell mit, dü kannsch’s unterwäj’s guet brüche. Un noch ebbs! Bet jo nit unterwäjs, sunsch kummsch nit anne. Denk dran, nit bete! Strüwelpeter: Ich denk dran! So, jetzt still un nit gemüxt! <stage>(Hebbt d’Händ üewer ne, drähjt ’ne sechsmol erum.)</stage> Hexekrütt, Hexehütt, Schlangesaft gib dir Kraft, Dreimol rum, dreimol num, Hexezauber deckt dich zue, Hokuspokus, disparu! <stage>(Es wurd finschter, Höllespektakel, Flamme schlaaue üss-em Bodde, d'r Strüwelpeter un d’Hex sin verschwunde. Es wurd widder hell.)</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="scene">
+        <head> 6. Ufftritt. </head>
+        <stage>Moppel, e Wurzelbüerscht, e grossi Scheer unterm Arm, draat e grosser Küewel. </stage>
+        <sp who="#moppel">
+          <speaker>Moppel:</speaker>
+          <p>So Männel, jetzt wursch gewäsche un ge ..... <stage>(Luejt verschrocke um sich.)</stage> Jaja, wo — wo — Jesses! Durich- gebrennt!? <stage>(Stellt d'r Küewel anne, fallt mit-em Kopf nyn, strampelt.)</stage></p>
+          <stage>— Rideau. — End vum 3. Bild. </stage>
+        </sp>
+      </div>
+      <div type="act">
+        <head> IV. Bild.</head>
+        <stage>( Müsik: Kurzes Vorspiel.)Scène: E Wetterhiesel mit ‘me grosse Barometer in d'r Mitte. Rechts un links zwai Rundböjeyngäng, owe zwai grüni Lädle. Hinte un uff beide Sitte vum Hiesel Baim un Hecke, wo noch nit ganz grün sin. Hinte als Abschluss e blöujer Himmel, Brüner Bodde. Ebb dass d'r Rideau uffgeht, hört mer Plumpse. </stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <stage> Strüwelpeter sitzt am Bodde, d’Budell im Arm, luejt in d’Höh. Nit witt  vun-em lejt ’s Brot un dr Schambong. Im e Kreis gehn in gemessene  Schritt ’s Wettermännel rot, ‘s Wetterwiewel blöuj angdohn, es draat e offes Barasönel. (Müsik: Melo.)</stage>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hui! Jetzt bin ich awer erabgsüüt, sicher zwanzigdöüsig Kilometer. Un uffgeblotzt bin ich, dass mer alles weh duet. <stage>(Steht uff, holt diss Dings zamme, grifft an sich nab.)</stage> Bin ich noch ganz? Ja, es fehlt ken Knöchel.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(Vöjel pfiffe: Zitt isch do, d'r Kückück rueft.)</stage>
+            <p>Wo bin ich denn? In d'r Höll sicher nit. Kuckuck, saa, wo bin ich? Hörsch denn nit? <stage>(D’Müsik brecht ab.)</stage> Lüej do, do sin jo Litt. Wer sin denn ihr?</p>
+          </sp>
+          <sp who="#wettermannel">
+            <speaker>Wettermännel:</speaker>
+            <p>Ich bin ’s Wettermännel.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un dü?</p>
+          </sp>
+          <sp who="#wetterwiewel">
+            <speaker>Wetterwiewel:</speaker>
+            <p>Ich bin ’s Wetterwiewel.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ah so! Worum laufe ihr denn allewiel im ringel- rum?</p>
+          </sp>
+          <sp who="#wetterwiewel">
+            <speaker>Wetterwiewel:</speaker>
+            <p>Ei mir muehn ’s Wetter anzaje wo d'r Wetter- macher macht. Wenn ich kumm, gibt's Räje, wenn ’s Wettermännel kummt, gibt’s Sunneschin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss versteh ich nit. Ihr laufe jo alli zwai.</p>
+          </sp>
+          <sp who="#wettermannel">
+            <speaker>Wettermännel:</speaker>
+            <p>Waisch, dr Wettermacher het als sini Lünne, no müehn mer alli zwai laufe. Räje un glich druff d’Sunn. Wie haisch denn dü?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Strüwelpeter.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>D'Vorige. Wettermacher im e brüne Mantel, langer wisser Bart, grüeni langi Hoor; er redd abwechselnd rechts un links durch’s Fenster, schlaat jedsmol ’s Lädel zue. Was witt dü do, dü fremder Bue, In dinne letze Strümpf un Schueh?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Bonjour, Herr Wettermacher! Ah dü bisch der, wo im Summer haiss, un im Winter kalt macht? Exküsier, ich hab in d’Höll gewöllt, e Kommission mache. Könntsch mer nit saaue, wie ich am schnellschte annekumm ? In d’Höll witt dü, o liewer Gott, Dü triebsch mit mir e schlechter Spott!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Naan, sicher nit, Herr Wettermacher.</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Bass uff, un babbel nit so dumm, Sunscht bloost e Sturm dich rakta um! Strüwelpeter: Hoha, dü machsch mich lache. Diss glaab ich nit. Wart, Männel, glich wursch’s gschbiere, sehn, D’r Wettermacher kennt ken Plän. <stage>(E Sturm süüst.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(bambelt hin un her)</stage>
+            <p>Halt!, halt! Ich bambel, ich ..... <stage>(Fallt um.)</stage> Oweh! <stage>(Steht uff, fallt nochemol.)</stage> Hör uff! <stage>(Wetterwiewel un Wettermännel lache.)</stage></p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Was saasch jetzt zue dim Burzelbaam? So hesch noch kener gschlaaue d’haam. Pfui het diss Büerschtel Dreck am Hals, Es sieht jo üss, wie rüesig’s Schmalz!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Geh mir eweck mit dinem Bart! Wo üssieht wie e alti Schwart.</p>
+          </sp>
+          <sp who="#wettermannel">
+            <speaker>Wettermännel:</speaker>
+            <p>Ha-ha-ha !</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Na wart, ich lehr dich d’Litt üsslache, Min Wetter wurd dir aani bache!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage>D’Vorige, e Waldfee mit m’e Kränzel von Margrittel uff, vun links. (Melo.)</stage>
+          <sp who="#margrittel">
+            <speaker>Waldfee Margrittel:</speaker>
+            <p>Herr Wettermacher, möcht dich fröüje, Ob’s hitt noch gibt e Räjeböüje, Un ob’s im Mai schön Wetter gitt, Diss wär de Fee-e ihri Bitt. Sie möchte jetzt schun gäre danze, Begrüesse d’Baam un alli Pflanze.</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>’s isch noch ze früehj, min Feekind, zerscht gibt’s noch Schnee un Räje, Wind.</p>
+          </sp>
+          <sp who="#margrittel">
+            <speaker>Waldfee Margrittel:</speaker>
+            <p>O, sicher nit, dü witt’s nit gschtehn, Wie alles spriesst un rüescht sich schön. ’s Margrittel steckt sin Dellergsichtel, Verschrocke üss-em kurze Klee. D’r Früehjohrswind verzehlt e Gschichtel Vun Sunnefraid un Blüeteschnee.</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Siehsch dort e Spinn, sie webbt e Fade, Un strickt e luftigs Sunnehüüs. No macht sie uff e nejer Laade Mit Muckefüess zuem Alldaaschmüüs. Luej zälli Ameis, wie sie gawelt, Un lüschtert mit de Giggle fyn, Ob’s uff-em Bodde spriesst un zawelt, Ob d’Blüemle gänn schun Huniwin. 's isch wohr, ich hab dich fobbe wölle, Es soll jetzt nimi stüerme, knelle. Un ’s Käfervolk soll lustig summe, Un dini Fee-e derfe kumme! <stage>(D’Müsik höert uff.)</stage> Waldfee Margrittel: Viel Merci, liewer Wettermacher! Bekummsch von mir e gueter Kracher. <stage>(Schiekt e Schmutz, links ab.)</stage> Wetterwiewel: Dü, Wettermännel, unser Maischter isch schun besser gelünnt. Wettermännel: Hesch recht. Er kann au friendlich sin. Strüwelpeter: Ja, ich hab’s ewe gschbiert, wie er mich umge- blose het. Wetterwiewel: Hör, Strüwelpeter, dü könntsch mir e Gfalle mache, un for mich e bissel laufe, dass ich üssruehje könnt. Strüwelpeter: Vun Herze gern, liebs Wetterwiewel! Wettermännel: Muehsch nit! Wenn dü in dem Rundell bisch, kumsch nim erüss. Strüwelpeter: Hoha, diss wär gelacht. Prowiert isch üewer stü- diert, het als d'r Herr Lehrer gsaat. Wetterwiewel: Kumm, gib mer d'Hand, zowel mich erüss. <stage>(Bliebt noochher im Hiesel stehn.)</stage> Wettermännel: Strüwelpeter, do hesch ebbs Dumms gemacht, Strüwelpeter <stage>(nämt’s Baresönel, hüpst nyn, singt)</stage>: Heidideldum, Als runderum, Herzhaft prowiert, Es geht wie gschmiert. Heidideldum, Als runderum!</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Bisch als noch do, dü frecher Bue, Mit dine letzte Strüempf un Schueh!?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Ufftritt. </head>
+          <stage>D'Vorige, Waldfee vun rechts un links, nochher Spitznas, Waldfee: Kumme Waldfeekamerädle, Maiduft spielt im Sunneglanz, Lockt un singt mit Käfersumme, tralala zuem lust’ge Danz. Kumme schnell uff lichte Sohle, d’Vöjel gänn e Freikunzert, D’Gräsle wischble, d’Spinne stricke, dass uns Niemes danze hört. </stage>
+          <sp who="#waldfee">
+            <speaker>Waldfee:</speaker>
+            <p><stage>(Grosses Waldfeeballet.)</stage> Waldfeeschweschtere, d'Hex isch do! D’Hex! <stage>(Laufe unter Gschrei furt. D’Müsik brecht ab.)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Mini Feeekinder, wo ich frühjer ihri Königin bin gsin, laufe vor mir furt. O, diss duet weh. ’s Herz will mer vor Leid verspringe. <stage>(Grient.)</stage> O, diss duet weh.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(will üss-em Kreis erüss)</stage>
+            <p>Wenn ich nume üss dem Ringelerum erüss könnt. Es, es geht nit.</p>
+          </sp>
+          <sp who="#wettermannel">
+            <speaker>Wettermännel:</speaker>
+            <p>Gell! Ich hab dir’s gsaat. Awer dü hesch nit uff mich g’hört.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hex, grien nit.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas :</speaker>
+            <stage>(grient noch ärjer)</stage>
+            <p>D’r Strüwelpeter müesst schun do sin, wenn’r sin Wort g’halte hätt.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Muehsch nit griene! Helf mer doch, dass ich erüss kumm üss dem Ringelerum!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Was, dü bisch’s, Strüwelpeter?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Nadierlich bin ich's. Siehsch denn nit, wie ich zawel.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Gell, dü hesch unterwäjs gebett? Strüwelpeter: Ja, ich, ich hab üewer'm Nabsüüse Angst be- kumme, no, no — un uff anmol bin ich do here geplumpst.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>O Peterle, dü hesch din Verspreche vergesse, hesch dini Eltere vergesse!</p>
+          </sp>
+          <sp who="#natz">
+            <speaker>Katzestimme:</speaker>
+            <p>Miau! Miau!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>O weh, mini Eltere! Ich bin froh, dass dü kumme bisch. Mach schnell e Zauber.</p>
+          </sp>
+          <sp who="#wettermacher">
+            <speaker>Wettermacher:</speaker>
+            <p>Was muss ich höre, d'Hex isch do? Jetzt kann ich mit mim Zorn nim spare, Der Lüüser isch noch seelefroh! Dü Höllebue, in d’Höll sollsch fahre. <stage>(Es wurd finschter, Blitz, Dunner, Sturm, ’s Bild isch verschwunde.)</stage><stage> — Rideau. — End vum 4. Bild.</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> V. Bild. </head>
+        <stage> Scène: Hochi, dunkli Felswänd wie e Schacht. Rechts un links Gäng wo dannetwann ’s Fyr erüssflackert. In d'r Mitte e Tisch, drumerum Bänk. Rechts e Sessel, links vorne Yngang, d’rnäwe e Püpiter mitme grosse Buech, Tintefass, uff-em Bodde e Fedder wie e Besestiel. Schwarzer  Bodde.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <stage> Grossel sitzt im Sessel mit verbundene Backe, grossi Brill uff, un strickt  am e Wollstrumpf. D’r Deifel, Cylinder uff, roti Händschi aan, raucht  Pfiff, sitzt mit-em Löjebittel, Fyrdeifel, Springdeifel am Tisch un spiele Kartes. D'r Hüpsdeifel un vier klaani Deifel stehn an d'r Hinterwand.</stage>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel :</speaker>
+            <stage>(horcht)</stage>
+            <p>Was hört mer denn do howe? Es poltert un blitzt, ass gäbt’s e Erdbewe.</p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Löjebittel:</speaker>
+            <p>Es fahrt allewäj aaner direkt in d’Höll.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Wer gibt?</p>
+          </sp>
+          <sp who="#fyrdeifel">
+            <speaker>Fyrdeifel</speaker>
+            <p>D’r Sekretär Löjebittel.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Awer diss Zuck guet mischle un nit mogle. Luej do, mini Pfiff isch üssgange. Hüpsdeifel, züend’se aan.</p>
+          </sp>
+          <sp who="#hupsdeifel">
+            <speaker>Hüpsdeifel:</speaker>
+            <p>Ja, Maischter Lüzifer. <stage>(Geht an d’Hinterwand, e Fyrfunke fahrt in d’Pfiff, dass Dampf erüsskummt.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Lüjebittel: Maischter, hab ich schun emol gemogelt? Sei still, Löjebittel.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Ihr wäre ball widder Händel han.</p>
+          </sp>
+          <sp who="#hupsdeifel">
+            <speaker>Hüpsdeifel:</speaker>
+            <p>Do, Maischter.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Es isch e bissel haiss do hinne. Hüpsdeifel, loss dr Ventilateur laufe. Was isch Trumpf? Hüpsdeifel <stage>(druckt an d'r Wand uff e Knopf, d'r Ventilateur surrt.)</stage></p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Löjebittel:</speaker>
+            <p>Herz!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Aha, Herz — un zwanzig gemeld.</p>
+          </sp>
+          <sp who="#springdeifel">
+            <speaker>Springdeifel :</speaker>
+            <stage>(springt uff d'r Tisch)</stage>
+            <p>Halt!, halt, diss isch nit wohr.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Was hab ich nit gsaat, do han mer d'r Händel. <stage>(Es schellt.)</stage></p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Löjebittel:</speaker>
+            <p>Maischter, es zowelt aaner an d'r Schell. Er muess starik bressiert sin,</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ich bin nit gern ambediert biem Kartespiele. <stage>(Es schellt stäriker.)</stage></p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Löjebittel:</speaker>
+            <p>Der risst jo d’Schell erab.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Hüpsdeifel, geh nüss un mach dem freche Patron uff! Un Trumpf, un nochemol Trumpf!</p>
+          </sp>
+          <sp who="#springdeifel">
+            <speaker>Springdeifel :</speaker>
+            <stage>(hüpst uff d'r Tisch)</stage>
+            <p>Halt!, Maischter, diss gilt nit.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel :</speaker>
+            <stage>(packt ne am Kraaue)</stage>
+            <p>Erab mit dir, Springdeifel.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D'Vorige. Strüwelpeter <stage>(losst d’Budell etc. am Gang stehn)</stage>. Guete Owe biesamme. <stage>(Macht Kumplimente.)</stage></p>
+          </sp>
+          <sp who="#springdeifel">
+            <speaker>Deifel:</speaker>
+            <p>Was witt dü do, dü Malefitzlüüser?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hahaha!</p>
+          </sp>
+          <sp who="#springdeifel">
+            <speaker>Deifel:</speaker>
+            <p>Was lachsch denn so dumm?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Dü spielsch Kartes im Cylinder un Händschi. Haha!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ich bin e vornehmer Deifel, versteh’sch. Un hitt isch d'r Grossel ihre Geburtsdaa.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ah so. Exküsiersch vielmols.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ich fröüj dich nochemol, was dü do witt.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>E Bsuech mache un lueje wie’s d'r unterirdisch Majestät geht — wenn’s erlaubt isch. Gratülier au Madame Grossel. Viel Gsundheit!</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p><stage>(Alli Deifel verneige sich: «Merci!» Spiele wittersch.)</stage> Diss find ich jetzt nett vun dem Bue. Wie haisch denn?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Strüwelpeter, Madam Grossel. Worum striksch denn Strüempf?</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Ich hab Rhumedisse.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Bie dere Hitz? Do laufe aam d’Schweisstropfe d'r Buckel nab so gross wie Quätschelkerne.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Waisch, miner Enkel Lüzifer macht als Durichzugg mit-em Ventilateur, und diss verdraa ich nit guet.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Hüpsdeifel, stell ’ne ab.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Hüpsdeifel, bring mer miner Kaffee! Hüpsdeifel <stage>(ab in e hintere Gang)</stage>.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Hesch au Zahnweh, wie ich merik, Madam Grossel?</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Ja, Strüwelpeter! Bsunders z’nachts. Ich bring ken Au zuem andere. Es isch nume noch e Stumpe, d'r letscht wo ich hab, awer er macht mer ebbs erunter.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Waisch was, ich zehj d'r ’ne schmerzlos. Dü wurrsch sehn, ich gschbier nix, E Ruck un e Zuck, un hoppla, hüsse isch’r.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Wenn’s eso wär, wär ich froh. Saa, was isch jetzt d'r nejscht Damemode uff d'r Welt?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>O, do dätsch lache. Röck mit meterlange Schleppe, dass d'r Staub zwirwelt, un klaani Dätschhüetle uff, so gross wie e Quätschelmüessflade, un Spitze um de Hals, un Absätz an de Schueh, mer maant sie gehn uff Stelze.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Diss muess nett sin. Han sie au Spitze an de Unterhosse?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Zell au.</p>
+          </sp>
+          <sp who="#hupsdeifel">
+            <speaker>Hüpsdeifel :</speaker>
+            <stage>(mit e’re Wäschschüssel un e Schöpflöffel)</stage>
+            <p>Wohlbekumms, Grossel.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Merci Hüpsdeifel. Witt au versueche, Strüwelpeter ?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Gueter Appetit. Wart, ich hab e Kehlemer Wecke mitgebrocht. <stage>(Schnell links in de Gang.)</stage> Da, denne kannsch dunke.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Dü bisch e gueter Bue. O der Zahn, der Zahnstumpe. <stage>(Schloft noochher üewer'm Stricke yn.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Erlauwe die Herre, dass ich mitspiel?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ja, kannsch denn schun spiele?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un ob. Besser als bete.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Hesch üwerhaupt schun gebet?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Jo, emol. Liewer Gott, mach mich frumm, dass...</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Halt’s Müül! Kannsch au lieje?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>So starik, wie zeh Pferd laufe könne. <stage>(Alli: «Bravo!»)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Na, ze liej emol.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’r Maischter Lüzifer isch emol in’s Müenschter gange un het e grossi Kerz nyngedraaue.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Diss isch gelöüje. Haha! <stage>(Alli lache.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Derno het’r drei Vadderunser gebet.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Haha! Diss isch gelöüje. <stage>(Alli lache.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un emol isch d'r Herr Luzifer in de Himmel zuem Petrüs, for’em e Visitt ze mache.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Der kann lieje dass d’Balike krache. Dü gfallsch mer.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss hab ich mir glich gedenkt. <stage>(Lache.)</stage></p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Löjebittel:</speaker>
+            <p>Minsex, er stellt mich in Schande.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Höer, Strüweles, dü bliebsch bie mir als Owerliejer.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Dod’rfor hab ich ken Zitt. Waisch ich hab e Kommission ze mache. <stage>(Stricht-em am Bart.)</stage> E schöens Bärtel hesch, diss muess mer saaue.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Händ eweck! <stage>(Haut-em uff d’Hand.)</stage> Diss isch miner Stolz. Wer sich dodran vergrifft, der isch verlore.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Jo, wurrsch Gschbass verstehn.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Parole d'honneur, verlore saa ich mit Hütt un Hoor. <stage>(Alli: «Verlore!»)</stage></p>
+          </sp>
+          <sp who="#fyrdeifel">
+            <speaker>Fyrdeifel:</speaker>
+            <p>Maischter, soll ich ne glich päckle?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Noch nit, Fyrdeifel. Saa, Strüweles, kannsch au flueche? Diss kann ich am beschte. <stage>(Lache)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ze fluech emol.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>E Millionehaauelwetter soll dich in de Erdsgrunds- bodde nynschlaaue.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Oho! Mich? Bass uff. Flüech emol dass-es kracht.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>D’r Deifel soll dich hole!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p><stage>(Lache.)</stage> Dü gfallsch mer als besser.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ihr sitze awer drucket biem Kartespiel. Bie uns wurd als aans d’rzue getrunke.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Mer han dato nix.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>O ihr armi Deifel. Awer ich hab ebbs gfitzts.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was ischs denn?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>E Budell gschtohlener Schnaps! <stage>(Alli: «Bravo!»)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Annoch gschtohle? Der muess guet sin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wer gewinnt, bekummt e Schluck.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Angenumme. Setz dich do here. Jetzt kanns losgehn. Gib Karte.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Luej emol dort an d'r Wand, dort lauft e Muck.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was, e Muck?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Dorte! E Stechmuck, zwei, drei, vier. Ganz owe! <stage>(Alli lueje in d’Höh.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(blosst mit-em Blossrohr Erbse uff d'r Deifel)</stage>
+            <p>Ganz owe! <stage>(Risst im Deifel e Hoor erüss.)</stage> Au! <stage>(Zuckt.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ich glaab jo, die steche. He, ihr Deifel, fange sie! Hopp, schnell!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <stage>(Alli springe an de Wänd in d’Höh, d’klaane Deifel hole Gawle.)</stage>
+            <p>Versuech denne Schnaps, dass-es d’andere nit sehn! Deifeli Merci, Strüweles! <stage>(Trinkt.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Strüwelpeter <stage>(risst e Hoor erüss)</stage>. Au! <stage>(Zuckt, setzt ab.)</stage> Fange die Stechmucke, fange sie!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Babbel nit un trink herzhaft. <stage>(Zopft.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ha, ich glaab dü bisch die Stechmuck, hä?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Jo Plän! Es isch grad aani uff dim schöne Spitzbärtel gsesse.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ah so!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Jetzt noch aans, noch aans, no hab ich drei. D’Juhu!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was jodelsch denn?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Es het mich grad e Muck gstoche.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Fyrdeifel, mach d’Höll uff, un jaaue die Stechmucke ins Fyr.</p>
+          </sp>
+          <sp who="#fyrdeifel">
+            <speaker>Fyrdeifel:</speaker>
+            <p>Ja Maischter. <stage>(Rechts ab in e Gang.)</stage> Verwandlung. <stage>(D'Felswand hinte geht in d’Höh. Flammemeer. Rauchwolike schwewe uff un ab.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Herrje, luej do. Do springt aaner in drei Knöpfle nooch, wo in d'r Luft erumflieje. Was het denn der aan- gschtellt?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Diss isch e Müller, der het als Gips un Cement unter’s Mehl gemacht. Jetzt muess’r for d’Strof denne drei Knöpfle noochhüpse.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Nit uewel. Der het nix ze lache. Un zeller dort, wo an dem grosse Dümme nullt — un was for aane, er bringt ’ne küm in’s Müül.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Der isch Metzjer gsin, un het sin Läwe lang als d'r Dümme uff d’Wöüj gelajt, un het ’ne mitgewöüje. For d’Strof muess’r am Dümme nulle.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Au guet. Un zeller dort am Fass mit dem grosse Büch, wo d’ganz Zitt üss-em Kröüj trinkt?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Diss isch e Winfälscher. Er muess for d’Strof siner Burlegyges trinke, bis ass’r verspringt.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss gschieht dem erecht. Luej do d'r Schnieder- hans. Denne hab ich gekennt. Was macht denn der do?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Der het als d’Litt um’s Tuech bschummelt, wo sie ihm gebrocht han. Jetzt muess’r for d’Strof in alli Ewigkeit mit d'r Ell am e Stüeck Tuech messe, ob’s langt for Hosse un Gillet.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Der het au nix ze lache. Jetzt luej do, die Büüre- frau, was isch denn mit dere?</p>
+          </sp>
+          <pb n= '45' />
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Die het als. d'Milich gewässert, un for d'Strof muess sie Wasser im Ständel blotze bis ass-es Butter isch.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Oweh, do wurd’s awer au hewe! Oho, dort hinte laufe e ganzi Portion erum, wo d'r Kopf unter’m Arm draaue.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Diss sin Raiwer un Mörder, wo geköpft sin worre.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Brr, diss isch e bösi Sach. Luej do, do leijt e Zwanzigfrankestüeckel.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Wo? Ich sieh nix. <stage>(Buckt sich.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Do! <stage>(Risst-em e Hoor erüss.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Au! <stage>(Hüpst in d’Höh.)</stage> Ah, dü bisch die Stechmuck? <stage>(Packt 'ne.)</stage> Der Gschbass hört uff. Fyrdeifel, Fyrdeifel! Hüpsdeifel!</p>
+          </sp>
+          <sp who="#fyrdeifel">
+            <speaker>Fyrdeifel :</speaker>
+            <stage>(vun rechts)</stage>
+            <p>Maischter!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Werfe denne Spitzbue in d’Höll, brenn-em sini Barik ab un pfätz-em mit d'r grosse Bisszang d’Fingernäjel küerzer. Wenn’r nit hebbt, schrüb’ne in de Schrübstock.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss loss ich mir nit gfalle!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ich hab do ze kummediere. Deifel packe ne!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich loss mer’s nit gfalle. <stage>(Alli Deifel schleife ’ne hinte ab; d’Hinterwand geht mit Poltere erab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage> D'Grossel. Schlagbaum, e krummbeinigs Männel mit m’e lange Bart, e Korb am Arm, vun links. Noochher alli Deifel. (Es schellt.)</stage>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum :</speaker>
+            <stage>(von drüsse)</stage>
+            <p>Kauscheri Orange, kauscheri Dattle, Feje, Banane!</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel :</speaker>
+            <stage>(verwacht)</stage>
+            <p>Wer macht denn so e Grambol? Ken Deifel isch do? <stage>(Nooch links, macht uff.)</stage></p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>E schainer Güetenowe. <stage>(Luejt um sich.)</stage> E schöüfli Wohnung. Hob ich geglaabt ich kimm in e Po- lascht. Kauscheri Orange, kauscheri Banane. No, liewi Memme, versuech e Dattel, e Fej, alles kauscheri Waar. Süess wie Huni, mainer Seel.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Merci! <stage>(Versuecht.)</stage> Was gibts Nejs uff d'r Welt? <stage>(Setzt sich in de Sessel.)</stage> <stage>(Alli Deifel vun rechts, stehle-n’em d’Waar üss-em Korb.)</stage></p>
+          </sp>
+          <pb n= '46' />
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Oho! Luej do anne! Wer bisch dü?</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Schlagbaum, Herr Deifel. Kauscheri Orange, kauscheri Dattle, Feje, Banane. Liewi Memme, uff d'r Welt isch alles kapaures, alles schöüfel, alles machulle, alles hot d'r Dalles. Kein Mensch will mache e Gschäft.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was geht diss uns aan. Wäje mir geht d’Welt unter.</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>No, kann mer redde vun allem.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Sekretär Löjebittel schrieb in’s Buech: Strüwelpeter, drizeh un e halb Johr alt, Müllersbue. So! No schrieb drunter: Schlagbaum. Wie alt?</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Sechzig, exakt sechzig,</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was for e Gschäft?</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Hob ich gehabt e grausi Firma; d’Lait habe mich bschummelt, no hab ich gemacht Pleite, „Un jetzt bin ich e armer Colporteur.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Siehsch wärsch nit so ehrlich gsin, wärsch hit e richer Mann.</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Es isch mainsex wohr, Herr Deifel. No for was schreibt denn d'r Herr Sekretär alles in diss grause Register?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Bie uns isch Ordnung. Wer do er gschriewe,</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Ah, main Körwelisch isch leer. Schain vun euch, schain. Wüensch e langs Läwe, Wo sain die Masumme?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Was Mummes? Gibt's bie uns nit, höchschtens Bumbes.</p>
+          </sp>
+          <sp who="#schlagbaum">
+            <speaker>Schlagbaum:</speaker>
+            <p>Gott, dü Gerechter, bin ich doch kain meschug- gener Fisch. Wo sain die Masumme ?</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Ihr Deifel, packe ’ne, nüss mit-em, Schlagbaum: Gott dü Gerechter, alles baim Deifel. <stage>(Deifel werfe ’ne links nüss und lache.)</stage> ynkummt, wurd yn-</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Sekretär Löjebittel strich ’ne vorlaifig üss-em Buech.</p>
+          </sp>
+          <sp who="#lojebittel">
+            <speaker>Lôjebittel:</speaker>
+            <p>Ja, Maischter.</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel :</speaker>
+            <stage>(krischt)</stage>
+            <p>O miner Stumpe, oweh, oweh. Hole mer d'r Strüwelpeter, er soll mer d'r Zahn zeje. <stage>(Lauft erum, krischt als ärjer.)</stage> Hole mer d'r Strüwelpeter.</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Fyrdeifel, hole 'ne, schnell, schnell. <stage>(Rechts ab.)</stage></p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>O hätt ich numme die Dattle nit gesse. Oweh, oweh!!</p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel:</speaker>
+            <p>Krisch doch nit eso! i Grossel: Dü hesch guet redde.</p>
+          </sp>
+          <sp who="#fyrdeifel">
+            <speaker>Fyrdeifel:</speaker>
+            <p>Do han mer 'ne.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(kurzi Hoor un Näjel, s’Gsicht un d’Händ verrüest, mit e’re grosse Zang)</stage>
+            <p>Kumm Grossel, setz dich, s’Müül witt uff. Wo sitzt der Stumpe?</p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Do hinte, do hinte.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Denne wäre mer glich han. Grossel <stage>(krischt)</stage>. <stage>(Alli hewe d’Ohre zue.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(steht d'r Grossel mit aam Baan uff d'r Büch)</stage>
+            <p>Do isch’r. <stage>(Beckenschlag. Werft e grosser Zahn uff d'r Bodde. Paukenschlag.)</stage> Hewe ’ne uff, ihr Deifel, un werfe ’ne in’s Fyr! <stage>(Alli rechts ab.)</stage></p>
+          </sp>
+          <sp who="#sini_grossel">
+            <speaker>Grossel:</speaker>
+            <p>Gänn mer ebbs ze gurigle. Oweh, oweh. Deifel <stage>(holt d’Budell)</stage>: Grossel, do gurigel herzhaft.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(sachte in de Gang links, holt d'r Schambong, schlaat ’ne im Deifel e paarmol in's Gnick)</stage>
+            <p>Naau denne Knoche. <stage>(Schnell links ab.)</stage></p>
+          </sp>
+          <sp who="#vier_klaani_deifel">
+            <speaker>Deifel :</speaker>
+            <stage>(fallt um wie e Sack) Verwandlung. Scène: Wildi Gebirjslandschaft, ganz nood an d'r Scène.</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <sp who="#spitznas">
+            <speaker>Spitznas :</speaker>
+            <stage>(Melo)</stage>
+            <p>Wo numme der Strüwelpeter so lang bliebt? <stage>(Däbbelt hin un her.)</stage> Er muesst schun do sin. O, ich ver- zwiefel noch. Sott ’ne amend d'r Höllefüerst gebhalte han? Dis wär jo grässlich. Der guet Bue! Uff d'r ganze Welt gibts ken so Bue meh, wo soviel Kürasch het. Ich hör ebbs. <stage>(Lüschtert.)</stage> Wie will ich mich fraie, wenn ich erlöst bin, wenn ich widder e schöni Waldfeekönigin bin in mim herr- liche Wald. Ah! Ah, do kummt’r ze laufe miner Retter. Gottseidank!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <stage> Strüwelpeter vun links.</stage>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Diss, diss saa ich au. Gottseidank! Gottsei — — ich kann ball nimm schnüüfe, so, so bin ich ge — rennt.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Un wie schön proper dass dü bisch! Strüwelpeter: Annoch! Ich hab rüesiger üssgsehne als d'r Ka- minfäjer. Meh als zwanzigmool hab ich mich unterwäjs an Quellewasser gewäsche.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Je, wo hesch denn dini Strüwelhoor gelonn?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ei in d'r Höll. D’r Luzifer het mer sie durich de Fyrdeifel abbrenne lonn.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hesch die drei Hoor? Gib mer s'e schnell.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ojegele, was hab ich alles durichgemacht,</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Die drei Hoor, die —</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un d’Fingernäjel het’r mer abgepfätzt, ojegele.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Die drei Hoor?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wursch warte könne!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Ich rieder ganz. Dummel dich.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ich hab au warte müehn in dere Höllehitz.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Glaab schun Peterle, gib, gib!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Wart, ich hab sie in e Nussschal gemacht un d'Nuss mit Baamharz zuegelimmt, dass ich nix verlier.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Hesch’s gescheid gemacht. Here mit!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(langt in de linke Hossesack, verschrocke)</stage>
+            <p>Je — jerum!</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Wa-was hesch, dass dü so verschrecksch?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Je-jerum, ich hab e Loch im Sack.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Was? Hesch d’Nuss verlore? O Bue! O Schmerz! Jetzt isch alles, alles verlore!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Was jomersch denn eso? Dü bisch jo e Hex, dü kannsch die Nuss sicher herhexe.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Naan, naan, diss kann ich nit. Ich hab üewer Sache, wo üss d'r Höll kumme, ken Gewalt. O Strüwelpeter, Peterle, min Herz verspringt mer üss Leid un Weh.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Halt! Halt! <stage>(Griffe in de rechte Sack)</stage> Do, do hab ich sie, do hesch die drei Hoor.</p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>O liewer Peterle, goldiger Bue. Merci, merci! <stage>(Dänzelt.)</stage> Ich gschbier schun lychti Füess. Wenn ich e Schritt in miner Wald mach, bin ich widder Waldfeekönigin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Ja, un miner Zirik, wo isch der? <stage>(Wittlos Zirikmüsik.)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Er isch schun do. Hörsch d’Müsik?</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(macht e Luftsprung)</stage>
+            <p>Juhu! <stage>(Rennt links ab)</stage></p>
+          </sp>
+          <sp who="#spitznas">
+            <speaker>Spitznas:</speaker>
+            <p>Peterle, halt! Halt!, vergess dini Eltere nit! E goldiger Bue. Un ich bin erlöest un wurr widder Waldfee- königin, tralala. <stage>(Dänzelt üewer'm Singe ringelrum, rechts ab.)</stage> Tralala! Tralala! <stage>— Rideau. End vum 5. Bild.</stage></p>
+          </sp>
+          <pb n= '50' />
+        </div>
+      </div>
+      <div type="act">
+        <head> VI. Bild. </head>
+        <stage>(Vorspiel: E Galopp.)Lise Scène: Im Vordergrund e zweiteiliger Rideau, derno e Arena mit gälem Bodde. Drumerum Sitzplätz for’s Publikum. Im Hintergrund e Rideau wo alli Artiste ufftrette, un wo bie jedem Ufftritt uff- un zuegezôuje wurd.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <stage>Strüwelpeter vor’m Rideau 1 im Frack, wisses Gillet, Händschi, Cylinder uff, e langi Peitsch in d'r Hand. Bonsoir, salübienbiesamme, Strüwelpeter isch min Name. Bin als stolzer Zirikdirekter Schun e bissel fyner, gschleckter; Was ihr denne Owe sehne Isch noch nierjets Schöner gschehne. Es gibt allerhand for Sache, Liewi Kinder, lache, lache! Ihr sin alli yngelade: Buewe, Maidle, Kamerade. Sicher wurd d'r Zirk Euch gfalle, Batsche herzhaft, ’s derf schun knalle, Arwar, salübienbiesamme, Au e Gruess an Babbe, Mame! (ab.)(Marschmüsik.)</stage>
+          <pb n= '50' />
+        </div>
+        <div type="scene">
+          <head> 2. Ufftritt. </head>
+          <stage> Rideau 1 uff, am Rideau 2 stehn Diener im Gala. Charlot als Clowe, e klaaner Cylinder uff, grossi wissi Händschi aan, e Spazierstœckel in d'r Hand. Donna Isabella, Cric un Crac, Strüwelpeter.</stage>
+          <sp who="#charlot">
+            <speaker>Charlot :</speaker>
+            <stage>(mit ’me Salü)</stage>
+            <p>Hochverehrts Publikum! Unser Direkter, Monsieur Strüwelpeter, het sich die Ehr gänn, for Sie ellaan denne Owe e Extra-Galavorstellung zu gänn. Wie Sie sehn, het sunscht Niemes in d'r Zirk gederft. Als erschti Nummer vum Programm wurd die berüehmt Kunstrittere Donna Isabella uff ihrem Pferd «Etoile» ihri Kunst zaje. -Herr Kapellmaischter!</p>
+            <stage>(Müsik: Galopp.)(Etoile macht Schritt im Takt vun d'r Müsik. Cric bringt e Reif mit  Babier üewerspannt, Etoile springt durich. Crac lauft mit m’e Strüss im  Pferd noch, Crac will im Crie d'r Strüss näme, sie bekumme Händel, bis  vum Strüss noch aan Bluem üewrig bliebt. Crac üewerreicht die Bluem  d'r Donna, Etoile verneigt sich vor'm Publikum, ab. Cric und Crac hintenoch. <stage>(Müsik brecht ab.)</stage></stage>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Verehrti Herrschafte, als Numero zwai wurd d'r Direkter, Mössjö Strüwelpeter, uff sim wilde arabische Hengst «Furioso», wo er selwer dressiert het, erynfajole. <stage>(Müsik.)</stage> <stage>(«Furioso» rast in d'r Manesch erum. Cric nämt d'r Crac uf d'r Buckel, mache Wettlauf mit-em Pferd, wäre umgeritte, bliewe wie tot leje. «Furioso» macht Sätz, schlaat hinte un vorne nüss. Cric graddelt uff, will d'r Crac stracks in d’Höh stelle, fallt um. Cric ab, bringt e Rad ‘un e Stecke, füehrt ne als Schaltkarich ab. «Furioso» stellt sich hoch, Strüwelpeter lüepft d'r Oylinder, ab. <stage>(Müsik brecht ah.)</stage></stage></p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Als Numero drei bekumme die Herrschafte e Spring- seilballet serviert. Herr Kapellmaischter! <stage>(Müsik. Kinderdanz.)</stage> Zwölf Dänzere im Bébékostüm trette uf. Charlot, Cric un Crac, un e klaaner Clowe danze hinte mit. Schienwerferbeleichtung. Biefall. Alles ab. Müsik brecht ab. Diener bringe e Debbi.</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Hochverebrts Publikum, als Numero vier vum Pro- gramm trette zwai römischi Ringkämpfer, d'r Signor Kraf- tini un d'r Signor Saftini uff. <stage>(Beidi verneige sich, gän sich d’Hand. Ringkampf. D’r Kraftini werft d'r Saftini. Tusch. Saftini ab.)</stage></p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Wie die Herrschafte gsehne han, het d'r Signor Kraftini d'r Ringkampf gewunne. Im Name vum Direkter, Mössjö Strüwelpeter, üewerreich ich im Signor Kraftini e goldigi Medaill. <stage>(Tusch)</stage> Wer jetzt üss-em verehrte Publikum 's Kurasch het mit-em Signor Kraftini ze ringe, un die Chance het, 'ne nooch alle Rejle ze werfe, der bekummt döüsig Franke glatt in d’Hand bezahlt. Wer reskiert’s, wer will döüsig Franke gewinne? Niemand? Allez, e bissele Kurasch wenn’s beliebt. Döüsig Fränkle sin nit vun Babbe- deckel, Frau üss-em Publikum <stage>(robust, altmodischer Huet uff, Rock an wo d’Unterhose erüsslueje, Bareblie, Ridicul in d'r Hand)</stage>: Wenn niemes ’s Herz het, ich näm’s mit dem Hosselottel uff. Ich bin Schwerarweit gewöhnt. Kumm emol her!</p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Bravo Madame, aller Respekt. kumme Sie. Frau: Ich wurr dem Kraftini zaje, wo d'r Bartel d'r Moscht holt. <stage>(Lajt Barebli un Ridicul uff d’Sitt.)</stage> So, Männel, jetzt bass uff. <stage>(Uewer'm Ringkampf verliert sie d'r Huet mit de Hoor. <stage>(Bluttkopf.)</stage> Werft Kraftini, steht-em mit am Fuess uf d’Bruscht.)</stage> Voilà! <stage>(Tusch, Biefall, Bravo.)</stage> Rideau 1 zue. Müsik. <stage>(Rideau 1 uff. Uff em Debbi leje grossi Gewichter, e Ysestang mit Köjele. D’r Crac will d’Gewichter lüepfe, s’geht nit. Cric geht unterm e rote Barebli spaziere, hebbt als d'Hand nüss. Crac setzt sich müed uff e Stuehl. Näwe n’em Stuehl steht e Photoapparat.)</stage></p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <p>Dis-donc, camarade Cric, was mach’sch denn?</p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>Ich geh promniere, camarade Crac. Es räjt jo nit. Awer d’Sunn schient. Dü bisch so schön mit dem Bareblie. Ich möcht dich gern photographiere.</p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>Photographiere? Bon, camarade Crac, très aimable. <stage>(Setzt sich uff d'r Stuehl.)</stage></p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <p>C’est ça! <stage>(Schlupft unters Tuech, geht e paarmol zue Cric, stellt 'ne in Positür.)</stage> So, jetzt schön lueje, ken Gri- masse mache, lächle, lächle. <stage>(Schlupft unter’s Tuech.)</stage> <stage>(geht spaziere)</stage>.</p>
+          </sp>
+          <pb n= '52' />
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <stage>(holt 'ne, setzt 'ne, schlupft unter’s Tuech.)</stage>
+            <p>So isch recht. Uffgebasst, un, deux, trois. <stage>(Er schiesst.)</stage></p>
+          </sp>
+          <sp who="#cric"><speaker>Cric:</speaker><stage>(fallt vum Stuehl).</stage>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <p>Pardon, camarade, diss isch e Blitzlichtuffnahm gsin. <stage>(Hebbt ’ne uff, setzt ’ne, fallt nochemol.)</stage> Jetzt mache mer e Photo in Läwesgrösse. <stage>(Stellt Crie uff d'r Stuehl, schlupft unter’s Tuech.)</stage></p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>Cric schlicht an de Apparat, holt e Siphon üss-em Sack, spritzt uff Crac, d’rno vorne in de Apparat. <stage>(ab.)</stage></p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <stage>(schüettelt sich, mit Apparat ab)</stage>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Verehrti Herrschafte, Sie wäre als Numero fünf vum Programm d'r Athlet Mössjö Böjon bewundere, wo mit zentnerschwere Gewichter spielt, als wärde’s Balle. Uess alle Herre Länder het’r schun Medaille bekumme, denn was er macht, kann niemes noochmache. Sie wäre stüne. <stage>(Bojon im e schwarze Tricot, Lederbracelet an de Handrelenk, werft d'Gewichter, fangt sie, schafft mit d'r Ysestang un schwingt sie zehmol hinterenander, E klaaner Clowe bringt-em e Nastuech for d'r Schweiss ze drickle, setzt sich uff d'r Stuehl. Bojon Verneigung. Tusch. Ab. D’r klaan Clowe nämt zwai schweri Gewichter, lauft ab. Diener rüme ab. Rideau 1 zue)</stage> <stage>(Müsik. Rideau 1 uff. Müsik brecht ab.)</stage> <stage>(In d'r Arena steht e schwarzumhängter Tisch mit Uffsatz. D’r Tisch het e runds Loch un steht uff e’re Versenkung. Heschmichgsehn vor'm Tisch, e grosser Cylinder ohne Bodde in d'r Hand, begrüesst ’s Publikum.)</stage></p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Verehrti Herrschafte, d'r weltberüehmt Zauberer Hesch- michgsehn wurd jetzt sini Zauberkunst zum Beschte gänn.</p>
+          </sp>
+          <sp who="#heschmichgsehn">
+            <speaker>Heschmichgsehn:</speaker>
+            <p>Mesdames, messieurs, chers enfants, ich hab nix in d'r Hand als mine Cylinder, denne ich do uff dr Tisch stell. Ich wurr zwai Eier nynschlaaue, voilà, un miner Zauberstock wurd üss-em Cylinder Sache erüsszaubere, wo Euch alle Verwunderung abzwinge wurd. Voilà! <stage>(Babbier- schlange, Sprenzkännel, Gemüess, e Pferdele, e Hämmele, e Kristierspritz, e Balle, e Bubbel, e Kinderhemd, Schueh, Struempf, e Bibberon, e paar Luftballon, am End d'r lawen- dig klaan Clowe. Heschmichgsehn, Clowe ab. Diener draaue die Sache ab.)</stage></p>
+          </sp>
+          <pb n= '53' />
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Als Numero siewe vum Programm, Matrosedanz. <stage>(Es trette uff: vier klaani Matrose mit Clairon, vier klaani Matrose mit Trummle, hintenooch zwölf grösseri Matrose. Wenn die klaane Matrose ihre Claironmarsch fertig han, stelle sie sich uff d’Sitt. Orchester. Matrosedanz. Beleichtung. Wenn d'r Danz ferdig isch, hört’s Orchester uff, d’Clairon blose, alli marschiere ab wie sie kumme sin.)</stage> <stage>(D’r Crac bringt e Stuehl, e Fimer mit Wasser, e Angel, setzt sich uff d’Stuehllehn, fischt. D’r Cric spielt Balles, sieht d'r Crac, werft d'r Balle in de Eimer dass ’s Wasser spritzt. D’r Crac zejt e Häri erüss, werft im Cric d'r Balle nooch.)</stage></p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <p>Dis-donc, Cric, wottsch dü e Franke gewinne?</p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>E Franke? O ja, camarade Crac.</p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <p>Dü muehsch awer z’erscht diss Kunststüeckel mache, wo ich dir vormach.</p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>Angenumme.</p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <stage>(holt e Sprenzelhafe üss-em Sack, steckt 'ne vorne im d’Hosse.)</stage>
+            <p>So, jetzt laj ich e Franke uff d’Stirn, mach e so, un hoppla, lejt d'r Franke im Sprenzelhafe. Hesch’s gsehne?</p>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <p>Haha, diss kann ich au. E Klaanigkeit. So! <stage>(Setzt sich, steckt d'r Sprenzelhafe in d’Hose, balanciert mit-em Franke.)</stage></p>
+          </sp>
+          <sp who="#crac">
+            <speaker>Crac:</speaker>
+            <stage>(schüett-em Wasser in d'r Sprenzelhafe)</stage>
+          </sp>
+          <sp who="#cric">
+            <speaker>Cric:</speaker>
+            <stage>(springt uff, schüettelt d’Hose un will-em d'r Bimer uff- setze. Beide ab. Diener rüme ab.)</stage>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Als Numero acht vum Programm wurd d'r Direkter, Mössjö Strüwelpeter, d'r Elephant Bibi-Coco, wo er dressiert het vorführe.<stage>(Müsik, D’r Elephant danzt im Polkaschritt.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Danz schön, Bibi-Coco, danz. Lüepf schön dini nette Schunke. Allez, Bibi-Coco. Reverence, Bibi-Coco! <stage>(Müsik brecht ab. Beidi ab.)</stage></p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>Hochverehrti Herrschafte! Als Numero nyn vum Programm trette uff die weltberüehmte Müsikklowe frères Fricatelli Jean un Marius. <stage>(Beidi han Holzschueh aan, draaue grossi Kuffer, schwitze, sitze uff d’Kuffer.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Il fait chaud aujourd’hui, mon cher frère Marius.</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Oui. Tu n'as rien à boire, Jean?</p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Non. Cest triste. Halt!, ich hab zwai Aepfel. Aaner for dich un aaner for mich.</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Très bien. <stage>(Holt e grosses Messer üss-em Sack.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean :</speaker>
+            <stage>(macht d'r Kuffer uff, zwai Luftballon fliehje furt)</stage>
+            <p>O-o!</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>O-o! <stage>(Holt e Kinderflint üss-em Kuffer, schiesst.)</stage> O-o!</p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Maintenant nous allons faire un petit concert. <stage>(Zejt d’Holzschueh üss, wo an Schnüer gebunde sin.)</stage> Allons, bataillon marche! <stage>(Holzschueh ab.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Haha, c'est rigolo. <stage>(Will’s noochmache, es geht nit.)</stage> Eh bien commençons. <stage>(Holt üss-em Kuffer e Böüje, spielt uff-em Holzschueh Gej.)</stage> C'est joli Jean, hein?</p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean :</speaker>
+            <stage>(langt üss-em Sack e klaans Trumpetel, blost Bass)</stage>
+            <p>C'est joli, Marius, hein?</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p><stage>(isch verstünt, holt üss-em Kuffer e Spazierstock, blost Clarinett)</stage>, <stage>(E Diener bringt im Jean e Depesch.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Une dépêche! Voyons voir. O-o-o!</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Pourquoi O-o-o?</p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Unseri chère grand-mère isch zuem dritte Mol gschtorwe.</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Nous sommes malheureux.</p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Prête-moi ton mouchoir.</p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius :</speaker>
+            <stage>(holt üss-em Kuffer e Lintuech)</stage>
+            <p>Pleurez, mes enfants, pleurez. <stage>(Alli zwai griene. Noochher holt jeder sini Geij, spiele e Choral.)</stage> <stage>(D’r Diener bringt e Depesch.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Encore une dépêche? Marius, unseri grand’mère isch nit gschtorwe. <stage>(Holt e Bitschelbubb üss-em Kuffer.)</stage> Ma chère cousine, unseri grand'mère isch nit gschtorwe. <stage>(Verschmutzt d’Bubb, lajt sie in de Kuffer.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius :</speaker>
+            <stage>(holt e Teddibär üss-em Kuffer)</stage>
+            <p>Mon cher cousin Teddi, unseri grand’mère isch nit gschtorwe.<stage>(Verschmutzt ’ne.)</stage> <stage>(Danze, singe tralala.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_jean">
+            <speaker>Jean:</speaker>
+            <p>Bonsoir, mes enfants. <stage>(ab.)</stage></p>
+          </sp>
+          <sp who="#fricatelli_marius">
+            <speaker>Marius:</speaker>
+            <p>Bonsoir la Compagnie. <stage>(ab.)</stage></p>
+          </sp>
+          <sp who="#charlot">
+            <speaker>Charlot:</speaker>
+            <p>D’r Esel Schakob, d'r Bär Chocola, in Begleitung vum Ries Ali-Baba stelle sich im verehrte Publikum vor. <stage>(Gehn vor an d’Scene, Ali-Baba in d'r Mitte.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Liewi Kamerädle, do zaj ich Euch d'r Ries Ali- Baba. Er isch so gross, dass’r d’haiss Supp schnell muess esse, sunscht gfriert sie unterwäjs, bis sie in de Maaue kummt. Seie froh, dass ihr nit so gross sin, denn er brücht zeh Meter Tuech for e Kleid, sini Bettlad isch drei Meter lang. Er esst im Daa e Büchkessel voll gschwellti Grum- beere, e gebrotener Hammel un trinkt e Fass Bier d’rzue. Un jetzt wurd sich d'r Esel Schakob mit-em Bär Chocola im e Boxmatch prodüziere. Allez Schakob, allez Chocola, fescht druff. <stage>(D'r Schakob macht biem Boxe: Ya! Ya! D'r Chocola brummelt, Crie un Crac verschlaaue sich mit Söüblose.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Ufftritt. </head>
+          <stage>D'Vorige. Açavoyons, Moppel vun links vorne an d'r Scène. </stage>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Er isch’s, er isch’s. Açavoyons, er isch’s.</p>
+          </sp>
+          <sp who="#moppel">
+            <speaker>Moppel:</speaker>
+            <p>Ken Zwiefel, Herr Gendarm. Arretiere mer ’ne.</p>
+          </sp>
+          <sp who="#acavoyons">
+            <speaker>Açavoyons:</speaker>
+            <p>Er geht uns nimmi durich. Wenn ich kummedier: «Arrêtez-le», no stüerze mer uff 'ne un päckle ’ne. <stage>(Hebbt d’Hand hoch.)</stage> Arrêtez-le! <stage>(Sie wäre vum Schakob un Chocola verboxt. Cric und Crac schlaaue mib Söüblose drin. Biefall. Gongschlaa, Müsik <stage>(Melo)</stage>. <stage>(Es wurd halbdunkel, alli mieselstill.)</stage></stage></p>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekönigin :</speaker>
+            <stage>(unsichtbar)</stage>
+            <p>Strüwelpeter! Strüwelpeter!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Wer rueft mir?</p>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekönigin :</speaker>
+            <p>Hesch dini Eltre ganz vergesse, Uess Stolz und Hochmuet ungemesse, Drum wurd for d’Strof d'r Zirk verschwinde! Suech dini Eltre, wursch sie finde, Ruef herzhaft: Flora, Waldkönigin, No wursch erfahre, wo sie sin. <stage>(Gongschlaa, s’Bild verschwind schnell.)</stage> <stage>— Rideau. — End vum 6. Bild. </stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(steht nooch e’re Wiel uff)</stage>
+            <p>Ach, in mim Kopf</p>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekönigin:</speaker>
+            <p>Peter! Peter, Peterle!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <p>Was hört mer, Müsik? O min armer Kopf.</p>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekünigin:</speaker>
+            <p>Ich bin d’Waldfeekönigin, <stage>(Uess d'r Kulisse)</stage></p>
+            <stage> Scène: Kurz noch-em Rideau, Gebirj, Walddekoration. Grüner Bodde.  Strüwelpeter sitzt im alte Kleid uff-em e Baamstumbe, d'r Kopf in d’Händ vergrawe. Noochher Waldfeekön igin, Waldfee-e, Mehlstaub, sini  </stage>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter </speaker>
+            <p>Waldfeekönigin hin, Waldfeekönigin her, un wenn dü selwer üss Gold wärsch, ich glaub dir nix meh. Dü hesch mich in d’Höll gschickt, wo ich fascht gebrote wär worte, hesch mini Eltere ze Katze verzaubert, hesch d'r Zirik</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> VII. Bild. </head>
+        <stage> Halbdunkel.</stage>
+        <div type="scene">
+          <head> 1. Ufftritt. </head>
+          <stage> Frau.  brüüst’s wie e Sturmwind. Ich suech un suech, un kann mini Eltere nit finde. So ischs, wenn mer nit höert un Plän im Kopf het. Grosser Gott, was mach ich? Gib mer mini Eltere widder. Ich will gern in d'r Mehl schaffe als Knecht. Loss mich s’Müehlrad widder sehn, d'r Bach höere rüsche. Gib mer mini Eltere widder. Flora, Waldkönigin! Hallo! Waldfeekönigin!  (Fini Märelmüsik.)  Bin als Hex verzaubert gsin, Wo nur Böeses het gemacht, Dass mer s’Herz im Lyb gelacht. Jetzt bin ich im Waldrevier, Wo ich mit de Fee regier Un nur Guet’s de Mensche bring Mit mim gold’ne Zauberring. Wer ne schmutzt krejt Fraid un Glüecck Ewig in sin Läwesgschick. (D’Müsik höert uff.) mache verschwinde. d'r Welt.  Un jetzt steh ich do ganz ellaan uff</stage>
+          <sp who="#waldfee">
+            <speaker>Waldfeekünigin:</speaker>
+            <p>Ja, ich waiss; din Herz isch voll, Alles kummt wie’s kumme soll. Ich versteh din Schmerz un Leid, Drum bin ich au gern bereit Dir ze helfe wie dü mir, s’Glüeck bringt dir min Waldrevier! Verwandlung. <stage>(Als Uewerleitung: Fini Märelmüsik.)</stage> Es wurd ganz dunkel, d’Walddekoration isch verschwunde. Wenn’s hell wurd isch e wunderbarer Wald do. Uff e ’me goldene Thron sitzt d’Waldieekönigin, jung, schön, im e Silwerschleierkleid, e goldeni Kron uff. Hüewe un drüewe vom Thron Roseguirlande. Rechts un links vum Thron im Halbkreis stehn Waldfee im grüne Schleier, Bluemekränzle uff. Hinter de Guirlande stehn d’Eltere vum Strüwelpeter. <stage>(Melo.)</stage></p>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekönigin :</speaker>
+            <stage>(winkt, hebbt d’recht Hand nüss)</stage>
+            <p>Strüwelpeterle!</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(isch verwirrt, dröit nit vorzegehn)</stage>
+          </sp>
+          <sp who="#waldfee">
+            <speaker>Waldfeekönigin:</speaker>
+            <p>D’Haame steht e neji Müehl Mit’me Sack voll Gold, soviel Was e Esel draaue kann. Kumm, schmutz miner Zauberring, Dass er dini Eltere bring! Strüwelpeter <stage>(sacht zue Flora, schmutzt d'r Ring)</stage>. <stage>(Uewerdem kumme d’Eltere üss de Roseguirlande.)</stage></p>
+          </sp>
+          <sp who="#schang">
+            <speaker>Wetaieckänigin :</speaker>
+            <stage>(steht uff, hebbt d’Aerm nüss)</stage>
+            <p>Miner Säje, Glüeck un Fraid, Furt isch alles Herzeleid! <stage>(D’Müsik brecht ab.)</stage></p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(knejt anne)</stage>
+            <p>Mini Eltere! Mini liewe Eltere! <stage>(Springt uff, streckt d’Aerm nüss)</stage> Ihr sin’s, ja! Gott im Himmel was e Fraid. Ihr sin widder Mensche. Muedder! <stage>(Umarmt sie.)</stage> Gell dü bisch ken Katzemicker meh?</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Naan. Min liebs schöns Peterle. O Gott, dü bisch so lang furt gsin.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter :</speaker>
+            <stage>(umarmt d'r Vadder)</stage>
+            <p>Un dü Vadder, bisch ken Katzeroller meh?</p>
+          </sp>
+          <sp who="#e_muller">
+            <speaker>Müllere:</speaker>
+            <p>Naan min Peterle.</p>
+          </sp>
+          <sp who="#struwelpeter">
+            <speaker>Strüwelpeter:</speaker>
+            <p>Un brav bin ich worre. Muedder luej, so viel hoch brav, luej, Vadder, so viel noch höecher. Un d’Haam steht e Sack voll Gold in e’re ganz neje Müehl, un — un — <stage>(springt zue Flora, verschmutzt sie)</stage> un vieldöüsigmol merci, liewi, gueti Waldfeekönigin. <stage>(Kurzes Waldfeeballet, Abwechselndi Beleichtung. Es wurd sachte dunkel, d’Müsik verklngt sachte, bis ’s ganze Bild traumhaft verschwunde isch)</stage> <stage> End! </stage></p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

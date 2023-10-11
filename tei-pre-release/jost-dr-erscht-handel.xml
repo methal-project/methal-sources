@@ -1,0 +1,1640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'r erscht Händel</title>
+        <title type="sub">E Farce in 2 Akt (mit d'r nämlich Szenerie) vum Camille Jost</title>
+        <author key="wikidata:Q96489174">Camille Jost</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106606166</idno>
+        <idno type="methal" xml:id="mtl-082"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109686f</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106606166">Camille Jost</author>
+            <title type="main">D'r erscht Händel</title>
+            <title type="sub">E Farce in 2 Akt (mit d'r nämlich Szenerie) vum Camille Jost</title>
+            <publisher>F. X. Le Roux &amp; Cie Strasbourg</publisher>
+            <date when="1928" type="print">1928</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="pierre">
+            <persName>Pierre</persName>
+          </person>
+          <person sex="F" xml:id="lucie">
+            <persName>Lucie</persName>
+          </person>
+          <person sex="M" xml:id="alice">
+            <persName>Alice</persName>
+          </person>
+          <person sex="M" xml:id="albert">
+            <persName>Albert</persName>
+          </person>
+          <person sex="M" xml:id="e_facteur">
+            <persName>E Facteur</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#pierre"><role><persName>Pierre</persName></role>, <roleDesc>e junger
+            Ehmann</roleDesc>.</castItem>
+        <castItem corresp="#lucie"><role><persName>Lucie</persName></role>, <roleDesc>syni
+            Frau</roleDesc>.</castItem>
+        <castItem corresp="#alice"><role><persName>Alice</persName></role>, <roleDesc>syni
+            Cousine</roleDesc>.</castItem>
+        <castItem corresp="#albert"><role><persName>Albert</persName></role>, <roleDesc>Brueder vum
+            Lucie</roleDesc>.</castItem>
+        <castItem corresp="#e_facteur"><role><persName>E Facteur</persName></role>, <roleDesc>(oder
+            e Üsslaifer, Commissionnaire, etc.)</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> I. AKT. </head>
+        <stage>(s isch z’oowes ; ’s Licht brennt.)</stage>
+        <div type="scene">
+          <head> 1. Scène. </head>
+          <stage> Pierre unn Lucie. Beidi sitze am Disch. « Ich hab’ mein Herz in Heidelberg
+            verloren In einer lauen Sommernacht ; Ich war verliebt bis über beide Ohren, Und wie ein
+            Röslein hat ihr Mund gelacht ! » (Er packt syni Frau unn danzt mit’re in d'r Stubb erum.
+            ) in moderne Sache unn bedrachte so e alti, wacklichti Kischt vun wyttem. Ich wott noch
+            nitt emool e Grum- beerekischt drüss gemacht hann !</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(verstimmt)</stage>
+            <p>Dü beeser Mann, ze witt de mich also denne Oowe schun widder ellein lonn ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(wichtig)</stage>
+            <p>Ich muess, lieb’s Lucie ! Mir hann in d'r Societät e pressanti Vorstandssitzung.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Pierre, wo mir awer noch fianciert sinn g’sinn, hesch de als g’saat: «Die in d'r
+              Societät solle mir de Buckel nuffkrawle!» Jetzt awer, wo mir kümm acht Wuche g’hyroot
+              sinn, bisch de schier keine Oowe meh heim : gescht Stammdisch-Daa, hytt
+              Vorstandssitzung, morje Wahlversammlung, iwermorje weiss d'r Gücksel was! Ich glabb
+              als, ass de mich nimmi lieb hesch unn dich drüsse amesiere dhuesch !
+                <stage>(Hyllt.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(umarmt s’e)</stage>
+            <p>Wo denksch dü anne, dü Närrele ? Ich habb dich noch grad so lieb wie am erschte Daa.
+              Awer dü muesch bedenke, ass’s dato uff d’Fescht- unn Wahlperiod losgeht unn ass ich
+              die diverse Aemtle, wo ich akzeptiert habb, au gewissehaft üssiewe muess. Diss
+              Friehjohr awer gibb ich iwerall myni Demission unn no kann ich alle Oowe widder by mym
+              goldiche Wyewele sinn! Gell, myn Schatzele ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Wie wär diss doch so scheen, myn lieb’s Männele, unn gar noch, wenn mir ’s gross Los
+              im Crédit National gewinne d’häte !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Ah, dü meinsch, wyll ich vor vierzeh Daa so e Babierele kauft habb !</p>
+          </sp>
+          <pb n="6"/>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ja, unn morje isch d’Tirasch <stage>(trage - Ziehung)</stage>! Was meinsch, Pierre,
+              wenn unseri Nummer als erschti erüss käm ! E ganzi, bari Million dhäte mir üssbezahlt
+              bekumme ! Wie kennte mir do glicklich läwe !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Lieb’s Kind, mir hann au ohne e Million, was mir zuem Läwe brüche. Unn wenn dü mich
+              dezue noch arich lieb hesch, ze pfyff ich uff alli Millione vun d'r Welt !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>O, dü Liewer ! <stage>(Gitt'm e Schmutz.)</stage> Awer nitt wohr, m'r därf doch devun
+              redde, was m'r in so e’me Fall macht ? Ich habb mir schun üssgedenkt, was ich alles
+              anfang, wenn mir ’s grosse Los gewinne.</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(lacht)</stage>
+            <p>Jetzert isch die Frau wajer schun am Gewinne unn hett erscht noch vor zwei Minütte
+              vum « Gewinne- dhäte» geredd! Unn unterm grosse Los macht s’e’s au noch hitt emool
+              !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Warum au nitt ? Zue mym grosse Glick in d'r Lieb basst numme ’s gross Los im Crédit
+              National! Jetzt saa awer emool, Alterle, wie dü diss viele Geld anleije dhätsch ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Na, Lucie, dir zelieb will ich emool annemme, ’s wär so wytt! Uff jede Fall dhät ich
+              mir defur bombe- sicheri Staats- unn Indüschtriebabierer kaufe.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Diss will ich gelte lonn.</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Unn no e massiver Coffre-Fort, fur die Wärt- babierer drinne fyer- unn ynbruchssicher
+              uffzehewe.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(vergelschtert)</stage>
+            <p>Ynbruchssicher ? Um’s Gott's Will, so e Kaschte kummt nitt in unseri Wohnung ! Der
+              dhät jo directement d’Raiwer unn d’Merder ins Ilüss locke ! Do wärde mir jo unser Läwe
+              nimmi sicher !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Dü hesch erächt, Lucie! M'r läst jo dato nix meh als wie vun Ynbrich, Mord unn
+              Doodschlaa! Do isch’s am End besser, mir lehne uns e Bankfach, wo mir drinne unseri
+              Wärtsache uffhewe kenne ! <stage>(Ohne ’s ze wisse, isch er jetzt langsam sälwer
+                begeischtert worre vum Gedanke, ’s gross Los schun gewunne ze hann.)</stage></p>
+          </sp>
+          <pb n="7"/>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Gewiss, Pierre, diss isch’s sicherscht Middel! So wurd’s gemacht ! <stage>(Sie isch
+                noch begeischterter als wie ihre Mann.)</stage> Awer was fange mir mit de Zinse vun
+              dem viele Geld numme an ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Diss will guet iwerleijt sinn !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Arich guet sogar !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Verbulvert därf nix wäre !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Gar nix sogar!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Bekanntlich läwe d’amerikanische Millionär au ganz einfach !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ei, ’s isch jo wohr ! Mir zähle jo au zue de Mil- lionär !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Unn wie die, so mache mir’s au ! D’r wohr Rych- dum zeijt sich in d'r Einfachheit
+              !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Awer so alle Johr e kleini Erholungsreis kenne mir uns doch gunne ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Worum denn nitt, Frau! Awer mir fahre heech- schtens zweiter Klass — ’s wurd nix
+              verschwend !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Do bin ich d'accord mit dir, Mann. Awer weisch, liewer Pierre, e bissel guet angedohn
+              muess m'r doch sinn, wemm’r uff Reise geht. Gell, härzig’s Männel, dü kaufsch mir
+              denne wunderbar Belzmantel, wo mir gescht in d'r Stadt g’sähn hann ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Denne kennte mir uns im Notfall noch leischte !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Unn au denne schick Syedehuet, wo ich by d'r Modiste vorgescht admiriert habb ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Lucie, ich bin zwar fur’s Spare, awer zue’me Belzmantel g’heert nadierlich e
+              anständiger Huet.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Unn denne syedich Morjerock muess ich partout au hann! Ich schwärm schun lang defur.
+              Was meinsch, wie ich dir no erscht g’falle wurr, wenn d’weich Syed so um mich erum
+              rüscht unn kracht !</p>
+          </sp>
+          <pb n="8"/>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Frau, heer uff! Meinsch denn dü, myni Million isch ohne End oder e Schlang, wo sich
+              in de Waddel bysst ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(als yefriger)</stage>
+            <p>Unn e greesseri Wohnung miehn mir jetzt au hann — numme so sechs, siwe Zimmer meh,
+              drunter au e Salon mit antike Meewel unn e Boudoir fur mich — ganz mit rosaroter Syed
+              tapeziert, unn no noch...</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(verzwyefelt)</stage>
+            <p>Frau, du rüiniersch mich jo noch! <stage>(Er druckt syni Frau, wo’m bis do anne
+                g’flattiert hett, vun sich.)</stage> Hesch dü am End noch meh so Winsch ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(als noch begeischtert)</stage>
+            <p>E Automobil muess nadier- lich au noch fur mich here !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(wietig)</stage>
+            <p>So? Isch diss jetzt endlich alles, was de witt ? Diss fangt jo schun scheen an ! Ja,
+              unn ich, unn ich ? Ich bin wohl Essi !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(erniechtert)</stage>
+            <p>Awer Pierre! In was fur eme Ton reddsch denn dü uff’s Mool mit mir ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>’s isch au heechschti Zytt, ass ich uff myn Geld acht gibb! E greesseri Wohnung wurd
+              schun gar nitt gelehnt ! Au noch ! Die scheene Zinse fur e Hüffe Zim- mer verschwende,
+              wo m'r doch d’halb Zytt nitt brücht. Do, wo mir jetzt loschiere, hann mir Platz genue
+              !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Mir miehn awer doch als vun Zytt ze Zytt G’sell- schafte gänn ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Nix do! Mir sinn Millionär unn läwe waje dem ganz einfach ! Uess dem Grund wurd au
+              kein Automobil ang’schafft — diss isch e ganz zweckloser Kram, wo nümme e Hüffe Geld
+              fresse dhuet. Awer e grosser Ra- dio-Apperat kummt mir ins Hüss !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>E Radio-Apperat ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Gewiss, Kind! Weisch, ich bin allewyl arich müsikalisch g’sinn ! Wie scheen unn
+              gemietlich muess diss sinn, wenn mir no z’oowes de Apperat laufe hann unn ’r par
+              exemple spielt <stage>(singt)</stage>:</p>
+          </sp>
+          <pb n="9"/>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(schiebt'ne no vum sich ; ungewillig)</stage>
+            <p>Ach geh! Loss mich gehn ! So e bleeder Babbelkaschte ! Ich will iwer- haupt kein
+              Müsik heere !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(mild)</stage>
+            <p>Awer Lucie !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Unn no, wo solle mir denne Apperat iwerhaupt annestelle? Mir hann jo schun so kein
+              rächter Platz fur unseri Meewel! In dem Fall miehn mir jo doch noch e Zimmer meh hann
+              !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(ung'halte, halb grobb)</stage>
+            <p>Babbel nitt so daub, Lucie! Am Platz fählt’s nitt. Im Notfall wärfe mir einfach denne
+              alt Grimpel, wo dort steht, nüss! <stage>(Er zeijt uff’s Kommod bezw. uff de
+                Kaschte.)</stage></p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(uffgerejt, beleidigt)</stage>
+            <p>Was saasch dü do, Pierre ? Alter Grimpel? Was meinsch dü mit dem Üssdruck ? Doch nitt
+              am End gar...</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(ironisch)</stage>
+            <p>Sej doch nitt so komisch, Lucie! Na- dierlich mein ich dyni beriehmt, heilich Kommod
+                <stage>(odder «Kaschte»)</stage>, wo noch vun dynere Ürgrossmamme stammt. Anfangs
+              hett uns jo diss Stickel Mewel ganz guet g’falle — awer numme anstandshalwer unn
+              dynere Mame zelieb ; ’s isch halt emool do g’sinn, unn mir hann nix anders defur kaufe
+              brüche, wo mir uns yngericht hann.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(boshaft)</stage>
+            <p>Ah, jetzt erfahrt m'r erscht, ass der Herr andersch redd, als wie’r denke dhuet !
+              Diss hätt ich vor d'r Hochzytt wisse sotte !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Geh, Lucie, verstell dich nitt so! Dü denksch jo au nitt andersch als wie ich ! De
+              Alterdum in Ehre, awer fur so moderni Lytt wie mir isch’r nix. Mir läwe liewer</p>
+          </sp>
+          <pb n="10"/>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(uffgerejt)</stage>
+            <p>Was ? E alti, wacklichti Kischt ? Grum- beerekischt ? <stage>(Geht uff diss Meewel
+                zue unn streichelt’s.)</stage> So e Barbar! Was verstehsch dü drucketer Bureaukrat
+              vun g’erbte Sache ? was vun Pietät ? was vun Suwönir <stage>(souvenir)</stage> ? Mit
+              dem ehrwirdige Meewel hängt myni ganz Kinderzytt mit z’samme !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(wietig)</stage>
+            <p>Herrgott ! Wär numme nitt au noch senti- mental, Lucie ! Stell myntwäje denne Plunder
+              anne, wo de witt, wenn de meinsch, ass syner B’sitz dich selig macht! Hett m'r schun
+              emool so e Iwerspanntheit er- läbt !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(kryscht)</stage>
+            <p>Was ? Iwerspanntheit ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(dito)</stage>
+            <p>Ja, Iwerspanntheit ! E Radio-Apperat wurd ang’schafft, und die Arche Noah dort
+              verschwind, unn dodemit basta !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(als wietiger)</stage>
+            <p>Unn die Kommod <stage>(oder « Kaschte »)</stage> blyet do stehn! Do! An dem Platz
+              do!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Was dü dir nitt ynbildsch !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Unn e Radio-Apperat kummt nitt iwer myni Schwell ! Punktum !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Dyni Schwell? Dyni? Na, ich will dir zeije, wer dohinne ze kummediere hett !
+                <stage>(Haut uff de Disch.)</stage> Diss isch myni Wohnung ! Ich bin do Herr unn
+              Meischter im Hüss! Unn ich will mir e Radio-Apperat kaufe, unn ich will, ass diss
+              wurmstichig Stickel Meewel dort furtkummt, unn ich, will, ass mir g’foljt wurd!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Dü do Herr unn Meischter ? Dü machsch mich jo lache! Wo wohnsch denn dü iwerhaupt? By
+              mir wohnsch dü! In myne Meewel wohnsch dü! Myn Geld hann se koscht! Ich habb’s Geld
+              mitgebroocht ! 50 000 Franke sinn’s g’sinn !</p>
+          </sp>
+          <pb n="11"/>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(ironisch)</stage>
+            <p>Nein, numme 49 999 Franke, denn e Franke hett d'r Quittungstimbre koscht, wo mir dyni
+              Mamme abgeknepft hett! LUCIE ! O, dü Undankbarer !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Nein, diss bin ich nitt; awer hirnverbrennt bin ich g’sinn, ass ich dir nitt schun
+              ehnder de Meischter ge- zeijt habb ! Awer diss wurd jetzt andersch ! Dü hättsch jo
+              myni Million schun in acht Daa verbutzt, dü Ver- schwendere ! O, hätt ich doch numme
+              nie g’hyroot !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>So? Witt dü mit dem am End saawe, ass ich dir noochgeloffe bin ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Hm! Hm! D’Müsfall lauft m d'r Müs au nitt nooch unn s’e fangt s’e doch !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>O, dü Schlächter! Awer myni Mamme hett mich jo allewyll vor dir gewarnt !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Allewäj ? Die guet Frau! Ich hätt nie gedenkt, ass sie’s so guet mit mir meint!
+                <stage>(Ab nooch hinte unn schlaat d’Dier zue.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Scène. </head>
+          <stage> Lucie</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fallt uff e Stuehl unn hyllt)</stage>
+            <p>O, wie bin ich doch so arich unglicklich ! Unn so härzlos verfahrt myner Mann mit mir
+              — jetzt schun, wo mir kümm rächt g’hy- root sinn ? Wie soll diss erscht später wäre
+              !</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Scène. </head>
+          <stage> Wie vorig. Pierre.</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(streckt numme de Kopf zue d'r Dier hinte eryn)</stage>
+            <p>Unn nitt ass de dich jetzt stundelang annehucksch unn plärrsch ! Die Arweit kannsch
+              dü dir spare. So e Lychte- hyllere kann mir ganz unn gar nitt imponiere ! <stage>(Ab
+                unn schlaat d’Dier zue.)</stage></p>
+          </sp>
+          <pb n="12"/>
+        </div>
+        <div type="scene">
+          <head> 4. Scène. </head>
+          <stage> Lucie. </stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fahrt energisch in d’Heeche)</stage>
+            <p>Oho-o-o! Unn diss soll ich mir biete lonn ! So redd myn Mann mit mir — der Mann, wo
+              ich iwer alles lieb habb g’hett? So e Tyrann ! Unn an so e brütaler Mensch soll ich
+              fur myn Läbdesdaa gebunde sinn ? Nein, diss isch furichtbar ! <stage>(Hyllt in ihre
+                Nasdiechel nyn; nooch’re Wyll)</stage>: Unn was hett’r mich g’heisse? E
+              Lychtehyllere? Unn do soll ich noch hylle ! Nein, so e Barbar isch myni Träne gar nitt
+              wärt! <stage>(Sie isch iwerdem im Zimmer uff unn ab gange.)</stage> Hoffetlich isch’r
+              schun furtgange ! Ich will’ne nimmi sähne ! <stage>(Sie schlycht an d’Dier hinte unn
+                gückt durich’s Schlisselloch.)</stage> Ah, er isch noch drüsse — er steht am
+              Fenschter unn denkt iwer ebbs nooch — jetzt drähjt’r sich erum unn luejt dohere — er
+              kummt! <stage>(Sie setzt sich g’schwind widder uff de Stuehl ; erwartungs-
+                voll)</stage>: Gewiss hett’r jetzt syn Unrächt yng’sähn unn will Abbitt leischte!
+              Na, guet, ich will’m gern exküsiere; im Grund genumme isch’r jo doch e liewer, gueter
+              Mann, unn e Meinungsverschiedeheit gitt’s schliesslich in jedere Eh emool. «Sie isch
+              d'r bescht Kitt, wo z’sammehebbt d’Ehlytt !», hett als myner Babbe seli g’saat.
+                <stage>(Hinter d’Scène heert m'r, wie e Dier zueg’schlaawe wurd.)</stage> Was haw
+              ich g’heert ? <stage>(Springt uff.)</stage> Diss isch jo d’Hüssdier g’sinn, wo ich
+              habb gehn heere! Er isch furt! Awer nein, diss kann nitt sinn ! So gröjsam kann doch
+              myner Pierre nitt sinn ! <stage>(Geht uffgerejt uff unn ab.)</stage> Er wurd mich doch
+              nitt in mym Weh ellein lonn ? Er hett gewiss numme so gemacht, wie wenn’r furtgängt
+              unn streckt jetzt glych de Kopf eryn unn gitt mir e lieb’s Wort! <stage>(Sie isch
+                iwerdem ans Fenschter kumme unn gückt nüss'; fahrt vergelschtert zeruck)</stage>:
+              Mon Dieu, mich trefft de Schlaa ! Dort unte geht’r jo schun ! So e Be- nämme isch
+              einfach ordinär, meh ass wie ordinär ! <stage>(Als wietiger.)</stage> Awer diss loss
+              ich mir nitt g’falle! So loss ich mich nitt b’handle ! Jetzt bin ich’s satt! So e Mei-
+              nungsverschiedeheit därf in keinere Eh vorkumme ! «Sie isch e beesi Müs, wo naat am
+              Glick im Hüss! », saat als myni lieb Mamme. Awer ich will mich schun rewanschiere !
+              Awer wie? Soll ich au furtgehn ? Zue mynere Mamme ? Nein, im Läwe nie! Do blyeh ich
+              unn do stärb ich ! Unn wer weiss, ob’r’s am End nitt gar pro- woziere will, ass ich
+              geh ? Nadierlich isch’s so! Denn so wie’r mich b’handelt hett, isch’s sicher, ass’r
+              mich nimmi lieb hett. Schunscht dhät’r mich au nitt alle Oowe ellein lonn ! Wer weiss,
+              wo’r sich do allewyll erum- tryebt ! Gewiss hett’r au noch e anderi, denn schunscht
+              wär er nitt so lieblos mit mir verfahre ! Na, ich kumm schun noch dehinter ! — Nein,
+              was muess ich nitt alles erläwe ! Ich kann schun gar nimmi hylle. Na, wenn’r die Nacht
+              heime kummt, soll’r sähn, ass’r mir jetzt au Wurscht isch ! <stage>(Energisch ab nooch
+                rächts.)</stage></p>
+          </sp>
+          <pb n="13"/>
+        </div>
+        <div type="scene">
+          <head> 5. Scène. </head>
+          <stage> Albert (vun hinte).</stage>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <stage>(noochdem er paar Mool geklopit hett, kummt mit eme Handkifferle eryn)</stage>
+            <p>Na, isch denn by mym Schweschterle niemes d’heim ? Steckt am End ’s jung, verliebt
+              Ehpärel noch odder schun widder in de Feddere? Ah, do kummt schynnt’s ebber !</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 6. Scène. </head>
+          <stage> Wie vorig. Lucie (vun rächts; uff de Aerm draat s'e e grosser Pack Decke unn
+            Kopfekisse.)</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich, ohne de Albert ze sähn)</stage>
+            <p>Worum kann denn ich nitt au emool im Salon odder im Fremdezimmer schloofe ! Ja, ja,
+              Monsieur Pierre, ich bin jetzt lang genue Ihre Sklav g’sinn ! <stage>(Sie sieht de
+                Albert; vergelschtert)</stage>: Herrjeh, bin ich jetzt verschrocke ! <stage>(Sie
+                losst ’s Bettdings falle unn stirmt uff de Albert los, wo s'e um- armt)</stage>: Ah,
+              dü bisch’s, liewer Brueder! Wo kummsch denn dü so unverhofft here ?</p>
+          </sp>
+          <pb n="14"/>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Direkt üss Amerika, lieb’s Schweschterle ! Unser Schiff isch dato uff’re Europa-Reis,
+              unn so haw ich endlich emool e paar Daa Permission bekumme. ’s hett mir jo leid genue
+              gedohn, ass ich nitt by dynere Hoch- zytt habb kenne sinn !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Wär ich doch numme au nitt deby g’sinn !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Hoffetlich lehr ich jetzt hytt dyne Mann kenne ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Ich habb’ ne au erscht hytt kenne gelehrt !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Awer was sieh ich denn ? Dü hesch jo ganz ver- hyllti Aue! Hett’s am End e Gewitter
+              gänn am Eh- standshimmel ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(verläje)</stage>
+            <p>Jo, Albert, wo denksch dü anne !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Na, na! Sej doch ehrlich, Lucie ! Box gitt’s jo in jedere Eh emool, unn zuedem isch
+              jo ’s Boxe e ganz moderner, erlaubter unn au guet bezahlter Sport !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Geh, Albert, loss die Plän uff d'r Sytt !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Unn was soll do diss Bett-Inventar bedytte ? Maidel, ich root dir, mach liewer dü
+              kein Plän!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Wo denksch dü anne ! Kumm, setz dich liewer unn verzehl, was dü alles erläbt hesch.
+              Also z’letscht bisch de in Amerika g’sinn ? Diss soll e ganz modern’s Land sinn. Dü,
+              Albert, saa emool, was fur e Läwe fiehre denn dorte d’Fraue ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Hm, sie sinn au nitt schlächter, awer au nitt bes- ser als wie unseri.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Diss will ich nitt wisse ! Ich mein, wie s’e vun de Männer b’handelt wäre ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ah so! Hm, wemm’r s’e lieb hett, arich guet ; wenn nitt, ze gitt m'r sich iwerhaupt
+              nitt mit’ne ab!</p>
+          </sp>
+          <pb n="15"/>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Diss letscht stimmt exakt uff de Pierre ! Kein Zwyefel meh, ass’r mich nimmi lieb
+              hett ! <stage>(Lütt)</stage> : Unn was fur Frejheite geniesse d’amerikanische Fraue
+              ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ich glaub jetzt doch ball, ass de mit dym Mann Kippes hesch, Lucie ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(energischer)</stage>
+            <p>Gibb mir Antwort uff myni Fröj, Albert !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Wie d’Madame kummediere kann ! Also, d’ameri- kanisch Frau hett’s nämlich Rächt als
+              wie d'r Mann.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Aha! Numme mir sinn noch zeh Stund hinter'm Mond d’heim ! <stage>(Lütt)</stage>: Unn
+              muess s’e au de Bossel mache in d'r Hüsshaltung so wie by uns ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(lacht)</stage>
+            <p>Na, ihr zwei miehn mir jo e wieschti Ba- taille g’schlaawe hann!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Albert, verzirn mich nitt noch meh !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Nitt noch meh? Diss G’ständnis langt mir ! Fur awer d’Wohret ze redde, ze muess ich
+              g’stehn, ass d’amerikanisch Frau kein Hüssdier isch. Die schafft hytt genau diss, was
+              d'r Mann au schafft.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Wenn’s awer alli Fraue so mache dhäte, wer gitt sich denn no mit d'r Hüsshaltung
+              ab?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Au do hett sich in letschter Zytt e Usswäj g’funde. ’s gitt nämlich jetzt in Amerika
+              männlichi Dienscht- maidle.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(yefrig)</stage>
+            <p>` Was dü nitt saasch, Albert !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ja, so isch’s en effet! Diss sinn Männer üss’m Volk, wo sich, so wie by uns
+              d’Dienschtmaidle, verdinge unn alli Arweite in d'r Menasch mache, fur ass d’Ma- dame
+              vum Hüss zeije kann, ass s’e d'näm- liche Rächter hett als wie d'r Mann, diss heisst,
+              ass sie in d'r Menasch nitt de Bos- sell ze mache brücht, wie dü dich üssgedruckt
+              hesch!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Ganz erächt so!</p>
+          </sp>
+          <pb n="16"/>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Unn wer weiss, wie lang ass’s noch geht, bis der Mode au by uns yng’fiehrt wurd ! Ja,
+              d’Welt wurd alle Daa verruckter, unn am e scheene Daa halte d’Mam- selle um d’Hand vun
+              de Männer an !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(wo iwerdem noochdenklich isch g'sinn, fur sich)</stage>
+            <p>Halt, e'n Idee! Ja, so wurd’s gemacht ! Uff e letschter Versuech will ich’s noch
+              ankumme lonn ! <stage>(Lütt)</stage>: Albert, horich : Ich will dir offe bychte, ass
+              ich mit mym Mann unneins bin unn ass ich glaub, ass er mich nimm lieb hett!</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Diss wurd sich schun widder mache, Lucie !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Diss will ich jo grad sähn, unn waje dem sollsch dü mir hälfe deby.</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(steht uff)</stage>
+            <p>Ich? Ich mecht wisse, wie? Weisch, ’s isch allewyll g’fährlich, wemm’r de Kopf
+              zwische zwei Puffer streckt ! Unn, offe g’stande, haw ich iwerhaupt nitt viel Zytt !
+                <stage>(Fur sich)</stage> : Ich muess partout diss scheen, härzig Mamsellele
+              üssfindisch mache, wo im nämliche Coupé mit mir uff hie g’fahre isch !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Allons, Albert, fur so e Liewesdienscht hett m'r doch allewyl Zytt !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Na, myntwäje, Lucie ! Awer wie denksch dü dir’s, ass ich d’Friddesverhandlunge in
+              ejrem Ehstandskriej ynleite soll ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ganz einfach : Dü spielsch myn Dienschtmaidel !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(fallt vergelschtert in d’Kisse)</stage>
+            <p>Wa-a-as soll ich ? Ich — dyn — Dienschtmaidel ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Worum nitt? Grad so wie in Amerika !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(hüpst uff unn will furt)</stage>
+            <p>Nein, do mach ich nitt mit! Ich bin nitt so rächtshawerisch, ass ich, in andere Lytt
+              ihri Rächter eweggnemm, nitt emool in de Fraue ihre Rächt uff Pflicht !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(hebbt’ne jescht)</stage>
+            <p>Albert, ich bitt dich! ’s isch jo nitt fur lang, numme fur e Daa odder zwei. Bedenk,
+              ass myn Läwes- unn Ehglick devun abhängt. Ich will myne Mann numme uff d’Prob stelle
+              !</p>
+          </sp>
+          <pb n="17"/>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>So? Unn wie diss ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Erschtens durch diss, ass ich wie d’Amerikanere mir e männlich’s Dienschtmaidel halte
+              dhue, will ich’m zeije, ass ich d’nämliche Rächter habb als wie er. Zwei- tens will
+              ich glychzyttig konschtatiere, ob’r mich noch lieb hett ; isch diss d'r Fall, ze
+              wurd’r gewiss schallu <stage>(jaloux)</stage> uff myn männlich’s Dienschtmaidel sinn
+              unn losst mich nitt mit’m ellein !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Diss kann jo Mord unn Doodschlaa gänn !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Loss mich numme mache, unn’s wurd schun nix bassiere ! D’Hauptroll haw ich ze spiele!
+              Kumm, ich will dir e Zimmer rischte ; iwerdem saa ich dir no, wie mir zwei uns ze
+              verhalte hann.</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Mir an! Mir soll awer noch emool einer saawe, ass numme Amerika ellein ’s Land vun de
+              unbegrenzte Mejlichkeite isch! Nein, iwerall do, wo e Frau isch; gitt’s kein
+              Unmejlichkeite ! <stage>(Geht im Lucie nooch, wo mit’m Bettdings nooch links abgange
+                isch.)</stage>
+              <stage>(Schluss vum erschte Akt.)</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> II. AKT. </head>
+        <stage>('s isch z’ morjes).</stage>
+        <div type="scene">
+          <head> 1. Scène. </head>
+          <stage> Pierre (vun rächts).</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(hett e wysses Nasdiechel um de Kopf gebunde)</stage>
+            <p>Heilich, wie dhuet mir d'r Kopf brumme ! Diss isch mir gescht oowe widder emool e
+              langi unn e schwäri Sitzung g’sinn ! Unn dezue haw ich noch in de Zorn nyn ge- drunke
+              waje dere kaiwe Gross-Los-Debatt mit mynere Frau! Na, do haw ich schynnt’s in e
+              scheens Weschpel- nescht nyng’stoche ! Unser erscht Krach, zytter ass mir g’hyroot
+              sinn! ’s Resültat devun isch, ass myni Frau die Nacht im Salon g’schloofe hett ! — Au,
+              myner Kopf ! Wie der nooch eme Häri miaue dhuet! — Unn kein Blick, kein Wort hett mir
+              ’s Lucie gegunnt, wo ich heime bin kumme. Wenn ich numme wisst, wie ich s’e widder
+              versehne kennt, ohne ass ich mir ebbs vergibb, denn ich habb s'e jo doch gar ze lieb !
+              — Jetzt wär’s awer Zytt, ass ich myne Café bekäm ! Odder schlooft d'Madame Lucie am
+              End noch, odder will s’e mich durch’s Üsshungere zahm mache ? <stage>(Geht an de Disch
+                unn nemmt e Blatt Babier, wo dorte lejt.)</stage> Was isch denn diss fur e Zettel?
+              Ah, vum Lucie! <stage>(Läst)</stage>: « Mein Herr! » <stage>(Fur sich)</stage>: Hu,
+              wie zeremoniell! <stage>(Läst wyddersch)</stage> : „Wenn Sie etwas wünschen, läuten
+              Sie dem Dienst- mädchen ! Lucie. » <stage>(Fur sich, baff unn halwer wietig)</stage>:
+              Was soll denn jetzt diss heisse ! Zytter wenn hann mir denn e Dienschtmaidel ? Ah,
+              diss hett’s Lucie anga- schiert, fur mir ze zeije, ass sie dohinne ze kummediere hett!
+              Na, do redd ich au noch e Wertel mit ! Vorerscht will ich mir awer emool denne
+              Kichedragünner angücke! <stage>(Schellt.)</stage> ’s Lucie hätt mich doch s’wennischt
+              fröje kenne, wenn s’e mit d'r Arweit nimmi ellein ferti wurd unn e Hilf brücht !</p>
+          </sp>
+          <pb n="19"/>
+        </div>
+        <div type="scene">
+          <head> 2. Scène. </head>
+          <stage> Wie vorig. Albert (vun links; er hett e wysser Schurz an unn e Tablett mit
+            Café-Geschirr in d'r Hand — am beschte üss Blech).</stage>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(isch e bissel ängschtlich)</stage>
+            <p>Guete Morje, Herr!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(fahrt zeruck)</stage>
+            <p>Was isch denn diss? Wie kummt diss Mannsbild in myni Wohnung ? Bin ich denn im Kopf
+              noch nitt ganz klar ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Do bring ich de Café, Herr !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Ja, wer sinn Sie denn iwerhaupt? Sinn Sie e Maidel, wo Hosse an hett, oder sinn Sie e
+              Bue, wo d’Hoor g’schnitte hett ? Wie heisse Sie denn ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Albert, Herr !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Also doch e Mannsstick ! Ja, Mensch, was sueche Sie denn no do in mynere
+              Gerechtigkeit ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ei, ich bin ’s nej Dienschtmaidel, Herr !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Jetzt schlaat’s dryzeh ! Wenn’r s’wennischt noch « Dienschtmann » g’saat hätt!
+                <stage>(Fur sich)</stage>: Entweder isch jetzt der Mensch e Narr odder e Gauner, wo
+              sich by mir yng’schliche hett ! <stage>(Lütt)</stage> : Uff d'r G’stell mache Sie, ass
+              Sie mir zuem Dembel nüsskumme !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>’s dhuet mir leid. awer ich folj numme in d’r Madame, wo mich angaschiert hett.</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Wie? Was? Angaschiert? Sie — als Mann ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Nein, Herr, nitt als Mann, awer als Dienschtmaidel, wie ich jo vorig schun g’saat
+              habb.</p>
+          </sp>
+          <pb n="20"/>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(nemmt e Stuehl unn geht mit uff de Albert los)</stage>
+            <p>Jetzt isch awer Hei genue hunte! Nüss, saa ich, als nüss !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(losst’s Tablett falle)</stage>
+            <p>Jetzt heisst’s laufe ! <stage>(Gschwind ab nooch links.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Scène. </head>
+          <stage> Pierre</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Diss kapier, wer will! — Au, myner Kopf ! — Ich wurr nitt schlöj drüss ! Der Fitzer
+              hett jo, weiss Gott, gemacht, wie wenn’r im Rächt wär ! Ich muess partout mit’m Lucie
+              redde — ah, do kummt s’e jo!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Scène. </head>
+          <stage> Wie vorig. Lucie (vun links).</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Kein liewe Blick unn kein guet’s Wort gunn ich’m, bis ich ne so wytt habb !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Lucie, horich, was isch diss fur e G’schicht mit eme Dienschtmaidel, wo dü
+              angaschiert hesch ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ich habb’s jo uff diss Babier g’schriwe, also stimmt’s au!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Wenn dü e Hilf brüchsch, ze will ich jo nix degeje hann .....</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Aha, er isch schun e bissel zahm !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>..... awer saa mir, was diss fur e Kerl isch, wo sieh do in unsrer Wohnung erumtryebt
+              ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Monsieur, diss isch jo grad myn Dienschtmaidel !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Ass ich verruckt bin, meine Sie, Monsieur ? Nitt ass Sie sich drumbiere ! Zwische
+              gescht unn hytt isch e grossi Differenz! Mir sinn d’Aue uffgange, unn ich bin nimmi so
+              verruckt, ass ich mich vum e Mann unter- drucke loss. Mir Fraue hann grad so viell
+              Rächter als wie ihr Männer!</p>
+          </sp>
+          <pb n="21"/>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Gewiss, liewi Lucie, myn guet’s Wyewele, ich gibb jo...</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>So Zärtlichkeite kenne Sie wo andersch ver- schwende, Monsieur !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Allons, Lucie, ze sej doch verninftig unn .....</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ah, Sie meine, ich bin unverninftig ? Gewiss, ich bin’s g’sinn, so lang als wie ich
+              gemeint habb, d’Frau wär d'r Sklav vum Mann! Awer was e Amerikanere kann, diss kann
+              ich au !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Guet, ich gibb jo alles zue, awer was hett diss alles mit dem Mannsbild im Hüss ze
+              schaffe ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Was ? Ei, ich habb min halt wie alli moderni Ameri- kanere e männlich’s
+              Dienschtmaidel zuegeleijt !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Hett m'r schun emool so ebbs g’heert ! Diss duld ich nitt ! Uff d'r G’stell fliejt’r
+              mir nüss !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Mir ellein isch’r G’horsam schuldi.</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Ich bin Herr im Hüss !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Unn ich habb grad so viell Rächter als wie d'r Mann !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>So e Dienschtbott schiekt sich nitt fur e Frau !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Aha, er wurd schun schalu! <stage>(Lütt)</stage>: ’s schickt sich au nitt, ass Sie
+              ganzi Nächt drüsse rumflieje !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Ich werf ejch alli zwei zuem Hüss nüss !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Do bin ich d’heim, Monsieur !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>No geh einfach ich !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Wie d'r Herr will ! <stage>(Hochmietig ab nooch links.)</stage></p>
+          </sp>
+          <pb n="22"/>
+        </div>
+        <div type="scene">
+          <head> 5. Scène. </head>
+          <stage> Pierre.</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Mir steht d'r Verstand still! Ich habb iwer myni Frau schynnt’s alli Gewalt verlore !
+              Ja, ’s schynnt so- gar, ass sie nix meh fur mich iwrig hett ! Diss wär mir e scheeni
+              B’scherung! Bin ich am End gescht doch ze hart geje s’e g’sinn ? Na, egal; uff alli
+              Fäll gibb ich's Lucie nitt uff, unn ich wych unn wank nitt, bis ass diss Herr
+              Dienschmaidel mit Manier abg’schüfelt isch worre. Der Mensch kennt mir jo noch by
+              mynere Frau g’fähr- lich wäre — schun e manichi Frau isch mit ihrem Chauf- feur odder
+              mit ihrem Koch durch de Räps gange. Uff alli Fäll wurd’s guet sinn, wenn ich d’Aue
+              offe b’halt !</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 6. Scène. </head>
+          <stage> Wie vorig. Albert (vun links mit zwei Brief).</stage>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Do haw ich mich jo in e nätti Affär yn- gelonn ! <stage>(Lütt)</stage>: Do isch
+              d’Poscht, Herr !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(geht wietig uff’'ne los)</stage>
+            <p>Was, dü bisch als noch do ? Wart, dir will ich zeije, wo d'r Zimmermann ’s Loch
+              gelonn hett ! <stage>(Er will’ne packe ; d’r Albert losst d’Brief falle unn wycht
+                zeruck.)</stage></p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ich habb au emool laufe gelehrt! <stage>(G’schwind links ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 7. Scène. </head>
+          <stage> Pierre </stage>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Dü hesch grad noch Zytt g’hett, Birschtel ! Ich will numme sähn, was diss noch fur e
+              End nemmt ? <stage>(Er hebbt d’Brief uff.)</stage> Was sinn denn diss fur Schryewes ?
+                <stage>(Läst)</stage>: «Heute Nachmittag 5 Uhr wichtige Parteiver sammlung —
+              unbedingtes Erscheinen erforderlich !» Unn diss ? <stage>(Läst)</stage>: « Heute Abend
+              8 Uhr dringende Auf- sichtsratsitzung. Fehlende werden mit einer Geldstrafe belegt!» —
+              Do muess ich unbedingt anne — nein, uff keine Fall — ich blyeh d’heim ! Ich loss myni
+              Frau nitt ellein mit dem Wasserstein-Kavallerischt! Mir kenne jetzt alli Societäte de
+              Buckel nabbrutsche ! <stage>(’s klopft.)</stage> Wer kann jetzt diss sinn ? — Entrez
+              !</p>
+          </sp>
+          <pb n="23"/>
+        </div>
+        <div type="scene">
+          <head> 8. Scène. </head>
+          <stage> Wie vorig. Alice (vun hinte; im Stroossekleid).</stage>
+          <sp who="#alice">
+            <speaker>ALICE:</speaker>
+            <p>Bonjour, Cousin Pierre !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Was ? Dü bisch’s, Cousinel Alice ? Wie kummsch denn dü uff hie ? <stage>(Sie
+                begriesse sich.)</stage></p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Ei, mit d'r Ysebahn nadierlich, wyll mir d’Fliejerej doch noch nitt sicher genue
+              isch. Ich bin schun gescht ankumme unn wohn bym Unkel Jacques, denn jungver- hyrooti
+              Lytt soll m'r ellein lonn. Wo isch denn, du reste, dyni femme ? Ich mecht s’e doch au
+              gern emool kenne lehre.</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Diss isch jetzt grad dr rächt Moment dezue !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Na, was machsch de denn fur e G’sicht ? Isch dyni Frau dehn nitt do ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Ich glabb, sie kummt grad ! <stage>(Fur sich)</stage>: Halt, en Idee! «Rache ist
+              Blutwurst!» <stage>(Lütt)</stage>: Horich, lieb Cousinel, mach m'r de G’falle unn saa
+              mir jetzt zue allem «ja» unn « Amen », egal was bassiert !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE:</speaker>
+            <p>Was soll diss heisse, Pierre ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Stille, sie kummt! Ich explizier's dir noochher. Dü begehsch kein Verbreche ; ’s isch
+              numme fur myn Glick !</p>
+          </sp>
+          <pb n="24"/>
+        </div>
+        <div type="scene">
+          <head> 9. Scène. </head>
+          <stage> Wie vorig Lucie (vun links, Pierre unn Alice mache s'erscht, wie wenn se d'Lucie
+            nitt sähn dhäte).</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(unter d'r Dier, baff, fur sich)</stage>
+            <p>Was sieh ich denn do ? Wer isch denn die Person, wo so verliebt mit mym Mann ze
+              büschbre hett ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(dätschelt im Alice d’Bäckle)</stage>
+            <p>Wie mich diss fraid, lieb’s Kind, ass dü kumme bisch ! Hesch dü mich denn au noch
+              gern ?</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Gewiss, Pierre ! <stage>(Fur sich)</stage>: Lieb awer haw ich e’n andere !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(lätt)</stage>
+            <p>Nein, diss iwerläw ich nitt! <stage>(Sie hyllt unn stirmt uff de Pierre
+              zue.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(macht, wie wenn’r s’e erscht jetzt sieht)</stage>
+            <p>Wie meine Sie, Madame ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ich will wisse, was diss fur e Pupp isch, wo dir de Kopf verdrähjt hett ?</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Awer Madame !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Madame, diss isch myn Kammerdiener ! <stage>(Fur sich)</stage>: Ich will s’e schun
+              weich mache !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Nein, diss geht ze witt! Liewer Pierre, myn guet’s Männele, ich gibb jo zue, ass
+              .....</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Madame, so Zärtlichkeite kenne Sie sich spare ! <stage>(Fur sich)</stage>: Aha, sie
+              wurd schun zahm !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Allons, Pierre, ze sej doch verninftig unn .....</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>O, ich bin ganz verninftig ! Ich bin ’s numme so- lang nitt g’sinn, wo ich noch
+              gemeint habb, ass alli Fraue Engel sinn. LUGIE : Ich duld awer einfach kein anders
+              Wyebsbild im Hüss ! Uff d'r G’stell fliejt s’e mir nüss !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Mir ellein isch s’e G’horsam schuldi !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>So e Dienschtbott schickt sich nitt fur e Mann !</p>
+          </sp>
+          <pb n="25"/>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Was sich fur e Amerikanere schickt, wurd sich doch au fur e Amerikaner schicke !
+                <stage>(Fur sich)</stage> : Aha, sie wurd schun schallu !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ich werf ejch alli zwei zuem Hüss nüss !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Do bin ich d’heim, Madame !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>No geh einfach ich !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Wie d’Madame will !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Mon Dieu, was muess ich denn do erläwe?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Diss d’hät ejch zwei so g’falle! Nein, ich wych unn wank nitt. Unn Ihnne, Sie
+              uffgebutzti Pupp, will ich schun bybringe, ass Sie myn Mann nix angeht! <stage>(Geht
+                wietig uff d'Alice los, wo sich hinter de Pierre retiriert.)</stage></p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Oh, Madame, ich habb au e Rächt am Pierre !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Diss hett s’e guet g’saat! <stage>(Lütt)</stage>: So isch’s, Madame, ich kenn die
+              Mamsell schun länger als wie Sie.</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(hyllt)</stage>
+            <p>O, ich habb’s jo schun lang g’ahnt, ass dü mich hintergehsch ! Dü hesch so e gueti,
+              bravi unn treji Frau wie mich gar nitt verdient! <stage>(Lüttersch wie
+                schunscht.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 10. Scène. </head>
+          <stage> Wie vorig. Albert (in dem Moment vun links: er isch arich uffgerejt unn meint,
+            d'Lucie wär ellein).</stage>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(ohne d'andere ze sähn)</stage>
+            <p>Lucie, ich habb jetzt d’Nas voll! Dü hebbsch mich kein Minütt meh ! Dyner Alt isch jo
+              ..... Allmächtiger, do isch’r jo! <stage>(Rysst ver- gelschtert noch links ab üss.
+                )</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(baff)</stage>
+            <p>Was heer ich do! «Lucie » unn «dü »? Ah, do lehrt m'r jo die trej Madame kenne! Ich
+              bring’ ne um, denne miserawel Gauner! <stage>(Rennt im Al- bert nooch links ab
+                nooch.)</stage></p>
+          </sp>
+          <pb n="26"/>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(vergelschtert)</stage>
+            <p>Grosser Gott, er wurd’m doch nix andhuen ! <stage>(G’schwind links ab.)</stage></p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(baff)</stage>
+            <p>Diss soll mir kein Theater sinn in dem Hüss ! Awer was haw ich denn g’sähn ! Diss
+              isch jo der nett Monsieur g’sinn, wo im nämliche Coupé mit mir isch g’fahre! Wie kummt
+              denn der ins Hüss vun mym Cousin ?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 11. Scène. </head>
+          <stage> Alice. Lucie (vun links).</stage>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Mon Dieu, ich kann die zwei Männer im ganze Hüss nierigs finde ! Wenn diss numme e
+              guet’s End nemme dhuet ! <stage>(Wietig zuem Alice)</stage>: Awer do sinn numme Sie
+              dran schuld, Sie gewisselosi Person ! <stage>(Geht uff s’e los.)</stage></p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(rennt ängschtlich nooch hinte ab)</stage>
+            <p>Die bringt mich noch um in ihrem Röjes! Pierre, hälf m'r! <stage>(Ab nooch
+                hinte.)</stage></p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(lauft’re nooch)</stage>
+            <p>Wart, dü Lueder, dich will ich « be- pierrele » ! <stage>(Ab nooch
+              hinte.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 12. Scène. </head>
+          <stage> Pierre (vun rächts).</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Wo steckt’r denn, mynere Frau ihre Galan ? Er soll mir’s biesse ! <stage>(Ab nooch
+                hinte.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 13. Scène. </head>
+          <stage> Albert (kummi vun links eryng'stirmt) unn’s Alice (glych- zyttig vun rächts, so
+            ass s'e sich direkt in d’Aerm laufe unn sich verschrocke feschthewe).</stage>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(unter d'r Dier)</stage>
+            <p>Endlich haw ich’ne kenne ab- schittle !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(unter d'r Dier)</stage>
+            <p>Luft! Ich kann nimmi !</p>
+          </sp>
+          <pb n="27"/>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(im Moment, wo’r mitm Alice z’sammerennt, also jetzt erscht sieht)</stage>
+            <p>Ja — ja — was isch denn diss ? Sieh ich denn erächt ?</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(grad so)</stage>
+            <p>Mon Dieu, wie bin ich jetzt verschrocke !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Diss isch jo die nett Mamsell, wo gescht mit mir g’fahre isch !
+              <stage>(Lütt)</stage>: Mademoiselle, Sie glauwe nitt, wie ich mich freij, ich Sie
+              widdersieh ! In eim furt haw ich an Sie denke miehn !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE:</speaker>
+            <p>Unn diss soll ich glauwe nooch dem allem, was ich do in dem Hüss erläbt habb ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Ich schweer’s'ne, Mademoiselle ! D’r Schynn isch jo allerdings geje mich, awer ich
+              will’ne g’schwind ex- pliziere, wie alles kumme isch. Awer nitt do; ich mecht mich
+              nitt verwitsche lonn, ebb ass alles klar g’stellt isch.</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Unn ich au nitt.</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Unn no mecht ich au gern erfahre, wellem Glicks- stern ass ich’s ze verdanke habb,
+              Sie do so unverhofft ze finde.</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Wenn’s numme kein Unglicksstern isch !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Ich glabb, mir gehn am beschte in de Garte. Dorte isch’s noch g’hyer ! <stage>(Beidi
+                ab nooch hinte.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 14. Scène. </head>
+          <stage> Pierre unn Lucie (glychzyttig vun rächts unn links).</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Der Schuft isch rein wie verschwunde !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Ich mecht numme wisse, wo sich diss raffiniert Mensch versteckelt hett !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(fur sich)</stage>
+            <p>Ah, do isch jo myni süfer Frau !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(dito)</stage>
+            <p>Ah, do isch jo myn proprer Mann ! <stage>(Pierre unn Lucie laufe im Lauf vun dere
+                Scène wie achtlos anenand durch unn in d'r Stubb uff unn ab ; sie redde also « fur
+                sich ».)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>So ebbs hätt ich nie vun’re gedenkt !</p>
+          </sp>
+          <pb n="28"/>
+          <sp who="#lucie">
+            <speaker>LUCIE:</speaker>
+            <p>Hieser hätt ich uff’ne geböjt! Bedracht sich im e anderi hett kenne vergaffe — ich
+              bin! doch kein wischti Frau! <stage>(Geht widder uff unn ab.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>D’bescht Frau isch nix nutz. <stage>(Bedracht sich im Spiejel.)</stage> Wie s’e sich
+              numme an so e Kerl hett kenne hänge ! Ich bin doch, ma foi, e ganz scheener Mann !
+                <stage>(Geht widder uff unn ab.)</stage> Was soll ich numme mache ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Wenn ich mir numme e Root wisst !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>Denn was nutzt’s au, wenn ich’re bycht, ass’s Alice myn Cousinel unn alles numme e
+              Farce isch ! Die Affär mit ihrem Liebhawer blyet jo no doch b’stehn !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>’s hett jo doch kein Wärt, wenn ich’m g’steh, ass d'r Albert myne Brueder isch unn
+              ass ich’ne numme schallu habb welle mache! Mit dem wurd die Affär mit dem Bibbele doch
+              nitt üss d'r Welt g’schafft !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(lütt, energisch)</stage>
+            <p>Ja, Madame, mir mache am beschte Schluss !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>’s isch au heechschti Zytt, ass mir anfange, Schluss ze mache, Monsieur! Ich geh zue
+              mynere Mammel <stage>(Hyllt.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Unn ich zue mym Babbe !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ich verlang Trennung vun Disch unn Bett!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>No schloof ich uff’m Divan unn ess uff'm Kommod!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Ich loss mich scheide !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Mit Fraide !</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 15. Scène. </head>
+          <stage>(Wie vorig. Albert unn Lucie (Arm in Arm vun hinte. Sie sähn anfangs d’andere zwei
+            Persone nitt.)</stage>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(unter d'r Dier zuem Alice)</stage>
+            <p>Gott sej Dank, ass alles so kumme isch !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>O, wie bin ich so glicklich !</p>
+          </sp>
+          <pb n="29"/>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(fur sich, baff)</stage>
+            <p>Ja, draim ich denn ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(dito)</stage>
+            <p>Sieh ich denn erächt ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(wie vorig)</stage>
+            <p>So? Unn worum sinn Sie denn glick- lich, Mamsell Alice ?</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(verläje)</stage>
+            <p>Ei — ei — wyll...</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>..... wyll Sie mir viellycht e bissel guet kennte sinn ? <stage>(Alice
+                nickt.)</stage> Juchhu, jetzt bin au ich glicklich ! <stage>(Er umarmt
+              s’e.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(lütt)</stage>
+            <p>Nein, diss geht jetzt doch ze wytt!</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(dito)</stage>
+            <p>Mir steht d'r Verstand still !</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(zuem Lucie unn zeijt uff de Albert; ironisch)</stage>
+            <p>Sähn Sie, Madame, was fur e trejer Galan ass Sie hann !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(zuem Pierre unn zeijt uffs Alice; ironisch)</stage>
+            <p>Sähn Sie, Monsieur, wie uffrichtig ass’s die Mamsell do mit Ihnne meint !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Awer ich bitt Sie, Monsieur ! ’s isch endlich Zytt, ass...</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(wietig)</stage>
+            <p>..... ass ich mit Ihnne abreche dhue: Was fallt Ihnne erschtens yn, mir Herner
+              uffzesetze ?</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <p>Lonn uns doch numme üssredde !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(zuem Alice, wietig)</stage>
+            <p>Diss hett’s ball: Was fallt Ihnne erschtens yn, mir Herner uffzesetze ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(zuem Albert)</stage>
+            <p>Was fallt Ihnne zweitens yn, myni Frau mit dere Mamsell do ze hintergehn ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(zuem Alice)</stage>
+            <p>Was fallt Ihnne zweitens yn, myne Mann mit dem Monsieur do ze hintergehn ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(lacht)</stage>
+            <p>O, Lucie, wie hesch dü dich vun dym Mann am Narreseil erumfiehre lonn !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(lacht au)</stage>
+            <p>O, Pierre, dü hesch dich vun dynere Frau scheen nynleije lonn !</p>
+          </sp>
+          <sp who="#lucie #pierre">
+            <speaker>PIERRE, LUCIE:</speaker>
+            <p>E Diss weiss ich sälwer zytter hytt !</p>
+          </sp>
+          <pb n="30"/>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(zuem Pierre)</stage>
+            <p>Awer nitt, ass ich d'r Brueder vum Lucie bin !</p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(zuem Lucie)</stage>
+            <p>Unn ich d’Cousine vum Pierre !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <p>Ja, unn myni lieb fiancée !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(starre sich an, baff)</stage>
+            <p>PIERRE unn Isch’s denn mej- lich ? Worum denn no diss ganz Theater ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(verläje)</stage>
+            <p>Ei, wyll ich dich schallu habb welle mache!</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Unn ich dich au, lieb’s Wyewele ! O, wie sinn mir alli zwei doch so arich dumm g’sinn
+              ! Welle mir uns wieder verdraawe unn alles vergesse ?</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <stage>(umarmt de Pierre)</stage>
+            <p>Vun Härze gern ! Mir welle uns awer au allewyll widder verdröje unn .....</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(umarmt s'e au)</stage>
+            <p>..... unn numme noch’s Bescht vun enand denke ! <stage>(Blyewe in dere Pos
+                stehn.)</stage></p>
+          </sp>
+          <sp who="#alice">
+            <speaker>ALICE :</speaker>
+            <stage>(zuem Albert ; neckisch)</stage>
+            <p>Was isch, liewer Albert, welle mir uns e Lehr dran nemme ?</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT:</speaker>
+            <p>Gewiss, denn ich mach’s jetzt au so, wie's die zwei dort mache ! <stage>(Er umarmt
+                d’Alice iwermietig.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 16. Scène. </head>
+          <stage>(Wie vorig. Facteur (vun hinte.)</stage>
+          <sp who="#e_facteur">
+            <speaker>FACTEUR :</speaker>
+            <stage>(gitt im Pierre e Brief)</stage>
+            <p>Bonjour, bysamme ! Do isch e Brief ! Au revoir ! <stage>(Ab.)</stage></p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(macht uff unn zejt e Zyttungsblatt erüss ; läst.)</stage>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Was isch’s, Pierre ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <p>D’Ziehungslischt isch’s, Frau !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Unn ?</p>
+          </sp>
+          <sp who="#pierre">
+            <speaker>PIERRE :</speaker>
+            <stage>(langsam)</stage>
+            <p>Mir hann ’s gross Los — nitt gewunne !</p>
+          </sp>
+          <sp who="#lucie">
+            <speaker>LUCIE :</speaker>
+            <p>Gott sej Dank ! Mir wäre d’unglicklichschte Mensche g’sinn, wenn mir gewunne hätte
+              !</p>
+          </sp>
+          <pb n="31"/>
+          <sp who="#pierre">
+            <speaker>PIERRE:</speaker>
+            <p>Dü hesch erächt, Lucie! ’s gitt numme ein gross Los uff dere Welt ! Der hett’s
+              gewunne, wo e bravi Frau unn e gueti Mamme fur syni Kinder g’funde hett !</p>
+          </sp>
+          <sp who="#albert">
+            <speaker>ALBERT :</speaker>
+            <stage>(zeijt uff’s Alice)</stage>
+            <p>In dem Fall haw ich hytt in alle mejliche Lotterie vun d'r Welt gewunne ! <stage>(D’r
+                Vorhang fallt g’schwind.)</stage>
+              <stage> FINIS.</stage></p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

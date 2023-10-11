@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'G'sellschaftere</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-125"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">D'G'sellschaftere</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_schimmel" sex="M">
+            <persName>Herr SCHIMMEL</persName>
+          </person>
+          <person xml:id="emil" sex="M">
+            <persName>EMIL</persName>
+          </person>
+          <person xml:id="oscar" sex="M">
+            <persName>OSCAR</persName>
+          </person>
+          <person xml:id="madamme_schimmel" sex="F">
+            <persName>Madamme SCHIMMEL
+                    </persName>
+          </person>
+          <person xml:id="jumpfer_faste" sex="F">
+            <persName>Jumpfer FASTE
+                    </persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_schimmel">
+          <role>
+            <persName>Herr SCHIMMEL</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#emil">
+          <role>
+            <persName>EMIL</persName>
+          </role>
+          <roleDesc>si Suhn</roleDesc>
+        </castItem>
+        <castItem corresp="#oscar">
+          <role>
+            <persName>OSCAR</persName>
+          </role>
+          <roleDesc>e Frind vom Emil</roleDesc>
+        </castItem>
+        <castItem corresp="#madamme_schimmel">
+          <role>
+            <persName>Madamme SCHIMMEL
+                        </persName>
+          </role>
+        </castItem>
+        <castItem corresp="#jumpfer_faste">
+          <role>
+            <persName>Jumpfer FASTE
+                        </persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Emil, derno Oscar.</stage>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(kunnt hinte-n-ine mit Mannerkleider uf em Arm,
+                        wo-n-er uf e Stüehl legt)
+                    </stage>
+          <p>'s schlofe noch alle z'sàmme-n-im Hüs... 's hat mi nieme
+                        g'sàh do ane ku... <stage>(er klopft an d'Thüre rechts)</stage>
+                        Oscar!... he, Oscar!... schlofsch noch?... ich bi's...
+                        mach uf... ich bi allei!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(kunnt ine als Jumpfre-n-aglegt)</stage>
+          <p>Do bin i... 's isch güet, ass es emol Tag isch!... ich
+                        ha nitt känne schlofe ich bi nur im Fauteuil dert
+                        e wenig idirmelt gsi...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Dü machsch mr jetz emol schöne Sache... wie ka me nur
+                        wege me-n-eifàltige Ball sich eso üssetze!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Dü bisch halt noch allewil dr gliche wie frieiher als im
+                        Lycée z'Befert... Dü traüsch Dich nitt z'mücke
+                        hasch allewil Angst, bisch schich un ärger as e
+                        Jumpfre, un sogar e wenig frumm... isch's nitt eso?...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Un Dü bisch allewil...</p>
+          <pb n="499"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Ich bi halt allewil o noch dr gliche und wird o nie
+                        changiere.
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Follichon)</stage>
+            <l>Fir was denn uf dr Erde do</l>
+            <l>Ne trürig Lewe fiehre;</l>
+            <l>So lang as 's End nitt kunnt dervo,</l>
+            <l>So will ich profetiere ...</l>
+          </lg>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <lg>
+            <l>Un doch isch eitel nur</l>
+            <l>'s Vergniege-n-uf dr Welt!</l>
+          </lg>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <lg>
+            <l>Ich ha mi Freid derdur</l>
+            <l>Wil's 's Lewe mir erhellt!</l>
+          </lg>
+        </sp>
+        <sp who="#oscar #emil">
+          <speaker>(Mitnander)</speaker>
+          <lg>
+            <l>Nur emol isch d'Jugend z' g'niesse,</l>
+            <l>Wer se losst veriwer geh,</l>
+            <l>Thüet's als bol nochher verdriesse,</l>
+            <l>Wenn vom Alter kämme d'Weh!</l>
+          </lg>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <lg>
+            <l>Wer z'viel do thüet d'Jugend g'niesse</l>
+            <l>Un ihr nitt ka widersteh,</l>
+            <l>Dà thüet's bol nochher verdriesse,</l>
+            <l>Wenn vom Alter kämme d'Weh!</l>
+          </lg>
+          <p>Mit allem dem bin ich nitt iwel verstünt gsi, wo Dü mir
+                        gestert z'Nacht spot im versteckte an dr Lade
+                        klopft hasch, als Jumpfre-n-aglegt, fir welle do iwer
+                        Nacht z'bliwe ...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Was witt halt... ich ha nitt anderscht känne... züe wem
+                        ha-n-i solle geh as züe me güete Frind?...
+                        hingege hätt ich durchüs nitt welle, ass mich ebber
+                        anders sieht do as Dü...
+                    </p>
+          <pb n="500"/>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Drum ha-n-ich Dich o nitt lang üsg'frogt... un ha Dich
+                        glich in das abg'legene Zimmer versteckt, wo
+                        schier nie nieme-n-ane kunnt... awer 's isch mr jetz
+                        doch nitt recht... was hasch eigentlig
+                        ag'stellt?... red' emol! ...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>De siehsch, ich bi uf em Maskeball gsi...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Das ha-n-i g'merkt... awer was Dr widerfahre-n-isch
+                        mächt i wisse...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Mi Vater hat mir's streng verbote g'ha... isch jetz das
+                        nitt tyrannisch!... un im Lenele si Vater hat's
+                        em o verbote g'ha... awer mir sin doch gange... 's
+                        Lenele als Herr aglegt un ich als Jumpfre... awer wer
+                        isch ku im Lenele d'Maske-n-abrisse, mittle-n-im
+                        Ballsaal, un hat's mache heim geh, das isch si Vater
+                        gsi... ich ha mich noch känne g'schwind dervo mache...
+                        awer erkennt hat er mich halt doch...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Was fir e Scandal!... awer das alles sàit mr jetz doch
+                        nitt, worum ass De do ane ku bisch...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
+                        awer wenn ich jetz driwer nodenk, isch's
+                        viellicht besser, ass es eso gange-n-isch... mi Vater
+                        isch gàchzornig... wenn er hit das Ding erfahrt,
+                        so hätt ich im erste Moment alles z'erwarte... drum
+                        blib ich jetz liewer do, bis ass dr ärgste Sturm
+                        voriwer isch...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Was fir e-n-Abgrund fir d'Unschuld, eso-n-e Ball!...</p>
+          <pb n="501"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Oh, loss mi doch geh!... was weisch doch Dü, wo noch nie
+                        g'liebt hasch, wie amüsant as das isch!...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich, wo no ch nie g'liebt ha!... ich denk jo nur an
+                        das!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Mit allem dem müess ich jetz süeche, ne Üsred z'erfinde
+                        fir mi Vater... das wird e G'schwàtz gà, denn De
+                        kennsch d'Lit!... 's grüst mr nitt iwel fir heim...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <l>Dü weisch wie d'Schwàtzerei</l>
+            <l>Mit em zim bum bum <stage>(bis)</stage></l>
+            <l>Ne jede Narrethei,</l>
+            <l>Un isch se noch so dumm,</l>
+            <l>Dur d'Stadt als bringt so g'schwind</l>
+          </lg>
+        </sp>
+        <sp who="#oscar #emil">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>As wie dr Wind,</l>
+            <l>So g'schwind as wie dr Wind.</l>
+          </lg>
+        </sp>
+        <sp who="#oscar">
+          <lg>
+            <l>Wie wird's erst losgeh hit</l>
+            <l>Mit em zim bum bum, <stage>(bis)</stage></l>
+            <l>Wo-n-ich g'macht ha dà Schritt!</l>
+            <l>Do blibt g'wiss nieme stumm,</l>
+            <l>Me macht noch mehr derzüe</l>
+          </lg>
+        </sp>
+        <sp who="#oscar #emil">
+          <speaker>Mitnander</speaker>
+          <lg>
+            <l>Un doch wàr's g'nüe,</l>
+            <l>Un doch wàr's scho gnnüe!</l>
+          </lg>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Das isch wohr... was witt jetz mache?...</p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>A propos... isch Di Schwester no nitt z'ruck ku üs dr
+                        Pension.
+                    </p>
+          <pb n="502"/>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Worum, was hat mi Schwester do derbi z'mache?...</p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Eh, ich ha denkt, ich kännt viellicht in mim Vater sage,
+                        ich seig mit eüch uf dr Ball... ich heb nitt
+                        anderscht känne... ich heb Di Schwester miesse druf
+                        fiehre...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Merci... das wàr du reste e schlechte-n-Üsred... denn
+                        d'Wohret erfahrt er jo doch allewil... un züedem
+                        kunnt mi Schwester erst in e paar Tàg... un züe glicher
+                        Zit erwarte mr noch e G'sellschaftere fir se...
+                        ne g'wisse Jumpfer Faste... ne gar frumme Person, wo
+                        später wohrschinlig ins Kloster wird geh...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>So müess ich halt ebbes anders süeche... verroth mi awer
+                        nur nitt!... was wott Di frumme un strenge
+                        Müetter züe dem sage... obschon se mich nitt persönlig
+                        kennt, so wott ich doch nitt, ass se mich thàt
+                        sàh do...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich will mi mögligs mache... einstwile kasch Di
+                        changiere... ich ha Dir dert vo mine Kleider brocht,
+                        ass
+                        De doch ufs wenigst nitt eso müesch heim geh...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Un sunscht hasch mir nit brocht?...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Brüchsch noch ebbes?</p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Lüeg, ass De mr ebbes z'esse bikunnsch... ich ha
+                        Hunger...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Güet... ich will Dr gli geh ebbes b'sorge... doch still,
+                        ich hör glaüb rede...
+                    </p>
+          <pb n="503"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Jà... 's kunnt ebber!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(àngstlig).</stage>
+          <p>'s isch d'Stimm vo mim Vater... <stage>(er geht geh lose an dr
+                        Thüre hinte)</stage> mi Müetter isch mit em... was wànn
+                        se jetz do ku mache, sie, wo schier nie do hintere
+                        kämme?...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Nur nitt glich eso verschrocke, suncht thüesch is
+                        verrothe... mach dr gliche as thàtsch e Büech süeche in
+                        dàre Bibliothek...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Liege un mich verstelle! De siehsch, in was ass De mich
+                        üssetze thüesch!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Ich gang jetz wieder dert ine... vergiss 's Morgenesse
+                        nitt... ich will siter nodenke, was
+                        z'mache-n-isch... <stage>(er geht üse rechts un nimmt
+                        d'Männerkleider mit).</stage>
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Emil, Herr un Madame Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(kunnt z'erst hinte-n-ine)</stage>
+          <p>Enfin, ich bi-n-emol derfir... un 's blibt derbi!...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Un ich sag Dir, 's hat kei Sinn... das Zimmer isch
+                        z'abg'lege un unkummod!...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Im Gegetheil!... das wird ere grad geh, die Einsamkeit
+                        un die Bibliothek...<stage>(se kehrt sich um un sieht dr
+                        Emil)</stage> tiens, Dü bisch do, Emil!...
+                    </p>
+          <pb n="504"/>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Was dr Kückücks tribsch denn jetz Dü do hinte?..</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich bi grad ku... ich süech e Büech...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(züem Emil)</stage>
+          <p>Kumm emol do ane... <stage>(züem Herr Schimmel)</stage> ich bi sicher,
+                        ass er er o vo minere Opinion isch!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Enfin, wenn Dü se durchüs do witt logiere, so thüe's un
+                        loss mich in Rüeh!... <stage>(er gsht an
+                            d'Bioliothek).</stage>
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wer soll denn do logiere?</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>D'G'sellschaftere vo Dinere Schwester, wo jetz ku
+                        wird... findsch jetz Dü nitt o, ass se ganz güet wird
+                        si do?...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wenn soll se denn eigentlig ku, die G'sellschaftere?</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ich erwart se in drei oder vier Tàg...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Derno isch's güet... <stage>(lüt)</stage> mir isch's scho recht.. ich
+                        weiss nit dergege z'sage...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Do hörsch jetz... nur Dü bisch's allewil, wo in allem
+                        Opposition macht!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Isch's e Wunder? mit Dine sunderbare-n-Idee, wo Dü
+                        allewil hasch!
+                    </p>
+          <pb n="505"/>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Was fir sunderbare-n-Idee?... thüe-u-ich ebbe nitt
+                        recht, wenn ich in minere Tochter e G'sellschaftere
+                        gib, wo im Kloster uferzoge worde-n-isch un wo also
+                        alle Tugende b'sitzt?
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Kaiser Franz)</stage>
+            <l>Vor dr Welt un ihre G'fohre</l>
+            <l>Süech ich z'b'schitze jetz mi Kind,</l>
+            <l>Denn me-n-isch als gli verlore,</l>
+            <l>Bol hat eim dr böse Find!</l>
+            <l>Drum ha-n-ich, fir das z'erlange,</l>
+            <l>D'Jumpfer Faste kumme lo,</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#madamme_schimmel">
+            <speaker>Madame Schimmel.</speaker>
+            <lg>
+              <l>Denn eso wird mi Verlange</l>
+              <l>In Erfillung geh derno!</l>
+              <stage>}(bis)</stage>
+            </lg>
+          </sp>
+          <sp who="#herr_schimmel #emil">
+            <speaker>Herr Schimmel un Emil.</speaker>
+            <lg>
+              <l>Denn eso wird ihr' verlange</l>
+              <l>In Erfillung geh derno!</l>
+              <stage>}(bis)</stage>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Mi Mame hat ganz Recht!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich find nur, Dü gehsch in dàne Sache allewil e wenig
+                        z'wit... Dü thüesch se-n-iwertriwe... as wie im
+                        Emil do thüesch o allewil dr Kopf verdreihe... me müess
+                        sich nitt welle ganz vo dr Welt z'ruckziege un
+                        d'Hiroth verachte... das isch wider d'Natür, un 's isch
+                        mi Pflicht, dergege z'schaffe...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Awer Vater... wenn's mir jetz eso g'fallt... wenn das mi
+                        einziger Wunsch isch!...<stage>(er geht ungeduldig
+                        umenander)</stage>.
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Natirlig!... b'schaü ne nur emol a... 's steht jo uf sim
+                        G'sicht g'schriwe... d'Unschuld selbst... er hat
+                        jo-n-emol im Lycée miesse fir 's Portrait vom e Heilige
+                        posiere, wo fir d'Kirche destiniert gsi isch...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Das isch jetz alles recht... awer ich sag emol eso
+                        viel... e junger Mensch isch g'macht, fir z'hirothe un
+                        in dr Societät z'lewe...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Eh bien, ich süech em e Fraü...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich ha se scho gfùnde!<stage>(lüt)</stage> was unser Tochter abelangt,
+                        so mie mir Achtung gà, nitt ass ebbe die
+                        G'sellschaftere ne Iwerspannte oder gar e
+                        Schinheilige-n-isch...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>D'Jumpfer Faste?... d'Tochter vo minre alte Frindin, wo
+                        uf Befert isch geh wohne?... ich ha dr beste
+                        B'richt iwer se... un derno sin se grad o nitt in de
+                        beste-n-Umstànde, un do isch's e Glick fir
+                        d'Müetter, ass se ka d'Tochter unterbringe...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich mein, ich sieh se scho: allewil schwarz ag'legt ganz
+                        eifach, un dr Blick am Bode... De hasch mir's
+                        scho g'sàit... awer persönlig kennsch se nitt...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ich will se scho examiniere, wenn se kunnt, un
+                        üsfroge... De weisch, ich bi nitt so dumm... ich will
+                        jetz
+                        gli do ne wenig Ordnung mache...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wotte mr jetz nitt z'erst geh z'Morge-n-esse, Mame?...
+                        wenn se-n-erst in vier Tàg akunnt, so hasch jo
+                        noch lang dr Zit...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>'s isch wohr... gang Dü geh Di Kaffee b'sorge, Fraü...
+                        denn De weisch wohl... 's Kafte heitert Dich als e
+                        wenig uf un git Dr viellicht andere-n-Idee!...
+                    </p>
+          <pb n="507"/>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Was mine-n-Idee abelange, changiere se nie... awer
+                        nitdestoweniger will ich geh lüege, eb d'Magd alles
+                        g'ristet hat ... denn 's isch wohr, 's isch mr niene
+                        recht, so lang as ich 's Kaffee nitt trunke ha ...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(O Strassburg)</stage>
+            <l>Mi Kaffee <stage>(bis)</stage></l>
+            <l>Müess ich vor allem ha</l>
+            <l>Am Morge, <stage>(bis)</stage></l>
+            <l>Fir mich z'erhole dra;</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#madamme_schimmel">
+            <speaker>Madame Schimmel.</speaker>
+            <lg>
+              <l>Isch 's Kaffee als güet g'lunge,</l>
+              <l>So stärkt's mir wieder d'Zunge</l>
+              <l>Un git Kraft in dr Lunge,</l>
+              <l>Ass ich güet schwàtze ka!</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schimmel #emil">
+            <speaker>Herr Schimmel un Emil.</speaker>
+            <lg>
+              <l>Isch 's Kaffee als güet g'lunge,</l>
+              <l>So stärkt's ihr' wieder d'Zunge</l>
+              <l>Un git Kraft in dr Lunge,</l>
+              <l>Ass sie güet schwàtze ka!</l>
+            </lg>
+          </sp>
+          <stage>(Madame Schimmel geht hinte-n-üse.)</stage>
+        </spGrp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage>Herr Schimmel un Emil.</stage>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Endlig isch se jetz emol furt!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn doch nur jetz dr Pape-n-o ging</p>
+        </sp>
+        <pb n="508"/>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Emil, kumm los jetz... sitz do ane... wil mr grad allei
+                        sin, will ich Dir e G'heimniss avertraüe...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>E G'heimniss!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich bin eso ziemlig sicher, nitt wohr, ass Dü bis dohi
+                        noch kei Vorzug g'ha hasch fir e Jumpfre ...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich... ich denks nitt...<stage>(fir sich)</stage> scho wieder e Lug!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Desto besser... uf die Art geht das Ding ganz allei...
+                        ich ha ewe mit minre Schwester e Plan g'macht...
+                        mr hàn mitnander fir Di Glick g'sorgt... sie, wo
+                        d'ganze Stadt kennt, hat sich chàrgiert Dir e Fraü
+                        z'finde.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ne Fraü fir mich !...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Un g'wiss e güete... 's isch schint's e prächtige
+                        Person, hat e lustiger Charakter, isch aber grundehrlig
+                        derbi... d'Lit sage... De weisch, d'Lit sage-n-allewil
+                        ebbes... se seig e wenig lichtsinnig, un worum?
+                        wil se màngmol öffentlig traüt z'mache, was andere nur
+                        im versteckte... se-n-isch e wenig original,
+                        voilà tout, un will Dich mit Freide hirothe.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich weiss awer nitt, eb d'Mame-n-eso d'nàchste beste
+                        wird ufnàh...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich ha scho dra denkt... drum hà mr e Mittel g'süecht
+                        fir se do ine z'bringe... un hàn's g'funde...<pb n="509"/>
+                        anstatt d'G'sellschaftere, wo mir erwarte, schickt mi
+                        Schwester die Jumpfer Tülipa jetz hit scho, fir
+                        ass Dü se einstwile siehsch... ich ha-n-ere lo
+                        abefehle, se soll sich schwarz alege un sich e wenig
+                        schich stelle, fir ass d'Mame nit merkt.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Awer ich kenn se jo gar nitt, die Jumpfer Tülipa!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich o nitt... awer wie g'sàit, mi Schwester ka se nitt
+                        genüeg riehme... b'schaü, do isch dr Brief, wo se
+                        mir noch driwer g'schriwe hat gestert<stage>(er süecht en)</stage>
+                        tiens, ich ha-n-en nitt... ich wird ne uf mim
+                        Secretaire ha lo liege...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich glaüb Dr scho, Pape... awer...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Un Dü hasch recht... das isch e ganz güete Partie fir
+                        Dich... Dü müesch e Fraü ha, wo Dich e wenig
+                        ufheitert un andere-n-Idee git, un die Jumpfer Tülipa
+                        wird das g'wiss z'weg bringe.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Niemols!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Also gehsch Dü's i un witt mr kei Hindernisse in dr Weg
+                        lege?... wenn se Dr g'fallt, so wà mr das Ding
+                        derno scho arrangiere mit dr G'sellschaftere...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Los Pape... das geht nitt... Dü kennsch jo mi Abneigung
+                        gege d'Hiroth.
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Emil!... das isch nitt natürell... Dü verstecksch mir
+                        ebbes.
+                    </p>
+          <pb n="510"/>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was sage!...<stage>(me hört e Glocke lüte)</stage>.</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>'s lütet am Hofthor d'vorne... wer mag uns jetz
+                        scho-n-eso frieih e Visite mache?...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">D'Gliche, Madame Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(kunnt hinte-n-ine ku z'laüfe)</stage>
+          <p>Do isch se!... do isch se... ich ha se scho vo Witem
+                        g'sàh ku un ha denkt, ich will Eüch preveniere!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Wer denn... wer isch do?</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>D'Jumpfer Faste... 's ka nieme-n-anders si... 's Kleid
+                        un d'Haltung, alles isch wie mir se-n-ihre Müetter
+                        b'schriwe hat...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(lislig züem Emil)</stage>
+          <p>'s isch d'Jumpfer Tülipa! ich hoff, Dü wirsch vernünftig
+                        si!
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Güet, ich mach mi dervo!...<stage>(er laüft hinte-n-üse)</stage>.</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Eh bien... was soll das bedite... worum laüft er jetz
+                        eso furt?...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Worum... weiss ich's!... er isch doch züe arg schich fir
+                        e junger Mensch!
+                    </p>
+          <pb n="511"/>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ich will hoffe, Mann, ass Dü die Jumpfere güet empfange
+                        wirsch!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Dü brüchsch kei Angst z'ha... ich verlang jo nitt mehr
+                        as se güet z'empfange.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Herr un Madame Schimmel, Jumpfer
+                    Faste.
+                </stage>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(kunnt hinte-n-ine, se hat schier allewil d'Aüge
+                        niederg'schlage)
+                    </stage>
+          <p>Me hat mr g'sàit, ich seig recht do... bi dr Madame
+                        Schimmel, nitt wohr... ich bi d Jumpfer Faste, wo sie
+                        so g'fàllig wànn si un in Ihre Hüs ufnàmme... mi Herz
+                        isch ufrichtig un verlangt nitt mehr as mit andere
+                        Herze z'harmoniere... ich hoff, ass dr Himmel Ihne
+                        vergelte wird, was Sie Güet's an mir thien...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Willkumme, willkumme, mi güete Jumpfer Faste... ich bi
+                        enchantiert, ass Se jetz bi-n-is isch... doch
+                        ha-n-ich Se-n-erst in e paar Tage-n-erwartet?...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>'s isch wohr... ich ha viellicht z'viel pressiert...
+                        awer 's isch gsi, wie wenn mich e-n-unsichtbare
+                        Macht furttriwe hätt, fir do ane z'ku... un ich wird
+                        jetz glicklig si, wenn Se mich b'halte wànn.
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(ribt si d'Hànd, fir sich)</stage>
+          <p>Se spielt ihre Rolle ganz güet, d'Jumpfer Tülipa...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Sie wird jetz wohrschinlig mied si ab dr Reis'... mr
+                        wànn jetz gli sorge, ass Sie sich dervo erhole ka.
+                    </p>
+        </sp>
+        <pb n="512"/>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Sie glaübt nitt, was uns Ihre-n-Akunft fir e Plaisier
+                        macht!
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Dr Herr Schimmel, mi Mann, wo-n-ich Ihre vorstell!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se schlat d'Aüge nieder... se-n-isch magnifique!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich find, dà Herr hat e gar frecher Blick!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Un wie geht's denn allewil in minere-n-alte Frindin?</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Mi Müetter isch gottlob g'sund und wohl.</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Un do will Se denn, Jumpfer Faste, wirklig später ins
+                        Kloster geh?
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Mi Müetter hat mir g'rothe, ich soll noch recht driwer
+                        nodenke... drum hat se mich fir e Zitlang in
+                        d'Welt üseg'schickt, fir z'lüege-n-eb ich nitt
+                        andere-n-Idee bikumm... awer ich weiss ganz güet, ass
+                        ich
+                        die Zit ohne Mieih iwersteh wird un ass ich derno mit
+                        Freide-n-in d'Einsamkeit z'ruck gang...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(lislig züer Jumpfer Faste)</stage>
+          <p>Sie spielt Ihre Rolle ganz merkwürdig güet!...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was will denn eigentlig dà Mann mit mir!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Vo allem dem wà mr später noch rede... d'Haüptsach isch
+                        jetz, ass Sie üsrüeht vo dr Reis'... mi Tochter
+                        kunnt erst in e paar Tàg... einstwile-n-isch das Ihre
+                        Wohnung... dert isch's Schlofzimmer... un <pb n="513"/> wenn Se
+                        viellicht will üsgeh, so wird sich mi Suhn e Freid
+                        mache, Sie z'begleite...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ihr' Suhn... hàn Sie ne Suhn?...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Unser Emil, jo... hat Sie's nitt g'wisst?... ich will
+                        ne-n-Ihre derno glich presentiere, nitt wohr?...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(lislig züer Jumpfer Faste)</stage>
+          <p>Thàt Se nur «jo» sage.</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Nei, nei, Madame Schimmel... un wenn ich das g'wisst
+                        hätt, so wàr ich gar nie iwer Ihre Schwelle ku!
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Un worum denn das?</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Dr Mann isch unser Verdàrwe-n-uf dr Welt... un ich
+                        schwache Kreatür will wache Tag und Nacht, ass mich
+                        d'Versüechung nitt iwerwältige thüet!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch güet g'funde... se-n-isch famos schlaü.</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Fir d'Wohret z'sage, Jumpfer Faste, thüet Sie das Ding
+                        jetz glaüb doch e wenig iwertriwe... awer das sin
+                        Ihre Sache .. vor allem wà mr jetz geh z'Morge-n-esse,
+                        Sie isst mit uns... mirhàn immer e-n-excellente
+                        Kuche mit Wi vo-n-alle Sorte bis uf dr Champagner...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Sie wird mir erlaüwe, nitt an das Bankett z'sitze!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Hat Sie viellicht kei Hunger?</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Im Gegetheil... ich bi as wie 's Volk Israël in dr
+                        Wieschte, vor ebb ene 's Brod vom Himmel owe-n-awe <pb n="514"/> ku
+                        isch... awer dà Champagner!... nei... ich hätt Angst
+                        mich z'vergesse... 's isch mr liewer, wenn Sie mir
+                        do nur eifach gà losst, fir d'Natür z'befriedige.
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Wie Se will Sie liebt halt d'Einsamkeit... 's hat Jeder
+                        sine-a-Idee ich will glich Ordre gà, ass me Sie
+                        serviert...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>C'est ça!...<stage>(lislig züer Jumpfer Faste)</stage> Sie isch
+                        charmant!... wartet Se-n-nf mich... ich kumm derno,
+                        wenn uns mi Fraü nitt derangiere ka...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich bi charmant!...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Au revoir, also .... Jumpfer Faste... thàt Se sich's
+                        jetz bequem mache.
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Auf den Alpen)</stage>
+            <l>Ungeniert ka Sie do wohne,</l>
+            <l>Niene hätt Sie's jo so güet.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <lg>
+            <l>Mag dr Himmel Sie belohne,</l>
+            <l>Fir was Sie an mir jetz thüet.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#madamme_schimmel">
+            <speaker>Madame Schimmel.</speaker>
+            <lg>
+              <l>Wenn dr Herr Sie will bekehre,</l>
+              <l>Müesst Se-n-als nitt uf ne höre,</l>
+              <l>Denn nit Güet's thàt er Se lehre,</l>
+              <l>Er hat d'Tugend nitt im Blüet.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schimmel">
+            <speaker>Herr Schimmel.</speaker>
+            <lg>
+              <l>Die ka eim 's Verstelle lehre!</l>
+              <l>Soviel as ich jetz thüe höre,</l>
+              <l>Wott ich selwer schiergar schwöre,</l>
+              <l>Ass sie's nitt üs List nur thüet.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <stage>(Herr un Madame Schimmel gehn hinte-n-üse)</stage>
+        <pb n="515"/>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(allei)</stage>
+          <p>Se wànn mich bekehre!... so isch se jetz, die Welt; küm
+                        bin ich in das unreine Babylon ku, so thüet sich
+                        scho dr Abgrund unter mine Fiess uf... bim erste
+                        Schritt scho triff ich e Mann a, wo viellicht mit
+                        criminalische Gedanke umgeht... « Wartet Se uf mi, hat
+                        er g'sàit, Sie isch scharmant... ich kumm derno,
+                        wenn uns mi Fraü nitt störe ka »... ne jed's vo dàne
+                        Worte isch mr wie ne Schwert ins Herz gange un hat
+                        mi Geist mit Schrecke-n-erfillt!... wer git mir
+                        d'Kraft, mine Find z'iwerwältige!... denn mi Herz isch
+                        jo no nitt ganz detachiert vo de weltlige Sache... noch
+                        allewil thüet 's mànnlige G'schlecht e
+                        Revolution drin verursache... dr Blick oder d'Stimm
+                        allei scho vo me Herr süeche mich z'verfiehre un
+                        z'Nacht sogar thien se mir als im Traüm erschine...
+                        sogar bis in d'Kirche thien se mich verfolge, denn
+                        wo-n-ich letschthi dert kneit bi un bete ha, so hat
+                        sich e Tafle vor mine Blicke zeigt, wo me dert
+                        ufghàngt hat, 's Portrait vo me lieilige, wo-n-eso
+                        schön gsi isch, ass ich mich schier nimmig ha känne
+                        trenne dervo, so dass ich's abzeichent ha un jetz siter
+                        uf em Büese notrag... viellicht bin ich im
+                        Fehler... viellicht isch's e List vom böse Find, fir
+                        mich uf die Art in Versüechung z'fiehre... awer nei
+                        's isch e reine Liewe, wo nit weltligs an sich hat...
+                       <stage>(se zieht's üse)</stage> das Bild isch's Band, wo mich an
+                        e andere Heimeth bindet!<stage>('s kunnt e Diener
+                        hinte-n-ine. bringt 's Esse un geht wieder üse)</stage> Wer
+                        kunnt?...<stage>(se steckt 's Portrait i)</stage> ah... 's isch 's
+                        Morgenesse... awer vorher will ich noch e güet
+                        Büech üssüeche dert, denn d'geistige Nahrung derf nitt
+                        vergesse si<stage>(se süecht e Büech)</stage>.
+                    </p>
+        </sp>
+        <pb n="516"/>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">Jumpfer Faste, Oscar.</stage>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(noch immer als Jumpfre, kunnt lislig züe sim Zimmer
+                        üse)
+                    </stage>
+          <p>Hat mich eigentlig dr Emil vergesse<stage>(er sieht dr Tisch)</stage>
+                        aha, nei... dr Tisch isch jo g'ristet...<stage>(er
+                        sitzt dra)</stage> er hat mr schint's nitt känne riefe... ich
+                        ha recht g'ha, ass ich bi ku lüege...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Nit as nur immer dr Voltaire... das werde wohrschinlig
+                        in dem Herr Schimmel sine Biecher si!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(springt uf)</stage>
+          <p>Was!... 's isch ebber do!... jetz bin i verrothe!<stage>(er
+                        sitzt wieder)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens... ich bi schint's nimmig allei... was isch jetz
+                        das fir e junge Person, wo sich züe mim Kaffee
+                        setzt?...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah...das isch g'wiss d'Gsellschaftere, wo dr Emil g'sàit
+                        hat... ich sieh's ere-n-a... wenn ich se thàt e
+                        wenig intriguiere?...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Isch Sie viellicht o noch e Tochter üs em Hüs... dr
+                        zweite wiblige Sprosse vo de Schimmel?...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(steht uf un kunnt fire)</stage>
+          <p>O nei, Jumpfer...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich heiss Faste.</p>
+          <pb n="517"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>O nei, Jumpfer Faste... ich bi nur e Cüsine...<stage>(fir
+                        sich)</stage> 's isch se... ich ha's wohl g'merkt<stage>(lüt)</stage> derft
+                        ich Sie viellicht ilade, mi Kaffee mit mir z'theile?...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ihre Kaffee!...<stage>(lüt)</stage> Ich sag nitt nei... awer wie
+                        kunnt's, ass Sie jetz do isch?... D'Madame Schimmel
+                        hat mir doch g'sàit, ich kännt ganz allei wohne do
+                        hinte...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Ah, Sie wohnt do...<stage>(fir sich)</stage> wenn das isch, so wird
+                        ich ere miesse mi G'heimniss avertraüe... awer nitt
+                        's ganze!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Se isch wohrschinlig in Ihrer Tante ku ne Visite
+                        mache?...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(setzt si an Tisch; d' Jumpfer Faste macht em
+                        vis-àvis; beide fange-n-a z'esse)
+                    </stage>
+          <p>Im Gegetheil... mi Oncle un Tante wisse gar nitt, ass
+                        ich do bi... un wil Se jetz eso viel weisst vo mim
+                        G'heimniss, so will ich Ihre dr Rest noch sage... awer
+                        verspricht Se mir z'erst, ass Sie in nieme
+                        verrothe will, was Sie höre wird...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich versprich's Ere...<stage>(fir sich)</stage> was wird ich wieder
+                        miesse höre!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Eh bien, so müesst Se wisse, ass ich d'vergangene Nacht
+                        uf em Maskeball gsi bi...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh!...</p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Un ass ich dert e junger Mensch atrofte ha, wo mich gern
+                        hat...
+                    </p>
+          <pb n="518"/>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh!... oh!...<stage>(se hebt d'Hand vor d'Aüge)</stage> un derno...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Un derno hat's mi Vater erfahre un hat mich welle
+                        hole... un wil er mir's verbote g'ha hat, so bin ich
+                        halt furtg'loffe do ane un traü jetz nimmig heim...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ne Ummeziegere!<stage>(se steht uf; lüt)</stage> wenn ich das g'wisst
+                        hätt, so wàr ich nitt mit Ihre an dr gliche Tisch
+                        g'sesse:
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Thàt Se mich nur ahöre!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh!... ich bedür Se wider mi Wille!... Sie, noch so
+                        jung, hat sich scho lo verfiehre vo me junge
+                        Mensch!... Oh, mi Tochter! wer wird Sie vom Abgrund
+                        z'ruckhalte!?
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Un wege dem weisst jetz nieme-n-ass ich do bi..</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Gar nieme?...</p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Üsg'numme dr Emil, mi Cüsin...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Dr Emil... noch e junger Mensch, wo Sie ka in
+                        Versüechung fiehre!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Do isch jetz kei G'fohr... awer ich ha Angst vor
+                        sine-n-Eltre... vor dr Müetter b'sunders... denn eso
+                        coquettisch as se-n-als gsi isch in dr Jugend, eso
+                        streng isch se jetz im Alter!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Wo Se noch mehr Angst müess ha, das isch vor de
+                        Mànner... in dàne, o mi Tochter, müesst Se-n-üswiche,
+                        wo
+                        se ka, denn die sin 's Verderwe vo uns arme Kreatüre!
+                    </p>
+          <pb n="519"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch jetz emol ag'nehm az'höre!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh, wenn ich Se doch nur kännt uf dr rechte Weg
+                        z'ruckbringe,
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(t'en souviens tu Marie)</stage>
+            <l>So jung un scho so stark</l>
+            <l>Fir 's Böse, 's isch doch arg!</l>
+            <l>O Schwester, hör uf mich,</l>
+            <l>Bekehre will ich Dich.</l>
+            <stage>(se nimmt em d'Hand)</stage>
+            <l>Viel Freid will ich dra ha,</l>
+            <l>Wenn ich Dich rette ka</l>
+            <l>Noch üs dem Netz, wo do</l>
+            <l>Dir d'Liewe spannt eso.</l>
+          </lg>
+          <stage>(Se losst d'Hand fahre, fir sich)</stage>
+          <p>ich weiss nitt, was ich empfind bi dàre Person!... 's
+                        isch as wie wenn d'Angst un Freid mitnander
+                        thàte-n-in mi Herz izieh!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <lg>
+            <l>Ich mach dr erste Schritt,</l>
+            <l>Verspreche thüe-n-ich hit,</l>
+            <l>Ass nie kei Mann me ka</l>
+            <l>Mi Herz mir mache z'schla!</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <lg>
+            <l>Isch das jetz wirklig wohr,</l>
+            <l>Siehsch Dü se-n-i, die G'fohr?</l>
+            <l>Entsage thüesch dàr Lust?</l>
+            <l>So kumm denn an mi Brust!</l>
+          </lg>
+          <stage>(Se umarmt 'n, stosst 'n awer glich wiederz'ruck,
+                        fir sich)
+                    </stage>
+          <p>wieder die gliche-n-Empfindung... ich weiss gar nitt,
+                        was ich denke soll!
+                    </p>
+          <pb n="520"/>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Awer hingege, nitt wohr, zähl ich druf, ass Sie in nieme
+                        nit sàit vo mir, so lang as ich do bi?<stage>(er will
+                        ere d'Hand nàh)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Retro, retro!... riehrt Se mich nimmig a!... ich weiss
+                        nitt, was ich ha... do steckt ebbes derhinter!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Sie refüsiert?...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(ufg'regt)</stage>
+          <p>Ich will nit meh wisse, wenn ich Ere sag! verlosst mich,
+                        's wird 's Beste si...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Sie müess nitt bös werde, Jumpfer Faste... ich gang...
+                        awer ich ha-n-Ihre Verspreche... Sie derf nit
+                        sage...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich zittter ganz, ohne z'wisse worum...<stage>(lüt)</stage> ich ha nur
+                        ei Wort... Sie ka zähle druf, ich sag nit, awer
+                        geht Se...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Merci, Jumpfer Faste... Sie isch charmant...<stage>(fir sich)</stage>
+                        s' Beste wird si, ich changier mi un mach jetz,
+                        ass i furt kumm<stage>(er geht üse rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">Jumpfer Faste, derno Herr Schimmel.
+                </stage>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Die Aüge! un wie se das g'sàit hat « Sie isch charmant
+                        », grad as wie dr andere, dr Herr Schimmel,<pb n="521"/> ich
+                        g'spir dr böse Find in alle-n-Ecke un ka nitt g'nüeg
+                        Achtung gà, ass ich mich nitt umstrike loss ..
+                        doch, wer hör i do ..<stage>(dr Herr Schimmel kunnt
+                        hinte-n-ine)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(kunnt fire)</stage>
+          <p>Sie isch allei! .. desto besser .. mi Fraü isch
+                        b'schàftigt, mr hàn nit z'riskiere... awer fir sicherer
+                        z'si, kännt Se viellicht sàlle Thüre züegschpliesse<stage>(er
+                        zeigt uf d'Thüre hinte)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Züegschpliesse!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Eh jo... fir ass uns nieme störe ka...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was wird jetz uf mich warte!<stage>(se geht
+                        gehzüegschpliesse)</stage>.
+                    </p>
+        </sp>
+        <stage>G'sang (Guillaume Tell)</stage>        
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <lg>
+            <l>'s isch bis dohi</l>
+            <l>Jetz pràchtig gsi,</l>
+            <l>G'wiss, ich ha Freid do dra,</l>
+            <l>Sie müess dr Sterne ha!</l>
+            <l>Mi Fraü merkt nit,</l>
+            <l>Mir hàn dr Zit.</l>
+            <l>Binander z'si, mir Zwei,</l>
+            <l>Do ganz allei.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_schimmel">
+            <speaker>Herr Schimmel.</speaker>
+            <lg>
+              <l>Mi Fraü trumpiere,</l>
+              <l>Das wà mr prawiere!</l>
+              <l>'s müess schnell marschiere,</l>
+              <l>Denn schwinde thüet d'Zit!</l>
+            </lg>
+          </sp>
+          <sp who="#jumpfer_faste">
+            <speaker>Jumpfer Faste.</speaker>
+            <lg>
+              <l>Si Fraü trumpiere,</l>
+              <l>Das will er prawiere!</l>
+              <l>Fir mich z'verfiehre,</l>
+              <l>Verliert er si Zit!</l>
+            </lg>
+          </sp>
+          <pb n="522"/>
+        </spGrp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se schint e wenig schich z'si, die Jumpfer Tülipa... un
+                        doch, wi mir mi Schwester g'sàit hat... enfin,
+                        als züekünftiger Schwiegervater müess ich
+                        ihre-n-Avances mache...<stage>(lüt)</stage> kàm Se jetz emol do ku
+                        nàwe mi
+                        sitze, ass mir schwàtze känne...<stage>(er sitzt ufs
+                        Kanapee)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich bi g'wiss nitt mied, Herr Schimmel!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Eh, kàm Se doch nur, mr hàn nur e-n-Aügesblick Zit un
+                        känne nitt lang Zeremonie mache!...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Nei, nei... ich will Ene respectvoll, awer ufrecht
+                        züelose, wenn Sie mir ebbes z'sage hàn...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>'s handelt sich jetz nitt um Respect... sitzt Se jetz do
+                        ane oder Se macht mi bös!...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Alle Heilige solle mir bisteh!<stage>(se sitzt ganz ans
+                        undere-n-End vom Kanapee)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Besser züe mr, besser züe mr... mach ich Ihre denn Angst
+                       <stage>(er macht se züe si z'rucke)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>O Gott, o Gott!...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich weiss nitt... awer wie me mir g'sàit hat, sott Sie
+                        ganz anderscht si... me hat mir e Person
+                        annonciert, e wenig original, 's isch wohr... awer mit
+                        eme fröhlige Charakter... sogar e klei wenig
+                        lichtsinnig!
+                    </p>
+          <pb n="523"/>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>D'Welt isch halt verdorwe... ich verzeih ere, wenn se 's
+                        Schlechte gege mich redet!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Voyons... thàt Se sich jetz doch nimmig verstelle!...
+                        Sie traüt sich viellicht nitt z'zeige vor mir ganz
+                        wie Se-n-isch... awer Sie hat' Unrecht... ich weiss jo
+                        wohl, ass me-n-ei Aüg müess züemache mit de junge
+                        Lit.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà Mann isch dr böse Geist selbst!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Also, thàt Se jetz dà Larifari absite lo... Sie denkt
+                        wohl, ass mir uns z'erst e wenig versteh mien, we
+                        mr mi Fraü wànn trumpiere mitnander.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ihre Fraü trumpiere!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Oh, 's isch nitt difficil... awer doch, mit ihre-n-Idee,
+                        wo se hat, werde mr Mieih ha, fir ihre-n-unsere
+                        Liewesg'schichte mache z'acceptiere!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Worum bin ich nitt mit Taübheit g'schlage!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Awer Sie brücht kei Angst z'ha... ich will mi Wille scho
+                        duresetze... un ich will nitt rüehe, bis ich
+                        Ihre Wunsch erfillt ha!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Mi Zunge-n-isch as wie g'lähmt!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Eh bien... was hat Se denn... ich verstand Se wirklig
+                        nitt... e-n-andere-n-an Ihrem Platz hatt mich scho
+                        lang um dr Hals gnu, fir sich z'bedanke!
+                    </p>
+        </sp>
+        <pb n="524"/>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Abscheü macht mich z'verstumme!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>So thàt Se denn emol rede!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(steht uf)</stage>
+          <p>Jà, ich will rede, Sie verbrecherischer Mensch ass Sie
+                        sin!... un mi Stimm soll ertöne as wie d'Trumpete
+                        am jüngste G'richt!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(steht uf)</stage>
+          <p>Was thüet Se mir jetz do verzähle, was soll das
+                        bedite?...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich will rede-n-un will Ihre-n-ehrlose Plàn in alle Lit
+                        offebare!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(geht gege se)</stage>
+          <p>Décidément... ich glaüb wirklig, Sie verliert dr Kopf!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Riehre Se mich nitt a!... thien Se mich nitt mit Ihrem
+                        giftige-n-Oden beftecke...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Nur g'mach... nur nitt so hitzig... 's müess do ne
+                        Missverstàndniss si wohrschinlig... isch Sie denn
+                        nitt...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Nei, ich bi nitt was Sie meine, Sie unverschàmter
+                        Mensch, ass Sie sin... ich verwünsch Se in alle
+                        Ewigkeit... dr Bode soll unter Ihre Fiesse verdärre un
+                        d'Pest soll iwer Sie ku, ass Sie dr Schrecke um
+                        sich her verbreite!<stage>(se g'schpliesst uf un laüft
+                        hinte-n-üse)</stage>.
+                    </p>
+          <pb n="525"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">Herr Schimmel, derno Emil.</stage>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Hat me jetz scho-n-emol eso ebbes g'sàh!... isch die
+                        g'schittelt?... am End isch's gar d'rechte Jumpfer
+                        Faste... uf jedefall isch's die nitt, wo mir mi
+                        Schwester hätt sotte schicke... das thüet jetz wieder
+                        alles verderwe!
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(kunnt hinte-n-ine, ohne si Vater z'sàh)</stage>
+          <p>Was fir e Züefall!... sie, wo-n-ich scho so lang im
+                        Stille-n-abete ha, isch do... in unsrem Hüs!... ich
+                        müess das im Oscar avertraüe un en um Roth froge...
+                        tiens, mi Vater!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ah, Dü bisch's, Emil... thüesch Dü mich süeche?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Was isch Dr?... De schinsch mr eso verstört z'si?...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>'s isch o kei Wunder... grad ha-n-ich mit dàre Person
+                        g'redt un müess jetz leider glaüwe, ass es
+                        d'Jumpfer Tülipa gar nitt isch!...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Un ich bi ganz sicher, ass es se nitt isch!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Wieso das?...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Se-n-isch grad vorig nàwe mr dure-n-im Garre, ohne mich
+                        z'sàh, denn ich ha mich uf d'Site g'macht, un do
+                        ha-n-i se ganz güet erkennt!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Erkennt?... was witt mit dem sage?</p>
+        </sp>
+        <pb n="526"/>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz ha-n-ich mich verrothe!...<stage>(lüt)</stage> los, Vater, ich
+                        mag Dir das nitt sage!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Was isch jetz das wieder fir e G'heimniss?... g'schwind
+                        üse mit!... Dü sollsch in Dine-n-Elt're nit
+                        verstecke!
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Eh bien... 's isch gsi züer Zit, wo-n-ich noch z'Befert
+                        im Lycée gsi bi... dert ha-n-ich se-n-ais g'sàh
+                        mit de-n-andere-n-Elèves in dr Kirche.
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Loreley.)</stage>
+            <l>Ich weiss nitt, was ich Dir soll sage,</l>
+            <l>'s isch so unschuidig gsi,</l>
+            <l>Dena 's stammt noch her vo sàlle Tage,</l>
+            <l>Wo-n-ich Student gsi bi;</l>
+            <l>Gar vielmol ha-n-ich sie bewundert,</l>
+            <l>Ihr' Andacht hat mich g'riehrt,</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#emil">
+            <speaker>Emil.</speaker>
+            <lg>
+              <l>Ich hätt se jetz kennt unter Hundert</l>
+              <l>Un hätt mich nitt trumpiert!</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schimmel">
+            <speaker>Herr Schimmel.</speaker>
+            <lg>
+              <l>Ich bi jo wahrhaft ganz verwundert,</l>
+              <l>Ich ha mich halt trumpiert!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <lg>
+            <l>Derno wàr's also d'wirklige Jumpfer Faste, wo mr
+                            erst später erwartet hàn!... Emil, ich verbiet Dir
+                            se-n-az'lüege oder mit ere z'rede... ich zähl druf,
+                            ass Dü mir folge thüesch!
+                        </l>
+          </lg>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wenn Dü's halt durchüs ha witt... awer...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ich will lüege, ass ich se-n-eso bol as möglig üs em Hüs
+                        schaffe ka!
+                    </p>
+          <pb n="527"/>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Dü witt se furtschicke?...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Wie eher wie liewer... ich will mit Dinere Müetter rede
+                        un will hoffe-n-ass se trotz ihre-n-Idee... doch
+                        ich hör se glaüb ku... do isch se... desto besser...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Mi Müetter o noch... jetz ka-n-i nitt mit em Oscar
+                        rede!
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">D'Gliche, Madame Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(kunnt hinte-n-ine, zornig)</stage>
+          <p>'s isch schàndlig... 's isch himmelschreiend!... oh! ich
+                        kenn mi nimmig vor Zorn!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Was isch... was hasch wieder?...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Was ich ha?... Dü brüchsch noch z'froge!... Di Complott
+                        ha-n-ich entdeckt, ass Dü's nur weisch!... do
+                        isch dr Brief, wo-n-ich uf Dim Secretär g'funde ha!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Brief vo minere Schwester! desto besser!...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Emil, gang... loss uns allei...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich verlang nitt mehr...<stage>(fir sich)</stage> wenn's viellieht
+                        gieng!... ich will's prawiere...<stage>(er macht
+                        dergliche-n-üse z'geh un schlicht derno, ohne-n-ass
+                        me's sieht, in d'Stuwe vom Oscar)</stage>.
+                    </p>
+        </sp>
+        <pb n="528"/>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage>Herr un Madame Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
+                        Schwester, wo-n-ich nitt lide ka, hàn ihr's derzüe
+                        brocht, mir e falsche G'sellschaftere ins Hüs
+                        z'bringe... un was fir eine!... ne so ne Jumpfer
+                        Tülipa...
+                        ne lichtsinnige Person... un wo sich verstelle ka!...
+                        nei!... 's isch nitt erlaübt!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Güet, ich will gli vo ihrem Irrthum profetiere...<stage>(lüt)</stage>
+                        was witt halt... wenn ich's g'macht ha, so isch's
+                        nur in ere ganz güete-n-Absicht gsi...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Dü g'stehsch's also i!</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Natirlig... denn ich bi jo z'erst trumpiert worde... die
+                        Person isch gar nitt, was me mir g'sàit hat...
+                        un ihr' Betrage gege mich isch ere, b'sunders nitt
+                        z'verzeihe!...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Worum... was isch denn gsi?...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Eh, vorig bin ich do züefällig allei bi-n-ere gsi... un
+                        do hat se...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Un do hat se... was hat se?...</p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>D'Coquette g'spielt... ass se mir nitt e Declaration
+                        g'macht hat, isch alles gsi...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Isch's möglig!...</p>
+          <pb n="529"/>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Wenn ich nitt eso standhaft gsi wàr... awer in dere
+                        ha-n-ich's g'sàit.
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Das isch jo jetz abscheülig! ich hoff, De wirsch se vor
+                        d'Thüre stelle!...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich ha's g'wunne!...</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Doch, do isch se glaüb... se kunnt grad recht... ich
+                        will emol mit ere rede!
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Jumpfer Faste.</stage>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Aha... find ich Se-n-endlig, Madame Schimmel... ich ha
+                        Se vergewes iwerall g'süecht...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Ich ka nimmig schwige!... 's müess üse!... Jumpfer
+                        Tülipa, Ihr' Betrage-n-isch schàndlig...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <p>Jumpfer Tülipa?</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>'s isch nitt genüeg, ass Sie sich unter eme falsche Name
+                        in mi Hüs g'schliche hat... awer Sie thüet sich
+                        noch d'frechste Handlunge erlaüwe!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich süech vergewes Ihre Worte-n-üsz'lege!</p>
+        </sp>
+        <pb n="530"/>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>'s isch unnothig, ass Se sich langer verstellt!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(O Tannenbaum)</stage>
+            <l>G'steht Sie's emol,</l>
+            <l>Sie weisst gar wohl,</l>
+            <l>Was ich mit dem will sage!</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <lg>
+            <l>Ich weiss nitt, was die hàn mit mir,</l>
+            <l>Se mache mich bol hinterfir;</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#jumpfer_faste">
+            <speaker>Jumpfer Faste.</speaker>
+            <lg>
+              <l>Ich kumm nitt drüs.</l>
+              <l>Was in dem Hüs</l>
+              <l>Ich alles müess ertrage!</l>
+            </lg>
+          </sp>
+          <sp who="#herr_schimmel #madamme_schimmel">
+            <speaker>Herr un Madame Schimmel.</speaker>
+            <lg>
+              <l>Sie müess mr drüs,</l>
+              <l>Denn in mim Hüs</l>
+              <l>Ka-n-ich das nitt vertrage!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Jumpfer Tülipa, ich hätt Ere viellicht noch känne
+                        verzeihe, ass Se ne falscher Name agnu hat... awer ass
+                        Se noch mi Mann hat welle verfiehre, das isch doch e
+                        wenig z'bunt!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Thüet er mich aklage?... 's hat sunscht nit meh
+                        g'fehlt...<stage>(decouragiert)</stage> ich mag Ene gar kei Antwort
+                        meh
+                        gà!
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Sie ka wohl denke, ass Sie uf das hi nimmig do im Hüs ka
+                        bliwe... ich gib Ere ne halb Stund, fir
+                        ufz'packe!...<stage>(Herr un Madame Schimmel gehn
+                        hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(allei)</stage>
+          <p>Oh, se thàt mich vergewes z'ruckhalte!... mit Freide
+                        will ich dà Ort verlo, wo alle Sünde sich uf-<pb n="531"/>halte
+                        thien... se stelle mich üse... 's macht nit, denn ich
+                        bi Meister worde-n-iwer die, wo mich ins Verdàrwe
+                        hàn welle brlnge... ne g'heimnissvolle Macht hat mich
+                        unterstützt in dem Kampf<stage>(se zieht 's Portrait
+                        üse)</stage> un jetz wà mr denn wieder z'ruck geh, züe dàne, wo
+                        in dr G'rechtigkeit lewe!... awer vorher will
+                        ich in dàre junge Person dert noch e güeter Roth
+                        ertheile un will se warne vor em Abgrund!...<stage>(se klopft
+                        an d'Thüre rechts)</stage> kàm Se ne wenig... ich ha noch ebbes
+                        mit Ere z'rede... do isch se... se kunnt...<stage>(se
+                        geht hintere, fir z'lose, eb nieme kunnt)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIII. Uftritt.</head>
+        <stage>Jumpfer Faste, Oscar, derno Emil.</stage>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(in Mannerkleider, unter dr Thüre lislig züem
+                        Emil)
+                    </stage>
+          <p>Wart e-n-Aügesblick... Dü machsch Dich derno dervo,
+                        wàhrend ass ich mit ere red'...<stage>(züer Jumpfer Faste)</stage>
+                        Sie hat mr g'rüefe... do bin i...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ne Herr!... ne Herr!... wer sin Sie?... wo kämme Sie
+                        her?...<stage>(se hebt d'Hànd vor 's G'sicht, fir ne nitt
+                        z'sah)</stage>.
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>B'schaüt se mich emol recht, Jumpfer Faste... Sie wird
+                        mich derno glich wieder erkenne!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Die Stimm isch mir bekannt...<stage>(se macht langsam d'Hànd
+                        vom G'sicht)</stage> Isch's möglig! Sie isch's, in
+                        Mànnerkleider!... was kunnt Ihre jetz i, sich eso
+                        z'verkleide?...
+                    </p>
+        </sp>
+        <pb n="532"/>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Sie trumpiert sich... jetz bin ich nimmig verkleidet...
+                        vorher bin ich's gsi!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ne Herr!... e wirkliger Herr!... un si Hand isch in
+                        minere Hand gsi!... un ich ha-n-em e Schmutz gà!...
+                        Schand... Schand!... ewige Schand iwer mich!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Sie müess mr verzeihe... thàt Se mich ahöre...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Kämme Se nitt züe mr... um kei Schritt... retro
+                        Satanas!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>'s isch mr Leid... ich ha Se nitt welle beleidige... un
+                        was ich Ihre vorher verzählt ha, isch wohr... nur
+                        anstatt d'Jumpfre bin ich dr junge Mensch gsi, un bin
+                        en noch... ich ha mich jetz halt doch decidiert
+                        fir heim z'geh...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was wird jetz eigentlig noch iwer mich ku in dem Hüs!...
+                        's isch Zitt, ass ich mich uf der Weg mach...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(kunnt vorsichtig hinte-n-üse)</stage>
+          <p>Ich müess jetz doch mache-n-ass ich furt kumm... dr Pape
+                        süecht mich am End!...<stage>(er geht gege dr Thüre
+                        hinte)</stage>.
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Also nit fir ungüet Jumpfer Faste... mir wànn als güete
+                        Frind vonander geh...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(wo hinte g'lüegt hat)</stage>
+          <p>Herrje, d'Mame!...<stage>(er versteckt si hinter d'Vorhàng vom
+                        Fenster)</stage>.
+                    </p>
+          <pb n="533"/>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(züem Oscar)</stage>
+          <p>'s kunnt ebber... gehn Se nur g'schwind wieder dert ine,
+                        nitt ass me-n-uns sieht binander... ich thàt jo
+                        sterwe vor Scham!
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Ich zahl uf Ihre Verschwiegeheit!<stage>(er verschwindet
+                        rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIV. Uftritt.</head>
+        <stage>Jumpfer Faste, Emil (versteckt), Madame
+                        Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(kunnt hinte-n-ine, zornig)</stage>
+          <p>Aha... er isch noch do!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Verzeiht Se mr, ass ich no nitt furt bi... ich will mich
+                        jetz grad uf dr Weg mache...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ah so!... Sie wànn sich uf dr Weg mache!... 's handelt
+                        sich jetz nimmig um das.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Was isch denn wieder... was mag Sie jetz in eso ne Zorn
+                        bringe?...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Un Sie froge noch! meine Se ebbe, ich kenn Sie nitt,
+                        Herr Oscar?... vorher ha-n-ich mich trumpiert
+                        g'ha... mi Mann hat mr g'stande, was an dr Sach isch
+                        mit dr Jumpfer Tülipa... awer jetz weiss ich
+                        endlig, wer Sie sin?
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(fir sich)</stage>
+          <p>O das noch!... ha-n-ich denn no nitt g'nüe g'litte!...
+                    </p>
+        </sp>
+        <pb n="534"/>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ah so... Sie gehn uf dr Ball als Jumpfere-n-aglegt un
+                        iwerrede ne junge Person, fir mit Ene z'ku, fir
+                        se-n-eso z'compromittiere un glaüwe, Se derfe sich nur
+                        eso verstecke bi uns!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Hat Sie denn eigentlig g'schwore, mich ganz üs de Füege
+                        z'bringe!
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Wànn Sie's ebbe noch làigne?.. d'ganze Stadt redt
+                        dervo... grad hat mir's d'Coiffeuse g'sàit... Ihr Vater
+                        süecht se-n-iwerall un ebber, wo Sie kennt, hat Se jo
+                        gsàh grad vorig am Fenster in dr Schlofstuwe
+                        dert...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(partant pour la Syrie)</stage>
+            <l>'s blibt ewe nit verborge,</l>
+            <l>'s kunnt alles wieder üs,</l>
+            <l>Me hat Se g'sàh dà Morge</l>
+            <l>Am Fenster do im Hüs;</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#madamme_schimmel">
+            <speaker>Madame Schimmel.</speaker>
+            <lg>
+              <l>Das isch e schöne G'schichte,</l>
+              <l>Kei Büess isch z'härt derfir,</l>
+              <l>Denn streng wird d'Welt Sie richte,</l>
+              <l>Sie derfe's glaüwe mir!</l>
+              <stage>} bis</stage>
+            </lg>
+          </sp>
+          <sp who="#jumpfer_faste">
+            <speaker>Jumpfer Faste.</speaker>
+            <lg>
+              <l>Das isch e schöne G'schichte,</l>
+              <l>'s rüeht alles nur uf mir,</l>
+              <l>Sie thien mich ganz vernichte,</l>
+              <l>Ich wird noch hinterfir!</l>
+              <stage>} bis</stage>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>G'wiss... das geht Ene jetz emol nitt dure!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich ha jetz satt an dàne Sache un will nit meh wisse...
+                        ich will Gott danke, wenn ich emol üs dem Hüs
+                        bi!
+                    </p>
+          <pb n="535"/>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Se gehn mir awer nitt eso do üse... Sie verdiene
+                        g'stroft z'si.... ich ha ewe-n-o ne Tochter un bi also
+                        interessiert, ass eso Verfiehrer wie Sie nitt leer
+                        üsgehn... Ihr' Vater isch preveniert, er wird Se ku
+                        hole...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Isch Sie denn ganz vo Sinne!... un will Se mich jetz
+                        eigentlig vor aller Welt làcherlig mache!...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Einstwile g'schpliess ich Sie jetz i do!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh nei!... thien Se das nitt!... liewer alles
+                        ertrage!... thàt Sie mich binde!... macht Se was Se
+                        will,
+                        nur thàt Se mich nitt in dem Zimmer igschpliesse!
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ich los uf nit meh!...<stage>(se geht hintere)</stage>.</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Dm alles, was Ere lieb isch, thàt Se das nitt!<stage>(fir
+                        sich)</stage> z'erst wànn se mich üsestelle... jetz sperre se
+                        mich i!...
+                    </p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Au revoir, Herr Oscar!<stage>(se geht hinte-n-üse un
+                        gschpliesst d'Thüre züe)</stage>.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ig'sperrt mit dem junge Mensch, wo alles im Stand
+                        isch!... ich, wo scho-n-eso Mieih ha, fir nitt in
+                        Versüechung z'falle!
+                    </p>
+        </sp>
+        <pb n="536"/>
+      </div>
+      <div type="scene">
+        <head>XV. Uftritt</head>
+        <stage type="characters">Jumpfer Faste,Emil.</stage>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(schaüt fire)</stage>
+          <p>Ig'sperrt mit ere!... wenn das dr Pape wisse thàt!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Hat sich denn hit alles verschwore gege mich!...<stage>(se
+                        losst sich uf e Stüehl sinke)</stage>.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(schaüt fire)</stage>
+          <p>Oh, wenn ich 'thàt traüe mit ere z'rede!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ne Idee!... ich gschpliess ne-n-i un wirf dr Schlissel
+                        züem Fenster üse, derno ha-n-ich nit
+                        z'riskiere!...<stage>(se gschpliesst d'Thüre züe rechts,
+                        nimmt dr Schlissel, geht ans Fenster, wirft
+                        ne-n-üse-n-un sieht dr Emil)</stage> ne Herr!... scho wieder e
+                        Herr!... dr böse Find hat se glaüb alle z'àmme
+                        gege mich g'schickt.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(kunnt fire)</stage>
+          <p>Jumpfer Faste... ich wott... ich hätt...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Herrgott, mi Heiliger!...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Hat se mich ebbe-n-o scho bemerkt g'ha frieiher?</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Sag mir, unbekannt G'schäpf, kunnsch Dü üs em Himmel fir
+                        mich z'rette... oder üs dr Häll fir mich
+                        z'verfiehre!... soll ich Dich abete oder verwünsche!
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich weiss sicher nitt, Jumpfer Faste, wie Sie das
+                        meint...
+                    </p>
+          <pb n="537"/>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Oh, ich erkenn Dich ganz güet... grad eso bisch mir als
+                        im Traüm erschiene... awer nei, gang... Dü bisch
+                        wohrschinlig as wie d'andere...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich bi dr Emil... dr Suhn üs em Hüs...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Was ha-n-i g'sàit... ganz eifach e Mensch... gehn Se,
+                        ich will Se nitt sàh!...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Awer, Jumpfer Faste... wenn Sie wisse thàt, wie lang ass
+                        ich Se scho gern ha...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Was, er o?...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wenn Se-n-awer meint, so will ich riefe dert am Fenster,
+                        ass me-n-is ufmacht...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Nei, riefe Se nitt... 's isch jetz z'spot... ich ka's
+                        nimmig länger üshalte... b'schaü das Bild, wo-n-i
+                        scho-n-eso lang uf em Herz notrag<stage>(se zeigt em 's
+                        Portrait)</stage>.
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Mi Portrait!</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>'s hat mich bis dohi vor jeder andre Liewe b'schützt,
+                        awer jetz ka-n-ich in sinre Macht nimmig
+                        widersteh...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Was... isch's möglig?... thàt Sie 's Kloster lo fahre
+                        mir z'lieb!...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich ha jetz g'nüeg kàmpft un g'stritte... un 's hat
+                        alles nit g'nutzt... ich bin iwerwunde... ich gib Dir
+                        mi Lewe, mi Seel un alles z'àmme.
+                    </p>
+          <pb n="538"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Fremersberg)</stage>
+            <l>Ich ha jetz kàmpft scho lange Stunde,</l>
+            <l>Doch d'Kraft hat mich verlo,</l>
+            <l>Dr Böse hat mich iwerwunde</l>
+            <l>Jetz uf dr Erde do.</l>
+            <l>Doch wenn emol sich d'Höll ufthüet,</l>
+            <l>So soll's mir fehle nitt an Müeth,</l>
+            <l>Wenn Dü se theile thüesch mit mir</l>
+            <l>Un ass ich bliwe ka bi Dir.</l>
+          </lg>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <lg>
+            <l>Doch wenn emol sich d'Höll ufthüet,</l>
+            <l>So soll's uns fehle nitt an Müeth,</l>
+            <l>Wenn Sie se theile thüet mit mir</l>
+            <l>Un ass ich bliwe ka bi Ihr.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste</speaker>
+          <stage>(zeigt uf d'Thüre hinte)</stage>
+          <p>Mr dràiht dr Schlissel um... 's kunnt ebber!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was wird dr Pape züe dem allem sage!<stage>(er steht hintere
+                        uf d'Site rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVI. Uftritt.</head>
+        <stage type="characters">D'Gliche, Madame Schimmel.</stage>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Mi güete Jumpfer Faste... wie bin ich eso ung'recht gsi
+                        mit Ihre!... awer 's isch alles ans Liecht ku...
+                        dr rechte Herr Oscar isch dert<stage>(se zeigt ufs Zimmer
+                        rechts)</stage> züem Fenster üseg'sprunge, grad wo si Vater
+                        ku isch... 's isch alles arrangiert... er hirothet 's
+                        Lenele.
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Das alles macht mir jetz nit meh, Madame Schimmel, Sie
+                        hätt sich nitt brüche z'derangiere wege mir...
+                    </p>
+          <pb n="539"/>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Im Gegetheil... ich will's Ere süeche z'vergelte... denn
+                        ich bi ne Munster, ass ich Sie soupçonniert
+                        ha... awer Sie verzeiht mr, nitt wohr?...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Wer verzeiht, dem wird verzeiht werde!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>A la bonne heure!... un in mim Mann o müesst Se
+                        verzeihe... wo blibt er nur o<stage>(se kehrt si um un sieht
+                        dr
+                        Emil)</stage> dr Emil!... was machsch denn Dü do?...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Schimmel.</stage>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Emil!... wo isch dr Emil!... ich süech ne jetz scho in
+                        alle-n-Ecke!...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich bi do gsi, Pape... bi dr Jumpfer Faste... d'Mame hat
+                        is vorig ig'sperrt mitnander...
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Was bisch Dü do ku mache?... ich ha Dir's doch verbote
+                        g'ha!
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Ich ha welle züem Oscar geh!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Worum bisch derno nitt gange?...</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>Wil d'Jumpfer Faste dr Oscar ig'sperrt hat un dr
+                        Schlissel züem Fenster üseg'worfe hat.
+                    </p>
+        </sp>
+        <pb n="540"/>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Dr Himmel isch mi Zige, ass ich's üs ere güete-n-
+                        Absicht g'macht ha!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Ah, dà Schlissel, wo-n-ich uf dr Kopf biku ha dunte im
+                        Garte, isch vo do gsi... un wege dem isch dr Oscar
+                        halt züem Fenster üse g'sprunge...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVIII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Oscar.</stage>
+        <sp who="#oscar">
+          <speaker>Oscar</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Ich müess ku lüege, was do eigentlig vorgange-n-isch...
+                        me hat mich ig'sperrt un derno ha-n-ich d'Jumpfer
+                        Faste lüt höre rede un e-n-Art Deklaration mache im
+                        Emil...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil.</speaker>
+          <p>De kasch o glich sage, ass se Schimpfworte vo minere
+                        Müetter agnu hat, an Dim Platz, fir Dich nitt
+                        z'verrothe!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Das isch wohr... se hat ihre Verspreche g'halte<stage>(züer
+                        Jumpfer Faste)</stage> do isch mi Hand, Jumpfer Faste...
+                        wenn Sie will ischla, isch's e Zeiche, ass Sie mir
+                        nimmig zürnt...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>O, ich ha jetz kei Angst meh vor Ene... ich kehr in
+                        d'Welt z'ruck... ich g'spir, ass ich derfir g'macht
+                        bi...
+                    </p>
+        </sp>
+        <sp who="#emil">
+          <speaker>Emil</speaker>
+          <stage>(züe Herr un Madame Schimmel)</stage>
+          <p>Un wenn ihr uns d'Erlaübniss gàn, so hirothe mir
+                        mitnander!
+                    </p>
+          <pb n="541"/>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Was, ihr wànn hirothe mitnander!</p>
+        </sp>
+        <sp who="#madamme_schimmel">
+          <speaker>Madame Schimmel.</speaker>
+          <p>Ich bi jo ganz verstünt ob dàre Bekehrung!...</p>
+        </sp>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <p>Ich versprieh, Ihre Suhn glicklig z'mache; mir gehn
+                        mitnander uf d'Bàll, ins Theater... ich will mich bis
+                        iwer dr Kopf mittle-n-in d'Frei de vo dem Siècle werfe!
+                    </p>
+        </sp>
+        <sp who="#herr_schimmel">
+          <speaker>Herr Schimmel.</speaker>
+          <p>Nur g'mach, Jumpfer Faste nur g'mach... 's isch mr
+                        recht, ass Sie sich bekehrt... awér Sie müess jetz
+                        nitt glich an d'andere Extremität welle!...
+                    </p>
+        </sp>
+        <sp who="#oscar">
+          <speaker>Oscar.</speaker>
+          <p>Eh bien, Herr un Madame Schimmel... gàn Se-n-Ihre Sege
+                        derzüe un mr wànn hoffe, ass in kurzer Zitt ne
+                        ganze Heerd junge Schimmele do umelaüfe werde!...
+                    </p>
+        </sp>
+        <stage>G'sang</stage>
+        <sp who="#jumpfer_faste">
+          <speaker>Jumpfer Faste.</speaker>
+          <lg>
+            <l>Jetz, wo-n-ich e Mann bekumm,</l>
+            <l>Müess ich g'steh, <stage>(bis)</stage></l>
+            <l>Ass ich nimmig wàr so dumm</l>
+            <l>Un wott ins Kloster geh!</l>
+          </lg>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <lg>
+            <l>D'Hiroth isch halt 's End vom Lied;</l>
+            <l>Drum ihr Lit <stage>(bis)</stage></l>
+            <l>Süeche-n-alle-n-eüre Hiet,</l>
+            <l>Fir heimz'geh isch's Zit.</l>
+          </lg>
+        </sp>
+        <pb n="542"/>
+      </div>
+    </body>
+  </text>
+</TEI>

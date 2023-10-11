@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Milhüser Bilder</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-113"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Milhüser Bilder</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_fisselboge" sex="M">
+            <persName>Herr FISSELBOGE</persName>
+          </person>
+          <person xml:id="herr_scharfmesser" sex="M">
+            <persName>Herr SCHARFMESSER</persName>
+          </person>
+          <person xml:id="herr_gager" sex="M">
+            <persName>Herr GAGER</persName>
+          </person>
+          <person xml:id="herr_knopfloch" sex="M">
+            <persName>Herr KNOPFLOCH</persName>
+          </person>
+          <person xml:id="jean" sex="M">
+            <persName>JEAN</persName>
+          </person>
+          <person xml:id="franz" sex="M">
+            <persName>FRANZ</persName>
+          </person>
+          <person xml:id="peter" sex="M">
+            <persName>PETER</persName>
+          </person>
+          <person xml:id="orgelmann" sex="M">
+            <persName>Ne Orgelmann</persName>
+          </person>
+          <person xml:id="frau_hagscheere" sex="F">
+            <persName>Fraü HAGSCHEERE</persName>
+          </person>
+          <person xml:id="frau_sagmuhle" sex="F">
+            <persName>Fraü SÀGMÜHLE</persName>
+          </person>
+          <person xml:id="frau_dicksack" sex="F">
+            <persName>Fraü DICKSACK</persName>
+          </person>
+          <person xml:id="frau_enteschnawel" sex="F">
+            <persName>Fraü ENTESCHNAWEL</persName>
+          </person>
+          <person xml:id="frau_rattegift" sex="F">
+            <persName>Fraü RATTEGIFT</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_fisselboge">
+          <role>
+            <persName>Herr FISSELBOGE</persName>
+          </role>
+          <roleDesc>Müsikant</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_scharfmesser">
+          <role>
+            <persName>Herr SCHARFMESSER</persName>
+          </role>
+          <roleDesc>Balwierer</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_gager">
+          <role>
+            <persName>Herr GAGER</persName>
+          </role>
+          <roleDesc>Kàmifeger</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_knopfloch">
+          <role>
+            <persName>Herr KNOPFLOCH</persName>
+          </role>
+          <roleDesc>Lumpesammler</roleDesc>
+        </castItem>
+        <castItem corresp="#jean">
+          <role>
+            <persName>JEAN</persName>
+          </role>
+          <roleDesc>Pfanneflicker</roleDesc>
+        </castItem>
+        <castItem corresp="#franz">
+          <role>
+            <persName>FRANZ</persName>
+          </role>
+          <roleDesc>Petrol-Hàndler</roleDesc>
+        </castItem>
+        <castItem corresp="#peter">
+          <role>
+            <persName>PETER</persName>
+          </role>
+          <roleDesc>Gassewischer</roleDesc>
+        </castItem>
+        <castItem corresp="#orgelmann">
+          <role>
+            <persName>Ne Orgelmann</persName>
+          </role>
+          <roleDesc>Ne Orgelmann</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_hagscheere">
+          <role>
+            <persName>Fraü HAGSCHEERE</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#frau_sagmuhle">
+          <role>
+            <persName>Fraü SÀGMÜHLE</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#frau_dicksack">
+          <role>
+            <persName>Fraü DICKSACK</persName>
+          </role>
+          <roleDesc>Gassewischere</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_enteschnawel">
+          <role>
+            <persName>Fraü ENTESCHNAWEL</persName>
+          </role>
+          <roleDesc>Gassewischere</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_rattegift">
+          <role>
+            <persName>Fraü RATTEGIFT</persName>
+          </role>
+          <roleDesc>Gassewischere</roleDesc>
+        </castItem>
+        <castItem corresp="#ne_bar_spazierganger_gassewischere">
+          <role>
+            <persName>Ne Bàr, Spaziergànger, Gassewischere etc, etc.</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">D'Gassewischere, derno dr Peter mit dr
+                    Spretzkanne.</stage>
+        <stage>(D'Gassewischere kämme-n-ine, in einer Hand e Bàse, in
+                    dr andere ne Stück Brod un esse. D'Fraü Dicksack, d'Fraü
+                    Rattegiftun d'Fraü Enteschnawel kämme fire, d'anders gehn
+                    geh dr Schnaps trinke.)</stage>
+        <sp who="#frau_dicksack">
+          <speaker>Fraü Dicksack.</speaker>
+          <p>Hat Se Ihre Schnàpsle scho gha, Fraü Rattegift?</p>
+        </sp>
+        <sp who="#frau_rattegift">
+          <speaker>Fraü Rattegift.</speaker>
+          <p>Eh jo! grad ha-n-i's gnu, dert am Ecke.</p>
+        </sp>
+        <sp who="#frau_enteschnawel">
+          <speaker>Fraü Enteschnawel.</speaker>
+          <p>'s isch doch sunderbar, ass me-n-ohne Schnaps nitt
+                        wische ka! nitt wohr?</p>
+        </sp>
+        <sp who="#frau_dicksack">
+          <speaker>Fraü Dicksack.</speaker>
+          <p>Jà, das sin halt veritawlige Magetropfe, ohne die ka
+                        me's nitt mache, me hat ohne das scho genüe Mieih, fir
+                        dr Bàse z'hewe.</p>
+        </sp>
+        <sp who="#frau_rattegift">
+          <speaker>Fraü Rattegift.</speaker>
+          <p>Ich, wenn ich nitt glich dr Schnaps nimm am Morge
+                        frieih, so ha-n-i 's Herzwasser, do ka-n-i sicher si!</p>
+        </sp>
+        <sp who="#frau_enteschnawel">
+          <speaker>Fraü Enteschnawel.</speaker>
+          <p>Un ich dr Schlotteri!... 's isch nur noch güet, ass me
+                        das hat... denn vom Wi isch gar kei Red meh!</p>
+          <pb n="129"/>
+        </sp>
+        <sp who="#frau_dicksack">
+          <speaker>Fraü Dicksack.</speaker>
+          <p>Jo, ich, wo g'wöhnt gsi bi, alle Tag mi Schäpple z'nàh,
+                        ich müess es jetz o fahre lo, er isch efange züe arg
+                        thir, ich ka's nimmig prestiere... grad jetz, wo-n-ich
+                        alt wird un wo-n-i's am nothwendigste hätt!</p>
+        </sp>
+        <sp who="#frau_rattegift">
+          <speaker>Fraü Rattegift.</speaker>
+          <p>Me müess sich halt jetz e wenig mehr uf 's Kaffee lege,
+                        züem Glick isch jetz d'Milchhalle do, wo eim d'Milch
+                        wohlfeiler git!...</p>
+        </sp>
+        <sp who="#frau_enteschnawel">
+          <speaker>Fraü Enteschnawel.</speaker>
+          <p>Meine-n-Ihr bringe se's züe ebbes... ich find nur, se
+                        thien gar vielerlei Wàgele mache?...</p>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter</speaker>
+          <stage>(kunnt hinte-n-ine mit eme Bàse-n-uf dr Achsle un e
+                        Spretzkanne dra hànke)</stage>
+          <p>Zeige-n-ihr Wiwer! me sieht wieder nit as d'Miler geh,
+                        awer kei einziger Bàse!</p>
+        </sp>
+        <sp who="#frau_dicksack">
+          <speaker>Fraü Dicksack.</speaker>
+          <p>Fir was solle mir awer o wische, d'Eigethümer thien jo
+                        doch allewil reklamiere, 's will kein dr Dreck vor si
+                        Thüre g'wischt ha un do lehn mr ne ringer iwerall
+                        liege? eso sin alle z'friede.</p>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter.</speaker>
+          <p>So thien doch nur e wenig dr gliche, as wie-n-Ihr wische
+                        wotte,<stage>(fir sich)</stage> we me nitt allewil hinte dra steht,
+                        so mache se nit; ich ha doch miesse geh mi Schnaps
+                        g'schwind nàh, ich bi nitt im Stand ebbes z'mache, vor
+                        ebb ich dr Schnaps gnu ha!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Hinter em Münster)</stage>
+            <l>Z'erst müess me spretze,</l>
+            <l>Vor ebb me wische thüet,</l>
+            <l>Wer nitt thüet netze,</l>
+            <l>Da wischt nitt güet.</l>
+          </lg>
+        </sp>
+        <sp who="#peter #frau_dicksack #frau_enteschnawel #frau_rattegift">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>'s Spretze gieng nitt so schwer.</l>
+            <l>Wenn 's Wische nur nitt wàr;</l>
+            <l>Nei, sicher 's Spretze,</l>
+            <l>Das isch nitt schwer.</l>
+          </lg>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter.</speaker>
+          <p>Allons! ihr Wiwer... ufpackt, mr thien dr Place les
+                        lapins noch geh z'àmme wische!.. Stehn in d'Range!
+                        Portez armes! Armes sur l'épaule droite, en avant, pas
+                        acceléré, marche!<stage>(Se gehn eso üse. 's Klavier spielt
+                        d'Retraite).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt</head>
+        <stage type="characters">Herr Fisselboge, Herr Scharfmesser, Herr Gager.</stage>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge</speaker>
+          <stage>(kunnt ine mit siner Gige)</stage>
+          <p>Jà, jà... do ka me geh hirothe!... Küm isch's jetz vier
+                        Wuche, ass uns das siesse Band umschlunge hat, mich un
+                        's Gretele, ihr ken ne jo 's Gretele?... un scho isch's
+                        jetz abnander... nitt 's Gretele, 's Band!.. 's isch uf
+                        un dervo!... nitt 's Band, 's Gretele!... 's wird
+                        wieder züem Herr Heiterwiss gange si... ich ha ewe jetz
+                        kei Geld meh... mr hàn alles dureg'màcht... ich müess
+                        jetz wieder geh Lektione gà!...</p>
+          <lg>
+            <l>Was isch z'mache,</l>
+            <l>Soll i lache,</l>
+            <l>Soll i grille?</l>
+            <l>G'schàh isch's doch.</l>
+            <l>Ich will singe</l>
+            <l>Glaüb un springe,</l>
+            <l>'s thüet mr schine</l>
+            <l>'s Beste noch.</l>
+            <pb n="131"/>
+            <l>Fir was sich quäle fir e Fraü,</l>
+            <l>Wo mir nur g'hulfe hat uf's Straü,</l>
+            <l>Nei, uf mi G'wisse, 's macht mr nit,</l>
+            <l>Wenn se thüet laüfe noch so wit.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Sage Se, güeter Frind... ich bi dr Herr Scharfmesser, dr
+                        Balwierer... Se kenne mich jo... hàn Se viellicht mi
+                        Fraü niene g'sàh?... 's isch eso ne kleine rothe, mit
+                        ere Mannerstimm!</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Ich ha scho g'nüe z'süeche an minere, Herr
+                        Scharfmesser...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Ah! Sie o?...</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Jo, jo!... un isch jetz erst vier Wuche!...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Ass Sie se süeche?...</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Eh nei!... ass mir g'hirothe sin!</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Tiens, ich ha-n-emol e G'sell gh'a, wo Ihne famos gliche
+                        hat!... O die Wibslit, die Wibslit!...</p>
+          <lg>
+            <head>G'sang.</head>
+            <l>Hans, wenn dr Klapperstei...</l>
+          </lg>
+          <p>Nei 's isch nitt eso... wie heisse Sie, güeter
+                            Frind?...</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Herr Fisselboge...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Aha, güet!<stage>(er singt)</stage></p>
+          <pb n="132"/>
+          <lg>
+            <l>Herr Fisselboge, wenn</l>
+            <l>D'Wiwer eim üsrisse,</l>
+            <l>So mien mir immer denn</l>
+            <l>Alles nur üsbisse.</l>
+            <l>Ich ha jetz an ihr genüe,</l>
+            <l>Will nimm noch ihr froge;</l>
+            <l>Was, Herr Fisselboge,</l>
+            <l>Sage Sie derzüe?...</l>
+          </lg>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>'s isch 's Beste, mir lehn se laüfe... wie witer, wie
+                        liewer<stage>(er singt).</stage></p>
+          <lg>
+            <l>Glicklig isch 's Lewe,</l>
+            <l>Wenn's eim kei Fräu versürt,</l>
+            <l>Drum wà mir's g'niesse,</l>
+            <l>So lang's noch dürt.</l>
+            <l>Wenn Einer hat e Fraü im Hüs,</l>
+            <l>So derf er jo kei Schritt meh drüs,</l>
+            <l>Hat d'ganze Zit</l>
+            <l>Nur Hass un Stritt</l>
+            <l>Un wird rüiniert dernewe.</l>
+            <l>Glicklig, etc.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Herr Gager</speaker>
+          <stage>(kunnt ine).</stage>
+          <p>Aha!... do triff i jetz emol ebber a... Sage Se, ihr
+                        Herre, weisst viellicht keiner vo Eüch, wo 's Mariettle
+                        jetz dient... 's isch wieder furt üs sim Platz un ich
+                        ka's gar nitt üsfindig mache... Nun-de-bib noch emol!</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge</speaker>
+          <stage>(züem Herr Scharfmesser)</stage>
+          <p>Wie g'fallt Ene jetz dà do?... wenn eim d'Wiwer nitt
+                        emol bliwe, wer will denn derno d'Mariettle hewe</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager</speaker>
+          <stage>(sing).</stage>
+          <lg>
+            <l>'s isch mir jetz ganz verleide,</l>
+            <l>Verderbt sin mine Freide,</l>
+            <l>Wil ich's verlore ha. <stage>(bis)</stage></l>
+          </lg>
+          <pb n="133"/>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>Mitnander.</stage>
+          <sp who="#herr_gager">
+            <speaker>Gager.</speaker>
+            <lg>
+              <l>Ich sieh jetz scho, <stage>(bis)</stage></l>
+              <l>'s isch nitt viel z'mache do.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_fisselboge #herr_scharfmesser">
+            <speaker>Herr Fisselboge un Herr Scharfmesser.</speaker>
+            <lg>
+              <l>Mir sàhn jetz scho, <stage>(bis)</stage></l>
+              <l>'s isch nitt viel z'mache do.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Nun-de-bib noch emol!...</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Lose Se, güeter Frind, mir sin in dr gliche Position
+                            wie Sie... 's wird halt e-n-Anderer...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Gager.</speaker>
+          <p>Kalt mach i ne... Nun-de-bib noch emol!</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Kalt mache mr ne, Nun-de-bib noch emol!</p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Wenn Ihr wànn, so geh mr mitnander uf d' Jagd, un dà, wu si Fraü z'erst findet, dam zahle
+                            d'andere zwe e Nachtesse.. fir ne z'dedomagiere!<stage>(se singe)</stage></p>
+          <lg>
+            <l>Mr wànn jetz adie sage,</l>
+            <l>Mr wànn jetz furt.</l>
+            <l>Wil's g'wöhnlig als bim Jage</l>
+            <l>Gern spot als wurd.</l>
+            <l>Nit fir ungüet, 's isch nur G'spass,</l>
+            <l>Doch, wo's màngmol, merke das,</l>
+            <l>Gern als Ernst drüs git,</l>
+            <l>We me G'spass macht mit.</l>
+          </lg>
+        </sp>
+        <pb n="134"/>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Knopfloch, Jean, Fraü Hagscheere, Fraü
+                        Sàgmühle.</stage>
+        <p>Hàn 'r alti Lump? Hasepelz?.. Isch jetz das e lumpig
+                            Handwerk!... Me macht doch efange gar nit meh!...
+                            wenn ich als nitt thàt Wasser iwer mine Lumpe
+                            schitte, vor ebb ich se in's Magazin trag, fir ass
+                            se ne wenig schwerer werde, so thàt gar nit meh
+                            üselüege... doch! viellicht 's Hem züe de Hose
+                            üse!... Ich bi als frieiher Schnider gsi un ha viel
+                            z'schaffe g'ha, awer d'Lit hà mich nitt zahlt, un
+                            do bi-n-i halt allewil mehr awe ku, un jetz ka-n-i
+                            geh Lumpe sammle!... 's isch nitt grad, ass es e
+                            Schand isch, 's Lumpesammle, denn d'Lumpe hàn's
+                            scho wit brocht... d'rechte Lumpe... c'est-à-dire,
+                            nei... d'Lumpe, enfin... denn ohne sie gàb's kei
+                            Papier, un was macht me hitigstags mit em Papier
+                            nitt!... Isebahnräder sogar un Billard-Kugle macht
+                            me mit un isige Oefe!... Also ka-n-ich sage, ass
+                            ich do Isebahnräder un Billard-Kugle in mim Sack
+                            ha! Ich g'spirs aIs wohl, wenn ich voll bi,
+                            c'est-à-dire, nei, wenn er voll isch!...</p>
+        <stage>G'sang.</stage>
+        <lg>
+          <l>Mit Lumpe ka me mache,</l>
+          <l>Was d'Aüge nur wànn sàh,</l>
+          <l>Papier un sunscht so Sache</l>
+          <l>Thien sie de Mensche gà.</l>
+          <l>Me ka sich o mit kieide noch,</l>
+          <l>Me macht jo faux-cols mit</l>
+          <l>Un sunscht so Dings, das alles doch</l>
+          <l>Isch vo Papier g'macht hit.</l>
+          <pb n="135"/>
+          <l>Un die Sache-n-alle z'àmme,</l>
+          <l>We me se nimm brüche thüet,</l>
+          <l>Ka me-n-in dr Sack noch nàmme,</l>
+          <l>s'isch doch noch fir ebbes güet.</l>
+        </lg>
+        <p>Was mir nitt recht geht, das sin d'Hasepelz... ich
+                            bi ewe züe arg weichherzig!... die arme Thierle
+                            düre mich... d'Lit sin doch unbarmherzig.<stage>(er lipft si Pelz in d'Höche)</stage>Arm Vieh!... hàn se dich üspelzt!... un fir was? fir Dobehànschig üs dr z'mache!... mich o hàn se-n-üspelzt un wer weiss, was se noch üs mir mache!</p>
+        <sp who="#jean">
+          <speaker>Jean</speaker>
+          <stage>(kunnt ine, er hat e Korb am Arm mit Blechg'schirr drin un e Schümläffel in dr Hand).</stage>
+          <p>Pfannefliick!!!</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens! ne Chàràbià!... Ich mein, ich sott dà Kopf
+                            kenne.<stage>(züem Jean)</stage>Was isch, wie geht Eüer G'schàft, güeter Frind?...</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Nix, nix!</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>Was nix?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Nix mache!</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>Ah! 's geht o nitt... 's geht nit meh!... awer
+                            sage... ich mein, ich ha Eüch scho g'sàh am
+                            e-n-Ort?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Ick bi als Bedient gsi.</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sàll weiss i jetz nitt, eb dà-n-emol bedient isch
+                            gsi... ich glaüb eher 's Gegetheil... aha! still,
+                            jetz kunnt's mr!<stage>(züem Jean)</stage>Bedienter sin Ihr gsi?..</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Jà, jà.</p>
+        </sp>
+        <pb n="136"/>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>Bi me G'lehrte üs dr Academie vo... vo... ich weiss
+                            nimmig, isch's vo Brunscht oder vo Didene...</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Jà, jà... c'est çà, c'est çà.</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>'s isch dà, wo-n-emol e Hafe üsdulwe hat im Garte...
+                            ne Römerhafe!...</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Haf nitt güet schmeck.</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>C'est çà... ne Haf nit güet schmeck... wenn er noch
+                            ganz gsi wàr, ass me noch hätt känne dri grine...</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>'s isch brocke g'si...</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>'s isch e Brocke gsi, jà... un wo-n-er üs ku isch,
+                            so wird me-n-Eüch wohrschinlig dr Laüfpass gà ha,
+                            nitt wohr?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Kei Pass, nur so<stage>(er macht e Tritt no)</stage>mir hàn uns nitt accordés.</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>Aha güet... wil 's Complement direct<stage>(er macht e Tritt no)</stage>hinte gsi isch... un jetz sin Ihr Chàràbià fir d'Zit z'vertriwe?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Un fir pour le ventre...<stage>(er schreit)</stage>Pfannefliick!</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch.</speaker>
+          <p>Ah! un fir pour le ventre... das mahnt mich grad,
+                            ass ich noch kei Schaps g'ha ha dà Morge... zeig,<pb n="137"/>Chàràbià, zahlsch keiner?<stage>(er schreit)</stage>Hàn 'r alti Lump? Hasepelz?</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere</speaker>
+          <stage>(schreit züem Fenster üse)</stage>
+          <p>He! Lumpemann, kamme, ich will Eüch mine Knoche
+                            verkaüfe.</p>
+        </sp>
+        <sp who="#herr_knopfloch">
+          <speaker>Herr Knopfloch</speaker>
+          <stage>(rieft ufe)</stage>
+          <p>Güet, i kumm<stage>(züem Jean)</stage>warte ne wenig, i kumm glich; wenn in dere Fraü Ihre Knoche güet üsfalle, so trinke mr e Breiter mitnander <stage>(er geht in's Hüs).</stage></p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(rieft üse)</stage>
+          <l>He! Chàràbià... thien Ihr o vergulde?</l>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Nix Guld... alles Silwer!</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Spretzkannesilwer! nitt wohr? kämme b'schaüe-n-emol
+                            mi Pfanne un mi Kaffeebichse, ed noch ebbes mit
+                            z'mache-n-isch!</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>Jean.</speaker>
+          <p>Mit Freid, Madame, mit Freid<stage>(er laüft ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage>D'Mordthat kunnt ine.</stage>
+        <sp who="#orgelmann">
+          <speaker>Dr Orglemann.</speaker>
+          <p>Ihr Herre-n-un Dame!... was wird me noch alles
+                            erlewe in dem Johrhundert!... Alles, alles wird
+                            z'unterscht z'ewerscht g'macht, wie-n-Ihr do
+                            sàhn!...<stage>(er zeigt uf si Tableau)</stage>Bessere-n-Eüch, Ihr liewe Lit!... lehn dr Stolz sinke!... denn d'Schrifft sàit jo: « Die wo dunte sin, kämme-n-ufe, un die wo dowe sin, kämme-n-awe. » Un so isch's o de Müsikante gange, wie-n-Ihr do sàhn, <stage>(er zeigt uf's Tableau)</stage> die hàn o g'meint, se seige unentbehrlig uf dr Welt, un hàn dr Kopf nie hoch g'nüe känne hewe!... awer jetz..... jetz isch's anderscht, fertig isch's mit ene... <stage>(er schlat uf's Tableau)</stage> tot sin se-n-Alle!... <stage>(me kehrt d'Mordthat um, 's isch e grosse-n-Orgle druf g'molt)</stage> un do isch 's Instrument, wo se tötdet hat.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(An einem Fluss)</stage>
+            <l>Ihr arme Müsikante,</l>
+            <l>Um Eüch isch's hait jetz g'schàh!</l>
+            <l>'s isch ebbes jetz vorhande,</l>
+            <l>Wo Eüch dr Stolz wird nàh.</l>
+          </lg>
+          <lg>
+            <l>Das Ding isch nimm z'verstecke,</l>
+            <l>E-n-Orgle hà mr do,</l>
+            <l>Die macht in ihrem Ecke</l>
+            <l>Ne ganz Orchester do.</l>
+          </lg>
+          <lg>
+            <l>Spielt alle-n-Instrumente,</l>
+            <l>Vom Pfiffle bis züem Bass,</l>
+            <l>Un thüet kei Ton verschànde,</l>
+            <l>Wie finde-n-Ihr dà G'spass.</l>
+          </lg>
+          <lg>
+            <l>G'wiss, Ihr sin jetz z'bedüre,</l>
+            <l>Se kännt nit schöner geh,</l>
+            <l>Spielt alle-n-Ouvertüre,</l>
+            <l>Me brücht Eüch nimmig meh!</l>
+          </lg>
+          <lg>
+            <l>Do isch an Bloscht kei Mangel,</l>
+            <l>Die macht Spektakel g'nüe,</l>
+            <l>Schlat Drumme-n-un Dreiangel,</l>
+            <l>Wie's kein vo Eüch kännt thüe!</l>
+          </lg>
+          <lg>
+            <l>Se blibt o niene stàcke,</l>
+            <l>Zeigt d'pianos, d'fortés a,</l>
+            <l>Kei Chef brücht mit sim Stàcke</l>
+            <l>Dr Tact dervor geh schla.</l>
+          </lg>
+          <pb n="139"/>
+          <lg>
+            <l>Was Zit thien-n-Ihr verliere,</l>
+            <l>Wenn Ihr Versammlung hàn,</l>
+            <l>Wenn Ihr Eüch accordiere</l>
+            <l>Un 's là enander gàn!</l>
+          </lg>
+          <lg>
+            <l>Doch do, sott's mir jetz schine,</l>
+            <l>Geht nitt so viel Zit druf,</l>
+            <l>Me stosst e Triller ine</l>
+            <l>Un zieht 's Orchester uf!</l>
+          </lg>
+          <lg>
+            <l>Fir ass es güet soll klinge</l>
+            <l>Brücht's o kei Bier, kei Wi,</l>
+            <l>Züe dem thien Ihr's nie bringe,</l>
+            <l>Ihr g'stehn's g'wiss selwer i!</l>
+          </lg>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Franz, Fraü Hagscheere, Fraü Sàgmühle.</stage>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt ine mit sim Wage un e Esel dra)</stage>
+          <p>Petrol!... Essence... Hü I Martin! machsch wieder dr
+                            Stättkopf hit? das isch noch ein, dà müess me noch
+                            kenne... Hein, wie g'fallt eüch mi Industrie? 's
+                            isch grad kei so schlechte... b'sunders im Winter !
+                            wenn's halt nie thàt Tag werde, so gieng's noch
+                            viel besser... Hitigstags müess me-n-allerhand
+                            mache, fir dur d'Welt z'ku... Wer hätt jetz glaübt,
+                            ass me noch mit eso me-n-Espèce Wasser firt un
+                            beleüchtet? Wer hätt gläubt, ass noch d'Esel dr
+                            Geist hinte-n-an ihrem Wadel noschleppe! me ka halt
+                            nie fir nit schwöre... Petrol! Essence!... Siter
+                            ass halt d'Tage-n-eso züenàmme, so nimmt mi
+                            G'schàft ab... ich ha jetz noch e Fàssle-n-Essig,
+                            wo-n-ich süech z'verkäufe, un Kistlewi... güter!</p>
+          <pb n="140"/>
+          <lg>
+            <head>G'sang</head>
+            <l>Dr ganze Tag</l>
+            <l>Müess ich nur ummelaüfe</l>
+            <l>Mehr as ich mag,</l>
+            <l>Fir mi Petrol z'verkaüfe;</l>
+            <l>Essence un Kistlewi,</l>
+            <l>Das schenk ich o noch i,</l>
+            <l>Un Essig o</l>
+            <l>Ha-n-ich noch owedri.</l>
+            <l>Anstatt so umme z'geh,</l>
+            <l>Gieng mir halt 's Canapee</l>
+            <l>Viel besser o,</l>
+            <l>Das isch gar licht z'versteh!</l>
+          </lg>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere</speaker>
+          <stage>(lüegt owe züem Fenster üse)</stage>
+          <p>Sage, Franz, warte ne wenig... was hàn Ihr mir
+                            eigentlig fir Petrol verkaüft? Ich ha d'vorige
+                            Nacht mi Ample g'fillt, un wc-n-i se uf dr
+                            Tischbrocht ha, sa ha-n-i vergewes e Kritzer dra
+                            g'hebt, er brennt jo gar nitt Eüer, Petrol un schmeckt grad no Essig!..</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(fir sich)</stage>
+          <p>O sapristi... Ich ha-n-ere viellicht Essig verkaüft
+                            fir Petrol... ich ha halt d'Gwohnet no nitt recht
+                            mit dàne viele Kanne do... oder isch's viellicht
+                            Kistlewi gsi... sàller schmeckt o-n-eso sür...<stage>(lüt)</stage>ich will Ere anderer gà derfir, Fraü Hagscheere.</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Ich brüch jetz keiner... ich ha am e-n-andere-n-Ort
+                            miesse hole gestert...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(macht ihr Fenster uf.)</stage>
+          <p>Güete Tag, Fraü Hagscheere... wie geht's, hat Se
+                            güet g'schlofe?</p>
+          <pb n="141"/>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Ganz güet, Fraü Sàgmühle... nur hàn d'Katze so
+                            wiescht g'macht uf em Dach... ich weiss nitt, was
+                            das Vieh hat im Friehjohr, se sin wie ab!</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Sage, Franz, was hàn Ihr mir fir Essig verkaüft
+                            gèstert?... er schmeckt famos no Petrol, ich ha
+                            welle ne süre Sauce mache im Kunsthafe un do hat's
+                            eso possig g'schmeckt... ich nitt z'fül un nimm e
+                            Kritzer un zünd dri... uf eimol awer packt mi süre
+                            Sauce Fir un fahrt in Flamme 's Kàmi ufe... hat me
+                            jetz scho-n-eso ebbes g'sàh...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sapristi... ich ha-n-ere wohrschinlig Petrol gà fir
+                            Essig... Kistlewi isch's kein gsi, denn dà brennt
+                            nitt! mit dàne viele Kanne do ka me sich licht
+                            trumpiere!<stage>(lüt)</stage> Kàm Se ku anderer hole, Fraü Sàgmühle... ich ha do excellenter... er isch wie Scheidwasser...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Ich brüch jetz keiner, ich ha am e-n-andere-n-Ort
+                            miesse hole...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Allons!.... wieder zwei Pratike verlore... jetz wo
+                            d'Tage ufnàmme... die mit ihrem Kunsthafe! wenn's
+                            denn e Kunsthafe-n-isch, worum hat se kei süre
+                            Sauce drin kanne mache mit Petrol!... Allons, hü!
+                            Martin... müess ich dr wieder brennender Zundel in
+                            d'Ohre lege, ass de ne wenig g'schwinder
+                            laüfsch!... Hü denn! Petrol! Essence! Essig!
+                            Kistlewi!... Ich will eüch nur sage... ich ha grad
+                            kei Kistlewi im e b'sundere Fàssle... we mr ebber
+                            heischt, sa gib ich halwer Essig un halwer Petrol,
+                            das macht eso à peu près d'Affaires!...<stage>(er geht üse).</stage></p>
+          <pb n="142"/>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Was isch jetz, Fraü Sàgmühle, 's isch eim jetz doch
+                            wieder e wenig wahl duss... me lebt ganz uf
+                            no-n-eme so ne härte Winter...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Jà, jà... das isch einer gsi... an dà werde mir
+                            denke! wisse Sie, ass mir dà Winter mi Zunge-n-emol
+                            ag'frore gsi isch?</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Im Mül?</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Eh nei! am e Läffel, wo-n-i ha welle-n-abschlàcke in
+                            dr Kuche! Wer am meiste Freid dra g'ha hat, das sin
+                            d'Schlifschüehfahrer!</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Ass dr Läffel an Ihrer Zunge ag'frore gsi isch?</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Eh nei, ass eso ne kalter Winter gsi isch... dr
+                            Bassin seig schint's noch allewil g'frore... me
+                            sàit, 's Is thàt hewe bis dr nàchste Winter.</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Hein, was ha-n-i g'sàit! 's mües e Cirque ane ku...
+                            nur Geduld, 's isch scho ne Riterei druf gsi... 's
+                            nàchste Johr kunnt dr Franconi...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Mr wànn's nit hoffe... 's isch scho g'nüe-n-eso
+                            Ungezifer dert gsi... Ne Flohtheater seig sogar
+                            druf gsi, hat's g'heisse! Ka me jetz eso Vieh mache
+                            Theater spiele!</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Jà... un schöne Sache hàn se schint's g'macht. ass
+                            se nitt g'redt hàn, isch alles!...</p>
+          <pb n="143"/>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Ich wàr nitt dert ine... 's hätt nur derfe einer los
+                            ku, so ne g'lehrter Floh, un an eim springe!... me
+                            wird iwer d'andere scho nitt Meister!...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Ich bi jetz nur froh, ass me gsàh hat, was me alles
+                            uf dà schöne Platz stelle ka... A propos, Fraü
+                            Sàgmühle, hat Se das scho g'hort vo dàne Bàre?...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Nei... ich weiss nit...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Eh! schint's uf dr Dollere wàhrend dere grimmige
+                            Kälte sin junge Isbàre uf d'Welt ku... 's traüt jo
+                            Nieme meh geh wàsche duss!...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Eh! was Sie nitt sàit!</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Se mage jetz scho ziemlig gross si... wenn se nur
+                            nitt emol in d'Stadt kämme!...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(schaüt z'ruck)</stage>
+          <p>Herr je! mi Milch laüft furt... se legt grad
+                            d'Schüeh a, wo bim Ofe stehn... au revoir, Fraü
+                            Hagscheere!...<stage>(se geht ine)</stage></p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Au revoir, Fraü Sàgmühle!... Ich will jetz geh lüege
+                            in mim Traümbiechle, was das bedite soll... ich ha
+                            die Nacht vo Ziwelewàie traümt<stage>(se geht ine).</stage></p>
+          <pb n="144"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Herr Fisselboge, Herr Scharfmesser, Herr Gager, dr Bàr, derno d'Gassewischere, dr Lumpemann, Jean etc.</stage>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge</speaker>
+          <stage>(kunnt ine mit siner Gige, er hat e Bàr am e
+                        Schnüer, dr Herr Scharfmesser un dr Herr Gager kämme
+                        hinte no)</stage>
+          <p>Mr hàn unsre Dame g'süecht un hàn e Bàr g'funde!..
+                            das isch jetz nitt iwel, hein?... 's isch is
+                            eigentlig noch liewer. 's hàn is e paar Büewe
+                            verzählt, ass Bàre-n-uf dr Dollere ummelaüfe, siter
+                            ass es eso kalt gsi isch, un do isch is e-n-Idee
+                            ku... Ich ha schier keine Lektione meh g'ha... dr
+                            Herr Scharfmesser do hat o nit meh z'thüe un im
+                            Herr Gager isch d'Kàmifegerei verleide, un do hà mr
+                            denkt, we mr eso ne Bàr kännte verwitsche, fir ne
+                            z'zeige... do wàr noch ebbes z'mache!... un wil mr
+                            Müsikant sin alle drei, so brüche mr o kei
+                            Orchester, mr mache's selbst...</p>
+        </sp>
+        <sp who="#herr_gager">
+          <speaker>Herr Gager.</speaker>
+          <p>Nun-de-bib noch emol!...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Ich ha mi Basson wieder fireg'süecht...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fräu Hagscheere</speaker>
+          <stage>(züem Fenster üse)</stage>
+          <p>Eh dü Spektakel!... Fraü Sàgmühle, Fraü Sàgmühle!...
+                            thàt Se doch üse lüege... d'Bàre vo dr Dollere !
+                            d'Bàre vo dr Dollere!</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(lüegt üse)</stage>
+          <p>Eh dü alles uf dere Welt, was isch das fir e
+                            Thier!...<stage>(dr Bàr lüegt ufe un brummt ; se lehn beide ne
+                            Schrei üs un verschwinde.)</stage></p>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Un so thien mr jetz unser Lewe züebringe mit
+                            Representatione gà...</p>
+          <pb n="145"/>
+          <lg>
+            <head>G'sang</head>
+            <l>Mr hàn e Handwerk g'funde jetz,</l>
+            <l>Das isch gar' nitt schlecht,</l>
+            <l>Mr zeige do dr Meister Petz,</l>
+            <l>'s g'fallt in Alle recht,</l>
+            <l>Un isch is 's Geld üsgange ganz,</l>
+            <l>So spiele mir dr Bàretanz,</l>
+            <l>Alle Lit vo wit un breit</l>
+            <l>Lüege züe mit Freid!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_fisselboge #herr_scharfmesser #herr_gager">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Drum stimme-n-a, <stage>(bis)</stage></l>
+            <l>Ass dr Bàr eins tanze ka,</l>
+            <l>Drum stimme-n-a, <stage>(bis)</stage></l>
+            <l>Ass er tanze ka.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_fisselboge">
+          <speaker>Herr Fisselboge.</speaker>
+          <p>Eh bien, Meister Petz, bisch dü z'friede-n-eso!..<stage>(dr
+                        Bar brummt)</stage> Wottsch dü ne wenig dine Künstle zeige...
+                       <stage>(er macht jo)</stage> Schön!... do hasch dr Stock<stage>(me wirft em
+                        e Stock ane, wo-n-er fangt)</stage>. Un jetz... en avant la
+                        musique!...<stage>(Se spiele ne Bàretanz. Wàhrendem
+                        kämme-n-alle Personnages noch un noch ku drum umme
+                        steh. Wenn's fertig isch, so spiele se ne Galopp, dr
+                        Bar packt e Gassewischere, fir z'tanze mit ere; alle
+                        Andere tanze mit.)</stage></p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

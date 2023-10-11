@@ -1,0 +1,2430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D' Brueder</title>
+        <title type="sub">Volksstück in 5 Bilder üs dr Zitt vun 1914 bis 1918|vun Paul Clemens, Membre du Théâtre Alsacien</title>
+        <author key="wikidata:Q96464291">Paul Clemens</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106592290</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109541h</idno>
+          <idno type="methal" xml:id="mtl-018"/>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106592290">Paul Clemens</author>
+            <title type="main">D' Brueder</title>
+            <title type="sub">Volksstück in 5 Bilder üs dr Zitt vun 1914 bis 1918|vun Paul Clemens, Membre du Théâtre Alsacien</title>
+            <publisher>Société Alsacienne d'Édition (Alsatia) S. A., Colmar</publisher>
+            <date when="1920" type="print">1920</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="vincenz_kuenz">
+            <persName>Vincenz Kuenz</persName>
+          </person>
+          <person sex="M" xml:id="francois">
+            <persName>François</persName>
+          </person>
+          <person sex="M" xml:id="lucien">
+            <persName>Lücien</persName>
+          </person>
+          <person sex="M" xml:id="doni">
+            <persName>Doni</persName>
+          </person>
+          <person sex="M" xml:id="sauvinger">
+            <persName>Sauvinger</persName>
+          </person>
+          <person sex="M" xml:id="kohler">
+            <persName>Kohler</persName>
+          </person>
+          <person sex="M" xml:id="rappel">
+            <persName>Ræppel</persName>
+          </person>
+          <person sex="M" xml:id="zipfel">
+            <persName>Zipfel</persName>
+          </person>
+          <person sex="M" xml:id="pimpe">
+            <persName>Pimpe</persName>
+          </person>
+          <person sex="M" xml:id="e_mann_uss_der_stadt">
+            <persName>E Mann üss der Stadt</persName>
+          </person>
+          <person sex="M" xml:id="seppel">
+            <persName>Seppel</persName>
+          </person>
+          <person sex="M" xml:id="guschtel">
+            <persName>Güschtel</persName>
+          </person>
+          <person sex="M" xml:id="finnele_sebastian_jerri_nandel">
+            <persName>Finnele, Sebastian, Jerri, Nandel</persName>
+          </person>
+          <person sex="U" xml:id="e_gymnastique_e_claironsektion_kinder_un_litt">
+            <persName>E Gymnastique, e Claironsektion, Kinder un Litt.</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#vincenz_kuenz"><role><persName>Vincenz Kuenz</persName></role>, <roleDesc>Wirt</roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#francois">
+            <role>
+              <persName>François</persName>
+            </role>
+            <roleDesc>sini Sœhn</roleDesc>
+          </castItem>
+          <castItem corresp="#lucien">
+            <role>
+              <persName>Lücien</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>sini Sœhn</roleDesc>
+        </castGroup>
+        <castItem corresp="#doni"><role><persName>Doni</persName></role>, <roleDesc>Knecht biem Kuenz</roleDesc>.</castItem>
+        <castItem corresp="#sauvinger"><role><persName>Sauvinger</persName></role>, <roleDesc>Sæsselmacher</roleDesc>.</castItem>
+        <castItem corresp="#kohler"><role><persName>Kohler</persName></role>, <roleDesc>gen. Roter garde-chasse</roleDesc>.</castItem>
+        <castItem corresp="#rappel"><role><persName>Ræppel</persName></role>, <roleDesc>Vizepresident vun dr Gymnastique</roleDesc>.</castItem>
+        <castItem corresp="#zipfel"><role><persName>Zipfel</persName></role>, <roleDesc>Polizeigard</roleDesc>.</castItem>
+        <castItem corresp="#pimpe"><role><persName>Pimpe</persName></role>, <roleDesc>Postmeister</roleDesc>.</castItem>
+        <castItem corresp="#e_mann_uss_der_stadt"><role><persName>E Mann üss der Stadt</persName></role>, <roleDesc/>.</castItem>
+        <castGroup>
+          <castItem corresp="#seppel">
+            <role>
+              <persName>Seppel</persName>
+            </role>
+            <roleDesc>Gymnastes</roleDesc>
+          </castItem>
+          <castItem corresp="#guschtel">
+            <role>
+              <persName>Güschtel</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>Gymnastes</roleDesc>
+        </castGroup>
+        <castItem corresp="#finnele_sebastian_jerri_nandel"><role><persName>Finnele, Sebastian, Jerri, Nandel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#e_gymnastique_e_claironsektion_kinder_un_litt"><role><persName>E Gymnastique, e Claironsektion, Kinder un Litt.</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> Erstes Bild. </head>
+        <stage> D’Scène stellt e Hoft vor. Uf eine Sitt geht’s in d’Wirt- schaft — d’ander Sitt in d’Stallunge — Hinte zieht d’Stros duerich. Uewer de Hoft hænke Lampions. Doni steht uf-ere Doppelleiter un isch mit anzüende vun de Lampions bschæf- tigt. Es litt Nachtglock. E Küh brüelt.</stage>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <stage>(höert mr im Stall brüele)</stage>
+          <p>Ööha — dü Käib, dü kinitzischer — rum Bless — Satan!</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Wie dar widder ’s Vieh schinde duet, dar Mummel, — Jetz haw-i ball alli Babierlotarne branne — as macht sich erscht noch natt. Do ware d’Schimnässler spanne. <stage>(kejt vun dr Leiter erab, sperrt 's Müll uf un brüelt)</stage> Aah — aah — aah! Kuenz un Franc: <stage>(kumme ze laufe — Kuenz von der Wiertschaft — Franç. üss-em Stall)</stage> Was isch dann bassiert?</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Aah — aah — aah — aah! Franç: Jetz redd doch emol, was hesch?</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ich bin, ohne ― ich mi ghebbt hab, vun dr Läiter era kejt.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Nä — so e Dolle.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(betracht ’s Arrangement)</stage>
+          <p>Sisch guet so, Doni — züendt Lampions volls an. Es hett Nachtglock gelitte, jetz wäre se glich kumme. Dü François hilfsch im Doni serviere — as gitt nurre Win un am zehne gitts Grumbeeresalat un Würschtle, ass se widder besser drinke kenne. Es sell hitt Owe luschti ware, as sell ebs druff gehn an mim 50. Geburtsdäuj.</p>
+          <pb n= '6' />
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(uf dr Leiter)</stage>
+          <p>Waje dam kumme se jo numme. Uns Räppels Mäud hett mr verzehlt, de Mäischter hett sich de ganze Däuj ingbschlosse, ar lehrt ebs üsewandi, wie-r dene n-Owe ufsäue will.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Diss kann jo guet wäre!</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ju ju — gar wann se emol Hawere hann. Un dr verruckt Sässelmacher, dr alt Sauvinger, kummt äu — do gitt’s ebs ze lache, wann dar se widder fahre losst.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Jetz babbel nitt als un schaff dini Arwet. <stage>(zejt- em e Büechel zuem Sack erüss)</stage> Was luejt dr dann züem Hossesack erüss? Was las i do? „Mini Häimet.“</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Mäischter, as Sinn Varsle vum Lücien, wie ar salwer ufgsetzt hett üss-em Kopf — un schöen! <stage>(deklamiert)</stage> „Am goldiche Ahrefald, do steht e Hiesel.“</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Geh, geh, steck’s uf.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(schnurrisch)</stage>
+          <p>Halt’s Müll — datsch besser dran duen, im Gebattbüechel ze lase <stage>(geht nin)</stage>.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Jetz hann mr äu noch e Dichter in dr Familie. Diss haw-i gar nitt gewüesst, ass dr Harr Kunst- moler äu noch Varsle macht.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(d. d. M.)</stage>
+          <p>Salü! <stage>(lisli)</stage> François, ich hab ebs mit dr ze redde.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Doni, zäj luej, was d’Rotschack als furt ze brüele hett, kej-ere emol e Hampfel Häj ning.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(im Abgehn)</stage>
+          <p>Ich schmeck de Büschon — do sell ich ebs nitt höere.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <stage>(luejt rum un num)</stage>
+          <p>Was isch, Kohler, ass-r so arnscht lueje? 's</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>François, ich mues diss Gald hann, wie de mr schuldi bisch — as macht jetz üewer 200 Mk. — ich mües-es hann — Ich hab e Termin zu bezahle.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Ho, säue numme nitt schuldi — ich hab verlore an Ejch üewerem Karte spiele — Ich hätt nitt Bäädle sotte mit Ejch!</p>
+          <pb n= '7' />
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Dü wursch doch nitt säue welle, ass ich bschisse hab? Hesch mr jo kenn Ruehj gelonn oder ich hab mit dr gspielt halwi Nächt — jetz hesch e Hüffe ver- lore, jetz kejt’s di, gall?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Wie soll i jetz awer so schnell 100 Mk. häre nämme?</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>200 kenn 100 Mk. — — Diner Vater hett, Ihr sinn richi Litt un ich bin e armer garde-chasse. Geh emol im Vater an d’Kass, do isch Glüwes.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Stahle sell i? Zuem Dieb sell i wäre?</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>A — babbel, Dieb! Nimm doch kenn so Wort in’s Müll — — Dieb! Wann dir de Vater meh Gald dat gann, kennsch dr äu meh gunne, awer ar halt dich jo so knapp — no holt mr sich ewe, wan-r nix erüss wichst — diss isch doch kenn Diebstahl — e paar Märikle.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franc:</speaker>
+          <p>Dü kännsch mine Vater, wie arich ass-er isch, gar in Galdsache un noch wann i stahle dat — ich gläub, ar dat mi racta zamme schiese.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Ar brücht jo nitt drhinter ze kumme, ass dü’s bisch gewann — ar wäis jo äu nix drvun, ass de als braconie rsch. Mäinsch, wann ich-m diss dät säue.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Bscht — ums Himmelswille, seje stille.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Ja, jetz redd — wie isch’s mit-em Gald, ich mues-es hann, un wann de mich drum bschumle witt, no wurr ich wisse, was i ze mache hab. Dü hesch’s an mich verspielt, no will is äu — wann ich’s an dich verspielt hatt, müest ich dr’s äu gann. Diner Vater hett doch immer Gald genuej d'häim leje. Wann d’s schlöj anpaksch, kummt gar kenn Verdacht uf dich.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Ich wäis nitt, wie ich diss anstelle sell. Ar hett dato grad ’s Gald vun dr Starwekass im Sekretär leje, awer in die Stub kummt nieme, as wie dr Vater un ich un dr Lücien.</p>
+          <pb n= '8' />
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Diss trifft sich jo famos. Höer mine Plan. Hit Nacht am elf, wann Fierowe isch, no bschliesch doch dü als d’Wirtschaft — na, no duesch dene Fänschter- lade, wie hinte nüss geht, nitt inhänke, ass ich erin kann un no langsch mr diss Gald im Sekretär, wass-es meh isch, ass de mr schuldi bisch, gib ich dir zeruck, no hesch äu e paar Livres Gald im Sack. Un jetz kummt d’Häubtsach — In de Sekretär läje mr do diss Notizbüechel <stage>(zeijt’s üssem Sack)</stage>, ich hab’s do im Hoft gfunge, ’s isch im Lücien, laje noch diss Visitekärtel nin „Mademoiselle Fifi Krall“ — no kummt kenn Mensch druff, as dü diss Gald genumme hesch.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Kohler — diss sell ich mache, dr Lücien in de Verdacht bringe? Jesses näin, alles numme diss nitt, numme nix eso. Dr Vater hett schun e Bicker üewer- ne un kann ne nitt liede, will-r als Kunschtmoler will ware — näin, näin. Kohler, seje doch verstandi — Ich gib Ejch jo ’s Gald — warte noch e weng — ich — ich — —</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Was — ich — ich? Wann witt mr’s dann gann? Vun dim Sunndigald? Diss isch dr bescht Momant jetz — un ich mues Gald hann. Wann de nitt machsch, wie ich dr gsäit hab, no sinn mr gschiedene Litt un ich wurr wisse, was ich ze mache hab — coute que coute! Mäinsch, wann de waje-nem braconniere in’s Giggerle kämsch — hahaha!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Näin, die Schand — ich im Durn.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Ich wäis, wie’s drinne üssieht — ich hab äu schun 3 Monet gebrummt wäje-nem braconniere un diner äje Vater hett mich ning gebrocht.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(verstümt)</stage>
+          <p>Miner Vater?</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Jo, do dank ich nimi dran, ar hett mi angezäijt, will i braconniert hab, diss isch schun längscht ver- gasse — un ar hett’s widder guet gemacht geje mi — ar hett mich salwer vorgschläue als garde-chasse im Gmäinroot — un ar gitt mr e manichs ze verdiene näwes bi.</p>
+          <pb n= '9' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <stage>(ganz verstöert)</stage>
+          <p>Was will i mache. — Ihr hann mi im Säckel. — Awer der Vater isch so gähwidi. — „Guet Nacht“ im Lücien, ar bringt ne um.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>O du Hosselottel — as wurd nitt so gfährli ware, un dr Lücien isch dr jo schun lang e Dorn im Äuj — dar Aff luejt äine jo küm un küm an mit sinne Spinne im Hirn. — Also, dü machsch’s, gall?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p> <stage>(steht ganz verstewert — nickt mit-em Kopf. — Kohler lacht hinter-em un ribt sich d’Händ.)</stage> </p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauvinger:</speaker>
+          <stage>(singt drüsse)</stage>
+          <p>„Frau, welle-nr Bäse, jo kumme erin. Hann’r schun z’morje gasse, ja, schun e Will.“ — <stage>(kummt erin)</stage> Bonjour, la compagnie! Vingt-cinq Pfiffedeckel, was e Hitz — hitt gitt’s noch e Dunderwatter, c'est la pure vérité! Do haw-i dene Stuehl <stage>(stellt ne ane)</stage>.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Luej do, dr Sässelmacher, gall, schmecksch ass-es ebs ze häbbe gitt bim Kuentz, hä!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>I läigs nitt, ass i gare äins düdel, wäisch, Roter, dis isch kenn Schand — als bin i noch nitt im Gig- gerle g’huckt, wie verschiedeni.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ihr hann widder e böeses Müll hitt.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>I läigs nitt — all sell d’ rachte Litt gehn lonn — wann i äu e-n-armer Zickel bin <stage>(uf d’ Bruscht klop- fend)</stage> awer dar Mann isch ehrli un ehrli wahrt’s am längschte — bis mrs züe ebs bringt. Un dir François, möecht i als wittläificher Verwandter vun dr Familie Kuenz de Roht gahn, dr rot garde-chasse isch kenn Kamerad füer dich.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(böes)</stage>
+          <p>Was witt dü do mit säue. Sauv.: Do dr mit will ich numme säue, ass ich dr Fran- çois schun manich mol noch de 12 z’nachts zue dir hab sahn schliche un — — enfin, isch e fiener Aff.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>Ich bin doch kenn Bue meh — ich kann doch anne gehn, wie ich will, un Ejch gits gar nix an.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>C’est juste, Auguste —! Awer diner Vater mäint als, dü lejsch im Bett un dü wäisch, wie diner Vater isch — ar hett e harter Schäddel un halt uf Ordnung un will hann, ― sini Buewe rachti Manner gann —</p>
+          <pb n= '10' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(v. l. an dr Düer)</stage>
+          <p>Luej do, ich hab’s doch ghöert an de Stimm, ass-es dr Sauvinger isch.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Salü Vincenz — do hawi de Stuehl, ar isch fini — un bie dare Geläjehäit mini Félicitations zue dim 50. Geburtsdäuj morje — noch emol 50 no bisch 100 — siehsch wie d’ Zitt erum geht!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Merci, Sauvinger — <stage>(de Stüehl bedrachtend)</stage> Isch-r äu guet gemacht?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Bien sur. — E Ochs kann druff stehn ze geht-r nitt hin.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Hoffetli bliesch awer jetz do, wann d’Gymnass kummt, dü müesch halfe drinke, ass ebs druff geht hitt Owe. — Dü bisch e erschti Kraft.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Waje dam hett-r jo dane Stuehl schnall noch ferdi gemacht, ass-r e Exküs hett, füer har ze kumme, gall Sässelmacher?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Roter — wäisch dü, was dü mich kannsch, wäisch, was dü mich kannsch? — —</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(wüeti)</stage>
+          <p>Was kann ich dich — ?!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Dü kannsch mich nitt liede, verstande — <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Dü bisch jo widder e Käib hitt — ah, was i doch säue hab welle — do babble se ebs vun äim, wie im Kühstall gschlofe hett — wäisch dü nix devun, Sau- vinger?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Isch diss äu schun widder hüsse — ass d'Wiewer ’s Müll nitt kenne halte. — Alli: Ah, dü wäisch ebs — zäj verzehl’s doch.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ich kann nitt guet redde, ich bin halwer häiseri — so drucket im Hals, un de Schnüppe haw-i wie e verhejter Wasserhahne, c’est la, pure vérité!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>I läigs nitt — ’s isch wohr, ich hab allewill so e Durscht, i gläub, i lied an dr Läwer.</p>
+          <pb n= '11' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(kummt mit-em Krüejel Win)</stage>
+          <p>Do fichte emol e bissel an, no geht’s schun.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Merci, François, ünser Herrgott sell drs vergalte — ich kanns doch nitt. <stage>(drinkt.)</stage> Franç.: Harrjeh, zeje ne rüss, ar versüfft jo. —</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Zitter gängt mr mit dr Prozession ums Dorf erum. <stage>(Lachen)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(setzt de Kruej ab)</stage>
+          <p>Aah! <stage>(wischt sich ’s Müll mit-em Ärmel ab)</stage> Oktowertee isch halt d’ bescht Me- dizin füer mine Hals — jetz noch e Schick <stage>(nimmt e Schick)</stage>.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Diss dürt e Länge.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Äins noch-em andere — c'est-ça — <stage>(verzehlt)</stage> Am Zischdi bin i gange Bäse abliefere, un do bin i in e Gsellschaft ning gerote — do isch äins gebüerscht worre — enfin, wie i häme bin, haw i e Kischt g’hett — i hab nimi gewüest bin i Männel oder e Kunschthafe. In mim Dampf mües i in de Kühstall gerote sinn un mues mich in d’ Fuederkripf gläjt hann. Wie ich widder zue mr kumm, gspier ich wie mr als ebs rüch’s am Backe erab fahrt — ich mäin in mim Düsel ass isch dr Barickes un sää: He Bä- rickes, ejer Masser häut nix — wie ich rächt d’ Äue ufmach, isch’s dr Ochs, wie mr mit dr Zung im Gsicht erumschlackt. <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Na, diss isch jetz nitt üewel! Franç: Mäint dar, as isch dr Barickes!</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Diss kann halt numme im Sässelmacher bas- siere. :</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Dir hatt-r Ochs nix gemacht, dann „gleich un gleich gesellt sich gärn.“ <stage>(Lachen)</stage>. Kuenz: Jetz müen se awer glich kume, dü losch hoffet- li äu äiner fahre, ass Lawe in d’ Büdick kummt. — Ah, was i grad säue hab welle, hett nieme de Lücien gsahne? Alli: Näin — aba — mit kem Äuj. —</p>
+          <pb n= '12' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Do möecht mr grad zue dr Hütt nüss fahre — — Sauv.: Wann de e Retourbillet hattsch, gall?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ar isch in d’ Stadt e Commission mache — awer mit-em sechser Zugg hätt-r kumme kenne. — Där isch widder ins Theater statt häime ze gehn, dar Narreschöjte. — Was duet dar Bue mich verzüerne — nix wie mole un Theaterles, statt hingerem Pfluej häre ze gehn un ze schaffe wie sich’s schickt füer e Bürebue.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Vincenz, verzüern di nitt uf dine Geburtsdäuj — dar Bue isch jo nitt schlacht — ar isch wie sini Müeder, die isch äu so e Siedebriedel gewann, immer hett se geläse — awer sie isch e Muschter gewänn vun-ere Hüsfrau, un dr Lücien schläät-ere schint’s noch.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ar hett äinfach mir noch ze schläue. — Jetz welle mr am Mandi anfange Frucht ze schniede, un ar will in d’ Stadt alle Däuj in e Kürsüs.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p>No hangt widder alles an mir.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(schmeichlerisch)</stage>
+          <p>Ich due jo gare halfe, Kuenz, numme ebs gsäit — ich bin allewill do un hilf, wanns bressiert.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Vincenz, ich bin äu do — wann de Hilf brüchsch. — — Kuenz: Füer ze drinke, gall? Ho zall — ho zall — i läig’s nitt — awer wanns häist de Mann stelle, vingt-cinq Pfiffedeckel. — Ihr hätte mich sotte sähne anno 70 am 4. Augscht i de Rabbärri bie Spichere — — — — Alli: Jesses — mr kännes, mr kännes — schun meh, wie 99 Mol ghöert.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Na, ze höere-nrs zuem 100. Mol — so ebs kann mr nitt genuej höere. As isch e Döj gewann, so häiss, wie hitt — d’ Prejse griffe an, doppelt so starik wie mir— do hatt-n-r mich sotte sahn, e richticher Wue- tass — nix wie gelade un gschosse, gelade — gschosse. Am And haw i üewerhäupt nimi gelade, nix wie gschosse. Wie diss nix genutzt hett, ’s Bajonett druff un drin ning, bis min Bajonett üss gsahn hett wie e Zapfezejer. Do kummt e Prejss, e Mummel, e Nas, wie e Bülldogg un a Sürkrüttschnützer, geje mich — ich hab kenn Pulver meh — min Bajonett isch hin — was mache? Dar Prejs sperrt d’ Gosch uf un brüelt: „Hurraah“ — Ich näm mini Schick erüss un schmiss- em direkt in ’s Müll ning — ar hett noch drejmol „ra-ra“ gemacht, no isch-er umkeit wie e Muck. — Parole d’honneur! Ich kann mi nimi vor Fräid un brüel: —</p>
+          <pb n= '13' />
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(brüelt)</stage>
+          <p>Sie kumme, sie kumme!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>So haw i nitt gebrüelt! <stage>(Mr höert Clairons un Drumnmler.)</stage></p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(d. d. M., fallt zuem Dor erin)</stage>
+          <p>Sie kumme, sie kumme!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Wäje dam brüechsch jetz kenn Burzelbäum ze schläue, geh ning un rischt Gläser un ’s Trinke. <stage>(Doni a. 1.)</stage></p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Ja, ich mües jetz gehn a Gang mache. Guet Nacht biesamme. <stage>(geht am François verbej, lisli:)</stage> Also am Elfe! <stage>(a.d.d.M.)</stage></p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <p><stage>(zuckt zamme)</stage> Ja — ich bin gerischt. <stage>(f. s.)</stage> Wann’s nur schun erum war. <stage>(Erin kumme: Clairons un Drummler un Gym- nastes. mit Lampions, vorne häre dr Polizischt Zipfel un dr Räppel. Sie stelle sich uf Front geje d’Wirt- schaft.)</stage></p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — als zeruck, Ihr Wiewer un Knäckes, es derf niemes erin as wie, hohoho — d’membres vun dr Gymnas!</p>
+        </sp>
+        <sp who="#_e_bue">
+          <speaker>E Bue:</speaker>
+          <p>Mir welle äu gücke!</p>
+          <pb n= '14' />
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Ihr sähn genuej do hüsse, als, hohoho, nüss! <stage>(d’ Clairons blose e Marsch — Kuenz steht an dr Düer.)</stage></p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(brüelt im Räppel ins Ohr)</stage>
+          <p>Räppel, fange jetz an mit de Redd — Silance — hohoho — jetz wurd ge- redt un nimm gemüsikt.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p><stage>(nimmt de Stuehl un steht druff, — Zipfel steht hinter-ne un soufliert-em)</stage> Monsieur Vincenz Kuenz! Mir — diss häisst ich un d'membres vun dr Gymnas gratüliere Ejch vun Harze zuem 50. Geburts- däüj. Sisch nitt wäje dam ass-es ebs ze drinke gitt — näin — as isch wäje de Verdienschte, wie Ihr Ejch um d’ Societät erworwe hann — —!</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — President — Räppel: Halt’s Müll dü, Zipfel! <stage>(Gelächter)</stage>. -</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Ach, ich bin e Zipfel — hohoho — <stage>(schmisst’s Papier uf de Bodde)</stage>.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Was hann-er ze lache, ich kanns jo — Als Pre- sident hann Ihr Ejch grossi mérite um d’ Gymnas gemacht, un drum kann mr denne Däuj nitt verbie lonn gehn, ohne Ejch vun Harze Glüeck ze wünsche un vor alle Litte ze säue, wie Ihr immer zuem Wohl vun ünsere Societät gschafft hann.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(hett's Papier widder ufghebbt un soufliert)</stage>
+          <p>Wann mr — hohoho!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Bisch schun widder do, dü Pfohl!</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>A, ich bin e, hohoho, Pfohl! <stage>(schmisst’s Papier widder eweck)</stage>.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Wann mr’s bedankt, vor 50 Johr sinn-r noch i de Windle gelaje un hitt sinn-r President vun-ere Societät, wo 50 Mann starik isch. Un erscht ’s Reck wie Ihr uns angschafft hann.</p>
+        </sp>
+        <sp who="#e_gymnastique_e_claironsektion_kinder_un_litt">
+          <speaker>E Gymnaste:</speaker>
+          <stage>(rueft)</stage>
+          <p>’s Pfard nitt vergasse!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Diss kummt jo noch, s’Asse.</p>
+          <pb n= '15' />
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(brüelt)</stage>
+          <p>'s Pfard nitt vergasse !</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Grad haw-is welle säue. Un erscht de letschte Monet hett-r 's Pfard frisch üewerzeje lonn un vier neji Füess dran mache lonn. Ja, sahn-r, Ihr membres, diss sinn Date, die duet mr nie vergasse. Un drum soll’s galte wie’s im Versel heisst. So viel — so viel — Zipfel — redd doch —</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p><stage>(hebbt’s Papier uf, soufliert)</stage> So viel Dorne —</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Näin — nitt von vorne. — Uewerhäubt halt’s Müll, ich kanns. — Zäj gib mr de Zettel. <stage>(Zipfel gibt's — lest ab)</stage>: So viel Dorne e Rosestock, So viel Hoor e Zottelbock, So viel Flöe e Püdelhünd, So viel Johr sollsch lawe gsünd ! Un jetz noch e drejfachs Vive — vive — vive ! <stage>(dr Stuehl bricht in, Räppel stäckt drinne. — Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>O quelle malheur!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ihr liewi membres! Alle zamme viel mols merçi füer die gross Ehr, wie Ihr mir do erwiese. Was ich bis jetz in dr Societät gemacht hab, isch garn gschahn, es hett mr Fraid gemacht, un ich wills äu wittersch so halte. <stage>(Allgemeines Bravo !)</stage> Ihr liewi Litt — ich bin kenn grosser Redner, awer numme so- viel sää i Ejch, halte immer zamme, bliewe äinich — l’Union fait la force! Im Üewerrescht verstehn mr uns — also noch emol merçi, un äu dir Räppel min Cumplement füer dini Redd — hesch dü die uf- gsetzt?</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Mich hett nieme ufghetzt. Kuenz: <stage>(lütt)</stage> Ob dü die Redd gemacht hesch?</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>As hett Hitz koscht — dr Zipfel hett mir dran gholfe. Wäisch jo, ich hab in dr Schuel schun nitt gare gelehrt.</p>
+          <pb n= '16' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(lacht)</stage>
+          <p>Awer dü hesch’s gepackt — famos. Un jetz Ihr Litt — kumme erin un drinke e Gläsel Win un asse ebs. Kumme — lonn Ejch nitt lang häise.</p>
+        </sp>
+        <sp who="#_alle">
+          <speaker>Alle:</speaker>
+          <p>Bravo! Do sinn mr schun drbie!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(zuem Sauv.)</stage>
+          <p>Allez Sauvinger, dü bisch äu ingelade. Sauv.: Näin — näin. Ich habs schun widder so im Hals. Kuenz: Ich hab dr e gueti Medezin <stage>(zejt ne mit nin. a. l.)</stage>.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(Wenn alli drinne sinn)</stage>
+          <p>Hatt ich numme nie e Kart angerüehrt. — Jetz mues ich noch zuem Dieb wäre <stage>(a. 1.)</stage>.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(d’Büehn isch e Moment leer — dröjt mit dr Füscht geje 's Hüs)</stage>
+          <p>Wart numme Kuenz, jetz isch Revanche füer zallemols, wie dü mich in de Durn ge- brocht hesch waje-n-em e Has. — Ich hab dirs nie vergasse. Ich mach dr dini Familie un- glückli drfüer ! <stage>(lacht höhnisch)</stage>. In dr Wirtschaft höert mr Clairons blose un „Vive“ ruefe. <stage>(Rideau ab.)</stage></p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> Zweites Bild. </head>
+        <stage>(d’Scène stellt e Wirtschaft vor. An de Wand henke Pla- kate un Bilder. Links isch s’Comptoir. An de hintere Tisch sitze d’Gymnaster un esse Grumbeeresalad un Würschtele, am Disch r. vorne sitze dr Sauv. un Ræppel. Kuenz steht im Comptoir. Franç. un Doni serviere. Am e Schnüerel hængt e Würschtel, wie de Zipfel als Einer denoch schnape macht. Wenn dr Rideau ufgeht singe e Deil : « Am Brunnen vor dem Tore », mit Harmonikabegleitung. Wenn s’Lied ferti isch, hett dr Bursch au s’Würschtel gschnappt.)</stage>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — ar hetts ! Alle: <stage>(ruefe)</stage> Bravo!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Vingt-eing Pfiffedeckel — bie Ejch mues mr awer äu dran halte, wann mr züe sim Sach kumme will. <stage>(brüelt :)</stage> Ich soll als Grumbeeresalad esse un Ihr packe d’ Würscht, ’s isch wohr!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Wie isch e Hoor? Sauv.: Ihr selle nitt alli Würscht asse.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Ihr brüeche nitt so ze brüele, ich hab jo erscht ebbene acht.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(steht zue ne)</stage>
+          <p>Kenn Wünder bekumme nr kenn Fräu, die kann Ejch nitt genuej anestelle. <stage>(Lachen.)</stage></p>
+        </sp>
+        <sp who="#seppel">
+          <speaker>Seppel:</speaker>
+          <stage>(ützt)</stage>
+          <p>Isch wohr, Räppel, sinn-r Hochzitter ?</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(wüeti)</stage>
+          <p>War säit diss! Dene nimi vor de Maire. Sauv.: Ah, quelle bonne nouvelle. — Alt genüej wärde nr jo.</p>
+          <pb n= '18' />
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Näin, näin — wann i numme müest andere Litt ihre Mäidle füedere — ich hab’s eso schöener — d’ Wibslitt sinn füer mich Luft.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ja — awer ohne Luft kann mr nitt läwe. <stage>(Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p><stage>(wurd als wüeticher)</stage> A Ihr lache mich üss, mich, de Vizepresidänt. Ihr wisse, ass ich d’ Wibs- litt nitt schmecke kann. <stage>(Alles lacht ne üss.)</stage> Guet — ich geh — ich blie nimi im Veräin —Ich gieb mini Demänsion als Vzepresidänt. <stage>(wüeti ab d'. d. M.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(rueft)</stage>
+          <p>Alle, Räppel, ’s isch jo numme Gschpass, blie doch do.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(bäeffzt zue dr Düer erin)</stage>
+          <p>Nix ze moche — ich kumm nimi.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Guten Abend, meine Herren! Ich höre hier so schön singen und es heisst im Sprichwort: „Wo man singt, da lass dich ruhig nieder, böse Menschen haben keine Lieder.“ <stage>(setzt sich zuem Sauv.)</stage> Sie erlauben doch, dass ich hierher sitze? Herr Wirt, ein halbes Liter Bier !</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Isch’s erläubt, Harr Poschtmaischter, Sie zuem e Gläsel Win inzelade? Ich fier morje mini 50. Ge- burtsdäuj, un do hett mr dr Turnverein e Serenädel gebrocht. —</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Was — Geburtstag? Na, da gratuliere ich Ihnen aber auch. — Also, meine herzlichste Gratu- lation und — ä — viel Glück — ecetera pp. <stage>(steht auf und gratuliert Kuenz.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Dar Sprichklopfer hett grad noch gfahlt, dar Spinner !</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Merçi, Harr Poschtmäischter — Doni — servier de Harr Poschtmäischter, awer hurtli.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(sitzt wieder)</stage>
+          <p>Na, man immer lustig, meine Herren, nur nicht geniert, ich bin gerne in Gesell- schaft, wo’s lustig zugeht.</p>
+          <pb n= '19' />
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(bringt Pimpe Win un Esse)</stage>
+          <p>E guete, Harr Poschtmäischter.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Ja, in Dreiteufelsnamen — das ist ja grossar- tig — Kartoffelsalat und Würstchen — das ist ja mein Leibgericht, das macht mir meine Frau nur an hohen Festtagen — <stage>(schenkt ein)</stage> Mahlzeit, meine Herren, das erste Glas zu Ehren unseres Geburts- tagskindes — Prosit, Herr Kuenz! — <stage>(trinkt.)</stage></p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho, a Gosch hett-r, wie e Platt voll Ochse- müllsalad.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(schenkt sich wieder ein)</stage>
+          <p>Auf Ihr Wohl, Meister Saufinger <stage>(deutsch aussprechend)</stage>.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Mir brücht’s nitt extra wohl ze duen, bie üns säit mr äinfach „Gsündheit“ un derno häiss ich nitt Saufinger, sondere Sauvinger <stage>(französich)</stage> ver- stande Mannel?!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Wie — was — Männel? Erlauben se mal, mein lieber Freund und Kupferstecher. Für Sie bin ich ein für allemal der Herr Postmeister I. Classe Pimpe — verstanden !</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Exküsiere se Harr Poschtpimpel — ä — Harr verpimpelter Poscht — — —</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(mit Betonung)</stage>
+          <p>Postmeister I. Classe Pimpe — Na, darum kene Feindschaft nich. Nun will ich Herrn Kuenz zu Ehren mal von dem Karotffelsalat kosten, Mahlzeit die Herren <stage>(isst)</stage>.</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(brüele)</stage>
+          <p>Mahlzeit, Harr Poschtmäischter!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(mit vollem Müll)</stage>
+          <p>Famos — einfach köstlich — — na mal immer rin in die Dardanellen. — Bei uns zu Hause in Pommern wird das auch sehr viel ge- gessen, aber statt Würste, Rollmops- oder Herings- tunke.</p>
+        </sp>
+        <sp who="#seppel">
+          <speaker>Seppel:</speaker>
+          <stage>(kummt v. l. erin mit-ere Schüssel voll Mehl)</stage>
+          <p>Harr Presidant, schmiesse mr ebs do nin, ich hol’s mit-m Müll erüss.</p>
+          <pb n= '20' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Wann’s dr Pläsir macht, do Seppel e Marik. <stage>(wirft’s-em in d’ Schüessel — dr Seppel holt’s unter grossem Gelächter mit-em Müll erüss, d’Müsik spielt in dere Zitt e Walzer — Räppel kummt wieder erin un stellt sich r. näwes ane.)</stage></p>
+        </sp>
+        <sp who="#seppel">
+          <speaker>Seppel:</speaker>
+          <p>Merçi, Harr Kuenz.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(kummt d. d. M.)</stage>
+          <p>Guete-n-Owe biesamme. <stage>(Alli danke-n-em)</stage>. Bonsoir Babbe! <stage>(will-em d’ Hand gänn.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ass dü schun kummsch, schamsch di nitt, so lang furt ze bliewe, wänn mr alli Hand voll Arwet hett. i</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Verzej mr Babbe, muesch nitt böes sinn de- waje. — Ich bin noch in’s Theater gange, 's Elsässisch Theater hett grad hitt gspielt „d’ Heimet“, un diss haw i muen lueje. — Babbe, diss isch e Stüeck, so natt — —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(hebt d’ Ohre zü)</stage>
+          <p>Verschon mich mit dene Narredeje.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Mir hann Theäterles genuej d’ heim.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Salü Lücien. — Wäisch dr Vater isch kenn Friend vun so Dings un dü liebsch un läbsch doch derfüer. Hesch zitter äu witter so natti Varsle ge- mocht — so — poème alsacien?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(lisli)</stage>
+          <p>Ja, Babbe Sauvinger, e ganz nej’s — awer ich hab min Notizbüechel verlore wie’s drinne steht. <stage>(zuem Pimpe)</stage> Schmeckt’s, Harr Poscht- mäischter? <stage>(nach 1. a.)</stage> Ich will nüewer mich üss- zeje.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Danke, danke, — muss mal trinken, es will nicht mehr. Prost meine Herren!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ja, do koscht’s Hitz, bis mr so e Platt voll ge- wickelt hett, gar wann mr’s nitt gewehnt isch vun d’häime üss, galle monsieur Pimpé <stage>(saat’s fran- zöesch)</stage></p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Was?! Pääpe — Pääpe — das heisst „Pimp e“ Mann Gottes, Pimpe, P-i—m—p—e, ein urdeutscher Name — mein Vater hat schon 64 — 66 und 70 mit- gefochten.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ich hab äu 70 mitgefochten -— awer bie de Fran- zose — do hatte se mich sotte sähne am 4. Äugscht bei Spichern — —</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Jetz fangt-r mit dare Säj widder an — mr kanne’s jo!</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(üsser Pimpe)</stage>
+          <p>Ja, ja, Sasselmacher, mr kanne die Gschicht jo!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Allons donc — silence, awer dr Herr Poscht- mäischter nitt — <stage>(verzehlt’s im Pimpe)</stage> Es ischt ein Tag gewänn, so heiss wie heite — die Preisen greife an — doppelt so starik wie mir — do hätte Sie mich sotten sehn wüten — nix wie geladen und geschossen — geladen — geschossen. Am Ende hab ich überhaupt nimi geladen, nummen noch geschossen. Wie dass nix mehr genutzt hatt, ’s Bajonett druff un drein-nein bis mein Bajonett ausgesähn hett, wie ein Zapfen- zicher. Do kummt ein Preiss, e Mummel, mit so einem Sauerkrautschnauzer gegen mich — ich hab kein Pulver mehr, mein Bajonett ist hin — was machen? Der Preiss sperrt das Maul auf und brüllt: „Hurrah!“ — Ich näm meine Scheicke heraus un schmeisse sie ihm direkt in’s Maul nein — er hett noch drei Mol ra—ra gemacht, no ischt er umgekeit wie eine Muck — c’est la pure vérité. — Ich känne mich nimi vor Freide un brüll: — —</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>Güschtel:</speaker>
+          <stage>(brüelt)</stage>
+          <p>Ich kann nim meh — o jeh — o jeh! <stage>(Lachen.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Jo, du Pfohl, dü üewerzwaricher, so haw i nett gebrüelt!</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>Güschtel:</speaker>
+          <p>Ich kann nimmi — ich bring kenni meh nab.</p>
+          <pb n= '22' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ja — jetz sää mol Güschtel — wieviel Würscht- le hesch jetz gasse?</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>Güschtel:</speaker>
+          <p>Numme 12 un ich hab als schun 14 gepackt. <stage>(Lachen.)</stage></p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Donnerwetter, Kerl, hast du 'nen Appetitt. — Immer feste essen, das gibt tüchtige Soldaten.</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>Güschtel:</speaker>
+          <p>Ich will nitt zue de Preisse.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Ja, ja, verstehe schon. — Ihr Elsässer geht ja lieber in die Fremdenlegion — na meinetwegen, las- sen wir uns die Stimmung nicht verderben. <stage>(Nimmt e Zittung üss em Sack.)</stage> Sie erlauben doch, mein lieber Herr Kuenz, dass ich die beiden Würstchen meiner Frau Gemahlin mitnehme? <stage>(Steckt die Würstle in de hintere Fracksack.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Gewiss, gewiss, Herr Poschtmäischter.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Waje was steh ich dann do? Mit mir redd kenn Mansch — bin ich dann Essi?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Luej do, dr Räppel.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Ich redd ganz gare mit ejch — awer wann-r glich wüeti ware — mr kann doch äu mit-em Vieh redde. Jetz awer säue emol — Hohoho — worum welle-n-Ihr dann nitt hirote?</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(wüeti)</stage>
+          <p>Ich will elläin am Disch sitze, ich will nitt ambediert sinn iüewerem Asse — gar wann’s Lawerknepfle gitt.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Aber einer unserer grössten deutschen Dichter hat schon gesagt: „Es ist nicht gut, dass der Mensch allein sei.“ Also auf das Wohl Ihrer Zukünftigen leere ich mein Glas.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(lachend)</stage>
+          <p>Ganz mini Mäinung, Harr Poscht- mäischter. <stage>(zuem Zipfel)</stage> Was hett-r gsäit?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Jo — dene alte Stachhedes will jo kenni! <stage>(Ge- lächter.)</stage></p>
+          <pb n= '23' />
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Ah, Ihr lache mi schun widder üss? Jetz isch awer ferdi. — Jetz hann-r mi gsähn. — Ihr Gemües- köepf, Ihr Süürmilichhäfe! <stage>(wüeti ab d. d. M. — Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ar kummt widder.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Was hett denn dr François denne-n-Owe, ar redd gar nix — was isch dr dann üewer ’s Lawerle ge- grobelt?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Was solli dann redde — Ihr babble genuej.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Wie isch’s dann, Sauvinger, emol uf de Disch nuff un äins los gelonn! ’s Güerigele schmiere. <stage>(nimmt ’s Glas.)</stage> Uf d’Gsünd- häit vum Kuenz — der Kuenz sell läwe: „Vive — vive — vive!“ <stage>(Alli ruefen „vive“ — Pimpe schrejt „Hurrah“ — Lücien kommt erin in de Hemdärmel)</stage>.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(angedüselt)</stage>
+          <p>Hähähä — messieurs, ich kann auch französisch parlieren! Monsieur Kuenz, à votre sanktee — voulez-vous mangschee! singe alli mit. Attention! <stage>(singt:)</stage> Jetz stosse mr an ass d’ Gläser duen klinge. <stage>(Refrain singe alli:)</stage> Drula, drula, durla usw. 2. Dr Kuenz soll läwe noch langi Johr, Guet asse un drinke, ― schad-em kenn Hoor. <stage>(Refr. isch noch jeder Stroph ze widderhole.)</stage> 3. Dr Zipfel hett e roti Nas, awer ar hett se garn, Dann no brücht ar z’nachts äu kenn Latärn. 4. Dr Poschtmäischter Pimpe isch I. Class. Un losst sich’s guet schmecke in unserem Elsass. 5. Dr Doni isch vori vun dr Läiter ra kejt, Un hett sich um e Härel dr Dooges verheit. 6. Dr Räppel isch däub, drum höert-r nitt guet, Un wann-r a Mäidle sieht, hett-r e Wüet. 7. Ünseri Gymnas isch tüechti, diss hann-r nitt ge- [wüesst, E jeder vun-ne packt jo, e ganz Dutzend Würscht. 8. Dr Lücien isch luschti, dr François macht e Gsicht Mr mäint jo ball, ar isch bie-re Licht. 9. Wann ich e Schick hab un e Schnapsel im Maue, Ze bin i zefridde un hab nix ze klaue. 10. Jetz bin i fini, ’s Liedel isch üss, Un wamm’s nitt hett gfalle, dar geht halt nüss. <stage>(Springt vum Stuehl runter; alles rueft: Bravo!)</stage></p>
+          <pb n= '24' />
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Bravo, bravo — altes Haus! Doni, noch ein Liter Wein!</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — Jetz mues dr Lücien awer äins vor- träue.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Awer sicher — diss schöen Varsel, wie’s drinne häisst: „Am goldene Ahrefald, do steht e Hiesel" —</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Lücien, dü müesch äu äins moche.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Ich muess halt, ich sieh’s schun. <stage>(steht uf de Stuehl. Deklamiert:)</stage> „Mini Häimet.“ Fröjt äiner noch de Häimet mich, Ze sää ich ohne sümme glich, Ich hab e Häimet, d’ schöenscht wie's gitt, E schöeneri wäiss i hitt noch nitt. Un wie se isch, diss sää ich äu, mr höert’s jo oft genuej im Däuj. 's isch wie noch gsünder, frischer Muet Un Friendschaft, Gradhäit wohne duet. ’s isch wie mr vun dr Läwer red’t, Un jeder garn sin Frejhäit hett. ’s isch wie mr halt, ass wie e Klätt An dam was schöen un jung un nett. 's isch wie e manchi alti Stadt, Charakter hett noch, dass-es batt. Wo Glanz un Richtum drinne glänzt, Un Fliss un Fräid sich voll ergänzt. ‘isch wie der Bür am morjes früej Nüsszejt mit Gsang — züe Schwäiss un Muej. 's isch wie e manchi Büremej, E Schlupfkapp dräjt üss Taffetzej Un Grüsselkräjle um de Hals. 's isch Land vun Basel bis an d' Pfalz. 's isch wie e manchi Felsekett Viel döjssich Bäim un Bächle hett, Un wie e mancher Felskoloss Verzehlt vum e alte Ritterschloss. Wo ’s Bächel rüscht un ohne Ruej De Birkestämmle silwergröj E Liedel singt — wo’s Müehlerad De ganze Däuj e Radel schläät. Wie’s altertümlich Büürehüs Mit sine Fachwänd brün un wiss Un Wälschkorndächle üewernand, So härzich nüss ins Ländel spannt! — Diss isch min Land, do bin i d’häim, Im ghöert min Wache, Schlof un Dräim. <stage>(geht vum Stuehl rab.)</stage></p>
+          <pb n= '25' />
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(ruefe)</stage>
+          <p>Bravo, Lücien, diss isch jetz awer natt gewann.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(gitt-em d’Hand)</stage>
+          <p>Mon cher Lücien, min Compli- ment — natt gewann — ich hab ganz Wasser in de Äue !</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — ja ünseri Häimet — so gitt’s kenn Ländel meh.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(kummt erin)</stage>
+          <p>Was isch dann füer e Spack- dackel do hinne.</p>
+          <pb n= '26' />
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Ah dr Räppel — so isch racht — <stage>(d’ Burscht mache-ne Kreis un danze um ne rum, singe:)</stage> „Dr Hans im Schnokeloch hett alles wass-r will, Un wass-r hett, dis will-r nitt, Un wass-r will, diss hett-r nitt. Dr Hans im Schnokeloch hett alles wass-r will.“</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(lacht)</stage>
+          <p>Mer kann halt nitt böes sinn mit ejch Wackebum.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Nun will ich aber nach Hause zu Muttern. <stage>(zue Kuenz)</stage> Besten Dank, Herr Kuenz für Ihre Liebens- würdigkeit — —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Sisch nitt drwart — ’s isch gare geschahne, Harr Poschtmäischter.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Adjö, meine Herren — <stage>(zuem Sauy.)</stage> Bongsoar, IE Sie oller Franzose „Soowäschee.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Bonsoir, monsieur „Pimpé“. Ihre Madame soll sich die Würstlein fein schmecken lassen.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(güet gelünt)</stage>
+          <p>Danke, danke, die werden Ihr grossartig munden. Sehen Sie, meine Herren — Elsässer seid ja ein ganz gemütliches Volk, aber das — ä — Frankreich, das steckt Euch noch immer im Schädel und wir Deutsche meinen es so gut mit Euch.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Diss wisse mr, ass Ihr’s guet vor hann mit-em Elsass. — Awer sahn-er Herr Poschtmäischter I. Cl., mr sinn üewer 200 Johr franzöesch gewann un diss vergisst mr nitt so schnall — c’est la pure vérité!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Hhm — ä Mahlzeit!</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(brüele)</stage>
+          <p>Mahlzäit! <stage>(Pimpe a. d. d. M.)</stage> <stage>(Kl. Pause — no e grosses Gelächter.)</stage></p>
+          <pb n= '27' />
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — dam hann-rs gsteckt — dar hett d’Nas ingezöje!</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Babbe Sauvinger, füer diss kennt ich Ejch grad e Schmutz gänn. O wänn i numme nitt bie dene Soldat mues sinn.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Babbel nitt so däub — was witt dann andersch mache.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Andersch mache — kann-r nitt in d’Legion?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Pscht — nitt so lütt, ich hab nitt gare so Dings in minere Wirtschaft gered’t — mr mues sich gar in Acht namme.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(singt)</stage>
+          <p>Nur nitt so lütt, dr Sauvinger hett e Düttt...</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ich e Dütt, c’est trop fort. — Ich kann jo noch uf äim Bäin stehn <stage>(browiert’s)</stage>.</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>E Burscht:</speaker>
+          <p>Müsik, spiel emol e Polka, mr welle äiner tratte.</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>Alli Burscht:</speaker>
+          <p>Müsik! Bravo, jetz wurd gedönzt!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Pscht — pscht — näin, ’s isch schun spot, ’s isch fli glich elf!</p>
+        </sp>
+        <sp who="#guschtel">
+          <speaker>E Burscht:</speaker>
+          <p>Numme 3 mol erum, alle Kuenz —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Na, wäje mir. <stage>(d’Müsik spielt e Polka, alli tanze — Zipfel mit-em Räppel — Sauvinger stellt de Quadrille)</stage>.</p>
+        </sp>
+        <sp who="#seppel">
+          <speaker>Seppel:</speaker>
+          <p>Jetz noch e Wälzerle.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Nix — jetz isch sini, Fierowe — gehn jetz häime, ass isch genuej füer hitt. — Güet Nacht bie- nand. d’Gymnasien: <stage>(gehn d. d. M.)</stage> Guet Nacht, Harr Kuenz, un vielmols merçi. Zipfel u. Räppel: Guet Nacht Kuenz. <stage>(Mr höert de Wind süse.)</stage></p>
+          <pb n= '28' />
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ich gläub ass gitt e Watter. Bonsoir Kuenz — ich läigs nitt, ich hab schun widder e Dämpfes — c'est vrai — salü François. <stage>(Gitt-em Lücien e Schmutz uf de Backe.)</stage> Schlof guet, mon cher. <stage>(Alli drej gehn ab d. d. M. — Sauv. singt im nüsgehn.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>„Nitt eso un doch eso, Wie’s die Buewe mache, Wänn se gasse un getrunke hann Gehn se furt un lache.“</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(rümt uf)</stage>
+          <p>Die selle nitt dringhäue hann, diss möecht i nitt alles verdäue! <stage>(höert nüss)</stage> Un dr Wind geht — wittlos höert mrs äu rummle — — Die hann de Win gemammelt.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>d’Häubtsach isch, wann’s gschmeckt hett. As isch e netter Owe gewann un hett mr Fräid gemacht — numme diss macht mr kenn Fräid — d’äjene King düen äim zeläid lawe.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Vater, ich mäin doch, i hab hitt genuej gschafft.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ich redd nit vun dir. — Doni kannsch nuf ins Bett. <stage>(Doni säit „Guet Nacht“ un geht a. r.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater, ich hab vergasse, ass de hitt Owe diss Serenädel gemacht bekummsch — awer waje dam nitt böes sinn, Vater — un ich due dr äu vun ganzem Harze gratüliere un wünsch dir, ass de noch lang labsch un gsund bliesch.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Dättsch dü mr versprache, ass de mr mini Wünsch erfülle witt, diss dat i liewer höere.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater, üewer dene Punkt ware mr nie äini mitnand. Ich kann kenn Büür ware, Vater — loss mich doch Kunschtmoler ware — siehsch d’Mamme hett’s so äu welle hann.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Diss isch wohr — d’Müeter isch am mäischte schuld dran — dr Jüngscht, dr Neschtkitter, dar hett derfe mache, wass-r gewellt hett, jetz mäint-r, ass muess immer noch sim Kopf gehn. Mit mir isch gar nitt so viel Läwesdäuj gemacht worre, do hett’s äin- fach ghäise, dü muesch.</p>
+          <pb n= '29' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Natirli muesch dü äu noch uf mich hucke. <stage>(geht a. 1.)</stage> Guet Nacht!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>So isch’s — kläini King — kläini Sorje, grossi King — grossi Sorje. — Do mues jetz emol mit Arnscht derhinger gange ware. — Ich hab dr Mueter nitt geje de Kopf welle stosse, will se immer kränkli isch gewann. Sie hett sich’s in de Kopf gsetzt, dr Lücien mües Kunschtmoler ware, will se e Unkel in dr Familie hett, wie äu Kunschtmoler isch — awer jetz hatt’s e And.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Jo, dü wursch numme ’s Geld los mit-em, un ar macht dr Malin, un ich kann hinge un vorne dran hänke un schaffe.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Sej zefridde Bue, wann de brav bliesch un schaffsch, due ich dich nitt vergasse, dü bekummsch emol din Däil. — <stage>(Es rummelt.)</stage> Es gitt e Gewitter. — Ich will jetz ins Bett, bschliess noch alles ab un hank d’Läde guet in, no leisch äu. — Guet Nacht, Bue!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Guet Nacht, Vater — un — ich — ich wüensch dr alles Guete zuem Geburtsdäuj. — Vater, ich will immer brav bliewe — un — ehrlich.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Merçi, François, es macht mr Fräid, ass dü mr diss säisch — ja — blie immer brav un bsunders ehrlich. Siehsch — bie mine Eltere, ass wie bie üns isch’s miner gröescht Stolz, ass mr sine King tröje derf un nitt alles vor-ne abgbschliesse mues — ass wie ich Familie kann, wie alles angschtli vor de King verbarje müen. Un ich kann im e Bue e Sreich verzeje, mr wäis jo, e junger Bue schläät emol näwes nüss e dür — awer wann mi äins vun mini King bstahle dat, i wüesst nitt, was i met-em anstelle dät, i gläub, i kennt’s mit äjene Händ verwurje — na, do kann i ruehj sinn waje mine Buewe — un mit-em Lücien wurd sich’s äu noch mache wann-r sieht, ass ich nitt luck loss, no wurd’r d’ Molerej schun uf- stecke un sich an d’ Büürerej mache, no isch dar Handel äu üss dr Walt gschafft un Ruehj un Fridde isch in ünserem Hüs. Ja — Guet Nacht — schlof guet! <stage>(ab.)</stage></p>
+          <pb n= '30' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Guet Nacht, Vater — ich bschliess noch, no lej i äu. <stage>(bschliesst Düer)</stage> Was hett dr Vater gsäit? ’s erigscht was-em e King kennt mache, war, wann’s ne bschahle dat — un ich hab’s willes — ich will a Dieb ware, will ich sunscht vum Kohler angezäjt wurr ass-r mi üewerem braconniere verwitscht hett. <stage>(Es blitzt un rummelt.)</stage> Diss Gald — diss Gald — wann ich numme e Fues gebroche hatt, wie ich zuem bin füer ze karte. — Wann’r numme nitt kam. Gros- ser Gott, was sell i numme mache — <stage>(es schlaat elf)</stage>. Elf — jetz mues-r glich kumme — wann’s numme erum war, ich schwitz ganz vor Ufrejung. <stage>(löescht d' Lamp, wie mitte in dr Stub hängt.)</stage> Wie un- häimli ass-s isch! <stage>(Es blitzt un rummelt, dr Wind hielt — kleini Paus — plötzlich e greller Pfiff.)</stage> Ar isch’s — ar kummt — wann numme der Vater nix höert. <stage>(Kohler kummt zuem Fenster erin, hett e Taschelamp brenne.)</stage></p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Höpp — Franz, bisch gerischt?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ja, do bin i — alles lejt schun un schloft — awer lueje Kohler, mr welle’s liewer nitt mache, ass isch e Diebstahl, un wann dr Vater derhinger kummt, no gitt’s e Mord, ar dät mi umbringe. —</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Mach jetz kenn lang Gebabbels — as kummt jo nix uf dich, bah, dr Alt wurd ä bissel wild mache un wäje-n-em Lücien brüchsch kenn Mitlieds ze hann, ar hett äu kenns mit dir — ar losst jo dich äu ab- rackere un ar stellt’s Lavalière un markiert de Fitzer un dü bliesch e däuwer Bür. — Un ich mües diss Gald hann, un d’ Gelajehäit isch günschti — do isch’s Notizbüechel vum Lücien, diss lajsch ins Secretair, ass mr mäint, ar isch’s gewann — was brüchsch dü no Angscht ze hann. — Jetz geh un hols — sunsch geh ich un dr Rascht kummt noch.</p>
+          <pb n= '31' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ich geh — was will i mache — as bliet mr nix andersch üewri <stage>(nimmt vom Kohler d’Taschelamp un Notizbuech)</stage>. Gänn mr d’ Taschelamp un ’s Notiz- büechel — dr Schlüessel zum Sekretär lejt im Comp- toir — <stage>(nimmt de Schlüssel im Comptoir — geht no lisli a. l)</stage>. Ich kum im Momant.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(elläin)</stage>
+          <p>Hahaha — dummer Kaib, as de bisch hol numme ’s Gald, ich hab di am Bändel — diss sott-r wisse, ass i d’ Karte gezäicht hab, ich hab jo nitt kenne verliere — — So Kuenz, dr Has isch be- zahlt <stage>(es blitzt)</stage>, ich bekumm 230 Mark un was noch kummt, gitt mi nix an — ich wäis vun nix! Jaa, Kuenz, ich hab dr’s nitt vergasse, ass de mich ange- zäit hesch — — Ar kummt retour — jetz gitt’s Gald!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(kummt erin)</stage>
+          <p>Ich rieder ganz vor Angscht — in mim Läwe nix meh eso — ich rüer kenn Kart meh an — Do hanner’s Gald, as brannt mr in de Finger wie Fier. <stage>(es blitzt un rummelt, dr Wind hielt.)</stage></p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(habgierich)</stage>
+          <p>Gieb mr’s hare — was es meh isch giew-i dr zeruck, un jetz ganz lisli nüss — dü schlichsch in’s Bett un kenn Mansch kummt uf dene Gedanke, ass dü’s bisch gewann — — <stage>(horcht)</stage> pst — es kummt ebber erab — ’s Licht üss un hinger de Disch. <stage>(sitze hinter de Disch r. v. — kleini Paus.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(kummt grad in de Hose v.1. erin mit-ere Lamp.)</stage>
+          <p>Isch Jemes do hinne? Ich hab grad gemäint, ich hab ebs ghöert — <stage>(züend’t in dr Stubb erum)</stage>. Ich hab mi getrumbiert — as isch dr Wind gewann. <stage>(browiert an dr Düer — geht no ab — wann’r drüsse isch kum- me se untrerem Disch vor. Kohler züend’t Tasche- lamp an — horiche e Will.)</stage></p>
+          <pb n= '32' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Jesses, wann dar ebs gemerikt hatt!</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <p>Jo, dü Schöite! <stage>(lacht höhnisch:)</stage> Hahaha! — <stage>(Es blitzt — drno e furchtbarer Dunnerschlaa.)</stage> Rideau schnell ab. <stage>(NB. Diss Gedicht „Mini Häimet“ isch vum Strossburjer Dichter F. X. Neukirch.)</stage></p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> Drittes Bild. </head>
+        <stage> Scène: (Wohnstubb vom Kuenz. Bürisch mebliert. In der Mitte steht e Disch mit-eme Strüss Feldblüeme. An dr Wand hinte steht a Sekretær. Uewerem Sekretær hængt e grosses Bild, s’Portrait vum Kuenz sinere Frau. An de Wænd hænke Land- schafte. Links un rechts e Düer. Es wurd langsam Owe geje Schluss vum Bild isch d’Scène fascht ganz dunkel. Pimpe un Kuenz sitze am Disch un ræche ab.)</stage>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(zehlt zamme)</stage>
+          <p>1 — 2 — 3 — 4 Hundert, 10 — 20 — 25, zusammen 425 Auflagen, mal 80 Pfg. macht — — gleich 340 Mk. null Pfg. Mit diesem französischen System 80 Pfg. — man könnte doch gerade so gut 1 Mk. pro Sterbefall zahlen, anstatt diese Franken- rechnerei.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>d’ Litt do halte dran, sie sin’s e so gewöehnt — es häisst ewe d’ Frankelad, un wann se e Marik sotte zahle, date se ehnder üss dr Lad erüss gehn.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Es sind doch nahezu alle Einwohner von hier und dem Nachbarsdorf in der Kasse.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Vun hie sin alli drinne bis uf dr Sauvinger.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Na, an dem wundere ich mich nicht — das ist ja der reinste Protestler, nichts wie Protest.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Zall nit grad, Harr Poschmäischter, awer ar sait als: „Ich kann starwe ohne Lad, un dar Franke gitt als widder 8 Schicke.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Na, meinetwegen, des Menschen Wille ist sein Himmelreich. Was ich schon lange fragen wollte, dieser Sauvinger ist mit Ihnen verwandt?</p>
+          <pb n= '34' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ja, ganz wittläifi noch, vun minere Mueter ihre Sitt häre, ar esch äu e gueter Frind vun mim Vater gewann un isch e bravi, ehrlichi Hütt, ar trinkt halt gare äins, awer ar schafft, was kummt; ar macht Köerb, ar bind’t Bäse, ranschiert Sässel, mr kann ne füer alles brüche. Jetz htt-r sine Dochtermann verlore, do hett-r dem sini 4 Trawante noch zue sich genumme.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(v. r.)</stage>
+          <p>Mäischter, mr sinn do mit-dr Gärscht, dr François un dr garde-chasse hann gsäit, ich sell fröje, eb mr glich selle ablade? ii Kuenz: Sie selle z’erscht ebs asse — un dü duesch fuedere.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(beleidigt)</stage>
+          <p>Mäischter, diss isch nitt schöen, ass’r mich mit-em Vieh vergliche — dr Franz un dr garde- chasse selle asse, un zue mr säuje-nr ich soll füedere, ich bin doch kenn Ochs.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Doch, ich gläub jetz ball — dü sellsch’s Vieh füedere all wie die zwäi asse — dü wursch alle Däuj hi — älter. <stage>(Doni ab r.)</stage></p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Das ist ja gottvoll, diese Einfalt. Na dann, Herr Kunz, will ich aufbrechen, geben Sie mir bitte das Sterbegeld für die Witwe Bronner, damit ich ihr’s aushändigen kann.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>E Moment, Harr Poschtmäischter, ich will’s ne lange, ich hab’s do im Secretär <stage>(nimmt d’Büecher zamme un geht an de Secretär, schliesst e Fach uf, suecht, wurd unruehji, suecht im e andere Fach)</stage>. Ich hab doch ’s Gald do ning geläit am Samsti!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Was haben Sie denn — fehlt was?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(ganz bleich un verstöert)</stage>
+          <p>In dam Fach haw- ich’s Gald yun dr Starwekass g’hett — vun je hare noch. Haw-ich’s dann in Gedanke irijeds andersch ane — fascht nitt möejli <stage>(denkt noch)</stage>.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Sie werden doch keine Diebe im Hause — — ?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(infallend)</stage>
+          <p>Näin, näin — do drfüer läj ich d’ Händ in’s Fier — ich hab’s wohrschins verläjt — ich find’s schun widder — zitter ass d’ Fräu gstorwe isch, mach ich mr äu viel Gedanke — Ich find’s schun widder — Ich gieb ne jetz emol vun mim Gald <stage>(gibt Pimpe üss-re Kassett ’s Gald)</stage>. Pimpe: Stimmt ja — 340 Mk. Hoffentlich finden Sie das Geld bald wieder. — ’n Abend Herr Kuenz! <stage>(a. r.)</stage></p>
+          <pb n= '35' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(ellain)</stage>
+          <p>Hab dann ich diss Gald am Ang üss- gann? A bas — gar nitt möejli — zitter am Samschti haw-ich noch kenn Nott oder sunsch e gröesseri Summ Gald bezahlt. — Die Blamage vor-em Poschtmäischter — ar hett glich gebabbelt vun Dieb. — Sott am Ang äiner vun mini Buewe ebs eso mache? — Dr Fran- çois — ?! Dar isch doch viel ze, verschrocke. — — Dr Lücien? — — — Ich gläub nitt ass-r eso ebs dät mache — Dr Doni? — Do isch dar viel ze däub- dezü — un doch fahlt’s Gald — <stage>(geht hin un här)</stage> ’s fählt — ich hab’s nitt genumme und vun-ase isch’s nitt zue dem Fach erüss kumme.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(v. r.)</stage>
+          <p>Mäischter, ich bin ferti mit füedere!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Na, jetz kannsch asse — sää im François, ar glich zue mr kumme.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Sell gschahn, Mäischter! <stage>(a. r.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ich bin ganz ufgerejt üewer die Sach — Franç.: <stage>(v. r., isch ganz verdattert)</stage> Was sell’s Vater?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Höer François — wäisch dü wie ich als ’s Gald vun dr Starwekass aneläj? Franç.: Näin — Vater — näin — ich hab ganz sicher kenn Ahnung — so wohr wie ich do steh, ich wäis gar nitt wie’s leje hesch, as hett mie nie intressiert. — Worum fröjsch mich — Vater?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Wie ich vor im Pimpe ’s Starwegald füer d’ Bronnere will gann, ze isch’s nimi do. Un ich schwöer döjsich Eid druf, ass-ich’s do in diss Fach vum Secretär gelajt hab.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Frang.:</speaker>
+          <p>Hesch schun üewerall nochgelüeit in alle Fächer un Schüblade? Lueje mr noch emol genäuj, Vater.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>As wurd nix nutze — ich hatt’s gsähne, as isch e Säckel gewann, ball alles in Silwer. <stage>(Beidi lueje- noch emol noch.)</stage></p>
+          <pb n= '36' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(find’t im Lücien sinn Notizbüechel)</stage>
+          <p>Vater — was isch diss do?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(luejt drinne noch)</stage>
+          <p>Diss — diss isch — jo ’s Notizbüechel — vum — — Lücien? Wie kummt diss do ning in de Secretär ?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Vun-ase isch’s nitt nin gflöje.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(blättert drinne rum, es fallt e Visitekärtel erüss)</stage>
+          <p>Was isch diss?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(hebt’s uf)</stage>
+          <p>E Visitekärtel vun ere Mamselle „Mademoiselle Fifi Krall“ — Vater, mir geht e Licht uf — sott dr Lücien? —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Allmächtiger Gott — äiner vun mini Buewe e Dieb. — Ich gläub’s nitt, ’s kann nitt sinn — awer diss Notizbüechel — vum Lücien — ’s Gald isch furt. — Kenn anderer hett’s genumme wie ar — ha, na- tirli, wammer mit so Lumpemenschle erumfahrt — diss koscht Gald, un wammer kenns hett — <stage>(springt uf, schlaat uf de Disch)</stage>, no wurd mr zuem Dieb — no stiehlt mr — b’stiehlt de äjene Vater, numme ass mr dr Liederlichkäit noch kann gehn. — War hatt diss hinter dam gsuecht. <stage>(ruehijer)</stage> Wann müess-r’s dann üssgfüehrt hann, ass nieme nix gemerickt hett?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ah — jetzt kummt mr inn, dr Kohler hett mich gfröjt, ob ich am Samschti Nacht noch lang uf bin gewann, dann ar hett noch de elfe, wie ar häime-n- isch, noch e Licht durich die Stubb sahn gehn — ar hett gemäint ich bin’s — wart, ar isch jo do, ar soll dr’s salwer verzehle. <stage>(rueft n. r.)</stage> Kohler, kumme e mol ering.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(v. r. schmeichlerisch)</stage>
+          <p>Guete-n-Owe Kuenz — hitt hett’s awer gewärmt — awer d’Garscht hammer doch d’häime — ich hab äu geschafft.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ich bin froh, ass-r mithalfe — awer do verzehlt mr de François grad, ass ihr am Samschti-Owe am Ühre elfe Licht in dare Stubb gsahne hann — wie isch’s dann gewann, verzehle mr’s doch, wann-r welle.</p>
+        </sp>
+        <sp who="#kohler">
+          <speaker>Kohler:</speaker>
+          <stage>(nochdenkend)</stage>
+          <p>Am Samschi-Owe? — Ah — wie diss Gewitter isch kumme, bin i grad in dr</p>
+          <pb n= '38' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Ja, schun sitter e paar Däj, hanner’s gfunde? Es hett mi noch so gfuxt, ass ich’s verlore hab, ich hab Sache drinne, wo mr lieb und wart sinn.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>„Lieb un wart“ isch güet — diss gläuwi.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Was find’sch dü so abarts dran — oder hesch drinne erumgschnuffelt? Diss glicht dir jo.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(zejt's Büechel)</stage>
+          <p>Isch diss-es?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lüeien:</speaker>
+          <p>Ja — diss isch’s, Vater.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(zejt's zeruck)</stage>
+          <p>Halt-ela — langsam Büerschtel.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater, säue mr doch was isch. — Gann-mr doch min Büechel — ass steht jo drinne, ass-es min isch, wann-r mir nitt gläuwe.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>As steht noch meh drinne. — Mäinsch wie mr’s gfunge hann?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Was hett diss füer e Wart füer mich, wie Ihr’s gfunde hann. Gann mr’s Vater!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Noch e Fröj! Bisch dü am Samschti Owe noch de elfe noch in dare Stubb gewann?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Am Samschti — noch de elfe? Ja — as isch doch e schwars Gewitter gewann un ich hab ge- mäint e Lade isch gange, no bin i nab in d’Wirt- schaft un hab noch geluejt — as isch awer alles bschlosse gewann.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Dü wäisch doch ganz genäu, ass ich allewil zü mach. — Jetz uf äinmol bisch dü so bsorit — —</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p> <stage>(zuckt d’ Achsel un gitt kenn Antwort.)</stage> </p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Diss dunkt mi äu komisch. — Jetz höer, was ich hitt alles erlabt hab: Wie ich dene-n-Owe im Poschtmäischter ’s Starwegald hab welle gann — 340 Mk. — do im Secretär, dü weisch doch, wie ich’s als leje hab — in wellem Fächel?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lüeien:</speaker>
+          <p>I wäis — do im erschte Fächel rächts hesch’s als leje.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(ironisch)</stage>
+          <p>Siehsch, wie genäu ass de diss wäisch.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Siehsch, Vater — do haw ich noch nie druff acht gann.</p>
+          <pb n= '39' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ja, jetz basse numme uf, was wittersch kummt. <stage>(mit Betonung)</stage> Wie ich diss Gald lange will, isch’s nimi do — awer vorne am Fächel lejt din Notiz- büechel, Lücien — —</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p><stage>(isch ganz verstünt)</stage> Was?!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Jetz: Wie isch diss Gald üss dam Fach erüss kumme? Nin geläjt haw’is, diss bin ich ganz sicher — ebber Fremd’s kummt nitt in die Stubb, dr Fran- çois hett nitt gewüesst, wie’s Gald lejt — dinn Notiz- büechel lejt awer do — am Samschti Nacht bisch dü noch do hinne gewann in dare Stubb — — Lücien, was säijsch dü zü dam?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(schwer schnüffend)</stage>
+          <p>Vater — worum richte-n- ihr die Fröj an mich? Ihr wäre doch nitt gläuwe — — ?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Worum kummsch dü als in letschter Zitt immer so spot häime üss dr Stadt? In was füer Gsell- schafte triebsch dü dich erum — mit Lumpemänschle — — !</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(brüst uf)</stage>
+          <p>Vater — wann-r so anfange, ze geh- wi — diss isch mr ze däub, ass i numme Antwort gieb.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Numme nitt eso ufgebrüst. Ich hab nämli noch ebs. In dim Notizbüechel isch e Visitekärtel gelaje vun ere Mamsell „Fifi Krall“ — siehsch, as alles an de Däuj kummt, dü Duckelmüser — <stage>(wüeti)</stage> Drum in Guetem — gieb diss Gald erüss, kenn andererhett’s genumme wie dü! Lücien <stage>(schrejt)</stage> Vater — ich sell — gstohle — ?!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(im gröeschte Zorn)</stage>
+          <p>Ja — dü bisch dr Dieb !</p>
+          <pb n= '40' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(ganz üsser si)</stage>
+          <p>Vater — diss mir! — Ich e Dieb — <stage>(fasst den Vater am Hals — brüelt wie ver- ruckt)</stage> E Dieb!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç:</speaker>
+          <stage>(geht dezwische, wirft Lücien zeruck)</stage>
+          <p>Eländer — ass de bisch, dätsch dich noch am Vater vergriffe. Isch diss nitt unerhöert, lüepft d’ Hand geje de Vater — do sieht mr, ass de kenn Ehr un kenn Scham meh im Lieb hesch.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(verzwiefelt)</stage>
+          <p>Ich wäis jo nitt, wie mr dr Kopf steht — was ihr do vorbringe vun mim Notizbüechel, do wäis ich jo gar nix devun. — Ich hab’s verlore — ja zall isch wohr. — Awer wie kummt’s in de Secre- tär — wie kummt diss Visitekärtel drinn? Do mues ich mr an de Kopf griffe ob ich nitt verruckt bin. — Vater — François, so ebs muete Ihr mir zü. — E sisch alles nitt wohr, gläuwe’s doch!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Gläuwe sell i dr äu noch dini Üssredde! Dätsch dü gstehn un ’s Gald hareschaffe, eb ich zuem üsserschte griff — dann dü kannsch mich. — A Dieb hett kenn Platz in mim Hüss — e Dieb lied ich nitt unter mim Dach.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater, was soll diss häise?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Diss häisst: Wann dü nitt glich alles ingstehsch — — <stage>(schnüft schwer)</stage> dert isch d’ Düer ! Lücien: <stage>(wurigt an de Wöerter)</stage> Vater — ich — bin kenn — Dieb — 's Gald — —</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>A kumm Vater, ar kann jo nix säue, de Bewies ass ar’s isch gewann, hann-mr jo. Äim so e Schand ins Hüss ze bringe. <stage>(geht a. r. )</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(trürich)</stage>
+          <p>François — Brueder, diss säisch dü mir! Alles isch geje mi! <stage>(in grosser Uffrejung)</stage> Herrgott im Himmel, isch kenn Mansch, do wo mr bie- steht — hett sich alles geje mi verschwore? <stage>(kniet vor de Vater)</stage> Vater, gläub mr doch, ich bin’snitt gewann.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Loss die Plän, die hesch im Theater abgspanne — die zeje nitt bie mir. Dü kannsch mini Mäinung, mehr haw i nitt ze säue. <stage>(schmisst-em ’s Notizbuech ane un geht a. 1.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(springt uf, geht noch, rueft an dr Düer mit trüricher Stimm)</stage>
+          <p>Vater !</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(kummt zeruck)</stage>
+          <p>Was isch — witt gstehn, ja — oder näin?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater — ich bin’s nitt gewann!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(wüeti)</stage>
+          <p>Harrschaft — Bue mach mi nitt rasend — Was witt dann noch? Sää doch äinfach: „Ja, Vater, ich bin’s gewann.“ — Diss will i höere vun dr! Ich nimm jo an, dü bisch jung un die Kunschtmoler sinn alli e licht’s Volk, do sinn no Süffereje abghalte worre, so Mänschle dezü un do hett’s Gald koscht — no muess mr zuem Dieb wäre, diss isch’s, was mr alles im Lieb erum dräjt — e Dieb — e Bue vun mr e Dieb. —</p>
+          <pb n= '41' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(zitternd, brüelt in höegster Ufrejung)</stage>
+          <p>Vater, nimm diss Wort — oder! — Ich — ich bin kenn — Kuenz: Guet — ze geh — zuem — <stage>(schmisst Düer zu, a. 1.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(schwankt zuem Tisch, fallt dort zamme, hielt  ganz herzerweichend)</stage>
+          <p>Häimetlos !— Als Dieb anegstellt. <stage>(steht uf — gfasster)</stage> Mr gläubt mr nitt do hinne — ich bin nüssgeworfe — ehrlos — ich hab kenn Vaterhüss meh. — Ich känn de Vater, ar losst nimi mit sich redde — un ich kann doch nix ingstehn wie ich nitt gemacht hab. Un anhalte — do bn ich doch ze stolz dezü! — Ze geh-wi halt — ja, ich geh — in d’ Fremdelegion — — Awer diss macht mr so arich weh — ass ich e so furt mues, ohne Abschieds- wort, ohne Troscht, — furt vun do — furt üss dam Hüss, wo ich so schöeni Stunde verlabt hab, e so glückli bin gewann. In dare Stubb bin ich als King erum geloffe, hab lehre Mamme un Babbe säue — an dem Disch hett mich d’ Mamme d’ erschte Gebaitle gelehrt — — d’ Mamme — die dät mr gläuwe — do hängt ihr Bild, ich hab’s sälwer gemolt — was e Fräid hett se do g'hett, un wie stolz isch se uf mich gewann, sie hett gsäit, ich wur e grosser Künstler wie dr Unkel — un jetz — was wurd jetz? <stage>(hielt)</stage> Mamme, wann di diss wüescht, wie's dim Lücien ge- macht würd. — Grosser Gott, dü gehsch hart mit mir um. — Adje Stubb un alles was do steht — zuem letschte Mol sieh ich ejch viellicht jetztert. — Min Gebattbüechel will i mitnamme un dr Rosekranz <stage>(nimmt’s vum Etagère)</stage>. Adje Mamme, batt füer mich imm Himmel drowe, dass sich witter alles zuem Guete wandt — — Do in dam Lahnstüehl bisch als gsasse un als kläiner Bue bin i als alle Nacht vorne an dich geknejt un no hesch als diss Gebattel mit mr gebatt vun de Schutzängel. <stage>(Isch an de Lehnstüehl geknejt un batt:)</stage> Jetz will ich schlafen gehn, 16 Engel mit mir gehn, 2 zu Kopf, 2 zu Fuss, 2 auf der rechten Seit, 2 auf der linken Seit, 2 sollen mich decken, 2 sollen mich wecken, 2 sollen mich speisen, 2 sollen mit mir in den Himmel reisen. Amen. <stage>(Lejt de Kopf in de Lehnstuehl un hielt ganz herz- erweichend)</stage> Mamme, mini Mamme, dü sottsch noch läwe! (bliet am Lehnstuehl leje, de Kopf uf de Ärm — ’s Bild vun de Mamme wurd uf einmol hell beleicht. — Mr höert vun Maidel- oder Kinderstimme diss Lied singe mit Harmonium- begleitung: „Ist dir auch Unglück beschieden, Gott verlässt dich nicht, Einer Mutter Liebe Ist wie ein ewiges Licht. Wie die Sonnenwärme Weckt die Erde zur Pracht, Führt dich die Mutterliebe Zurück durch Unglück und Nacht.“ <stage>(Von vorn wiederholt bis zue: „Ist wie ein ewiges Licht.“)</stage> <stage>(Melodie: „C’est le mois de Marie.)</stage></p>
+          <pb n= '42' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(luejt verstünt in d’Höeh — bliet ganz still  stehn, bis ’s Lied verklunge isch, no steht-r uf, hebt d’Händ geje-n-em Bild un saat freidi)</stage>
+          <p>Mamme — e Zäiche vun Dir?! Dü düesch mich bschüetze — Jetz geh ich garn, dann dü bisch bie mir. — Adje Mamme ! <stage> RIDEAU.</stage></p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> Viertes Bild. </head>
+        <stage> Scène:(Wirtschaft wie im 2. Bild. Uf dr Sitt steht de Danne- bæum geziert mit farwiche Papierkette un e paar Lichtle. Doni steht am Dannebæum un steckt d’Lichtle dran. François packt de Kuffer. Mr hart wittlos schiesse.)</stage>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>A — diss kaiwe Lichtel will gar nitt grad stehn. — — <stage>(betracht de Baum)</stage> Po — as geht noch mit-em, wänn äu kenn Zuckerstückle dran sinn.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(kummt v. 1.)</stage>
+          <p>Do Francois hawi e Stüeckel Ge- räucherts un e bissel Butter.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>O jeh Vater — ich wäis-es jo boll nim ning ze bringe un de Kuffer isch doch nitt so kläin. —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Nimm’s numme mit, dü bisch froh drumm, dann bie de Preisse wursch wenni genuej bekumme.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ju, sie hann jo nix meh wie Marmelade un Füss- lappesupp ze asse un welle awer als noch siege, ju si sieche, ju, ju!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(verzwifelt)</stage>
+          <p>Ich mäin grad, ich müess Drack frasse — jetz isch’s drej Johr un e halb’s Kriej un noch kenn Ang ze sahne — jetz muess ich äu noch los — ich hab mich lang genuej kenne drucke, jetz hann sie mich doch „k. v.“ gemacht. Siehsch Vater, diss isch mirs erigscht, dar preissisch Drill, diss an- schnäuze von dene Unteroffizier „Du Hammel, du Rindvieh, soll ich dir Beine machen, du Franzosen- kopf.“ — Na, wann i do dran dank — luej Vater — ich geh so ungern furt, as isch mir alles verläid, ich möecht liewer starwe.</p>
+          <pb n= '44' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Alle, Bue, Kopf hoch, muesch nitt so verzwiefelt sinn, ass kann nimi lang gehn — un hesch doch denne Troscht, dü brüchsch als Elsasser nitt an d’Wescht- front.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Numme nitt an d’Weschtfront — sunsch — — ?!</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Mäinsch muesch noch geje de Lücien stehn — dann dar esch allewaj derbie.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Babbel mir nitt vun dam Dings. Züendt jetz d’Lichtle an, ass mr wisse, ass Wihnachte isch, dann schunsch wais mers ball nimi, diss isch jetz d’viert im Kriej un jedi Wihnachte isch’s elander kumme, d’Fräu verlore — einer vun de Buwe — — jetz hole se mr denne äu noch, do möecht mr nüss, wo kenn Loch isch. <stage>(a. 1., Doni geht mit ab.)</stage></p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(ellain)</stage>
+          <p>Jetz sins schun üewer vier Johr hare, ass ich diss Gald genumme hab, un ich muess immer noch dran danke, ich hatt’s doch nitt selle moche. Guet, ass dr rot garde-chasse glich anfangs Kriej furt isch kumme, no bin i äu nim mit-em zamme, dann ar isch doch viel d’ Schuld dran gewann. As isch doch e Schand — was ich gemacht hab — de Brueder in’s Unglück ze bringe, ich hab ne io nitt liede kenne, awer diss hatt ich doch nitt selle mache. Ich will’s gläuwi im Vater gstehn, jetz glich, no kann i doch mit-em ruhjiche Gewisse furt gehn — — awer ich hab nitt ’s Harz füers ze gstehn — — oder -— ich schrieb's-em im e Brief von driewe üss.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(kummt d, d. M.)</stage>
+          <p>Guten Abend Frangsoa — na, wie geht’s, wie steht’s? — Ach so, Sie müssen ja nun auch einrücken.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(ganz kurz)</stage>
+          <p>Sie welle zuem Vater? Ich will ne hole. <stage>(f.s. Dü hesch mr grand noch gfahlt. a. 1.)</stage></p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Der scheint sich nicht sehr zu freuen, für’s Vaterland kämpfen zu dürfen — man lernt diese Leute jetzt erst kennen.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(kummt v. 1.)</stage>
+          <p>Guete-n-Owe, Harr Poschtmäisch- ter — was isch Ihr Begahr?</p>
+          <pb n= '45' />
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(schmeichelt)</stage>
+          <p>Ein Glas Bier, bitte! Na, ich äh — möchte Sie fragen, ob sie nicht ein paar Eier, ein bischen Mehl, Butter oder Speck übrig hätten, damit meine Familie doch auch weiss, dass Weihnachten ist, ich zahle ja jeden Preis, bedenken Sie nur, nun schon 3 Wochen haben wir kein Lot Fett mehr im Hause. Meine Frau kocht ja auch ohne Fett ganz tadellos, aber über die Festtage möchte sie mal was backen und ich habe ein Karnickel geschlachtet von sage und schreibe 4 Pfund Fleisch, nur mit Kartoffel- schalen grossgezogen. <stage>(klopft sich uf de Lieb.)</stage> Ja, — da haben wir wieder 8 Tage Fleisch zu füttern!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Do läwe Sie nowel, Harr Poschtmäischter. Mir Büre hann boll gar nix meh ze-n-asse — alles muen mr abliefere. Die Wuch hann se mr boll alli Frucht gholt, un jetz muess i äu wieder meh Milich liefere. Ich kann ne mit-em beschte Wille nix gänn.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Ja, da ist halt nischt ze machen, da heisst’s halt eben „Aushalten und durchhalten“ bis zum endgül- tigen Siege, und siegen müssen wir!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(d. d. M)</stage>
+          <p>Bonsoir messieurs, <stage>(sieht Pimpe)</stage> Ich hab welle säue „Guete-n-Owe biesamme“ <stage>(sitzt an de Disch, ar hett Packle bie sich, wie ar uf d’ Bank lajt)</stage> E halb Schöeppele Win!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Na, guten Abend, mein lieber Herr Saufinger <stage>(deutsch aussprechend)</stage>, das französisch sprechen müssen Sie jetzt aber unterlassen, es ist schwer ver- boten.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p><stage>(kummt erin un zünd’t de Dannebaum an)</stage>.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(murrt)</stage>
+          <p>Ich will gar nitt Ihr Liewer sinn, Harr Pimpe, un ob Sie mine Name uf ditsch oder fran- zöesch usspreche, diss isch mir ça m’est égal, oder Wurscht! Do im Harze blie i doch was i bin — voilà tout!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Mensch, Sie sprechen ja schon wieder franzö- sisch, geben Sie acht, ich lasse Sie noch abführen.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Was — säue Sie do, abführe? Für was ab- führe? Ich hab Stuhlgang — nix füer unguet — e Pelzkapp isch kenn Strohhuet — Gsündhäit!</p>
+          <pb n= '46' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Jo, Harr Poschtmäischter, ar mäint’s nitt eso böes. Sinni Eltere sinn beidi Franzose gewann, un diss labt in dem Alte noch so wittersch — ar macht gare sinni Gschpassle. Derf i ne e guet’s Schnäpsel anbiete, Harr Poschmäischter, e gue’ts Kirsche- wässerle haw i do, salbschtgebrannter!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Meinetwegen — aber was Sie da sagen, von wegen gutem Schnaps, den gibt’s hier gar nicht. Guten Schnaps, den trinken Sie nur in meiner Heimat, in Pommern, den echten Kornschnaps. <stage>(Kuenz hett-em e Kirsch ingschenkt — ar drinkts uf eine Schluck nab)</stage> Na, dann keine Feindschaft nich. — Wir wollen gute Freunde bleiben. — Prosit, Sie oller Franzose! <stage>(Kuenz schenkt-em glich widder in.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(f.s.)</stage>
+          <p>Geh zuem Deifel! <stage>(stosst an)</stage> Gsündheit!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Was haben Sie denn da in den Paketen schönes eingekauft?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Do in dene Packle sinn alles Sache füer d’haim in d’ Menage.</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <p>Wie, was, Menage? Ja haben Sie zu Hause denn eine Menagerie?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(üzt)</stage>
+          <p>Ja, ja, ich laigs nitt, ich hab d’häim e Me- nagerie, ’s fahlt mr nurre noch e Aff!</p>
+        </sp>
+        <sp who="#pimpe">
+          <speaker>Pimpe:</speaker>
+          <stage>(wüeti)</stage>
+          <p>Alter Grobian! <stage>(geht ab)</stage> Mahlzeit!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ihr sinn doch e-n-alter Farceur, denne hann-r getroffe, <stage>(mr höert wittlos schiesse)</stage> un schiesse tüets widder! Sauv.: Ich bekumm als grad e Harzwuet, wann i ne numme sieh — — dene! — — Die Stund wird doch äu emol schläue!</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>E Mann:</speaker>
+          <stage>(kummt d. d. M. mit’eme Velo un Rucksack)</stage>
+          <p>Guete-n-Owe de Herrschafte! — E Bächerle Win, wänn’s beliebt!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(bringts-em)</stage>
+          <p>Voilà, äu noch so spot unter- wäjs?</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Jo, es isch e Eland, zitter am 4 bin ich jetz un- terwäjs füer ebs Assbar’s zamme ze bringe.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Aha, äu so e Hamschterer!</p>
+          <pb n= '47' />
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Sie wäre exküsiere, liewer Mann, nix ze Hamsch- terer. Ich wohn in de Stadt, minere Dochter ihr Mann isch gfalle, 5 Trawante hett se au. „Elis,“ haw-i gsaat, es heisst nämlich Elis — „Elis, gib dini Woh- nung uf, kommsch zu mir, d’ Mamme sell koche un dü geh’sch schaffe. Jetz sinn mr 8 Persone bienand un hann nix ze naue, d’ Brotkart schun füer d’ nächscht Wuch ufgesse un nitt ain Grumbeer im Keller — Wihnachts-Owe. Hitt Owe kummt’s Chrischtkindel — ja — ja do maine se au noch, mr geht hamschtere. Liewer Mann, mich triebt d’ Not un dr Hunger <stage>(hielt)</stage>, ich will mich nitt versündige, awer dr Schinder sell die ganz Bradik hole.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Dado kann mr äu säue „Glücklich ist, wer alles frisst, was einmal nicht zu ändern ist“.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Doni, lang emol e Köerwel Grumbeere e Pfün- del Butter un e Laiwel Brot, awer e bissel lesst! <stage>(Doni a. 1.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ich geh schnall haime, ich hab e Haitzel im Ver- steckelte gemarikselt un hol e Stüeckel üss-em Salz. Ihr düre aine — in d’ Seel nin — c’est vrai! <stage>(ab d. d. M.)</stage></p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Es gitt doch noch gueti Litt uf dr Welt. Wann halt d’Not am gröeschte isch — — jetz bin i jo ganz glückli, do wurd’s Elis e Pläsier hann, ich geh jetz noch emol so gern haim.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(kummt mit dem Saches)</stage>
+          <p>Do, Maischter, haw-i diss Dings.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Do Mann, packe in — Doni hilf-em e weng. <stage>(Sie packe’s in, Grumbeere un ’s Brot in de Rucksack, de Butter in de Fracksack.)</stage></p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Jöö — diss gitt e ganzer Rucksack voll Grum- beere, do hann die Trawante Massel — — Wissbrot! uhh diss schmeckt! — Butter — do schlaat d’ Mamme e Burzelbaam vor Pläsir, do kann ich inne nit genuej Merci saue, Herr Wirt. Ich will numme im Elis sinn Gsicht sähne, wenn i haime kumm.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(schnüft, d. d. M.)</stage>
+          <p>Ich bin geloffe ich kann ball nimi schnüfe. Do Mann hann er e Stückel üss-em Salz, füer ass-er äu Wihnachte hann mit-ire Familie.</p>
+          <pb n= '48' />
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Oh, was gueti Mensche — merci, vielmols merci, ihr gueti Litt — do hann-r e guets Werik gemacht, mini Kinder muen au füer Ejch bete in dr Christmette. Un — was bin i schuldi, ihr Litt?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>d’ Grumbeere un’s Brot koscht nix, füer de Butter gann er mr 5 Mark.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>’s Fläisch vun mir schank ich Ejch. mache numme ass Ihr guet haime kumme mit.</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Awer, awer, so gueti Litt — ich kann’s nitt genuj saue, wie glücklich ass ihr mich mache, do Herr Wirt isch Geld, bringe se dem Mann do, wie isch denn ihr Name?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Sauvinger.</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Im Name noch sinn sie nit vun driwe, bringe sie im Herr Sauvinger e Schoppe Win.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Nix ze mache, ass isch nitt so gemeint, parole d'honneur!</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Jetz mache mr d’ Pläsir, sie sinn jo au so guet geje mich.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Na ja, Sauvinger, jetz drinke nr eins, wenn-ers nitt andersch duet <stage>(bringt Win un gitt dem Mann ’s Müenz erüss)</stage> Voilà, do isch’s Müenz.</p>
+        </sp>
+        <sp who="#e_mann_uss_der_stadt">
+          <speaker>Mann:</speaker>
+          <p>Jetz will ich mich awer uf d’ Socke mache, denn ich brenn ganz vor Verlange nach heime ze kumme un die guete Sache in minere Famili zu bringe — die Pläsir — naan, die Pläsir! Helfe mr doch e bissel am Rucksack <stage>(alli helfe)</stage> ho hopp-la! — — Halte — noch emol — Ho hopp-la, jetz hett-ses. Der hett e Gewicht — do luejt-s Elis. Guet Nacht bienander un vergnüjte Fierdäj! <stage>(a. d. d. M.)</stage></p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Dar hett e Schleppet — er isch belade wie e Essel.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(kummt, 4 Kinder, à Buewe un 1 Maidel; vun rächts rin, Zipfel kummt au)</stage>
+          <p>Kumme erin, ihr King, jetz bekummener ’s Chrischkindel — Guete-n-Owe biesamme. Do bin i un do bring ich die King von den membre, wie gfalle sinn, hesch alles gericht, Kuenz, für d’ Bschärung?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Alle, so isch’s racht, ihr King. Kumme zuem Dannebaum, un no welle mr sahne, was-es Chrisch- kindel gebrocht hett füer ejch. Doni, hol diss Dings erüss, wie gericht isch.</p>
+          <pb n= '49' />
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — do hare, ihr King, in äini Ziel, un schöen Guete-n-Owe gsait. <stage>(Kinder saue’s)</stage> So, un jetz wurd gsunge „Stille Nacht, heilige Nacht“, awer natt, sunsch hohoho räuchts.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>So, jetz zäje emol, ob-r schöen singe kenne. Ihr sahn dr Dannebaum brannt schun. <stage>(d Kinder singe „Stille Nacht, heilige Nacht“; alli namme d’Kapp erab, es herrscht e andachtsvolli Stimmung. Während-em Singe kummt dr François un Doni mit- em Korb mit Äpfel, Nüsse un Wecke un e Päckel in wiss Papier. Wenn si ferti sinn mit singe, ver- deilt Räppel die Sache an d’ Kinder, sie sitze no hinte ane un fange an ze esse, die andere sitze alli an de Disch vorne zamme. — Kuenz schenkt Win in, es herrscht no e luschtichi Stimmung.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Zäj Zipfel, setz d’ Kapp widder uf, mr wurd jo ganz verbland in de Äue vun dim Bluttkopf! <stage>(Ge- lächter.)</stage></p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — grad exprass loss i si jetz hunte.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Mr maint, as isch de „Kahle Wase“ bi Gäh- willer. <stage>(Grosses Gelächter, d’ Kinder lache am lütschte.)</stage></p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <stage>(zu de Kinder)</stage>
+          <p>Welle-nr nitt lache — Ihr hann nitt ze horiche, was do gered’t wurd, ihr hann ze — hohohoh — asse.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>. Gschmeckt’s ejch, ihr King, <stage>(d’ Kinder saue: Ja, Harr Kuenz)</stage> So isch’s racht, numme fescht nin- käuje.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho -— dü Langer: was hesch dann dü angstellt, ass dr Schandarm zue ejch häime kumme isch?</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Nandel:</speaker>
+          <p>Äi, dr Harr Poschtmäischter hett mi gfröjt, worum ass mir kenn Fahne erüsshänke — wenn ein Sieg berichtet wird? — Äi d' Mueter hett ’s Blöje schun dran genaijt. <stage>(Gelächter)</stage> No isch am andere Döj schun dr Schandarm kumme un hett dr Fahne gsuecht — awer ich bin so gschied ge- wann un hab ne glich versteckelt — in d’Fueder- kripf un dr Ochs losst nieme fremds in de Stall — <stage>(spöttisch)</stage> Ar hett kenne zottle ohne Fahne <stage>(Ge- lächter un Bravo)</stage>.</p>
+          <pb n= '50' />
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Bravo Männel — kumm hare un trink äins — So Burscht müen mr hann im Elsass. <stage>(Nandel trinkt vum Sauv.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Was isch Finnele — dü kannsch doch so schöni Gedichtle ufsaue. Zäj — kannsch kenns vum Crisch- kindel? Er höer’s zu gare am e so e Owe wie hitt.</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Finnele:</speaker>
+          <p>Doch, Harr Kuenz, d' Soeur Marie hett mich e schönes gelehrt, sell-is ufsäue?</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Awer sicher, Mäidel!</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho, do kumm ganz vieri, ass mrs guet höert. Finnele: <stage>(steht vor un saat e „Wihnachtsgedicht“ uf. Wenn’s ferti isch, ruefe alli „Bravo! — diss isch natt gewann usw.)</stage></p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Diss isch e schöen Liedel gewann, ass hett awer so tief gsunge. <stage>(zuem Kleinschte)</stage> Zäj du Kläi- ner, wie häisch dann dü?</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Sebastian:</speaker>
+          <p>Ich häiss Sebastian, d’ Mueter säit mr awer numme „Basche“.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Wie häiss-r?</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(brüele)</stage>
+          <p>Sebastian!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Hhm — diss isch e schöener Name — zäj Se- bastian! höer emol, kannsch dü äu e Wihnachtsliedel singe?</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Sebastian:</speaker>
+          <stage>(lütt)</stage>
+          <p>Ja, ich kann schun singe, min-r Brue- der hett mich ebs natt’s gelehrt. <stage>(singt)</stage> Oooh Sü- sanna, wie ist das Leben doch so schön! <stage>(Grosses Gelächter, üsser Räppel.)</stage></p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Was isch dann do ze lache, diss isch doch e fromm’s Lied: „Hosanna in der Höh“, diss isch natt vun dir, Kläiner, do hesch 5 Mk. füer’s Chrischtkindel vun mir. <stage>(Lachen)</stage> Lache numme, ihr gottlosi Mansche ass-r sinn — eso Lieder gfalle mir besser, ass wie die Lumpeliedle — hesch dinn Sach guet ge- macht, Männel.</p>
+          <pb n= '51' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Noch e Fröj, ihr King — hann-r äu Kohle be- kumme vorgescht biem Harr Maire? De Gemäinroot hett denne Familie 2 Centner Kohle zugsproche.</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Jerri:</speaker>
+          <p>Eeex — mir hatte kenni gebrücht, mir hann noch Kohle genuej!</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Oho — wieso?</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — dü wursch se doch am And nitt gstohle hann?</p>
+        </sp>
+        <sp who="#finnele_sebastian_jerri_nandel">
+          <speaker>Jerri:</speaker>
+          <p>Näin, näin, Polizejgard, mr bekumme se noch in de Hoft nin gschmisse. <stage>(verzählt)</stage> Hinte an unserem Hüss fahrt doch dr Isebahn durich. Wann als no e Zugg durichfahrt, ze stell ich mich in de Hoft an d’Latte un büel als üewer de Maschinefüehrer un mach-em e langi Nas — vor Wuet schmisst er als mit Kohlestüecker noch mer — ich lach mr als de Buckel voll un hebb e Kerwel voll Kohle uf. <stage>(Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>So ebs isch mr in mim Lawe noch nitt vor- kumme.</p>
+        </sp>
+        <sp who="#zipfel">
+          <speaker>Zipfel:</speaker>
+          <p>Hohoho — jetz awer ufgepackt, ihr Trawante un häime — gann im Harr Kuenz noch d’ Hand un säue schöen „Guet Nacht“ — no häime zue dr Mueter. <stage>(d’ Kinder gänn im Kuenz d’ Hand, saue „Guet Nacht biesamme“ un gehn no mit-em Zipfel r. a.)</stage></p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Ich blie noch do biem Sässelmacher, mr trinke noch äins mit-nand bis zitt isch füer in d’ Mette. Kumme ihr äu un sitze dezü — lange Nusse un Brot hare, ass mr ebs ze triewe hann.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>C’est-ça — mir asse se un dti kannsch se uf- knacke.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Awer sicher, welle mr äins packe — e Schoppe Win! Alli sitze zamme an de Disch, François bringt d'Nüsse, Brot un Win — stellt sich no an’s Comptoir.)</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(schänkt in)</stage>
+          <p>Gsündhäit — François, wann muesch dü dann furt zue de Prejse.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Mit dem erschte morje früej.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Diss gläuwi, diss macht äim jo Müehj. Ich mäin mit wellem Zugg?</p>
+          <pb n= '52' />
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Morje früehj mit-em Erschte am sechse.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Main-nr was Nej’s? Ich hab’s ganz vergasse füer ze säue, ich habs dene-n-Owe erfahre, wie ich uf dr Mairie bin gewann — dr Rot garde-chasse isch gfalle.</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Dr Rot garde-chasse? Äu gfalle — ja — ja! <stage>(alli sitze e Moment still.)</stage></p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(f. s.)</stage>
+          <p>Diss isch e Strof Gottes — wie wurd’s mir gehn?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Was — dr Kohler — dr nient üss ünserem Dorf — guet ass-r noch leddi isch gewann.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Es häisst wohl, mr sell Dote ruehje lonn, awer mit-em Rote garde-chasse bin i nie äinich gewann. — Kuenz, do in dare Galdangeläjehäit zallemols — do haw ich ne starick im Verdacht, un ich gläub nitt lätz ze gehn.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p><stage>(ufgerejt)</stage> Sässelmacher, do sinn-r lätz — dr garde-chasse isch’s nitt gewänn.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Diss dank i mir, ass dü nix uf ne kumme losch, als diner Libskamerad. — Awer äins sääi dr, un diss loss i mr nitt abstritte, dr Lücien isch’s äu nitt gewann! Ar esch zalli Nacht, ebber furt isch, bi mir gewann un hett mr adje gsäit. — Ich hab ne alles verzehle mache, wie’s gange isch — no haw i zuem gsäit: „Lücien, ich gläub dir — vertröj uf Gott, ass wurd widder alles guet. — No isch’r furt in d’Legion. — —</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(peinlich berührt)</stage>
+          <p>Jetz noch ball 4 Johr kummt mr mit so Sache hinte vieri — worum hett mr nitt schun lang diss gsäit?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ha, c’est trop fort — dü bisch guet, dü hesch jo nix welle höere, wann-mr vum Lücien hett welle redde — un ass-rs wisse, ich hab immer Nochrichte vum bekumme — ar labt noch — ar isch im e Legion- Rejemant un leit an dr Weschtfront.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Sicher — labt-r noch? Wie hare wisse nr diss?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Ja, dr alt Sauvinger erfahrt alles — ich bekumm als Brief üewer d’Schwiz gschmuggelt — awer diss gitt jo Ejch nix an.</p>
+          <pb n= '53' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(ganz erregt)</stage>
+          <p>Höere mich an, Ihr alli sinn Zeje — wann i mini Bue, dr Lücien unschuldicher Wies zuem Hüss nüsskejt hab, ze sell ünser Harrgott danne wie’s Gald genumme het, sichtbar strofe, ass’r sinn Läwe lang gezäicht isch!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(schrejt)</stage>
+          <p>Vater, seje nitt so hart — <stage>(f. s.)</stage> Gott im Himmel, diss gilt jo mir! <stage>(sinkt uf e Stuehl un hielt)</stage>.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(geht zuem)</stage>
+          <p>François — Bue, sej doch ver- standi — was hesch dann uf äinmol jetz?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(fasst sich, steht uf)</stage>
+          <p>Aaah — ass isch mr so schwar worre um’s Harz — dr garde-chasse gfalle — ich morje furt. — Vater, wursch sahne, ich kumm nimmi häime.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ju ju, allewäj — setz dr kenn so Plän in de Kopf.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(wehmüeti)</stage>
+          <p>Vater — wann i je nimmi kumme sott un siehsch de Lücien noch emol, ze duesch-em viel Grüess säue vun mir — gall Vater!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Höer Bue, dü bisch arrich ufgerejt — lej dü in’s Bett — ich b’schliess alles — Morje früehj bisch widder ollart — geh, lej — ’s isch besser.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ja, Vater, ich mach’s eso — <stage>(geht an de Disch)</stage> Adie Sauvinger, halte-n-ejch guet, bis d’ Franzose kumme, galle?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Adje, François: Dü bisch nimi lang driewe, as isch Mathäüs am Letschte mit-ne, un setz dr kenn so Plän in dr Latätel, c’est vrai — dü stirbsch doch nitt, vingt-cinq Pfffedeckel, schäm di!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(zuem Räppel)</stage>
+          <p>Adje Räppel — <stage>(lütt)</stage> mache, ass-r jetz ball hirote!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Hirote? Wie d’ Franzose kumme — no nim i e Barisere — un wann de als schriebsch, ze schriebsch mr als äu e Gruess ning, as koscht jo nix, as geht jo mit dr Faldposcht.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Awer sicher. — Ja — guet Nacht biesamme.</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p>Guet Nacht, François — schlof guet zuem letschte Mol.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Hoffentlich kann i schlofe. <stage>(f. s.)</stage> Ich mues nüss, ich kann kenn Litt meh sahne. <stage>(a. 1.)</stage>.</p>
+          <pb n= '54' />
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <p> <stage>(lüeje-nem trüri noch — sitze e Will in Gedanke versunke.)</stage> </p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Mille tonnères, ich gläub, ihr welle inschlofe — Gsündhäit —à votre santé! — Kuenz, bring emol 4 Kaffee mit Schnick — diss isch doch kenn Läwe, mr hann doch kenn Stillmess — do bin ich e-n-anderer Burscht gewann anno 70 — do hatte Ihr mich sotte sahne am 4. Äugscht — —</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli:</speaker>
+          <stage>(üsser Räppel)</stage>
+          <p>Sasselmacher, sej still, fang nitt an mit dare Litanej!</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Was willr? E Liter Nejer? Ich drink kenn Nejer.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>O dü däuwi Schall. — Awer will mr so natt bie- nander sinn, ze singe mr e franzöesch’s Liedel. — — Doni, b’schliess Düer, es kummt doch nieme meh. — Kuenz, hopp, die 4 Kaffee mit Schnick — so jetz singe-mr’s „Montagnard.“ Montagnes Pyrénées — Vous êtes mes amours Cabanes fortunées vous me plairez toujours — Rien n’est si beau que ma patrie — Rien ne plait tant à mon amie. — O montagnards, o montagnards — Chantez en choeur — De mon pays, de mon pays — La paix et le bonheur. — Ah — Ah Halte là — Halte là — Les montagnards, les montagnards — Halte là, Halte 1à — Les montagnards sont là. <stage>(Biem letschta Satz im Lied klopft’s fescht an d' Mitteldüer.)</stage> Räppel: <stage>(rueft)</stage> Entrez! <stage>(d’ Andere mache „Pscht“ un sinn ganz stille.)</stage> E Stimm; Hier wird ja französisch gesungen. — Ich werde die Sache schon zur Anzeige bringen.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Jetz hann mr d’ Söjerej! ’s isch dr Schandarm!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(ganz üsser sich — macht e Füscht geje de Düer)</stage>
+          <p>Nundedjes Schwowe! — Kenn Angscht, ich nimm alles uf mich, un wann doch alles verrecke sell, no mües äu erüss <stage>(schlaat sich uf d’ Bruscht)</stage> was mi schun lang do hinne druckt: <stage>(rueft)</stage> Vive la France! <stage>RIDEAU.</stage></p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> Fünftes Bild. </head>
+        <stage> Scène:  Dr Hoft wie im 1. Bild. S’Hüss isch geziert mit Krænz un Fæhne. Uf dr Sitt r. sitze 6 Kinder <stage>(3 Buewe un 3 Maidle)</stage> un mache Kranz üss Danneries, 1. vorne steht e Tisch, wo au Fæhne drowe leje, Kuenz nauelt am e Fahne. Wenn dr Vor- hang ufgeht singe d’Kinder e franzesch’s Liedel. In dem Bild isch alles im Sunndaasstaat.</stage>
+        <sp who="#e_gymnastique_e_claironsektion_kinder_un_litt">
+          <speaker>Kinder:</speaker>
+          <stage>(singe)</stage>
+          <p>,,Il était une bergère, Et ron ron ron, petit patapon, Il était une bergère, Qui gardait ses moutons. Ron, ron, Qui gardait ses moutons.“ <stage>(Es kann awer au e-n-anders franzöesch’s Liedel gsunge wäre.)</stage></p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(kummt veriefert v. r.)</stage>
+          <p>Hann’rs ball ihr Knäckes? Pe Ja, noch d’ Blueme dran mache, no sinn mr ferti.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(zuem Kuenz)</stage>
+          <p>Awer schöen geziert hann-mr, üewerhäubt ’s ganze Dorf isch äiner Dannewald, un nix wie Fahne un Fahne — un alles ohne Bezugs- schäin — do isch meh wie äin Linnduech druff gange. D’ Krämerslehn hett nitt genuej blöji Farb kenne bsorje.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>D’ Litt sinn alli ganz üss-em Hiesel vor Fräide. As isch äu so, wann mr’s bedankt, noch 48 Johr widder franzöesch — mr kann’s fascht nitt gläuwe. Do Doni, dene Fahne hänksch ganz owe zuem Döjloch nüss, un unte dran die Dafel „Bienvenue“.</p>
+          <pb n= '56' />
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(nimmt’s)</stage>
+          <p>Widder d’ Läiter nuf un äu noch so hoch, ich brich noch ’s Gnick. <stage>(Im Abgehen)</stage> In Gottsname, ’s isch füer d’ Franzose!</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <stage>(d. d. M., pfifft e Claironmarsch, salütiert)</stage>
+          <p>Salü, Monsieur Kuenz — e Quätsch, s’il vous plaît — Awer hä, was säisch jetz? Jetz kumme se awer, c'est la pure vérité. Ich kennt mi vor Fräid uf de Kopf stelle un im Himmel mit de Füess danke.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Worum in grande tenu, Sauvinger? Wie welle- nr anne?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Diss isch alles füer de Ampfang vun de Soldats français, in ere Stund selle schun d’erschte Patrouille ankumme, haw-i erfahre, Legionär selle’s sinn, ’s mäischt Elsässer. Ich nimm 2 Mann in’s Quartier, d’ Fräu kocht schun e chambon ab, dar muess druff gehn, numme de Win müen se liefere, awer „vin rouge" muess-es sinn.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Denne bringe se schun — awer wie witt se dann ane läje, hesch Platz?</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Places? Oh places en masse — noch e Quätsch. Ich un mini Fräu leje uf de Bode näwe de Härd in d’ Küche — mr ranschiere uns schun — ass müen mr Franzose ins Hüs!</p>
+        </sp>
+        <sp who="#e_gymnastique_e_claironsektion_kinder_un_litt">
+          <speaker>Kinder:</speaker>
+          <p>Mr welle äu e Franzos — alli welle Franzose!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(lacht)</stage>
+          <p>Diss sell nix sinn. D’ Franzose kenne sich nitt beklöje üewer d’ Ampfang im Elsass, un so sells äu sinn.</p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Zall will i mäine! Vingt-cinq Pfiffedeckel, ich steh als do häre, ’s isch Zitt, ich müess gehn — salü bien — schriebsch di Quätsch uf, au revoir! <stage>(a. d. d. M.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Au revoir, Sauvinger. <stage>(siefzt)</stage> Wie luschti ass-r isch, der Alt.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(luschti)</stage>
+          <p>Ar hangt, Mäischter, ar hangt, ass isch guet erum gange, ich bin nitt ra kejt, awer Ängschte haw-i üssgstane. — Mäischter, Ihr sinn gar nitt luschti hitt. — Ihr lueje so — wie selli säue?</p>
+          <pb n= '57' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>As isch mr so schwar um’s Harz — vum Fran- çois haw-i schun lang kenn Nochricht. Ich wäis nitt — ich bin so unruehj hitt.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>War wäis — viellicht erfahre-ne ebs Nej’s die Däj.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(kummt ganz verdaddert erin)</stage>
+          <p>A Pfaffermüenz!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Oho, Räppel, hesch dr de Mäuje verstücht, aass de Pfaffermüenz drinksch? <stage>(holt’s un schenkt-em in.)</stage></p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ihr mache jo e Gsicht wie e Hafe voll gschwellti Ardäpfel.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Ardäpfel? Ich hab noch genuej, ich hab se guet versteckelt ghett.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <stage>(lütt)</stage>
+          <p>Ich mäin, ob Ihr Ejch nitt fräje, ass d’ Franzose kumme.</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Näin, näin, ich fräj mi nitt.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(lütt)</stage>
+          <p>Oho — dü bisch mir noch e natter El- sässer, dü?</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <p>Nit eso — awer ich hab doch vor-em Johr do hinne versproche, ass wie d’ Franzose kumme, no due i hirote — un jetz sell i hirote — näin. <stage>(hebt de Büch)</stage>. Uuh, miner Büch! Noch e Pfaffermüenz!</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Ja, was-r versproche hann, diss müen-r äu halte, do batt kenn Fleischbrüehj. Awer sahn’r wänn-r jetz e Wiewele hatte, diss kennt Ejch jetz Tee koche un e häisser Deckel mache, un —</p>
+        </sp>
+        <sp who="#rappel">
+          <speaker>Räppel:</speaker>
+          <stage>(hebt d’ Ohre zü)</stage>
+          <p>Lonn mi mit Fridde. — Uuh! <stage>(hebt de Büch un lauft nüss d. d. M. — d’ Kinder lache-ne üss.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Well-n-ihr nitt lache, ihr Wackebumm! <stage>(lacht)</stage> Mr mues lache um ne.</p>
+        </sp>
+        <sp who="#doni">
+          <speaker>Doni:</speaker>
+          <p>Mäischter, gangte-nr emol mit nüss un date lueje, wie sich’s macht, un wie mr die Kränz noch ane- hänke, ’s isch ball kenn Platz meh. <stage>(gehn ab d. d. M. — wie se drüsse sinn springe d’ Kinder uf, hewe sich an de Händ un mache e Reije.)</stage></p>
+        </sp>
+        <sp who="#e_gymnastique_e_claironsektion_kinder_un_litt">
+          <speaker>Kinder:</speaker>
+          <stage>(singe)</stage>
+          <p>Reije, Reije, Rose, d’ Küechle sinn geblose, Pfanne, Pfanne krache, d’ Küechle sinn gebacke, Buckedi, Buckedi, Hoppsasa, Kickeriki, Bandele dran, Hesch mi gschläuje, Wart i wills de Mamme säuje.“ E Bue: Kumme mr spiele Fangedissels. Alli zamme: Ja, ja — abzehle, wer fange muess. <stage>(Einer zählt ab:)</stage> 1, 2, 3 4, 5, 6, 7, 8, 9 — Geh ins Gässel nin! In dam Gässel isch e Garte, In dam Garte isch a Bäum, Uf dam Bäum isch a Ascht, Uf dam Ascht isch a Nescht, In dam Nescht isch a Ei, In dam Ei isch e Has, Dar springt dir uf dini krümm Nas.“ <stage>(Sie spiele e Wiel Fangers, uf einmol kummt dr Kuenz erin.)</stage> Kuenz: Sapristi, sinn-r ruehj. Mer mäintja ’s isch’s „Wüete Heer“. <stage>(Sie stehn in e Eck un schäme sich.)</stage> Sinn d’ Kränz ferti,</p>
+          <pb n= '58' />
+        </sp>
+        <sp who="#e_gymnastique_e_claironsektion_kinder_un_litt">
+          <speaker>Kinder:</speaker>
+          <p>Ja, sie sinn alli zamme ferti.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Alons, nüss mit zuem Doni, ass-r se noch volls ufhängt! Sie nämme d’ Kränz un gehn im „Gänse- marsch“ nüss un singe dezü: Ains, zwäi, drei, Bicke, backe, bej, Bicke, backe Holdermues. d’ Gäns läufe barfues, Barfues gehn se, Hinterm Ofe stehn se, Hann gewichsti Schüejle an, Hinte un vorne Schnällele dran. <stage>(Wie alle drüsse sinn, isch e bissel Paus, uf einmol hört mr d’ Kinder ruefe: „E Franzos, e Franzos — vive, vive la France!)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(höert)</stage>
+          <p>Was isch dann los? <stage>(Er steht r. vorne, s’ Hofdor geht uf, dr Lücien kummt erin als franzöe- scher Lieutenant, bliet am Dor stehn.)</stage></p>
+          <pb n= '59' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(fahrt zeruck)</stage>
+          <p>Lücien — dü?! Halt! <stage>(mit starker Stimm)</stage> Kenn Schritt wittersch erin, dü wäisch min Wort: „E Dieb hett unter mim Dach kenn Platz.“ — Drum fröj ich dich bie Allem, was dir häi- lich isch — Lücien, hesch dü diss Gald genumme?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lüeien:</speaker>
+          <p>Vater — dene Frack derf’sch mr erab risse, dann als Dieb war ich nitt watt, d’ Uniform als fran- zöescher Offizier ze träue —- un biem Andanke an mini Mame — Ich hab's Gald nitt genumme!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Ich gläub dr Lücien, kumm erin un loss dich umarme.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(stürzt uf Kuenz zü)</stage>
+          <p>Vater! <stage>(umarme un ver- schmutze sich.)</stage></p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Sej willkumme un verzejh mr, ass ich dir so Läids gemacht hab in mim Jähzorn.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Nitt eso redde, Vater — ich bin dir nie böes ge- wann, un hab dir nix ze verzejhe — es hett sich alles geje mich verschwore ghett, ass isch e Prüfung Got- tes gewann. Awer mini Mame hett mich b’schüetzt, un alles hett sich zuem Guete gewand’t — — Vater, lang’s Bild vun dr Mamme.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Glich, Bue. <stage>(a. nach 1.)</stage> Näin, wie bin i glückli.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(ellein)</stage>
+          <p>Endlich noch langer Zitt widder d’häim, in dr Häimet — im Vaterhüs — ich kanns fascht gar nitt gläuwe — un doch isch’s wohr. <stage>(lueit erum un num)</stage> As isch alles noch wie vor vier Johr.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p><stage>(mit-em Bild)</stage> Do Lücien, haw ich d’Mamme.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(nimmt’s Bild, betracht’s innig)</stage>
+          <p>Mamme ! <stage>(schmutzt’s Bild)</stage>. Mamme, dr Lücien isch widder do. — Luej mi an mit dine liewe Aue — derfsch stolz sinn uf mi, als franzöescher Osfizier bin i häim kumme. <stage>(zuem Kuenz)</stage> Was haw ich durichgemacht Vater, an alle Schlachte bin ich un mini Compagnie debie gewann, mr sinn fascht lütter Elsässer gewann. Mr hann als gejüchzt, wann mr mit-em Bajonett uf de Fiend sinn, mr hann gekämpft wie d’ Löwe, ’s häise Bluet vun de Kamerade isch uns als manch- mol in’s Gsicht gspritzt, mr sinn awer nitt gewiche — mir welle ’s Elsass — oder starwe.</p>
+          <pb n= '60' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Min tapferer Lücien, wie stolz bin ich uf dich — un ich bin schuld, ass dü so viel durich hesch müen mache.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Es hett so selle sinn, Vater, un ’s isch mir liewer, ass isch so kumme, dann sunsch hatt ich züe de Preise gemüest un so haw i awer mit derfe helfe an dem grosse Wärik, ’s Elsass widder zeruck ze erowere, un ’s isch erreicht — Gott lowe Dank. Un ich bin widder d’häim, mini Mame hett mich bschützt, ass mr nix bassiert isch. Dank numme, Vater, wie’s hett ghäise, ich kumm mit de erschte Patrouille in’s Elsass, un äu noch grad in unser Tal — wie ich mit mini Legionär uf-em Jochbarri bin ankumme, un hann in’s Elsass kenne lueje, un ich hab im Tal min Häi- metsdörfel gsahn, do bin i anegeknejt, hab de Bodde gschmutzt un hab e häises Dankgebatt verricht: ’s Elsass frej, — 's Elsass franzöesch! Wie ich de Barri rab bin kumme, dis wäis i nitt, mini Legionär sinn ball nimi noch kumme, un dr erscht Bekannt, wie ich antriff, isch dr alt Vater Sau- vinger, dr Sässelmacher. — E-n-ander gsahn — in de Arm geläje un ghielt, wie kläini King isch äins ge- wann. Am Ingang vom Dorf sinn viel Litt gstange, — dr Harr Maire hett uns willkumme ghäise, un mäinsch, Vater, e Büürebriedel hett mr uf alli zwäi Backe e Schmutz gann — <stage>(lacht)</stage> Awer ich hab mich äu nitt gsümt un hab gezeit, ass e franzöescher Offezier nitt numme kämpfe — ass-r äu schmutze kann un hab-ere e Schmutz gann, e Kracher, mr hett gemäint, e Handgranat platzt. Un no als wittersch — häim hett’s mich getriewe, häim, ins Vaterhüss — — Frtançois <stage>(kummt erin, bliet am Hofdor stehn un höert zü.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Wie ich ünser Hüss gsahne hab, isch mr uf äinmol ’s Harz eso schwar worre — wie wurd mich dr Vater ufnamme? Mäint’r als noch, ass ich e Dieb bin, oder hett sich alles ufgeklärt in dare Sach un isch mini Unschuld an ’s Licht kumme? So Gedanke haw ich bekumme.</p>
+          <pb n= '61' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Sej zefridde, Bue — Dü bisch kenn Dieb, un diss isch, was mich so glüeckli macht.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Un doch möecht i gare wisse, war äjetli dr Dieb isch gewann?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Ich — ich bin’s gewann — do steht dr Dieb!</p>
+        </sp>
+        <sp who="#_beidi">
+          <speaker>Beidi:</speaker>
+          <stage>(fahre-n-erum)</stage>
+          <p>Was?! Mann, war sinn ihr?</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(wirft de Huet erab)</stage>
+          <p>Ich bin’s.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(ufgerejt)</stage>
+          <p>François — was hesch dü gsäit? Dü bisch dr Dieb gewann?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(im höechste Erstünne, no im Wüet)</stage>
+          <p>François — trieb kenn Plän mit mir — in Wohrhäit: „Bisch dü’s gewann? Ja — oder — näin?“</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <stage>(fescht)</stage>
+          <p>Ja, Vater!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Un dü hesch ’s Courage, un kummsch do rin, dü tröjsch diem Brueder unter d’ Aue ze tratte — wie de als Dieb anegstellt un züem Hüss nüss ge- triewe hesch — dü gottvergassener Mansch — nüss oder ich — ich <stage>(will e Stuehl noch-em schmisse, Lücien wirft sich dezwische un nimmt-em de Stuehl ab.)</stage></p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater — was witt de mache — witt in dim Jah- zorn de nämliche Fahler begehn ass wie bie mir? <stage>(holt François erin)</stage> Kumm François, sää wie’s gange isch, ass de zuem Dieb worre bisch — wann i dr ver- zei\jhe kann, sell’s gschahn.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(sinkt uf e Stuehl am Disch)</stage>
+          <p>Äiner Bue un- schuldi — jetz isch dr ander e Dieb — un diss kann e Brueder in sim Brueder anduen?!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Vater, ich bin schwar gstroft worre füer mini Schlachtigkeit, din Wort isch an mir in Erfüllung gange. Dü hesch gsäit: Ünser Harrgott sell denne wie’s Gald genumme hett sichtbar strofe, ass-r ge- zäicht isch füer sinn Läwe“ — Ich bin gezäicht füer min Läwe <stage>(zejt de Arm)</stage>, dar Arm isch lahm un bliet lahm, ’s isch dr racht, mit dr racht Hand haw ich ’s Gald genumme. — Vater, ich bin dr Dieb, ich hab ’s Gald genumme, ich hab's müen namme, dr Rot garde-chasse hett mr kenn Ruehj gelonn. Ich hab-m üewer 200 Mk. ze gann g’hett, wie ich verlore hab üiewerem Karte spiele, un no hett-r mr getröje, ar zäjt mich an wajenem braconniere, wie ar mich drüewer verwitscht hett. Was haw i welle mache, ’s Courage haw i nitt ghett, füer näin ze säue un no haw i ’s Starwegald üss-em Secretär genumme un din Notiz- büechel, wie dr garde-chasse gfunge hett ghett un e Visitekartel yun ere Mamsell drinne, haw i an de Platz vum Gald geläjt, ass mr gegläubt hett, dü hesch’s genumme. Wie’s no wittersch isch gange, wisse Ihr jo salwer, ich kann nitt meh säue, ass ich bin e ganz schlachter Mansch, ich hatt meh Karakter sotte hann. Awer ich hab d’ Strof drfüer un äu dr garde-chasse hett’s mit-em Dot büese müen — — — Lücien, kannsch mr verzeje? Brueder, ich hab dr viel Misère gemacht — awer ich berej’s — ich will garn alles drauje, was üewer mi verhängt wurd — wann-r mr numme verzejhe — Vater, äu dü —!</p>
+          <pb n= '62' />
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(geht uf un ab)</stage>
+          <p>Uf dich hatt ich e Hüs ge- bäuje — — Dir verzejhe? Dü bisch a Dieb! hesch de äje Brueder in’s Unglück gstüerzt — diss isch ze viel.</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Brueder, dü hesch schwar gfahlt, awer mr sinn alles Mansche, un jeder macht emol e Fahler. Dr Rot garde-chasse isch diner Verführer, dü bisch so ze säuje derzü gezwunge worre, diss Gald ze namme — dü hesch im Moment nitt bedenkt, was füer Folje ass-es dadurch gitt.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p>Zall isch wohr, so haw ich nitt gedankt ass-es wurd. Ich hab’s schwar büese muen, was haw-ich üssgstande bie de Prejse, mir Elsasser sinn gschunde worre bis uf’s Bluet, will mr uns geweigert han, an de Weschtfront ze kämpfe, awer es hett nitt lang ge- dürt, ze bin ich doch an d’ Weschtfront kumme, ich hab gebatt füer mich; „Harrgott im Himmel, loss mich nitt de ajene Brueder traffe.“ — Gelajehäit zuem Üewerläufe hett’s kenn gann, mir Elsasser sinn nie zu Patrouille verwändt worre. Bie Arras hett mich min Schicksal erreicht, e Granatsplitter hett-mr de Arm durichgschläue, drej Döj bin ich im Drummel- fier geläje, ich hab nimi gegläubt, ass ich noch emol d'Häimet derfe sähne — — Jetz bin ich d’haim, awer e Dieb hett kenn Racht in dem Hüss, ich hab kenn Häimet meh — — ze will i halt widder gehn — <stage>(hielt)</stage> Adje — —! <stage>(will gehn)</stage>.</p>
+          <pb n= '63' />
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>François: nitt hiele! <stage>(füehrt ne vor)</stage> As hett sich jo alles zuem Guete gewandt füer mich, dann war ich nitt in d’Legion, war wäiss ob ich hitt d’ Ehr hätt als franzöescher Offizier do ze stehn. <stage>(nimmt e Fahne vum Disch, feierlich)</stage> François! — Im Zäiche vun dem drapeau bleu, blanc, rouge, d’ Farwe vun Freiheit un Racht, due ich dir verzeje!</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>Franç.:</speaker>
+          <p> <stage>(nimmt de Fahne un schmutzt ne.)</stage> </p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <stage>(zuem Vater)</stage>
+          <p>Die Trikolor wie hitt vum Münschterdurm bis runter in’s Tal vum kleinscht Bürehiesel wajt un unserem Elsass Fridde un Ver- söhnung verkünde duet, sell äu in unserem Hüss de Fridde bringe — Vater, sej nitt so hart, äu dü muesch- em verzeje.</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(kämpft mit sich)</stage>
+          <p>Lücien, dü waisch nitt, was de verlangsch vun mir — ich kann nitt — ha — ich —</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Vater, mach min Glück vollkomme, erfüll-mr mine Wunsch — alle. — Alli Elsasser sinn hitt glückli un froh, no soll äu miner Brueder sich fraje derfe. <stage>(zieht de Kuenz zum François)</stage> Vater, ich bitt dich!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>François, will diner Brueder füer dich bitte duet, will ich dr verzejhe.</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>François:</speaker>
+          <stage>(ganz glückli)</stage>
+          <p>Vater — Lücien — merci, viel- mols merci!</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <stage>(steht zwische beidi, lejt ne d’Händ inenander)</stage>
+          <p>As sell widder alles vergasse sinn, seje widder wie Brüeder zue-n-der. <stage>(Mr höert Clairons un Drumm- ler.)</stage></p>
+        </sp>
+        <sp who="#_alli_drej">
+          <speaker>Alli drej:</speaker>
+          <p>Was isch denn diss?</p>
+        </sp>
+        <sp who="#vincenz_kuenz">
+          <speaker>Kuenz:</speaker>
+          <p>Kumme d’ Franzose schun?</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lücien:</speaker>
+          <p>Nitt möjli, min Rejemant kummt erscht morje frühj, ich bin numme als Patrouille vormarschiert. <stage>(d’ Clairon kumme zuem Hofdor erin, vorne her dr Sauvinger mit zwei Büremaidle mit-eme Strüss mit- ere rot-wiss-blöje Schleif dran, no Clairons un Drumm- ler, viel Litt, alli rot-wiss-blöje Rosette an, viel Buewe mit Fähnle. Sauvinger geht ganz vor, steht vor de Lücien un hält e franzöeschi Redd, Kuenz un François stehn e bissel zeruck.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauvinger:</speaker>
+          <stage>(kummediert)</stage>
+          <p>Garde à vous! A droite alignement — fixe! — — Mon cher Lucien! En ma qualité de doyen d’âge des familles Kuenz et Sauvin- ger j'ai le plaisir de venir te souhaiter la bienvenu. Reçois à cette occasion notre chaleureuse gratitude d’avoir contribué à la libération de notre cher pays. Notre famille ist fière — je puis te l’affirmer — de compter parmi ses membres un officier de cette glo- rieuse armée française qui vient de gagner dans nos coeurs d’alsaciens un nouveau titre à une reconnais- sance éternelle. Permet-moi de t'offrir en signe de notre gratitude et de notre affection ces fleurs des jardins de notre cher village. <stage>(die zwei Büremaidle üwerreiche Lücien de Strüss.)</stage></p>
+        </sp>
+        <sp who="#sauvinger">
+          <speaker>Sauv.:</speaker>
+          <p>Vive nos Liberateurs! Vive la France! <stage>(Alles ruft begeischtert mit.)</stage> Lucien isch ganz gerührt, ar kann nitt redde, gitt-em Sauvinger d’Hand un dankt-em. No gitt-er im François dr Strüss zieht de Däje erüss un rueft: Vive l’Alsace-Lorraine!</p>
+        </sp>
+        <sp who="#lucien">
+          <speaker>Lucien:</speaker>
+          <stage>(salütiert un stimmt d’ Marsaillaise an)</stage>
+          <p>Allons enfants de la patrie usw. Alles singt mit, wenn dr 1. <stage>Vers ferti isch, fallt dr RIDEAU.</stage></p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

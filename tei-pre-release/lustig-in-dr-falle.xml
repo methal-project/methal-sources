@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In dr Falle</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-123"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">In dr Falle</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_liftling" sex="M">
+            <persName>Herr ALEXIS LIFTLING</persName>
+          </person>
+          <person xml:id="herr_gigele" sex="M">
+            <persName>Herr GIGELE</persName>
+          </person>
+          <person xml:id="jumpfer_fingerhuet" sex="F">
+            <persName>Jumpfer FINGERHÜET</persName>
+          </person>
+          <person xml:id="herr_ungeduld" sex="M">
+            <persName>Herr UNGEDULD</persName>
+          </person>
+          <person xml:id="herr_fingerhuet" sex="M">
+            <persName>Herr FINGERHÜET</persName>
+          </person>
+          <person xml:id="frau_strumpf" sex="F">
+            <persName>Fraü STRUMPF</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_liftling">
+          <role>
+            <persName>Herr ALEXIS LIFTLING</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_gigele">
+          <role>
+            <persName>Herr GIGELE</persName>
+          </role>
+          <roleDesc>si Oncle</roleDesc>
+        </castItem>
+        <castItem corresp="#jumpfer_fingerhuet">
+          <role>
+            <persName>Jumpfer FINGERHÜET</persName>
+          </role>
+          <roleDesc>Modiste</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_ungeduld">
+          <role>
+            <persName>Herr UNGEDULD</persName>
+          </role>
+          <roleDesc>ihr Hochziter</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_fingerhuet">
+          <role>
+            <persName>Herr FINGERHÜET</persName>
+          </role>
+          <roleDesc>ihr Oncle</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_strumpf">
+          <role>
+            <persName>Fraü STRUMPF</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Jumpfer Fingerhüet, Herr Ungeduld.</stage>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(sitzt am Tisch un nàiht; Herr Ungeduld sitzt
+                        dernewe)</stage>
+          <p>Lose Se, Herr Ungeduld, wenn Sie jetz scho wànn dr
+                        Jaloux mache, vor ebb mr g'hirothe sin, so isch's gli
+                        ferig zwische-n-uns!</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Verzeiht Se mr, Jumpfer Fingerhüet, 's isch jo nur üs
+                        Liewe... wenn ich Se jo nitt gern hätt, so wàr ich nitt
+                        jaloux...<stage>(er steht uf)</stage> un wenn ich's bi, so isch's
+                        g'wiss kei Wunder...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Un worum denn das?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Wenn ich denk, ass Sie do newe dem Espèce Professer,
+                        newe dem Herr Liftling wohnt, urt ass nur e Thüre eüre
+                        zwei Zimmer trennt...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Oho, Herr Ungeduld!... Sie gehn e wenig z'witt!... die
+                        Thüre-n-isch jo condamniert... un mi Tisch steht jo
+                        sogar noch dervor... un züedem isch jo dr Herr <pb n="457"/>Liftling
+                        d'ganze Zit bi dere Wittfraü dunte, bi dr Fraü
+                        Strumpf...</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>'s isch möglig... awer er trifft Sie doch als a im
+                        Hüsgang... un uf dr Stege... un er lehnt Ihre-n-als
+                        Romane... 's isch e lichtsinniger Mensch, dà Herr
+                        Liftling... er hat si Name nitt g'stohle... was isch
+                        er?... 's heisst, er git franzesche Stunde... nit macht
+                        er as dumme Streich!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Er soll doch mache, was er will... was froge mir
+                        derno...</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Das isch e schlechte Nochberschaft fir Sie... 's beste
+                        wàr, mir thàte jetz emol unser Hochzit vora mache
+                        z'geh.</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Sie wisse jo wohl, ass ich erst d'letschte Wuche in mim
+                        Oncle g'schriwe ha, fir 's Jowort z'erhalte. wenn noch
+                        kei Antwort ku isch, so ka-n-ich jo nit derfir... ich
+                        ha dert grad wieder e Brief g'ristet fir ne... Se
+                        kännte ne viellicht gli geh uf d'Post trage?...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Die Rosen, sie blühen)</stage>
+            <l>Mi Oncle müess ich doch z'erst froge,</l>
+            <l>Eb ich's ka woge,</l>
+            <l>Erlaüwe müess er mir dà Schritt,</l>
+            <l>Denn sicher, sunscht hiroth ich nitt.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <lg>
+            <l>Wenn er jetz dasmol nitt will schriwe,</l>
+            <l>Soll er's lo bliwe,</l>
+            <l>Dr letschte Brief isch jetz .das hit,</l>
+            <l>Denn sicher, ich wart langer nitt!</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <lg>
+            <l>Worum denn thien Sie so pressiere?</l>
+          </lg>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <lg>
+            <l>Fir Dir z'flattiere!</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_fingerhuet #herr_ungeduld">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Mr hàn derzüe gar nitt z'viel Zit,</l>
+            <l>Denn d'Jugend, die isch als glich wit.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Meint Se denn, Jumpfer Fingerhüet, mr wànn warte, fir is
+                        gern z'ha, bis ass mr alt un rumpflig sin as wie
+                        ne-n-alte Reinette!... enfin, ich will dr Brief geh
+                        trage... awer verspricht Se mr, ass mr hirothe ohne dr
+                        Oncle, wenn er dasmol wieder nit vo si höre losst!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Eh bien... 's isch mr recht... awer ich bi sicher, ass
+                        er schribt... wer weisst, viellicht kunnt er selbst...</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld</speaker>
+          <stage>(freidig)</stage>
+          <p>Also isch's e Wort... adie, liewe Brüt... ich laüf uf
+                        d'Post, ass er glich furt kunnt!<stage>(er geht hinte-n-üse).</stage></p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(allei)</stage>
+          <p>Isch er jaloux, mi Hochziter, ich hoff awer, ass er sich
+                        wird bessere, we mr emol g'hirothe sin.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Jumpfer Fingerhüet, Herr Liftling.</stage>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(streckt dr Kopf ine)</stage>
+          <p>Isch Se-n-allei, Jumpfer Fingerhüet... derft ich Ihre
+                        viellicht e kleine Visite mache?...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Worum nitt, Herr Liftling, kämme Se nur ine!<stage>(fir sich)</stage>
+                        das isch e possiger Held, dà Liftling!... er macht mi
+                        z'lache, wenn ich ne nur alüeg.</p>
+          <pb n="459"/>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Nitt wohr, Se erlaübt mr, glich abz'sitze?... ich bi
+                        doch g'wiss ganz bleich...<stage>(er sitzt züe dr Jumpfer
+                        Fingerhüet).</stage></p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Was isch g'schàh , Herr Liftling?.. wo fehlt's
+                        Ihne?...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Ich bi in ere-n-arge Verlegeheit... un als Nochbere wott
+                        ich Se froge, eb Se mr nitt wott e kleiner Dienst
+                        leiste?...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Un was soll das fir e Dienst si, Herr Liftling?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Ich weiss nitt recht, wie-n-i's abringe soll... enfin...
+                        ich süech e Fräu... awer nur fir e Tag.. fir hit... un
+                        do ha-n-i an Sie denkt.</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(lacht)</stage>
+          <p>Das glicht Ihne jetz emol wieder!... känne Se denn nie
+                        kei Wort im Ernst rede!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch g'wiss kei G'spass... Se derf's glaüwe... awer
+                        thàt Se nur z'erst lose... Se müess wisse, ass im
+                        Frankrich e-n-àime ne lewendig G'schöpf ummelaüft, wo
+                        sich mi Oncle nennt un wo famos rich isch, während ass
+                        ich, si Neveu, hinte-n-un vorne nit ha... das isch jetz
+                        doch g'wiss nitt recht, nitt wohr?...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Jà, hat er Ihne denn noch nie nit gà, Herr Liftling?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Doch, awer wenig genüe.... er isch eso gizig..</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ah... 's isch e Gizhals?...</p>
+        </sp>
+        <pb n="460"/>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Er isch als z'erst mit mir do z'Milhüse g'wohnt...
+                        no-n-em Krieg si mr üsg'wandert ins Frankrich, wo's mir
+                        awer nitt g'falle hat... drum bin i wieder z'ruck ku
+                        züe mi'ne Kamerade z'àmme... Am Afang hat er mr derno
+                        als màngmol noch ebbes g'schickt, awer allewil
+                        seltener... un z'letscht gar nit meh.</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Se werde-n-'m z'vielmol z'Hof g'ritte si... nitt
+                        wohr?...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch viellicht möglig.... enfin, wo-n-i g'sàh ha, ass
+                        nit meh z'mache-n-isch, so ha-n-ich's anderscht
+                        agriffe... z'erst ha-n-ich 'm g'schriwe, ass mich uf
+                        eimol d'Liewe-n-apackt hat un ass ich durehüs ha miesse
+                        hirothe... uf das hi hat er mir derno endlig wieder
+                        ebbes g'schickt fir d'Eh'stir... ne zitlang nochher
+                        ha-n-ich 'm derno ne Kind azeigt, e Biewle, un später e
+                        Màidele... denn allemol hat er in Sack g'làngt... das
+                        Ding isch pràchtig gange... mine Kinder hàn mich
+                        erhalte... awer dà Morge bekumm i jetz e Depesche,
+                        wo-n-er mir drin sàit, ass er z'Milhüse dure reist, fir
+                        in d'Schwiz, un ass er profetiere will derno, fir mi
+                        Fraü un mine Kinder lehre z'kenne!...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich begrif Ihre Verlegeheit!...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(steht uf)</stage>
+          <p>Er, wo vo de Rhumetisse nimmig züer Stuwe-n-üse hat
+                        känne geh!... Versteht Se jetz, Jumpfer Fingerhüet,
+                        worum ass Sie sott mi Fraü si fir hit!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Filles de marbre)</stage>
+            <l>Fir mi Oncle do z'empfange,</l>
+            <l>Müess ich Fraü un Kinder ha,</l>
+            <l>Fir se z'sàh, hat er Verlange,</l>
+            <pb n="461"/>
+            <l>Sa sàit mr do si Depesche,</l>
+            <l>Wo soll ich das Ding ufdresche?</l>
+            <l>Ich bi jetz g'wiss iwel dra!</l>
+          </lg>
+          <lg>
+            <l>Fir mich üs dr Klemme z'ziege,</l>
+            <l>Wott Sie, Jumpfer Fingerhüet,</l>
+            <l>Mir nitt mache hit 's Vergniege,</l>
+            <l>Un wott als mi Fraü passiere,</l>
+            <l>Fir e Tag isch nit z'riskiere;</l>
+            <l>Sie wird sàh, das geht ganz güet.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_fingerhuet #herr_liftling">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Fir mi/si Oncle do z'empfange,</l>
+            <l>Müess ich/er Fraü un Kinder ha,</l>
+            <l>Fir se z'sàh hat er Verlange,</l>
+            <l>So sait mir/ihm do mi/si Depesche.</l>
+            <l>Wo soll ich/er das Ding ufdresche?</l>
+            <l>Ich bi/Er isch jetz g'wiss iwel dra?</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Das ka-n-ich nitt unternàh, Herr Liftling, gehn froge
+                        Sie liewer d'Fraü Strumpf dunte.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Das geht nitt... d'Fraü Strumpt isch scho, ne wenig
+                        z'alt... un derno, do isch's kummod... mi Zimmer isch
+                        newe-n-Ihrern... we mr sàlle Thüre-n-ufmache, so...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Das Ding schint mr eso ziemlig g'wogt...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Oh! nur am Tag... Jumpfer Fingerhüet... also isch's
+                        üsg'macht, nitt wohr?...</p>
+        </sp>
+        <pb n="462"/>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Jà, un Ihre zwei Kinder?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>O, d'Kinder, das isch mir e Kleinigkeit!... do isch jo
+                        scho eins!...<stage>(er nimmt dr Puppekopf).</stage></p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Was wànn Sie mit dem mache?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Me wickelt's i, legt's ins Bett un deckt's güet züe...
+                        me sàit 's isch krank..... s Andere isch noch bi dr
+                        Nourrice... das geht ganz güet... also zähl ich uf
+                        Se... ich gang jetz geh mi Oncle abhole an dr Gare...
+                       <stage>(er lüegt uf d'Ühre)</stage> ich kumm grad züem Tràin... adie,
+                        lieb Wiwele... vergiss mi nitt z'düze und mach derno
+                        sàlle Thüre-n-uf wo in mi Zimmer fiehrt...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich find, Se fange ne wenig z'frieih a, Herr Liftling!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch nur fir mich z'g'wohne, liewe Fraü... ich gang
+                        jetz... rischt e Sach siter<stage>(er geht hinte-n-üse un
+                        schickt ere ne Schmutz).</stage></p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(allei)</stage>
+          <p>Isch das e possiger Held... me ka-n-'m nitt widersteh...
+                        enfin, wil er uf mich zählt, so will ich emol die
+                        Thüre-n-ufmache... 's sott e-n-àime ne Schlissel si<stage>(se
+                        süecht in dr Schüblade vom Tisch)</stage> richtig... do isch er
+                       <stage>(se ruckt dr Tisch eweg un macht uf)</stage> so... un jetz will
+                        ich geh 's Kind ins Bett lege<stage>(se nimmt dr Puppekopf,
+                        geht im Herr Liftling si Zimmer un losst d'Thüre-n-uf).</stage></p>
+          <pb n="463"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Fraü Strumpf, Jumpfer Fingerhüet.</stage>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Tiens... was sieh-n-i... d'Jumpfer Fingerhüet im Herr
+                        Liftling sim Zimmer!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Ah, Sie isch's... Fraü Strumpf...<stage>(fir sich)</stage> nu jo!...
+                        die wird jetz gli Schwàtzereie mache...<stage>(lüt)</stage> 's isch
+                        fir e G'spass z'mache, Fraü Strumpf...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Ich weiss nitt, eb dr Propriétaire das lide thàt... he
+                        he...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>'s isch jo nur fir e Farce z'spiele im Oncle vom Herr
+                        Liftling... er hat em ewe g'schriwe frieiher, ass er
+                        Fraü un Kinder hat...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Das isch mr schön Dings, jà jà!...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Er kunnt ewe hit uf B'süech... un do wà mr em mache
+                        z'glaüwe...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>So so... ich verstand dr Rest... Sie will als im Herr
+                        Liftling sie Fraü passiere... das isch e süfere
+                        G'schichte... un Se geht das Ding eso i?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich ha z'erscht lang nitt welle... awer er hat mr kei
+                        Rüeh g'lo... 's isch ewe wege-n-em erwe... si Oncle
+                        isch rich...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Wenn's fir z'erwe-n-isch, so ha-n-ich nit dergege...
+                        denn dr Herr Liftling isch mr noch allewil vieresechzig <pb n="464"/>
+                        Franke schuldig, wo-n-ich ihm g'lehnt ha... wenn er
+                        denn e richer Oncle hat, so hätt er mir's nur derfe
+                        sage... ich hätt si Fraü g'macht, so güet as
+                        e-n-Andre... wenigstens hätt ich derno känne süeche mi
+                        Geld z'biku bim Alte...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Eh... 's isch noch alle Zit, Fraü Strumpf... ich halt
+                        gar nitt dra, si Fraü z'spiele...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(bim Fenster)</stage>
+          <p>Tiens... do sin se glaüb'... i sieh se vo witem dert in
+                        d'Gasse ku... dr Herr Liftling mit eme-n-Alte..</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Scho!... eh bien, Fraü Strumpf, will Se mi Platz
+                        nàh?...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Nei, nei... dr Herr Liftling wàr jo nitt preveniert...
+                        awer wenn Sie's kännte-n-arrangiere mit em, so bin ich
+                        g'ristet... Se derf mr's nur ku sage... au revoir<stage>(se
+                        laüft hinte-n-üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Jumpfer Fingerhüet, derno Herr
+                    Liftling un Herr Gigele.</stage>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(allei)</stage>
+          <p>'s isch sunderbar... 's isch mr jetz doch nitt ganz
+                        recht... ich hätt glaüb das Ding nitt sotte-n-igeh..</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(macht d'Thüre-n-uf hinte)</stage>
+          <p>Do si mr jetz aku... gang nur ine, Oncle... gang nur
+                        ine...</p>
+          <pb n="465"/>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ouf!... endlig!... ich ha g'meint, 's nimmt kei End mit
+                        dàne Stege... De hasch mr doch g'schriwe in eim vo Dine
+                        Briefe, ass De-n-im erste Stock wohnsch!...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Im erste, we me vom Himmel owe-n-awe kunnt!...<stage>(lüt)</stage> mr
+                        sin in d'Höche zoge... wege minre Fraü... se-n-isch
+                        krànklig gsi... 's isch halt e bessre Luft in dr
+                        Höche!...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>'s isch nur schad, ass me nimmig schnappe ka, we
+                        me-n-ufe kunnt!...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Dü hasch also ne güete Reis g'macht, Oncle?</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(sieht d'Jumpfer Fingerhüet)</stage>
+          <p>Wer isch denn die junge Person dert?...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch mi Fraü, Oncle, wo-n-ich Dir presentier...
+                        se-n-isch e wenig schich... kumm denn do ane, liewer
+                        Schatz!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Herr Oncle, 's freit mich, ass ich d'Ehr ha... Sie jetz
+                        do... bi dere G'legeheit...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(lislig)</stage>
+          <p>Verschnapp Di nitt... gib Achtung!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ah, das isch Di Fraü!... ich mach Dr 's Compliment ich
+                        begrif jetz, ass Dich d'Liewe-n-uf eimol packt hat...
+                        un... 's dürt noch immer, nitt wohr?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Oh... 's isch grad, as wie we mr erst siter hit
+                        g'hirothe wàre... nitt wohr, liewe Fraü?<stage>(er schmutzt
+                        se).</stage></p>
+        </sp>
+        <pb n="466"/>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(lislig züem Herr Liftling)</stage>
+          <p>Wànn Se glich ufhöre!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(lislig)</stage>
+          <p>'s isch jo nur fir mich z'verstelle.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Das isch brav... awer ich sieh eüre Kinder niene... sin
+                        se nitt do?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Aha d'Kinder,<stage>(fir sich)</stage> ich bi doch g'wiss ganz bleich!
+                       <stage>(lüt)</stage> Eins isch jetz grad krank... 's ligt dert im Bett
+                       <stage>(er zeigt in d'andere Stuwe)</stage> dr Docter hat g'sàit, me
+                        sott's jo nitt störe... un 's kleinste-n-isch noch en
+                        nourrice...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ah... 's isch eins noch en nourrice?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Jo, in Lapoutroie hinte... gàll, liewe Fraü?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Jo, liewer Mann.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Dü hasch also ne güete Reis g'macht, Oncle? wottsch Di
+                        jetz nitt e wenig setze?<stage>(er stellt em e Stüehl ane).</stage></p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ne ganz güete... un b'sunders, wil ich Dich jetz
+                        glicklig un g'hirothe find... denn ich ha-n-allewil
+                        Angst g'ha fir Dich, ass De ledig blibsch...<stage>(er sitzt
+                        mittle-n-uf d'Scene. Dr Herr Liftling steht uf einere
+                        Site un d'Jumpfer Fingerhüet uf dr anders).</stage></p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Worum denn Angst, Oncle?... Dü bisch jo o ledig bliwe.</p>
+          <pb n="467"/>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>'s isch wohr... awer wenn ich nitt g'hirothe ha, so
+                        isch's, wil mich Die nitt hat welle, wo-n-ich gern g'ha
+                        ha... se hat e-n-Anderer g'hirothe... ich ha se awer
+                        wege dem doch nie vergesse.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ma Normandie)</stage>
+            <l>Ne mol, in mine junge Johre,</l>
+            <l>Isch d'Liewe-n-o bi mir ikehrt,</l>
+            <l>Ich bi drin g'steckt bis iwer d'Ohre,</l>
+            <l>Ha nit meh g'sàh un nit meh ghört;</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_gigele">
+            <lg>
+              <l>Doch Die, wo-n-ich hätt welle ha,</l>
+              <l>Die hat e-n-Andrer liewer g'ha.</l>
+              <l>Drum ha-n-ich halt mi Zit verlore;</l>
+              <l>Denk ich als jetz noch dra,</l>
+              <l>So thüet's mir a.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_liftling #jumpfer_fingerhuet">
+            <speaker>Herr Liftling un Jumpfer Fingerhüet.</speaker>
+            <lg>
+              <l>Doch Die, wo-n-er hatt welle ha,</l>
+              <l>Die hat e-n-Andrer liewer g'ha.</l>
+              <l>Drum hat er halt si Zit verlore;</l>
+              <l>Denkt er als jetzt noch dra,</l>
+              <l>So thüet's ihm a.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Tiens, De hasch mr nie nit vo dem g'sàit...<stage>(fir sich)</stage>
+                        dà güete-n-Oncle!... ich bi froh, ass se ne nitt hat
+                        welle!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>A propos... Hasch ans Mittagesse denkt?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Mi Fraü geht's jetz gli geh rischte...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>C'est ça... un no-n-em Esse gang ich derno ne wenig geh
+                        üsrüehe in mim Zimmer.</p>
+        </sp>
+        <pb n="468"/>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Hasch Dü scho ne Zimmer?</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ich denk, Dü wirsch mr eins offriere... ich thàt gern e
+                        Tag oder zwe bi-n-i bliwe.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch mir g'wiss Leid, Oncle... awer mr hàn g'wiss kei
+                        Platz... nur die zwei kleine Zimmer do un e Bett... nur
+                        ei Bett...<stage>(züer Jumpfer Fingerhüet)</stage> nitt wohr,
+                        Schàtzele?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was fir e dummer Pläuderi!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>'s isch schad... ich wàr jetz gern do bliwe.</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>'s isch grad do nàwes e-n-Hotel, wo Sie ganz güet känne
+                        logiere drin!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch wohr... 's isch ganz nooch..</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>So gang i halt ins Hotel... ich will derno gli geh ne
+                        Zimmer arretiere.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch unnöthig, Oncle, ich will scho geh... Dü
+                        brüchsch Di nitt z'derangiere...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Wie De witt... awer blib nitt lang.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Nur e-n-Aügesblick!...<stage>(er geht üse dur
+                        d'Stuwerechts).</stage></p>
+          <pb n="469"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Herr Gigele, Jumpfer Fingerhüet, derno Herr
+                        Ungeduld.</stage>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(züer Jumpfer Fingerhüet)</stage>
+          <p>'s isch doch e güeter Mann, dr Alexis... wie bin ich
+                        doch eso froh, ass ich jetz do bi un ass ich mi Nièce
+                        ha lehre kenne... ich müess dich noch emol schmutze<stage>(er
+                        schmutzt se).</stage></p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld</speaker>
+          <stage>(bi dr Thüre hinte)</stage>
+          <p>Isch's möglig!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Herr Ungeduld!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(züer Jumpfer Fingerhüet)</stage>
+          <p>Was isch das fir e Herr?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Geniert Sie sich nitt, Jumpfer Fingerhüet?... das isch
+                        mr ebbes süfers... sich so lo schmutze...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Junger Mensch... seige Se wer Se wànn, so thien Se nur
+                        nitt gli 's Böse denke... wenn ich mir das erlaübt ha,
+                        so ha-n-ich 's Recht derzüe...</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Sie hàn 's Recht?... Oh!... wie bin ich so dumm!... ich
+                        merk's jetz scho... verzeihe Se mr... awer ich ha halt
+                        nitt denkt, ass Sie kamme... ah... wege dem hàn Sie
+                        nitt g'antwortet uf dr Brief...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Uf dr Brief?...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(fir sich)</stage>
+          <p>Allons... jetz nimmt er ne fir mi Oncle!</p>
+        </sp>
+        <pb n="470"/>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ah çà... was hàn Sie mit mir, junger Mensch?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Eh... ich bi dr Herr Ungeduld !</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Wer isch das, dr Herr Ungeduld ?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Ihre Nièce wird's Ene scho g'sàit ha... dà, wo-n-ere dr
+                        Hof macht... fir dr bon motif!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Fir dr bon motif... in ere g'hirothene Fraü!</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>G'hirothe?...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ne Fraü mit zwei Kinder!</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Worum nitt gar.. Sie sin glaüb g'schittelt!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(lislig zum Herr Ungeduld)</stage>
+          <p>Herr Ungdeuld, ich bitt Se drum, mache Se kei Scene...</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld</speaker>
+          <stage>(lislig züer Jumpfer Fingerhüet)</stage>
+          <p>Do isch ebbes nitt recht, expliziert Se sich... un
+                        gli... sunscht...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich ka jo awer nitt.</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Sie will nitt?... güet... so gang i wieder<stage>(er geht gege
+                        dr Thüre).</stage></p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(kehrt si um)</stage>
+          <p>Herr Ungeduld !</p>
+          <pb n="471"/>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se rieft ne z'ruck!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich weiss eigentlig nitt, worum ass ich mich sott
+                        sacrifiziere lo fir Andere... erstens isch dà Herr mi
+                        Oncle nitt... un zweitens bin ich noch mit nieme
+                        g'hirothe gsi!...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Se-n-isch d'Fraü nitt vo mim Neveu?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld.</speaker>
+          <p>Si Fraü?... si Neveu?...</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Nitt im G'ringste!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Un er isch nitt g'hirothe?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Doch, doch... ich sag das nitt... awer mit ere-n-
+                        Andere.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Mit ere-n-Andere?</p>
+        </sp>
+        <sp who="#herr_ungeduld">
+          <speaker>Herr Ungeduld</speaker>
+          <stage>(lislig züer Jumpfer Fingerhüet)</stage>
+          <p>Mit wem denn... mit wem?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(lislig)</stage>
+          <p>Mit dr Fraü Strumpf... sage Se nur wie-n-ich... ich will
+                        se glich geh preveniere...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Sie will mich hintergeh... das isch e Lug... wo isch se
+                        denn, die Andere?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Do im Hüs isch se!</p>
+        </sp>
+        <pb n="472"/>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Isch's möglig!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Buvons, Buvons)</stage>
+            <l>Das kunnt mir possig vor,</l>
+            <l>Ich glaüb, 's isch gar nitt wohr,</l>
+            <l>'s isch ebbes do nitt recht,</l>
+            <l>Dà G'spass isch schlecht;</l>
+            <l>Wer 's Eh'band binde thüet,</l>
+            <l>Dà kennt si Fraü nur z'güet,</l>
+            <l>Das isch scho langst bekannt</l>
+            <l>In jedem Land.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_gigele #herr_ungeduld">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Un doch<stage>(ter)</stage> hat er sich jetz trumpiert</l>
+            <l>Hat mir/ihm e-n-And're presentiert.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Ich will se gli schicke, d'rechte... kämme Se, Herr
+                        Ungeduld<stage>(se gehn hinte-n-üse).</stage></p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(allei)</stage>
+          <p>Ich weiss wahrhaft nimmig, was ich denke soll... 's
+                        nimmt mich Wunder, wie sich dr Alexis do drüs ziege
+                        wird... aha... do isch er.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Herr Gigele, Herr Liftling.</stage>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Ich ha Dr e pràchtig Zimmer arretiert, Oncle... De
+                        wirsch sàh!... tiens... De bisch allei... wo isch mi
+                        Fraü?</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Di Fraü, Alexis!... zeig, kumm do ane... lüeg mi emol a,
+                        wenn de traüsch!</p>
+          <pb n="473"/>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Worum, was isch g'schàh?...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ich weiss alles... alles!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Was... me hat Dr g'sàit...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Also isch's denn wohr?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi doch g'wiss ganz bleich!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ich ha sogar e Moment glaübt, ass De gar nitt g'hirothe
+                        bisch!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Gottlob... ich ha scho g'meint, er weisst alles!...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Un wenn das g'si wàr... wenn Dü mich eso hintergange
+                        hättsch so hätt ich Dir's no mim Tod nitt emol
+                        verzeiht...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich merk's scho... er hätt mi enterbt...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Worum, zeig, hasch mt nitt gli Di rechte Fraü
+                        vorg'stellt?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Mi rechte Fraü?... ich... ich weiss nitt, eb ich Dir das
+                        avertraüe ka...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>De hasch jo nit z'riskiere mit mir!</p>
+        </sp>
+        <pb n="474"/>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz himpelt's...<stage>(lüt)</stage> eh bien... wil Dü's verlangsch
+                        so will ich Dir das G'heimniss offebare.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Dü machsch mich wunderfitzig... g'wiss... Dü machsch
+                        mich wunderfitzig!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Voyons... was kännt ich ihm jetz offebare...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Zeig... kunnt's bol... ich wart...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Eh bien... so müesch denn wisse, ass mi Fraü heimlig vo
+                        d'heim furt isch, un ass se mich g'hirothe hat wider dr
+                        Wille vo-n-ihrem Vater, un ass dà g'schwore hat, ass er
+                        se-n-umbringt, wenn se-n-em in d'Hànd g'rothet!...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Das isch jo ne ganzer Roman.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Drum lebt o mi Fraü ganz z'ruckzoge, siter ass mr
+                        g'hirothe sin... si wicht in alle Lit üs.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Awer vor mir... vor em Oncle hat se jo nit z'riskiere...
+                        ich halt ewe dra fir se z'sàh... das kasch wohl denke.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Haltsch Dü durchüs dra?</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Natirlig!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Wenn se-n-awer nitt wott ku?</p>
+          <pb n="475"/>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Eh bien... so geh mr züe-n-ihre.</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>'s isch unnöthig... 's schickt si eher, ass sie züe Dir
+                        kunnt... ich will se geh hole.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Awer dummel Di!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich müess jetz halt doch d'Fraü Strumpf drum aspreche...
+                        se wird mr jo wohl dà Dienst leiste...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Zeig... was b'sinnsch Di jetz noch lang!</p>
+        </sp>
+        <sp who="#hert_liftling">
+          <speaker>Hert Liftling.</speaker>
+          <p>Ich gang... ich gang...<stage>(fir sich)</stage> er thàt mi glaüb
+                        enterwe!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Le beau Narcisse)</stage>
+            <l>Fir das z'vermeide,</l>
+            <l>Hol ich mi Zweite,</l>
+            <l>'s hilft mr üs dr Noth,</l>
+            <l>Fir z'ruck isch's jetz z'spot.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander züem zweite Mol.</stage>
+          <sp who="#hert_liftling">
+            <lg>
+              <l>Er will se jetz gli sàh,</l>
+              <l>Das losst er sich nitt nàh,</l>
+              <l>Drum b'sinn ich mich nitt lang</l>
+              <l>Un mach dà Gang.</l>
+              <stage>}bis</stage>
+            </lg>
+          </sp>
+          <sp who="#herr_gigele">
+            <speaker>Herr Gigele.</speaker>
+            <lg>
+              <l>Ich will se jetz gli sàh,</l>
+              <l>Das loss ich mir nitt nàh,</l>
+              <l>Drum b'sinn Dü Dich nitt lang</l>
+              <l>Un mach dà Gang.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Im AügesbIick wird se do si!<stage>(er geht üse rechts)</stage></p>
+        </sp>
+        <pb n="476"/>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ich will siter e wenig ufs Kanepé geh sitze... ich bi
+                        mied vo dr Reis, denn ich ha d'ganze Nacht kei Aüg züe
+                        g'ha<stage>(er geht ins Zimmer rechts un lehnt d'Thüre-n-a).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">Herr Fingerhüet, derno Fraü Strumpf.</stage>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Schlangegasse Nümero 8 im Dritte... das isch do... du
+                        reste, dr Name steht uf der Thüre: Jumpfer Fingerhüet,
+                        Modiste... wie frei ich mich, fir mi Nièce
+                        z'iwerrasche... se-n-erwartet mich g'wiss nitt...<stage>(er
+                        schaüt umenander)</stage> tiens, se-n-isch güet ig'richtet do!</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Aha... sin Se jetz endlig aku, Herr Oncle!... 's freit
+                        mi, Ihre Bekanntschaft z'mache... grad hat me mir
+                        g'sàit, ass Sie do sin un do bin i halt gli ku
+                        z'laüfe...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wer mag jetz das si?... d'Magd viellicht?...<stage>(lüt)</stage>
+                        verzeihe Se, mit wem ha-n-ich d'Ehr...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Eh, merke Sie's denn nitt?.. ich bi d'Fraü!<stage>(fir sich)</stage>
+                        wo isch denn jetz dr Herr Liftling?</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>D'Stundefraü?...<stage>(fir sich)</stage> ich ha mr's denkt.</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Comment, d'Stundefraü!... d'Fraü üs em Hüs, wenn's Ene
+                        b'liebt!</p>
+          <pb n="477"/>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Ah... d'Hüsfraü also?</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>D'Fraü vom Herr Liftling... we me-n-Ihne denn müess dr
+                        Tupfe ufs i mache!</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Im Herr Liftling si Fraü?...<stage>(fir sich)</stage> was ka das mir
+                        mache?</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Natirlig!<stage>(se will ne-n-umarme, er geht z'ruck; fir
+                        sich)</stage> er macht in dr Fraü vo sim Neveu keine
+                        grosse-n-Avance... merkt er viellicht ebbes?</p>
+          <p>Was isch eigentlig jetz das fir Eine?<stage>(lüt)</stage> Verzeihe
+                        Se... kännt Se mir nitt sage, wo mi...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Er wird gli ku... warte Se nur e wenig...<stage>(fir sich)</stage> ich
+                        will gli lüege, ass i züe mim Geld kumm, wil dr Herr
+                        Liftling grad nitt do isch...<stage>(Iüt)</stage> sin das schlàchte
+                        Zite, Herr Oncle... nitt wohr... 's isch uns g'wiss
+                        scho hinterlig gange... mr sin sogar e ziemlige Summe
+                        Hüszins schuldig... in dem Moment... denn Ihr Herr
+                        Neveu fiehrt sich nitt allewil uf, wie-n-er sott...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Mi Neveu?...<stage>(fir sich)</stage> die Fraü agaciert mich!</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Sie kännte mir viellicht 's Geld avanciere, liewer
+                        Oncle... ass ich emol dà Zins kännt zahle...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <stage>(fir sich.</stage>
+          <p>Jetz kunnt's awer glaüb doch e wenig z'knollig!</p>
+          <pb n="478"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Illziger Jager)</stage>
+            <l>Die Fraü isch glaüb kei iwler Jàger,</l>
+            <l>Das ha-n-ich scho g'sàh!</l>
+            <l>Die thàt mich jetz üspelze wàger,</l>
+            <l>Wenn ich's thàt anàh!</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander.</stage>
+          <sp who="#herr_fingerhuet">
+            <lg>
+              <l>'s isch mir g'wiss leid, ich ha kei Minz,</l>
+              <l>Was frog ich doch no Ihrem Zins.</l>
+            </lg>
+          </sp>
+          <sp who="#frau_strumpf">
+            <speaker>Fraü Strumpf.</speaker>
+            <lg>
+              <l>'s isch ihm g'wiss Leid, er hat kei Minz,</l>
+              <l>Er will ne zahle nitt, mi Zins.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander.</stage>
+          <sp who="#herr_fingerhuet">
+            <speaker>Herr Fingerhüet.</speaker>
+            <lg>
+              <l>Die Fraü isch glaüb kei iwler Jàger,</l>
+              <l>Das ha-n-ich scho g'sàh!</l>
+            </lg>
+          </sp>
+          <sp who="#frau_strumpf">
+            <speaker>Fraü Strumpf.</speaker>
+            <lg>
+              <l>Dà Mann isch glaüb kei rechter Fàger,</l>
+              <l>Das ha-n-ich scho g'sàh!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Ah ça... ich ha doch glaüb d'Jumpfer Fingerhüet...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>D'Jumpfer Fingerhüet!...<stage>(fir sich)</stage> décidément, er merkt
+                        ebbes... wenn doch nur dr Herr Liftling kàm!<stage>(lüt)</stage>
+                        d'Jumpfer Fingerhüet... das isch si erste Fraü... das
+                        heisst nei...<stage>(fir sich)</stage> ich sag' glaüb Dummheite...
+                        aha, do isch glaüb dr Herr Liftling!...<stage>(dr Herr
+                        Fingerhüet geht uf d'Site links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Liftling.</stage>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(kunnt hint-n-ine. Züer Fraü Strumpf)</stage>
+          <p>Ich süech Se jetz scho alleweg e halb Stund im ganze
+                        Hüs!</p>
+          <pb n="479"/>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(lislig züem Herr Liftling)</stage>
+          <p>Scht!... d'Jumpfer Fingerhüet hat mich do ane g'schickt,
+                        fir Ihre Fraü z'spiele... awer er will nitt recht
+                        abisse!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Wer?</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Ihre-n-Oncle dert...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(sieht dr Herr Fingerhüet)</stage>
+          <p>Tiens... was isch jetz das fir Einer?<stage>(züer Fraü
+                        Strumpf)</stage> das isch jo mi Oncle nitt... was kunnt
+                        Ihre-n-i, Fraü Strumpf?</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Hein... das isch ne nitt?... un ich, wo...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was sin jetz eigentlig das fir Lit?<stage>(lüt)</stage> Voyons... sage
+                        Sie mr, güeter Frind... wohnt denn nitt d'Jumpfer
+                        Fingerhüet do? ... ich bi ihr' Oncle...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>So hätte Sie's denn gli g'sàit!</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet.</speaker>
+          <p>Sie hat mich jo nie lo üsrede!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(lislig züer Fraü Strumpf)</stage>
+          <p>Allons bon... wieder e frische Complication!... wo wà mr
+                        jetz mit dem ane?...<stage>(lüt züem Herr Fingerhüet)</stage> Sie sin
+                        ganz recht... das heisst in dem Moment...<stage>(lislig züer
+                        Fraü Strumpf)</stage> hilft Se mr denn e wenig,<stage>(fir sich)</stage> ich
+                        bi doch g'wiss ganz bleich!</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Wo isch er denn, Ihr' Oncle?</p>
+        </sp>
+        <pb n="480"/>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Weiss ich's?... er wird dert in mim Zimmer si...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Kännt ich jetz eigentlig emol wisse...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">D'Gliche, Jumpfer Fingerhüet, Herr Ungeduld.</stage>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet</speaker>
+          <stage>(kunnt hinte-n-ine mit em Herr Ungeduld)</stage>
+          <p>Oncle... liewer Oncle!... mr hàn's erfahre-n-in dr
+                        Stadt, ass De do bisch, un do si mr gli ku z'laüfe...
+                        ich presentier Dr do mi Hochziter, dr Herr Ungeduld...</p>
+        </sp>
+        <sp who="#herr_fingerhuet">
+          <speaker>Herr Fingerhüet</speaker>
+          <stage>(git ene d'Hand)</stage>
+          <p>Ah... endlig!... awer sag mr... was geht denn eigentlig
+                        vor do bi Dir?</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Aha... ich merk scho, was wird g'schàh si... ich will
+                        Dr's expliciere<stage>(se rede lislig mitnander).</stage></p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch alles recht awer ich weiss bol nimmig, wo mr dr
+                        Kopf steht...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Gigele.</stage>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele</speaker>
+          <stage>(kunnt üs dr Nàwesstuwe)</stage>
+          <p>Aha, De bisch z'ruck, Alexis... ich bi misegs ig'schlofe
+                        dert uf em Canepé... wo isch se jetz, Di Fraü?</p>
+          <pb n="481"/>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(nimmt d'Fraü Strumpf an d'Hand.)</stage>
+          <p>Do, liewer Oncle, isch se-n-endlig züem Vorschin ku.</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(b'schaüt dr Herr Gigele)</stage>
+          <p>Die Stimm!... das G'sicht!... eh... isch's mögli!... dr
+                        Herr Gigele!...</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Eh tiens... d'Fraü Strumpf... 's Bàwele, mi erste
+                        Liewe!...<stage>(se falle enander um dr Hals)</stage> Ah çà... was
+                        verzählt mr denn mi Neveu vo-n-ere heimlige Hiroth...
+                        un vom e Vater...</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ei, ei, ei... was ha-n-i do ag'stellt!</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Oh Herr Gigele... 's hat mich scho vielmol g'raüe, ass
+                        ich Se sàllemol nitt g'hirothe ha... ich bi mit em Herr
+                        Strumpf nitt glicklig gsi... züem Glick bin i gli druf
+                        Wittfraü worde...<stage>(se fangt a z'grine).</stage></p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Un do hat Se derno mi Neveu dert g'hirothe... 's isch
+                        schad, mir hätte trotz unsere vierzig Johr noch allewil
+                        e schön Pààrle gà!</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf.</speaker>
+          <p>Ich... Ihr' Schlingel vo Neveu g'hirothe!... z'erlàbtig
+                        nitt... ich bi noch allewil z'ha!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do hà mr's! Ich bi doch g'wiss ganz bleich.</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Ah so, Alexis!... das isch mr schön Dings!... was hasch
+                        Dü jetz do derzüe z'sage?... wottsch mr nitt noch e
+                        dritte Fraü vorstelle?</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ma fois... 's isch jetz doch alles verlore!<stage>(lüt)</stage> Eh,
+                        merksch's denn nitt, Oncle?... Ich ha g'wisst, ass Dü <pb n="482"/>
+                        allewil noch Di Bàwele gern hasch, un do ha-n-ich Dir
+                        welle ne Surprise mache un ha eüch do-n-eso z'àmme
+                        g'fiehrt...</p>
+        </sp>
+        <sp who="#frau_strumpf">
+          <speaker>Fraü Strumpf</speaker>
+          <stage>(fir sich)</stage>
+          <p>Müess me ne Toupet ha, fir eso z'liege!</p>
+        </sp>
+        <sp who="#herr_gigele">
+          <speaker>Herr Gigele.</speaker>
+          <p>Dà güete-n-Alexis!</p>
+        </sp>
+        <sp who="#jumpfer_fingerhuet">
+          <speaker>Jumpfer Fingerhüet.</speaker>
+          <p>Das isch's Bouquet!</p>
+        </sp>
+        <sp who="#herr_liftling">
+          <speaker>Herr Liftling.</speaker>
+          <p>Ich weiss wohl, was ich verlier... awer ich ha mich
+                        sacrifiziert fir's allg'meine Wohl!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Âne Martin)</stage>
+            <l>Ums Erbtheil spring ich mit dem Gspass,</l>
+            <l>Ich bi doch g'wiss ganz bleich un blass!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_liftling #herr_ungeduld #herr_gigele #jumpfer_fingerhuet #frau_strumpf #herr_fingerhuet">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Ich sieh's/Mir sàhn's jetz ganz güet i,</l>
+            <l>'s isch mit em Erb verbi.</l>
+            <l>Wer in de-n-Andre Falle stellt,</l>
+            <l>Dà kunnt als selwer dri.</l>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E Mordsaffär</title>
+        <title type="sub">Zwei Lustpiele in Strassburger Mundart von G. Stoskopf. Mit 7 Illustrationen von P. Braunagel</title>
+        <author key="wikidata:Q923554">Gustave Stoskopf</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">nan</idno>
+        <idno type="methal" xml:id="mtl-088"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109596g</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:nan">Gustave Stoskopf</author>
+            <title type="main">E Mordsaffär</title>
+            <title type="sub">Zwei Lustpiele in Strassburger Mundart von G. Stoskopf. Mit 7 Illustrationen von P. Braunagel</title>
+            <edition>2. Auflage</edition>
+            <publisher>Schlesier &amp; Schweikhardt</publisher>
+            <date when="1900" type="print">1900</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="adolph_muller">
+            <persName>Adolph Müller</persName>
+          </person>
+          <person sex="F" xml:id="jeanne_muller">
+            <persName>Jeanne Müller</persName>
+          </person>
+          <person sex="M" xml:id="madame_schmidt">
+            <persName>Madame Schmidt</persName>
+          </person>
+          <person sex="M" xml:id="schuster">
+            <persName>Schuster</persName>
+          </person>
+          <person sex="F" xml:id="katherin">
+            <persName>Katherin</persName>
+          </person>
+          <person sex="F" xml:id="marie">
+            <persName>Marie</persName>
+          </person>
+          <person sex="B" xml:id="eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+            <persName>Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.</persName>
+          </person>
+          <person sex="F" xml:id="eine_alte_frau">
+            <persName>Eine alte Frau</persName>
+          </person>
+          <person sex="U" xml:id="leute_aus_dem_hause">
+            <persName>Leute aus dem Hause</persName>
+          </person>
+          <person sex="M" xml:id="dienstboten">
+            <persName>Dienstboten</persName>
+          </person>
+          <person sex="M" xml:id="polizisten">
+            <persName>Polizisten</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#adolph_muller"><role><persName>Adolph Müller</persName></role>, <roleDesc>Comptable</roleDesc>.</castItem>
+        <castItem corresp="#jeanne_muller"><role><persName>Jeanne Müller</persName></role>, <roleDesc>seine Frau</roleDesc>.</castItem>
+        <castItem corresp="#madame_schmidt"><role><persName>Madame Schmidt</persName></role>, <roleDesc>Mutter der Jeanne Müller</roleDesc>.</castItem>
+        <castItem corresp="#schuster"><role><persName>Schuster</persName></role>, <roleDesc>Pförtner</roleDesc>.</castItem>
+        <castItem corresp="#katherin"><role><persName>Katherin</persName></role>, <roleDesc>seine Frau</roleDesc>.</castItem>
+        <castItem corresp="#marie"><role><persName>Marie</persName></role>, <roleDesc>Magd bei Müllers</roleDesc>.</castItem>
+        <castItem corresp="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten"><role><persName>Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <stage> Scenerie. Bürgerliches Zimmer. Eine Türe links, eine rechts und eine in der Mitte. Marie, die Magd, Iauscht an der Türe Iinks. Mitten im Zimmer Schuster, der Pförtner und seine Frau. In der Mitteltüre eine alte Frau; Leute und Dienstboten aus dem Hause. </stage>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Hört m'r ebs?</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Nix, gar nix.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Isch's möjli, daß so e gottvergessener Mensch, wie sini Frau umgebrocht hett, noch so ruehij schlofe kann!</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>Ja, sin’r ejrer Sach) denn au ganz sicher ?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Au noch?! Ihr muehn e solide Schlof han oder daub sin wie e Pfohl, wenn er nix g'hört han vun dem Mord un Totschlaa <stage>(zu den Leuten im Türrahmen)</stage> Ihr han’s doch alli ghört? —</p>
+      </sp>
+      <sp who="#eine_alte_frau">
+        <speaker>Alle :</speaker>
+        <stage>(mit dem Kopfe nickend)</stage>
+        <p>Ja, un ob!—</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Es isch ganz gottsjämmerlich g’sin, diß Gebruels anzehöre ! Die arm Frau hett gejehlt un gekrische, wie er als uf se g’haue hett, daß sich d'Stein hätte-n-erweiche möchte!</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>E jede Streich hawi g’hört, wie ere versetzt hett.</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>Um well Zitt isch’s g’sin?</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>S’isch geje de Zwölfe g’sin.</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>In d'r Beischterstund ?!</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Ich hab grad getraimt g’hett, daß d’Hüsare vun Stroßburri versetzt worre sin, do krej ich e Mordsschrecke un verwach un hör im Zimmer newe mir — wisse Sie, ich schloof newe d’r Herr- schaft wäje-n-em kleine Kind — un hör, wie g’saat, e Heidespektakel.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Grad wie ich, ich hab grad getraimt, ich hab e Los genumme in ere Lotterie, un im Moment, wie ich m’r’s Nummero hab merike welle, wur ich uffgeweckt durich e Läwesdaa iwer mir, wie ganz gottvergesse-n-isch g’sin. Ich rieb m’r d’Aue-n- üs un fall fascht in Ohnmacht, im Bett newe mir steht e großi wiffi G'stalt uffrecht an d'r Wand...</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>Um’s Gottswille isch’s möjli? — Es isch doch ken G’spenscht g’sin?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Nein, es isch mini Frau g’sin, wie au schun vun dem Läwesdaa uffgeweckt isch g’sin, un wie gelüschtert hett. „Hörsch?“ saat sie zue mir. „Ja Frau,” hawi zue ere g’saat. „Diß isch jo schreckli,” hett sie g’saat, „diß isch jo schreckli” saa ich d’rno.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin :</speaker>
+        <stage>(welche bestätigend mit dem Kopfe genickt hat)</stage>
+        <p>Un no han m’r mitnander gelüschtert. D’Hoor sin uns ze Berry g’stande, wie der sini Frau verschlaaue hett. Bim e jede Streich wie m’r süse han höre, han m’r uns als gebuckt, un glich druff hett m’r als wid’r krische höre. Diß Ding hett e Wyl so furt gedürt, bis’r sie kalt gemacht hett g’hett. Im ganze Zimmer isch’r ’re nochgeloffe, bis’r se verwitscht hett. Sie hett sich natierlich flüchte welle, awer der elend Herr hett allewäj d’Tür zueb’schlosse g’hett —.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>„Un dü gehsch m’r doch nit durich,” hett’r als g’saat, „miserawls G’schöpf, elends,” un bumms hett'r wid’r eins drufflosg’haue, un die arm Frau hett gekrische, daß’s eim durich Mark un Bein g'fahre-n-isch.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Do uff einmol hett m'r noch e stariker Streich g’hört, d’rno hett m’r krische höre, wie ebber, wo e Meffer im Hals stecke hett.. . .</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Un d'r Mörder, haw ich g’hört, wie'r ganz dittli g’saat hett: „So jetzt hesch furs Murre —”</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>So isch's, ja so isch's!</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Un no isch’s stille worre.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Stille, wie im Grab! —</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>Diß isch jo grieserli ! Nein, so e Canaille ! Marie <stage>(an der Tür durch das Schlüsselloch schauend)</stage> : Jesses Maria, jetzt kummt’r allewäj glich, er thuet grad d’Hosse-n-an.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>So ganz kaltbluetig?! So mir nix dir nix ?! — O, die Canaille! S’bescht wurd sin, ich geh jetzt die arm Mamme prevenire, die wurd lueije, wenn ich's ere so hinte-n-erum ze verstehn wurr gän, daß se-n-e Mörder zuem Dochtermann hett.</p>
+      </sp>
+      <sp who="#eine_alte_frau__leute_aus_dem_hause_dienstboten_polizisten">
+        <speaker>Alte Frau:</speaker>
+        <p>M’r grüst’s ganz, wenn’r jetzt awer so uf einmol erüs thät kumme.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Nur kenn Angscht ! Do solle Sie ebs erlewe, do solle Sie emol sehn, wie ich denne anne- stelle wurr. Sie gottvergessener Frauemörder, wurr ich zuem saaue un wurr'm d’rbi in’s Wiß vun sine-n- Aue löuije, daß'r for Scham in de Erdsgrundsbodde nin versinke möcht!</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Scht! — Ich glaub er kummt <stage>(die Türe geht auf, Herr Müller tritt herein, er hat eine kleine Schachtel in der Hand und sieht erstaunt um sich. Marie reibt hastig mit einem Lappen an einem Möbel herum; die alte Frau, Katherin und die Leute im Türrahmen stieben entsetzt davon, Schuster hinterdrein, Müller eilt ihm nach und hält ihn zurück.)</stage></p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Schueschter, Schueschter! Ja, was Deifels, was isch, denn do Ios, ich glaub ihr han Conferenze do in mim Zimmer in aller Fruehj? <stage>(Schuster in allen Ängsten sucht nach einer Antwort)</stage> Ze redde doch, was han’r denn gewellt ?!</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie :</speaker>
+        <stage>(für sich)</stage>
+        <p>Schreckli ! Wie schreckli daß’r üssicht!</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>S'isch nix, gar nix, Herr Müller, gar nix, ich hab ne numme d’Zyttung eruff gebrocht <stage>(sucht in seiner Schürze)</stage>.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, un die viele Lytt? —</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Ei, — ei, die han m’r sie helfe bringe...</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, un do d’rzue brücht m’r e so viel Lytt ?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Diß heißt, sie han mich begleit, sie han grad guet d'r Zitt g’hett . . . . sie sin spaziere gange.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <stage>(für sich)</stage>
+        <p>Ich glaub der Mann hett de Verstand verlore, <stage>(zu Schuster)</stage> ze gän m’r se e Gottsname here die Zyttung.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Grad suech i sie, jetzt sieh i ererscht, daß i se vergeffe hab... Ich will sie glich gehn hole.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ich weiß gar nit, wie Ihr mir vorkumme, m’r meint, Ihr han glauwi schun e Dampf</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <stage>(in der Mitteltür)</stage>
+        <p>Besser e Dampf, wie e schlechts Gewisse schleunig <stage>(ab)</stage>.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <stage>(den Kopf schüttelnd)</stage>
+        <p>Total verhuttelt, total verhuttelt! Ex dürt mi, der arm Mann. —</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Ich rieder an Arm und Bein, allein bliew ich au net <stage>(will ab)</stage>.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Worum lauft Sie denn so furt wie nasebluetig ? Sie hätte g’scheiter dran gethon, wenn Sie mir de Kaffee ferviert hätte, als do ze rätsche; un daß m’r diß nimm vorkummt, daß i fremdi Lytt am Morje in minere Wohnung treff.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Ah, de Kaffee! — Ja, Herr, im Aues- blick <stage>(schnell ab)</stage>.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ich weiß nit, die Sach kummt m’r so merkwürdi vor, was do nur for e G’heimnis drunter stecke mueß. C’est curieux, très curieux!</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne :</speaker>
+        <stage>(aus dem Schlafzimmer)</stage>
+        <p>Adolph!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ma chérie? —</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Vergiß jo nit die Fledermüs üsstopfe ze Ion.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, ewi Frau, ich hab schun dran gedenkt, ich hab sie do in ere Lad.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>M'r schenke sie no im Unkel for in sin Natüraliekabinet.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Oui, Herzele. <stage>(Zieht eine tote Fledermaus aus der Schachtel, dieselbe mitleidig betrachtend)</stage> Arm’s Thier’l, so hesch dü din Läwe-n-inbüße muehn ! Diß hesch dü dier bezahlt, daß dü in dere warme Sommernacht zuem offene Fenschter in unser Schlofzimmer ning’flöuje besch, un daß dü min liebs herzigs Wiewele so ver- schreckt hesch. <stage>(Legt die Fledermaus wieder in die Schachtel)</stage>. S'isch einthuen, ich möcht nit alli Nacht so e surprise han. Was diß e Hitz koscht het, bis ich diß arm Thierl verwitscht hab. Huppla, wie ich als gemeint hab, jetz triff i’s mit'm Stock, isch’s schun wittersch g'sin und ich hab d’rnewe g’schlaue, uff’s Bett, uff’s Commod, an d’Wand. Diß isch e fuerichterlicher Krambol g’sin, d’rno hett mini Frau jedesmol gekrische, wenn d’Fledermüs iwer’s Bett g'flueje-n-isch, daß m’r hett meine könne, es geht ere-n-an de Kraue. Ich fericht fascht m’r han ’s ganz Hüs rewellisch gemacht. Zum große Glück hawich sie finalement doch verwitscht. En plein hawich ich sie getroffe, un tot isch tot g’sin, un kapüt kapüt! <stage>(bei den Ietzten Worten ist die Magd in der Mitteltüre erschienen, voll Entsetzen hört sie die Ietzten Worte. Sie fängt an zu zittern und läßt das Plateau fallen, mit Caffe, Kaffee und Milchkanne)</stage>.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Kapüt isch kapüt!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller :</speaker>
+        <stage>(sich entsetzt umwendend)</stage>
+        <p>Ei, d’r Schinder, was macht sie do schun wid’r, Sie verhejt uns jo noch alles G’schirr. <stage>(auf die Magd zu Daß Sie doch nie Acht gan kann! — Marie zitternd)</stage>: Verschone Sie mi, Herr, ver- schone Sie mi !</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Macht Sie kenn so dummi Plän, ich will Sie jo nit fresse, un paßt Sie mir e-n-anders Mol besser uff. <stage>(Es schlägt 8 Uhr, Müller schaut auf die Uhr</stage>. Bon, jetzt kumm i au noch ze spoot uffs Bureau mit dere-n-Affär, un von Kaffeetrinke kann kenn Red meh sin. <stage>(Zu Marie)</stage> Hol Sie Kehrwisch un Bese, un fäj Sie mir d’Scherwe zamme. ’s isch nimm üszehalte mit dem Dienschtpersonal. Ieanne <stage>(aus dem Nebenzimmar)</stage>: Männele, gäll's Marie hett wid’r ebs verhejt?</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, ’s Kaffeeservice.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Do will ich awer g’schwind uffstehn.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Nein, liebs Kind, blieb nur noch Ieje, dü hesch bös genue g’schloofe die Nacht wäje dere Fledermüs . ... Au revoir, Schätzele, ich mueß uffs Bureau gehn.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Et tu n’embrasses pas ta petite femme avant de partir?</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Si chérie! <stage>(ab ius Schlafzimmer)</stage>.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie :</speaker>
+        <stage>(mit Besen und Schaufel)</stage>
+        <p>Schreckli, fchreckli, ich zit’r am ganze Körper.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <stage>(zuräck, nimmt die kleine Schachtel mit der Fledermaus)</stage>
+        <p>’s Üsstopfe derfe m’r nit vergesse ! — <stage>(Zu Marie)</stage> Un paßt Sie mir e-n-anders Mol besser uff ! <stage>(ab)</stage>.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Ja Herr! — <stage>(für sich)</stage> Gott sei Dank, daß’r furt isch. Daß au grad mir diß Unglück passiere mueß, in e Hüs ze kumme, wo e Mann sini Frau umbringt! O, wär ich nie gebore ! Schuster <stage>(den Kopf vorsichtig zur Mitteltüre herein steckend)</stage> : Er isch furt ! Er isch furt! <stage>(Marie dreht fisich ersechreckt um)</stage> Ich hab awer d’Bolizej preveniert ! Sie wurd bald kumme ! <stage>(reibt sich die Hände)</stage>.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>D’Bolizej?! — O, es grüst m’r ganz.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Hein? Mamsell Marie, han Sie ne recht betracht, wie verstört, daß’r üsg’sehn hett, wie bleich daß'r isch g'sin? Un wier verschrocke-n-isch, wie ich'm eine niewer g’stellt hab, un wie ich’m g'saat hab, daß’s besser isch, m’r hett e Dampf in d'r Fruehj als e schlechts Gewisse !</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Ja, er isch ganz zammeg’fahre !</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Han Sie's au gemerikt, wie'r mim Blick üsgewiche-n-isch, wenn ich ne als angeluejt hab? <stage>(Marie nickt mit dem Kopf)</stage>. Sehn Sie, Mamsell Marie, diß macht im e-n-ehrliche Mann Fraid, wenn’r im e Ver- brecher so recht in d'Aue Iueje kann, um sin Gewisse schlaaue ze mache. Marie <stage>(an der Türe links lauschend)</stage>? Jesses, m’r sott fascht meine, m’r hört ebs!? — Jesses Maria!</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Sott se-n-am End noch nit ganz tot sin ? — die arm Frau, sie thät mich düre, wenn se liede mueßt. <stage>(Die Mitteltüre geht auf, Madame Schmidt, das Taschen- tuch in der Hand, tritt ein mit Katherin, der Frau des Pförtners)</stage>; Do kummt die arm Mamme ! —</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Kumme se numme-n-rin, Madame Schmidt.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt :</speaker>
+        <stage>(trostlos mit dem Kopf hin und her)</stage>
+        <p>O‚ ich armi unglicklichi Frau !</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Ich nemm Antheil, recht Antheil an ihrem große-n-Unglick.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>O, ich armi, armi Mamme ! Ich kann’s als noch nit recht glauwe, isch’s denn au ganz sicher wohr?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Un ebs wohr isch?! — Diß wär noch schöner, wenn's nit wohr wär, ’s isch grieserlich g’sin — grieserlich ! Es hett hatt e so kumme muehn.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Ja, es hett so kumme muehn!</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Wenn m’r’s bedenkt, ze-n-isch’s schun ewyl, daß die Sach dürt. Bal alle-n-Öwe hett’r se so verschlaaue. Es isch gottsjämmerli g’sin, küm zuem anhöre.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Ja, un worum sin se-s-ere denn nit ze Hilf kumme, wo sie so gekrische hett?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Ja, was soll ich do saue. Wenn einer sini Frau durichhaut, diß isch Privatsach, un in Privatsahe melier ich mich als Concierge par prineipe nit. Mme. Schmidt <stage>(geht nach der Türe Iinks)</stage> : Die arm Tochter, es grüst m’r ganz, in’s Schloofzimmer ze gehn <stage>(macht die Türe auf und tritt wieder zurück)</stage> Jeanne ! Jeanne !</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Bisch dü's Mamme?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Ja, liebs Kind. <stage>(Aufathmend. Zu den anderen)</stage> : Sie lebt noch! Sie lebt noch! Schuster <stage>(enttäuscht)</stage> : Sie lebt noch ?!</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Ich kumm grad, Mamme.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Er hett se-n-also nur durichg'haue, diß isch jetzt ambetant.</p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Die mueß awer e zäh’s Lewe han.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <stage>(im Négligé auf die Mama zu und sie umarmend)</stage>
+        <p>Guete Morje Mamme. (Sieht mit großer Verwunderung die anderen, welche ganz zusammengeknickt dastehen. Besorgt: Ja, was isch denn? Was han’r denn, daß’r mich alli so anlöuje?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt :</speaker>
+        <stage>(die Arme ausbreitend)</stage>
+        <p>Jeanne, mini Tochter, mini arm unglicklich Tochter!</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Mamme, Mamme ! <stage>(fällt ihr weinend in die Arme)</stage> Ja, was isch denn, liewi Mamme? —</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Arms Kind, hawich dich wäje dem verhierothe muehn?</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Ja, redd doch Mamme, gell mim Mann isch e-n-Unglick zueg’stoße ?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Wenn's nur diß wär !? — Ich versteh dich nit, wie kannsch dü dich nur so verstelle, wie wenn de vun nix wisse thätsch. Wie kannsch dü nur noch nooch dim Mann fröuje ? — So e Monstre, so e schlechter Mensch ! So e Galleefueder !</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>O, jetzt versteh ich Alles! Alles! N’est-ce pas, il me trompe? Er hintergeht mich?! Oh ich armi Frau! <stage>(umarmt abermals die Mutter)</stage>. Müller <stage>(hastig zur Mitteltüre herein, sehr verwundert)</stage> : Ja, was isch denn do los? — Schuster, Katherin, Marie <stage>(entsetzt)</stage>: Uh ! — do kummt’r wid’r ! — Mme, Schmidt <stage>(theatralisch ihre Tochter beschützend)</stage>; Ah do kummt der süfer Patron!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, zuem Gücksel, was isch denn do los? Was mache Sie denn mit minere Frau?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Ich b’schuetz mini Tochter, wie e Glück ihri Huehnle, wenn d'r Raubvöjel kummt.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja zum Henker, isch denn hytt Alles verruckt? — Jeanne <stage>(weinerlich)</stage> : Brüchsch dich nit ze verstelle, ich weiß Alles ! Alles !</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Alles weisch? Ja, was Alles?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster :</speaker>
+        <stage>(für sich)</stage>
+        <p>Der hett e toupet. <stage>(Zu Herrn Müller)</stage> : Ei, elle sait tout, sie weiß Alles!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Diß isch jo rein zuem verschlenze !</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Min Mamme hett m’r alles g’saat <stage>(weinend)</stage> Ja, diß hätt ich nie vun d’r geglaubt, daß dü dich mit andere-n-abgiebsch, un dini Frau so hintergehsch.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller :</speaker>
+        <stage>(wüthend)</stage>
+        <p>Na, jetzt saau ich au nix meh. Was hett dir dinni Mamme do g’saat? <stage>(Zu Madame Schmidt)</stage>: Was traaue Sie do ihrer Tochter for Mähre zue, um Unfridde in unseri Hüshaltung ze bringe. Ich fröuj mich, worum daß d’Schöpfung d’Schwejer- muedre erschaffe hett ! — S'isch eini so viel werth wie d’ander. <stage>(Auf und ab.)</stage></p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster :</speaker>
+        <stage>(für sich)</stage>
+        <p>Wenn i numme durich d’Latte könnt.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Wenn d’Schwejermuedere nix werth sin, no sin awer Dochtermänner erscht recht nix nutz !</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ja, in’s drei Deifels Namme, ze saaue Sie jetz doch emol, was Sie mit uns welle?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme, Schmidt:</speaker>
+        <p>Was i will?! Mini Tochter wid’r zue m’r nemme.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster :</speaker>
+        <stage>(für sich)</stage>
+        <p>Bravo! — A la bonheur!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ich glaub Ihne rappelt’s?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Diß Ding kann nimm so furt- gehn, meine Sie denn, daß ich Ihne mini Tochter gän hab, for daß Sie se-n-alli Nacht durichhauwe wie e Tanzbär, so daß s’ganz Hüs rewellisch wurd.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Was fawle Sie do?</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster :</speaker>
+        <stage>(für sich)</stage>
+        <p>Er Ieigelt, diß isch e sicherer Bewies.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Was saasch dü do, Mamme ? Miner Mann haut mich wie e Tanzbär? — Ja, wer bind denn dir so Bäre-n-an?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Verstell dich au noch, brüchsch au noch, zuem ze halte,</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Jetzt versteh ich schun gar nix meh.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Diß isch for mich spanisch.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>’s wurd am End nit wohr sin, daß dich diner Mann die Nacht am zwölfe g’haaue hett, un daß de e so gekrische hesch, daß m’r's im ganze Hüs g’hört hett, un daß d’Lytt gemeint han, s'isch Mord un Totschlaa, un daß m’r même d’Boli- zej preveniert hett.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Ja, sie kann alle-n-Auesblick kumme.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne :</speaker>
+        <stage>(freudig)</stage>
+        <p>Mamme, diß isch gelöuje, ganz gewiß gelöuje ! <stage>(Müller lachend den Kopf schättelnd.)</stage></p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Was gelöuje? D’Noochberslytt han dich um Hilf ruefe höre, sie han’s au ganz dittli g’hört, wie finalement diner Mann g’saat hett: So jetzt hesch for’s Murre ! —</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Oui c’est ça!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller :</speaker>
+        <stage>(lachend)</stage>
+        <p>Aha! — Wittersch im Text !</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>D’ganz Stadt isch jo rewellisch, iwwerall heißt's, daß dich diner Mann totg’schlaaue hett.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Ja Mamme, wäje dem bisch kumme? — S'isch nit g’sin for mir ze saaue, daß mich miner Mann hintergeht? —</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Von dem weiß i nix, ich bin nur kumme, um d'rgeje ze protestire, daß’r dich alli Nacht verhaut ! <stage>(Jeanne und Müller brechen in lautes Lachen aus.)</stage> Ja, was lache-n-r denn jetzt so dumm? — <stage>(Jeanne und ihr Mann lachen aufs neue)</stage> Diß soll jetzt nix sin ! —</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>D’r V’rstand steht m’r still ! <stage>(Katherin und Marie schütteln den Kopf.)</stage></p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Ja, was han'r denn ?</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne:</speaker>
+        <p>Ei liewi Mamme, diß isch e großes Mißverständnis.</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Es handelt sich uff jede Fall um nix als um e Fledermüs, wie in unser Schloofzimmer g'flöuje-n-isch, un wie ich alli Muehj hab g’hett for ze fange?</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Ja un diß Gekrisch ?</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>C’est bien simple, jedes Mol, wie d’Fledermüs iwer’s Bett g’flöuje-n-isch, hett’s Jeanne e Gäll üsgelon — S’nettscht isch, daß ich wäje dere G'schicht üs’m Bureau heimkumme bin, au dort ver- zähle se schun, daß in unserer Stroß e Mann sini Frau un sini Kinder umgebrocht hett.</p>
+      </sp>
+      <sp who="#jeanne_muller">
+        <speaker>Jeanne :</speaker>
+        <p>Do isch üs der Fledermüs e-n-Elephant gemacht worre. Adolph, liewer Adolph, gell dü ver- zejsch m’r, daß i numme-e-n-Auesblick an d’r zwiefle hab könne ?!</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>D’Hauptsach isch, daß Alles nit wohr isch un nie wohr wäre wurd. <stage>(Sie umarmen sich.)</stage></p>
+      </sp>
+      <sp who="#katherin">
+        <speaker>Katherin:</speaker>
+        <p>Diß isch e dummer Stoß.</p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>S’isch doch ambetant, wenn doch numme wenigstens e bissl ebs an d’r Sach wär g'sin. Hoffent- lich kummt’s noch, ganz süfer schient’r m’r doch nit ze sin.</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Mon gendre, verzejhe Sie, s’isch jo nit mini Schuld, umarmt Müller).</p>
+      </sp>
+      <sp who="#adolph_muller">
+        <speaker>Müller:</speaker>
+        <p>Ich nemm gern zeruck, was i iwer d’Schwejermuedre g’saat hab, d’Schwejermuedre solle Iewe !</p>
+      </sp>
+      <sp who="#madame_schmidt">
+        <speaker>Mme. Schmidt:</speaker>
+        <p>Un d’Dochtermänner d'rnewe ! <stage>(Zwei Polizisten treten herein)</stage>.</p>
+      </sp>
+      <sp who="#marie">
+        <speaker>Marie:</speaker>
+        <p>Uh ! do kummt jetzt d’Bolizej ! <stage>(Alle drehen sich verwundert um.)</stage></p>
+      </sp>
+      <sp who="#schuster">
+        <speaker>Schuster:</speaker>
+        <p>Ihr liewi Herre vun d'r Bolizej, ihr muehn excusiere, ihr kumme awer, wie allewyl, ze spoot.<stage>Der Vorhang fällt.</stage></p>
+      </sp>
+    </body>
+  </text>
+</TEI>

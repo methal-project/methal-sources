@@ -1,0 +1,951 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D' Satisfaction</title>
+        <title type="sub">Farce in zwei Scene</title>
+        <author key="wikidata:Q96489174">Camille Jost</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106604793</idno>
+        <idno type="methal" xml:id="mtl-039"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109625r</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106604793">Camille Jost</author>
+            <title type="main">D' Satisfaction</title>
+            <title type="sub">Farce in zwei Scene</title>
+            <publisher>F. X Le Roux et Cie, Strasbourg</publisher>
+            <date when="1924" type="print">1924</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="alois_has">
+            <persName>Alois Has</persName>
+          </person>
+          <person sex="F" xml:id="caroline_dick">
+            <persName>Caroline Dick</persName>
+          </person>
+          <person sex="M" xml:id="gaston_sansfaute">
+            <persName>Gaston Sansfaute</persName>
+          </person>
+          <person sex="M" xml:id="emile_fettherz">
+            <persName>Emile Fettherz</persName>
+          </person>
+          <person sex="M" xml:id="hauser">
+            <persName>Hauser</persName>
+          </person>
+          <person sex="M" xml:id="mortier">
+            <persName>Mortier</persName>
+          </person>
+          <person sex="M" xml:id="messer">
+            <persName>Messer</persName>
+          </person>
+          <person sex="M" xml:id="francois">
+            <persName>François</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#alois_has"><role><persName>Alois Has</persName></role>, <roleDesc>Rentier</roleDesc>.</castItem>
+        <castItem corresp="#caroline_dick"><role><persName>Caroline Dick</persName></role>, <roleDesc>Wittfrau</roleDesc>.</castItem>
+        <castItem corresp="#gaston_sansfaute"><role><persName>Gaston Sansfaute</persName></role>, <roleDesc>Fawrikant</roleDesc>.</castItem>
+        <castItem corresp="#emile_fettherz"><role><persName>Emile Fettherz</persName></role>, <roleDesc>Rentier</roleDesc>.</castItem>
+        <castItem corresp="#hauser"><role><persName>Hauser</persName></role>, <roleDesc>Stüdent</roleDesc>.</castItem>
+        <castItem corresp="#mortier"><role><persName>Mortier</persName></role>, <roleDesc>Stüdent</roleDesc>.</castItem>
+        <castItem corresp="#messer"><role><persName>Messer</persName></role>, <roleDesc>Dokter</roleDesc>.</castItem>
+        <castItem corresp="#francois"><role><persName>François</persName></role>, <roleDesc>Garçon</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> 1. SCENE. </head>
+        <stage>(D’r M. Alois Has unn d’Mme Caroline Dick sitze  an-e-me Dischel im Vordergrund. D’r Garçon kummt  vun Zytt ze Zytt eryn unn serwiert.)</stage>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Myni lieb Carline, dü kannsch d'r gar nitt vor- stelle, wie ich mich uff unseri Hyroot fraij ! Weisch, wemm’r syn Læbdesdaa Jungg’sell isch g’sinn, no brücht m'r numme ze lueje, wieviel Knepf ass eim am Kleid fæhle, fur jügiere ze kenne, was e flyssigi Hüssfrau wært isch!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Warum hesch de denn no nitt schun længscht g’hyroot, liewer Alois ? Alois <stage>(fur sich)</stage> : Wyll ich noch Geld habb g’hett ! <stage>(lütt)</stage> : Ho, worum ? Wyll ich arich vorsichtig bin g’sinn! E Frau hett m'r ball, awer m'r weiss nie, was fur aani ! Waije dem haw-ich mir au bis jetzt allewyll mit Patentknepf üss d'r Not g’holfe. In dir awer, chère Caroline, haw-ich enfin e Frau g’funde, wo mich glicklich mache kann !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Dü witt saawe, wo dich vun de Patentknepf erleest!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Gell, jetzert witt dü mich au noch ütze ! Awer wart numme, wenn mir zwei erscht emool im Kæschtel hænge ! Drej Wuche sinn by de hytti moderne Verkehrsmiddel schnell erum. Ich will d'r no schun zeije, ass ich d’Hosse-n-an habb !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Unn ich dir au !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Très bien ! G’sundheit, Liewi ! Uff e gueti Zuekunft im heiliche-n-Ehstand ! <stage>(Trinkt.)</stage></p>
+          <pb n= '6' />
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Numme nitt so gepressiert, Aloisel ! Zuem Ins-Kæschtel-hænge haw-ich bis jetzt myni Per- mission noch nitt gænn !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Wa-a-as ! Hesch de dir ’s am End widder an- dersch iwerleijt?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Diss nitt grad !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Odder hesch de-n-am End ebbs üsszesetze-n-an mir ?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Hm, was soll ich do saawe !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Oho ! Ich proteschtier ! Dü krejsch mir ma foi kaan Trepfele Wyn meh ! — Ja, g’fallt d'r denn ebbs nitt an mir? Ich habb doch par exemple kaan Romanbaan !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Was sinn denn diss fur Baan ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>So wie im-e Roman ! ’s erscht gehn s’e-n- üssenander, unn no « kriegen » s’e sich widder, diss heisst, se kumme widder z’amme! <stage>(Zeijt mit de Hænd d’Form vun O-Baan.)</stage></p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Dü kaiwe Witzbuckel! — Naan, diss maan ich nitt.</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Ja, was denn no ? reg : Hm, ich weiss nitt, wie ich mich üssdrucke soll !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Dü bisch au gar kaan Zitron !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Alois, heer jetzt enfin mit denne Schnæcke- dænz uff! Mir welle jetzt emool e’'n-ernscht’s Wertel mitnand redde! Ich bin næmlich vun jehere-n-e bissel arich romantisch veranlaat g’sinn! Weisch, wo ich als Maidel noch in d’hee- cher Deechterschuele bin gange ...</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Bisch de denn do nitt diermlich worre ?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Alois, wenn de jetzt nitt mit dem iwer- zweriche Gebabbels uffheersch, no...</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Calmier dich, Carline ! Ich habb jo numme gemaant, ass dü als klaans Düddele so hoch hesch miehn nuffkrawle !</p>
+          <pb n= '7' />
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Also wyddersch im Text! Wo ich also noch e klaan’s Maidel bin g’sinn unn....</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Diss isch allewæj schun lang here !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Was hesch de g’saat ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Ich ? Ich habb g’saat, ass de zelldürs allewæj viell hesch miehn lehre !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Diss will ich maane ! Nix als wie prak- tisch’s Dings! Par exemple Klavierspiele, Singe, Tennisspiele, Danze! Unn no surtout au Roman- tik! Oh, d’Romantik!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Ich kenn s’e ! Ich habb jo schun e ganzi Mas- sion Romaner gelæse ! Caroline <stage>(enthusiastisch)</stage> : By mir muess alles ro- mantisch zuegehn ! Waije dem haw-ich au myne- n-erscht Mann seli so arich gern g’hett ! Syn ro- mantisch-martialischer Schnüzer par exemple isch d'r Schlissel g’sinn, wo ’r alli Frauehærzer mit uffgemacht hett !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Ja — ja — bin ich dir denn am End nitt ro- mantisch genue? Luej mich doch emool genau an!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Loss mich üssredde, Dicker ! Dü dærfsch nitt bees sinn, wenn ich dir saa, ass mir myn erschter Mann seli viell küraschierter unn ritter- licher vor isch kumme als wie dü. Er isch so e’n-Espèce vun « Prinz von Fürchtenichts und Tuerecht » g’sinn !</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Also myni Visasch g’fallt d'r ?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Nitt iwel!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Also numme myn Charakter nitt ?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Diss haw-ich noch nitt g’saat, denn ich habb jo bis jetzt noch kaan Bewys vun dym Kürasch g’sæhne!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Sell isch wohr ! Ich bin au gar nitt d'r Mann, wo mit syne guete-n-Eijeschafte kolportiere geht. Wenn ’s awer druff ankummt, no kann ich au zeije, ass ich kaan Spitalsupp in de-n-Oodere habb! O, wenn ich verzehle wott! Wenn par exemple d'r Dempsey vun aam Mensch gebatscht wære kann, no bin gewiss ich’s! Do, gryff emool myne Bœju! Do sitzt d’Romantik kryzwyes drinne! Schad, ass nitt grad e Leeb odder d'r Landru in d'r Næhde-n-isch ! Maansch, wie ich ’s denne zeije dhæt ! Unn fur dich, Carline, fur dich gængt ich directement durich ’s Fyer !</p>
+          <pb n= '8' />       
+	   </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>So hett seller Mann au vor d'r Hochzytt g’saat. Unn wo ’r no g’hyroot isch e’sinn, hett ’r sym Wyewele nitt emool üss ’m Kanal e Wasser- ros g’holt, wo s’e gern g’hett hatt. Unn wo s’e ’ne no an syn Verspreche vun vor d'r Hochzytt gemahnt hett, hett ’r ganz calme g’saat : « ’s isch meejlich, ass ich friehjer emool g’saat habb, ich gængt fur dich durich ’s Fyer — vun Wasser isch awer ganz b’stimmt nie d’Redd g’sinn ! »</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Naan, naan, ich bin kaan so Wortklüwer. Wenn ’s druff ankæm, ze gængt ich fur dich du- rich e Granatræje odder ohne Pass iwer d'Kæh- ler Bruck, ja, ich dhæt sogar mit d'r Ysebahn uff Paris fahre ! Diss will doch ma foi viell Kü- rasch heisse !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Oh, dü myn liewer Alois ! Dü bisch myn dicker, klaaner Held ! Ich habb mich gedrum- piert in dir ! Jetzt sollsch dü au e gfitzt ’s Schmit- zel hann fur dyne Kürasch unn — wyll ’s niemes sieht. <stage>(Sie gænn sich e Schmutz.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>A-a-h ! Wie siess ! Wie gezuckert’s Saccharin! Gell, Goldamsel, morje dærf ich uns anschlaawe lonn ? Weisch, ich kenn de Standesbeamt per- seenlich! Der serwiert uns no viell besser als wie d’andere hyrootsluschtige Pærle !</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Myntwæje, cher Alois ! Ich kann ’s jo schier sælwer nimmi verwarte, bis ass ich dyni Patentknepf expülsiere kann !</p>
+		  <pb n= '9' />
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Uff diss anne — G’sundheit, Carline ! <stage>(Trinke. Iwerdem geht d’Dier uff, unn d'r M. Sansfaute, im e’n-elegante Ryttkleid unn e Ryttgert in d'r Hand, kummt ganz nonchalant eryn, geht am M. Has durich unn stosst 'm im Durichgehn zue- fællig mit syne Spore-n-an d’Fiess unn setzt sich, ohne sich ze-n-exküsiere, an e Disch vis-à-vis.)</stage> Alois <stage>(guetmietig daub-witzig)</stage> : Ich bin doch kaan Ross, ass Sie mir d’Spore gænn. — ha-ha-ha ! Sansfaute <stage>(hochmietig)</stage> : Sie welle sich schynt’s mit mir in e Conversation ynlonn ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Oh, naan ! Ich habb numme so gemaant !</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute :</speaker>
+          <p>No quatsche Sie mich au nitt an, denn ich habb kaan Interesse dran, fur Ihnne zue e paar Franke-n-Unfallgeld ze verhælfe ! — Garçon ! Une bouteille Carte Blanche ! Mais vite, vite !</p>
+        </sp>
+        <sp who="#francois">
+          <speaker>François :</speaker>
+          <p>Ich fliej jo schun, Monsieur ! <stage>(G’schwind ab.)</stage></p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <stage>(lütt)</stage>
+          <p>Isch diss awer emool e’n-ung’howel- ter Flejel ! C’est scandaleux !</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <stage>(ohne grossi Uffrejung)</stage>
+          <p>Wenn Sie Verlanges hann, fur mit dem do <stage>(droht mit d'r Ryttgert)</stage> Bekanntschaft ze mache, no brüche Sie sich numme noch wyddersch mit mensche- æhnliche Teen iwer mich ze-n-unterhalte! <stage>(Langt sich e Zyttung unn læst; d'r Garçon serwiert ’ne-n-unn geht widder ab.)</stage></p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <stage>(uffgebroocht, awer numme fur de M. Has  b’stimmt)</stage>
+          <p>Alois, hesch dùü’s g’heert, was der Drueli zue uns g’saat hett ? Beleidigt hett’r mich! Et toi aussi! Unn so ebbs losch dü dir so ruehjich g’falle ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(verlæje)</stage>
+          <p>Calmier dich, ma chère! Er wurd’s nitt so schlimm gemaant hann! So ebbs rutscht aam emol so erüss!</p>
+          <pb n= '10' />
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Ah so! Am End rutscht dir au emool so ebbs erüss, wenn mir g’hyroot sinn!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ei jo, was hett denn diss mit unserer Hyroot ze dhuen? Odder soll ich jetzt waije so-e-me harmlose Wertele Krach anfange!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Unn diss frœjsch dü mich? Unn harmlosi Wertele heisch dü diss? Eh bien, merci! Weisch dü denn gar nitt, was de ze mache hesch, wenn dyni Frau insültiert wurd?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Awer dü bisch jo noch gar nitt myni Frau!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Gott sej Dank nitt ! Ich kann allewyll noch myni Demission gænn!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Awer doch nitt waije so-e-me Dreck!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Ah so — Dreck! Glych behaaptsch dü am End au noch, ass mir der ung’howelt Fitzer Com- plimenter gemacht hett! Weisch, ich glabb als, ass de kaan Kürasch hesch, fur denne Grobian ins Gebætt ze nemme!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Saa diss nitt! Wenn ich bees wurr, no fericht ich zeh Mænner nitt!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Na, no lang d'r doch diss Birschtel!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>’s isch jo awer numme-n-aaner, unn no kann ich au mit’m beschte Wille nitt bees wære!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>E Hasefuess bisch de, denn schunscht dhætsch dü ‚wisse, was de ze mache hættsch!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja — was denn?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Unn diss muess ich dir ererscht noch saawe? Dü muehsch denne Fitzer zue’'me Düell fordere, denne Patentaff mit syne Gaisedærm an de Baan! By Insültierunge wurd’s allewyll so gemacht!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Wa—a—as? Zue’me Düell fordere! Gell, dir isch’s nitt guet! Naan, naan! Diss gitt’s jetzt doch nitt ! Ja, worum denn numme-n-au ?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Wyll’r dich, am meischte-n-awer mich, wo ich doch e besseri Dam bin, schwær beleidigt hett! <stage>(Fangt an ze hylle.)</stage> Oh, wie bin ich doch so arich unglicklich !</p>
+           <pb n= '11' />
+		</sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja, hett’r uns denn daadsæchlich beleidigt?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Wenn dü diss nitt begryffe kannsch, no gehn halt unseri Ehrbegriff unn unseri Wæj üssenand! Do isch myn erschter Mann seli doch en-anderer Mann g’sinn! Der hætt üss dem Müllathlet schun lang G’hackts gemacht! Ich wott, er dhæt noch læwe!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Ich au! <stage>(lütt)</stage>: Unn uff was soll ich’ne denn fordere?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Uff Revolver naturellement! Diss weiss ich üss de Romaner, wo ich gelæse habb.</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Wenn ich so viell ze saawe hætt wie nitt, no kæmte mir alli Romaneschryewer læweslænglich uff Cayenne! <stage>(lütt)</stage> : Uff Revol- ver? Ja, saa emool, uff geladeni?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Uff was denn schunscht furichti!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Isch denn nitt grad e Blitz ierigs in d'r Næhde! Mon Dieu! <stage>(lütt)</stage>: Uff Revolver? Uff geladeni? Ja, saa emool, vun denne, wo so knelle, wemm’r mit schiesst?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Gitt’s denn anderi?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Do kann mir jo no der Mensch e Loch in d'Gedærmer schiesse, so ass mir jo kaan Supp meh im Maawe hebbt!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Myni Ehr hett au e Loch!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Diss macht awer doch nitt weh!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Wenn dü kaan Ehrg’fiehl hesch, no haw- ich’s! Bref, ich verlang vun d'r, ass dü mir diss Loch in mynere-n-Ehr widder flicksch!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Liewi, siessi Carline, luej, ich halt nitt viell vun g’flicktem Dings! Diss isch nix Ganzes unn nix Halbs! t</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Denk an d’Villa, wo ich mit in d’Eh bring!</p>
+          <pb n= '12' />
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Grad an die denk ich jo! Mon Dieu, mon Dieu!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Denk an d’hundertdœjsig Frænkle, wo ich uff d'r Bank habb!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ich denk jo dran! Ma chère Caroline, awer muess’s denn sinn? Kannsch dü mich denn nitt begnadige?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Naan ! Ich b’steh druff ! Myne-n-Ehre- schild loss ich mir nitt vun so-e-me Lackel verschmiere! Odder mir zwei sinn sini mitenand!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Stærwen-n-odder d’Carline mit ihrem Geld verliere, diss isch fur mich kaan Unterschied, denn myn bissel Vermeeje isch ver- pulvert! <stage>(lütt)</stage>: Bon, Carline, dü sollsch sæhn, ass ich Kürasch habb! Unn wenn s’e mich no als doodi Lycht haame bringe, no kannsch dü uff myne Grabstaan schryewe lonn: « In seiner Seelennot starb er den Heldentod!»</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Nitt allewyli glych ’s Schlimmschte denke! Bring awer jetzt dyni Forderung an! <stage>(fur sich)</stage>: Ich will doch au emool saawe kenne, ass sich waije mir zwei Mænner düelliert hann! Oh Ro- mantik, myn Ideal!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Hoffetlich akzeptiert’r myni For- derung nitt! <stage>(lütt)</stage>: Carline, jetzt pass emool uff, wie ich mit dem verfahre dhue — gentle- manlike! <stage>(Steht uff unn geht verschichtert an de Disch vum M. Sansfaute. D’Conversation, wo jetzt g’fiehrt wurd, isch nitt fur d’Mme. Caro- line b’stimmt; sie kann in dere Zytt e Hand- arweit vornemme unn vun Zytt ze Zytt wunder- fitzig unn nitt ohne Graddel an de-n-andere Disch niwergücke.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Pardon, Monsieur ! <stage>(Huescht, fur de M. Sansfaute uff sich uffmeriksam ze mache.)</stage> Has! Alois Has isch myn Namme! Sie sinn vorig so a-13- frindlich g’sinn, mich ze beleidige unn au die Dam dort, wo ich in drej Wuche hyroote will unn wo e Witfrau mit’re Villa unn hundertdœjsig Frænkle in bar isch! Welle Sie diss noch emool mache?</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Ja!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Um ’s Himmelswille nitt! Mir langt schun diss aante Mool!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>No beleidige Sie myn Scheenheitsg’fiehl nitt mit Ihrer Gejewart unn verschwinde S’e!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Sofort! Sie permettiere awer noch aan Se- kund ! Ich soll Ihnne do myn Visitekærtel ab- gænn!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Soll? Wer hett Ihnne denn denne Rote- Radler-Uffdraa gænn ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Myni Frau, wo ich in drej Wuche hyroote will!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute :</speaker>
+          <p>Unn was soll ich mit dem Zettele ? Ich meecht durich Ihri Bekanntschaft nitt in e schlæchte Ruef kumme!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Na, m'r macht’s doch so, wemm’r gern e Revolver-Düell hann meecht! Ich habb’s schun so im Kinnes g’sæhn!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute :</speaker>
+          <stage>(uff aanmool ironisch-frindlich bis zuem  Schluss)</stage>
+          <p>Ah, e Düell-Forderung! Fraid mich! Ich nemm awer an, ass Sie satisfaktionsfæhig sinn?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Gewiss ! Ich bin sogar zue allem fæhig ! Awer — awer welle Sie denn myni Forderung au daadsæchlich akzeptiere?</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Awer mit d'r greescht Fraid!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Vun Fraid g’spier ich by mir noch nix! <stage>(lütt)</stage>: No war also alles fur’s Düell erledigt?</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Oh naan! Do isch ererscht emool myni Visitekart!</p>
+          <pb n= '14' />
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Verdeckel, ich habb schun gemaant, ass’r ’s vergesst !</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Unn myne Sekundant schick ich morje zue Ihnne, fur ass’r mit Ihrem alles andere noch üssmache kann. In Düellsaches bin ich arich korrekt!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Ich pfyff druff, korrekt iwer de Hüffe g’schosse ze wære! <stage>(lütt)</stage>: Bon, myn Sekundaner wurd au parad sinn. Hoffetlich drucke Sie bym Schiesse e’n-Au zue?</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Allewyll, unn zwar ’s linke!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Alli zwei wær mir liewer! <stage>(lütt)</stage>: Bon! Sie exküsiere jetzt, ass ich Sie deranschiert habb!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Au contraire! ’s hett mich arich g’fraid! Au plaisir! <stage>(fur sich)</stage>: Alter Idiot, dü sollsch an mich denke! Alois <stage>(geht widder an syne Disch; unterwæjs fur sich)</stage>: Denne fraid numme-n-alles! M’r kennt jo grad maane, er isch’s, wo doodg’schosse wurd! Oh, armer, dooder Alois! Dü wursch verschosse, wyll dü in d’Carline verschosse bisch! <stage>(lütt)</stage>: Na, chérie, bisch de jetzt zefridde mit mym Leewekürasch? Bin ich nitt de Winkelried nu- méro deux?</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Alois, dü bisch e Held, myn Held! Ich habb zwar nitt alles verstehn kenne, awer ich habb g’sæhne, ass Ihr Ejch Ejeri Visitekærtle gænn hann!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja, denk d'r, er hett myni ma foi akzeptiert!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Unn wie kavaliermæssig ass dü dich be- numme hesch! Ganz romantisch!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Garçon! Payer! Allons, vite! <stage>(Bezahlt unn geht ohne Bonjour furt.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Unn hesch de-n-au g’sæhne, wie ’r z’samme- geknickt isch, wo ich niwer bin?</p>
+          <pb n= '15' />
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Diss nitt grad! Er isch jo noch nitt emool uffg’stande!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Na ja, er hett halt vor lütter Angscht nimmi uffstehn kenne!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Awer Kavalier isch’r doch, ass’r uff dyni Forderung yngange-n-isch!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Nitt yngehn! Ich hætt'ne no schun dezue forciert! Weisch, in Düellsaches bin ich arich korrekt!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Wie heisst’r denn? «Gaston Sans- faute»! Na, wart, dir wære mir dyni Fæhler schun üsstryewe! Unn Fawrikant isch’r! Wohrschynt’s so e Kriejsgewinnler odder Spekülant!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Nix als wie Malchance, denn Spe- külante schiesse jo selte denæwe! <stage>(lütt)</stage>: Na, ich wurr’ne schun vun sym Geld erleese! <stage>(fur sich)</stage>: Odder er noch ehnder mich! Ich maan jetzt schun, ich hætt e Dutzed Kœjle-n-im Büch!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline :</speaker>
+          <p>Cher Alois, ich bin stolz druff, ass dü mich so ritterlich in Schutz nemme dhuesch! Dü sollsch au e g’fitzt’s Schmitzel hann!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Jo, ’s wurd doch ball ’s letschte sinn uff dere Welt. <stage>(Sie verschmutze sich.)</stage> <stage>(Schluss vun d'r 1. Scène.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 2. SCENE. </head>
+        <stage>(’s isch friehj am Morje. Uff-e-me Waldwæj kumme  dr M. Has unn dr M. Emile Fettherz.)</stage>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Also diss wær diss Plætzel, wo ich myne letschte Schnüfer uff dere bucklichte Welt mache soll! ’s soll arich g’sund sinn, wemm’r in Gottes frejer Nadür unn dezue noch friehj am Daa stærwe dhuet!</p>
+          <pb n= '16' />        
+		</sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>’s fraid mich numme, ass de noch e guete Galjehümor hesch!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Jetzt heert sich doch alles uff! Hümor! Mir isch’s au contraire ganz liederlich ze Muet! ’s Hyroote wær mir, glauw-ich, nitt so schwær an- kumme als wie diss malefizte Düell!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Numme kaan Angscht, mon vieux! Dü hesch dich jo drej Daa lang im Schiesse træniert!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ich bitt dich, heer m'r uff! ’s isch e Wunder, ass m'r nitt d’Drummelfeller deby geplatzt sinn! D’r Revolver isch als zyttewyes fyericht heiss worre! ’s raanschte Drummelfyer isch’s e’sinn!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Isch’s, wie’s will — jetzt heisst’s Kürasch hann unn sich nitt blamiere!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Dü hesch guet babble! Stærbsch dü odder stærb ich? Myn Dood isch Blamasch genue fur mich!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Denk an d’Madame Caroline, no fallt dir’s noch emool so lycht!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja, bildsch denn dü dir yn, ass ich zue mym Plæsier dohere kumme bin! ’s waer ma foi bes- ser, wenn ich nitt so viell an s’e denke dhæt! Ja, e-n-Erpressung isch’s, was do vun mir ver- langt wurd! Ich bring mich noch um ... naan, naan, diss heisst, ich wurr noch verruckt!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Mir kann so ebbs nitt arrewiere! Ich hy- root nitt, unn wenn ich’s glych vor hætt!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ah, Emile, dü gemahnsch mich do grad an ebbs! E Teschtament haw-i nitt gross ze mache g’hett, ich habb awer doch an dich gedenkt: Dü sollsch d’Carline mit zamt ihrem Hüss unn Geld hann, wenn ich mit-e-me Loch in d'r Seel nuff in de Himmel dippel! Versprech mir, ass dü d’Carline hyroote dhuesch, wenn ich s’e-n-als myni leddig Witfrau zeruckloss!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Mensch! Undankbarer! Diss isch also d’r Dank fur myni trej Frindschaft! Liewer will 17 — ich an dym Platz diss Düell hytt üssfæchte, fur ass dü d’Madame Caroline hyroote kannsch.</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Naan, diss geht nitt! D’Caroline will mich jo partout numme no erscht hyroote, wenn ich mich fur ihri Ehr habb doodschiesse lonn! Oh, e wunderbari, e grandiosi Romantik!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Armer Frind! <stage>(fur sich)</stage>: Ich glabb myn Seel, ’s wær besser, wenn’r hytt syn Læwe losst, als wie wenn’r sich romantisch verhyraschple dhæt!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Hoffetlich vergesst d'r Monsieur Sansfaute ’s Kumme!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Na, na, diss glauw-ich jetzt doch nitt! Weisch, ich ... Attention! Kopf hoch! ’s kummt ebber! <stage>(D’r Dr. Messer unn dr M. Mortier kumme. Messer draat e Verbandskaschte, Mor- tier e Revolverlad.)</stage></p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Aha, aan Partej isch schun présent! Jetzt fæhlt numme noch d’ander, wenn ich ræcht sieh!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Allerdings, zwei Parteje miehn’s s’wen- nischt sinn! <stage>(Allgemaani Begrüessung.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Bonjour, Monsieur le Docteur! Hann S’e de Doodeschynn schun üssg’fillt ?</p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Numme dr Namme fæhlt noch, wenn ich eræcht sieh! Sie odder d'r ander!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ah, Sie, Herr Schiedsrichter! Hoffetlich ver- saawe-n-Ihri Pischtole-n-im ræchte Moment?</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Kaan Angscht! Bis jetzt isch noch jeder zefridde g’sinn, wo mit myne Pischtole dood- g’schosse-n-isch worre!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Dü dærfsch beruehicht sinn, Alois, d'r Mortier isch Fachmann uff dem Ge- biet!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ich glabb’s gern! ’s isch jo au e grossi Be- ruehichung, wemm’r weiss, ass m'r fachmæn- nisch stærwe dhuet!</p>
+          <pb n= '18' />
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer :</speaker>
+          <p>So saa ich au allewyll ! Vun myne Clients isch au noch kaaner schynndood begraawe worre, wenn ich eræcht sieh!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>No isch jo alles guet! Wenn im Monsieur Mortier syni Pischtole nitt ganz lange sotte, no isch jo noch allewyll d'r Herr Dokter do, wo mir no de Rescht gitt! Na, ich denk myn Læbdes- daa an myne Dood! Ich glabb, ass noch niemes mit meh Vorsichtsmassrejle g’storwe-n-isch als wie ich!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Na also! Was joomersch de denn no?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Oho, ich wurr mich doch noch bedüre dærfe! — Sie, Herr Dokter, fur ass ich’s nitt vergess! Wenn ich dood bin, will ich seziert sinn! Ich will doch wisse, uff was fur e-n-Art ass mich d’Kœjel umgebroocht hett!</p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Avec Plaisir, Monsieur Has, wenn ich eræcht sieh!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Der fraid sich au! Ich glabb, er kann’s kümm verwarte, bis ass’r mir in mym Büch erumnuehle kann! <stage>(D’r M. Sansfaute unn d'r M. Hauser kumme.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(meh fur sich)</stage>
+          <p>Ze-n-isch’r also doch kumme, der Angschthas! Myni letscht Hoffnung geht fleete! Læb wohl, Carline! Ich bin füddi!</p>
+        </sp>
+        <sp who="#hauser">
+          <speaker>Hauser:</speaker>
+          <p>Herr Schiedsrichter, isch alles gerischt?</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Ja, ’s kann losgehn! <stage>(Mortier unn Messer mache-n-ihri Kæschtle-n-uff unn præpariere-n-alles.)</stage></p>
+        </sp>
+        <sp who="#hauser">
+          <speaker>Hauser :</speaker>
+          <p>Gaston, ich kann dich gar nitt kapiere, ass dü dich iwerhaapt mit so-e-me Mensch düelliere witt! Luej d'r numme diss Bild an! Wie wenn’r kaan Knoche-n-im Lyeb hætt! Der bringt dir kaan Ehr yn!</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Jo, ich versteh’s selwer nitt, worum ich mich mit dem Hiffele-n-Elend yngelonn habb. Awer dü weisch jo, ass grad an sellem Daa bym Renne myn bescht’s Ross g’stirzt isch; unn do haw-i no so e Rœjes g’hett, ass ich m'r g’saat habb, d'r Erscht-Bescht, wo mir hytt krumm kummt, muess mir’s biesse. Na, unn d'r Erscht- Bescht isch no halt diss wacklig Stickel Meewel dort driwe g’sinn!</p>
+          <pb n= '19' />
+		</sp>
+        <sp who="#hauser">
+          <speaker>Hauser :</speaker>
+          <p>Unn was no, wenn’r dich in synere dicke Daubheit iwer de Hüffe schiesst ?</p>
+        </sp>
+        <sp who="#gaston_sansfaute">
+          <speaker>Sansfaute:</speaker>
+          <p>Der mich? Wenn ich dem Unglickswurm e-n-alte, roschtige Schlittschueh in d’Hand druck, no maant’r au, er kennt mit schiesse!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Alles fini!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>So? Ich habb als gemaant, ’s soll ererscht losgehn!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>D’Conditione sinn: finef Schritt Distance unn pro Kopf aan Schuss! D’r Monsieur Has, wo sich fur beleidigt bedracht, darf s’erscht schiesse!</p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Diss kann lange fur mich, wenn aaner exakt træfft!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Hann viellycht d’Herre Sekundante-n-ebbs ynzewende ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja, ja! Ich will.</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Witt dü ’s Müll halte! Do redd ich! — Naan, ich habb nix ynzewende!</p>
+        </sp>
+        <sp who="#hauser">
+          <speaker>Hauser :</speaker>
+          <p>Ich au nitt ! Alois <stage>(zuem M. Fettherz)</stage> : Ich wurr schynnt’s gar nimmi g’frœjt? Stærbsch dü odder stærb ich?</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Diss verstehsch dü nitt! Diss heisst m'r Ehr!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ich bedank mich, wemm’r dran stærbt!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Vor allem frœj ich noch emool, ob kaan Verseehnung in Guetem meh meejlich isch ?</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Doch! Doch! Ich...</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Bisch de jetzt ball emool stille! Dü hesch gar nix mit drynzebabble!</p>
+		  <pb n= '20' />
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <p>Widder emool nitt ! Mir an! Ich bitt dich awer, saa ja! Ich will liewer uff dere scheene Welt in Fridde læwe, als wie uff'm Gottsacker in Fridde schloofe!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Bisch de gebickt, Alois! Denk doch an d’Madame Caroline!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ah so, waije dem brüch ich e Sekundant — fur ass’r mir scheen hælfe dhuet, fur ass ich so g’schwind wie meejlich vun dere g’fitzte Welt abdampf!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Does Fettherz, ich pass uff Ihri Ant- wort!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>D’r Monsieur Has nemmt Abstand vum Düell, wenn sich d'r Monsieur Sansfaute by ihm exküsiere dhuet!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Diss hett’r nitt schlæcht gemacht! Ich dhæt’s awer au ohne-n-Exküs mache!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier :</speaker>
+          <p>Unn Sie, Monsieur Hauser ?</p>
+        </sp>
+        <sp who="#hauser">
+          <speaker>Hauser :</speaker>
+          <p>Unter kaanere Bedingung ! D’r Monsieur Sansfaute hett sich noch nie exküsiert!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Baddabing! Do haw-ich jetzert de Salat! <stage>(zuem M. Fettherz)</stage>: Emile, dü bisch schuld an mym Dood! Saa s’wennischt im Schiedsrichter, ass’r mich bym Schiesse vier Schritt soll vorgehn lonn, denn d'r Monsieur Sansfaute isch jo numme halb so dick als wie ich! Ich muess also viell besser ziele-n-als wie er!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Witt de dich noch meh blamiere?</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>No also los! <stage>(Jeder Sekundant nemmt e Revolver üss d'r Lad, luejt’ne nooch unn gitt’ne sym Düellant.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Revelverle! Mach dyn Sach guet! Glych d’erscht Kœjel muess treffe — odder au nitt!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Jetzt wurd d’Distance abgemesse! <stage>(Messt 5 Schritt ab.)</stage> Alois <stage>(zuem M. Fettherz)</stage> : Oh je! Was der fur klaani Schrittle macht! Dærf ich se nitt mache? E jeder dhæt zwanzig Mæter lang wære! Do kamm’r jo noch nitt emool de-n-Arm eræcht grad mache, wenn der so gyzig messe dhuet!</p>
+          <pb n= '21' />
+		</sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Sej stille! Er weiss schun, was’r macht!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Ja, mich hin!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>So! Welle die Herre jetzt an ihri Plætz gehn!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois :</speaker>
+          <stage>(fur sich)</stage>
+          <p>’s fehlt numme noch, ass’r saat: « Bitte recht freundlich! » <stage>(D’Düellante stelle sich vis-à-vis uff, d’Sekundante im-e’n-Abstand devun unn d'r Schiedsrichter in d’r Middle-n-üsswærts.)</stage></p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Wenn ich drej gezehlt habb, no schiesst d'r Monsieur Has!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>In Gott’s Namme denn! Læb wohl, Carline!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Aans! — Zwei! — Drej! <stage>(D’r M. Has nemmt e ganz unmeejlichi Pos yn, zielt mit’m Revolver viell ze hoch, luejt deby in e ganz anderi Direktion unn schiesst. D’r M. Sansfaute steht ruehjich do.)</stage></p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Fini! Ohne Blessüre!</p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Wenn ich eræcht sieh, ze süst d’Kœjel noch durich d’Luft! Die macht mir kaan Travail meh!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz :</speaker>
+          <stage>(zuem M. Has)</stage>
+          <p>So, jetzt hesch’s! Dü Kaffer!</p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Halt! ’s gælt nitt! D’r Revolver isch krumm! Drejmool isch Bueweræcht!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Geh, blamier dich nitt noch meh! Erum isch erum!</p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Attention! D’r Monsieur Sansfaute kummt dran! Aans! — Zwei! — Drej! <stage>(D’r M. Has dræhjt, buckt sich unn hüpst riwer unn niwer unn briehlt deby: «Oh! Oh! Nitt! Nitt! Nitt schiesse! Halt! Ich ergibb mich! »)</stage> Sansfaute <stage>(wo schun gezielt hett, nemmt de Revolver widder erabb, geht g’schwind uff de M. Has los unn gitt'm zwei Ohrfeje)</stage>: Da! Da! Do hann Sie Satisfaktion! ’s isch mir jo nie yng’falle, uff Sie ze schiesse! Ich habb numme sæhn welle, was fur e Held ass Sie sinn!</p>
+          <pb n= '22' />
+		</sp>
+        <sp who="#hauser">
+          <speaker>Hauser :</speaker>
+          <p>Bravo ! So isch’s eræcht ! <stage>(D’r M. Sansfaute wærft de Revolver ins Gras unn geht mit’m M. Hauser ab.)</stage></p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Halt! Diss isch unvorschriftsmæssig! Ich proteschtier!</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Sofortigi Satisfaktion bis zuer Kampf- unfæhigkeit! Alois <stage>(wo bis jetzt ganz starr dog’stande-n-isch, ganz verklært)</stage> : Sinn Ihr denn verruckt! Lonn s’e doch laufe! Ich exküsier’ne-n-alles! <stage>(D’Madame Caroline kummt in dem Moment zwische de Baim evor.)</stage></p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Isch’s Düell schun fini? Unn dü læbsch noch, myn dapfer’s Mænnel ! Dü Held ! D’r ander isch also dood! Wo isch’r? Hann s’e’ne sehun furtg’spediert?</p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Madame, wenn ich eræcht sieh, ze hett’s leider kaan Doodi gænn; noch nitt emool e Bles- sierter! Leider!</p>
+        </sp>
+        <sp who="#caroline_dick">
+          <speaker>Caroline:</speaker>
+          <p>Was? Ich habb awer doch schiesse heere! Alois, hesch dü’ne-n-am End nitt getroffe? Odder isch’r üssgerisse, der Grobian?</p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Madame, d'r Monsieur Has hett’ne leider nitt getroffe, awer... Alois <stage>(als noch ganz verklært)</stage> : Liewi Carline! Gol- dichi Carline! Denk dr numme, was d'r Mon- sieur Sansfaute fur e fynner Mann isch! E grossmietiger Mann! E’n-Edelmann! Wo ich’ne nitt getroffe habb g’hett, no hætt er doch mich doodschiesse kenne! Nitt? Was macht’r awer! Er kummt uff mich zue, schlaat mir zwei uff de Backe unn losst mich nohderd laufe! Unn deby hatt’r doch grad so guet uff mich schiesse kenne wie ich uff ihnne! E fynner Mann! E grossmietiger Mann! E’n-Edelmann!</p>
+          <pb n= '23' />
+		</sp>
+        <sp who="#caroline_dick">
+          <speaker>Carline:</speaker>
+          <p>Ah so, Monsieur! Unn ich bin e’n-Edelfrau! <stage>(Langt’m zwei Ohrfeje unn geht stolz ab. D’r M. Has steht bis zuem Schluss versteinert do.)</stage></p>
+        </sp>
+        <sp who="#emile_fettherz">
+          <speaker>Fettherz:</speaker>
+          <p>Diss hesch de jetzt devun, dü Angschthas! <stage>(Langt’m au zwei unn geht ab.)</stage></p>
+        </sp>
+        <sp who="#mortier">
+          <speaker>Mortier:</speaker>
+          <p>Fi! Fi! Schæmme S’e sich, Sie Hasefuess! <stage>(Langt’'m au zwei unn no ab.)</stage></p>
+        </sp>
+        <sp who="#messer">
+          <speaker>Dr. Messer:</speaker>
+          <p>Unn ich — ich schick Ihnne d’Rechnung am erschte Jænner, wenn ich eræcht sieh! <stage>(Ab.)</stage></p>
+        </sp>
+        <sp who="#alois_has">
+          <speaker>Alois:</speaker>
+          <p>Hætt’r mir liewer au zwei gelangt!<stage>(fallt verzwyefelt ins Gras unn hyllt)</stage>: Oh, Carline! Ich bin verlore ! Ich bin e romantisch’s Opfer mit Patentknepf! <stage>(Fin.)</stage></p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

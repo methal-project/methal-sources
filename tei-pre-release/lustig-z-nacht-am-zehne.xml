@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Z'Nacht am Zehne</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-133"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Z'Nacht am Zehne</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="seppi" sex="M">
+            <persName>Seppi</persName>
+          </person>
+          <person xml:id="franz" sex="M">
+            <persName>Franz</persName>
+          </person>
+          <person xml:id="schutzmann" sex="M">
+            <persName>ne Schutzmann</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#seppi">
+          <role>
+            <persName>Seppi</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#franz">
+          <role>
+            <persName>Franz</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#schutzmann">
+          <role>
+            <persName>ne Schutzmann</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(am Arm vom Franz; si sin beide vom Neüe benewelt)
+                    </stage>
+          <l>Dü... Franz... stell.. stell mi do an d'Müre</l>
+          <l>Un lüeg, wo mir wànn dure geh...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <l>Los... Seppi... bisch z'bedü.. dü.. üre!</l>
+          <l>Kasch nimmig denn alleinig steh?...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Was, was verzählsch... De wirsch's nur meine;</l>
+          <l>Mi Ühre steht nitt... ich ha keine...</l>
+          <l>Du... Du...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(singt)</stage>
+          <l>Ligsch mr im Sinn...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l part="Y">Nei Durscht</l>
+          <l>Ha-n-ich... das ha-n-i welle sage.</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <l>Dü bisch mr noch e schöner Burscht...</l>
+          <l>Dü kasch sechs Liter küm vertrage!...</l>
+          <l>Do... stand do dra... ich... ich will sàh,</l>
+          <l>Eb uns will ebber z'trinke gà...</l>
+          <l>Gib.. gib acht... thüe kei Käpfle schnide!...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Loss mich nitt lang allei eso...</l>
+          <pb n="713"/>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(geht unter dr Boge)</stage>
+          <l>Nei... heb Di siter an de Wide...</l>
+          <l>Aha... do isch e Keller scho!</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(fallt um)</stage>
+          <l>Z'hilf, Franz!... ich ha ne Parterre g'numme</l>
+          <l>Un ha mi Ba.. mi Babegei</l>
+          <l>Ag'schla... ich.. ich glaüb, 's isch entzwei...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(vo witem)</stage>
+          <l>Di Babegei!... die Red... die dumme...</l>
+          <l>Ne Aff hasch... un kei iwler glaüb!</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Mi Backebei... z'Hilf!!..</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt z'ruck)</stage>
+          <l part="Y">Ah!... drum ewe...</l>
+          <l>Halt 's Mül... schrei nitt as .. wi taüb!</l>
+          <l>Kumm do, ass ich Dich ka ufhewe...</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann</speaker>
+          <stage>(knnnt mit schnelle Schritte)</stage>
+          <l>Wer schreit denn hier so wie ein Bär?</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt ku z'daüdle)</stage>
+          <l>'s isch kein vo uns, Herr.. Kummissär!...</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Still... schweigen Sie!...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(am Bode)</stage>
+          <l part="Y">Dà isch noch g'lunge;</l>
+          <l>Er frogt und will kei Antwort ha...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <l>Still... Seppi.... gib acht uf die Zunge...</l>
+          <l>'s isch ha.. halt doch 's Güwerlema!</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>'s isch 's Gü.. Gü... heisch em z'trinke doch...</l>
+          <l>'s derf o fir u .. uns ebbes mache!...</l>
+        </sp>
+        <pb n="714"/>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann</speaker>
+          <stage>(züem Seppi)</stage>
+          <l>Still!... reden Sie... wie ist die Sache?</l>
+          <l>Was machen Sie so spät hier noch?</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Ich wird mich miesse ge.. geniere,</l>
+          <l>Wenn.. wenn ich mich will amüsiere!...</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Na... stehn's mal auf, Sie Trunkenbold!</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <l>Sag... Seppi... dà isch uns nitt hold...</l>
+          <l>Kumm... su.. sunscht git's noch Stempeneie...</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Sie haben jetzt ein Protokoll!</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(zornig)</stage>
+          <l>Ne Procewàrwel!... mir!! jo wohl!!!...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(züem Schutzmann)</stage>
+          <l>Herr Präsident!... Sie mien verzeihe,</l>
+          <l>Wenn ich nitt ufsteh ka allei...</l>
+          <l>Ich ha... ich jo... Sie thien's jo wisse,</l>
+          <l>Halt Rhumetisse in de Bei...</l>
+          <l>Hàn Sie mr viellicht nitt e Kisse!</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann</speaker>
+          <stage>(züem Franz)</stage>
+          <l>Wie heissen Sie?</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(züem Franz)</stage>
+          <l>Lo.. lo..</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann</speaker>
+          <stage>(züem Seppi)</stage>
+          <l part="Y">Still, Sie!</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(fahrt furt)</stage>
+          <l>Lo.. loss ne rede... 's kunnt mr i...</l>
+          <l>'s isch finster... un er hat.. züem schriwe</l>
+          <l>Kei Fedre un kei G'schindetir...</l>
+          <pb n="715"/>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Was Kerl!...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <l part="Y">Thien Sie kaltblietig bliwe,</l>
+          <l>Dr Seppi redt halt hinterfir,</l>
+          <l>'s isch d'Nachtlu.. luft... Sie sàhn's jo wohl...</l>
+          <l>Zeig, Seppi... stand jetzt uf emol!</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Und geh'n Sie ruhig durch die Gassen,</l>
+          <l>Sonst werd ich Sie sogleich abfassen!...</l>
+          <l>Vorwärts... marsch!...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(steht miehsam uf, unterstützt von Franz)</stage>
+          <l>Ma.. marsch! isch gli g'sait... ich will's woge...</l>
+          <l>Ich mächt Se nur emol jetz froge,</l>
+          <l>Wo eigentlig dr Tramway steckt!...</l>
+          <l>Franz... lo.. los... hörsch ne niene ku?</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann.</speaker>
+          <l>Wo wohnen Sie?</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Im alte Spittel!</l>
+        </sp>
+        <sp who="#schutzmann">
+          <speaker>Schutzmann</speaker>
+          <stage>(zeigt unter dr Boge)</stage>
+          <l>Hier durch...</l>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(züem Seppi)</stage>
+          <l>Mr hàn dr Weg güet gnu...</l>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <l>Zeig... Franz... so heb mi denn, Dü Zittel!...</l>
+          <l>Herr Kummissär... Sie känne geh,</l>
+          <l>Mr brüche Se jetz nimmig meh!...</l>
+        </sp>
+        <pb n="716"/>
+      </div>
+    </body>
+  </text>
+</TEI>

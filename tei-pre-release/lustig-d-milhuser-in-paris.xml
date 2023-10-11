@@ -1,0 +1,2964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'Milhüser in Paris</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-114"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">D'Milhüser in Paris</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_emil_helder" sex="M">
+            <persName>Herr EMIL HELDER</persName>
+          </person>
+          <person xml:id="herr_fix" sex="M">
+            <persName>Herr FIX</persName>
+          </person>
+          <person xml:id="herr_finot" sex="M">
+            <persName>Herr FINOT</persName>
+          </person>
+          <person xml:id="elise" sex="F">
+            <persName>ELISE</persName>
+          </person>
+          <person xml:id="frau_simon" sex="F">
+            <persName>Fraü SIMON</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_emil_helder">
+          <role>
+            <persName>Herr EMIL HELDER</persName>
+          </role>
+          <roleDesc>Moler</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_fix">
+          <role>
+            <persName>Herr FIX</persName>
+          </role>
+          <roleDesc>si Nochber</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_finot">
+          <role>
+            <persName>Herr FINOT</persName>
+          </role>
+          <roleDesc>ne alter Mariner</roleDesc>
+        </castItem>
+        <castItem corresp="#elise">
+          <role>
+            <persName>ELISE</persName>
+          </role>
+          <roleDesc>im Herr Fix si Tochter</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_simon">
+          <role>
+            <persName>Fraü SIMON</persName>
+          </role>
+          <roleDesc>Portnere un Stundemagd vom Herr Helder un vom
+                        Herr Fix
+                    </roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Herr Helder, Fraü Simon.</stage>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(rümt 's Atelier uf un staibt ab)</stage>
+          <p>Se mage mr sage was Se wànn, Herr Helder, dr Herr Fix,
+                        unser Nochber dert àne, isch e-n-alter Giftsack, ich
+                        glaüb allewil, ass es e-n-alter Verbrecher isch, wo ne
+                        Last Mordthate-n-uf em G'wisse hat... uf jede fall
+                        isch's nit rar's, denn er git eim nitt emol e Centime
+                        Trinkgeld am Neüjohr...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(rischtet si Chevalet, sine Farwe-n-un sine Pàmsel
+                        un lüegt als wieder züem Fenster üse)
+                    </stage>
+          <p>Allons, allons, Fraü Simon...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>'s isch, wie-n-ich Ihne sag!... Erstens isch er scho
+                        zwölf Johr nitt züer Thüre-n-üse gange, er verlosst so
+                        wenig 's Hüs as e Schnàck si Schaale... zwölf Johr...
+                        was halte Se dervo?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Er blibt halt liewer d'heim, dà Mann...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Er weisst wohl worum... er hat Angst, er wird pàckelt,
+                        das isch d'ganze G'schichte...
+                    </p>
+          <pb n="149"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Un si Tochter... weisst Se nit iwer si Tochter z'sage,
+                        Fraü Simon?...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>D'Jumpfer Elise... wo allewil am Fenster steht un do
+                        iwere lüegt?... Die isch ganz anderscht, 's isch
+                        wohr... Se geht un kunnt, laüft in d'Halle, macht
+                        d'Kuche, flickt in ihrem Vater sine Kleider, wo-n-er
+                        scho tràit siter anno Düwack... er brücht o keine neüe,
+                        fir sich z'verstecke!... Wie-n-er hört geh im Hof, so
+                        laüft er ine wie nitt g'scheidt... we me lütet an dr
+                        Thüre, so zittert er an alle Glieder un losst eim e
+                        Stund warte, bis er ufmacht... ich will Se jetz emol
+                        g'frogt ha, eb sich e-n-ehrliger Christemensch eso
+                        uffiehrt?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie sieht iwerall nur 's Böse, Fraü Simon; si Tochter
+                        isch desto ordliger...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>D'Jumpfere isch e g'schickte Person, das müess me
+                        g'steh... flink un g'mutzt un fröhlig wie ne Vögele, wo
+                        singt vo Morge bis Nacht... Un mit allem dem verdient
+                        se noch ihre zwei Franke 's Tags mit Blüememache, den
+                        ihr Vater hat nur 600 Franke Pension, er isch Employé
+                        gsi un hat jetz si Retraite... ohne si Tochter wisst i
+                        nitt, wie-n-ers mache thàt... drum ka-n-ich awer o nitt
+                        begriffe...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ass ich ihre derf dr Hof mache... nitt wohr, Fraü
+                        Simon?... isch sie's ebbe nitt werth?
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Oh doch!... se isch brav, rechtschaffe un hat nitt dr
+                        g'ringste Fehler... Wenn se uf dr Gasse isch, nitt
+                        wohr, so kännt se schlirge, ummesteh un sich lo
+                        agaffe... <pb n="150"/>doch nei, wie ihre Provisione g'macht sin
+                        oder ihre Arwet furt tràit isch, so laüft se im Galopp
+                        wieder heim un süecht uf alle-n-Arte ihre alte Sünder
+                        vo Vater z'amüsiere, wo nur derno als glicklig isch...
+                        awer denn glicklig!... wie wenn er nitt wisst, wie viel
+                        Verbreche-n-er uf em Mage hat liege... gàn Sie nur
+                        Acht, Herr Helder, dà Mann g'fallt mr nur halwer!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s isch wohr, 's isch e possiger Held... awer wege
+                        dem...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Ne Bàr isch's, wenn ich Ihne sag!... e fremd Gsicht git
+                        em Nervenattacke... 's isch kei Exempel do, ass er emol
+                        mit eme andere Mensch g'redt hat, ass mi siner Tochter
+                        un mit mir... un fir ne üs siner Höhle üse z'bringe,
+                        miesst me ne glaüb eher in hundert Sticker schnide.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s schint doch nitt, Fraü Simon, wil er selbst diemol do
+                        iwere ku isch züe mr, fir mi iz'lade. Ich bi awer o
+                        nitt iwer verwundert gsi!... Herr Helder, hat er
+                        g'sàit, ich heiss Fix und wohn dert àne, un kumm als
+                        Nochber Ihne ku ne kleine Visite mache... awer alles
+                        das hat er g'sàit, wie we me-n-ihm e jeder Wort hätt
+                        miesse üse ziege mit eme Büchonzieger.
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>'s isch d'Angst!... er hat ebbes ag'stellt, dà Mann.</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich ha gar nitt g'funde, ass er im e-n-alte Missethàter
+                        z'glich sieht... 's isch e schicher, stiller Mann, wo
+                        awer allewil wie uf Dörn' isch... d'ganze Zit isch er
+                        unrüehig un lost, ich ha alle Aügesblick g'meint, er
+                        will dervo laüfe.... 's isch eher gsi as thàt er in ere
+                        unsichtbare Macht folge as in sim eigene Wille, fir si
+                        Visite z'mache.
+                    </p>
+          <pb n="151"/>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Parbleu! 's isch si Töchterle gsi, wo-n-en g'schickt
+                        hat... er ka-n-ihre nitt versage.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Meint Se, Fraü Simon?... Sie ka denke, wie-n-ich ne güet
+                        empfange ha... dr Vater vo miner blonde Erschinung,
+                        wo-n-ich bis derthi als nur vo witem am Fenster g'sàh
+                        ha durewitsche!... ass ich ne nitt g'schmutzt ha, isch
+                        alles, wo-n-er mich ig'lade hat, ku dr Owe mit ihm un
+                        siner Tochter z'passiere!...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Sie mien g'wiss lieb si, Herr Helder, ass es bis züe dem
+                        ku isch!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Was fir e herrliger Owe ha-n-ich züebrocht dert!... mr
+                        hàn Cidre un Marone g'ha awer ich ha mich mit ebbes
+                        ganz anders regaliert... O! was fir e herzig Kind, das
+                        Lisele, wie-n-em si Vater sàit!... ich ha mich als in
+                        dr Arm pfàtzt, fir sicher z'si, ass ich nitt schlof...
+                        fir sicher z'si, ass ich wirklig si Stimm hör un si
+                        frindlig G'sichtle sieh, wo als ganz roth worde-n-isch,
+                        wenn ich's ag'lüegt ha... noch nie bin ich so g'licklig
+                        gsi!... Dr Herr Fix hat siwezeh Parthie Ecartés g'wunne
+                        sàller Owe, ohne ass ich's nur g'merkt ha.. ich glaüb,
+                        wenn dr Blitz in dr Tisch g'schla hätt, so hätt's mr
+                        kei Effect g'macht!...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Do glaüw-i scho, ass Se nitt g'sàh hàn, wie-n-er allewil
+                        unrüehig isch... wie-n-er bim g'ringste Làrme z'àmme
+                        fahrt un bleich wird, wenn er d'Hüsthüre hört geh, oder
+                        ebber d'Stege-n-ufe kunnt.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Am elfe bin i derno heim wie mit eme Rüsch, obschon i
+                        nur ei Glas Cidre trunke g'ha ha... un wo <pb n="152"/>mr erst 's
+                        Lisele züem Abschied si Hàndle gà hat, so ha-n-i
+                        g'meint, mi Brust gieng üsenander, weiss wie wit, un dr
+                        ganze Himmel mit alle sine Bewohner kàm sich ku logiere
+                        drin!...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Un siter, Herr Helder?</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Oh! siter isch das Ding vorwàrts gange.<stage>(er schikt e
+                        Blick züem Fenster üse)</stage> Tiens, grad geht 's Lisele dur
+                        dr Hof... au revoir, Fraü Simon!...<stage>(er nimmt g'schwind
+                        si Hüet un laüft hinte züer Thüre-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Eh bien, franchement, ich bedür ne, dr Herr Helder, denn
+                        ich glaüb nitt, ass er glicklig wird... un 's isch doch
+                        eso ne güeter Mensch... er thàt sich üszieh, fir eim e
+                        Dienst z'leiste... doch ich schwàtz do un schwàtz...
+                        anstatt uf mi Thüre-n-Achtung z'gà... 's kännt weiss
+                        Gott wer wott in's Hüs ku schliche.<stage>(se geht
+                        hinte-n-use, me hört se dispetiere im Hüsgang)</stage> 's isch
+                        nitt do... mache-n-ass 'r furt kämme<stage>(d'Thüre geht uf
+                        un dr Herr Finot kunnt ine, hinte-n-an ihm d'Fraü
+                        Simon)</stage> 's isch jo ne Schand fir e-n-Elsàsser, geh
+                        z'bettle!...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Finot, Fraü Simon.</stage>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(zornig)</stage>
+          <p>Wer sàit Ihre, ass ich bettle will?... losst Se mich
+                        doch nur züe Othem ku... ouf! endlig ha-n-ich ne jetz
+                        doch üsfindig g'macht... doch nitt ohne Mieih...<stage>(züer
+                        Fraü Simon)</stage> nitt wohr, 's wohnt e junger Mensch do?...
+                    </p>
+          <pb n="153"/>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Bàh, bàh, bàh... das sin alles nur Flaüse... was fir e
+                        junger Mensch? wie heisst er?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(lipft d'Achsle.)</stage>
+          <p>Ich weiss es jo nitt!...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Allons, allons... fahre-n-ab... un g'schwind e wenig,
+                        oder ich hol bol d'Wacht...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Nur kei sa Làrme, güete Fraü... nur kei sa Làrme... fir
+                        wer nimmt Sie mich denn eigentlig?
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Fir e-n-alter Spitzbüe, wo hat welle in's Hüs ku
+                        schliche... ah, Ihr hàn g'meint, das Ding geht eso
+                        licht?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(fangt lüt a z'lache)</stage>
+          <p>Dunnerwetter noch emol! ich ha schint's 's Asàh nitt vom
+                        e Baron... nitt wohr, güete Fraü?... Ich will Ere denn
+                        sage, worum ass ich do bi... vor allem müess Sie wisse,
+                        ass ich dà letschte Win ter uf Paris ku bi im e ziemlig
+                        misserawle Züestand...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(b'schaüt ne. Fir sich)</stage>
+          <p>Me sieht's jetz noch!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich ha sàller Tag scho achtevierzig Stund nit g'gesse
+                        g'ha un bi, halwer narràchtig var Hunger, vor eme
+                        Comestible g'stande, un do hat mr dà junge Mensch do,
+                        wo wohrschinlig g'merkt hat, wo mi dr Schüeh druckt,
+                        d'Hälfte vo sim Sackgeld offriert:<stage>(fir sich)</stage> wo ha-n-i
+                        nur das G'sicht scho g'sàh g'ha.... In Amsterdam
+                        viellicht?... oder in New-York? viellicht in Mexiko?...
+                    </p>
+        </sp>
+        <pb n="154"/>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Oh, wenn Sie dr Herr Emil meine, er isch noch nie so wit
+                        furt gsi...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Un das isch 's erste Mol, as ich uf Paris ku bi... do
+                        thüe-n-ich mich schint's trumpiere... Enfin... z'erst
+                        ha-n-is nitt welle anàh... ich heiss Peter Finot... e
+                        Name, wo nitt mit Bettler un nitt mit Schelm rimt...
+                        thien se mr e Dienst leiste, ha-n-ich em gsàit, sage Se
+                        mr e Mittel, fir uf dr Stell' e paar Sü z'verdiene...
+                        ich bi ewe ne Finot, ich ha mi Name nitt umsunscht...
+                        wenn ich hit nitt vor Hunger stirb, sa will ich mich
+                        nochher scho wieder üserisse. « Uf dr Stell' Weiss i
+                        keins, » isch si Antwort gsi, « awer do sin zwei
+                        Finfer, mi ganz Vermöge, nàmme Se ein dervo »... Oh!
+                        wie hat mich das Geld ag'lacht!... ich ha scho lang
+                        keins meh g'sàh g'ha... ich, wo als hätt kanne schwimme
+                        drin!... Doch ha-n-ich mich bezwunge... Ich will kei
+                        Almüese, ha-n-ich em gsàit... « 's isch kei Almüese,
+                        hat er mir züer Antwort gà, 's isch nur g'lehnt, » un
+                        hat mr derno ein vo sine Finfer in d'Hand druckt...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Oh, das giicht em ganz, im Herr Emil, 's isch dr beste
+                        Mensch uf dr Welt...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wo-n-ich das Geld g'spirt ha in dr Hand, so isch's mr
+                        ganz heiss worde... D'Scham un dr Hunger hàn sich
+                        g'stritte mitnander, un ebbes Heisses isch mr in d'Aüge
+                        ku schiesse... 's isch also d'Armüeth, wo in dr Misère
+                        lehnt hit, ha-n-ich züe-n-em g'sàit un ha-n-em d'Band
+                        druckt... bàh!... ich bi ne Finot, un so schnell as
+                        d'Chance laüft, verwitsch ich se doch wieder; wànn Se
+                        mir Ihre Name un Ihre-n-Adresse gà, jungerMensch? Doch
+                        anstatt mir z'antworte, hat er as wie verzuckt in ere
+                        Jumpfere nog'lüegt, wo grad duregange-n-isch...
+                    </p>
+          <pb n="155"/>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Er wird g'meint ha, 's isch d'Jumpfer Elise!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ihre Name-n-un Ihre Adresse?... ha-n-ich wiederholt...
+                        uf eimol awer isch er uf un dervo wie nitt g'scheid un
+                        hat mich dert steh lo...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Jà un wie hàn Se denn derno erfahre, ass er do
+                        wohnt?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Eh, gestert z'Nacht par hasard ha-n-ich ne erkennt vo
+                        witem unter dr Laterne am Ecke vo dr Gasse, un do bin
+                        ich em halt glich no un haon-en sàh do ine geh... awer
+                        wil's scho spot gsi isch, so ha-n-ich nur d'Nümero
+                        b'schaüt un do bin i jetz;<stage>(er schaüt ummenander)</stage> ah
+                        ça, wo isch er, ass me ne mit keim Aüg sieht?...
+                    </p>
+        </sp>
+        <sp who="#fran_simon">
+          <speaker>Fran Simon.</speaker>
+          <p>Grad isch er üsgange... Sie werde später miesse dure
+                        ku... denn ich ka-n-Ene nitt G'sellschaft leiste do bis
+                        dr Herr kunnt... ich müess in mi Loge geh.<stage>(se b'schaüt
+                        dr Herr Pinot vo dr Site. Fir sich)</stage> Ich weiss nitt,
+                        awer dà geht mr jetz nur halwer!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>So kumm i denn später noch emol dure, fir mi Schuld
+                        abz'zahle, wenn er d'heim isch. Adie Fraü Portnere<stage>(er
+                        geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(allei, zornig)</stage>
+          <p>Fraü Portnere!... ne so einer kännt doch Madame sage...
+                        ich will em glich no geh... er g'fallt mr allewil
+                        weniger<stage>(se geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <pb n="156"/>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage>Herr Helder, Elise, dernio Herr Fix.</stage>
+        <stage>Herr Helder un Elise kämme hinte-n-ine.</stage>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(blibt steh bi dr Thüre, embarrassiert)</stage>
+          <p>Ich weiss nitt, eb's sich schickt, Herr Helder... eso...
+                        allei in Ihrem Atelier... ich ha g'meint, mi Vater
+                        kunnt mr hinte no... wo isch er denn jetz bliwe?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Er wird glich ku, Jumpfer Elise, er isch nur g'schwind
+                        z'ruck, geh ebbes hole, wo-n-er vergesse hat...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(b'schaüt e Tableau an dr Wand)</stage>
+          <p>Oh! ne schön Paysage!</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(im lache)</stage>
+          <p>Das isch mi Propriété, wo-n-ich noch im Elsass ha... ne
+                        halb verfalle Hisele mit eme Gàrtle drum... Wie màngmol
+                        bi-n-i dert in de Gedanke!... ich mein, i sieh ne jeder
+                        Baüm, ne jeder Gràsle... mi ganze Kindheit, wo-n-i dert
+                        züebrocht ha, steht vor mine-n-Aüge, wenn ich dra
+                        denk...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>'s isch awer o schön im Elsass... verzehle Se mr noch e
+                        wenig dervo, Herr Emil... wenn sin Se 's letzte Mol
+                        dert gsi...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(trürig)</stage>
+          <p>'s isch jetz zwölf Johr... ich bi drizehne-n-alt gsi
+                        sàllemol un bi noch in dr Lehr gsi un do ha-n-i e Brief
+                        biku, wo mi Müetter drin gsàit hat, se seig krank un
+                        wott mi gern sàh, un do ha-n-i mi hait gli uf dr Weg
+                        g'macht... awer wo-n-i d'heim aku bi, so ha-n-ich se
+                        vergewes bim Name g'rüefe, bleich un starr isch se dert
+                        g'lege-n-uf em Bett... se-n-isch tot gsi!...
+                    </p>
+          <pb n="157"/>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(mit Atheil)</stage>
+          <p>Arme Müetter!... gliche Sie Ihrer Müetter, Herr
+                        Emil?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Nei, ich glich in mim Vater... e tapferer Mariner wo im
+                        e Schiffbruch umku isch un wo-n-ich nie kennt ha...
+                        Arme Müetter... verlosse-n-un allei isch ihr
+                        Lewe-n-umme gange... mit aller möglige Mieih nur hat
+                        sie mich uferzoge.... ich bi ihr einziger Trost,
+                        ihre-n-einzige Freid gsi... un Nieme ka wisse, wie gern
+                        as ich se g'ha ha... gar vielmol ha-n-i g'schwore, ass
+                        ich rich un b'riehmt werde will, fir ihr Alter emol
+                        känne z'unterstütze...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Wie gern hätt ich se g'ha, Herr Emil...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wo se derno vergrawe gsi isch, bi-n-i halt wieder z'ruck
+                        ku uf Paris mit eme gar schwere Herz, un ich hätt nie
+                        glaübt, ass emol e-n-andere Liewe kannt ufku drin<stage>(er
+                        nimmt im Elise d'Hand)</stage>, awer jetz Elise... weisst Sie,
+                        wer jetz dà Platz ignu hat?... weisch Dü, Lisele, ass
+                        Dü jetz drin wohnsch... un ass nur Dü noch mi Hoffnung
+                        un mi Freid uf dr Welt do unte bisch... un ass Dü mich
+                        kasch glicklig mache, wenn Dü mich e wenig gern witt
+                        ha.
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(verschàmt)</stage>
+          <p>Ich ha Sie jo scho lang gern g'ha, Herr Emil... hàn
+                        Sie's denn nitt g'wisst?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(umarmt se)</stage>
+          <p>O! Lisele!...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(unter dr Thüre)</stage>
+          <p>So, so!... wenn isch d'Hochzit?...<stage>(se fahre
+                        üsenander)</stage>.
+                    </p>
+        </sp>
+        <pb n="158"/>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Herr Fix... Sie werde doch nitt supposiere... ich schwör
+                        Ene uf mi Ehr, ass es 's erste Mol isch...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(nimmt 's Elise an dr Hand un macht em e Finger.
+                        Züem Herr Helder)
+                    </stage>
+          <p>Junger Mensch, berüehige Sie sich... glaüwe Sie denn,
+                        ass wenn ich mi Plan nit g'ha hätt, so hätt ich selbst
+                        dr Wolf in mi Schofstall iwere g'fiehrt.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(freidig)</stage>
+          <p>So wàr's denn möglig?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(vergniegt)</stage>
+          <p>Alles isch möglig! 's isch möglig, ass das Kind do<stage>(er
+                        zeigt uf si Tochter)</stage> mit sim viele züem Fenster
+                        üselüege ne g'wisser Nochber bemerkt hat... 's isch
+                        möglig, ass si Vater, wo-n-er's g'sàh hat stüne,
+                        g'süecht hat, was es mag ha un ass er's g'funde hat...
+                        's isch möglig, ass er ihm emol iwer d'Achsle g'lüegt
+                        hat, wo's am Fenster g'stande-n-isch un ass er denkt
+                        hat, ass me sich vo witem gar nitt güet b'schaüe ka un
+                        ass er drum die zwei Wunderfitzige hat lo z'àmme ku,
+                        fir ass se sich kànne vo nochem sàh...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(nimmt im Herr Fix sie Hand un im Lisele sine.)
+                    </stage>
+          <p>Oh! Herr Fix!... Lisele!... lieb Lisele!... me stirbt
+                        schint's nitt vor Glick... also isch's kei Traüm?...
+                        Sie gà mr 's Lisele, Herr Fix?
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ihr hàn enander gern... i ha nit dergege... doch lose
+                        jetz noch z'erst, was ich z'age ha... me lebt nitt nur
+                        vo Luft un Liewe, nitt wohr?
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Unglickligerwis, nei...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(züem Herr Helder)</stage>
+          <p>Was denke Sie mit in d'Eh z'bringe, Herr Helder? ..</p>
+          <pb n="159"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(stricht verlege sine Moustache un lüegt um
+                        d'Wànd.)
+                    </stage>
+          <p>Ich bring mi Liewe, mi güeter Wille un mi Hofftiung in
+                        d'Züekunft...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Güet!... un Dü, Lisele, was bringsch Dü fir e-n-Eh'stir
+                        mit?...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(mit Verträue)</stage>
+          <p>Unser Glick!...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ganz güet!.. Ihr hàn, liewe Kinder, grad 's gliche
+                        Capital wie ich, wo-n-ich g'hirothe ha...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Un Sie sin doch g'wiss glicklig gsi, Herr Fix!...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(bitter)</stage>
+          <p>Glicklig!... jà glicklig, wie einer wo züem Tod
+                        verurtheilt isch un wo alle Tag 's End erwartet!... Sie
+                        wisse nitt, was das isch, Herr Helder, ne Fraü z'ha, wo
+                        me gern hat, wo me si Lewe fir se gàb, fir se glicklig
+                        z'mache, un wo sich müess abschinde Tag un Nacht an ere
+                        mieihsame-n-Arwet, fir sich nur känne d'nöthigste
+                        Kleidungsstücke aschaffe, wo sich züem lache zwingt,
+                        fir ihre miede, rothe-n-Aüge z'verstecke, un wo langsam
+                        eso abstirbt, wil ihre gar màngmol 's Nöthigste fehle
+                        thüet!... Dü weisch nitt, was das isch, Lisele, dr Mann
+                        sàh heim ku z'Nacht, decouragiert, abg'lebt, wenn er
+                        sich halwer lahm g'schafft hat dr Tag dure un sich hat
+                        miesse lo ummestosse vo me Jede, fir e magerer Lohn
+                        z'verdiene... Nei, ihr wisse nitt, was das isch, eso
+                        mit dr Armüeth z'ringe, bis ass me-n-endlig d'letzte
+                        Stund sieht arucke un sich derno noch froge müess bim e
+                        Kinderbettle: was wird üs em Kind werde, wenn ich emol
+                        nimmig do bi?... Ihr wisse das alles nitt... awer
+                        ich!... ich kenn das üs <pb n="160"/>Erfahrung, drum ha-n-ich
+                        g'schwore uf em Grab vo miner Fraü, wo üs Mangel un
+                        Sarge g'storwe-n-isch, ass ich mi Tochter nie im e Mann
+                        gib, wo kei Vermöge hat...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(ganz verstört)</stage>
+          <p>Was soll das...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Uesg'numme irn Fall, ass mi Tochter selbst e Vermöge
+                        hätt...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(ängstlig)</stage>
+          <p>Vater!... Vater!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(üsser sich)</stage>
+          <p>Herr Fix.... wenn das e Spass soll si, so isch's gwiss e
+                        schlechter...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(stolz)</stage>
+          <p>Eh bien... junger Mensch... wer sàit Ihne, ass mi
+                        Tochter nitt e-n-Eh'stir mitbringt?...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(unglaüwisch)</stage>
+          <p>E-n-Eh'stir... ich?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Das isch mir einerlei... d'Haüptsach fir mich...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Das isch Ihne gar nitt einerlei, denn ohne-n-Eh'stir
+                        bekàmte Sie mi Tochter nitt... un uf die Art gib ich se
+                        mit zweieninzigtaüsend Franke!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(züem Elise)</stage>
+          <p>Versteht Sie ebbes do dervo, Elise?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(làngt in Sack un zieht e Pàckle Bankezettel üse un
+                        zählt se vor ihre-n-Aüge)
+                    </stage>
+          <p>Zweieninzigtaüsend Franke... isch das klar, Herr
+                        Tochtermann?
+                    </p>
+          <pb n="161"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verstünt, Fir sich)</stage>
+          <p>Ah çà... woher ka jetz dr Herr Fix eso ne Summe Geld her
+                        ha?...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(verstünt)</stage>
+          <p>Was!... das alles isch Di, Vater?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Eh nei, Di... wil ich Dir's gib...</p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(verwundert)</stage>
+          <p>Woher kunnt Dir das Vermöge?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(uf eimol wieder embarrassiert un àngstlig)</stage>
+          <p>Wo mir das Vermöge herkunnt?... wottsch Dü's wisse?...
+                        ich hà's erspart...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Dü hasch's erspart?... wenn is als hundertmol 's
+                        Nöthigste g'fehlt hat, un ass mr vielmol nitt g'wisst
+                        hàn, eb mr känne dr ander Tag z'Mittag esse?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Kind, me lidet ringer als e wenig un thüet fir
+                        d'Züekunft sorge...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Erspart... Dü... wo in Diner Krankhet schier g'storwe
+                        bisch, will mr dr Apotheker nitt hàn känne zahle?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(immer embarrassierter)</stage>
+          <p>Ich... bi halt gitzig...</p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>'s isch möglig... awer sag mr, Vater, wie hasch Dü känne
+                        schier hunderttaüsend Franke z'àmme spare mit Dine sechs
+                        hundert Franke Pension?...
+                    </p>
+        </sp>
+        <pb n="162"/>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(wischt si dr Schweiss vo dr Stirne mit sim
+                        Nastüech)
+                    </stage>
+          <p>Ich ha ewe scho lang ag'fange g'ha... d'kleine Bàchle
+                        gàn e grosser Fluss... d'Sü verwandle sich in Franke un
+                        d'Franke in Bankezettel...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Awer fir das müess me doch in d'Banke geh... un Dü bisch
+                        jo scho zwölf Johr nimmig züem Hüs üse?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Dü ennuiersch mich !... 's isch jo scho mehr, as zwölf
+                        Johr, ass ich's g'erbt ha...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Güet... jetz isch's e-n-Erb...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Do hat denn Ihre Fraü noch g'lebt sàllemol?</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Wohrschinlig...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Awer, Herr Fix, Sie hàn is grad g'sàit, ass ihre Fraü
+                        vor Mangel g'storwe-n-isch?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(zornig)</stage>
+          <p>Gehn züem Kückück alle Beide... nàmme-n-Ihr mich
+                        eigentlig fir e Schelm am End?...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Liewer Vater...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich sieh scho... ihr wànn schint's mi Geld nitt, ihr
+                        meine, ich heb's nitt rechtmàssigerwis erlangt... is
+                        isch güet... ich steck's wieder i... Kei Geld, kei
+                        Hiroth meh... 's geht e Jeders si's Wegs un dermit
+                        fertig!...
+                    </p>
+          <pb n="163"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>G'stehn Se-n-is uf's' wenigst nur, ass Sie ne wichtiger
+                        Grund hàn, uns d'Herkunft vo Ihrem Vermöge
+                        z'verheimle!...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Isch's nur das? eh bien jo, Himmel an dr Bettlade! ich
+                        ha ne wichtiger Grund . .. ich ha ,zehne, ich ha
+                        hundert!...<stage>(er isch ganz üsser sich)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Drum, wil mr Sie fir dr ehrligste Mensch vo dr Welt
+                        halte...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>So thien mir nitt mehr verlange...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(rüehiger)</stage>
+          <p>Das kostet Mieih!...<stage>(züem Elise)</stage> Bös Kind!... Dü bisch
+                        denn recht pressiert, Di alter Vater z'verlo, kännsch
+                        nitt noch ebbe fünf oder sechs Johr warte?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Worum nitt gar fufzehne!</p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>De weisch jo wohl, Vater, mr gehn jo nitt vo Dir
+                        furt...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(lipft d'Achsle)</stage>
+          <p>'s isch eithüen... Dü hasch e dumme-n-Idee g'ha, Dich in
+                        dà grosse Schlingel do z'verliewe!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Merci, Schwiegervater...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(züem Elise)</stage>
+          <p>Zeig jetz... wenn Dü ihn nitt hirothe thàtsch, miech's
+                        Dr ebbes?...
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Liewer sterwe, Vater!</p>
+        </sp>
+        <pb n="164"/>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(ängstlig)</stage>
+          <p>Güet, güet... De hasch mr's scho-n-emol g'sàit!<stage>(fir
+                        sich)</stage> wenn's nitt wegedem gsi wàr, so hätt ich mich nie
+                        entschlosse...<stage>(er losst e Sifzer üs grift sine
+                        Bankezettel dur si alter Kittel dure)</stage>. Un jetz gàn ihr
+                        eüch e Schmutz vor mir<stage>(se schmutze enauder)</stage>. So, un
+                        jetz an d'Arwet... denn 's Vermöge vo miner Tochter
+                        soll nitt vom Mole abhalte, Herr Helder...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich ha nur desto mehr Müeth, Herr Fix, ich ha mr vorgnu,
+                        ewe-n-eso ne grosse Eh'stir z'bringe as 's Lisele... un
+                        ich bring se!... awer z'erst wa mr dr Hochzitstag
+                        b'stimme...<stage>(me hört rede duss)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(unrüehig)</stage>
+          <p>'s kunnt Ebber... kumm, Lisele, heim<stage>(er laüft hin un
+                        her)</stage> kumm, kumm, ich will vo Nieme nit wisse.
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>'s kunnt wohrschinlig Nieme züe uns, Vater... mir kenne
+                        jo Nieme...<stage>(me hört dr Herr Finot un d'Fraü Simon
+                        dispetire duss)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(züem Elise)</stage>
+          <p>Was hat er<stage>(er zeigt uf dr Herr Fix)</stage>.</p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Allewil die Nervekrankhet... er zittert vor jeder fremde
+                        Stimm...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">D'Gliche, derno Herr Finot un Fraü
+                    Simon.
+                </stage>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(kunnt ine. Fraü Simon blibt unter dr Thüre steh)
+                    </stage>
+          <p>Aha!... do isch er jo<stage>(er zeigt uf dr Herr Helder.
+                        D'Fraü Simon lipft d'Achsle, macht d'Thure züe un
+                        geht)</stage>. Sie <pb n="165"/>kenne sich rieme, junger Mensch, e güete
+                        Portnere z'ha!... hat die mr scho Misère g'macht, die
+                        Fraü!... wie geht's, güeter Frind...<stage>(er geht uf dr
+                        Herr Helder züe un hebt em d'Hand ane)</stage> endlig ha-n-ich
+                        Se jetz emol g'funde...<stage>(er sieht dr Herr Fix un sine
+                        Tochter, zieht dr Hüet ab un salütiert)</stage> Ihr Herre-n-un
+                        Dame... verzeihe Se, wenn ich Se ne wenig störe thüe...
+                        ich ha mim junge Frind do nur e Wort z'sage... in ere
+                        Minüte isch's ferig..
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verwundert)</stage>
+          <p>Erlaüwe Se... mit wem ha-n-ich d'Ehr...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Was!... Sie erkenne mich nitt... b'schaüe Se mich emol
+                        recht.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich sieh wahl e Kahlkopf, e rothe Nase, ne langer Bart,
+                        ne schmutziger Frack, vertschiengte Schüeh, ne graüer
+                        Hüet...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>B'sinne Sie sich nitt?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Aha!... warte Se... dr letzte Winter emol vor eme
+                        Lade...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Vor eme Comestible...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>C'est ça... jetz b'sinn ich mich<stage>(züem Herr Fix un züem
+                        Elise)</stage> 's isch e-n-alte Bekanntschaft... ich verzehl's
+                        Ene derno<stage>(Herr Fix wird wieder rüehig)</stage>. Wànn Se
+                        viellicht nur e wenig in der Salon geh... dà Herr un
+                        ich hàn nur drei Wort' mitnander z'rede<stage>(dr Herr Fix un
+                        's Elise gehn üse dur d'Thüre rechts, Herr Finot
+                        salütirt)</stage>
+                    </p>
+        </sp>
+        <pb n="166"/>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(fir sich)</stage>
+          <p>Pristi!... ne schöne Jumpfere!...<stage>(züem Herr Helder)</stage> Sie
+                        hàn mich mache z'laüfe, junger Mensch, 's isch jetz
+                        vier Monet oder noch mehr, ass ich Sie süech üsfindig
+                        z'mache...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ha-n-ich Ihne denn mi Adresse nitt gà g'ha?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Kei Name-n-un kei Adresse... wo-n-ich se Ihne g'heische
+                        ha, sa sin Se uf eimol furtg'schosse wie ne Pfil!..
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ah jà... ich b'sinn mi,<stage>(fir sich)</stage> ich ha g'meint, ich
+                        sieh 's Elisè, duregeh... un do...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Das heisst... Sie hàn nitt welle, ass ich Ihne Ihr Geld
+                        soll z'ruckbringe?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s isch jo nur e Kleinigkeit gsi...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ohne die Kleinigkeit wàr ich Hungers g'storwe; züem
+                        Glick ha-n-ich Sie erkennt gestert z'Nacht un do hàn
+                        Sie jetz vor Allem Ihre Geld wieder<stage>(er legt e Fünfer
+                        uf der Tisch un fangt derno a 's Atelier z'mustere, wie
+                        wenn er d'heim wàr)</stage>. Aha!... das isch d'Jumpfere dert,
+                        un das isch se wieder, und das... un das...<stage>(er kehrt e
+                        paar Tableaux un, wo gege dr Wand stehn)</stage> Pristi... Sie
+                        sin nitt z'bedüre!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Lose Se... ich bi pressiert... ich ha z'schaffe, un wenn
+                        ich Ihne nimmig ka nützlig si...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Zürne Sie mr nitt... Pristi... Sie intressiere mich un
+                        wege dem intressiert mi o alles, was Sie ageht...<pb n="167"/> ich
+                        bi halt allewil e wunderfitziger Plaüderi gsi, un in
+                        mim Alter changiert me nimmig.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(sitzt an si Chevalet)</stage>
+          <p>Desto schlechter...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Desto besser!... im Gegetheil... ich halt an mine
+                        Fehler... ich thüe se jetz seho fufzig Johr herberge un
+                        bi recht z'friede mit... soll ich Ihne mi G'schichte
+                        verzähle?
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Fir was?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Eh... fir ass Sie mich kenne lehre... so arm ass ich bi
+                        in dem Moment, so bin i viellicht doch nitt
+                        z'verachte... wenn ich kei Geld ha, sa. ha-n-i doch
+                        Idee... wer weisst, 's Glick vo me Mensch ka màngmol
+                        vom nàchste beste Bettler abhànke!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Was mi Glick abelangt, so hat's ebber anders scho
+                        g'macht... Ich dank Ene wege dem nitt weniger fir dr
+                        güete Wille.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Bàh... so sin d'junge Lit... Sie glaüwe sich jetz
+                        glicklig, wil Sie die blonde Jumpfre dert hirothe?...
+                       <stage>(er zeigt uf dr Salon)</stage>
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wie wisse Sie...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Do brücht me alleweg e vierblättlig Klee, fir das
+                        z'merke... dr nàchste beste Pfanneflicker hätt's jo
+                        errothe, wenn er eüch binander g'sàh hätt vorig... un
+                        die Portraits dert, wo Sie üs em Kopf g'macht hàn
+                        wohrschinlig!... Ich kenn das Ding... awer 's Glick, mi
+                        Liewer, isch nitt nur allei in ere Liewe, wo mehr <pb n="168"/>oder
+                        weniger lang dürt, un wenn d'Poète noch so 's Gegetheil
+                        allewil üs dr Hitze rede... 's Glick hat doch allewil
+                        liewer e verguldet Plafond as eins mit
+                        Spinnwettenester...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(lacht)</stage>
+          <p>Wotte Sie viellicht mis vergulde?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Jetz grad nitt<stage>(er b'schaüt melancholisch sine v'rissene
+                        Schüeh)</stage> 's Metall drzüe fehlt mr ganz un gar... doch
+                        nur Geduld... ich kumm o wieder in d'Hoche...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(fir sich)</stage>
+          <p>Andere rede vom Sterwe-n-in dem Alter.<stage>(lüt)</stage> Sie hàn
+                        güete Hoffnung...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich bi ewe ne Finot... noch emol, wànn Se mi G'schichte
+                        hore?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wenn Sie dra halte...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(nimmt e Pfiffestumpe üs em Sack un e Restle Düwack
+                        im e Briefle vo-n-ere Zitung g'macht)
+                    </stage>
+          <p>Me derf jo raüche bi Ihne, nitt wohr?</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Parbleu!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(zündet si Pfiffe-n-a, setzt si gràttling uf e
+                        Stüehl un trillt si Bart)
+                    </stage>
+          <p>Sie mien wisse, ass ich als ganz kleiner Büe scho immer
+                        dr Handel im Kopf g'ha ha... 's G'schàftlemache, das
+                        isch mi Sach gsi!... Im zwölfte Johr scho bin i d'heim
+                        furt un ha mi als Mousse engagiert, dr Kopf voll
+                        Rechnunge un Vorschlag, wie-n-ich rich werde will... Am
+                        erste Land soho bin i desertiert, un vo dert eweg isch
+                        mi Lewe nit meh as e Wettrenne gsi... Ich bi allei mehr
+                        g'loffe as zwanzig ewige Jude! ich <pb n="169"/>bi uf dr Welt
+                        ummeg'surrt z'Füess, z'Pferd, z'Esel, z'Kameel, in
+                        Schiff, in Wàidling, im Schwimme, in Omnibüs, im
+                        Dampfwage, in Kütsche, un ha g'handelt kaüft, verkaüft,
+                        vertüscht, spikeliert mit Mehl, mit Wi, mit Pelz, mit
+                        Oel, mit Neger, mit was mr unter d'Hànd ku isch, Ich bi
+                        Schüehputzer gsi in New-York, Tüechhàndler in Smyrn.
+                        Banquier in Gênes, Tanzmeister in London, Photograph in
+                        Madrid, Libraire in Leipzig un Seeraiwer e wenig
+                        iwerall... Hundertmol ha-n-i g'meint, ich heb mi
+                        Fortüne in dr Hand un hundertmol isch's mr drüs
+                        g'witscht... un bi doch allewil z'friede gsi... bin i
+                        rich gsi, so isch's hoch hergange... bin i arm gsi, so
+                        ha-n-i mi begniegt mit ere Brodràmpfete un e Pfiffe
+                        Düwack... ich bi nie stolz gsi un ha kei falsche Scham
+                        g'ha... ich ha nur g'lebt fir z'gwinne, z'verliere un
+                        wieder z'gwinne... un so bin ich endlig uf Paris ku un
+                        ha Sie atroffe...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Un siter... was hàn Se siter triwe?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Alles!... mit was mr bliwe-n-isch vo Ihrem Geld ha-n-i
+                        Kritzer kaüft, fir se wieder z'verkaüfe... ich ha
+                        Cigarrestümple ufg'hebt, Holz g'spalte, bi
+                        Commissionnaire gsi un Mürer un weiss ich noch was...
+                        ich ha jetz e wenig Economie, fir e G'schàftle
+                        az'fange, un wenn ich emol e wenig mehr ha, so kaüf ich
+                        mir neüe Kleider un gang in d'Bourse geh spiele!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Mit was?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(zeigt uf d'Stirne)</stage>
+          <p>Mit mim Geist... perbleu!... 's isch kei Kunst z'spiele,
+                        we me Geld hat... wenn ich hit noch nur fufzigtaüsend
+                        Franke-n-in dr Hand hätt, so wàr ich in ere Stund
+                        Millionär... ich wisst in dem Moment e G'schàftle
+                        z'mache, wo mr sicher nitt thàt fehl schla...
+                    </p>
+        </sp>
+        <pb n="170"/>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Oder wo Sie wieder thàt ruiniere...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Pristi... dasmol nitt... ich bi ne Finot! was wà mr
+                        wette, ich wird noch Millionär?
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie hàn e famos Züetraüe in Ihr Glicksstern.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wil ich Chance ha... wil ich Idee ha!... 's Glick hat
+                        mich scho vielmol verlo un allewil kunnt's wieder...
+                        D'Idee kämme mir, wie im e-n-And're d'Luft, wo-n-er
+                        iothmet;<stage>(er fillt si Pfiffe wieder un spielt mit em
+                        leere Briefle, wo si Düwack drin gsi iach)</stage> wenn ich
+                        nitt weiss was afange, so mach ich nur e Zitung uf oder
+                        sunscht e druckt Papier, wie das do züem Exempel<stage>(er
+                        zeigt si Düwackpapier)</stage> un hopp!...<stage>(uf eimol isch er
+                        still un liest g'spannt)</stage> Dunnerwetter!...<stage>(er springt
+                        uf)</stage> Dunnerwetter! Kritz-Bataillon!
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Was git's... was hàn Se?...<stage>(er steht uf)</stage>.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(üsser sich, nimmt dr Moler am Arm)</stage>
+          <p>Isch das Hüs do nitt Nümero 73 in dere Gasse?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Natirlig...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wohnt ebber do mit Namens Fix?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verwundert)</stage>
+          <p>Jo... awer was wànn Se...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Wo wohnt er...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie brüche nitt wit z'laüfe... er isch dert...<stage>(er zeigt
+                        uf dr Salon)</stage> 's isch dà Herr...
+                    </p>
+          <pb n="171"/>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Kritzbataillon! ..<stage>(er springt gege dr Salon. An dr
+                        Thüre kehrt er si um)</stage> Pardon... kannt ich viellicht mit
+                        em rede?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(macht d'Salonthüre-n-uf)</stage>
+          <p>Herr Fix... kämme Se doch e wenig üse... dà Herr wott Se
+                        gern sàh<stage>(Herr Fix un Elise kämme-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(züem Herr Fix)</stage>
+          <p>Ha-n-ich d'Ehr' mit em Herr Fix z'rede?<stage>(Herr Fix, ganz
+                        verstört, bringt kei Wort üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(verwundert)</stage>
+          <p>Jo... was wàr Ihne lieb?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wenn das isch... ich heiss Peter Finot un bi...<stage>(Herr
+                        Fix losst e Schrei üs un fallt uf dr Stüehl)</stage>.
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(verschrocke)</stage>
+          <p>Vater... Vater...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verwundert)</stage>
+          <p>Was isch das?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(ganz verstellt)</stage>
+          <p>Was es isch?... 's isch, ass alles züe nit geht...
+                        Hiroth, Liewe, Züekunft... alles hàn ihr nur traümt,
+                        Kinder,<stage>(züem Herr Helder)</stage> wotte Sie mich nur
+                        e-n-Aügeblick allei lo mit dem Herr<stage>(er zeigt uf dr
+                        Herr Finot)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(nimmt im Elise d'Hand)</stage>
+          <p>Kei Mensch ka uns meh trenne!<stage>(dr Herr Fix zeigt uf dr
+                        Salon. Se gehn beide-n-ine)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(rüch züem Herr Finot)</stage>
+          <p>Sie heisse-n-also?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Peter Finot, un uf dem Papier dert ha-n-ich g'lese, ass
+                        d'Erwe vom Herr Albert Finot, wo umku isch dr <pb n="172"/> 8. Mai
+                        1868, sich an Sie sotte wende... also werde Sie
+                        wohrschinlig ebbes abz'gà ha?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(fir sich)</stage>
+          <p>Arm Lisele!... arm Kind! ..<stage>(lüt)</stage> Jo, Herr Finot!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(freidig)</stage>
+          <p>Eh bien... üse-n-emol mit dr Sproch...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(b'schaüt 'n Misstraüisch)</stage>
+          <p>'s isch an Ihne, z'erst z'rede... wie sin Sie g'frindet
+                        mit em Herr Albert Finot?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verlege)</stage>
+          <p>So nooch als moglig... ich bi si Brüeder...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Worum hàn Sie wàhrend dàne zwolf Johr, ass er
+                        g'storwe-n-isch, nit vo sich höre lo?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Das isch ganz eifach... ich bi wàhrend zwölf Johr in
+                        fremde Lànder ummezoge... erst siter vier Monet bin i
+                        jetz z'Paris un ha grad erfahre, ass mi Brüèder
+                        g'storwe-n-isch... uf dem Stickle Zitung dert.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(verwundert)</stage>
+          <p>Ich ha wàhrend fünf Johr nit meh lo dri setze!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>So isch halt dà Fàtze Papier fünf Johr alt... doch das
+                        hat nit derzüe z'sage... wie viel hat mi Brüeder
+                        hinterlo?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Känne Sie's 'nitt schätze... ung'fähr?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ung'fàhr... doch... mir sin sàlle Zit associert gsi
+                        mitnander un hàn dr 30. April 1868 unser G'schàft ufgà
+                        mit ung'fàhr zweimol hunderttaüsend Franke <pb n="173"/>Benefice...
+                        wenn dr Albert glich druf g'storwe-n-isch, so mag er
+                        also nooch bi hunderttaüsend Franke z'ruckg'lo ha....
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Hàn ihr in Paris mitnander theilt?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Nei, in England...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Also isch Ihr Brüeder, wo-n-er g'storwe-n-isch, erst e
+                        paar Tag im Frankrich gsi?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ein oder zwei Tàg höchstens, ka-n-er in Paris gsi
+                        si!...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Un Sie?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich?... dr 8. Mai bin ich wieder furt nach Amerika, ohne
+                        d'g'ringste-n-Ahnung z'ha, ass mi Brüeder sàller gliche
+                        Tag in's Gras müess bisse...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Wie wisse Sie, ass er do in Paris gsi isch?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich denk mr's... er hat im Sinn g'ha, sich in Versailles
+                        z'fixiere...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(steht uf un marschiert' im Atelier ufe-n-un awe)
+                    </stage>
+          <p>Ihre-n-Antworte stimme-n-alle mit dàne Schrifte,
+                        wo-n-ich ha... awer, Sie excüsiere mich, wenn ich noch
+                        e handgrifliger Bewis will ha, ass Sie wirklig dr
+                        Brüeder sin...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Natirlig... 's isch nitt meh as billig... glickligerwis
+                        schleif ich mine Papierer allewil mit mr umme... <pb n="174"/> wo
+                        wott ich se sunscht ane thüe?...<stage>(er zieht e dreckig
+                        Portefeuille üs em Sack)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s ganz gliche wie das vo sim Brüeder!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Do isch emoi mi Geburtsschin... un do mi Pass... un do
+                        sin noch zwei Briefe vom Albert... kenne Sie si
+                        Schrift?
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(b'schaüt se. Fir sich)</stage>
+          <p>Zwei G'schàftsbriefe, wo mit « Liewer Brüeder » afange
+                       <stage>(er nimmt e Portefeuille üse un verglicht se mit
+                        Papierer, wo drin sin. Lüt)</stage> 's isch ganz das... Herr
+                        Finot... ich erkenn Sie als dr Brüeder vom Herr Albert
+                        Finot<stage>(er git em sine Schrifte wieder)</stage> un jetz blibt mr
+                        nit meh iwrig as...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(ribt si freidig d'Hànd)</stage>
+          <p>As dr Ripper fire z'lange... nur her mit... er kunnt mr
+                        wie g'wunsche...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Erlaüwe Sie, mr noch z'erst, Ihne z'verzähle, uf was fir
+                        e-n-unglicklige-n-Art Ihr Brüeder umku isch...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Bàh, bàh, bàh... das isch unnöthig... fir was geh Zit
+                        z'verliere... eb er jetz an de Rickle oder an ere
+                        Brustkrankhet bliwe-n-isch... er isch jetz emol tot un
+                        das isch d'Haüptsach... drum wà mr aiso rechne...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(verstünt)</stage>
+          <p>Ich halt ewe dra, Ihne z'sage, worum ass ich si
+                        Vollmacht ha...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Allons... 's isch mr eins... awer flink,
+                        Kritzbataillon!...
+                    </p>
+          <pb n="175"/>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>So flink as möglig... Dr 8. Mai denn anno 1868 bin ich
+                        züefälligerwis uf em Weg gsi vo Paris uf Versailles ...
+                        Uf eimol hör i e Làrme un e G'schrei hinte-n-an mir, un
+                        wo-n-i z'rucklüeg, so sieh-n-i e Kütsche mit eme Pferd
+                        dra, wo verschiche-n-isch, im volle Galopp ku sprenge,
+                        ohne Kütschner, un uf eimol isch alles z'àmme mitnander
+                        in e Grawe g'stürzt... ich bi grad noch derzüe ku, fir
+                        dr Herr, wo drin gsi isch, sàh sterwe... er hat mr noch
+                        si Portefeuille känne gà un hat g'sàit: « Ich
+                        thüe-n-Ihne das avertraüe... nàmme Sie's un gàn Sie's
+                        selbst in mim... ich heiss... » er hat nimmig kanne
+                        ferig rede... er isch tot gsi... Im Portefeuille sin
+                        zweieninzigtaüsend Franke gsi un sunscht nit, wo mr
+                        hätt känn-n-Üskunft gà... nit, as uf dr Deckete dr Name
+                        «Albert Finot»... Was mir das Geld schloflose Nàcht
+                        g'macht hat!... vergewes ha-n-ich Johrelang d'Familie
+                        Finot g'süecht fir's känne abz'gà... un we me mir's
+                        g'stohle hatt, un wàr's derno ebber ku reklamiere?... i
+                        ha nitt derfe dra denke... Züem Unglick isch später
+                        d'Armüeth ku, fir mi Tochter un fir mich, un do ha-n-i
+                        miesse das Vermöge bi mir versteckt wisse un Hunger
+                        lide derbi!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verwundert)</stage>
+          <p>Was! Sie hàn d'Intresse nitt zoge vo dem Geld?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>D'Intresse?... was meine Sie mit dem... 's sin d'ganz
+                        gliche Bankezettel, wo-n-ich biku ha... se sin nitt
+                        züem Hüs üse...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Sie hàn se nitt placiert ut Actione, Rente oder uf
+                        e-n-erste Hypotheke?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Nei...</p>
+        </sp>
+        <pb n="176"/>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Un Sie hàn se-n-eso zwölf Johr versteckt g'ha...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Jo...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wisse Sie denn nitt, ass sich e Capital in vierzeh Johr
+                        verdoppelt?
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich weiss es... awer ich ha 's Recht nitt g'ha, das Geld
+                        z'riskiere...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(unglaüwisch)</stage>
+          <p>Das isch kei G'spass, güeter Frind...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(blessiert)</stage>
+          <p>Herr Finot... Sie vergesse, ass ich d'ganze Summe hätt
+                        kanne b'halte, wenn ich e Schelm gsi wàr,<stage>(fir sich)</stage>
+                        drum isch's mr z'verzeihe, wenn ich no zwölf Johr
+                        glaübt ha, ich kännt mi Kind mit glicklig mache!...
+                        wo-n-ich g'sàh ha, ass Nieme kunnt, so ha-n-ich mich
+                        halt am End an dà Gedanke g'wöhnt gha... un jetz!...
+                       <stage>(er zieht d'Bankezettel üs em Sack un legt se-n-im Herr
+                        Finot ane, einer um dr andere)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(voll Freid)</stage>
+          <p>Zweieninzigtaüsend Franke... Kritzbataillon!... jetz
+                        vorwàrts mit de G'schàftle, in ere Stund bin i
+                        Millionär.... so wohr as ich Finot heiss<stage>(er klopft im
+                        Herr Fix uf d'Achsle, wo ganz trostlos dort steht)</stage>. Ich
+                        will Sie nitt beleidige un Ihne ne Belohnung
+                        offriere!...<stage>(Herr Fix schittelt dr Kopf, nimmt e
+                        Papier üs em Sack un macht's uf)</stage> Was isch das ?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Das sin d'Üsgawe, wo-n-ich g'ha ha... fir 's Nosüeche un
+                        's Publiziere... alles üsfiehrlig total 942,50 Franke
+                       <stage>(er hebt's em ane)</stage>.
+                    </p>
+          <pb n="177"/>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(wirft 's Papier eweg)</stage>
+          <p>Pristi... fir wer nàmme Sie mich mit Ihrer
+                        Apotheker-Rechnung?... do isch's Pàckle... nàmme Se...
+                       <stage>(er legt em d'Bankezettel ane)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich will kei Sü mehr as was mir g'hört.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wenn Sie durechüs nitt wànn...<stage>(er git em sine 942,50
+                        Franke)</stage> ich bi ewe jetz pressiert.<stage>(er git em Herr Fix
+                        beide Hànd)</stage> Mi Liewer, ich bi ne Finot... ich ha scho
+                        g'sàh, Sie sin stättig wie ne Mülesel, awer o dr
+                        ehrligste Mensch wo-n-ich noch g'sàh ha... das geht
+                        nitt eso dure... so wohr as ich Finot heiss... mr sàhn
+                        enander wieder... Adie!...<stage>(er schlat si Hüet in dr
+                        Nàcke, steckt sine Bankezettel in sine v'rissene Hose
+                        un geht stolz gege dr Thüre. Dr Herr Helder un 's Elise
+                        kämme züem Salon üse)</stage> Tiens... ich hätt Ene schier
+                        vergesse Adie z'sage...<stage>(züem Herr Fix)</stage> das git doch e
+                        schön Pàrle, nitt wohr...<stage>(er b'schaüt se un trillt si
+                        Bart)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(rüch züem Elise)</stage>
+          <p>Elise, gang iwere in Di Zimmer, uf dr Stell!!...
+                       <stage>(sanfter)</stage> gang, mi Kind, ich ha mit em Herr Helder
+                        z'rede...<stage>(Elise geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(springt uf dr Herr Fix züe un nimmt en am Arm)
+                    </stage>
+          <p>Was hàn Se fir e Name-n-üsg'sproche?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(verwundert)</stage>
+          <p>Im Herr Helder siner...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verstört)</stage>
+          <p>Wer heisst denn eso?</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Eh... dà junge Mensch do!...</p>
+        </sp>
+        <pb n="178"/>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(springt uf dr Herr Helder züe un lüegt em in
+                        d'Aüge)
+                    </stage>
+          <p>Sie heisse Helder?</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verwundert)</stage>
+          <p>Natirlig...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Sin Sie vo Milhüse?</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Das isch sicher...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ihr Vater isch Matros gsi un isch umku im e
+                        Schiffbruch?
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s isch ganz das!... awer wie wisse Sie...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(rasend)</stage>
+          <p>Dunnerwetter!... Kritz-Bataillon!...<stage>(er verstickt
+                        schier, risst si Krawatte-n-uf un wirft si Hüet in
+                        e-n-Ecke)</stage> Un... Ihre Müetter?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wie... mi Müetter?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Hat sie-n-en denn nitt biku?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Was biku?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich will sage Ihre Müetter... wo isch Ihre Müetter, Herr
+                        Helder?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(trürig)</stage>
+          <p>Mi Müetter isch g'storwe, hàn Sie se denn kennt?</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(b'schaüt dr Herr Finot un lipft d'Achsle. Fir
+                        sich)
+                    </stage>
+          <p>Ich glaüb, das Geld hat ne narràchtig g'macht.</p>
+          <pb n="179"/>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(züem Herr Helder)</stage>
+          <p>Ich?... niemols... ich ha Ihre Müetter miner Làbtig nitt
+                        g'sàh!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>So isch's also mi Vater, wo Sie kennt hàn?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(ganz üsser sich)</stage>
+          <p>Nei... nei... Hundertmol nei, Kritz-Bataillon !<stage>(er
+                        tanzt uf sim Hüet umme, ohne-n-ass er's nur merkt)</stage>. Ich
+                        müess jetz geh mi Fortüne mache,<stage>(fir sich)</stage> später
+                        viellicht... jetz nitt.<stage>(dr Herr Fix un dr Helder lüege
+                        ne wundert a)</stage> Was isch... was lüege-n-Ihr mich eso was
+                        ha-n-ich denn eso possigs g'sàit.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie hàn noch gar nit g'sàit... drum wenn Se mr
+                        wotte-n-expliziere...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Das isch glich expliziert... junger Mensch... ich ha uf
+                        mine Reise ne Matros atroffe, wo Helder g'heisse hat..
+                        Ihr' Vater wohrschinlig, un siter ha-n-i erfahre, ass
+                        er umku isch im e Schiffbruch, un wege dem hat mi Ihr
+                        Name frappiert... ich ha halt e wenig hitzig Blüet...
+                        ne jede Kleinigkeit tribt mr's in Kopf... gàn Se nitt
+                        Achtung... 's isch scho vorbi...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das Ding glaüw-ich alles nur halwer...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Das isch e possige G'schichte<stage>(fir sich)</stage> arm Lisele! arm
+                        Kind!...<stage>(er sitzt an dr Tisch un stüzt dr Kopf in
+                        beide Hànd)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(entschlosse)</stage>
+          <p>Junger Mensch... kämme Se-n-emol e wenig uf d'Site, ich
+                        will Ihne ebbes sage...<stage>(Horr Helder geht verwundert
+                            züe-n-em)</stage> Lose Se, 's isch mr unerwartet Geld <pb n="180"/>igange...
+                        wo-n-ich gar nitt druf zählt ha... un Sie wànn hirothe,
+                        nitt wohr?... wenn Ihne zwei- oder dreitaüsend
+                        Franke... mr wànn sage vier oder fünftaüsend Franke
+                        känne dienlig si... geniere Sie sich nitt... do sin
+                        se...<stage>(er hebt em e paar Bankezettel ane)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(b'schaüt ne vo owe-n-awe)</stage>
+          <p>Als was thien Sie mir das offeriere?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Als güeter Frind... pristi!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Mr hàn is jo erst zweimal g'sàh...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Als alter Frind denn vo-n-Ihrem Vater...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie hàn ihn jo küm kennt, hàn Sie mir g'sàit.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Nu denn... als Ihr' Schuldner... Se hà mir e Dienst
+                        g'leistet, wo-n-ich arm gsi bi... jetz isch's an mim
+                        Tür...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich dank Ihne fit dr güete Wille, awer ich refüsier..
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Un worum das?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Üs vielerlei Ursache, un b'sunders, wil ich z'arm bi,
+                        eso ne Summe Geld z'lehne, wenn ich nitt weiss, eb ich
+                        se wieder ka z'ruck gà oder nitt...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <p>Das sin G'schichte!... pristi... was fir e possig Hüs,
+                        wo Nieme kei Geld will anàh...<stage>('s schlat zwei uf
+                        ere-n-Ühre)</stage> Kritz-Bataillon!... scho zwei!... un mi
+                        G'schàftle... Allons, Peter Finot... vorwàrts jetz un
+                        zeig emol, was me mit em Geid mache ka!
+                    </p>
+          <pb n="181"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Nur e Minute noch... Sage Se mr...</p>
+          <p>Nit... nit in dem Moment!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wo laüfe Se ane?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(setzt si Hüet in dr Nàcke)</stage>
+          <p>In ere Stund bin i Millionär<stage>(er springt züer
+                        Thüre-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(züem Herr Fix)</stage>
+          <p>'s isch ganz sicher, ass dà Ummestreifer mit miner
+                        Familie ebbes z'thüe g'ha hat!... awer was un worum
+                        will er nitt sage... das isch e possiger Held... höre
+                        Se... er laüft dervo wie dr Wind...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(schaüt in d'Höche)</stage>
+          <p>Ne Sturmwind... jà... wo alle-n-unsere Plàn umg'worfe
+                        hat...<stage>(er hüeschtet verlege)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz heisst's erst kàmpft... denn wenn dr Herr Fix ebbes
+                        im Kopf hat...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich müess Ihne vor allem jetz verzähle...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>'s isch unnöthig... ich ha alles g'hört im Salon dert,
+                        ohne-n-ass ich ha welle... also isch Ihre G'wisse jetz
+                        riehig... Sie hàn das Geld z'ruck gà... un wenn mir o
+                        ghirothe gsi wàre, 's Elise un ich, so känne Se
+                        versichert si, ass mir's doch in sim rechtmàssige
+                        Eigethümer hätte lo züeku...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich zwifel nitt dra... denn Sie sin e rechtschaffener
+                        junger Mensch... ich wàr g'wiss stolz gsi druf, Sie mi
+                        Tochtermann z'nenne...
+                    </p>
+        </sp>
+        <pb n="182"/>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(macht, wie wenn er's nitt g'hört hätt)</stage>
+          <p>Un jetz, Herr Fix, wà mr e wenig vo wichtigere Sache
+                        rede.... mr hàn also üsg'macht g'ha!
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(verlege)</stage>
+          <p>Was hà mr üsg'macht g'ha?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ass Sie hit noch dr Hochzitstag b'stimme...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(springt uf)</stage>
+          <p>Hàn Sie mich denn nitt verstande?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich ha verstande, ass me-n-Ihne Geld avertraüt hat un
+                        ass Sie's wieder z'ruck gà hàn... was ka-n-eso ne
+                        eifache Handlung fir e Bezug ha mit unserer Hochzit, wo
+                        unsere Züekunft un unser Glick dervo abhàngt?..
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>'s höre doch keine-n-iwler as Die, wo nitt höre wànn!...
+                        Verstehn Sie denn nitt, ass ich mit dem Geld in miner
+                        Tochter ihr Glick versichert hätt!
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Gar nitt, Herr Fix, denn Sie hàn jo wohl g'wisst, ass
+                        me's e jeder Aügeblick reklamiere ka... wenn isch also
+                        dr Hochzitstag?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(zornig)</stage>
+          <p>Wenn's grien schneit!... Wie känne Sie sich wälle mit em
+                        Elise verbinde?... üs was wànn Sie làwe?... soll mi
+                        Tochter in dere Baracke do wohne, mit ere Heerd kleine
+                        Kinder viellicht, in dr Misère un im Unglick?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s Elise in dr Misère? .. nie kàm's züe dem... awer wenn
+                        Sie zehmol Recht hätte, so isch's jetz z'spot, fir
+                        z'ruck z'geh!... Wenn Ihne die Hiroth nitt g'falle <pb n="183"/>hat,
+                        worum sin Sie mich vor vier Monet ku holeod in dere
+                        Baracke, wie Sie se heisse, worum hàn Sie mi Liewe
+                        encouragiert, wo-n-ich viellicht ohne das hätt
+                        unterdrucke känne...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>'s Elise hat's welle ha... nitt ich...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Glaüwe Sie denn, Sie känne-n-ihre verbiete, mich gern
+                        z'ha?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich weiss es nitt... awer Sie bekämme mi Tochter
+                        nitt!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wenn jo d'Hiroth nur in de Riche-n-erlaübt wàr, so gieng
+                        d'Welt ab!...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Se soll abgeh... Sie bekämme-n-emol mi Tochter nitt...
+                        Sie brüche nimmig dra denke...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(heftig)</stage>
+          <p>Nimmig dra z'denke!... meine Sie denn, das Ding blost
+                        sich eso üs wie ne Licht?... 's Elise isch mi Blüet, mi
+                        Jugend, mi Paradies, mi Alles!... verlange Se vo mr,
+                        ich soll lewe-n-one z'schnüfe, awer verlange Se nitt,
+                        ass ich 's Elise soll vergesse!
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich verlang's!... un im Nothfall thüe-n-ich's Ihne
+                        befehle... nie will ich mi Tochter in dr Armüeth sàh..
+                        's Bild vo siner Müetter isch noch z'lebhaft vor
+                        mine-n-Aüge... Sie bekämme 's Elise nitt...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wer sàit Ihne, ass mir in d'Armüeth kämme... Sie
+                        känne-n-Ihre Vergangeheit nitt mit miner Züekunft
+                        vergliche... wenn ne-n-Employierter Tag un Nacht thàt <pb n="184"/>
+                        schaffe, so bekàm er doch nie, was e-n-Artist ka ha wo
+                        jung, g'schickt, frei un stark isch!...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Ich zwifel nitt an Ihrem Talent... awer bis es emol thàt
+                        ebbes itrage, so hätt 's Elise graüe Hoor, Sie bekämme
+                        mi Tochter nitt...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(üsser sich)</stage>
+          <p>Un ich bekumm se... ich schwör's!</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(zornig)</stage>
+          <p>Un Sie bekämme se nitt!...<stage>(rüehiger)</stage> Sàhn Se' Herr
+                        Helder, ich halt ebbes uf Se... ich ha Sie g'wiss gern
+                        g'ha... gàn Se mr Ihr Ehrewort, ass Sie nitt süeche
+                        wànn, mit miner Tochter z'rede-n-un se-n-ufstifte
+                        derno...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(heftig)</stage>
+          <p>Nie!...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(entschlossse)</stage>
+          <p>So isch's also fertig zwische-n-uns!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Isch das Ihr letscht Wort?...</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Jà!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'sisch güet... glickligerwis hat's G'setze im
+                        Frankrich... me zwingt Nieme, awer 's Elise un ich
+                        känne warte...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Uf mi Tod, nitt wohr?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Nei... bis 's Elise zwanzig Johr alt isch...</p>
+          <pb n="185"/>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Güet, awer bis derthi thüe-n-ich Ihne einstwile d'Thüre
+                        verbiete... Sie werde mi Tochter sobol nimmig sàh!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(zornig)</stage>
+          <p>Ich sieh se, un red mit ere, un hiroth se, eb Sie wànn
+                        oder nitt!...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix.</speaker>
+          <p>Me wird sine Massregle dergege-n-ergriffe, Herr Helder
+                       <stage>(er nimmt zornig si Hüet un geht züem Atelier üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(decouragiert, fir sich)</stage>
+          <p>Ich ha viellicht Unrecht g'ha, ass ich ihm eso trutzt
+                        ha... ich hätt en viellicht eher mit Bitte derzüe
+                        brocht... also isch denn alles fertig?... Kei Hoffnung
+                        meh?... Eh bien... so blibt mr denn nit anders meh
+                        iwrig, as in d'andre Welt abz'reise!... Wenn bis in ere
+                        halb Stund dr Herr Fix oder 's Elise nit vo sich höre
+                        losst, so thüe-n-i mi erschiesse... d'Pistole derzüe
+                        ha-n-i...<stage>(er holt e Lade fire un nimmt e Pistole drüs,
+                        legt se uf dr Tisch und sitzt dervor)</stage> Wo-n-i se
+                        mitbrocht ha vor d'heim 's letschtemol, so hätt i nitt
+                        g'laübt, ass se mir fir das diene wird!...<stage>(er lüegt
+                        par hasard in d'offene Lade)</stage> Tiens... do isch noch e
+                        Brief... er isch an mi Müetter adressiert gsi... wer
+                        mag ere g'schriwe ha?... wohrschinlig mi Vater!...<stage>(er
+                        nimmt en un liest d'Unterschrift un springt uf)</stage> Ne
+                        Brief vom Herr Peter Finot an mi Müetter?... Was ka das
+                        wohl si?...<stage>(er liest lüt)</stage> « Madame Helder... Mi
+                        Name-n-isch Ihre-n-unbekannt, doch ka-n-ich's nitt
+                        iwer's G'wisse bringe un halt's fir mi Pflicht, Sie vo
+                        ebbes z'unterrichte, wo Sie höchst interessiere wird...
+                        Scho nin Johr glaübt Sie Ihr Mann tot, dr Herr Albert
+                        Helder isch nitt g'storwe, er lebt... mr hàn mitnander
+                        Schiffbruch g'litte, mir zwei allei sin dervo ku un hàn
+                        nochher e G'schàft mitnander ag'fange, wo-n-is ziemlig
+                        g'lunge-n-isch. Glich vo Afang un ohne z'sage worum,
+                        hat er sich lo fir <pb n="186"/> tot passiere un hat mi Name-n-agnu.
+                        Anstatt Albert Helder hat er sich Albert Finot
+                        g'nennt... doch ha-n-i ihm bol si G'heimniss abglockt
+                        und ha erfahre, ass er e Fraü un e Kind hat sitze lo in
+                        Milhüse, un do ha-n-ich ihn mache z'verspreche, ass er
+                        Ihne schribt un wieder heimkehrt, sobol ass er e kleine
+                        Fortün g'sammelt hat. Hit also, wo mir no nin J ohr
+                        unser G'schàft ufgàn, so hat er fir si Theil Benefices
+                        ung'fàhr hunderttaüsend Franke, drum thüe-n-ich Sie
+                        preveniere; im Fall ass er si Wort nitt haltet, känne
+                        Sie ihn in Versailles üsfindig mache, wo-n-er im Sinn
+                        hat z'erst ane z'geh. Dr Albert isch furt dr Dritte un
+                        ka also in e paar Tàg druf z'Versailies si. Peter
+                        Finot. »<stage>(er wirft dr Brief uf dr Tisch)</stage> Arme Fraü!...
+                        arme Müetter!.. miesse-n-erfahre no nin J ohr, ass dr
+                        Mann lebt, ass er e Vermöge hat un sich nitt emol
+                        bekümmert, eb si Kind Brod hat oder nitt! Ah, wege dem
+                        isch se so g'schwind g'storwe!... 's isch dà Brief
+                        gsi!...<stage>(er hebt si dr Kopf)</stage> Was fir e verwickelte
+                        G'schichte! Also dà Reisende, wo umku isch un wo im
+                        Herr Fix das Portefeuille gà hat, isch mi Vater gsi, un
+                        das Geld g'hört mi! Also isch dr Herr Fix zwölf Johr
+                        nàwe mir g'wohnt, ohne z'wisse, ass ich dà bi, wo-n-er
+                        eso lang g'süecht hat z'erst, un wo-n-er nochher eso
+                        Angst vor em g'ha hat!... Un dà miserawle Peter Finot,
+                        wo furt isch mit dem Geld, wo gar nitt si g'hört!...
+                        Jetz verstand ich sine Manöwer, wo-n-er g'macht hat,
+                        wo-n-er g'hört hat, ass ich Helder heiss!... si
+                        G'wisse-n-isch doch no nitt ganz verderbt un doch hat
+                        er nitt känne in siner Spielwüeth widersteh oder
+                        d'Glegeheit verfehle, ne G'schàftle z'mache!... un hat
+                        noch eso ohne z'wisse mi Hiroth, mi Glick zerstört!...
+                       <stage>(heftig)</stage> Awer, uf mi G'wisse, ich find en!... un derno
+                        wà mr sàh, eb er's nitt üse git!<stage>(freidig)</stage> un derno,
+                        derno isch kei Hinderniss meh zwische-n-em Elise un
+                        mir...
+                    </p>
+          <pb n="187"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Herr Helder, Fraü Simon.</stage>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(kunnt ine ku z'laüfe)</stage>
+          <p>Eh bien... was ha-n-i g'sàit g'ha?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Vo was red' Se, Fraü Simon?...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Ha-n-ich Sie nitt allewil g'warnt vor dàne Lit!</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Vo welle Lit?...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Vo dr Familie Fix denn!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Isch Se-n-eso güet un red' Se mit e wenig mehr Respekt
+                        vo mine Nochberslit...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Me respektiert se, me respektiert se, awer wege dem loss
+                        ich mir's doch nitt nàmme, ass dà Mann e-n-alter
+                        Verbrecher isch...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Scho wieder die Dummheite!...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Was, Dummheite!... worum isch er denn uf un dervo, wenn
+                        er d'Schandarme nitt uf de Ferse hätt...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Uf un dervo... dr Herr Fix?...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Ah! das sin Dummheite? .. Scho güet... wenn Sie wisse
+                        thàte, was g'schàh isch...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Was isch denn g'schàh?... expliziert Se sich emol, Fraü
+                        Simon.
+                    </p>
+        </sp>
+        <pb n="188"/>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon.</speaker>
+          <p>Also denn... vor ere Viertelstund ung'fàhr, wo-n-ich
+                        ganz riehig dunte sitz, klopft ebber an mi Fenster, un
+                        wo-n-i lüeg, isch's dr Herr Fix mit eme Kuffer in einer
+                        Hand un an dr andere si Tochter, wo grint... das isch
+                        doch ebbes üsserordentligs gsi, nitt wohr?... E Mann,
+                        wo wàhrend zwölf Johr si Nase nitt züer Thüre-n-üse
+                        g'streckt hat!... Ich mach 's Fenster uf, un do hat er
+                        mir ufkindet un hat noch e Monet mehr zahlt un g'sàit,
+                        er thàt sine Möwle später hole... un si Tochter hat
+                        denn grine!... awer denn grine!... Se hat mr noch ebbes
+                        welle sage im Duregeh, awer dr Herr Fix hat se mit
+                        G'walt furtzoge... un was noch stärker gsi isch, er hat
+                        mr zeh Franke Trinkgeld gà... 's isch 's erste Geld,
+                        wo-n-ich sieh vo-n-em... do isch ebbes nitt recht... Se
+                        möge mr sagé, was Se wànn!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verzwifelt)</stage>
+          <p>Furt!... 's Elise furt!... Oh, das isch unmöglig!...</p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(zeigt e Schlüssel)</stage>
+          <p>So wohr as das dr Schlüssel isch vu ihrer Wohnung!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(losst sich uf dr Stüehl sinke)</stage>
+          <p>Oh!... un an allem dem isch dà miserawle Finot
+                        d'Schuld!... Jetz blibt mr nit and ers z'mache-n-as
+                        z'süeche... z'erst ihn, derno 's Elise<stage>(er nimmt si
+                        Hüet un geht gege dr Thüre)</stage>.
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(lüegt em verwundert züe)</stage>
+          <p>Ah çà, was hat er denn, dr Herr Helder?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(macht d'Tühre-n-uf un geht hintersi z'ruck. Dr Herr
+                        Finot steht uf dr Schwelle)
+                    </stage>
+          <p>Er!... Er!...</p>
+          <pb n="189"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">D' Gliche, Herr Finot.</stage>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(kunnt fire)</stage>
+          <p>Jà, ich, junger Mensch!...<stage>(züer Fraü Simon)</stage> Gieng
+                        Se-n-emol geh lüege, eb ich nitt dunte bi, Fraü
+                        Portnere...
+                    </p>
+        </sp>
+        <sp who="#frau_simon">
+          <speaker>Fraü Simon</speaker>
+          <stage>(fir sich)</stage>
+          <p>Isch das emol e-n-unverschàmter Kamerad!...<stage>(se macht em
+                        e Füscht un geht üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(streckt im Herr Helder d'Hand ane)</stage>
+          <p>Verzeihe Se, wenn ich scho wieder... ah çà... was hàn
+                        Se... Sie sin jo ganz verstört?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(grimmig)</stage>
+          <p>Finde Se?... 's isch nit... 's vergeht wieder...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Desto besser... Desto besser... Wisse Sie, ass ich mit
+                        eme ziemlig schwere Herz do ane ku bi?<stage>(er sitz
+                        gràttling uf e Stüehl)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s nimmt mi Wunder, wie wit ass er si Frechheit
+                        eigentlig noch triwe will!<stage>(lüt)</stage> un worum das?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verlege)</stage>
+          <p>He... will ich Ihne ebbes g'steh müess, wo ziemlig
+                        schwer üse z'bringe-n-isch...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(rüehiger)</stage>
+          <p>Un was soll das sie?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich müess Ihne sage, Herr Helder, ass ich unrecht gege
+                        Sie g'handelt ha... gross unrecht...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie?</p>
+        </sp>
+        <pb n="190"/>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich hätt's Ihne känne fir allewil verstecke... awer mi'
+                        G'wisse losst mr's nitt züe... ich ha kei Rüeh meh...
+                        ich müess Ene bichte...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(fir sich)</stage>
+          <p>Allons... wenn er's bereüt, so verzeih ich's em, er isch
+                        schint's doch nitt so schlecht as ich glaübt ha.<stage>(lüt)</stage>
+                        Sie känne-n-afange...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <stage>(trillt si Bart un kratzt in de Hoor)</stage>
+          <p>'s wird schwer si... 's wird schwer si... wenn ich
+                        d'Wahl hatt, so wott ich liewer uf dr Belche kràbse...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wenn Sie's eso schwer finde, so sage Sie's nitt... 's
+                        isch unnöthig... ich weiss alles!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(springt uf)</stage>
+          <p>Ah bàh!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>'s handelt sich, nitt wohr, vo mine zweieninzigtaüsend
+                        Franke?
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <p>Vo « Ihre »... Kritz-Bataillon... 's isch wohr, Sie
+                        wisse's... awer wer dr Kückücks hat Ene das Ding känne
+                        sage?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Do, lese Se...<stage>(er hebt em dr Brief ane)</stage>.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verlege, b'schaüt ne)</stage>
+          <p>Ich kenn die Schrift, obschon se zwölf Johr jünger isch
+                        as ich... awer ich hätt g'schwore, ass dà Brief nie an
+                        si Adresse ku isch...
+                    </p>
+          <pb n="191"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Sie hätte sich trumpiert...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Sie hàn's doch sicher no nitt g'wisst, wo-n-ich das
+                        Geld...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Mi Geld...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Wo-n-ich Ihre Geld reclamiert ha bim Herr Fix?...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich ha's vor ere halb Stund no nitt emol g'wisst...
+                        erst, wo-n-ich mi Pistole fire g'süecht ha, isch mr dà
+                        Brief par hasard in d'Hànd ku...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>'s kunnt doch alles an dr Tag! Ich thàt jetz e schön
+                        G'sicht mache vor Ihne, wenn ich nitt z'erst das Ding
+                        g'stande hätt... denn ich bi eigentlig d'Schuld, ass
+                        Sie ruiniert sin .
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Oh!... 's Geld isch's nitt emol gsi, wo mr am Meiste
+                        g'macht hat...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Jà... jà... ich merk's scho... un das isch, was mr nitt
+                        z'verzeihe-n-isch... ich ha erfahre, ass d'Hochzit züe
+                        nitt gange-n-isch un ass dr Herr Fix furt isch mit
+                        siner Tochter... un alles das dur mich... dur mich!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Bàh! mr finde se wieder.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(verwundert)</stage>
+          <p>Pristi!... Sie sin e famoser Philosoph, Sie...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wieso das?...</p>
+        </sp>
+        <pb n="192"/>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <p>Wieso?... wenn einer kunnt un stiehlt Ihne-n-Ihr Vermöge
+                        un thüet Ihne-n-Ihre ganze Züekunft zerstöre, so thien
+                        Sie, anstatt ass Sie-n-en am Krage nàmme, noch ganz
+                        rüehig mit em rede...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Ich müess Ihne g'steh, ass wenn ich Sie atroffe hätt,
+                        wo-n-ich dr Brief dert g'lese ha, so wàr's wohrschinlig
+                        nitt eso still hergange... awer jetz verzeih ich Ihne,
+                        wil Sie's bereüe un 's Geld z'ruckbringe...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>'s Geld z'ruckbringe!... Kritz-Bataillon!... mr verstehn
+                        enander nitt...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(springt rasend uf en züe)</stage>
+          <p>Ah çà... Meister Finot... hàn Sie ebbe im Sinn, 's
+                        z'b'halte?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich ha gar nit im Sinn... awer wenn ich's doch nimmig
+                        ha... was wànn Se... ich ha ne schlechte Spekulation
+                        g'macht...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(üsser sich)</stage>
+          <p>Oh!... isch's denn möglig... so isch denn jetz alles
+                        verlore!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Vergange... verschwunde wie ne Seifeblotre...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Un 's blibt Ene nit?</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Doch... Schulde!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>So isch also 's Erbtheil vo mim Vater...</p>
+          <pb n="193"/>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Im Kückück züe!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(packt ne am Krage un schüttelt ne)</stage>
+          <p>Elender Zittel!...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <p>Nur druf, junger Mensch... nur druf... schlage Sie mich,
+                        trete Sie mich, mache Sie mit mr, was Se wànn.. ich bi
+                        ne Dieb, ne Schurk, un ich bi dr Strick nitt emol
+                        werth, fir mi z'hànke!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(losst en los. Fir sich)</stage>
+          <p>Oh! wenn's kei alter Mann Wàr!<stage>(er sinkt uf e Stüehl)</stage>
+                        Elise Elise... alles isch verlore<stage>(er stitzt sine-n-Arm
+                        uf dr Tisch un versteckt 's G'sicht in d'Hand)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(fir sich)</stage>
+          <p>Worum ha-n-ich das nitt vorüs gsàh!... Pristi...
+                        Kritz-Bataillon... Zeige Se, Herr Helder... fasse Se
+                        Müeth... dasmol isch's mr jetz halt nitt g'rothe, awer
+                        ich bi ne Finot, Sie wisse's... ich verwitsch 's Glick
+                        wieder... wànn Sie, ass ich Ihne ne Wechsel unterschrib
+                        fir das Gerd, zahlbar, wenn ich wieder flott bi?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(springt uf un zeigt uf d'Türe)</stage>
+          <p>Mache Se-n-ass Se-n-üse kämme... Sie Elender... un thien
+                        Se nitt noch mit Ihrem Spott mi Zorn reize...
+                        sunscht...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich spott nitt... denn ich schwör Ene uf mi Ehr...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(bitter)</stage>
+          <p>Uf Ihre-n-Ehr...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Uf was as Sie wànn wege mir, ass es mi einzig Verlange
+                        wàr, Si ri ch un glicklig z'wisse...
+                    </p>
+        </sp>
+        <pb n="194"/>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(sitzt wieder)</stage>
+          <p>Isch's wege dem, ass Sie mr mi Vermöge g'stohle
+                        hàn?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Was wànn Se halt... Wo-n-ich die Bankezettel g'spirt ha
+                        uf mr, isch's gsi, wie wenn se mr thàte schreie: Nimm
+                        is mit, dr Albert hat is jo nur dur dich verdient... mr
+                        g'höre dir a ne wenig... nimm is mit, dü thüesch is
+                        vierfach, fünf fach vermehre... dr Emil un 's Elise un
+                        's ganze Hüs werde glicklig dur dich... un do ha-n-i se
+                        halt gnu... un jetz, wenn Se wànn, so nàmme Sie ne
+                        Pistole un jage Se mr e Kugle dur dr Kopf, oder nàmme
+                        Se mich vor 's G'richt, ass ich uf's Galee kumm...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(mit Verachtung)</stage>
+          <p>Nei... ich vergiss nitt, ass Sie ne Frind vo mim Vater
+                        gsi sin un ass Sie dà Brief g'schriwe hàn in miner
+                        Müetter... d'einzige-n-ehrlige Handlung, wo Sie
+                        viellicht g'macht hàn in Ihrem Lewe... ich will rnich
+                        nitt ràche... awer mache Se-n-ass Se furt kämme!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(geht langsam gege dr Thüre, kunnt wieder z'ruck un
+                        trillt si Bart)
+                    </stage>
+          <p>Herr Helder...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(b'schaüt ne mit Verachtung)</stage>
+          <p>Sin Se noch do?...</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Vor ebb ich furt gang, ha-n-ich Ihne nur noch sage
+                        welle, wenn Sie das tröste ka, ass ich scho g'nüe
+                        g'stroft bi... ich bi noch viel elender ass sàller Tag,
+                        wo Sie mir das Almüese gà hàn, wo Ihne jetz eso ne
+                        schlechter Zins trait hat... ich stirb schier vor
+                        Hunger... un wil ich durchüs nitt bettle will, so gang
+                        ich jetz schnüersgrad an d'Seine... Adie...
+                    </p>
+          <pb n="195"/>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(nimmt si Portemonnaie üs em Sack un legt's uf dr
+                        Tisch)
+                    </stage>
+          <p>Warte Se... do... nàmme Se das.</p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich!...</p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Nàmme Se das... un gehn Se mr üs de-n-Aüge... ich gib's
+                        Ihne-n-üs Dank, ass Sie miner Müetter e Dienst hàn
+                        welle leiste... ich fir mi Theil brüch jetz nit meh...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Was nutzt mich das alles, wenn Sie mir nitt verzeihe...
+                        wenn ich dr Schlof nimmig ka finde z'Nacht...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(mit tonloser Stimm)</stage>
+          <p>Was g'schàh isch, isch g'schàh... all mi Zorn, mi Hass
+                        un mi Verachtung känne nitt 's G'ringste vo mim
+                        verschwundene Glick z'ruckriefe... gehn Se-n-in
+                        Friede... ich verzeih Ene...<stage>(er versteckt si G'sicht
+                        in de Hànd)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Nei, das hätt i jetz doch nitt glaübt, ass es so
+                        güetherzige Mensche-n-uf dr Welt hat... ich ha's miesse
+                        prawiere, fir's z'glaüwe<stage>(er zeigt uf dr Herr Helder)</stage>
+                        dà glicht in sim Vater nitt<stage>(uf eimol wie umg'wwandelt.
+                        Freidig)</stage> Eh bien... nei! ich ha's nitt verspielt... 's
+                        isch nitt verlore!... g'wunne ha-n-i!... g'wunne
+                        ha-n-i!! ..<stage>(er schwingt si Hüet un tanzt im Atelier
+                        umme. Züem Herr Helder, wo-n-en verwundert alüegt)</stage> ne
+                        G'schàftle hat sich presentiert hit... 's isch einzig
+                        gsi!... ne G'schàftle, wo viel nitt hätte
+                        traüe-n-unternàmme... eh bien! ich ha's g'wogt un ha
+                        reüssiert... ich ha nur miesse Geld ha, fir 's
+                        Andere-n-az'ziege... un wenn ich jetz noch kei ganze
+                        Millione-n-in de Hànd ha, so kunnt dr Rest bol...
+                        g'wunne-n-isch se!<stage>(er zieht e Pàckle Bankezettel üse)</stage>
+                        do hàn Se jetz z'erst emol Ihr <pb n="196"/>Geld... un do<stage>(er zieht
+                        e-n-anders üse)</stage> isch ebbes fir d'Interesse un fir dr
+                        Kummer, wo-n-ich Ihne g'macht ha..
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(verwundert)</stage>
+          <p>Was soll das heisse? ..<stage>(er macht e-n-abwehrende
+                        Bewegung).</stage>
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Oh!... Sie derfe's nàh... 's isch ehrlig g'wunne.. un
+                        Sie derfe mr jetz nit meh refüsiere... bin ich denn
+                        nitt Ihre-n-Oncle?...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Isch's e Träum oder isch's d'Wirkligkeit?.. O Elise...
+                        Elise... worum bisch Dü furt!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(schlat si an d'Stirne)</stage>
+          <p>Oh! ich dummer Narr!... d'Haüptsach vergiss i!<stage>(er laüft
+                        an d'Thüre-n-un macht se-n-nf Dr Herr Fix un 's Elise
+                        kämme-n-ine)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Fix un Elise.</stage>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder</speaker>
+          <stage>(streckt d'Arme-u-üsnander)</stage>
+          <p>Elise!...</p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise.</speaker>
+          <p>Emil!...<stage>(se umarme enander)</stage>.</p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(züem Herr Finot)</stage>
+          <p>Was isch denn jetz das eigentlig fir e G'schichte mit
+                        dem Geld... un worum mache Se-n-uns do-n-eso z'warte
+                        vor dr Thüre?...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(freidig)</stage>
+          <p>Merke Sie's denn nitt?... 's isch fir im Herr Helder
+                        e-n-Iwerraschung z'mache... un Ihne-n-o, Herr Fix... <pb n="197"/>do
+                        lese Se-n-emol z'erst dà Brief<stage>(er git em dr Brief vo
+                        dr Madame Helder, wo uf em Tisch ligt)</stage>.
+                    </p>
+        </sp>
+        <sp who="#elise">
+          <speaker>Elise</speaker>
+          <stage>(züem Herr Helder)</stage>
+          <p>Mr hàn uf unserer Flucht dr Herr Finot atroffe... er hat
+                        is unser Geld wieder z'ruck gà... 's isch schint's
+                        e-n-Irrung gsi...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot.</speaker>
+          <p>Ich ha in Alle welle-n-emol e rechter Spuck spiele!...
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Wo Ihne-n-awer hatt kanne fehle, Herr Finot... wenn Sie
+                        verlore hätte!...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(schittelt si)</stage>
+          <p>Brrr!... ich derf nitt dra denke... bàh!... ich bi ne
+                        Finot... ha-n-ich's nitt g'sàit?...
+                    </p>
+        </sp>
+        <sp who="#herr_fix">
+          <speaker>Herr Fix</speaker>
+          <stage>(legt dr Brief absite)</stage>
+          <p>Do thàt also das Geld im Herr Helder g'höre!... Was fir
+                        e sunderbare G'schichte!...<stage>(er hebt im Herr Helder
+                        d'Bankezettel ane)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_emil_helder">
+          <speaker>Herr Helder.</speaker>
+          <p>Mi Geld?... ich ha's scho... dr Herr Finot hat mr's scho
+                        z'ruck gà...
+                    </p>
+        </sp>
+        <sp who="#herr_finot">
+          <speaker>Herr Finot</speaker>
+          <stage>(züem Herr Fix)</stage>
+          <p>In dem isch güet abz'helfe, Herr Fix... gàn Sie's in
+                        Ihrer Tochter... un wil sie mit em Herr Helder
+                        hirothet, so isch's grad, wie wenn Sie's im
+                        z'ruckgàbte!... un jetz vorwàrts mit dr Hochzit!... se
+                        müess brillant si, denn 's isch 's letschte G'schàftle,
+                        wo-n-i mach!...
+                    </p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

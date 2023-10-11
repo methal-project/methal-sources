@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dr Chineserfranz</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-127"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Dr Chineserfranz</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="walther" sex="M">
+            <persName>WALTHER</persName>
+          </person>
+          <person xml:id="katele" sex="F">
+            <persName>KÀTELE</persName>
+          </person>
+          <person xml:id="franz" sex="M">
+            <persName>FRANZ</persName>
+          </person>
+          <person xml:id="schang" sex="M">
+            <persName>SCHANG</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#walther">
+          <role>
+            <persName>WALTHER</persName>
+          </role>
+          <roleDesc>Pàchter</roleDesc>
+        </castItem>
+        <castItem corresp="#katele">
+          <role>
+            <persName>KÀTELE</persName>
+          </role>
+          <roleDesc>si Tochter</roleDesc>
+        </castItem>
+        <castItem corresp="#franz">
+          <role>
+            <persName>FRANZ</persName>
+          </role>
+          <roleDesc>si Neveu (als Chineser)</roleDesc>
+        </castItem>
+        <castItem corresp="#schang">
+          <role>
+            <persName>SCHANG</persName>
+          </role>
+          <roleDesc>dr Knecht</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="character">Walther, Kàtele.</stage>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Enfin, decidier Di... entweder hasch ne gern oder hasch
+                        ne nitt gern... wenn De ne gern hasch, so hiroth ne;
+                        mir wàr's recht... hasch ne-n-awer nitt gern, so will
+                        ich Di wege dem doch nitt zwinge derzüe!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ich ha-n-en glaüb nitt ungern... awer eso ne Chineser
+                        hirothe, Vater...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>'s isch jo kei Chineser... Dü weisch's wohl!</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Sobol ass er eso ne Wàdele am Kopf hat hànke un eso
+                        Moustaches as wie schwarze Schnier un wie ne Chineser
+                        ag'legt isch, so isch's fir mich e Chineser!
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <l>Das Ding kàm mir chinesisch vor,</l>
+            <l>Wenn ich ne thàt hirothe,</l>
+            <l>Ich kännt ne doch, isch's jetz nitt wohr?</l>
+            <l>Nie packe-n-an de Hoor.</l>
+            <l>Was wott ich ihm üsrupfe,</l>
+            <l>Wenn's Strit gàb hi uns zwei,</l>
+            <pb n="557"/>
+            <l>Ich wàr üsg'setzt allei</l>
+            <l>Un er thàt dure schlupfe.</l>
+            <l>Fir ass d'Hiroth thüet g'linge,</l>
+            <l>Müess z'allererst druf hi</l>
+            <l>D' Paricke Fest als si,</l>
+            <l>Fir ass me güet ka ringe.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#katele">
+            <speaker>Kàtele.</speaker>
+            <lg>
+              <l>Das Ding kàm etc.</l>
+            </lg>
+          </sp>
+          <sp who="#walther">
+            <speaker>Walther.</speaker>
+            <lg>
+              <l>Das Ding kunnt Dir chinesisch vor</l>
+              <l>Un doch sollsch ihn hirothe,</l>
+              <l>Er ka nochher, isch's jetz nitt wohr?</l>
+              <l>Lo wachse sine Hoor.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Wenn ihr hirothe mitnander, so wird er wohrschinlig
+                        abfahre mit sim Wàdele un sich wieder kleide wie
+                        d'andere Lit!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Meinsch?... er isch awer jetz scho vierzeh Tàg do un
+                        laüft noch immer als Chineser umme.
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Was witt halt... er isch's g'wöhnt... siter im zehnte
+                        Johr isch er jetz in China gsi.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Warum haltsch Dü awer jetz eso an dere Hochzit... zeig,
+                        Pape?
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Los, Kàtele... ich sott Dir's eigentlig nitt sage...
+                        awer ich will Dir's jetz avertraüe, fir ass De siehsch,
+                        ass es Di Intresse-n-isch, Di Cüsin z'hirothe... awer
+                        versprich mir, ass De nieme nit sage witt!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Güet, ich versprich's... was isch denn das fir e
+                        G'heimniss?
+                    </p>
+        </sp>
+        <pb n="558"/>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>De weisch, ass ich noch e Schwester g'ha ha, wo
+                        g'storwe-n-isch grad 's Johr vor ebb mi Brüeder nach
+                        China üsg'wandert isch... Di Cüsin, wo Dich jetz
+                        hirothe will, isch sàllemol zeh Johr alt gsie und Dü
+                        o... jetz sin ihr beide finfezwanzig.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Bis dohi sieh-n-i nit b'sunders...</p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Wart nur... 's kunnt!... wo mi Schwester
+                        g'storwe-n-isch, so isch se Wittfraü gsi un hat
+                        zwanzigtaüsend Franke hinterlo un keine Kinder... un
+                        wil se vo jeher e-n-Original gsi isch, so hat se ne
+                        Testament g'macht, wo sàit, ass das Geld eüch zwei
+                        g'hört, wenn ihr hirothe mitnander...
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Jetz wird's scho interessanter, obscho...</p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Wart nur, 's isch no nitt ferig... im Fall awer, ass
+                        eins vo-n-eüch 's andere nitt will, so bekunnt das, wo
+                        nitt will, nit un 's Andere-n-alles!... verstehsch
+                        jetz, worum ass ich dra halt?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>'s isch wohr... do bekàmt ich also nit, wenn ich thàt
+                        nei sage...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Dü weisch, wie mir stehn... im e Monet vo do sott ich in
+                        de Zwanzigtaüsend Franke bezahle un wenn ich nitt ka,
+                        was wohrschinlig dr Fall wird si, so verkaüft me mir e
+                        Sach un stelt mi üse... also wenn Dü Di Cüsin gern
+                        hasch, so hiroth ne, ass Dü derno ufs wenigst versorgt
+                        bisch.
+                    </p>
+          <pb n="559"/>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Das Ding isch z'iwerlege... meinsch weisst er ebbes vo
+                        dem Testament?
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Ich glaüb nitt, ass em si Vater ebbes wird g'sàit ha...
+                        mr hàn ewe-n-abg'redt, ass mir eüch nit sage... De
+                        siehsch, ich bi jetz im Fehler... awer unsere Position
+                        isch ewe kei g'wöhnlige... obscho mi Brüeder eigentlig
+                        o nitt rich isch... se mache-n-allewil viel grossartige
+                        G'schàfte un thien awer glaüb mehr verliere-n-ass
+                        g'winne derbi.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Güet, ich will driwer nodenke...</p>
+        </sp>
+        <stage>G'sang.</stage>        
+        <sp who="#walther">
+          <speaker>Walther.</speaker>          
+          <lg>
+            <l>Hiroth jetz, mach mir d'Freid,</l>
+            <l>Denn bi dar G'legeheit</l>
+            <l>Machsch Dü Di Glick jetz do,</l>
+            <l>G'wiss wirsch Dü froh.</l>
+            <l>Gib Dü nur 's Wort im Franz,</l>
+            <l>D'Müsik b'stell ich züem Tanz,</l>
+            <l>Dü machsch Di Glick jetz do,</l>
+            <l>G'wiss wirsch Dü froh.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#walther">
+            <speaker>Walther.</speaker>
+            <lg>
+              <l>Hiroth jetz, mach etc.</l>
+            </lg>
+          </sp>
+          <sp who="#katele">
+            <speaker>Kàtele.</speaker>
+            <lg>
+              <l>Ich will Dir mache d'Freid</l>
+              <l>Un bi dàr Glegeheit</l>
+              <l>Mich jetz noch b'sinne do,</l>
+              <l>Eb's geht eso.</l>
+              <l>Sag noch kei Wort im Franz,</l>
+              <l>Denn ich weiss no nitt ganz,</l>
+              <l>Eb ich mi Glick jetz do</l>
+              <l>Z'weg bring eso.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="560"/>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Mach, ass es uf e Weg geht... Do kunnt er glaüb grad...
+                        er wird Di süeche... ich will jetz geh lüege, eg dunte
+                        ne Sach in Ordnung isch<stage>(er geht üse rechts)</stage>.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(allei, fir sich)</stage>
+          <p>Also, das wo nitt will hirothe, bikunnt nit un 's
+                        andere-n-alles?... Ich mach mi dervo, denn ich will mir
+                        das Ding noch iwerlege<stage>(se geht üse links)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="character">Schang, derno Franz.</stage>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(kunnt ine in de Socke, er hat Holzschüeh in dr Hand
+                        mit Straü drin)
+                    </stage>
+          <p>Tiens... wo sin se denn jetz... ich ha doch höre rede..
+                        denn ich ha express 's Ohr ans Schlisselloch g'hebt...
+                       <stage>(er legt d'Holzschüeh a)</stage> was mage se wieder üsg'macht
+                        ha do im g'heime?... siter ass dà Espèce Chineser do im
+                        Hüs isch, wird nur allewil complotiert in de-n-Ecke...
+                        ich ka nimmig g'nüe lose-n-an alle Thüre... un er
+                        agaciert mi efange, dà Chineser... wenn er
+                        Milhüserditsch redt, so mein i, 's isch chinesisch un
+                        redt er chinesisch, so mein i, 's isch
+                        Milhüserditsch... ich weiss als gar nimmig, wo-n-i dr
+                        Kopf ha... me möcht üs dr Hüt springe...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <l>Kännt ich chinesisch hit,</l>
+            <l>Wie wàr ich doch so froh,</l>
+            <l>'s wàr mir abg'hulfe mit</l>
+            <l>Bi dem Chineser do.</l>
+            <pb n="561"/>
+            <l>Ich ka mich nitt vertrage</l>
+            <l>Mit ihm im gliche Hüs,</l>
+            <l>Thüet er mir ebbes sage,</l>
+            <l>So kumm ich gar nitt drüs!</l>
+            <l>O je! o je! o je!</l>
+            <l>Thüet er mir ebbes sage,</l>
+            <l>O je! o je! o je!</l>
+            <l>So kumm ich gar nitt drüs.</l>
+            <l>Diemol redt er mich a</l>
+            <l>«Schaü d'Sunn' schint scho schön Schang!»</l>
+            <l>Ich will eüch g'frogt jetz ha,</l>
+            <l>Eb's eim nitt wird ganz bang?</l>
+            <l>Ich ka mich etc....</l>
+          </lg>
+          <p>Er hat g'sàit, er heb e Kummission fir mi, ich soll
+                            do ufe ku... er meint alleweg, ich ha sunscht nit
+                            z'thüe as sine Kummissione z'mache... doch still...
+                            do isch er glaüb<stage>(er geht in dr Hintergrund un springt alle Blick
+                                uf an dr Wand, fir Mucke s'fange)</stage></p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt ine rechts, fir sich)</stage>
+          <p>Das sin ganz sunderbare Lit, mi Oncle un mi Cüsine!...
+                        sie meine-n-alleweg, ich kumm fir die zwanzigtaüsend
+                        Franke z'hirothe, ohne mi Glick derbi z'süeche<stage>(er
+                        lipft d'Achsle)</stage> 's Beste wird' si, ich mach mi Kuffer
+                        un gang wieder, wo-n-i her ku bi... ich ha jo jetz scho
+                        wieder g'sàh, wie's im Elsass züegeht... ich ha do grad
+                        e Souvenir, wo-n-i will mitnàh<stage>(er hat e Statüette, wo
+                        d'Alsacienne druf isch, in dr Hand)</stage> awer ich wird's
+                        miesse-n-in ebbes iwickle... in Straü oder Hài
+                        viellicht<stage>(er sieht dr Schang)</stage> tiens, do isch jo dr
+                        Schang!... Schang, làng Hài!... <stage>er zieht dr Kuffer
+                            fire, stellt ne-n-uf dr Tisch un git si z'schaffe mit).</stage>
+                    </p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(fir sich)</stage>
+          <p>Hein... was sàit er?... jetz redt er wieder chine sisch;
+                       <stage>(züem Franz)</stage> was bliebt?
+                    </p>
+        </sp>
+        <pb n="562"/>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(mit sim Kuffer b'schàftigt)</stage>
+          <p>Hài, Schang!</p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(fir sich)</stage>
+          <p>Schang-làng-Hài!... Hài-Schang!... er soll ditsch
+                        rede!... weiss ich, was er will!...<stage>(er geht
+                        hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn ich's awer thàt in Watte-n-iwickle?... das wàr noch
+                        besser... ich müess geh lüege, ass ich Watte find am
+                        e-n-Ort<stage>(er geht use rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="character">Kàtele, derno Franz.</stage>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Weisst's dr Cüsin vom Testament oder weisst er's
+                        nitt?... das isch jetz d'Frog wenn er's nitt weisst, so
+                        isch mi Entschluss g'fasst... ich mach, ass er mich
+                        nitt will, ass ich d'ganze Summe bikumm, derno isch mi
+                        Vater g'rettet... si Ehr geht vor mim Glick...<stage>(se
+                        sieht dr Kuffer)</stage> tiens... er wird doch ebbe nitt scho
+                        am Ipacke si? Doch still, do kunnt er!
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt ine rechts , er hat e Pàckle Baüele im e
+                        Papier ig'wickelt in dr Hand)
+                    </stage>
+          <p>Eh, tiens!... mi liewe Cüsine!... Dü machsch awer
+                        e-n-ernsthaft G'sicht hit, Kàtele... isch Dr e
+                        Spinne-n-iwer dr Weg g'loffe?<stage>(er legt si Pàckle-n-uf
+                        dr Tisch)</stage>.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Un Dü... was sieh-n-i... witt ebbe scho wieder furt, ass
+                        De dr Kuffer fire süechsch?...
+                    </p>
+          <pb n="563"/>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Ganz un gar nitt!... obscho Dü mich glaüb nitt gross
+                        thàtsch z'ruckhalte... mit allem dem, los, Kàtele,
+                        wàr's besser, wenn Dü mir thàtsch jetz emol ufrichtig
+                        nei sage, wenn Dü mich nitt hirothe witt...
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er weisst 's un will mich mache z'refüsiere!</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>'s wàr awer g'wiss' schad, denn mir thäte doch g'wiss
+                        glicklig werde mitnander...
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Nei... er weisst's nitt!</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Ich uf jedefall refüsier nitt...</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Doch, er weisst's!</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Wil ich weiss, ass uns're-n-Eltre Freid dra hätte, un
+                        wil ich Dich gern ha.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Décidément, er weisst's nitt!... ich will ne jetz scho
+                        mache refüsiere!<stage>(lüt)</stage> los, Franz, ich will scho, awer
+                        ich müess Dir g'steh, ass ich e famos eigesinniger
+                        Charakter ha.
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Ah so!</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Un jalouse bin i!...<stage>(se geht mit dr Füst uf en los)</stage> ich
+                        thàt Dich grad verkratze, wenn Dü nur uf d'Site thàtsch
+                        lüege!...
+                    </p>
+          <pb n="564"/>
+          <lg>
+            <head>G'sang</head>
+            <l>Wenn ich will in d'Eh',</l>
+            <l>Müess es immer geh</l>
+            <l>Tàglig bi uns zwei</l>
+            <l>No mim Kopf allei.</l>
+            <l>Ich will 's G'setz üsgà,</l>
+            <l>Niene derf nit g'schàh,</l>
+            <l>Vor ebb ich derzüe</l>
+            <l>«Jo» sage thüe.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#katele">
+            <lg>
+              <l>Un kei Schritt als meh</l>
+              <l>Derf mi Mann üsgeh,</l>
+              <l>Vor ebb ich derzüe</l>
+              <l>« Jo » sage thüe.</l>
+            </lg>
+          </sp>
+          <sp who="#franz">
+            <speaker>Franz.</speaker>
+            <lg>
+              <l>Das isch licht z'versteh,</l>
+              <l>Ich verzicht uf d'Eh',</l>
+              <l>'s brücht nit meh derzüe,</l>
+              <l>Ich weiss genüe!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>So... so!...<stage>(fir sich)</stage> ich sich jetz scho, was los
+                        isch... se hat 's Geld liewer as mich...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="character">D'Gliche, Walther.</stage>
+        <sp who="#walther">
+          <speaker>Walther</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Was hör i... ich glaüb, ihr dispetiere mitnander?...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Dü kunnsch grad recht, Oncle... ich ha-n-ebbes mit Dir
+                        z'rede... grad hat mr 's Kàtele verzählt, was es fir e
+                        schlechter Charakter hat... hingege müess ich <pb n="565g"/>g'steh,
+                        ass ich 's Testament vo dr Tante, mit allem was drin
+                        steht, ganz güet kenn... ich ha's dur e Züefall
+                        erfahre, mi Vater hätt mir's nie g'sàit...<stage>(züem
+                        Katele)</stage> De brüchsch awer kei Angst z'ha... ich
+                        renoncier... b'halt Dü in dr Tante-n-ihre Geld un ich
+                        b'halt mi Herz!... Adie!...<stage>(er geht gege dr Thüre)</stage>.
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther</speaker>
+          <stage>(züem Franz)</stage>
+          <p>E-n-Aügesblick... ich ka-n-eüch nitt eso üsnander lo
+                        geh, denn ich merk jetz scho, was mag vorgange si... 's
+                        Kàtele hat sich sacrificiert fir mich z'rette... De
+                        müesch ewe wisse, ass mir dr Kontrakt vo minre Lehnung,
+                        wo-n-ich scho zahlt g'ha ha, verlore gange-n-isch un
+                        ass me mir jetz 's Geld noch emol verlangt derfir... 's
+                        macht ung'fàhr zwanzigtaüsend Franke, un die Summe
+                        z'biku, hat 's Kàtele Dich welle mache si Hand
+                        z'refüsiere...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(kunnt z'ruck un nimmt im Kàtele si Hand)</stage>
+          <p>Isch's möglig, Kàtele!... worum hasch mir's awer nitt
+                        glich g'stande... wenn mir o hirothe mitnander, so
+                        känne mir jo doch das Geld awende, fir im Vater si
+                        Schuld z'zahle.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Merci, Franz... awer wenn im Vater si Schuld o zahlt
+                        wàr, so thàt ihm doch nit bliwe-n-un ich ha mich nitt
+                        känne-n-entschliesse, ihn z'verlo im Unglick...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Bàh, bàh, bàh... bekümmere-n-ihr eüch nitt um mich...
+                        ich will mich scho do drüs zieh!... ihr sin brave
+                        Kinder un werde g'wiss glicklig mitnander... mach nur
+                        Di Kuffer wieder absite, Franz...<stage>(er sieht 's Pàckle
+                        Baüele nàwe-n-emKuffer)</stage> tiens!... was isch das fir e
+                        Papier mit mim Name druf<stage>(er macht's uf)</stage> eh... trumpier
+                        ich mich nitt... do isch se jo jetz, mi Lehnung, wo mir
+                        eweg ku isch... wie kunnt jetz das Ding do ane?...
+                    </p>
+        </sp>
+        <pb n="566"/>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Ich ha's grad awebrocht... 's isch in mim Kastefüess
+                        g'lege... ich ha-n-ebbas welle-n-iwickle mit dàre
+                        Baüele...
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Aha... das isch dr Schang wieder gsi... dà Kaste-n-isch
+                        als in sim Zimmer g'stande un do wird er's dri g'legt
+                        ha... awer worum...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Mir sin g'rettet, Kàtele!... do steht schwarz uf wiss,
+                        ass ich zahlt ha...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <l>Wenn 's Herz mir so bang</l>
+            <l>Als klopft hat scho lang,</l>
+            <l>So ha-n-ich g'wisst leider</l>
+            <l>Worum als ganz güet;</l>
+            <l>Doch jetz wird's jo heiter</l>
+            <l>Un wohl isch's mir z'Müeth,</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#walther">
+            <speaker>Walther.</speaker>
+            <lg>
+              <l>Denn g'heilt isch, die Wunde,</l>
+              <l>Dr Schin isch jetz g'funde <stage>(bis)</stage></l>
+              <l>Un wohl isch's mir z'Müeth.</l>
+              <l>Dr Schin isch jetz g'funde</l>
+              <l>Un wohl isch's mir z'Müeth.</l>
+            </lg>
+          </sp>
+          <sp who="#franz #katele">
+            <speaker>Franz un Kàtele.</speaker>
+            <lg>
+              <l>Denn g'heilt isch die Wunde,</l>
+              <l>Dr Schin isch jetz gfunde <stage>(bis)</stage></l>
+              <l>Un wohl isch's ihm z'Müeth,</l>
+              <l>Dr Schin isch jetz g'funde</l>
+              <l>Un wohl isch's ihm z'Müeth.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="657"/>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="character">D'Gliche, Schang.</stage>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(kunnt hinte-n-ine ku z'laüfe mit eme Bund Hài un e
+                        Brief)
+                    </stage>
+          <p>Hài hat er welle!... 's isch mr erst nochher iku...
+                        Schang làng Hài... das isch jo Milhüserditsch un nitt
+                        chinesisch... enfin, me ka sich jo trumpiere...<stage>(er
+                        geht gege-n-em Franz)</stage> do, Kerr Chineser!<stage>(er hebt em 's
+                        Hài ane)</stage>.
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Schang... zeig, kumm do ane... was isch das fir Baüele
+                        do?...
+                    </p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang.</speaker>
+          <p>Das?... Das isch mi Baüele fir in d'Ohre, wenn ich als
+                        Zahnweh ha... wer hat mir se-n-üsg'fiehrt?...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Un das Papier, wo se drig'wickelt gsi isch, wo hasch das
+                        her?...
+                    </p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang.</speaker>
+          <p>Jà do!... das weiss ich nimmig... 's isch scho gar lang,
+                        ich glaüb, 's isch emol uf em Tisch g'lege-n-oder uf em
+                        Secretaire...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>C'est ça... un do hasch Dü's gli miesse nàh, fir Di
+                        Baüele dri iz'wickle... Dü Tippel!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Dü müesch em verzeihe, Vater... De weisch jo, ass me
+                        scho g'schosse hat an sinre Tàifete!... d'Haüptsach
+                        isch, ass mr die Lehnung wieder g'funde hàn...
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther</speaker>
+          <stage>(züem Schang)</stage>
+          <p>Un do... was hasch do in dr Hand<stage>(er zeigt uf dr
+                        Brief)</stage>.
+                    </p>
+        </sp>
+        <pb n="668"/>
+        <sp who="#schang">
+          <speaker>Schang.</speaker>
+          <p>Das... das isch e Brief, wo dr Facteur grad brocht
+                        hat.
+                    </p>
+        </sp>
+        <sp who="#walther">
+          <speaker>Walther.</speaker>
+          <p>Worum gisch ne denn nitt<stage>(er nimmt's em)</stage> tiens, er isch
+                        fir dr Franz... das isch e possiger Stàmpfel... wie
+                        heisst eüer Ort wieder... Son... Son...
+                    </p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(niesst)</stage>
+          <p>Hàtschu!</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(züem Walther)</stage>
+          <p>Son-tàï...<stage>(er nimmt dr Brief un liest en)</stage>.</p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang</speaker>
+          <stage>(züem Franz)</stage>
+          <p>Merci, Herr Chineser!...<stage>(fir sich)</stage> er civilisiert si
+                        efange, dr Chineser..., vor vierzeh Tàg hätt er eim no
+                        nitt «G'sundheit» g'sàit, we me g'niesst hätt!...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(ufg'regt)</stage>
+          <p>Jetz, Kàtele, bruche mir keine Sorge meh z'ha... un nit
+                        steht meh in unsrer Hiroth im Weg... 's isch e Brief vo
+                        mim Vater, wo sàit, ass er wieder ins Elsass
+                        z'ruckkunnt mit eme schöne Vermöge, wo mr g'wunne hàn
+                        mit eme grossartige G'schàft, wo-n-im Gang gsi isch
+                        siter ebbes Zit!
+                    </p>
+        </sp>
+        <sp who="#schang">
+          <speaker>Schang.</speaker>
+          <p>Das isch nitt chinesisch!... wenn ebber Chance hat, so
+                        isch's doch g'wiss dr Chineserfranz!...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <l>'s Glick, das isch rar,</l>
+            <l>Nur selte lacht's eim jo;</l>
+            <l>Drum müess me's halt,</l>
+            <l>Wenn's kunnt, nitt fahre lo,</l>
+            <l>Wer sich drum scheert</l>
+            <l>Un 's nitt will süeche do,</l>
+            <l>Dà isch's Glick nitt werth.</l>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -2,29 +2,36 @@
 
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 
-Projet de création de corpus, ainsi que lecture distante du théâtre dialectal en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
+Projet de création de corpus, ainsi que lecture distante du théâtre en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
 
 
 - Site du projet : <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
 - Interface d'exploration du corpus : <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
 - La publication pérenne (basée sur DOI) s'effectue à travers une <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala
+  - En plus des pièces déjà publiées avec DOI, une version pré-publication de plusieurs pièces, qui peut déjà être utilisée pour des analyses, eset disponible sous [tei-pre-release](./tei-pre-release) dans le présent dépôt
 
 
 ## Contenu du dépôt
 
-- Les [**pièces encodées en TEI**](./tei), dans le dossier [[tei]](./tei). Pour une vue d'ensemble, un tableau [ci-dessous](#pièces-disponibles-en-tei) liste les pièces.
-    - À noter qu'une <a href="https://methal.eu/ui/">interface en ligne</a> donne accès au texte intégral pour plus de 50 pièces additionnelles, pour lesquelles nous avons effectué une océrisation et sa correction, mais que nous n'avons pas encore encodées en TEI
+- Les **pièces encodées en TEI**, dans les deux directoires suivants:
+  - [[tei]](./tei) : Ces pièces ont été publiées avec DOI via l'entrepôt de données Nakala. Pour une vue d'ensemble, un tableau [ci-dessous](#pièces-disponibles-en-tei) liste des pièces.
+  - [[tei-pre-release]](./tei-pre-release) : Ces pièces ont fait l'objet de moins de vérifications que celles dans le dossier `tei` et un DOI ne leur a pas encore été attribué. Elles ont pourtant déjà été utilisées pour plusieurs études (p. ex. en <a target="_blank" href="https://doi.org/10.5281/zenodo.8404252">analyse d'émotions</a>) 
 - Une [**personography en TEI**](./personography) est aussi disponible, pour un grand volume de pièces. Elle décrit plus de 2,350 characters provenant d'environ 230 plays. Les variables sociales des personnages (âge, genre, groupe professionnel, classe sociale) y sont annotées
 - Un <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documente nos pratiques d'encodage
+- Des logiciels développées pour l'encodage TEI se trouvent dans le dossier [encoding-workflow](./encoding-workflow)
+
+En plus du présent dépôt, une <a href="https://methal.eu/ui/">interface en ligne</a> donne accès au texte intégral et métadonnées pour toutes les pièces.
 
 
 ## Participants
 
 Pablo Ruiz (responsable), Delphine Bernhard, Pascale Erhart, Dominique Huck, Carole Werner, au Laboratoire LiLPa.
 
-Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous remercions particulièrement. Parmi les étudiant.e.s Unistra : Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud et Vedisha Toory. Au-delà : Andrew Briand (Université de Washington, via IFE Strasbourg), Barbara Hoff (Université d’Édimbourg), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
+Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous remercions particulièrement. Parmi les étudiant.e.s Unistra : Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud, Alexia Schneider et Vedisha Toory. Au-delà : Andrew Briand (Université de Washington, via IFE Strasbourg), Barbara Hoff (Université d’Édimbourg), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
 
 ## Pièces disponibles en TEI
+
+(D'autres pièces en TEI, pas encore distribuées via Nakala, se trouvent dans le directoire [tei-pre-release](./tei-pre-release))
 
 |Auteur.e|PremièreÉdition|NotreSource|Titre|Sous-titre|Genre|Source TEI|
 |---|---|---|---|---|---|---|

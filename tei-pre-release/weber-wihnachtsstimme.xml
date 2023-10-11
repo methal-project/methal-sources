@@ -1,0 +1,1383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wihnachtsstimme</title>
+        <title type="sub">Weihnachtsstück im Dialekt aus der Zeit der grossen Revolution in 2 Akten</title>
+        <author key="wikidata:Q97120017">Charles Weber</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q107245664</idno>
+        <idno type="methal" xml:id="mtl-137"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/https://www.numistral.fr/ark:/12148/bpt6k9109600x</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q107245664">Charles Weber</author>
+            <title type="main">Wihnachtsstimme</title>
+            <title type="sub">Weihnachtsstück im Dialekt aus der Zeit der grossen Revolution in 2 Akten</title>
+            <publisher>Société Alsacienne d'Édition (Alsatia) S.A.</publisher>
+            <date when="1920" type="print">1920</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="martin_scheid">
+            <persName>Martin Scheid</persName>
+          </person>
+          <person sex="M" xml:id="florence_scheid">
+            <persName>Florence Scheid</persName>
+          </person>
+          <person sex="M" xml:id="barthelme_scheid">
+            <persName>Barthelmé Scheid</persName>
+          </person>
+          <person sex="M" xml:id="mathis">
+            <persName>Mathis</persName>
+          </person>
+          <person sex="M" xml:id="jorgl">
+            <persName>Jörgl</persName>
+          </person>
+          <person sex="M" xml:id="christophe">
+            <persName>Christophe</persName>
+          </person>
+          <person sex="M" xml:id="karstmichel">
+            <persName>Karstmichel</persName>
+          </person>
+          <person sex="M" xml:id="mock">
+            <persName>Mock</persName>
+          </person>
+          <person sex="M" xml:id="_burger">
+            <persName>Bürger</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#martin_scheid"><role><persName>Martin Scheid</persName></role>, <roleDesc>Bürger, erblindeter u. gichtkranker Greis</roleDesc>.</castItem>
+        <castItem corresp="#florence_scheid"><role><persName>Florence Scheid</persName></role>, <roleDesc>abbé</roleDesc>.</castItem>
+        <castItem corresp="#barthelme_scheid"><role><persName>Barthelmé Scheid</persName></role>, <roleDesc>capitaine des chevaliers, seine Söhne</roleDesc>.</castItem>
+        <castItem corresp="#mathis"><role><persName>Mathis</persName></role>, <roleDesc>alter Diener des M. Scheid</roleDesc>.</castItem>
+        <castItem corresp="#jorgl"><role><persName>Jörgl</persName></role>, <roleDesc>dessen Enkel</roleDesc>.</castItem>
+        <castItem corresp="#christophe"><role><persName>Christophe</persName></role>, <roleDesc>Gehilfe des Florence</roleDesc>.</castItem>
+        <castItem corresp="#karstmichel"><role><persName>Karstmichel</persName></role>, <roleDesc>ein Bauer</roleDesc>.</castItem>
+        <castItem corresp="#mock"><role><persName>Mock</persName></role>, <roleDesc>Geselle des Barthelmé, adjutant au capitaine</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> Erster Akt. </head>
+        <stage> Scenerie: gut bürgerliches Zimmer aus der Zeit der Revolution, links ein Cheminé, rechts ein Fenster, an der Wand ein Muttergottesbild, — auf  dem Cheminé eine Photographie.</stage>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> M. Scheid — Mathis.</stage>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid  :</speaker>
+            <stage>(am Cheminé im Lehnsessel)</stage>
+            <p>Mathis, geh ans Fenschter! Mer sieht jo nuff bis ans Obertor. Ich bin so arig unrüeich!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <stage>(der am Kaminfeuer beschäftigt, geht ans ken-  ster und schaut hinaus)</stage>
+            <p>Nix uffälligs! D’Litt gehn üss un in, wie in de beschte Friedenszitte.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Die Speckritter, Revolutzer, Patriote, Sans- culotte un Jakobiner, wie se alli heisse, müen doch a mol mied wäre vun dem unuffherliche Gemetzel. Villicht dämmert in dennä doch noch e biss'l vun de alt Wihnachtsherrlichkeit.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(noch am Fenster)</stage>
+            <p>Wahrhaftig, wenn se nit däne Morje noch ä armi, rechtschaffeni Frau, wo nur e bess’l ewer de schlechte Zitte geklagt het, do d’Stross nab züe d'r Guillotine g’schleppt hätte als Feindin vun der Republique, mer könnt fascht sage: Es isch hitt ken Révolution.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Wieviel Ühre isch’s?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Es müess glich 3e schlawe!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Schun? Es wird mer immer ängstliger züe Müet! Sag! Siehsch nit ä strammer Zemmermanns- bursch met Richtscheid un Säj d’Stross nabwandere? So lang isch’r noch nie üssgebliwe, miner Florence.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(schaut hinaus)</stage>
+            <p>Nai! <stage>(zurück vom Fenster)</stage> Oh, Monsieur, berühige n’eich. D’Müeter Gottes isch mit'm. Em Herr Abbé bassiert nix.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Un doch! Ich kann die Angscht nit nider- drucke. Jung, wie är isch, ganz voller Ifer für sine heilig Berüef, wie er in so schwerer Zitt üssiewe müess? Ich hab Angscht, er dät mol ä Unvorsichtig- keit begehn un wurd no vun däne wietige, gottlose Speckritter entdeckt.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Schun meh ass einmol isch er in de greschte Gfahr gewänn; awer wie durch ä Wunder isch’r immer wider sine Verfolger entgange.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Awer hit het er ä ganz g’fährlige Versähgang ze mache g'het. Er isch züem totkranke Dominika- nerjerry drüsse uff der Dominikanerferme gerüefe worre. Der wohnt bim rote Hannes, bim wietigschte Jakobiner üss der ganze Umgejet. Wann där me- rike dät, dass in sim Hüss ä Prieschter hit Nacht im ä arme Kranke der letschte Troscht reicht? — Oh, mini Angscht isch hit nur züe berechtigt. — Du lie- wer Gott, b’schitz ne! — Loss mer mine Sohn, mine Stolz, mine einzigschte Troscht in däne schwere Zitte.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Herr Scheid! — Awer ihr hän doch zwei Söhn! — Ja, wenn doch noch der ander do wär!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Weller ander?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Ejer Aeltschter, der Barthelmé!! M. Scheid <stage>(zuckt zusammen — hebt abwehrend die beiden Hände)</stage>: De Barthelmé? — Sprich m'r nit vun’m, vun dem abg’fallene Sohn, vun dem Revolutzer! — Nai!—</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Eiri Befirchtunge, Herr Scheid, sin numme Ah- nunge. Wer weiss, was er nit alles für Güets schafft jetzt dort in Paris, im Sinn von de güete, alte Zitte.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(wegwerfend)</stage>
+            <p>Er mit sinere wive Natur?! <stage>(entrüstet)</stage> Näi! Höchschstens isch er im Bund mit däne Vernunftsapostel un mit dene liedrige Göttine vun der raison.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Awer sicher, un är isch jo mit soviel Begeisch- terung furt, fürs Kaufmannsfach ze stüdiere. Sicher isch 'r jetzt in so-r-ä g’heime Verwaltung tätig, wu widder Ordnung schaffe will.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Näi! — Er isch ken Mann für heimlich Getües. Oeffentli isch er tätig, im Dienscht vum Umsturz un vun der Revolution.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(bekümmert für sich)</stage>
+            <p>Könnt ich numme einmol däne güete alte Herre tröschte?!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Züe ditli hab i’s geläse zwische de Zile vun sim letschte Brief. Mit Begeischterung het’r g’schrie- we vun däne grosse Vorgäng in Paris im Jüli 89; dass er in’s Palais rojal geht, in däne „Firhärd vum Patriotismus‘; wie er in de erschte Reihe mitge- kämpft het bi der Erstirmung der Bastille. —</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Der Brief stammt awer üss de erschte Tag vun de Revolution, üss däne hetzige Jülitäi 89. Es isch jo wohr, er het ä wiver Charakter! Ganz natirli isch’s also, wenn er sich domols vun dem Gebriehls: liberté, fraternité, égalité het verfiehre lon, un het mitgekämpft. Ganz gewiss hets nit lang gedürt, bis er hell g’sähn het, wo eijentli der ganz Umsturz nüssgewellt het, un sicher: so firig, wie er mitge- kämpft het, so begeischtert kämpft er jetzt dergege.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Oh, e Revolutzer, wu Blüet g’schmeckt het, kanns nimm lon! — Warum schribt er nemmeh ziter sälmols?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p><stage>(tritt unbemerkt ein und horcht zu)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(erhebt sich aufgeregt)</stage>
+            <p>Es druckt mer fascht s’Herz ab! — Ä Scheid — de einzigscht, wie däne alte — unbefleckte — Name Scheid in d’Zükunft ver- pflanze soll? — Ä Patriot! Ä Revolutzer ? — Ä Jako- biner? — <stage>(aufgeregt)</stage> Mini Nachkumme wäre also Gottesschänder? — Mörder? — Reiwer? — Flüech!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Vorige — Florence (in Zimmermannskleidung) — Christophe (mit Handwerkskiste, welche aber die heiligen  Gegenstände enthält).</stage>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(hatte schon länger zugehört)</stage>
+            <p>Halt!! — Vatter!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(sinkt zurück)</stage>
+            <p>Florence?!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(mit Verbeugung)</stage>
+            <p>Gelobt sei Jesus Christus!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>In Ewigkeit.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Florence! — Kumm un tröscht mi!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(im Vorbeigehen zu Mathis)</stage>
+            <p>Isch ebs Nej’s kumme vum Barthelmé?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Näi! — Awer — <stage>(deutet bekümmert auf M. Scheid)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(ergreift die Hände des Vaters, die ihn suchen)</stage>
+            <p>Vatter, dü hesch nur Händ züem Seje bekumme. — Nieh solle se sich züem Flüech un Verdamme üss- strecke.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Verzeih mer, Sohn! no macht’s der Herrgott o.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Ja, er het mich g’schickt im richtige Moment, für die Sind, o Vatter, ze verbiete.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(zieht ihn an sich)</stage>
+            <p>Was isch des, Florence? — Dini Kleider sin jo ganz ficht? — Mathis, het’s dänn gereit oder g’schneit?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Nix vun beidem! Mer hän grieni Wihnachte des Johr!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Es isch die Nacht schwer hergange. Numme durich ä Wunder sin mer de Speckritter entgange.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Oh, mini Ahnung!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Mir sin ung’schore bis an’s Dominikanerwäl- dele kumme un hän schun s’Liecht vun der Ferme im Fenschterle glitzere sähn. Do galoppiere vor uns ä paar Rösser d’Stross her. Schnell d’Laterne üss- gelöscht, un mir sin abseits en d’Hecke g’stande, für die Ritter an uns verbei ze lon. Do halte se 5 Schritt vor uns un sitze ab. Ä grosses Gebriehls uff de Stross, un mir höre grad soviel rüss, dass se unsri Laterne schun vun wittem g’sähn hän un jetzt wisse welle, wo des Liecht ane isch kumme. Es munkelt schun: Pfaffebrüet, Verräter, Aristokrate. Mir wisse, well Zitt dass isch, un schliche in d’Hecke herin. Awer uff einmol entsteht ä Freideg’heil uff de Stross, un mit'm Gsang: „Ça ira, ça ira, les aristocrats, on les prendra“, stirzt alles hinter uns her. D’r Rüess- bach isch awer hoch ang’schwolle vum letschte Tau- wetter, un d’Speckritter sin schun ganz noch. In Gott's Name springe mir dann in's Wasser un schwimme niwer. In däm Moment sin d’Speckritter au schun driwe angelangt. Sie mache Halt! Soviel tröje se awer im ä Pfaff denn doch nit züe, dass er do niwer kännt g’schwumme sin, un sie süeche wit- tersch in de Hecke. — Mir sin dann in grossem Böje um des Plätz'l rumgange hän nochmol mien zerück- schwimme, un kumme spot un durich nass uff der Ferme an.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Un grad noch züe rechter Zitt. Küm isch de alt Dominikanerjerry versähn gewänn, du esch ’r schun verschiede.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Un der rot Hannes?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Er isch bi sälle Speckritter gewänn un isch d’ganz Nacht nit heimkumme.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(lacht)</stage>
+            <p>Der het halt d’ganz Nacht drüsse im Wald noch dem Pfaff gsüecht, wie er grad in sinem Hüss het müen iwer Nacht b’halte.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Un jetzt hab i di widder, o Florence. Awer jetzt geh schnell in din Kammerle, ins Bett, dass mer nit krank worsch. Dü weisch, es isch Wihnachte hit, un irer welle doch henicht au a bess’l Wihnachte fire.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Awer mir nit allein! Hä Vatter! Ich hab vor, a scheni Chrischtmette abzehalte drunte em Keller.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Ich ferich numme, dass d’Patriote hit Nacht ganz b’sunders uffbasse ware!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Ja, un dezu word hit noch a Rejement Frei- welligi üss Paris erwart. Es esch namli bekannt wore, dass es in unsre Stadt noch ziemli Aristokrate, Prieschter un Katholike soll han, un für des isch extra des Rejement geruefe wore. Sie känne alle Awebleck ankumme. <stage>(ferner Trompetenschall)</stage> Du kumme se jo schun. <stage>(ans Fenster)</stage> Rechtig, owe’s Owertor rinn ritt a ganze Masse Soldate.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Unsri Henker. <stage>(Geschrei auf der Strasse unten)</stage>.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Wie die Jakobiner un Patriote renne, wie se johle un briehle!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Florence! Loss dine Plan! Wenn dir un de andre ebs arriviere dat?! Ich bin jo alt genueg, ich frog nix meh noch’m Lawe, noch’m Dot un noch der Guillotine. Awer dü, dü muesch dich dir, im Herrgott un de arme Kranke erhalte.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>O Vatter! Loss mer die Freid! wie ich alle mache will. Lueg e mol, was jetzt taglig der Him- mel beleidigt wird. <stage>(Pferdegetrappel geht unten vorbei)</stage>.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(am Fenster)</stage>
+            <p>Schrecklichi Mensche des! Rich- tigi Révolutionssoldate! Wie ware die in unserem guete Städt’l wiete?!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Was esch, Mathis?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(zitternd und ängstlich)</stage>
+            <p>Ganz vorne an der Spitz sen 2 Offizier geritte. Wie se do am Hüss sin, het der eint zuem andre ebs g’sait un derbi do ruff geditte.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(zitternd)</stage>
+            <p>Solle mer villicht zerscht dran glauwe muen? Florence, mach dich en Sicherheit!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(vorwurfsvoll z. Mathis)</stage>
+            <p>Alter Wissnas. <stage>(Wunderfitz)</stage> Muesch doch immer d’Nas zuem Fenschter nüsstrecke, wenn ebs los isch. Weisch net? — Wer d’Soldate zue begriesse het, isch jetzt drunte uff der Stross, un wer verstohle zuem Fenschter nüssgikelt, dar isch glich Feind vun de République.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Awer! — Ich hab jo au gar nix e so gedenkt?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Numme rueich, Alter! Des word schun net gemeint sen. Uff dich alter Gröjkopf wurd’s ken Jakobiner absahn. Wenne danne 2 chevaliers ebs uffg’falle isch, dann isch’s höchschtens unser präch- tiges, historisches Wappe ewer de Hüsstir, wie doch vun alle Fremde, wu do durichkumme, bewundert word.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Wenn mer awer doch schun verrote sotte sen? Florence, gal dü haltsch hit Nacht ken Mette?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Doch Vatter! Grad, weil die fremde Schinder kumme sin. Es ware die Nacht, en der heilige Chrischtnacht, jetzt so viel Sünde begange in unse- rem Städt’l, dass es für de liewe Gott a helli Freid wird sin, wenn so e richtigs, heiligs Wihnachtsge- bet ufstiegt un um Verzeihung batet für die Sünder.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Ja, Gott wells!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(überzeugt)</stage>
+            <p>Es soll g’schahn!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Merçi, Vater, für dini Inwilligung. Es isch miner heischt Adventswunsch gewann, des Fescht mit mine Treie fire ze känne. Mathis, de Keller mues awer au recht wihnachtlich ingericht ware.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>S’Altargstell isch jo immer gericht. Altardiecher ewer des Brett ewer dane 2 Winfasser, un er isch ferti.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Es mues awer au e Krippele un a Chrischt- baum har!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>A Krippele wur ich schun zeracht mache känne, awer a Tannebaum in de Keller schaffe, des war doch schun a bess’l zue uffallig.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Leider muen m'r dann druff verzichte.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Na, villicht find sich au noch a Ersatz vor de Chrischtbaum.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Lon nur de Mathis mache un sorje net. Awer wer litt d’Wihnachtsglocke?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>De Mathis selbscht isch unsri Wihnachtsglock, wie die treie Katholike zue de Mette rueft. Dü gehsch jetzt zerscht zue alle guete Katholike, dü kennsch se jo, un bringsch ne de gross Freid, dass se sich hit Nacht im bekannte Keller drunte zue de Wih- nachtsmette infinde solle. Zugang durichs Garte- törl em Hintergassel, Parole: Friede.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(z. Mathis)</stage>
+            <p>Un geh jetzt, Mathis, for des be- kummsch sicher e mol a Extraplatzle im Himmel, weil de Engel vun Bethlehem oder besser noch Wihnachtsglocke hesch derfe spiele. Mathis <stage>(nachdenklich beim Abgehen — dann wie ge- funden für sich)</stage>: Un d’Wihnachtsglocke solle doch litte! <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Un dü, Florence! Her endlich uff mich! Geh in’s Bett, dass hitt Nacht wieder frisch un munter bisch.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Vorige — Karstmichel.</stage>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel :</speaker>
+            <stage>(stürzt herein)</stage>
+            <p>Wo esch’r?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>A Fremder? ! <stage>(M. Scheid — Florence u. Christophe produzieren im Augenblick eine Verstellungsszene, bei welcher sich Christoph als Diener des M .Scheid und Flo- rence als wirklicher Zimmermann aufspielen)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(z. M. Scheid)</stage>
+            <p>Also 3 Sparre sin morsch am Dach?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Es kännte au noch meh sin!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Wie lang? <stage>(nimmt Notizbuch vor)</stage>.</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>Um Gottswelle! Ich bruech ne doch so nöti! Wo esch’r?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Na, ich geh mol sewer nochsahn? <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Wer denn?</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>Der Abbé Scheid! Ich muess ne han!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Abbé Scheid?! <stage>(barsch)</stage> Wie känn si im e guete patriotische Hüss noch’m a Abbé sueche? <stage>(packt den Karstmichel)</stage> Wenn dü in solcher Angscht a Abbé suechsch, dann bisch dü jo a Feind vun der République. Los met dir uffs Schaffott.</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>O han doch Erbarme, un verstelle eich nit! Ich bin doch ganz racht do. Des isch de alt Mons. Scheid, a gueter Katholik, wie mer de Kellerjerry verzehlt het. Ich bin de Karstmichel vun Kränzel- hüse driwe. Miner Sohn isch geschtert vun de Speckritter, vun sine Kamerade, so arich misshan- delt worre, dass er jetzt am Sterwe lejt. Er rueft noch’m a Pfarrer. Florence <stage>(war wieder eingetreten u. horcht unauffällig zu)</stage></p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>Un de Nochber, de Kellerierry, het mer verrote, dass do im Städt’l noch a Abbé namens Scheid soll sin. D’Adress stimmt ganz genau uff des Hüss mit dem schene Wappe ewer de Ter. Des esch siner Vater, un — <stage>(betrachtet Florence)</stage> sie — gale, sie sen net Zimmermann? — Sie sen de Herr Abbé Scheid?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Der Mann esch verruckt.</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>Gewiss! <stage>(z. Florence)</stage> Do lueje sie, Herr Abbé, des Blatt’l het mer de Kellerjerry als Empfeh- lung mit gan.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(durchschaut es)</stage>
+            <p>Es stimmt! — Em Kellerjerry sini Unterschrift — <stage>(bestimmt)</stage> Ich kumm!</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel:</speaker>
+            <p>Gott sei Dank! Schnell awer, sunscht stirbt miner Sohn!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Sofort!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Florence! Dü witt schun widder zuem a Kranke gehn? Dini Kleider sen noch nass, un hit Nacht soll doch .....</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(einfallend)</stage>
+            <p>Ich muess, wenn a Kranker rueft.</p>
+          </sp>
+          <sp who="#karstmichel">
+            <speaker>Karstmichel :</speaker>
+            <stage>(ungeduldig)</stage>
+            <p>Schnell! Am Owertor halt min Wäjele. Schnell, sunscht stirbt miner Sohn un wurd verdammt.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Florence! Wechsel wenigschtens dini Kleider noch!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Es esch ken Zitt ze verliere, wenn’s so schlimm steht. Christophe, ich geh desmol allein.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Uess de Mette wurd also nix?!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Bes dort ane bin ich widder do. De Mathis soll jo alles richte.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(reicht Florence die Handwerkskiste)</stage>
+            <p>Do s’netigschte.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Gott sei mit der. Gelobt sei Jesus Christus.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>In Ewigkeit. Amen. <stage>( ab — im Abgehen zu Karstmichel)</stage>: Merke’s eich wohl, ich bin Zimmer- mann un hab ejer Dach ze repariere. <stage>(reicht Karst- michel die Kiste — er selbst trägt Richtscheid und Säge)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(z: Christophe)</stage>
+            <p>Ich muess still sin vor som’e Sohn. Ich, a alter, erfahrener Mann bin a Kind ge- jene. Er esch.....</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>D’Revolution het Mensche zuem Veh un andri wedder zue Engel gemacht.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Do seht m'r s’himmlisch Walte vun der Hand Gottes. <stage>(sinkt nachdenklich in sich zusammen)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Mons. Scheid! Wars net besser, sie date e bess’l ins Bett gehn? Sie hann bim Warte uff de Herr Abbé gewiss ihr Mittagsschlafele versümt. Un üsserdem, hit Nacht bi de Chrischtmette welle sie doch au nit fahle?!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Gewiss! <stage>(während ihm Christophe aufhilft u. ihn führt)</stage> Un dü, Christophe, au dü wursch’s neti han. Geh au dü schlofe, dü hesch au noch ganz nassi Kleider. <stage>(beide ab durch die Seitentüre)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Auftritt. </head>
+          <stage> Barthelmé — Mock (treten auf in gewöhnlicher,  bürgerlicher Kleidung. </stage>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <stage>(bleibt erst unter der Türe sinnend stehen  und bewegt sich sprechend nach vorne — Mock  folgt ihm lauernd)</stage>
+            <p>Ja, es isch’s noch, s’alte heimi- sche Fameliezimmer. Do de Cheminé. An so Winterdaj isch’s gewann, do sin mir Kinder im Vater uff d’Knie g’sesse dort uff dem Lehnsessel, un no het er uns verzehlt! Die herrliche, glückliche Kinderdaj!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Derfe ihr ruckwarts denke, zeruck villicht gar in Zitte, wo die Capetbruet s'schene Frankrich geknächt het? Derf m'r salli Sklavezitte glicklich nenne?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Me isch nur einmol Kind, a Kind wie vun dare Welt nix weiss: vun ihrem Schaffe, vun ihrem Jammer, vun ihrem Elend?</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Des sell heisse: D’Revolution het Elend un Not. in d’Welt gebrocht?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Mock! Denk zeruck! Au dü bisch mol e Kind g’sin.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Ja! Wohl bin ich mol e Kind g’sin, un gewiss, ich hab’s nie vergesse; denn ich hab vieles ze raehe.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Mock! Sag! Was hesch denn dü ze rache üss unschuldige Kinderdaj.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>S’Findelhüss isch mini erscht Heimet g'sien. Armi, kinderlosi Pförtnerslitt vum a grosse Herreschloss üss de Tourraine han mi not angenumme. Ich bin dort am Schlosstor g’stande, Tag for Tag un hab se sahn üss- un inkutschiere un ritte, sie, die verdammte Seigneurs et Dames, ducs et duchesses, comtes et comtesses en ehre prächtige Sid- un Sammetkleider. Ich in mine Lumpe, barfuess un dräckig, hab se muen um a Almose anbettle. Un wenn ich dann de paar Sous abgeliefert hab, no hets immer noch Schlag gan, weils net genung isch g’sin. So isch’s mir elendig gange bis ins 15. Johr. Do ben i einfach in mim Schindvatter furt geloffe nach Paris. Dort hab ich noch viel Leidensgenosse getroffe. Dort hab ich au sie, capitaine, kenne lehre als junger Stu- dent. Wie het sie doch sallemols unser Schicksal gedürt? Sie han uns ihre Hand gereicht, mir han d’Bastille g’stirmt. de Pfaffe- un Herreneschter ge- lärt Liberté, fraternité, égalité han m'r der Welt g’schenkt. Ewer de Trümmer vum Despotismus un der Religion han mer d’Fahne vun de Vernunft uff- gepflanzt. Unser Warik isch noch nit fertig. Mir sin hit do en ehr Vaterstädt’l geruefe wore, für die Pfaffe- un Aristokrateneschter üsszehewe, un sie denke uff einmol zerück an Kinderdaj? A Republi- kaner, a Jakobiner denkt nur vorwärts, nie zeruck!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Dü hesch recht, Mock! Un doch ....!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Was? doch? — Ewerhaupt schint’s m'r, dass m'r do in eurem Vaterhüss direkt uff so a Pfaffenescht g’stosse sin. Was sell denn das Bild do? <stage>(greift nach dem Muttergottesbild)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Halt! Mock! Vergriff di nit an dem Bild! Ich erkenns wider. Es isch a Votivtafel, wie d’Mame sali vor Johre im Walfartskirchle uffg’henkt het, wie ich als kleins Kind am Scharlach hoffnungslos darniederg’lage bin. Der Vatter hets alleweg gerett un do uffg'henkt, wie d’Bilder dort verbrennt sin wore.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Capitaine! — Ich kenn sie nimmeh! Isch des ihri Art ze redde? Ha, wenn ich noch ze- ruckdenk dort ans Palais royal, wo ich sie hab zuem erschtemol here redde?! Sie han Fir un Flamme üssg’haucht, un es het uns angebrennt. Ha, het des geklunge, wie vun Rousseau un Voltaire. — Un hit muess ich üss’m namliche Mül so e Gelobhudels here iwer so a staatsfindlich Bild, wie üss’m a iwerg’ schnappte Mueterhirn hervorgange isch? Sie solle rede, wie a Jakobiner red. Runter mit dem Lumpe- dings. <stage>(will das Bild herunterrreissen.)</stage></p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p><stage>(ergreift schnell die Photographie auf dem cheminée und reicht sie Mock hin, der so von dem Bild abgelenkt wird)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(beschaut die Photographie)</stage>
+            <p>Wene stellt des vor?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Es isch’s Kind: Barthelmé! Verriss es!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Un de ander?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Verriss ne mit! Es isch miner Brueder, de jüngscht vun uns, de Liebling vum Vatter, ich hab ne nie känne lide.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(verächtlich)</stage>
+            <p>Fraternité!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Ja wohl! Esch des Fraternité erzöje, wenn m'r sini Kinder vun-a-nander scheid durich d'Gunscht? Er isch alles gewann bim Vatter, ich nix! Er het halt au g’horicht, ich hab mich nieh unter’s Vaterjoch känne pfrange lon. <stage>(wild)</stage> Verriss es, sag ich der, verriss’s. Es isch falsch! Es lacht wie Bruederlieb, wie Fraternité, awer es steckt Brueder- hass dehinter. Verriss’s!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Wo steckt denn hit des Lämmele, wie em alte Leithammel so trei un blind nochg’foligt esch?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(wegwerfend)</stage>
+            <p>In der Kutt!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <stage>(während er mechanisch die Photographie zerreisst)</stage>
+            <p>Capitaine? Ihre Brueder? — De Brueder vum capitaine des chevaliers volontaires, a Pfaff? Hahahaha! !</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé  :</speaker>
+            <stage>(düster)</stage>
+            <p>Er het’s mol salle mols studiert, wie ich furt bin, un er wurds au wore sin.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Ich glaub, no brüche mer net lang ze sueche in dem Städt’l. Do in dem Hüss, do isch des Pfaffe-, des Aristokratenescht, wie mer üss solle hewe.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Awer es isch min Vaterhüss?!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>D’République kennt ken Vater, ken Brueder un ken Frind, wie nit republikanisch denkt. Capitaine! Dat ich mine Vater, mine Brueder, mini Mueter uff de Pfaffe-, uff de Aristokratesitt finde, mit kaltem Bluet dat ich se uff d’Guillotine schleppe.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(erschauert)</stage>
+            <p>Vater, Mueter un Brueder um- bringe, des hab ich eich nie gelehrt.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Sie sin vertröjt mit'm G’setz vun der République. D’République wills, sie sin Républikaner durich un durich. Also....</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Auftritt. </head>
+          <stage> Vorige — Mathis.</stage>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(tritt arglos ein)</stage>
+            <p>Wer sin de fremde Herre?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(freudig)</stage>
+            <p>Mathis!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(erstaunt u. verblüfft)</stage>
+            <p>Esch’s wohr? Sie? — Dü? — De Bathelmé? — Zeruck vun Paris? Gott griess dich liewer Barthelmé! <stage>(reicht ihm die Hand)</stage> Oh! Wie word sich do der Vatter freie! Er het so Angscht um dich g’het, dü warsch dort en Paris umkumme, oder, — dü warsch gar Jakobiner wore. <stage>(vertrau- lich)</stage> Gal, Barthelmé, dü bisch ken Jakobiner? — Oh, un au noch grad hit wos Wihnachte isch? — Her, ich kumm grad vum Lade zue de Chrischtmette zeruck hit Nacht em Keller drunte. Gal, de weisch noch gar nit? De Florence isch Abbé. Er isch trei gebliwe un lebt im G’heime do im Hüss bim Vatter. Hit Nacht halt er Chrischtmette, un ich hab alli guete, treie Crischte dezue ingelade. Jetzt lad ich au dich dezü in: Zügang durich’s Gartetörel em Hinter- gass’l, Parole: Friede. — So un jetzt will ich glich de guete, alte Herre wecke. Wie word der sich freie! <stage>(ab ins Schlafzimmer des M. Scheid)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Merçi, Mathis, for de Inladung.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock  :</speaker>
+            <stage>(schadenfroh)</stage>
+            <p>Merçi! — Aha! Do han mrs jo! Ver- witscht! Es isch doch guet, capitaine, dass sie noch a bess’l pfaffisch drinlöje, sunscht hat der Alt nit so zütröjlich des ganze Geheimnis vun sim Hüss üssge- packt. Vive la République! — <stage>(singt)</stage> ça ira, ça ira, les aristocrats, on les prendra. — Ehr Alter word jetzt kumme. Dem derfe mer’s natirli nit verrote, dass mer vun de Mette die Nacht schun wisse. — Met 4,5 vun unsre chevaliers noch, un es muess gelinge.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Still jetzt! De Vater kummt!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 6. Auftritt. </head>
+          <stage> Vorige —M. Scheid (geführt von) Mathis.</stage>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(setzt den alten M. Scheid auf den Lehnsessel,  dann leise zu Barthelmé)</stage>
+            <p>Er weiss noch nit, dass dü’s bisch, wie ne verlangt het. Schon ne! Er isch blind wore, s’letschte Johr. <stage>(ab)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(für sich)</stage>
+            <p>Armer Vater! — Blind?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Wer verlangt mit mir ze rede? Barthelmé <stage>(gerührt vom Anblick des Vaters, kämpft mit sich selbst — Mock zerrt an ihm — er stürzt endlich hin und sinkt vor dem Vater auf die Knie)</stage>: Vatter!?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Barthelmé? Dü bisch’s <stage>(sinkt auf ihn nieder — dann feierlich)</stage> Heilige Wihnachte, dü bringsch alte, blinde Vatter grad so Freid wie kleine, un- schuldige Kinder. Im Himmel sei Dank, dass er dich, Barthemé, miner ältscht, widder so heil un g’sund üss dare Bluetzitt heimg’fiehrt het an min Herz.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(schluchzend)</stage>
+            <p>Vatter! Mock <stage>(war leise zu Barth. getreten und zischt ihm in’s Ohr)</stage>: Kindskopf!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(abwehrend)</stage>
+            <p>Furt! <stage>(bleibt knieend)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Wer red do noch?</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(höhnisch)</stage>
+            <p>Ich! — Alter Narr! — De Mock! — Do ejrem Sohn, em capitaine des chevaliers volontaires siner adjudant. Mer sin hit do en des verfluechte Pfaffenescht ingeritte, um alle Staatsfeind üsszehe- we. Mer han schon e Spür! Capitaine! Here d' Stimm vun der République, sie mahnt ejch, an ejr Pflicht. — Denke ans palais royal, unsri erscht Be- kanntschaft; denke an de grescht Ruhmesta, an de 14 juillet, wie m'r d’Bastille em Erdbode glich ge- macht han, denke an Versailles, an d’Tuileries, denke an Varennes, un an d’Guillotine, wo die Ca- petschädel geburzelt sin; denke an all de siegreiche Schlachte, wie m'r um d’Rechte vun de Menschheit üssg’fochte han. <stage>(Barthelmé hebt das Haupt und horcht)</stage> Denke dran, wie sie dort uff’m Feld vun Arcole vor'm Feind im Kugelreje vum général Bo- naparte zuem capitaine ernannt wore sin. Uff, d' Républijue rueft zuer Pflicht! <stage>(Barthelmé lehnt sith zurück)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(sucht ihn tastend)</stage>
+            <p>Barthelmé! Barthelmé <stage>(reisst sich los — bestimmt)</stage> Vatter!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(im Schmerz)</stage>
+            <p>Barthelmé, bli bi-mer! Barthelmé <stage>(steht unschlüssig zwischen M. Scheid und Mock)</stage></p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Doher! Capitaine! — A Rejement, wie sie ver- göttert, rueft! 1000 Mann sin bereit, for met'm Ruef: liberté, égalité, fraternité sich uff ejer Zeiche in de Tod ze stirze.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Barthelmé?! <stage>(Barthelmé weicht immer weiter vom Vater zurück)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>1000 Mann sin au bereit, sie, capitaine, in Fatze ze risse, wenn sie zuem — Verrater date ware.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Barthelmé? <stage>(B. weicht stumm zurück)</stage>. Barthelmé? <stage>(B. weicht immer weiter zurück)</stage> <stage>(Zu folgendem: Barth., ganz im Banne des Mock, horcht auf den Vater, folgt aber willenlos Mock, der ihn langsam zur Türe zerrt)</stage>. Geh! — Geh ins Verderwe! — Folg dim Verfiehrer! En der Stimm vum a Vatter, wu’s guet mit der meint, hesch nie känne folge.Jetzt besch zuem Sklave vum a fremde Strolch wore. — Hersch net, wie’s klingt, wie’n a Schlange. Barthelme, dü bich blind, blinder ass diner Vater. Wo isch d’Freiheit? In dere Sklaverei, des gliche Recht for d’Rechtslosig- keit, d’Bruederlichkeit for de Bruederhass? O grobi Gewalt, sittlichi, religiösi Freiheit sin d’Mittel, wo ehr d’Welt mit regiere! Ja, wenn m'r raube un plündre will,no muess m'r zerscht Gott un Religion abschaffe, wie des verbiete. <stage>(Mock zieht Barthelmé, der noch widerstrebt, zur Türe hinaus — beide ab)</stage>. M. Scheid richtet sich bebend auf) Un wenn ichs hit beröje hab, jetzt sprech ich’s frei un angschtlos üss: Verfluecht sei, o Sohn! De Friede vum Chrischtkindel, wie dir angebote isch, tritsch verächtlich mit Fiess! Din Lawe sei a Qual, diner Tod a Höllefahrt! <stage> — Vorhang fällt. —</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> Zweiter Akt. </head>
+        <stage> Scenerie: Keller im Hause M. Scheids. Links in der Ecke ist ein primitives Altargestell, links davon eine Krippe, rechts ein Leuchter, dessen Arme mit Tannen- zweigen bekleidet sind, und ein Lehnsessel. </stage>
+        <stage> Leuchter </stage>
+        <stage> Lehnsessel </stage>
+        <stage> Gewölbe </stage>
+        <stage> Krippe Eingang der Fremden </stage>
+        <stage> Eingang der Hausbewohner </stage>
+        <div type="scene">
+          <head> 1. Auftritt. </head>
+          <stage> Mathis — Jörgl (an der Krippe beschäftigt)</stage>
+          <sp who="#jorgl">
+            <speaker>Jörgl :</speaker>
+            <stage>(bewundernd vor der Krippe)</stage>
+            <p>Grossvater, o wie schön, wie schön! Warum han mer dann nit jedes Johr go a Tannebaum un so a Krippele g’het?</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Arms Kind! Dini schön Kinderzitt wird ver- gehn, un dü worsch nit wisse, was Wihnachte ei- jentli beditt for kleini Kinder. Dü sottsch sahn, was des für a schens Fescht isch die Nacht im Keller, datsch din Lawe dran denke.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Ja! Ich ben hit Midag driwe gewann in da Sebal- duskirich mit’m Nuss Ros’l, for dane abg’falle Pfar- rer ze sahn.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Awer ich hab der’s doch verbote! Dü sollsch des G’spöttels nit ansahn. Des isch nix für kleini Kin- der.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Grossvater, ich geh jo nimmeh ane! Ich derf au gar nimmeh; denn de Weibel Peter het mi so arich uff d’Muck bekumme, dass i mi nimmeh dort sahn derf lon.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>De Weibel, de arigscht Patriot au grad noch? — Was hesch denn schun wedder ang’stellt? Zei ver- zehl a mol!</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Grossvater! Des hatsch sotte sahn — wies do zugange isch in dare Kirich! — Mer han uns ganz vorne hinter de dick Sül g’stellt, dass mer alles genau here un sahn. De Patriote un Patriotewiwer sin in alle Eck rumg’sasse un han mitnander ver- zehlt. Em Weibel sini Grossmueter allein esch ganz not bi mir ufffm a Betstuehl gekneit un het ifrig im a gross mächtige Buech gelase. Ich hab so ver- stohle ewer ihre Buckel in’s Buech geluegt, un ich bin bal geplatzt mit Lache. Denk der, sie het’s Buech latz rum g'het. — Nu esch de Pater Baimel uff d’Altarstaffle g’stande. Er het welle predje. Awer niemes hert uff ne. Er briehlt alli Teifel üss de Höll rüss, es nutzt nix. De Jormärik in de Kirich geht als wittersch. Uff der Kanzel wars jo besser gange.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Die han se awer für Anfirholz gebruecht, for d’Heiligebilder ze verbrenne.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Endlich het der Weibel eins anfange ze trummle, awer es nutzt nix. Un wie’s immer ken Ruh git, no fangt er einfach an ze predje. — Hahahaha! Wei- welpredig — Hahahahaha! So ebs isch noch nie do gewann. Fascht muess i mer jetzt noch lache. S’Ros’l un ich hans Nastuech in’s Mül g'stopft, dass mer nit lüt han muen lache. — Hahahaha! — Zerscht het ar d’Wiwer verhandelt, dass nit eini kann a Eier- kueche bache, Wie a richtiger Prediger het er’s no üssanandergeleit. — Zerscht nimmt m'r a Löffel vol Mehl un schlat a Ei nin und riehrt alles durichenan- der, dann macht m'r noch a Löffel voll Mehl dezü un noch a Ei, dann noch a Löffel voll Mehl un wedder a Ei un so wittersch, bis er ebena 50 Löffel voll Mehl un 50 Eier durichanander geriehrt het. Un vum Firanzinde — un vun de Pfann, un un — Hahahaha! — S’Ros’l het sich nimmeh könne halte, un ich hab’ m uff de Buckel muen klopfe, dass es net verstickt isch. — Un des sieht de Weibel. Er schreit: Was gits denn do ze lache? Und er lipft d’Hand for mer eini ze ga. Awer ich buck mi schnell, un em Weibel sini Hand klatscht platt an d'Kerichsül. — Dann awer los durich d’Sitetir.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Des hesch jo guet gemacht! — Awer in Zükunft blisch mer schen weg vun dem lumpige Patriote- corps. — So jetzt zeig mol, eb dorin aw ebs ver- stehsch. Ich weiss nit, wie mer do de Esel un d’Kueh anestelle. Ich mein, de Esel dat am beschte do an de Ranft basse.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Jo, nu muess m'r em jo immer Hei nochstopfe. Ich mein, iwerhaupt s’ basst a Esel gar net zuem Jesuskindel ans Krippele.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Was? A Esel? Net? Er het d’Muetergottes uff Bethlehem getrage, un nochher s’Jesuskind’l bes uff Egypte.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Wenn er des alles gemacht het, dann möcht ich ne am liebschte mit ins Bett namme, dane arme, glickliche Esel.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Dü meinsch’s jo guet mit'm, awer er g'hert mol ans Krippele, wie a Engel in da Himmel.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>No kummt er mer awer ganz do vorne dran, dass ne alli Litt sahn. <stage>(stellt ihn dahin)</stage>.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>So, wenn jetzt noch de Kuh a schens Plätzl hatt, dann war alles ferti. Awer die kännte mer doch an de Ranft stelle.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Eh warum denn? Se brücht doch net en einem furt ze frasse. Die kann au ebs fors Jesuskindel mache. <stage>(stellt sie dicht neben die Krippe)</stage> So do muess se ganz not newes Chrischtkindel, un wenn se hücht, nu bekummt’s Chrischtkindel warm. <stage>(Es klopft rechts oben)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Auftritt. </head>
+          <stage> Vorige — hernach: Barthelmé — Mock.</stage>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(öffnet Kellertüre rechts und ruft hinauf)</stage>
+            <p>Wer isch do? Stimmen <stage>(von oben)</stage>: Friede!</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis:</speaker>
+            <p>Ach, d’Geladene kumme schun. <stage>(eilt hinauf — oben)</stage>: Entrez — Messieurs! <stage>(erscheint mit Barthel- mé und Mock in der Bühne — beide in schwarze Mäntel vermummt — verharren stumm.)</stage> Ihr sin d’- erschte! Awer es isch d’recht Zitt, d’andere muen au bal do sin. Jörgl, geh nuff un hilf noch ä biss’l em Christophe. Er soll em Herr Abbe au sawe, dass d’Litt so langsam ankumme.</p>
+          </sp>
+          <sp who="#jorgl">
+            <speaker>Jörgl:</speaker>
+            <p>Ja! Grossvater! <stage>(ab nach links)</stage>.</p>
+          </sp>
+          <sp who="#mathis">
+            <speaker>Mathis :</speaker>
+            <stage>(f. sich im Abgehen)</stage>
+            <p>Un ich geh jetzt, d’Wihnachtsglocke litte. <stage>(ab nach rechts)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Auftritt. </head>
+          <stage> Barthelmé — Mock. (sie vergewissern sich zuerst, dass sie allein sind —  dann machen sie die Gesichter frei und schlagen die  Mäntel zurück, sie tragen ihre Uniform „chevaliers volontaires“.)</stage>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine, einschtwile sin mer noch ällein.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>In kurzer Zitt wäre se jo kumme!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>For im Name vun de République arretiert ze wäre.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(nachdenklich)</stage>
+            <p>Miner Brüeder! Miner alt, blend Vatter!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Für uff d’Guillotine g’schleppt ze wäre. Barthelmé <stage>(ist nachdenklich betrachtend vor der Krippe stehen geblieben)</stage>:</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Es isch jetzt nit Zitt züe stille Be- de République un ihre G’setzer ze trotze. Ich möcht am liebschte des ganz G’schlamassels do iwer ä Hüffe risse, awer des dät uns nur verrote. Ich müess mini Wüet noch ä kleins Minitele zeruck- halte. Awer no ..... <stage>(zu Barthlemé)</stage> Capitaine! Barthelmé <stage>(zuckt wie ertappt zusammen)</stage> Mock?!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Es isch jetzt net Zitt züe stelle Be- trachtunge. Mer stehn do als vereidigti Vollstrecker von de Revolutionsjustice <stage>(mit Verführerstimme)</stage>: Capitaine! Ich sieh sie jetzt schun als Major, als Colonel. For däne wichtige Fang, wie mer die Nacht mache, weiss d'République uns au ze danke!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé  :</speaker>
+            <stage>(verwirrt)</stage>
+            <p>Mock? Hesch dü nieh ä Wihnachte verlebt?</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>G’sähn! Ja! — Uff sällem verflüechte Schloss en de Tourraine. Die Seigneurs et Dames, wie se ge- danzt, wie se g’soffe, wie se gelacht hän! — Un ich, de klein Bettelmock, ich hab d’Fischtle geballt nuff zue sälle höhnisch grinzende Wihnachtsfenschter.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Dann allerdings!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Un sie, Capitaine, sie hän g’schwore, ihre Kopf dranzesetze, für uns arme Sklave ze hälfe.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Wohl hab i en de Begeischterung for de güet Sach vun de République mit kaltem Blüet sälli, eiri Henker könne niedersäble; awer — <stage>(für sich)</stage> de Brüeder wohl au — de alt blind Vater?! <stage>(laut)</stage> S’Bluet rollt mer so unrüech durich de Körper.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine, was isch mit eich?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(wie um sich zu befreien)</stage>
+            <p>Mock! Fehlt vil- licht noch ebs! Müess noch ebs in Ordnung gebrocht wäre, dass alles klappt?</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Es word mir jo schwer falle, des Pfaffegeäffs ä Zit lang ahhere ze müen. — 5 vun de beschte che- valiers hab i noch b’stellt. Sie sin instruiert. Sie kumme vermummt, wie mir, un gän d’Parole: Fride, ab. Weni no alles do un still un sicher isch, dann gän sie s’Zeiche. Sie werfe de Mantel ab, mir maches noch, un sie erkläre no im Name vun de République d’Verhaftung. S’andere müess gelinge. For alli Fäll sin in der Nochberschaft noch 20 chevaliers versteckt. Na, Capitaine? Het der Mock e Fehler gemacht?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(kurz)</stage>
+            <p>Güet! <stage>(für sich)</stage> Wenns numme schun rum wär!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Auftritt. </head>
+          <stage> Vorige — Christophe (hernach 5 Bürger — 5 chevaliers).</stage>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Still! Es kummt eber! <stage>(Sie vermummen sich wieder)</stage>. Christophe <stage>(tritt von links ein mit Tüchern und einer Kiste)</stage>: Ah! Schun 2 do? Güete-n-Owet!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Güete-n-Owet! <stage>(B. und M. bleiben stumm rechts stehen)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Wie de Mathis doch des Krippele so nett hergericht het, un do gar ä Chrischtbaum. Messieurs! Es fangt ball an! Der Herr Abbe isch grad ewe vum e Krankeb’süech zeruckkumme. Wenn alles gericht un do isch, no kummt er herab.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(verstellend)</stage>
+            <p>S’isch schun güet! Mir könne warte! <stage>(für sich)</stage> Ich halt’s ball nimme üss. Christophe <stage>(bereitet unterdessen den Altar)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(schaut verächtlich zu — leise zu Barthelmé)</stage>
+            <p>In Paris müen so un soviel Kinder nackit laufe, un die verschwände do so scheni Linne. <stage>(Es klopft rechts oben)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Aha! Alleweg noch Litt! <stage>(geht hinauf)</stage>. Wer isch do? Stimmen <stage>(von oben)</stage>: Friede!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Kann passiere. <stage>(erscheint mit 3 vermumm- ten Bürgern auf der Bühne)</stage>.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>1. Ah! Des schöne Krippele!</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>2. Un do gar ä Chrischtbaum?!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Im Mathis sin Wärik.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>3. Es wird e schöns Winachtsfescht gän!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(dumpf)</stage>
+            <p>Gewiss!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(am Altar arbeitend)</stage>
+            <p>Wie siehts denn uff de Strosse üss?</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>1. Net grad wie an Wihnachte. Die chevalliers, wie hit kumme sin, sin alli voll.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(für sich)</stage>
+            <p>Nit alli!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Umso besser! Nu lon se uns in Rüeh!</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>2. Die Lumpemaidle vun de Patriote sin schun güet ami mit ne un zottle mit ne in de Strosse rum. <stage>(Es klopft oben)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(hinauf)</stage>
+            <p>Wer do? Stimmen <stage>(oben)</stage>: Friede. <stage>(Christophe erscheint mit 2 vermummten chevaliers in der Bühne, die sich zu B. und M. gesellen)</stage>.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>3. Isch de Herr Abbé au wohluff? Er het doch soviel ze düen!?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Net vum beschte. Geschtert z’Nachts hän mer vor de Speckritter üssrisse müen, un durich de Rüessbach schwimme. Un küm sin mer d’heim ge- wänn hit Midda, do isch ’r widder züem ä Kranke uff Kränzelhüse gerüefe wore, ziem ä Speckritter.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>1. Was, züem ä Speckritter?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Ja! Sini Kamerade hän ne bim-e Händel halwer tot g’schlage, un wie er an’s Sterwe isch kumme, do hetts’m alleweg doch vor’m Teifel ge- grüst un het noch'm e Pfarrer verlangt.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>2. Do hän m’rs jo! An de Tod denke so Brie- der jo nit. <stage>(Es klopft oben)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(geht hinauf)</stage>
+            <p>Wer do? Stimmen <stage>(von oben)</stage>: Friede!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>kann passiere! <stage>(erscheint mit 2 vermummten Bürgern auf der Bühne)</stage> <stage>(Gleichzeitig)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(leise für sich)</stage>
+            <p>An de Tod!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(leise zu B.)</stage>
+            <p>Was isch? capitaine ?</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(leise und verwirrt)</stage>
+            <p>An de Tod hab i noch nie gedenkt.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>3. Wenn die Jakobiner, Schinder un Mörder numme emol e kleins bissl nochdenke däte, was so Abbe in däne Zitte alles leischt. Sie miesste doch ä biss'l stutzig wäre, un sich fröje, woher dass er die Kraft un der Müet hernimmt. <stage>(Es klopft oben rechts)</stage>.</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(geht hinauf)</stage>
+            <p>Wer do? Stimmen <stage>(oben)</stage>: Friede!</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Kann passiere, erscheint mit 2 vermummten Chevaliers, die sich zu den ersteren gesellen).</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(leise z. Barthelmé)</stage>
+            <p>Unsri sin jetzt alli do. De Tanz könnt los gehn. Ä kleins Hiffele numme. Die packe mir ällein. Awer es sin gewiss d’Rädels- fiehrer, d’schlimmschte Pfaffebrieder vu hie.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Auftritt. </head>
+          <stage> M. Scheid </stage>
+          <stage> Christophe </stage>
+          <stage> Florence </stage>
+          <stage> Gewölbe </stage>
+          <stage> Math </stage>
+          <stage> Bürger Chevaliers Barth </stage>
+          <stage> Vorige — Florence (in Priestertracht, führt den Vater, dem er auf den Lehnsessel hilft). </stage>
+          <stage> Bürger u. Chevaliers (fallen auf die Kniee) Gelobt sei Jesus Christus! </stage>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>In Ewigkeit!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Amen.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(tritt auf die Stufe vor den Altar)</stage>
+            <p>De Friede sei mit eich, mini liewe, treie Brieder. — Es drängt mich üss de innerschte Seel rüss, ä paar Troscht- wörtle an eich ze richte. Stehn uff! <stage>(alles erhebt sich)</stage>. Mini liewe, treie Chrischte! Ich steh do vor eich, un ihr tüen mir ä unverdienti Ehr an. Ich bin bi eich gebliewe, mittle in dem Leid un Misère, dass der Herrgott bi eich isch. Ich bin siner Diener, er isch de Herr. Noch nie hän mer so ä Wihnachte derfe fire, wie grad hit. Het nit de Keller jetzt de nämliche Glanz, wie de Stall vun Bethlehem? Am ä elende Platzl het de Welteheiland s’Licht der Welt erblickt, un an som’ä weltfremde Ort fire mir jetzt grad s’Andenke an säll grosse Ereignis. — Hän nit ums Krippele in Bethlehem d’Henker vum König Herodes im kl. Je- suskindel noch’m Läwe getracht, grad wie au hit Nacht um uns de blindwietige Jakobiner uff uns lüschtere. Würdiger als numme je ä mol begehn mir drum hit des Fescht. Möchts uns de Friede bringe. Un er kummt. Die wietigschte Revolutio- naire sin g’stirzt, un d'r siegreich General Bona- parte het d’Fiehrung übernomme, — er wurd die Morderei nit lang meh dulde.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p><stage>(der unruhig gehorcht — leise für sich)</stage>: Lang han-i nimmeh so Worte g’hört. <stage>(erbost)</stage> Awer es isch jo der Brüeder — der —! <stage>(Es schlägt auf der Turmuhr 12)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>D’Stund isch do! D’Glock rüeft de Erlösungs- moment ung’hört in d’Gasse un Strosse vun der Stadt nüss, numme do hunte, in dem finschtere Kel- ler, do klingt’s in feschtlich g’stimmti Herze. Wann wider, wann klinge ihr fröhlichi Wihnachtsglocke in d’Köpf vun all dene sinnbetörte Mensche? <stage>(Nach Ende des 12-Uhrschlags fangen die Glocken an, dumpf, dann immer lauter in der Ferne zu läuten)</stage>. Was isch des?</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>D’ Glocke?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Wer litt d’Glocke? Ich geh un schau <stage>(ab — Unruhe)</stage>.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>1. Villicht d’Sturmglocke?</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Nä! Es sin jo alli Glocke! Wie s’klingt, so hoch un feierlich, als wär’s Friede, als wär’s Wihnachte for alli Welt. <stage>(Glocken brechen ab)</stage>.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>2. Villicht ä Unfug, ä Spass, wie sich einer vun däne volle Chevaliers erlaubt het!?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe :</speaker>
+            <stage>(atemlos zurück)</stage>
+            <p>Der Mathis, der Mathis!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Wo isch’r, der Mathis?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Do schleppe ne grad d’Jakobiner üss de Kirch rüss.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid:</speaker>
+            <p>Armer, treier Diener!</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>Awer warum denn?</p>
+          </sp>
+          <sp who="#christophe">
+            <speaker>Christophe:</speaker>
+            <p>Er isch’s, wie d’Glocke gelitte het.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>Der Mathis? <stage>(stummes Entsetzen)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Berühige eich, ihr Litt! Ich versteh die güet Seel! Er het de Hauptanteil an dem Fescht. Dene Chrischtbaum het er hergericht, des Krippele het er zürecht gemacht, un jetzt het er uns au noch mit de Wihnachtsglocke welle erfreie. Züviel, güeter Al- ter! Des het de Herrgott nit verlangt! Er het meh gemacht, ass was er gebrücht het. <stage>(tiefe Rührung)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(leise)</stage>
+            <p>Wie die Mensche mit Freid an de Tod denke! Un ich — ich hab so Angscht, so schreck- lich Angscht vor’m Tod.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(z. Barthelmé)</stage>
+            <p>Es isch Zitt, Capitaine, gän s' Zeiche!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Der Tod, der Tod!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Des isch ä Opfer üss däre blinde Zitt. Er geht hit schun, mir villicht morge, oder iwermorge, Gott weiss, wann unsri Stund schlagt. Mir könne numme for ne bäte. <stage>(kniet vor dem Altar nieder — alles kniet und verharrt in stummer Andacht — un- terdessen)</stage>:</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(für sich)</stage>
+            <p>De Mathis, er isch de erscht, wo uffs Schaffott steje müess. Die güet, alt, trei Seel. In alte, schöne Kinderdag, do het er immer an Wih- nachte de Rüppelz <stage>(Hanstrapp)</stage> gemacht. Er het uns d’G’schenker, Bretle, Nusse un Aepfel gebrocht, un ich bin als zitternd vor’m g’stande un hab gebet, was ich längscht vergesse hab. — Awer —</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(leise zu Barthelmé)</stage>
+            <p>Capitaine! Endlich emol los! — Hän sie denn vergesse, warum dass m'r ei- jentli do sin? Ich will doch nit Wihnachte fire do, ich will Blüet sähn. Schnell, gän s’Zeiche!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(noch abwesend)</stage>
+            <p>Wihnachte hit.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(erhebt sich — alles mit ihm)</stage>
+            <p>Un jetzt, ihr liewe, treie Brieder, mir welle doch nit unser Fescht vergesse, wie mer unserem liewe Chrischtkindel schuldi sin.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(zischend rasch)</stage>
+            <p>In dreiteifelsname! Capitaine! Schnell, gän ’s Zeiche!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Sähn däne Chrischtbaum, wie uns de arm Ma- this noch als Erbschaft hinterlon het. In sinere Einfachheit soll er eich immer in der Erinnerung bliwe, als herrlichs Andenke an de trürig Wih- nachte, wie mir de Nacht in dem Keller fire. Christophe <stage>(zündet schweigend die Kerzen an)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Sähn, wie d’Kerze glänze un flackere! Oh, könnte se doch die blinde Patriote sähn un verstehn. Däts ne leichte vun de finschtere Höllepforte züem ewige Liecht.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(dumpf wiederholend)</stage>
+            <p>Vun de Höllepforte züem .....</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(einfallend)</stage>
+            <p>Capitaine! Ich kann’s nimm anhöre! Schnell! s’ Zeiche!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Oh, es miesst se bekehre, des Liecht, es dät sie erinnere an die Kinderdag, wie sie so gleckseli g’sunge un gebat han.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! <stage>(Barthelmé zweifelt)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Un sie däte fröhlich instimme in des herrliche Lied:</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Es sei! <stage>(knöpft den Mantel auf)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(intoniert)</stage>
+            <p>Stille Nacht!</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger :</speaker>
+            <stage>(stimmen ein)</stage>
+            <p>Heilige Nacht usw.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(hält inne)</stage>
+            <p>Die Stimme! — Die Melodie! <stage>(knöpft mechanisch wieder zu — zu Mock)</stage>: Ich kann jetzt nit. — <stage>(für sich)</stage>: Des Lied, wie’s mer ans wildverzerrte Herz pocht! — Wie’s klingt un verzehlt üss schöne, längscht-vergessene Kinderdag. <stage>(lauscht gerührt)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p><stage>(während dem Gesang fasst ausser sich)</stage>: Capi- taine! <stage>(hält sich die Ohren zu)</stage>. In dreiteifelsname! Jetzt endlich mol los! Wache uff! Capitaine! Es isch hechschti Zitt! Gän ’s Zeiche! <stage>(Lied klingt aus)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Frind, das Lied isch e Gebet ..... Jeder von uns het ä alter, güeter Kamerad, wie dort in de Reihe vun däne Blüetmensche steht. Für ihn het jeder von uns des Gebet züem Himmel g’schickt. Au ich, au dü, alter Vatter, mir hän Blüet in de Odere vom Umsturz un vum Frevel rolle. Miner Brüeder, er steht dort un mordet un läschtert.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(erschüttert)</stage>
+            <p>Gott!</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Für ihne hab ich gebet alle Tag! O Herrgott, loss ne nit untergehn, fiehr ne zeruck züem Vatter, züe dir! <stage>(Alle beten still, unterdessen :)</stage></p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Er — sie bete for mich? — O, Herrgott! — Was sa ich do? — Ich bin Jakobiner! — Ich bin... !</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock:</speaker>
+            <p>Capitaine! Züam letschte mol! Es dürt züe lang!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Halt, Mock! Nüer ä kleine Minüte noch!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(mühsam)</stage>
+            <p>D'r Barthelmé! — Dass er mit sälle Blüetmensche geht, es isch jo mini Schuld. Ich hab ne mit Gewalt welle ziege. Das het ne awer verdrosse, un er isch im Zorn un Hass uff Paris — un isch dort g’falle. — O Gott — ich hab'm hit g’flüecht, wie er vor mir g’stande isch. — Herrgott, — im Himmel — verzeih m'r. — Nimm da Flüech vun ihm! — Hole ne! — Ich will'm mine Säge gän! <stage>(sinkt zurück, alle bemühen sich um ihn)</stage>. Barthelmé <stage>(ist äusserst unruhig geworden — will mehr- mals zum Vater eilen)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(hält ihn zurück)</stage>
+            <p>Capitaine! Sie müen!</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Mock!</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(wütend)</stage>
+            <p>Gän ‘s Zeiche! Barthelmé <stage>(reisst am Mantel, als wollte er ihn abwer- fen — sinkt in sich zusammen)</stage>: Ich kann nit! <stage>(bleibt geschlagen in der Ecke stehen)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(zischend)</stage>
+            <p>Verräter! <stage>(wirft schnell den Mantel ab — die Chevaliers machen nach — sie ziehen die Säbel — Bürger weichen erschreckt zurück)</stage>. Ket- zer! — Verräter! <stage>(stürmt auf die Altarstufe)</stage>: Im Name der République, ihr Pfaffebrieder, ihr sin ver- haft! <stage>(ergreift Florence)</stage>. Elender Pfaff, diner Kopf müess zerscht falle! <stage>(Die Bürger springen hinzu, um zu helfen)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Kinder! Birjer! Es isch um uns g’schähn! Bliwe rueig, denke an d'r Herrgott! — Euch g’schieht nix — kein Tribunal kann eich ’s Lewe nemme — denn die gröschte Blüethunde sin nimm am Rueder. Ich derf mit mim Blüet un Lewe villicht als letsch- ter eure Freiheit, die echte, erkaufe un unser arme Land wird wieder ufferstehn. <stage>(Die Bürger lassen ab und werden überwältigt)</stage>.</p>
+          </sp>
+          <sp who="#_burger">
+            <speaker>Bürger:</speaker>
+            <p>Vive le roi! — Ehre sei Gott in der Höhe! Chevaliers <stage>(bemächtigen sich der Bürger u. Christophe und ketten sie)</stage>. Mock <stage>(laut z. Barthelmé, der noch im Mantel, furchtbar erregt, von der Ecke aus dem Schauspiel zugeschaut hatte)</stage>: Capitaine! — Sie könne noch alles güet mache. Do binde däne Alt! Des isch ehri Sach! <stage>(bindet unterdessen Florence)</stage>.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(horcht auf)</stage>
+            <p>Was isch des für e Stimm? Der Verfiehrer von mim Sohn, vum Barthelmé. — No isch er oi do un will sin Brüeder — sin Vatter, sini Mitbirger an ’s Messer liefere? So wit bisch g’sunke — Vatermörder — Kain wit wärde! — Oh, ich hab noch ebs für dich, wu dü nit vergesse wursch! — Sei ewig vom Himmel verfl— —</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(in höchster Angst)</stage>
+            <p>Halt!, Vater, nit flüeche, ich blib bi dir —ich verteidig der Brüeder. <stage>(sinkt vor ihm in die Knie)</stage>.</p>
+          </sp>
+          <sp who="#mock">
+            <speaker>Mock :</speaker>
+            <stage>(höhnisch zischend)</stage>
+            <p>Aha — der Verräter — der verkappte Pfaff! Soldate fessle-n-e.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé :</speaker>
+            <stage>(zieht den Degen)</stage>
+            <p>Eweg von mir — oder — <stage>(die Soldaten weichen zurück — er dringt auf Mock ein, der feige zurückweicht, stolpert und zu Boden stürzt)</stage>. So stirb, dü Satan, fahr in d’Höll...</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(wirft sich gefesselt dazwischen)</stage>
+            <p>Halt!, Bar- thelmé! Kän Blüet — kän Mord! Mir sin so glück- lich, dass dü der Weg züe uns g’funde häsch, ass dü wieder e trejer Sohn vun der Kirch witt bliwe. Loss da Mann gehn — die Soldate solle ihri Pflicht erfülle un uns vor ’s Tribunal bringe, Dü müesch o dort dich verteidige.</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>Barthelmé:</speaker>
+            <p>Oh, dert hab ich kän Angscht. Ich schrieb sofort an d'r Général Bonaparte — der wird seller noch kenne, wu ihm ’s Lewe gerett het. <stage>(kniet vor M. Scheid, der in den Sessel zusammengesunken ist)</stage>: Vatter, verzeih mir — verzeih dim verlorene Sohn, e nei Lewe will ich hit anfange! — Im Florence will ich mir e Vorbild nämme! — Vatter, hör mi — gib mir dine Säge.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence :</speaker>
+            <stage>(eilt hinzu, kniet auch nieder)</stage>
+            <p>Vatter, — d’Müeter im Himmel wartet uff die Verzeihung für de Barthelmé, — ich bitt dich drum — gib ihm din Säge. —</p>
+          </sp>
+          <sp who="#barthelme_scheid">
+            <speaker>M. Scheid :</speaker>
+            <stage>(langsam zu sich kommend)</stage>
+            <p>Barthelmé — Florence! bal bin ich bi d'r Müeter. Nu Sege eich beide! <stage>(legt die Hände auf — verklärt in die Ferne schauend)</stage> un unser Frankrich wird sich wieder erhewe, wird in Einigkeit mächtig werde — wird ufferstehn üss all dem Blüet züe hoher Pracht — un Glick, denn o in d'r République kann mer glieklig sin. <stage>(sinkt zurück)</stage>. Es isch vorbei — ich derf d'r Martertod nit han. — S’Chrischtkind holt mich hite schon! — Dank für d'r Barthelmé — im Himmel — sahn — mir — uns — wieder — <stage>(er stirbt)</stage>.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Vater — lab wohl — bal, bal sehn mir uns wieder — <stage>(drückt einen Kuss auf seine Hand, Bar- thelmé bleibt in stummem Schmerze knien)</stage>. Mock <stage>(mit verstörtem Gesicht, legt die Hand auf Flo- rence)</stage> : Im Name vun der Liberté — furt jetzt, vor’s Tribunal, ihr alle! Barthelmé <stage>(steht auf, hält beschwörend die Hand in die Höhe)</stage>: Im Name vun der Egalité wann mir kämpfe, dass jeder Birger läwe derf, wie’s im g’fallt, ass jeder o bette derf un in d'Kirch gehn, wie er will — dass müess die Gerechtigkeit uns gän.</p>
+          </sp>
+          <sp who="#florence_scheid">
+            <speaker>Florence:</speaker>
+            <p>Un im Herrgott z’Ehre, wenn mir d’echte Fra- ternité üsuewe, indem mir alle dene verzeihe, wu uns hitte Böses thüen. Mit de Hirte awer wann mir rüefe „Ehre sei Gott in der Höhe —</p>
+          </sp>
+          <sp who="#_alle">
+            <speaker>Alle :</speaker>
+            <stage>(Bürger — Barthelmé einfallend)</stage>
+            <p>Un Friede alle dene, wu güeter Wille han. <stage> — Ende. — — </stage> <stage>(Vorhang fällt.)</stage></p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

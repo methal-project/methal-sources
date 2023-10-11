@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Im Julie si G'heimniss</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-120"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Im Julie si G'heimniss</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_rothfuchs" sex="M">
+            <persName>Herr ROTHFUCHS</persName>
+          </person>
+          <person xml:id="herr_fritz" sex="M">
+            <persName>Herr FRITZ</persName>
+          </person>
+          <person xml:id="herr_adolph" sex="M">
+            <persName>Herr ADOPLH</persName>
+          </person>
+          <person xml:id="commis" sex="M">
+            <persName>E Commis</persName>
+          </person>
+          <person xml:id="julie" sex="F">
+            <persName>JULIE</persName>
+          </person>
+          <person xml:id="emma" sex="F">
+            <persName>EMMA</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_rothfuchs">
+          <role>
+            <persName>Herr ROTHFUCHS</persName>
+          </role>
+          <roleDesc>Tüechhàndler</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_fritz">
+          <role>
+            <persName>Herr FRITZ</persName>
+          </role>
+          <roleDesc>si G'schàftsfiehrer</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_adoplh">
+          <role>
+            <persName>Herr ADOPLH</persName>
+          </role>
+          <roleDesc>Reisender</roleDesc>
+        </castItem>
+        <castItem corresp="#commis">
+          <role>
+            <persName>E Commis</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#julie">
+          <role>
+            <persName>JULIE</persName>
+          </role>
+          <roleDesc>im Fritz si Fraü</roleDesc>
+        </castItem>
+        <castItem corresp="#emma">
+          <role>
+            <persName>EMMA</persName>
+          </role>
+          <roleDesc>ne Frindin vom Julie</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Julie, Emma.</stage>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich bi noch ganz verwundert un iwerrascht!... grad kunnt
+                        's Emma, mi güete Frindin, vo Strossburg do züe mr, als
+                        Herr ag'Iegt, un sàit mr, ass es furtg'loffe seig vo
+                        d'heim!... 's thüet sich jetz grad changiere dert<stage>(se
+                        zeigt ufs Zimmer links)</stage>, die Mannerkleider hàn's e
+                        wenig g' geniert... tiens, do isch's jo scho!...
+                       <stage>(d'Thüre links geht uf, 's Emma kunnt ine; 's Julie
+                        geht em ergege)</stage> Kumm g'schwind un verzähl mr... ich bi
+                        wunderfitzig, was das eigentlig fir e
+                        G'schichte-n-isch!... vor allem sag mr... hat Di Nieme
+                        g'sàh do ane ku!...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Kei Mensch?... worum hasch Dü-n-eso Angst?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>D'Lit hàn gar böse Miler!... wenn ebber g'sàh hätt e
+                        junger Mensch züe mir ku, so kännte se Sache denke...
+                        De weisch, z'Milhüse thüet me-n-eim ewe nitt
+                        verschone...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Un wie isch's jetz mit mim Kuffer?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Die Fraü dunte nimmt ne in Empfang, wenn er akunnt...
+                        ich ha mit ere g'redt vorig... un züedem<pb n="353"/> De brüchsch ne
+                        jo nitt glich... mine Räck gehn Dr jo pràchtig, wie-n-i
+                        sieh...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Uf jedefall thüesch Dü mr è famoser Dienst leiste, ass
+                        De mich züe Dir nimmsch, denn ich hätt sunscht sicher
+                        nitt g'wisst wo ane!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Eh, das isch jo ganz natirlig!... mr sin jo allewil
+                        güete Frindine gsi in Strossburg, wo-n-ich noch
+                        Ladejumpfre gsi bi, grad newe-n-eürem Hüs... awer sag
+                        mr, was kunnt Dir i, im eso ne G'wand furtz'laüfe vo
+                        d'heim?</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Was witt halt... ich bi kei Fraü wie ne andere... 's
+                        mànnlige G'schlecht wàr mir viel besser gange!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich glaüb's erst noch... Die Mannerkleider sin Dr gar
+                        nitt schlecht ag'stande.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Un was mir noch besser geht, das isch d'Freiheit, un in
+                        Strossburg ha-n-ich se nitt g'ha... Mi Vater hat mich
+                        welle verhirothe mit eme-n-Alte, wider mi Wille,un do
+                        ha-n-i mi halt dervo g'macht in Mannerkleider, fir
+                        sicherer z'reise un fir ass me mi Spür sott verliere...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Das isch alles recht, awer was witt jetz mache?</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Oh, ich ka schaffe!... ich ha lehre nàie un ka ins
+                        beste-n-Atelier geh... ich will mich scho dureschla...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Los, Emma, Dü sàisch mr nitt alles... wenn Dü dr Mann
+                        refüsiert hasch, wo Dir Di Vater hat welle<pb n="354"/> gà, so wird
+                        wohrschinlig e-n-anderer im Spiel si, wo Dü gern hasch!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>'s isch wohr... ich ha ne junger Mensch gern.. dr Herr
+                        Adolph... er reist mit Singer...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Do isch's e Kumediant?</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Eh nei... er reist mit Singer, mit Nàihmaschine,
+                        wo-n-eso heisse!... er hat mir eine verkaüft in
+                        Strossburg un hat mich lehre nàie druf un do hat sich
+                        das Ding halt eso nooch un nooch...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ig'fàdelt!... güet, ich verstand's...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Unglickligerwis isch er derno furt uf Milhüse, un
+                        obschon mir uns Treüe g'schwore hàn bis ins Grab, so
+                        ha-n-ich allewil Angst, ass er mich vergesse hat...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>'s isch halt alles möglig uf dr Welt... 's beste wird
+                        si, Dü machsch's as wie er.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Das isch glich gsàit... à propos, weisch Dü, ass De ne
+                        schöne Wohnung hasch do? wieviel Zimmer sin's?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Viere... das dert<stage>(se zeigt rechts)</stage> isch mi's, un dert
+                       <stage>(se zeigt links)</stage> isch das, wo Dü einstwile kasch
+                        bewohne.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Un do si mr im Salon... das isch jo pràchtig... awer sag
+                        mr, was tribsch Dü jetz eigentlig... uf eimol bisch vo
+                        Strossburg verschwunde un hasch mir im e ziemlig
+                        verwickelte Brief hinterlo, Dü giengsch Dich <pb n="355"/> geh
+                        etabliere z'Milhüse... schint's Di G'schàft müess nitt
+                        iwel marschiere!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Los, Emma, Dir derf ich's wohl sage... ich bi
+                        g'hirothe!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Dü, g'hirothe?.. un Dü hasch mir nie nit g'sàit dervo!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich ha nitt känne... 's isch e G'heimniss.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Tiens, tiens!... verzähl mr das Ding.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Dr Fritz, mi Mann, isch G'schàftsfiehrer in dem
+                        Tüechlade, grad im Hüs do nàwes... er hat mich lehre
+                        kenne in Strossburg, denn er isch emol e paar Wuche in
+                        das Hüs ku, wo-n-ich Ladejumpfre gsi bi, wege
+                        G'schàfte, un hat rnr eso si Rand offriert, awer mit dr
+                        Kundition, ass kei Mensch nit wisse derf vo unsrer
+                        Hiroth.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Do hat er schint's e Vater oder e Müetter, wo dergege
+                        kännt si?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Er hat kei Vater un kei Müetter meh...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Eh, wer hat denn derno ebbes z'sage derzüe?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Si Herr, si Patron... ne richer Kütz, wo halt fir dr
+                        Fritz als Kind scho g'sorgt hat, un jetz will er ne
+                        mache ne riche Fraü hirothe un will ne derno als
+                        Associé nàh; dr Fritz zittert vor em mehr, as wenn's si
+                        Vater wàr, un bis dohi hat er em noch nie traüe sage,
+                        ass ich si Fraü bi.</p>
+        </sp>
+        <pb n="356"/>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Los Julie, Di Mann isch nitt g'scheidt!... un Dü losch's
+                        bi dem bliwe?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Wenn Dü wisse thàtsch, wie-n-er als thüet ahalte!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Oh... Dü, mit Dim schwache Charakter, Dü losch allewil
+                        mit Dr mache, was me will... ich an Dim Platz wott mi
+                        Mann scho mache z'rede... liewer nitt Associé werde,
+                        ass eso lewe!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>'s isch wohr!... wenn Dü wisse thàtsch, was ich lide
+                        müess!...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Ich bild mr's i... un wenn ich Dir z'rothe ha, so
+                        zwingsch ne hit noch z'rede... De sottsch's thüe... 's
+                        isch Di Pflicht!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Dü hasch recht... ich bi z'schwach gsi... 's müess jetz
+                        emol e-n-End nàh!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Isch er denn eso erschrecklig, dà Patron?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>'s isch e-n-alter Knab, e-n-Original... er hat nie
+                        g'hirothe, wil er kei Fraü g'funde hat no
+                        sine-n-Idee... er hat ebbes üsserordentligs welle, wo
+                        züe ihm passt hätt...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Enfin, mache-n-ihr's üs mitnander... nur verroth mich
+                        nitt un mach, ass mi Nieme sieht do in de-n-erste paar
+                        Tàg.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Das isch licht... züe Dim Zimmer dert isch e b'sundere
+                        Stege, un 's geht nie Nieme dri as ich...<pb n="357"/> Kleider kasch
+                        ha vo mine, so viel ass De witt... bis Dine-n-akämme...
+                        ich ha mehr as ich brüch... in dem thüet mi Mann nitt
+                        spare.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Er git Dr das, fir 's andere mache z'vergesse... awer we
+                        me-n-eim ebbes müess mache z'vergesse, so isch's scho
+                        g'fehlt!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Still... 's kunnt ebber d'Stege-n-ufe!... 's isch dr
+                        Fritz' wohrschinlig...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Au revoir denn... ich gang in mi Unterschlupf<stage>(se geht
+                        in 's Zimmer links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Julie, Fritz.</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(macht d'Thüre-n-uf hinte)</stage>
+          <p>Ich bi's, liewe Fraü...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(trucke)</stage>
+          <p>Ah! Dü bisch do...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wie Dü das sàisch!... was kunnt Dir i uf eimol?... worum
+                        sàisch mr nitt « lieb Mànnle »?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was kunnsch jetz Dü do ku mache?... De weisch doch, ass
+                        Di Herr Patron nitt lide ka, wenn Dü do ane kunnsch...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Mi Patron isch üsgange un do bin i üs em Lade
+                        g'schliche, fir Dir g'schwind e Schmitzle ku
+                        abstehle...</p>
+        </sp>
+        <pb n="358"/>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Dü stiehlsch mir gar nit ab...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Nur e kleiner Schmutz, Julie.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Zähl nitt druf... 's isch nit z'mache!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was, Dü thüesch Di Mànnle verstosse?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>C'est-ça... we mr allei sin, so bisch Dü allewil mi
+                        Mann, awer vor de Lit thüesch Dü mich nie fir Di Fraü
+                        anerkenne.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich ha Dich jo doch gern... De weisch jo wohl worum, ass
+                        ich unser Hiroth verstecke thüe.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(lipft d'Achsle)</stage>
+          <p>Wege-n-em Patron!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wege-n-em Herr Rothfuchs... jà... er thàt mr's jo nitt
+                        vergesse...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was hat denn er awer o derzüe z'sage... geht's ihn ebbes
+                        a?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s isch doch allewil mi Patron!... denk, was er scho an
+                        mir tho hat... ich bin ihm Respect schuldig... 's isch
+                        e g'scheidter Mann.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was g'scheidt!... dumm isch er as wie Gànsedr...</p>
+          <pb n="359"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Mi Patron dumm!... voll Geist isch er... er hätt ganz
+                        güet dr Telephon erfinde känne, wenn ihm dr Idee ku
+                        wàr!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Los Fritz... Dü bisch vo-n-ere Schwachheit... 's isch
+                        nibt erlaübt! un ich müess drunter lide... me nimmt
+                        mich fir e... ich traü nitt z'sage was... ich wird ganz
+                        roth.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Dü brüchsch nitt roth z'werde... Dü hasch 's Recht, alle
+                        Litt az'lüege!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Das Ding ka nimmig eso bliwe... 's isch unmöglig, ich
+                        will, ass De hit noch uns're Hiroth verkünde thüesch!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Julie, 's hat Dich ebber ufg'stiftet!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich ha jetz lang genüe g'warte... un wenn Dü's nitt
+                        thüesch, so hasch mi nie gern g'ha.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich Dich nitt gern g'ha!... dur's Fir gieng ich fir
+                        Di... awer denk an mi Position.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Liewer nitt Associé werde... un wenn Dü's nitt sage
+                        witt, so sag' ich's in Dim Patron!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wenn De nur noch e paar Tàg wottsch warte...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Das 'isch allewil d'gliche G'schichte... ich gib Dr zwei
+                        Stund Zit!</p>
+        </sp>
+        <pb n="360"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>So loss mich doch nur z'erst das Ding e wenig ifàdle...
+                        g'wiss ich bi stolz, Dich als mi Fraü z'proklamiere...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Wenn das?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ein vo dàne Tàg.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Nix do!... hit noch müess es g'schàh!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich will lüege!...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Gib Achtung, Fritz, wenn Dü's nitt thüesch, so mach ich
+                        Dummheite... De bisch jetz g'warnt... ich will kei
+                        G'heimniss meh.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Fir Dir z'gfalle, Julie, mach ich jo alles, alles
+                        mache... nur müess ich ebbes ha, fir mir Müeth z'gà<stage>(er
+                        git ere ne Schmutz).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">D'Gliche</stage>
+        <stage>dr Herr Rothfuchs kunnt hinte-n-ine</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Oh!... dr Patron!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>So, so... do geht's glaüb schon züe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Ich ha... mr hàn...</p>
+          <pb n="361"/>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Müess ich Di eigentlig allewil do ku süeche, wenn De
+                        sottsch dunte si im Lade-n-un Pratike serviere!...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Awer, Herr...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich red' nitt mit Ihre, ich red' mit em Fritz.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sin Se nitt so bös, Herr Rothfuchs... ich will Ene
+                        expliziere...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s hat alles sine Zit... un jetz isch dr Moment nitt,
+                        fir dàre Jumpfere do dr Hof z'mache.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(lislig züem Fritz)</stage>
+          <p>Hasch g'hört, er hat g'sàit « Jumpfre ».</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Schimpfe Se nitt, Herr Rothfuchs, ich ha grad
+                        welle-n-awe geh... ich bi nur e wenig ufe ku... awer
+                        grad ha-n-ich welle-n-awe geh.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich mein, Dü kännsch Di Zit besser züebringe-n-as bi ne
+                        so-n-ere...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(zornig)</stage>
+          <p>Bi ne so-n-ere?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Gang Dü in Di Zimmer, mi Schatz...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ah so... Dü schifelsch mich ab, anstatt mich mache
+                        z'respectiere vor dem...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Vor dem? üse mit!</p>
+        </sp>
+        <pb n="362"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Gang mi Schatz... gang...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Nei, ich will, ass se-n-üsredt!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Mich eso traitiere!... b'sinn Di, Fritz, b'sinn Di...
+                        ich will jetz nimmig niedertràchtig g'macht si vo-n-eso
+                        me Growian!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(züem Fritz)</stage>
+          <p>Se hat g'sàit?... wie hat se g'sàit?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich ha nitt g'losst!...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich halt's jetz nimmig üs... wenn's eso furtgeht, so
+                        verloss ich 's Hüs!...<stage>(se geht ins Zimmer rechts).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Herr Rothfuchs, Fritz.</stage>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Fritz, ich ha scho g'sàh, mr werde-n-uneinig
+                        mitnander!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wisse Sie, ass ich da Morge scho Tüech verkaüft ha fir
+                        vier Paar Hose...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Das Wibsbild isch noch Di Verderwe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Un zwei Gilets, un Tüech fir e Frack!</p>
+          <pb n="363"/>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich ha-n-Unrecht g'ha, ass ich Dich uf Strossburg
+                        g'schickt ha vor drei Monet... Dü hattsch in zwei oder
+                        drei Tàg unsere G'schàfte känne b'sorge un blibsch vier
+                        Wuche furt!... un alles das wege dere Liebschaft do, wo
+                        De-n-ag'fange hasch... ich ha fir Dich ebbes bessers
+                        g'hofft... aber wenn Dü jetzt scho-n-eso ne Lewe
+                        fiehrsch...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was wànn Se halt... d'Liewe losst sich nitt
+                        kummediere... wenn's Zit isch, paff, so hat's eim!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich weiss besser as Dü, was das fir e Krankhet isch....
+                        awer ich bi wege dem doch nie iwer d'Grenze vo de
+                        Convenances g'sprunge.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Awer, Herr Rothfuchs, ich will jo gar nitt iwer d'Grenze
+                        springe!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Doch... Dü machsch z'viel Ufwand tir Di Julie... un
+                        thüesch alles an se hànke, was schön un thir isch... so
+                        ne-n-Associé ka-n-ich kein brüche.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s isch nitt so g'fàhrlig... Sie iwertriwe's!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich sag Dr, se thüet Dich b'stehle!... se hànkt an Dr,
+                        bis Dü nit meh hasch, derno...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(lacht heimlig)</stage>
+          <p>Oh, sàll thüe-n-i jetz doch nitt glaüwe!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s git nur ei Mittel, fir in dem Ding e-n-End z'mache...
+                        loss se fahre-n-un stell se vor d'Thüre.</p>
+        </sp>
+        <pb n="364"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich wisst viellicht noch e besser Mittel.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <p>Was fir eins?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich will's Ene sage, wenn Sie nitt wànn bös werde.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Nei... üse mit...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Eh bien... wenn ich se thàt hirothe?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Die hirothe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s thàt si halt schicke...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was!... se hat's eso wit mit Dir brocht?... se-n-isch
+                        noch g'fahrliger as ich glaübt ha!... un unsre Plàn un
+                        Di Position?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s packt nitt!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>So ne Herg'loffene do... wo kei Sü hat... wenn se noch
+                        ebbes hätt... awer se hat nit... Fritz... uf dr Stell
+                        müesch se lo!... ich chargier mich, eüch üsnander
+                        z'bringe.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sie... wie wànn Sie das aschicke?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Das geht mich a... si müess es... ich weiss Dir e güete
+                        Parthie... ich ha mr jetz emol in Kopf g'setzt, Dir Di
+                        Glick z'mache, un ich mach's... wider Di Wille.</p>
+          <pb n="365"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Mr hätte doch so ne schön Pààrle gà.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Kei Wort meh jetz dervo... 's isch e Coquette, wo Dich
+                        trumpiert.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s Julie mich trumpiere?... 's isch e-n-Engel!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Se-n-isch Dr untreü, ich bi sicher !</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sicher... par exemple... wisse Sie ebbes?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>He, he... was ka me sage!<stage>(fir sich)</stage> ich will se scho
+                        vonander bringe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Herr Rothfuchs, sage Se das nitt... Sie mache mir 's
+                        Blüet z'koche!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Scho güet... gang jetz emol awe-n-in dr Lade-n-un loss
+                        mich mit ere rede.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(àngstlig)</stage>
+          <p>Mit em Julie rede... was wànn Se-n-em sage?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich ha Dir kei Rechenschaft abz'lege.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wenn ich viellicht selbst thàt...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Allons, in dr Lade-n-awe!... müess ich Dich an
+                        de-n-Ohre-n-awe fiehre!</p>
+        </sp>
+        <pb n="366"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich gang, Herr Rothfuchs... ich gang...<stage>(fir sich)</stage> das
+                        wird schön geh!<stage>(er geht hinte-n-üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Herr Rothfuchs, derno Adolph.</stage>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(allei)</stage>
+          <p>'s isch decidiert jetz... ich will ne-n-in dere Creatür
+                        üs de Klaüe risse... ich ha-n-em g'sàit, se trumpiert
+                        ne... bis dohi weiss i noch nit, awer 's isch jo schier
+                        allewil dr Fall... wenn ich nur kännt ebbes ufbringe...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(kunnt hinte-n-ine ku z'laüfe)</stage>
+          <p>isch's möglig!... Dü, Emma!...<stage>(fir sich)</stage> tiens, 's isch
+                        e Herr!... ich bi doch ganz sicher, ass ich d'Jumpfer
+                        Emma g'sàh ha do am Fenster.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was wàr Ihne g'fallig, güeter Frind?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(lüegt ummenander)</stage>
+          <p>Ich ha schint's e letze Thüre gnu...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Süeche Se-n-ebber?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oder ich bi viellicht z'viel Stege-n-ufe?... ich hatt
+                        glaübt, 's isch do...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich ka-n-Ihnen viellicht Üskunft gà!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich süech e junge Dame-n-im zweite Stock.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Im zweite?... das isch do... 's wohnt sunscht Nieme-n-uf
+                        dem Bode.</p>
+          <pb n="367"/>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ah, 's isch do!... un die junge Dame?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Hàn Sie ebbes mit ere z'rede?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Das heisst... ich hätt se gern g'sàh...<stage>(fir sich)</stage> das
+                        hätt ich nitt sotte sage.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Wer, d'Jumpfer Julie?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Julie?... ich ha g'meint, se heisst Emma!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Kenne Sie se denn?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich hätt das nitt sotte sage<stage>(lüt)</stage> ich kenn se ne
+                        wenig... ich ha se scho g'sàh in Strossburg...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ah, in Strossburg?<stage>(fir sich)</stage> 's wird
+                        efange-n-intressant.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich ha-n-ere dert vor ebbes Zit e Nàihmaschine verkaüft
+                        un ha se lehre nàie druf, d'Jumpfer Emma... denn se
+                        heisst Emma, 's isch ganz sicher.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s isch möglig...<stage>(fir sich)</stage> so Jumpfraüe changiere Name
+                        wie Hemd!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Nochher bin i derno uf Milhüse ku mit mine Nàihmaschine
+                        un ich hätt nitt glaübt, ass ich se-n-eso bol wieder
+                        sieh, bis vorig, wo-n-ich dert awe gange bi, ha-n-ich
+                        par hasard do iwere g'lüegt un ha se-n-am Fenster g'sàh
+                        steh.</p>
+        </sp>
+        <pb n="368"/>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Do hàn Se se schint's noch allewil gern, wie-n-ich
+                        hör?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich weiss nitt, eb ich Ihne das sage soll.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Worum denn nitt?... sage Sie's nur herzhaft!<stage>(fir sich)</stage>
+                        das kunnt jo wie g'wunsche<stage>(lüt)</stage> 's macht mr g'wiss e
+                        rechte Freid.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ihne?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Thüet Sie das wund're?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ne wenig... wo-n-ich Sie ewe do atroffe ha, so ha-n-ich
+                        eso halwer denkt, ass se mich viellicht vergesse hat un
+                        jetz g'hirothe-n-isch un ass Sie dr Mann sin...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Gottlob, nei, ich bin 'n nitt...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh!... Sie thien mr 's Lewe rette!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Sie freie sich viellicht z'g'schwind!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Worum... isch se viellicht mit erne-n-Andre?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Mit eme-n-And're, jà... awer nitt g'hirothe.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh!... sage Se mir das nitt... das ka nitt si... ich
+                        ka's nitt glaüwe!...</p>
+          <pb n="369"/>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Güeter junger Mensch!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie... ne so ne rechtschaffene Person!... ah, wege dem
+                        heisst se jetz Julie... un er... isch's e schöner Mann?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Wenn ich ibildet wàr, thàt ich jo sage...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Was, Sie sin's?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich selbst... mit Geld ka me-n-alles mache!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich weiss nitt... awer 's juckt mr... ich thàt Ene gern
+                        ebbes ischla... ne paar Rippe züem Exempel...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Junger Mensch, das isch schön vo-n-Ihne... ich sieh
+                        scho, Sie hàn se noch allewil gern.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich?... ich veracht se... ich will nit meh vo-n-ere
+                        wisse!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Sie hàn se liewer as nur emol, das isch klar... mir
+                        känne-n-uns arrangiere, denn ich ha se nimmig gern.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Isch's möglig...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Sie derfe mir glaüwe... mit dr Zit vergeht halt alles...
+                        ich wàr sogar froh, wenn ihre ne-n-Andrer dr Hof thàt
+                        mache.</p>
+        </sp>
+        <pb n="370"/>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Also halte Sie nimmig an ere?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Nitt im g'ringste... geniere Sie sich nitt... wenn Sie
+                        se känne mitnàh, isch's mir desto liewer; 's isch noch
+                        allewil e schöne Person.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh, wenn ich ere nur recht kännt d'Meinung sage...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Das känne Se... se-n-isch dert in ihrem Zimmer... ich
+                        mach mich dervo<stage>(er geht hinte-n-üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Adolph, derno Emma.</stage>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(allei)</stage>
+          <p>Oh!... ich bin im e Züestand!... ich kenn mi nimmig!...
+                        d'Jumpfer Emma, sie, ne-n-Anderer!... ich sott se
+                        nimmig alüege... ich will glaüb liewer geh!<stage>(er geht
+                        gege dr Thüre-n-un kunnt wieder)</stage> nei... se müess wisse,
+                        was ich vo-n-ere hake thüe...'s müess dert si, wo
+                        se-n-üseg'lüegt hat<stage>(er zeigt links un geht geh
+                        aklopfe.</stage></p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(kunnt üse)</stage>
+          <p>Eh tiens!... Sie, Herr Adolph!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(trucke)</stage>
+          <p>Ich, jà... Adie!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(verwundert)</stage>
+          <p>Isch das alles, was Sie mir jetz z'sage hàn?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Alles, jà... denn wenn ich afange wott.</p>
+          <pb n="371"/>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Herr Adolph...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie brücht mich nitt süeche z'ruckz'halte, 's isch
+                        unnöthig.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Isch das jetz Ihre Freid, wo Sie hàn, ass Sie mich
+                        wieder sàhn?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Unglicklig macht's mi!... grine mächt i...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Das isch jetz emol galant!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh!... worum isch Sie uf Milhüse ku!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Ah, 's isch das, wo Sie tourmentiert?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Was macht Sie do un züe was wird Sie das noch fiehre!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Oh! das isch jetz 's kleinste... ich bi nitt
+                        embarrassiert... ich ha Talent...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Heisst Sie das Talent?</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Natirlig... un siter ass mir uns nimmig g'sàh hàn,
+                        ha-n-ich noch Fortschritte g'macht.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Oh jà... schöne Fortschritte<stage>(lüt)</stage> un Sie zahlt uf das,
+                        Jumpfer Julie?</p>
+        </sp>
+        <pb n="372"/>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(verwundert)</stage>
+          <p>Jumpfer Julie?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oder Emma, 's isch mr eithüen! .. un Sie will eso ne
+                        Lewe fiehre, Sie unvorsichtige Person! isch denn das
+                        e-n-Existenz?...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Sie jügiere mich streng fir eso ne Kleinigkeit.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>E Kleinigkeit... lost Se, Jumpfer Emma, Sie brücht sich
+                        nitt süeche-n-üsz'rede... dr Andere, Sie weisst jo
+                        wohl, dr Alt', hat mr alles g'sàit!...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Sin Se-n-ebbe jaloux... Sie hàn viellicht erfahre ass
+                        ich sott hirothe?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Hirothe?...<stage>(fir sich)</stage> jo, ich weiss, uf was fir
+                        e-n-Art</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Wenn das isch, känne Sie rüehig si... grad wege dem bin
+                        ich jo vo d'heim furt.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie hàtt viel besser tho, dert z'bliwe!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Wenn ich awer furt wàr, fir nàcher züe ebberem z'ku,
+                        wo-n-ich gern ha?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie hat ebber gern g'ha?</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Natirlig, Sie undankbarer Mensch as Se sin!</p>
+          <pb n="373"/>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Mich? ... isch's möglig!<stage>(fir sich)</stage> Sie will mich wieder
+                        ins Netz locke... awer ich will gar nimmig eso dumm si.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Un ich ha-n- Unrecht g'ha, ich sieh scho... Sie hàn mich
+                        vergesse...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich Sie vergesse!... wo d'ganze Zit an nit anders denk
+                        as an Sie!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>G'wiss... Sie hàn mich noch gern?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Natirlig... un wenn Sie mich in dem Alte will vorzieh,
+                        so leg ich Ihre mi Person, mine Nàihmaschine un mi
+                        Zimmer z'Fiesse.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>A la bonne heure!... das isch jetz emol g'redt... ich
+                        nimm alles a... in drei Monet bin ich màjeràn, derno
+                        hirothe mr.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Nodem was i erfahre ha?... merci.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Sie sage?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Bàh!... verstell Di doch nimmig... 's isch unnöthig
+                        zwische-n-uns ... mr känne-n-is jo gern ha, ohne
+                        z'hirothe.</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(zornig)</stage>
+          <p>Un Sie traüe mir eso ebbes z'sage?... wenn Sie fir das
+                        ku sin, so känne Se wieder geh... 's isch fertig
+                        zwische-n-uns!...</p>
+        </sp>
+        <pb n="374"/>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">Adolph, derno Fritz.</stage>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(allei)</stage>
+          <p>Wie die sich verstelle ka!... awer 's isch eithüen...
+                        ich verwitsch se doch...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Oho!... ne Herr do bi mir?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Güet!... do kunnt am End noch Einer.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Eh, tiens, das G'sicht sott ich kenne!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ah, ah... hà mir nitt e Mariage g'macht gestert z'Nacht
+                        mitnander?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Im Café... c'est ça... ich hàtt nitt glaübt, Sie do
+                        az'treffe.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich o nitt... kenne Sie denn ebber do?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Un Sie?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh, ich!... 's isch e ganze G'schichte... ne Jumpfre,
+                        wo-n-ich atroffe ha do...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ne jumpfre?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oder e junge Dame... doch, das thàt Sie wenig
+                        intressiere... drum lewe Se wohl...<stage>(er geht gege dr
+                        Thüre).</stage></p>
+          <pb n="375"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(haltet ne z'ruck)</stage>
+          <p>Im Gegetheil... erlaüwe Se... ne junge Dame? ich hör
+                        gern eso G'schichtle... un wenn's kei G'heimniss wàr...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Gar nitt... ich bi vorig vor em Hüs verbi un ha par
+                        hasard ufeg'lüegt un sieh-n-ewe die Jumpf're, ne alte
+                        Bekanntschaft vo mir... natirlig bin i halt glich do
+                        ane ku un wer triff i a? rothe Se-n-emol.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ihre Kàmifeger?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie hàn's nitt g'rothe... ihre... ihre Liebhawer!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was fir e Liebhawer?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Dà wo se-n-unterhaltet... e-n-Alter, wo mich derno hat
+                        afange-n-üsfroge... ich ha die Bekanntschaft ewe-n-in
+                        Strossburg g'macht.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Die vom Alte?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Nei.. die vo dr Jumpfer Julie.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Vom Julie?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oder Emma, 's isch mr eithüen.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Isch's Julie oder Emma?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Emma in Strossburg un Julie in Milhüse... 's isch e
+                        Trüc... Sie merke's jo wohl?</p>
+        </sp>
+        <pb n="376"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s laüft mr ganz heiss dr Ricke-n-ufe!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s isch possig, nitt wohr?... un lose Se nur... dr Alt
+                        hat mr g'sàit, er thàt nimmig an ere halte, ich kännt
+                        si Platz ha, wenn ich wott.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was isch das fir e-n-alter Judas gsi?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Un ich, wo g'meint ha, d'Jumpfer Emma seig d'Unschuld
+                        selbst!... ich, wo se ha welle hirothe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Also isch's denn e Jumpfer Emma, wo Sie vo-n-ere rede?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oder Julie... wil's d'Gliche-n-isch... ich bi z'erst
+                        rasend gsi... awer wo-n-i derno-n-allei bi-n-ere gsi
+                        bi...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ah, ihr sin allei gsi mitnander!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Jo, un noch ziemlig lang... un do känne Se halt wohl
+                        denke, ass ich alles wieder vergesse ha... 's isch doch
+                        noch allewil e schöne Person...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Soll ich ne-n-umbringe!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s isch si noch allewil dr Werth...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(heftig.)</stage>
+          <p>Un Sie meine, das Ding geht eso...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wil dr Alt' z'friede-n-isch...</p>
+          <pb n="377"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Er hat g'loge!... 's isch e Schurk!... das isch
+                        e-n-ehrlige Persan, ass Sie's nur wisse... un dà, wo
+                        sich g'riehmt hat... oh!... ich wott ne nur sàh... ich
+                        wott ne gern do ha, fir em e paar Wort z'sage...<stage>(dr
+                        Herr Rothfuchs kuunt hinte-n-ine).</stage></p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie känne's ihrn sage, do isch er.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Rethfuchs.</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Mi Patron!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Aha, bisch Dü scho wieder do owe, Fritz, desto besser
+                        dasmol.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se kenne sich?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was isch jetz, junger Mensch, hàn Se reüssiert?... Sie
+                        känne rede vor ihm, 's isch mi G'schàftsfiehrer.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ah, Sie sin si Herr Patron... wege dem hat er's nitt
+                        welle glaüwe...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was glaüwe?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Er hat Sie als Schurk traitiert!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was wànn Se halt, Herr Rothfuchs, ich ha halt nitt
+                        denkt... stelle Sie sich an mi Platz.</p>
+        </sp>
+        <pb n="378"/>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Scho güet... scho güet.<stage>(züem Adolph)</stage> Sin Se
+                        vorag'ruckt... marschiert das Ding?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich ha mi nitt z'beklage... se hat mich gern... 's isch
+                        nur, fir mich wiederz'sàh, ass se vo Strossburg furt
+                        isch... 's isch mr Leid, ass ich Ihne das sage müess.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Nur furtg'macht... Hörsch's, Fritz?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Un ich los dem Ding eso züe!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un 's End... wie isch's üsg'falle?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s isch no nitt ganz fertig, awer sie kunnt doch noch
+                        mit mr...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s isch gar kei Red dervo... se geht nitt mit Ene... Das
+                        sin Dummheite!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wenn ich se hätt welle hirothe, so wàr se doch scho
+                        ku!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sie hirothe?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie hat mir's uf jedefall proposiert!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Hörsch's, Fritz!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Isch das jetz nitt züem wild werde!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Junger Mensch, mache Se, ass das Ding emol fertig
+                        wird... nàmme Sie se mit Sturm i!</p>
+          <pb n="379"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Kanallie vo Patron!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wenn's Ene recht isch, so will ich nur g'schwind geh ne
+                        Nàihmaschine placiere, wo-n-i versproche ha... derno
+                        kumm i wieder... i will mi züe glicher Zit o ne wenig
+                        lo frisiere... awer lehn Se kei Andrer ku, denn ich bi
+                        sicher, ass ich reüssiere thüe!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich verlang nitt mehr... kämme Se nur glich wieder</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Au revoir denn<stage>(er geht hinte-n-üse).</stage></p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi ganz rasend vor Zorn!... un das isch mi Patron,
+                        wo mir das macht!...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage>Fritz, Herr Rothfuchs, derno Julie.</stage>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was sàisch jetz züe dem, Fritz?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Lehn Se mich in Rüeh... Sie sin e Judas vo me
+                        Patron...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Unglickliger!... Dü machsch mir Vorwirf, wil ich Dich
+                        ve-n-ere Intriguantene befreie will... wil ich Dich
+                        süech uf e besserer Weg z'bringe!</p>
+        </sp>
+        <pb n="380"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Uf e schlechter bringe Se mi... denn schaüe Se doch nei,
+                        's ka nitt si... 's Julie isch unschuldig... ich thàt
+                        mi Hand ins Fir lege.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Fritz, Dü bisch e Simpel!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich will's du reste z'Red stelle..</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Vor mir awer... ich bi's z'friede.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Nei... nei... alleinig... ich bitt Sie drum.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ass Dü Dich wieder iwerschwàtze losch vo-n-ere? nix
+                        do... vor mir... ich will's ha... güet, do isch se...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(kunnt ine rechts).</stage>
+          <p>Dispetiere-n-ihr denn noch allewil mitnander?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Kàm Se-n-emol do ane, Jumpfer Julie.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Julie, was geht eigentlig vor?... Dü hasch dà Morge ne
+                        Visite biku?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Vom e junge Mensch... Se brücht's nitt z'làigne, mir sin
+                        sicher.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s hat schint's ebber 's Emma sàh aku?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Se wird roth!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>De sàisch nitt?</p>
+          <pb n="381"/>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Wil ihr's wisse, so sag ich nitt nei.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>So, so! un er isch schint's lang bi Dr gsi?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ah!... Dü bisch g'wiss jaloux?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Un er hat Dir dr Hof g'macht!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Oh... das isch jetz...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s isch unnöthig, ass Se sich verstellt... mr
+                        wisse-n-alles!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das sin wieder d'böse Miler gsi, wo das ufbrocht hàn.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>So isch's denn wohr, ass Dü ne gern hasch!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(lacht)</stage>
+          <p>Eh jo... ich versteck's jo gar nitt, ass ich dà junge
+                        Mensch gern ha.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Allons... se-n-isch doch ufrichtig...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(grint)</stage>
+          <p>Oh Julie!... hi, hi, hi...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un Du grinsch, Dü alter Esel!...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(lacht)</stage>
+          <p>Oh I wie sin ihr doch beide-n-eso dumm!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Jumpfer Julie!</p>
+        </sp>
+        <pb n="382"/>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich hätt eüch grad in eürem Irrthum sotte lo... uf
+                        jedefall, wenn ich red', so isch's nitt wege-n-Ihne..
+                        's isch nur wege-n-em Fritz, wo-n-ich nitt unglicklig
+                        ka sàh.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se süecht e-n-Üsred.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Eh bien, dà junge Mensch, wo-n-eüch eso z'schaffe git,
+                        isch... e Jumpfre!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>E Jumpfre?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Wie das güet g'funde-n-isch!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Alles derf i awer doch nitt sage...<stage>(lüt)</stage> eine vo mine
+                        Frindine, wo reist, un fir nitt belästigt z'werde, hat
+                        se sich....</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Fir die Erfindung bekunnt Se kei Brevet... das packt
+                        nitt!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ihr sin nitt iwel verwitscht worde dasmol<stage>(se lacht: ha
+                        ha ha).</stage></p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(lacht)</stage>
+          <p>Ha ha ha... wie sin mir so dumm gsi aiie beide.. Sie
+                        nitt, Herr Rothfuchs, Sie nitt.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un Dü glaübsch eso Dummheite?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was... Sie glaüwe mir nitt?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Worum nitt gar!</p>
+          <pb n="383"/>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich versicher Se...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s ich nitt wohr... Se liegt!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Se sin e Growian!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Me weisst nimmig, wo-n-eim dr Kopf steht!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">D'Gliche, ne Commis.</stage>
+        <sp who="#commis">
+          <speaker>Dr Commis</speaker>
+          <stage>(kunnt hinte-n-ine mit eme Brief in dr Hand: züem
+                        Herr Rothfuchs)
+                    </stage>
+          <p>Do isch e Brief aku fir Se... 's steht « pressée »
+                        druf.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(nimmt 'n)</stage>
+          <p>Scho güet!<stage>(dr Commis geht)</stage> was ka jetz das si?...<stage>(er
+                        macht 'n uf un liest)</stage> er isch vo mim güete Frind
+                        Stockfisch vo Strossburg.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Vom Emma sim Vater.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Tiens, tiens!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was isch?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Thàt Se-n-is allei lo, Jumpfer Julie, ich ha mit em
+                        Fritz ebbes z'rede.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich will glich geh 's Emma preveniere...</p>
+        </sp>
+        <pb n="384"/>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Geth Se jetz bol?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Ich gang, Growian!<stage>(se geht üse rechts).</stage></p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was isch denn jetz das fir e Neüigkeit?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Weisch Dü, ass dà junge Mensch schint's doch e
+                        Jumpfre-n-isch? ... grad schribt mr do dr Herr
+                        Stockfisch vo Strossburg, ass si Tochter vo d'heim
+                        furtg'loffe-n-isch, als Herr verkleidet...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich ha jo allewil g'sàit, 's Julie isch unschuldig ...
+                        worum isch awer dà junge Mensch, oder vielmehr die
+                        Jumpfre, sich grad do ane ku flichte?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Eh, dr Herr Stockfisch sàit mr do, ass, wo si Tochter
+                        furt gsi isch, so hat er e Brief g'funde vo-n-ere
+                        g'wisse Jumpfer Julie Flink vo Milhüse un ass er
+                        vermüethet, ass si Tochter dert ane-n-isch.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s Julie!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Di schöne Prinzessin ... se wird ere g'hulfe ha un hat
+                        sie jetz züe si gnu.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ah !... das isch jetz halt die G'schichte... awer hein,
+                        dà junge Mensch, oder die Jumpfre wege mir, die hat uns
+                        nitt iwel fir e Narre g'ha! ...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Das isch e Fraü ... à la bonne heure ich ha vergewes
+                        allewil eso eine g'süecht ... tiens wenn ich <pb n="385"/>se thàt
+                        hirothe? worum nitt ... ich bi ganz verliebt in se ...
+                        ha ha ha ich müess lache, wenn ich dra denk, wie-n-er,
+                        das heisst, wie sie uns gnu hat vorig!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Hi hi hi!... un ich, wo g'màriàgelt ha mit' ere gestert
+                        z'Nacht, ohne-n-ass ich ebbes g'merkt ha!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ah ihr hàn g'màriàgelt... das isch emol e Person, Fritz!
+                        décidément, das müess mi Fraü gà!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Scht!... do isch se.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage type="characters">D'Gliche, Adolph.</stage>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(kunnt mit eme Kuffer in dr Hand un e Lade unter'm
+                        Arm)
+                    </stage>
+          <p>Do bin i jetz ... ich ha mich frisiere lo.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(galant)</stage>
+          <p>Eh, was Sie fir e Last Dings do hat... git Se mir die
+                        Sache z'àmme<stage>(er nimmt alles un legt's uf e Stühl).</stage></p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(hilft)</stage>
+          <p>Se-n-ich noch stark derzüe!<stage>(er nimmt e Fraüekappe, wo
+                        züer Lade-n-üse lüegt un zeigt se-n-im Heu Rothfuchs)</stage>
+                        das isch doch ebbe klar!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(verwundert)</stage>
+          <p>Die Fraü, wo dunte wohnt, hat mir das alles mitgà... 's
+                        isch fir d'Jumper Emma.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(klopft 'm uf d'Achsle)</stage>
+          <p>Sie Nitnutzige!</p>
+        </sp>
+        <pb n="386"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(klopft em uf d'Achsle)</stage>
+          <p>Kleine Schelmene!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Was?... was?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Will Se-n-is denn noch lang züem Beste ha!...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Hat Se mich denn no nitt lang genüe quält? ...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich?... was soll das heisse?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(fir sich)</stage>
+          <p>Se g'fallt mr allewil mehr!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was hàn se... was hàn se?..</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(lacht)</stage>
+          <p>Mr sin doch làcherlig gsi vorig, nitt wohr?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(lacht)</stage>
+          <p>Sie hat g'wiss ab uns g'lacht innerlig, hi hi hi..</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s ka keine wieschtere-n-Affe gà!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(lacht)</stage>
+          <p>Ha ha ha!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(lacht)</stage>
+          <p>Hi hi hi!</p>
+        </sp>
+        <sp who="#herr_adoplh">
+          <speaker>Adloph</speaker>
+          <stage>(lacht)</stage>
+          <p>Ha ha ha ... die amüsiere mich,die Zwe!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Mr wàre noch allewil im Irrthum ohne dr Brief vo-n-Ihrem
+                        Vater...</p>
+          <pb n="387"/>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Mi Vater?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s isch mi bester Frind... er hat Ene g'wiss als viel vo
+                        mir g'redt?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Er hat wohl vermüethet, ass Sie züem Julie ku wird.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do kumm ich nimmig drüs!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un wil sich d'Glegeheit jetz presentiert, so will ich
+                        glich profetiere dervo... Sie g'fallt mir
+                        üsserordentlig güet un ich offrier Ihne d'Hand... Ihr
+                        Vater hat g'wiss d'grösste Freid, wenn Sie iwillige
+                        thüet.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ihre Hand. . . traüme Sie eigentlig?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich hoff, Sie wird doch die dumme G'schichte nitt glaübt
+                        ha, wo-n-ich Ihre vorig ha welle-n-abinde... ich ha
+                        noch nie an eso Sache denkt!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Was!... d'Jumpfer Emma isch also unschuldig?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s Julie isch rein wie dr frisch g'fallene Schnee!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Un ich, wo se-n-eso veràchtlig b'handelt ha!... do sin
+                        Sie dra d'schuld... awer, Herr Rothfuchs, das isch e
+                        schlechter G'spass, ich ha stark im Sinn...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(lacht)</stage>
+          <p>Sie spielt doch pràchtig dr junge Mensch...<stage>(fir sich)</stage>
+                        das isch jetz emol e Fräü, wo mir geht!</p>
+        </sp>
+        <pb n="388"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(züem Adolph)</stage>
+          <p>Sie mien em halt verzeihe.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah, Ihr hàn mich fir e Narre g'ha... eh bien, warte ne
+                        wenig... jetz isch's an mir... wenn Ihr denn meine, ich
+                        seig e Jumpfre.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Nitt wohr, Sie verzeiht mr... un git mr Ihr Jowort?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wenn Sie meine-n-ass mi Vater z'friede-n-isch...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Also, 's blibt derbi... oh, ich spir, ass ich Sie
+                        glicklig mache wird... ich bi ganz vernarrt in Se...
+                        ich will jetz glich in Ihrem Vater telegraphiere, ass
+                        Sie do isch un um Ihre Hand froge...<stage>(er schmutzt em
+                        d'Hand)</stage> allons kumm, Fritz.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Jà un ich?... ich hätt o gern ebbes g'schmutzt.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Allons, hopp!... in dr Lade<stage>(se gehn hinte-n-üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XII. Uftritt.</head>
+        <stage type="characters">Adolph, derno Emma.</stage>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(allei)</stage>
+          <p>Ha ha ha!... Die Zwe sin jetz wieder emoi güet... bin
+                        ich eigentlig in e Narrehüs g'rothe do?... awer mit dem
+                        allem ha-n-ich jetz d'Jumpfer Emma beleidigt wege dem
+                        Alte sine dumme G'schichte... ich müess <pb n="389"/>se um
+                        Verzeihung bete...<stage>(er klopft an d'Thüre links)</stage> Emma,
+                        Jumpfer Emma!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(kunnt üse)</stage>
+          <p>Ah, Sie sin do?... ich gang wieder...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh, Jumpfer Emma, thàt Se doch nur bliwe, ass ich mich
+                        entschuldige ka...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>No dàne Dummheite, wo Se mir g'sàit hàn, isch's
+                        ferig!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s kunnt jo nitt vo mir... 's isch dà alte Rothfuchs, wo
+                        mir das Dings ig'schwàtzt hat...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>'s isch eithüen... Sie hätte's nitt solle glaüwe... ich
+                        ha stark im Sinn, wieder heim z'geh!... uf jedefall
+                        blib ich nitt do in dem Hüs... ich gang geh ne Zimmer
+                        lehne...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich gang mit Ere...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Nix do!... Sie brüche mir nitt noz'laüfe... Sie hàn mich
+                        beleidigt!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(kneit vor se)</stage>
+          <p>Verzeiht Se mir, Emma... verzeiht Se mir!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>'s kunnt ebber<stage>(se laüft ins Zimmer links).</stage></p>
+        </sp>
+        <pb n="390"/>
+      </div>
+      <div type="scene">
+        <head>XIII. Uftritt.</head>
+        <stage>Adolph, Fritz, Herr Rothfuchs.</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(kunnt hinte-n-ine un sieht dr Adolph dort kneie un
+                        's Emma verschwinde un meint, 's seig si Fraü)
+                    </stage>
+          <p>Was sin das jetz wieder fir Kumedi?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(steht uf)</stage>
+          <p>Ah... Sie sin's, Herr Fritz?<stage>(fir sich)</stage> Ich will ere
+                        glich nolaüfe...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>In wem?... im Julie?... will's furt?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s geht geh ne Zimmer lehne... 's will nimmig do
+                        bliwe... ich will em glich nogeh;<stage>(fir sich)</stage> denn ich
+                        ha Hoffnung... viel Hoffnung<stage>(er laüft hinte-n-üso un
+                        rennt an dr Herr Rothfuchs).</stage></p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Oh! dà Flegel... so hattsch ne denn arretiert!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wer, die Jumpfre?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>s' isch jo kei Jumpfre!...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Isch se g'hirothe?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>'s isch jo ne Herr!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was verzähle Se jetz do?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Küm ha-n-i' mi Depesche furt g'spediert g'ha, so kunnt
+                        noch e Brief vom Herr Stockfisch mit ere <pb n="391"/> Photographie
+                        drin vo sin're Tochter, fir ass ich se besser erkenne
+                        sott... do isch se... die isch viel schöner... die
+                        g'fallt mir noch viel besser...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s isch wohr... 's isch e ganz andre Nase... wer isch
+                        denn derno das gsi, wo grad vor em Julie kneit isch?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Isch er vor ihre kneit?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sie sotte's eigentlig wisse... Sie hàn en jo do ane
+                        brocht...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Glaübsch's jetz bol, ass er Dinere Jumpfer Julie dr Hof
+                        macht?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Un jetz geht se vo mr... se-n-isch geh ne Zimmer
+                        lehne!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Desto besser... loss se laüfe... 's isch 's beste, wo De
+                        mache kasch<stage>(fir sich)</stage> ich ha d'Parthie g'wunne.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>O Herr Rothfuchs!... hi hi hi...<stage>(er nimmt 's Nastüch
+                        üse).</stage></p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Schàmsch Dü Dich nitt, z'grine wege dere...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Oh, wenn Sie wisse thàte... ich halt gar nimmig am
+                        Lewe... gar nimmig...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Worum denn, Dü kasch jo genüe-n-eso finde.</p>
+        </sp>
+        <pb n="392"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Oh nei... denn 's Julie isch mehr gsi fir mich as das...
+                        viel mehr...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Was isch's denn g'si?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Mi Fri... ndin...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Eh bien, mach Dr kei bös Gebliet... ich süech Dr
+                        e-n-Andere... ne riche, wo Dü hirothsch...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Nei, nei... 's isch alles ferig... ich weiss jetz nit
+                        meh anders z'mache, as ich stürz mi in e... Kloster!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Zeig, bisch doch e wenig stark... b'schaü mich... ich bi
+                        o in ere trürige Position...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Das isch ganz ebbes anders...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Ich, wo verliebt bi in das Portrait, weiss nitt emol, wo
+                        's Original isch... wo soll ich jetz geh süeche?...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Weiss ich's?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Oh still!... d'Polizei!... ich ha nitt an d'Polizei
+                        denkt... die werde mir se scho finde! Au revoir... ich
+                        will glich geh<stage>(er laüft hinte-n-üse un rennt an dr
+                        Adolph).</stage></p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Oh!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Sie Flegel!</p>
+          <pb n="393"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was, er traüt wieder do ane z'ku!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(züem Herr Rothfuchs)</stage>
+          <p>Mache Sie's eigentlig express?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Gehn Se geh Band haüe!...<stage>(er geht üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XIV. Uftritt.</head>
+        <stage>Adolph, Fritz, derno Herr Rothfuchs.</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was, Sie sin's wieder... meine Sie ebbe, ich weiss nitt,
+                        ass Sie kei Jumpfre sin...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ah, Sie wisse's... eh bien jà, ich bin e junger Mensch
+                        un noch e glickliger derzüe.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Glicklig?... wie so?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich bi-n-ere vorig nog'loffe un am End vo dr Gasse
+                        ha-n-ich se ig'holt un ha-n-ere züeg'redt, bis ass se
+                        mi ag'hört hat un jetz isch se decidiert mit mr z'ku,
+                        's mag geh, wie's will!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>So isch's denn wohr... Se thüet alles mit Fiesse
+                        trete!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Se hat mich chargiert, ku ihre müess ere helfe
+                        wandle...</p>
+        </sp>
+        <pb n="394"/>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Das isch e-n-infamer Streich, e liederliger! un Sie
+                        meine, das geht eso?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Worum nitt, se geht in e Chambre garnie, bis ass mr
+                        hirothe.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ihr hirothe?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Se thüet's nitt anderscht.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sie, mi Fraü!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ihre Fraü?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Jà... elender Tropf!... ich bi-n-ihre Mann!... ich ha se
+                        g'hirothe im versteckte, in Strossburg, vor zwei Monet!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie ihre Mann?... das verbiet ich Ihne!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich ha stark im Sinn, Sie üse z'werfe!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wenn ich e Nàihmaschine do hätt, thàt ich's ene uf em
+                        Kopf verschla!...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ah so!... wart...<stage>(se nàmme-n-enander am Krage).</stage></p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Was git's do<stage>(er wehrt ab; se schlen beide uf ne)</stage>
+                        höre-n-uf... Sakerdie noch emol... ihr mache mr weh!</p>
+          <pb n="395"/>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Er kunnt mr nimmig làwendig do üse!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Fritz!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Er müess mr ab dr Welt!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Rothfuchs.</speaker>
+          <p>Ihr sin zwei Mörder!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>'s geht uf Lewe un Tod... ich hol mine Pistole!<stage>(er geht
+                        hinte-n-üse).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XV. Uftritt.</head>
+        <stage>Herr Rothfuchs, Adolph, Julie.</stage>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Lehn Se ne laüfe... 's isch e Nitnutz... awer sage Se
+                        mr... hàn Sie se nitt gsàh?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wer gsàh?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Im Herr Stockfisch si Tochter... d'Jumpfer Emma... se
+                        soll doch do si... ich ha se grad g'sàh ufe geh züe dr
+                        Jumpfer Julie... ich ha se glich erkennt...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was sàit jetz dà wieder fir Dings?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(kunnt üse rechts)</stage>
+          <p>Was isch denn eigentlig das fir e Làrme do!...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Do isch jetz emol Eine... Ihre...</p>
+        </sp>
+        <pb n="396"/>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(verwundert)</stage>
+          <p>Mine?<stage>(fir sich)</stage> was isch jetz das fir e Dame?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(züer Jumpfer Julie)</stage>
+          <p>Wo isch d'Jumpfer Emma... se müess doch bi Ihre si!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was ka das Ihne mache?...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Das macht mir, ass ich se hirothe will, ich ha scho in
+                        ihrem Vater g'schriwe derwege...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Sie wànn se hirothe?... awer armer Herr Rothfuchs,
+                        se-n-isch jo g'hirote!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>D'Tochter vom Herr Stockfisch?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>'s isch jo d'Fraü vo ihrem G'schàftsfiehrer!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Vom Fritz?</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Was sàit jetz dà do?... Ah, jetz geht mr e Liecht uf!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Se hàn im versteckte g'hirote in Strossburg, er hat mr's
+                        gr ad g'stande vorig.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>O dà liederlige Zittel!</p>
+          <pb n="397"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVI. Uftritt.</head>
+        <stage type="characters">D'Gliche, Fritz.</stage>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(mit zwei Pistole)</stage>
+          <p>Allons!... vorwàrts, ich bi g'ristet?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(nimmt ne-n-an Ohr)</stage>
+          <p>Kum emol do ane, Nitnutz!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Lehn Se mi, Ferr Rothfuchs... ich will Blüet!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <p>Jà, mr wànn Blüet.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(züem Fritz)</stage>
+          <p>Zeig, sag mr emol, bisch Dü g'hirothe?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Oh je!... 's wird mr schwach!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà Hasefüess</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens, mi Fraü do?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>G'hirothe, ohne mi Permission!.. un noch derzue mit dr
+                        einzige Person, wo mir g'falle hätt un wo-n-ich ha
+                        welle hirothe!...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Jà, un noch derzüe mit der einzige Person, wo-n-ihm, wo
+                        mir, wo-n-uns g'falle hatt un wo mr hàn welle hirothe!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(zeigt uf si Fraü)</stage>
+          <p>Sie, Ihne g'falle... Sie hàn jo alle Schlechtigkeite
+                        vo-n-ere g'sàit!</p>
+        </sp>
+        <pb n="398"/>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sin jetz die drei amüsant!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Dü bisch irr... ich red' vo dr Andere.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Was fir e-n-Andere!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>So lehn mich doch nur o rede!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Still!... wie traüsch Dü nur noch vor de-n-Aüge vo Dim
+                        Mann z'erschine!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(züem Julie)</stage>
+          <p>Ah çà... wer isch Ihre Mann?... dà do?...<stage>(er zeigt uf
+                        dr Adolph).</stage></p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich Ihre Mann?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(zeigt uf dr Fritz)</stage>
+          <p>E nei... er!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Dü?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph</speaker>
+          <stage>(züem Fritz)</stage>
+          <p>Sie?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Ich, jà... unglickligerwis!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un siter wenn das?...</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Siter allewil, wenn's I b'liebt... siter allewil!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <stage>(zeigt uf dr Adolph</stage>
+          <p>Drum sàhn Se jetz wohl, ass ich dà Springer do müess
+                        kalt mache.</p>
+          <pb n="399"/>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Un worum das?</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Wil ihr's känne mitnander!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Fritz, Dü redsch üs de Hitze!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Ich kenn jo die Dame gar nitt... ich ha se jo noch nie
+                        g'sàh!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Sie kenne d'Jumpfer Julie nitt?...</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>D'Jumpfer Julie... Sie?... ah! jetz wird's mir klar! ha
+                        ha ha... wie si mir so dumm!... enfin, 's isch güet...
+                        awer ich ha nur 's Emma gern... ich ha mich nur fir's
+                        Emma lo frisiere.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wo soll ich mich geh verstecke!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Isch's möglig!</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>Natirlig... Dü bisch glickliger as Dü's nur
+                        verdiensch!</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Oh Julie!<stage>(er umarmt se).</stage></p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Eh bien, un ich? wo isch jetz emol die Jumpfer Emma,
+                        ass ich se hirothe ka?</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Wenn Sie nur d'Ente thàte vertrete!... denn Sie sin an
+                        dr ganze G'schichte d'Schuld... was d'Hiroth<pb n="400"/> abelangst
+                        mit dr Jumpfer Emma, die känne Sie sich üs em Sinn
+                        schla.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie.</speaker>
+          <p>D'Jumpfer Emma isch dert in ihrem Zimmer... sie soll
+                        entscheide zwische-n-eüch Zwei <stage>(se klopft an Thüre
+                        links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XVII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Emma.</stage>
+        <sp who="#emma">
+          <speaker>Emma</speaker>
+          <stage>(kunnt üse)</stage>
+          <p>Was das fir e Làrme-n-isch!</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Kàm Se, mir wisse-n-alles!... 's isch alles üse ku!</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Endlig ha-n-ich denn 's Glick, ihre Reize z'bewundere!</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Un wer sin Sie? wenn ich froge derf.</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Dr Herr Rothfuchs! .. dr Frind vo-n-Ihrem Vater... ich
+                        ha-n-um Ihre Hand g'frogt, glich wo-n-i 's Portrait
+                        g'sàh ha...</p>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Oh Herr Rothfuchs... mi Hand g'hört im Herr Adolph.</p>
+        </sp>
+        <sp who="#herr_adolph">
+          <speaker>Adolph.</speaker>
+          <p>Hàn Sie jetz g'hört?</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Un dr Herr Stockfisch... was sàit dà derzü.</p>
+          <pb n="401"/>
+        </sp>
+        <sp who="#emma">
+          <speaker>Emma.</speaker>
+          <p>Ich ha d'Erlaübniss... mi Vater hat mir grad
+                        telegraphiert, ich soll nur wieder heimku, er thàt mich
+                        frei lo hirothe, wer ich will.</p>
+        </sp>
+        <sp who="#julie">
+          <speaker>Julie</speaker>
+          <stage>(züem Heu Rothfuchs)</stage>
+          <p>Ich ha du reste im Emma scho g'sàit, was Sie alles fir
+                        Eigeschafte hàn, so dass es züem vorüs nit hat welle
+                        wisse vo-n-Ihne.</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz.</speaker>
+          <p>Sie mien in minere Fraü verzeihe, Herr Rothfuchs, denn
+                        ich bi an allem d'Schuld, wil ich Ihne nitt ha traüe
+                        z'g'steh, ass ich scho g'hirothe bi...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs</speaker>
+          <stage>(fir sich)</stage>
+          <p>Eh bien, ich will ene zeige, was dr Herr Rothfuchs fir
+                        Eigeschafte hat!<stage>(lüt)</stage> Fritz, vo Morn eweg...</p>
+        </sp>
+        <sp who="#herr_fritz">
+          <speaker>Fritz</speaker>
+          <stage>(àngstlig)</stage>
+          <p>Vo Morn eweg...</p>
+        </sp>
+        <sp who="#herr_rothfuchs">
+          <speaker>Herr Rothfuchs.</speaker>
+          <p>Vo Morn eweg bisch Dü mi Associé!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

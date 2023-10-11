@@ -1,0 +1,2595 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'r Amerikaner</title>
+        <title type="sub">Elsässisches Volksstück in 3 Aufzügen|von Paul Clemens, Membre du Théâtre Alsacien</title>
+        <author key="wikidata:Q96464291">Paul Clemens</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106555028</idno>
+        <idno type="methal" xml:id="mtl-019"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109542x</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106555028">Paul Clemens</author>
+            <title type="main">D'r Amerikaner</title>
+            <title type="sub">Elsässisches Volksstück in 3 Aufzügen|von Paul Clemens, Membre du Théâtre Alsacien</title>
+            <publisher>Société Alsacienne d'Édition (Alsatia), Colmar</publisher>
+            <date when="1920" type="print">1920</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="schakob_urbach">
+            <persName>Schakob Urbach</persName>
+          </person>
+          <person sex="M" xml:id="antoine_schnell">
+            <persName>Antoine Schnell</persName>
+          </person>
+          <person sex="M" xml:id="aloys">
+            <persName>Aloys</persName>
+          </person>
+          <person sex="M" xml:id="surkopf">
+            <persName>Sürkopf</persName>
+          </person>
+          <person sex="M" xml:id="matter">
+            <persName>Matter</persName>
+          </person>
+          <person sex="M" xml:id="groshans">
+            <persName>Groshans</persName>
+          </person>
+          <person sex="M" xml:id="schierejerry">
+            <persName>Schierejerry</persName>
+          </person>
+          <person sex="M" xml:id="schollesepp">
+            <persName>Schollesepp</persName>
+          </person>
+          <person sex="M" xml:id="sohler">
+            <persName>Sohler</persName>
+          </person>
+          <person sex="M" xml:id="michel_tambourmajor">
+            <persName>Michel, Tambourmajor</persName>
+          </person>
+          <person sex="M" xml:id="gabriel">
+            <persName>Gabriel</persName>
+          </person>
+          <person sex="M" xml:id="andres">
+            <persName>Andres</persName>
+          </person>
+          <person sex="M" xml:id="schambediss">
+            <persName>Schambediss</persName>
+          </person>
+          <person sex="M" xml:id="christian">
+            <persName>Christian</persName>
+          </person>
+          <person sex="M" xml:id="der_dorfpolizist">
+            <persName>Der Dorfpolizist</persName>
+          </person>
+          <person sex="M" xml:id="der_turnchef">
+            <persName>Der Turnchef</persName>
+          </person>
+          <person sex="M" xml:id="felix_streifer">
+            <persName>Felix Streifer</persName>
+          </person>
+          <person sex="M" xml:id="otto_kluwer">
+            <persName>Otto Klüwer</persName>
+          </person>
+          <person sex="U" xml:id="bauern_turner_musikanten">
+            <persName>Bauern, Turner, Musikanten</persName>
+          </person>
+          <person sex="U" xml:id="bauern">
+            <persName>Bauern</persName>
+          </person>
+          <person sex="U" xml:id="musikanten">
+            <persName>Musikanten</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#schakob_urbach"><role><persName>Schakob Urbach</persName></role>, <roleDesc>Maire</roleDesc>.</castItem>
+        <castItem corresp="#antoine_schnell"><role><persName>Antoine Schnell</persName></role>, <roleDesc>Cousin vom Urbach</roleDesc>.</castItem>
+        <castItem corresp="#aloys"><role><persName>Aloys</persName></role>, <roleDesc>Knecht beim Urbach</roleDesc>.</castItem>
+        <castItem corresp="#surkopf"><role><persName>Sürkopf</persName></role>, <roleDesc>Adjunkt</roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#matter">
+            <role>
+              <persName>Matter</persName>
+            </role>
+            <roleDesc>Gemeinderatsherren</roleDesc>
+          </castItem>
+          <castItem corresp="#groshans">
+            <role>
+              <persName>Groshans</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#schierejerry">
+            <role>
+              <persName>Schierejerry</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#schollesepp">
+            <role>
+              <persName>Schollesepp</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#sohler">
+            <role>
+              <persName>Sohler</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>Gemeinderatsherren</roleDesc>
+        </castGroup>
+        <castGroup>
+          <castItem corresp="#michel_tambourmajor">
+            <role>
+              <persName>Michel, Tambourmajor</persName>
+            </role>
+            <roleDesc>Conscrits</roleDesc>
+          </castItem>
+          <castItem corresp="#gabriel">
+            <role>
+              <persName>Gabriel</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#andres">
+            <role>
+              <persName>Andres</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#schambediss">
+            <role>
+              <persName>Schambediss</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <castItem corresp="#christian">
+            <role>
+              <persName>Christian</persName>
+            </role>
+            <roleDesc/>
+          </castItem>
+          <roleDesc>Conscrits</roleDesc>
+        </castGroup>
+        <castItem corresp="#der_dorfpolizist"><role><persName>Der Dorfpolizist</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#der_turnchef"><role><persName>Der Turnchef</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#felix_streifer"><role><persName>Felix Streifer</persName></role>, <roleDesc>Vagabunden</roleDesc>.</castItem>
+        <castItem corresp="#otto_kluwer"><role><persName>Otto Klüwer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#bauern_turner_musikanten"><role><persName>Bauern, Turner, Musikanten</persName></role>, <roleDesc/>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> 1. Aufzug. </head>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p> <stage>(stellt die Stühle und bringt das Zimmer in Ordnung.)</stage> </p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(steht am Schrank, hat ein Schriftstück in der Hand, spricht zu Aloys)</stage>
+          <p>Aloys, ihr hann doch d’Ge- mäinderotsharre uf 6 Ühre do häre b’stellt ? — — Es isch jetz schun 20 Minüte üewer sechs un noch nieme losst sich sahn !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ich hab's alle g’säit!... Awer bi danne häisst’s äu : „Kumm i hitt nit, ze kumm i mor’n“, wie zaller g'säit hett ...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(kommt eilig zur Türe herein)</stage>
+          <p>Noch kener do ? ! Müess dann ich allewill d'r erscht sinn ? ! — Wann i diss gewisst hatt, ze wärt ich nit so geloffe. <stage>(wischt sich den Schweiss ab.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(ruhig)</stage>
+          <p>Guete-n-Owe Matter! Äner muess d'r erscht sinn, d'andere wäre äu glich kumme. — Was gitt’s Neij’s, Matter ?</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <stage>(bissig)</stage>
+          <p>Neij’s?! Ich hab noch genuej am Alte...</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <stage>(kommt bedächtig zur Türe herein, hat eine Pfeife im Munde)</stage>
+          <p>Guete-n-Owe bienand ! — Do wärde m'r ... Ju, ju — hitt wärmt’s famos.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ja, es macht warm schun ebbene 14 Däj häre.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Numme zü warm ; as isch viel ze drucket drüsse im Fald — d'r Büür derf halt ken Glüeck hann — —</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Jo, hiele nurre nit eb’r d'’ Schläj hann, wie zaller g'säit hett ! — As isch guet füer d’Rawe diss Watter. Schollesepp und Groshans <stage>(kommen zusammen herein ; Schollesepp isch schwerhörig. - Groshans spricht schnell und prahlt gern.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Salü biesamme ! <stage>(setzt sich an den Tisch an seinen Platz.)</stage></p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(gibt jedem die Hand)</stage>
+          <p>Guete-n-Owe, Herr Maire ! Guete-n-Ovre, Schierejerry ! — Bonjour Mat- ter, wie geht’s allewill ?</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Poh — wie mr’s triebt !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Bisch kurz angebunge hitt. — Wie fahlt’s ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ar isch mitm linke Fuess z’erscht ’s Bett ra, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ich kann zuem Bett ra, mit well'm Fuess ass ich will, ze gitt’s dich nix an, verstange !? — Un ich mäin, mir kennte anfange, Herr Maire, uf d’andere brüche m'r nit ze warte, e Nuntebuckel noch-emol ! Un ich möecht gar wisse, wäje was ass m'r z'samme müen kumme ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Jo — warte m'r nimm länger, fange m'r an. D’r Sohler kummt noch, dar isch allewill d'r letscht, dann von sim Hüs do hare sin zwäij Wurtshieser un do kann’r nit d’ran verbie. <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p> <stage>(gehen an ihre Plätze am Tisch.)</stage> </p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju, ar meint ar kummt in d’Höll, wann’r am e Wurtshüs verbie geht.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler:</speaker>
+          <p> <stage>(kommt gemütlich zur Türe herein.)</stage> </p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Wie m'r d'r Esel nannt, ze kummt’r gerannt, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(spricht Strassburger Dialekt)</stage>
+          <p>Salü bien, de Herrschafte ! Oho, sinn’r schun alli do ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Alle, alle, Sohler ! As isch ken Plan diss, am halwer siewe ze kumme, wann m'r uf sechts b’stellt wurd. M’r kummt jo an ken And!</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Exküse Herr Maire — ich hab noch schnell e Paar Schueh ferti muen mache. <stage>(setzt sich an seinen Platz, vorn am Tische links.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(durcheinander sprechend)</stage>
+          <p>Ju, ju — war’s gläubt ! Biem Kronewirt isch’r g’huckt !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt, steht auf)</stage>
+          <p>Rühe!! Ihr Harre, mir fange an; as sinn alli do. — D’r Adjunkt Sürkopf isch entschuldigt, ar isch uf’m Gericht, waje simm Prozass mit’m Wewerlanz. D’r Greffier, dem isch so arich huttlächt — ar hetts hingerschi un vierschi...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Dar hett äu alle bezitte ebs.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Na — ich üewernimm sin Ämtel einschtwille. <stage>(nimmt ein Schriftstück zur Hand, liest und notiert.)</stage></p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(zu Schollesepp)</stage>
+          <p>Was isch, Schollesepp, was mache eijeri Söij, duen-r-se ball metze ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(aufstehend)</stage>
+          <p>Wie sell ich mich ane setze ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Naan, bliewe doch! Ich maan — wenn’r d’Söij metze <stage>(markiert es)</stage> metze ? !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Galle ihr basse uf d’Kuttelsupp? Am nächschte Samschti !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Do sotte ihr emol mini Kalwe sahn — die macht sich ; — e Ütter hett-se, ich lüej nit, wie e Küewel. Wenn ich die uf d’Üsstellung mach, be- kumm ich sicher de erschte Pris.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(bissig)</stage>
+          <p>’s wurd nit so g’fährli sinn ; dinni Eier hann äu alli zwäi Dutter.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(utzend)</stage>
+          <p>Wäisch Matter, mini Küehj gehn nit an de Krucke — bie mir wurd nit g’spart am Fue- der, galle Schierejerry !</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju — ich sää a soviel — un a soviel derf m'r säuje... <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Zür Sache ! Ihr Harre, ich hab ejch z'samme kumme lonn <stage>(liest ein Schriftstück)</stage> „betreffs Besprechüng, wegen Einführung des elektrischen Licht’s“. — Hann’r mich verstange, Schollesepp ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Ja, ja, ganz genäu — ich höer schun e Zitt hare wieder ganz guet. — Ja, was füer e Licht isch ? War isch g’schtorwe ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Vun-ere Licht hett nieme geredt...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Doch, — ihr hann’s jo grad ewe gelase vun dare Licht, war isch gschtorwe ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Näin, ich hab g’säit : — „Einführung des elek- trischen Licht’s“ !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Hä ? ! Ihr rede ze liesli. Matter : Na, alle! <stage>(schreit)</stage> Vum elektrische Licht !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Dar isch däub wie e Drompeter-Sehimmel, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(verstehend)</stage>
+          <p>Ach, ’s elektrisch Licht. — Ja, was isch mit ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Do isch e Schriewes kumme vum Elektrisitäts- werk üss Strossburri, ob ünseri Gemäind nit äu ’s elektrisch Licht wott inrichte lonn, un ob...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(barsch unterbrechend)</stage>
+          <p>Mir hann’s bis jetzt gemacht ohne ’s elektrisch Licht, — — ich bin d’rgeje !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ich mäin, as wär awer gar nit schlacht, wann m'r die Sach in-ere andere Gemäind emol an daht sahn, wie sich’s macht, — no kennt m'r jo drüewer jügiere....</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ich hab kenn Zitt, erum ze läufe ; wann d'r Herr Maire Zitt hett, sell ar gehn, wäje dem bin ich doch directement d’rgeje ! Un wann...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(dazwischen rufend)</stage>
+          <p>Höhnisches Gelächter links! Hahaha!!!</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <p>Dü kannsch mir d'r Buckel nuf rutsche mit dim „Hahaha“. — Hesch e Wuet, dass ich d’Schuehj nit bie d'r mache loss ? !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ken Beleidigunge, Matter ! Ihr sinn wieder gifti hit; as kann doch jeder sini Mäinung säuje...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ich wäiss jo, ass ihr äu e Wuet hann üewer mich, will ich ken Kunschtmischt bie eijch b’stell.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Ah — will’rs grad vum Kunschtmischt hann, — ich bin racht zefriede mit ; grad ’s doppelt Frucht haw-ich gemacht wie sunscht Johre... Schierejerry, ihr sotte’s äu browiere mit, was mäine-n’r ?...</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… Ich sää nitt ’s Conträr — ich säu äu nit ’s Gejedäil — — awer ich mäin, e gueter, g’schmackichter Büüremischt vun ünserem Vieh, isch doch noch allewill ’s Bescht gewann.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Awer „'s Browiere geht üewer ’s Stüdiere“, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ich sää noch emol — ich kann eijch d'r Kunscht- mischt nit warm genuej an ’s Harz läje...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Zur Sache! — Mir hann Sitzung weje-nem elektrische Licht un nit weje-nem Kunschtmischt ! Maire : <stage>(zu Sohler)</stage> Do verstehn ihr jo nix d’rvun!... Also, ihr Harre, war will in Sache vum elektrische Licht ’s Wort zur Debatte ?</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(aufstehend)</stage>
+          <p>Ich, Herr Maire ! — Ihr Harre — mini Mäinung isch die, ― m'r do gar kenn grossi Mäinung brücht ze hann. — — Füer was brüche mir 's elektrisch Licht ? — Füer gar nix brüche mr’s!... Ünseri Grosseltere hann nix gewüesst vun dam elek- trische Licht un sie hann’s doch gemacht — ja! — Sie han änfach ihr Gängelöellampel branne g’hett un hann grad genuej g’sahne...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(schreit)</stage>
+          <p>Ja, grad genuej hann se g’sahne !!</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(spöttisch)</stage>
+          <p>Hört, hört — links!</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(zu Sohler)</stage>
+          <p>Was „hört, hört!“ — — Un mir alli, wie mir do sitze — mir sinn alli mit d'r Petrol- lamp ufgezöije worre un sinn gross un starik d’rbie — — Un ich hab erscht am letschte Herbscht in d'r Stadt inger d'r Erbseläub e Petrollamp käuft — die sott-n’r sahn! Ganz vergold un zuem nuff- un ra- ziche. — Ja, sahn’r, ihr Harre, die macht haller as ’s elektrisch Licht ; un wie se nimmi branne will, ze isch’s e Zäiche, ― kenn Petroll meh drinne isch — no macht mer frisch ning, drähjt de Wieche e bissel in d'’ Höeh, un sie brannt wieder glöeckelhall....</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>E racht geredt — e Müll hett’r wie e-n- Advokat.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(fortfahrend)</stage>
+          <p>Un drum, ihr Harre, isch mini Mäinung die Mäinung, ― mir kenn elektrisch Licht brüche. <stage>(setzt sich.)</stage></p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <stage>(aufstehend)</stage>
+          <p>Diss mäin ich äu!.... As isch nit viel wart, un alli neije Mode sinn nix nutz.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(ruft)</stage>
+          <p>Schollesepp ! Was mäine ihr d’rzü ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p> <stage>(ist eingenickt.)</stage> </p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(schlägt auf den Tisch)</stage>
+          <p>Hoppla !!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(erschreckt aufwachend)</stage>
+          <p>G’sündheit ! <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Wie isch eijeri Meinung — was hann ihr dran üszesetze ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Metze ? Am Samschti — ihr ware warte kenne !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(sehr laut)</stage>
+          <p>Ob ihr derfüer sinn, ass m'r ’s elek- trisch Licht nahme ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Näin, näin !... Ich brüch’s nit; ich höer doch nit vum Beschte, no brüch ich’s äu nit. <stage>(Ge- lächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Rühe ! — Un ihr Schierejerry ?</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… Einsteils bin ich jo d’rgeje — awer as kann jo äu ganz guet sinn, diss elektrisch Licht... as kann awer äu schlacht sinn ; ich hab ewe noch kenn’s g’sahne. Zuend mr’s dann äu mit Schwä- wehöelzle an ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Naan, naan, sinn ihr dumm! Do brücht m'r kaan Schwäwlhöelzle, — Sehn-r so geht’s — do owe hänkt jetz zuem Exempel e-n-elektrischi Lamp. <stage>(Alle schauen an die Decke ; Sohler geht an die Wand und zeigt es wie es gemacht wird.)</stage> Jetzt geht vun do d'r Droht mit’m Strom nuf an d' Lamp — do isch d'r Inschalter <stage>(zeigt es an der Wand.)</stage></p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Aha, ich versteh’s schun — do wurd in- g’schalte.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Jawohl. — Do isch jetz so e schwarzes Knepfel — wie ich no diss Knepfel rum drehj, no macht’s „Gräck“ — <stage>(alle erschrecken)</stage> un no brennt d' elek- trisch Lamp dort owe... <stage>(alle schauen starr in die Höhe)</stage>. Wie ich no diss Knepfel wieder rum drehj, no macht's wieder „Gräck“ <stage>(alle erschrecken wieder)</stage> un d' Lamp isch üss... so geht’s! <stage>(Geht an seinen Platz.)</stage> Ganz anfach, awer m'r muess’s verstehn.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… diss isch jo e räin’s Hexewärik, diss haw ich nit ’s Harz ze mache ; näin, näin !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p> <stage>(hat den Vorgang des Sohler verfolgt, steht jetzt auf, geht an die Wand und betrachtet die Stelle genau, wo Sohler den Einschalter zeigte, schaut in die Höhe, wo die Lampe hängen sollte, lässt sich von Aloys die Sache erklären und sitzt dann wieder an seinen Platz.)</stage> </p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(nachspottend)</stage>
+          <p>Nit 's Harz ze mache! — Do kann m'r sehn, wie daub ― ihr Büüre sinn.</p>
+        </sp>
+        <sp who="#_alli">
+          <speaker>Alli :</speaker>
+          <p><stage>(durcheinander)</stage> Oho ! Was säit dar ? Nüss mit’m ! Dü Haregeloffener !...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Was Hergeloffener ?!... Ich bin e Elsässer, verstande ! Minn’r Vatter isch üss d'r Pfalz un d' Mueder üss’m Badische — un ich bin in Strossburri uf d' Welt kumme. <stage>(Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Rühe !... Hann’r g’höert ? ! — Sohler, namme die Beleidigung zeruck, diss derfe-n-ihr nit säuje, ― m'r däuwi Büüre sinn.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>...Ich nemm’s zeruck, ich hab’s nit böes ge- maant... Awer ich bin derfor, ― mir ’s elektrisch Licht anschaffe, jawohl !... Denn hell müess es sinn uf d'r Welt, hell in dere Dunkelheit, wo d' Menschheit drinne rumm dappt... un hett nit unser Herrgott glich am erschte Daa g’saat : „Es werde Licht“. — Schint’s ― er’s au ing’sehn hett, ass ’s Licht ’s not- wendigscht isch uf d'r Welt... Un ihr alli sinn d'r- geje — geje Licht, geje Fortschritt un Helligkeit in unserem Ort, wo so e grossi Zuekunft hett... Jawohl — — — Un noch e Punkt, wie ich eijch druf hinwiese will... Die in Untermatte lonn’s au in- richte; no sinn se uns voran, un unseri Gemeind leijt im Dunkle un versumpft un d' Untermatter lache uns üss... diss saa ich, d'r Sohler, vun d'r Opposi- tionspartej ! <stage>(setzt sich stolz.)</stage></p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(wütend)</stage>
+          <p>Was?! d' Untermatter bekumme’s äu?!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p>d' Untermatter ? !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Isch diss wohr; Sohler ? Diss isch nit mejli !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Un doch isch’s mejli. D’r Möischele hett mr’s g' saat. <stage>(jüdisch redend)</stage> „Oser, hott’r gsaat, d' Unter- matter bekumme ’s Elektrisch ingerischt üss Stross- burri. Sie nemme’s numme for d’Owermatter ze fuxe."</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(durcheinander)</stage>
+          <p>Oho ! Füer uns ze fuxe ! Denne welle mr’s zäije ! Mir wele’s äu, grad ze läid ! Grad ze läid !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(erregt aufstehend)</stage>
+          <p>Herr Maire, ich bitt um’s Wort! Ihr Harre, mini Mäinung isch die, dass ’s elektrisch Licht gar nit ze verachte-n-isch ... dann, wann’s isch, wie d'r Sohler säit, ze isch’s am And doch besser wie e Petrollamp ; dann wann e Petrollamp nit alle Däuj gebutzt wurd un de Wieche abg’schnitte, ze räucht se un stinkt ! — Um wenn’s d' Untermatter namme, muen mir’s äu hann, diss isch mini Mäinung ! <stage>(setzt sich)</stage>.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Bravo !! Beifall links !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ich bin ganz ingverstange mit dam was d'r Gros- hans g’säit hett — un ihr Matter ?</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ich bin ganz vun sinere Mäinung ; mir müen’s hann waje de Untermatter, dann wann die’s erfahre, gehn se vor Wüet an de glatte Wänd nuf.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Die gehn vor Wuet an de Wänd nuf.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… wisse-n-r', ich wäiss jo nix d'r- geje ze säuje — awer wann’s d' Untermatter nahme un ken Ängschte hann, no isch’s äu ken Haxewärik un ich hab no äu kenn Ängschte derfüer.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>A la bonheur, Schierejerry ! Zustimmung links und im ganzen Haus! <stage>(alle geben Schierejerry ihre Zustimmung.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Wie ich üss eijere Rede, wie ihr do gered hann, vernumme hab, sinn ihr alli derfüer, dass mir ’s elektrische Licht inrichte Ionn un ich loss jetz drüewer abstimme. — Wecke m'r z’erscht noch de Schollesepp, dar schloft schun wieder.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(rufen)</stage>
+          <p>Schollesepp !!...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(aufwachend)</stage>
+          <p>Ei jo... am Samschti wurd gemetzt. <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Also... ihr Harre, war d’rfüer isch, füer ’s elek- trisch Licht, dar lüepft d' Hand in d' Heh, war d’rgeje isch... losst se drunte.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p> <stage>(bis auf Sohler heben die Hand in die Höhe.)</stage> </p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p> <stage>(schaut auf die andern, hält dann zwei Finger, wie zum schwören, in die Höhe.)</stage> </p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Schollesepp ihr brüche nit ze schwöere, m'r gläuwe’s doch... <stage>(Gelächter)</stage> Ja — Sohler, wie isch’s ? !... Sieh ich racht ?... Ihr sinn d’rgeje ? !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Jawohl!... Wenn alli d'rfor sinn — müess ich d’rgeje sinn ; ich bin d’Oppositionspartei. Ich hab mine Wähler Opposition versproche... also bin ich d’rgeje.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p> <stage>(lachen ihn aus.)</stage> </p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Rühe !... Ihr Harre ! Das elektrische Licht für die Gemeinde Obermatten ist mit fünf gegen eine Stimme angenommen. — Vielmols merci, ihr Harre !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(ausser Sohler)</stage>
+          <p>Bravo!! So isch’s racht, jetz bekumme m'r ’s elektrisch Licht !...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Beifall im Zentrum !... Zischen links ! <stage>(zischt.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(ernst)</stage>
+          <p>Sohler, lonn die dumme Plän unterwäjs-</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Was ? ! Dumme Plän ? In d'r Kammer mache’s vornehmeri Herre wie ich — — un im Name vun d'r Oppositionspartej proteschtir ich geje denne Ord- nungsruef vum Herr Maire !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Ihr sinn do nit in d'r Kammer — ihr sin do im Gemäinderot von Owermatte un do isch Ordnung, verstange !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Dü hesch din Müll ze halte, sunsch fliejt d’ganz Oppositionspartej zuem Tampel nüss !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(stülpt die Ärmel hoch, steht auf)</stage>
+          <p>War kummt nüss ?....</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <stage>(drückt ihn nieder)</stage>
+          <p>Ju, ju Sepp, sitze doch, as isch nix — d'r Sohler dischpetiert als weje- nem elektrische Licht.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp:</speaker>
+          <p>Was?! Dar Bächknippe... mir brüche kenn elektrisch Licht !! Guet — jetz bekummt ar äu kenn Kuttelsupp am Samschti...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Rühe ! Also, as isch jetz b’schlosseni Sach, dass m'r ’s elektrisch Licht nahme — jetz kenne-m’r glich drüewer verhandle, wieviel Lampe ass m'r brüche un wie m'r se verdäile... <stage>(nimmt das Schriftstück und schaut nach)</stage> do häisst’s jetzt : „für ein Dorf in der Grösse wie Obermatten genügen 50 Lampen vollständig“. .....</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(unterbrechend)</stage>
+          <p>49 lange äu !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Wie kenne dann ihr diss wisse ? Ich denk bis mir üewerall hall hann, ze sinn 50 Lampe nit ze viel.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>In erschter Linie stell ich d'r Anträuj, dass jeder vun de Gemäinderotsharre eini an’s Hüs be- kummt.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Hört, hört !...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>D’ Lampe wäre e so verdäilt, ass üewerall hall isch, kem züe Lieb un kem züe Leid... ich dank e so... alle ebbene 150 bis 200 Meter e Lamp. — — Am Märikplatz müen-m’r e Stücker 4 hann, — e Stücker 8 in d'r Kirich, 2 vorne am Ingang un 6 inne- wändi....</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>In d'r Kirich brüche-m’r kenn Lampe, m'r halt d' Kirich am Daa — wenn’s hell isch.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>So — ja un d' Chrischtmette, halt m'r die äu am Däuj ab?! — Un d' Oweandachte ? — Es bliet bie denne 8 Lampe. — D’r Harr Pfarrer müess 5 Lampe hann... 1 im Ass’zimmer. 1 im Stüdierzimmer, 1 in d'r Küeche, 1 im Framdezimmer un 1 im Schlof- Zimmer ....</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Im Schlofzimmer brücht’r kenni — z’nachts schloft m'r.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Lonn die Redensarte. — Im Herr Lehrer müen m'r äu ebbene 4 Lampe gänn....</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(unterbrechend)</stage>
+          <p>Do bin ich directement d'r- geje... ar hett-m’r äu mine Naz’l verhäuje, ass ar ganzi Relle hinte hett g’hett...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ar wurd se verdient hann...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(wichtig)</stage>
+          <p>Herr Maire, ich bitt um’s Wort!... Eins ihr Litt kommt mir jetz ing, eb m'r d' Lampe verdäile un drüewer dischpetiere, ob m'r 49 oder 50 brüche... Wie dihr kommt die Sach ? — Galle, do hett noch kenner dran gedankt?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Was nit... Grad hab ich die Fröij au welle stelle.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(zu Sohler)</stage>
+          <p>Ass ihr allewill eijer Müll vorne dran müen hann.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… Wann’r e Fräu hatt wie mini, war ar äu düssma. <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(schaut im Schriftstück nach)</stage>
+          <p>Noch dam, was die do schriewe, koscht’s jährlich ebbene 800 Mark.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(erstaunt)</stage>
+          <p>„800 Mark ! !“</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <p>Was?! Diss sinn jo jährlich 1000 livres !! As isch ze viel! Wie selle mir’s Gald hare namme ?</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Mir war's jüscht nit waje-nem Gald... awer d' Gemäind isch arm ; — köennte sie’s nit füer ebbene 200 Mark mache ? !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(spottend)</stage>
+          <p>Jo, worum nit, sie mache’s eijch noch umesunscht. Ihr Büüre sinn jo rich genue, ihr kene’s bezahle....</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Sunsch hätte-m’r nix ze dhuen.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Mir müen genuej Styre un Abgawe bezahle... <stage>(zu Sohler)</stage> ar kämt jo guet d’rvun, ar hett nix. Sohler : <stage>(wütend)</stage> Diss gitt eijch nix an, eich bin ich nix schuldi, verstande !.... Awer diss isch d' Politik vun eijch Agrarier un Grossgrundb'sitzer, d' Styre un Abgawe uf d' Schultere vum arme Arweiter abze- wälze... Bravo links !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Sohler, ich lied nit, dass ihr so staatsg’fahr- lichi Redesarte füere...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(ohne Sohler)</stage>
+          <p>Racht so, Herr Maire !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ihr Harre, mir hann ’s elektrisch Licht ange- numme, jetz müen m'r äu ’s Gald derfüer hare schaffe .....</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ja, ja, war d' Gäis annimmt, müess se äu hüete, wie zäller g’säit hett.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Aloys, halte ’s Müll, wann ich red... Aloys : Ich halt’s jo, Harr Maire — awer ich mäin doch...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ihr selle nit dring rede, sää ich noch-e-mol ! Aloys: <stage>(geht murrend hinaus.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(weiterfahrend)</stage>
+          <p>Die Sach isch jo nit so schlimm un so arm isch ünseri Gemäind äu nit... un bedanke, as wär e grosser, Vortäil... e grosser Vortäil füer ünseri Gemäind. — Un so guet wie d' Untermatter kennte mir’s äu bezahle... zuem Bäischpiel wie’s anderi Gemäinde äu mache, mit Züeschlöijs- pfänni...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(unterbrechend)</stage>
+          <p>Näin, näin — nurre kenn Züe- schlöijspfenni !!!</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(schreit)</stage>
+          <p>Ehnder welle-mr’s Elektrisch nit !.. D’ Untermatter selle Schulde mache ...</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Minere Mäinung noch brüche mir de Unter- matter nitt alles noch ze mache... ünseri Gemäind kann's äu ohne ’s Elektrisch mache un wann d'r Mond schient, isch so wie so hall — nit Schierejerry ?</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… nit — ich sää halt eso : „G’spart isch g’spart !“... Ich hab nit gedankt, ass’s so viel koscht.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Hört, hört, links! Ja — wenn’s an de Geld- sack geht, sinn se nitt ze hann.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Awer, awer — wie kann m'r numme so schnall d’Flint in’s Korn warfe!... Z’erscht mache-n’r e grosses G’schräij un sinn alli d’rfüer — jetz wie’s e paar Livres koscht, sinnr alli d’rgeje. Stimme m'r noch emol ab. — — —Schollesepp, welle-n’ihr ’s elek- trisch Licht oder welle-n-ihr's nit ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Ich hab jo schun emol g’säit ich bin d'r- geje... awer jetz mache ass’r ferti wäre, ich hab e läid’s Hunger.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Glich, Schollesepp.... also, ihr Harre... war isch d’rfüer?!... <stage>(Matter, Groshans, Schierejerry und Schollesepp sind dagegen und lassen die Hand un- ten)</stage> Nieme ? ! <stage>(Sohler hält nun die Hand hoch)</stage> Ah, ihr Sohler ! Ihr stimme jetzt d’rfüer ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Jawohl ! Wenn ihr alli d’rgeje sinn, no isch d' Oppositionspartej d’rfuer un mini Partej isch ein- stimmig for’s elektrisch Licht ! <stage>(Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt)</stage>
+          <p>Rühe ! — Lonn im Sohler sini Plä- sir !... Also, ihr Harre... as isch abgemacht, ünser Ort bekummt ’s elektrisch Licht nit. Jetz sinn m'r grad sowit wie im Anfang un war diss ganz Gebab- bels nit notwandi gewann.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Pfuirufe, links — Pfui !!...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(schreit)</stage>
+          <p>Bezahl doch dü’s!! <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>D’ Oppositionspartej sell’s bezahle !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Ihr kenne mir gratis de Buckel nuf rutsche un franko runter — voilà !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(ausser Maire)</stage>
+          <p>Oho ! Schmisse-ne nüss ! ! <stage>(Grosser Tumult.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(klingelt vergebens um Ruhe)</stage>
+          <p>Rühe! Ihr selle ruehj sinn oder ich heb d' Sitzung uf, hann’r g’höert !!</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(kommt mit einem Brief herein)</stage>
+          <p>A Brief... füer de Harr Maire mit-eme framde Täber drowe...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Gann hare, Aloys ! <stage>(Geht vom Tisch weg, öffnet den Brief, liest interessiert.)</stage></p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(zu Groshans)</stage>
+          <p>A Brief mit-eme fremde Täber — wie kann dar hare sinn ?</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Wunderfitzi bin i nit grod, awer ich dhät’s doch gare wisse.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju — nit! Was m'r nit wäiss, kann m'r nitt wisse... nit?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(zu Aloys)</stage>
+          <p>Ich will numme sahn, wie viel ass die Söij wiegt... so ebbene zwäi Zentner alle- waj ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Minere Schätzung noch hett se ehnder meh...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Wisse-n’r was ?... Was se meh hett wie zwei Zentner, gänn’r mir, hä?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Dar isch äu net latz verrisse, awer böes ze flicke, wie zaller g’säit hett. <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(kommt an den Tisch, freudig erregt)</stage>
+          <p>Ihr Harre, e grossi surprise ! Dar Brief isch üs Amerika vum mim Cousin Antoine — wisse-n’r vom Schnell Antoine, wie zallemols uf Amerika isch!...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(Zwischenrufe)</stage>
+          <p>Ju! Vum Antoine ?! Harrjeh ! Isch mejli ? :</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Es sinn jetzt 30 Johr hare... ar schriebt do: „Ass’r kumme will, in sini Häimet... ar will sich doch e Hüs böije un d'r Gemäind viel Guet’s mache... ar isch so arrich rich — in 30 Däj, diss isch am 13. Mai, isch’r do,“ schribt’r ..... Näin, was e Pläsir !... 30 Johr haw ich ’ne nimmi g’sahne... Ar isch doch e gueter Mansch, wann’r äu in sine junge Johre e bissel licht- sinni isch gewann.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(durcheinander)</stage>
+          <p>Ja, d'r Antoine ! Do kann m'r sahn ! Un rich isch’r ! Un böije will’r äu ?!</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Mir gedankt’s noch ganz guet wie’r z'sallemols, furt isch, wie’r alles verjübelt hett g’hett... un zitter hett m'r nix meh vum g’höert.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ar isch verzöije worre als junger Bue schun.... Sinn Vater, min Schwöijer sali, hett viel Gald anne kehrt, ar hett ebs üss’m welle mache... Ar isch ’s änzig King gewann, no hettr eb’s Hoch’s selle wäre... Awer ar isch lichtsinni gewann un d' Mue- der...nit, wie’s als geht... hett'm hinterwärts noch züeg’stopft was se kennt hett... un wie no sini Eltere schnall hinterenand g’storwe sinn, isch nimmi viel do gewann.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… ich wäiss... as isch no schnall barri-ab gange.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ja — — d'r Antoine hett no alles verstäije lonn, het noch e zittlang guet gelabt vun dam Gald un am e schöene Däuj isch’r furt... Na, ar isch nit ver- dorwe, ar hett noch e gueter Karne in sich g’hett... ar isch halt verzöije gewann, schint’s in Amerika isch’r andersch worre... un e haller Kopf isch’r jo gewann un jetz hett’r sinn Glüeck gemacht drüewe... ar schriebt vun zwäij Millione...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(erstaunt)</stage>
+          <p>Zwäij Millione !!!</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Hardeckel, was e Hüffe!... Diss langt füer Hosse un Gilet, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Jaa — d'r Antoine! Ich bin mitm in d'r Muschterung gewann — ar isch freij worre... mir hann eb’s Sträich geliefert mitnand... ar isch e lusch- tiger Kamerad gewann — un jetz isch’r so arrich rich ? Na, as g’schied-em racht !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ar hett awer allewil vun dam Amerika ge- babbelt, diss isch’m allewill im Schädel g'stackt... Mir hann’em nurre noch „D’r Amerikaner“ gsäit... Na, jetz isch’r jo e'n „Amerikaner“.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p>„D’r Amerikaner“ !!</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <stage>(steht auf)</stage>
+          <p>Herr Maire... <stage>(zieht an der Pfeife)</stage> ich hab... e Idee! — Dr. Antoine schriebt do in sim Brief... ar will d'r Gemäind viel Guet’s dhuen... Jetz hab ich e Idee!... Ihr Harre, was mäine-n’r dezüe ?!... Galle do spanne-n’r, ass ich so e Idee im Schädel hab... ich mäin... wann jetz d'r „Amerikaner“ ’s elektrisch Licht bezahle d’hat ? !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p>Bravo !! D’r Schierejerry hett racht ! Ihr hann de Fade !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Schierejerry, dü bisch e Kaib... Als Ameri- kaner wurd ar ’s Licht äu welle — no sell-r’s äu be- zahle, ar hett Gald genuej !...</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Un hündert... näin, an jed’s Hüs muess e Lamp ... un natti Lampe, uf de höechschte Mode, mit goldiche Knepfle züem „Gräck“ mache.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Grosser Beifall links !... Mini Partej hett nix d’rgeje inzewende.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(ironisch)</stage>
+          <p>Diss fräit inich jetz üngemäin, dass d' Opposition äu d’rfür isch, wann’s nix koscht!...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>A Dünderwatter, isch ball ferti !... Ich hab jetz äu noch Durscht zue mim Hunger !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ihr Harre... ich find denne Vorschläuj vum Schierejerry ganz güet un ich gläub, ass d'r Antoine, oder wie ihr ’ne getäift hann, d'r „Amerikaner“... ’s elektrisch Licht bezahle wurd. Wann mir’s-em racht an ’s Harz läije, ze wurd’s-em schun ninläichte un ar wurd die paar Livres gare bezahle... Un m'r welle Schluss mache !... Drum ihr Harre, war isch d’rfüer, ass d'r Amerikaner ’s elektrisch Licht bezahle derf?!...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p><stage>(bis auf Schierejerry, Hand hoch)</stage>.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>A Moment ..... bis mini Pfiff brannt. <stage>(zün- det die Pfeife umständlich an, löscht das Schwefel- holz)</stage> So, jetz hett’s-es !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Also, noch-emol... Sinn ihr alli d’rfüer, ass d'r Amerikaner ’s Elektrisch bezahle derf ? ! Matter, Schierejerry, Groshans, Sohler : Ich bin d’rfüer, un ich, ich äu !!... <stage>(Alle stehen auf)</stage>.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(schaut auf die andern ; sobald alle auf- stehen, steht er auch auf, setzt seinen Hut auf und geht ab, indem er sagt)</stage>
+          <p>Adjeh... Guete Appedit !! Vorhang fällt rasch. Bühnen- und Personenbeschreibung im 2. Aufzug. Die Bühne stellt vor : Wohnzimmer beim Maire. Rechts und links eine Tür. Türe links führt auf eine Strasse, die rechts in den Hof und in die Küche usw. Rechts vorn steht ein viereckiger Bauerntisch mit Stühlen, an der Wand vorn rechts ein Lehnstuhl. An der hinteren Wand steht ein Kachelofen, sowie Baenke, an den Wenden Bilder usw. Maire, sonntaeglich gekleidet, dunkle, geblümte Weste, langer Bauernfrack, weisser Leinenkragen mit schwarzer Hals- binde, runder Bauernhut. Aloys, wie im ersten Aufzug. Gemeinderatsherren, wie im ersten Aufzug. Streifer, grauer Zylinder, langer, brauner Reisemantel, hoher Stehkragen, Sammthosen ; glattes Gesicht mit Eng- lænder-Backenbart, helle Handschuhe, etwa 40 Jahre, graue Perücke. Klüwer, als Neger, schwarze Hosen mit Silberstreifen, Dienerlivré mit Mütze, traegt eine kleine Reisetasche oder Koffer, etwa 40 Jahre alt. Die Conscrits, weisse Hosen, rote Weste, Bauernfrack, runde Bauernhüte mit Straeusschen und Baendern verziert.</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> 2. Aufzug. </head>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(etwas aufgeregt)</stage>
+          <p>Alleh, alleh, Aloys, schicke- n-eijch e bissel. — — So — also, ich geh jetzt uf d' Mairie — — ich kumm soball wie mejli. Wann zitter d'r Amerikaner, d'r Antoine, kumme sott, ze säuje-n’r ich bin uf d'r Mairie, as isch Generalmuschterung ... un hole glich e Krichel Win eruf un ebs ze-n-asse — hann’r g’höert ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>As wurd b’sorijt, Harr Maire, nit ’s Dipfele vum „i“ derf fahle, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Haw-i äu alles ? !— Ja — halt ! Noch d' Schärp .. Aloys : <stage>(rechts abgehend)</stage> Ich lang se — e Momant .....</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Hitt kummt'r jetzt as isch d'r 13. Mai — — ar hett e Depesch g’schickt, ass’r guet in Cherbourg an- kumme isch un in drej Däij, diss wär hitt — isch’r do. Ich will numme sahne, wie’r üssicht... ich kann m'r ne nimm racht vorstelle. <stage>(ruft)</stage> Aloys!... Ei, ei, Aloys ! !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(kommt von rechts, die Schärpe in Papier ein- gewickelt)</stage>
+          <p>Do...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Was kumme-nr dann solang nit, sell m'r dann hündertmol rüefe ? <stage>(nimmt die Schärpe, steckt sie in die Tasche.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Abah, e Stüecker drejmol langt’s schun ..... <stage>(Man hört Musik durchziehen ; die Conskrits singen und jauchzen.)</stage> D’ Conskrits gehn schun uf d' Mairie ! <stage>(schaut zum Fenster hinaus.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ich geh jetz — as isch höechschti Zitt; ihr mache wie g’säit, Aloys! <stage>(geht zur Türe rechts hi- naus, kummt schnell zurück)</stage> Halt!, d'r Huet — Aloys, hopp, hopp, hopp !...</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(reicht dem Maire den Hut, Maire eilt ab)</stage>
+          <p>Numme nit gejäscht un hopp hopp gemacht, wie zaller g’säit hett... Diss wurd m'r a Trafari gann mit dam Amerikaner ; do wurd g’sotte un gebache... will’r Gald hett. Wann’r e armer Deifel war, dhat ’ne kenn Mansch angücke ..... Mir kann’s egal sinn ; hoffentlich fällt äu ebs ab für mich un diss isch d' Häuptsach, dass d' Häuptsach d' Häuptsach isch, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <stage>(kommt von links)</stage>
+          <p>Bonjour Aloys ! Isch d'r Harr Maire schun furt ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Grad isch'r nüss, Harr Adjunkt... was hann’r mitm gewellt ?</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Ich hab'ne ebs welle fröje.... Mäine-nr, fahrt m'r d'r Länzmichel mit'm rachtse... näin, mit'm linkse Hinterrad so viel <stage>(zeigt es mit dem Stock auf dem Boden)</stage> üewer mini Matt, d’hinge im Stäinköepfel — un ar hett Platz genuej, awer ar labt m'r ze läid... Diss gitt a Prozass, ich will’s-m zäije dam Niss- kräuje !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Waje dam welle-nr prozasse ? Ihr hann jo erscht de letschte Prozass geje de Wewer verlore!...</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Was häisst verlore ?! Minn’r Advokat isch nix gewann. — Na, as macht nix, ich nimm e-n-andere un diss mit dare Matt, diss gitt e neijer Prozass ; danne gewinn ich ! Ihr sinn m'r e'gueter Zeje !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(erstaunt)</stage>
+          <p>Ich,! Ja, ich hab jo nix g’höert un nix g’sahne!....</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>’s hett nix ze säuje, eijch haw-ich’s z’erscht g’säit... Was ich säuje will... hett d'r Harr Maire denne Säildänzer Parmission gann füer am Sunnti ze spiele,</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Näin — mir hann genuej Amüsement im Dorf. Mir hann jo erscht die Wuch e Mondfinschternis g’hett, jetz morje schun wieder d' Säildänzler ? ! Näin, näin ! Wie geht's, Harr Adjunkt? Was macht d' Gsundhäit ?</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>As gang sowit... wann-i numme diss kaiwe Stache nitt hatt im Kriz un diss Risse in de Wade un diss Jucke in de Ärm, gar nix hatt'i ze kläuje ..... nurre mit'm Appedit bin ich nit racht zefriede.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Oho! D'r Appedit fahlt ? — Do isch böes Mahl an de Knepfle, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Sahn’r Aloys, vor'm Zmiddäujasse haw-ich do, <stage>(zeigt es)</stage> do im Mäuje so e G’füehl — grad ass wann ich nix drinne hatt. Ess ich no numme zwäi Taller voll Supp, a Taller voll Gemües — un numme so e Stüeckele Brotwurscht... no isch d'r Appedit ewack... wie ich g’asse hab, haw-ich’s im Mäuje....</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Gehn doch emol zuem Schlofer ... nutzt’s nix, ze schad’s nix, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Erscht noch, diss will ich mache... Do hann’r e Bries !... Adje Aloys, ich kumm später noch emol — ich will uf Bischwiller fahre e Häizel käufe. <stage>(links ab.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Un ich will de Hoft propper mache, ass alles in Ordnung isch, wann d'r Amerikaner kummt. <stage>(ab rechts. Die Bühne bleibt eine Weile leer. Dann kom- men von links zwei Personen hereingeschlichen, schauen sich vorsichtig um ; es ist Streifer und Klü- wer in der angegebenen Kleidung.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Es isch nieme do. <stage>(lacht)</stage> Diss hann m'r fein gemächelt, — Awer jetz frech wie Oskar! Ich bin d'r... na wie heiss ich wieder ? <stage>(schaut im Notiz- buch, welches er aus der Tasche seines Überziehers hervorzieht, nach ; in dieser Tasche hat er auch seine übrigen Papiere)</stage> Also ich heiss : „Antoine Schnell“, uf amerikanisch „Mister Snell“... Dü bisch minr Domestique un heisch „Wambo“!.... Hahaha!! pst, nit so lütt !...</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Mansch wie d'r Monsieur Schnell geluejt hett, wie er ufgewacht isch im Wartsaal in Strossburri un hett kan Geld, kan Kuffer un kan Bardessü meh... hahaha !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Was schloft er au, wenn mir um de Wäj sinn... Schad, dass’r nit meh Geld bie sich hett g’hett... 120 Franke isch’nit d’rwärt...</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>D’ riche Litt hann alli ihri Scheckbüecher, no hole sie uf d'r Bank, was sie ung’fähr brüche. Uf was füer e Bank hett denn d'r Schnell sinn Geld ze hole ? Luej emol im Scheckbuech.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(zieht das Scheckbuch aus der Tasche)</stage>
+          <p>Uf d'r Bank d’Alsace-Lorraine... ei, ei, ei, do kenne m'r kan Geld hole, sunsch sinn m'r glich gepäckelt...</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Na, es isch doch guet, ass d'r Schnell in sinn Notizbüechel alles ufnotiert hett, was m'r wisse müen; ass er vun Amerika kummt, üss Chigago — dass er zu sim Cousin will, wo Maire isch in Obermatte usw. Wie heisst d'r Maire ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(schaut im Notizbuch)</stage>
+          <p>Schakob Ürbach... Also, unser Plan isch jetz so: Ich bin d'r Antoine Schnell, dü bisch miner Domestique Wambo... mir spiele jetzt d' Roll vum rechte Antoine Schnell, wo zuem Maire kumme will... no spio- niere m'r üss, wo d'r Maire sinn Geld hett... lonn’s uns do guet schmecke un morje bie d'r erschte beschte Geläjehäit gramse m'r im Maire sinn Geld un ver- dufte — un wenn d'r recht Amerikaner kummt, sinn m'r üewer alli Berri. Nurre guet acht genn un nit verbabbelt....</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Nurre kan Angscht, diss b’sorrisch dü, dü hesch e besseri Schnuffel wie ich, Dü müesch die Litt so verkohle un verschwindle, ass sie gar nit zur B’sin- nung kumme.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(lachend)</stage>
+          <p>Ich verzähl ’ne als vun Amerika — — ich redd ganz langsam elsässisch, mit e paar Brocke englisch... Sig’sch, so red ich: <stage>(spricht langsam mit fremdem Accent)</stage> „Yes... wie geht mini gueti Cousin Schakob“ — un dü kannsch au e bissel ditsch un no kannsch negerisch babble was de witt, es versteht’s jo niemes. <stage>(lachen)</stage>.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Diss wurd gelunge!... Pst!... Ich man es kummt ebber. <stage>(Sie stellen sich an die Türe, Streifer vor Klüwer.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(von rechts)</stage>
+          <p>Ich hab ebber g’höert! <stage>(sieht Streifer)</stage> Ah... Bonjour im Harre! <stage>(putzt sich die Hände an den Hosen ab.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>All right !... Komm an miner Herz, Cousin !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(sieht den Neger)</stage>
+          <p>Harrjeh ! E Teifel! Halfe !..</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Oh — er macht dir nix, es isch jo e Neger... es isch mini Domestique Wambo...</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Macht’r nix? Uf Ehr un Gewisse ?!</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Uf Ehr un Gewisse, yes !... Un jetz loss dich umarme. <stage>(umarmt und küsst Aloys ; für sich spre- chend)</stage> Pfui Deifel, stinkt der noch’m Kühstall ! <stage>(laut)</stage> Wie geht’s dir allewill, Cousin ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Cousin ? ! Öha Mann, ihr sinn latz !... Ihr sinn doch d'r Antoine, d'r Amerikaner, wie hitt kumme sell ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes, der bin ich!... Kännsch dini Cousin glauwi nimmi ?....</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Yes... das sein Mister Snell, ich seine Do- mestique Wambo !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Ja — d'r Harr Maire isch nit do, ar kummt glich, ich bin d'r Aloys — im Maire sini racht Hand, wie zaller g'säit hett.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(leise zu Klüwer)</stage>
+          <p>Do hann m'r uns ani ge- wunke <stage>(laut)</stage> Ah... ihr sinn d'r Aloys... frejt mich ass ihr sinn Aloys !... Was macht d'r Herr Maire... wo isch’r ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ar isch uf d'r Mairie, ar kummt hall... Awer namme Platz... was welle-nr asse ? Warte ich hol emol e Krichel Win eruf !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Denk you... pressiert nit... Aloys höere emol! <stage>(lauernd)</stage> Weiss d'r Herr Maire, ass ich kumm ?... Wisse’s au Litt im Dorf ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ja, ja, d'r Harr Maire basst mit Schmarze uf eizch un’s ganze Dorf isch rewalisch.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>So, so... wer hett denn g’saat, ass ich hitt kumm ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Ihr sinn jetz g’spassi... ihr hann e Depesch g’schickt !...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ah ja, yes — stimmt... un was macht im Herr Maire sinni Fräu ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Die isch vor 5 Johr g’storwe — ar het nieme meh im Hüs as mich un d' Köche.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Diss isch famos !... Äh, ich hab welle saue.. es isch schad füer die schöen, guet Frau... un d'r Herr Maire isch rich ? Hett viel Geld ?...</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Äu noch, ebber Gald hett ! Gar dato hett’r viel im Hüs, ar hett 80 Ohme alter Win verkäuft d’letscht Wuch un ’s Gald vum Kunschtmischt, wie’r verkäuft hett, hett-r äu do.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(bliekt verstohlen auf Klüwer, leise)</stage>
+          <p>Diss isch g’fitzt. <stage>(laut)</stage> Ja... hann ihr kenn Ängschte mit so viel Geld in d'r Hüs? In Amerika wär diss nit sicher ! Aloys : Jo, Ängschte, vor wam ? ! <stage>(lachend)</stage> Vor Eijch, hahaha !.... Näin, näin.... Z’erscht müesch wisse, wie huckt, wie zaller g’säit hett !... Ar hett’s guet ing’schlosse im Sekretär, in d'r zwäite Schüblad rachts — hahaha !!</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>No isch guet... Do Aloys, hann’r au e kleiner Trinkgeld... <stage>(gibt ihm ein 20 Frankenstück)</stage>.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(hält die Hand hin)</stage>
+          <p>Näin, näin, ’s isch gare g'schahn....20 Franke !...As isch ze viel.. <stage>(steckt es in die Tasche)</stage> Diss kann i nit annahme... Klüwer : O yes! Mister Snell, sehr gute Herr — hat so viel Geld.... wülle, wülle quack !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(kommt eilig von rechts)</stage>
+          <p>Ah — Antoine !... <stage>(stutzt)</stage> Ja, bisch’s oder bisch’s nit ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(für sich)</stage>
+          <p>Jetzt frech ! <stage>(laut)</stage> Doch, Schakob, ich bin’s! — — Un dü bisch d'r Schakob ! Kumm an mini Herz min Liewer... <stage>(umarmt ihn.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Herzlich Willkumme in d'r Häimet ..... <stage>(betrach- tet Streifer)</stage> Dü sellsch dich nit verändert hann, ich hätt dich nimmi erkannt... Awer jetz nimm Platz ! Aloys, schnall Win g’holt un e Mumpfel eb’s ze asse. War isch dann diss, wie do bie d'r hesch, e Neger ? <stage>(Aloys rechts ab.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes... diss isch miner Domestique Wambo... Wambo mach dini Komplimento !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(macht einen tiefen Bückling)</stage>
+          <p>Tsching-ko, ging-ko Wambo !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(lachend)</stage>
+          <p>Bonjour Wambo rataschinko. — Diss isch e gelungener Burscht... awer nahme Platz... Do Antoine... do setz dich hare in de Lahnstuehl, wie als d'r alt Ürbachvatter schun drinne isch g’sasse, — Alleh, Wambo, setz dich... <stage>(Streifer setzt sich an den Tisch an die Ecke rechts, ganz vorn, Klüwer hinter ihn.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p> <stage>(kommt mit einem geblumten Kruge mit Wein und einem Tablett mit Kuchen, welchen er in Stücke schneidet.)</stage> </p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(einschenkend)</stage>
+          <p>So, jetz welle m'r emol G’sünd- häit trinke — Gsündhäit!! <stage>(trinken)</stage> Un jetz welle m'r verzehle ..... dann mir wäre viel ze rede han mit- nand... Wie bisch dann dü nüewer kumme uf Amerika ? Streifer : O... wie bin ich nüewer kumme !... Wie alli... uf'm Schiff, yes ! Matter, Groshans, Schierejerry : <stage>(kommen von links)</stage> Isch d'r Antoine do ? <stage>(Setzt kommen noch einige Bauern, alle stehen an der Türe herum)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>kumme ering... do isch d'r Antoine !</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Diss sell’r sinn ?! Dar isch awer ver- ändert !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>S’isch nit mejli — gar ken bissel Ahnlichkäit meh !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Diss esch d'r Antoine nit, d'r Harr Maire will üns äini nüewerstelle !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(hatte sich hinter Streifer versteckt, steht nun auf, schneidet eine Grimasse und macht gegen die Bauern)</stage>
+          <p>„Wö !“</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(sehr erschrocken)</stage>
+          <p>Jerum, a Schwarzer !! A Ka- minfajer !!</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Wambo, ruhig ! <stage>(steht auf)</stage> Nur ken Angscht, er macht nix, no...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Allehopp !... Matter ! Groshans ! Schierejerry ! ..... kumme hare un trinke äins G’sündhäit mit'm An- toine !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes — wo isch Matter ? <stage>(Matter geht zu Streifer, gibt ihm die Hand)</stage> Salü Matter, wie geht's ? ..... Un d'r Groshans ..... wo bisch alti Pflüm <stage>(geht auch zu ihm)</stage> un d'r Schierejerry ..... gieb mir au dini Hand, dü bisch allewill noch d'r namlich ..... un ihr anderi alli, All right ! <stage>(setzen sich an den Tisch)</stage>.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Müesch mir’s nit in Üewel nahme, ich hab dich nimmi kannt... ju, ju!</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Dü hesch äu so e veränderti Stimm !...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Diss isch mir äu glich ufg’falle !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes — glaub ich, dass ihr mich nimmi kenne... in Amerika verändert m'r sich kolosal... un ich bin schun 25 Johr furt...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>25 ?... näin 30 Johr sinn's schun !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(stupft Streifer, leise)</stage>
+          <p>Gieb doch acht !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes — schun 30 Johr! Wie d'r Zitt erum geht... m'r wurd so vergesslich in Amerika, well !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(welcher Streifer immer betrachtet)</stage>
+          <p>As will m'r nitt in de Schädel ning, ass dü d'r Antoine bisch... Dü glich’sch dir ken Bresele meh, dü hesch e ganz ander’s G’sicht !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ja — diss macht d'r Bart... Awer do, dass’r sehn, do sinn mini Babierer. <stage>(gibt ihnen seine Pa- piere.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p><stage>(gucken hinein)</stage>.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>D’r Geburtsschin, e Scheckbuech füer uf d' Bank d’Alsace-Lorraine... Ar isch’s !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Ja, ja, ar isch’s — kenn Zwiefel!...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(kommt von rechts)</stage>
+          <p>Bonjour la compagnie ! Do verzehle se im Dorf d'r „Amerikaner“ isch ankumme, tiens, wenn ich nit irr, ze sitzt’r dort <stage>(grüsst)</stage> Bon- jour, Monsieur Schnell... min’r Name isch Sohler, vun Beruf Schuhmacher, wenn sie eb’s brüche, ze kann ich mich ihne nurre empfehle. <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes, Mister Sohler — ich brüech sehr viel Schuehj un wur mich an Sie halte.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(serviert)</stage>
+          <p>Do, Antoine, nimm d'r e Stüeckel Kueche — numme nit scharniert... do nimm diss Stüeckel, as isch’s gröescht... Wambo, kannsch du auch Kuchen essen ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(nimmt gleich zwei Stücke)</stage>
+          <p>O yes, Wambo essen Kuchen, Fleisch, Feuer, Steine, alles !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(lachen)</stage>
+          <p>Dar isch guet halte... Guete Appedit !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(zu Streifer)</stage>
+          <p>Hesch denne üs Amerika mit- gebrocht ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes !... Ich hab’ne mit müen nehme, er hett’s nit andersch gedon... gell Wambo ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>O yes — Mister Snell sein sähr gute Herr zu arme Nigger, haut nicht mit Stock arme Wambo, sagt nur immer „Schafskopf“ — tut nicht.) weh ! <stage>(Ge- lächter)</stage>.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Antoine — isch wohr, ass äim in Amerika im Wald d’Affe Gockelsnusse uf de Schäddel schmisse ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes, ohne Paraplui kann m'r nit in de Wald gehn, no.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Jo — diss gläuwi jetz doch nit...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Doch, doch — isch wohr ! Gell Wambo ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>O yes, yes — Mister Snell kann nix lügen, ist so liebe, gute Herr !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Doch, Matter, es isch wohr, ich hab’s au schun gelese in de Büecher !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <stage>(kommt von links)</stage>
+          <p>Guete Däuj bienand.. isch wohr isch d'r Antoine do üss Amerika ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ja, ja — do isch’r !... Antoine, kannsch denne noch ? Dar isch doch mit d'r üss d'r Schuel komme !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(sehr verlegen)</stage>
+          <p>Yes, well... natirlich kenn ich ne noch !... D’r Name fahrt m'r im Müll erum, er heisst... na... Herrschaft .....</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(für sich)</stage>
+          <p>Jetzt sinn m'r verratzt !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>D'r Schollesepp isch’s doch !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(erleichtert)</stage>
+          <p>Yes ..... D'r Schollesepp isch’s jo... Ich wär nit um ’s Starwe uf de Name kumme. Bonjour Mister Schollé... All right!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>As raijt ?! Aba, kenn Gedanke... ’s schöenscht Watter isch. <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(zu Streifer)</stage>
+          <p>Müesch lütter rede, er höert üewel.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(lauter)</stage>
+          <p>Bonjour, Mister Schollé !... Wie geht’s, alter Schuelkamerad ?</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Po, as geht so... Vor 4 Woche hawi ge- metzt, a Söij vun 240 Pfünd... Un dir geht’s guet, wie ich siech, dü hesch d' Kuttlete im G’sicht hänke, ja, ja ! <stage>(Gelächter)</stage> Un d'r Sohler hett mir verzählt, ass de hitt kummsch, un ass de so viel Gald hesch un dü müesch dran gläuwe un müesch ’s elektrisch Licht bezahle. <stage>(setzt sich an den Tisch)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(für sich)</stage>
+          <p>Näin, so e Dolle! <stage>(Alle sind sehr verlegen)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Was meint’r do mit'm elektrische Licht ?... Schakob, was isch denn ? Red’ doch !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ai jo... ar wäis nit was’r babbelt — diss säit ar so üss sich... mir hann ’s elektrisch Licht welle inrichte lonn im Dorf... awer d’Gemäind isch arm...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ach, guet, ass ich’s weiss... ich bezahl’s... was koscht’s! Natirlich muess elektrisch Licht ins Dorf, koscht’s was will !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(sehr freudig)</stage>
+          <p>Bravo !... Merci, Antoine, jetzt isch Lawe !... Wann diss d' Untermatter erfahre !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Im Name vun dr Oppositionsparteij mine uf- gewärmschte Dank !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Antoine, dü duesch uns do e grosser G’falle — Im Name von d'r Gemäind vielmols merci ! G’sünd- häit ! <stage>(Alles stösst mit Streifer an.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Mache doch kenn so Lewesdaa... ich hab’s jo... un wenn diss uf isch, hole m'r neij's, well ! Maire : <stage>(gerührt)</stage> Mänsch, wann diss dinn’r Vatter sali sahn dat un d’Mueder... danksch noch an dini junge Johre ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Lonn m'r vergesse, was rum isch... ich red nit gern d’rvun, no, no.</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Jo, zaij verzähl eb’s vun Amerika... oder vum Meer !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes!... ja’s Meer isch furchtbar gross und nix wie Wasser, Wasser un Wasser.</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Brrr... seije m'r still, ze viel Wasser isch un- g’sund... trinke m'r liewer Win. <stage>(trinkt)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Wenn m'r no in Amerika ankummt, ze geht m'r e grossi breiti Stäij nuf, ganz üss wiss’m Marmor. Wenn m'r no recht’s in Amerika nin kommt, isch links glich e Hotel... do haw-ich glich d'r erschte Pudding g’esse.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Isch diss ebs guet’s, Pudding ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Anoch — zell will ich maane !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Ass dü diss schun wieder wäisch ..... hesch dann dü schun g’asse ? !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Naan, zell noch nit, awer gelese haw-ich’s. <stage>(Lachen.)</stage></p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <stage>(zu Streifer)</stage>
+          <p>Wie hesch’s dann ang’fange, ass de viel Gald verdient hesch ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>O diss isch in Amerika e Kleinigkeit, well... do leijt ’s Gald uf d'r Stross !</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Oho! zall gläuwi jetz doch nit !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(zu Streifer, leise)</stage>
+          <p>Lüej <stage>(lüge)</stage> doch nit so ! <stage>(laut zu den Bauern)</stage> Yes, Mister Snell sagt nur Wahr- heit... tut nix lügen.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ja, ihr Litt, ihr muen mich recht verstehn.... diss heisst, m'r muess wisse, wie m’rs anfangt. Z’erscht fangt m'r an als Schuehputzer...</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p><stage>(einfallend)</stage> Stimmt, diss haw-ich au schun gelese !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Awer diss isch mir ze dumm worre... Felix, haw-ich gedenkt, jetz duesch eb’s erfinde...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Felix ?... War isch diss ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ei, diss bin doch ich !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(stupft Streifer)</stage>
+          <p>Verbabbel dich doch nit !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ich hab welle sauwe „Antoine“, yes An- toine. No haw ich mich so anne g’stellt... <stage>(steht auf und legt den Finger an die Stirne)</stage> un hab simuliert un als simuliert... Groshanns : Was wohr isch... as derf äner kenn Simpel sinn in Amerika...</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju...ich war schun nix füer nüewer.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Maire:</speaker>
+          <stage>(zu Streifer)</stage>
+          <p>Halte-la! Was sieh ich? .... <stage>(Streifer und Klüwer erschrecken)</stage> Antoine, exküsier ass ich so vergasslich bin... awer s’isch d’Fräid ..... kumm zeij dich doch üss un mach dr’s bequam. Zeij d'r Bardessü üss un d' Schuehj... D’r Aloys sell e paar Schlappe lange vun mir.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(erschrocken zu Klüwer)</stage>
+          <p>Ich hab jokenn Strümpf an!... <stage>(laut zu Maire)</stage> No, no... as isch nit notwendich....</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Nix ze mache ! — Aloys hol d' Schlappe... un d'r Bardessü üssgezöije!... <stage>(Zwei Bauern wollen Streifer auf den Stuhl niederdrücken und den Über- zieher ausziehen.)</stage></p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(geht wütend gegen die Bauern)</stage>
+          <p>Wö!! <stage>(Die Bauern fahren erschrocken zurück)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Ihr muen mir’s nit in Üwel ufnehme ..... awer ich bin’s nit andersch gewohnt. In Amerika zejt m'r nix üss, m'r lejt sogar mit d'r Schuehj un mit'm Bardessü in’s Bett.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(schütteln die Köpfe)</stage>
+          <p>Diss isch echt amerikanisch. <stage>(Es ertönt von ferne Musik)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Was isch diss?... Müsik ? !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>O Musik ! — Wambo sein grosse Freund vun die grosse Bum-bum-bum ! <stage>(markiert die grosse Trommel.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p><stage>(kommt herein)</stage> D’ Conskrits — — sie kumme do hare! <stage>(Die Musik ist ganz nahe, die Bauern stehen auf und gehen gegen die Türe links.)</stage></p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Jetz wäre m'r doch Ruehj hann</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Jo, ich hab ebs zamme lüeje müen !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(an der Türe links)</stage>
+          <p>kumme ering ihr Burscht un trinke äins! <stage>(Maire und Bauern gehen zurück an ihre Plätze.)</stage></p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <stage>(kommen herein. )</stage>
+          <p>Vornher der Tambour- major, dann 4 Mann Musik, d'r Fähnrich mit der Fahne rot-weiss. Es folgen 6 bis 8 Burschen in der angegebenen Kleidung, sie sind sehr lustig, singen und jauchzen. Die Musik spielt fort, bis der Tam- bourmajor kommandiert „Halt“. Alsdann tritt Michel als Tambourmajor vor und kommandiert die Cons- krits.</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel :</speaker>
+          <p>Achtung ! Richt euch, ihr Krummstiefel ! <stage>(die Conskrits stellen sich in Reih und Glied)</stage> D’r Harr Maire sell lawe : „Hoch, hoch, hoch !“ <stage>(Conskrits rufen hoch, Musik: Tusch)</stage> Un Harr Maire, mir hatte gäre Parmission füer hitt Owe bis am zwöelfe... m'r welle üns e bissel amesiere...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Diss selle-nr hann... awer anstandi un nit uf d'r Stross erumbrüele un händle, Sohler : Was hann sie denn au mit eijch gemacht, ihr Militäranwärter ?</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel :</speaker>
+          <stage>(hat einen Buckel)</stage>
+          <p>Ich bin frej! Ich war nit zue de Soldate, ehnder frass ich Duehledeckel ! Andres: Dich kenne se jo nit brüche, Krüttstorze... awer mich! Ich kumm zue de Wassersoldate uf’s Schiff...</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel:</speaker>
+          <p>Dü hesch jo Angscht vor'm Wasser ! <stage>(Ge- lächter.)</stage></p>
+        </sp>
+        <sp who="#schambediss">
+          <speaker>Schambediss :</speaker>
+          <p>Ich kumm zue de Ritter unter d' Ross... d’Juchhuu ! <stage>(tanzt herum, die andern halten ihn dann.)</stage></p>
+        </sp>
+        <sp who="#christian">
+          <speaker>Chrischtian :</speaker>
+          <p>Vatter loss mich wüete... Müeder, lang m'r d'r Millichhafe, ich verläch !!</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <p>As schad eich nix, wann se ejch ejeri stiffi Knoche e bissel glichi macha.</p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits:</speaker>
+          <stage>(ausser Gabriel)</stage>
+          <p>Mir hann kenn Angscht, mir ferchte üns nit !!...</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(welcher hinter Streifer sass, dass ihn die Bur- schen nicht.)</stage>
+          <p>bemerkten, springt in die Höhe) Wö!...</p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <stage>(fahren erschreckt zurück)</stage>
+          <p>Harrjeh !! D’r Teifel ! <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(lachend)</stage>
+          <p>Ich hab gemäint, ihr ferchte eijch vor nix ?</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel :</speaker>
+          <p>War isch dann diss ? Hann’r Visitt üss Afrik ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Näin, üss Amerika... diss isch e Cousin vun mir ....</p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <p>A-n-Amerikaner ? <stage>(begrüssen Streifer)</stage> Bonjour Herr Amerikaner ! G’sündhäit ! Alle Gebott santé.</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Zäije jetzt stille e weng... Ar sell eijch emol ebs vun Amerika verzehle... do spanne-nr !...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(leise zu Klüwer)</stage>
+          <p>E Nuntebuckel, ’s geht schun wieder los. <stage>(laut)</stage> No, no, e-n-andermol... es isch ze langwillich, yes!...</p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <p>Doch, Harr Amerikaner, alleh, verzehle ebs !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>No...awer d'r Wambo, der soll ebs los lonn...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Ja, erscht noch... ar sell äiner los lonn !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Alleh, Wambo... bekummsch äuch noch ein Stüeckel Küchen. Streifer : Wambo... tanz emol e Niggertanz !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(leise)</stage>
+          <p>Wenn’r numme d' Kränk bekämte ! <stage>(laut)</stage> O yes, mache mit grosse Pläsir... meine Herr befehl... Wambo gehorcht !... Mister Snell ist so gute, süsse Herr zu arme Nigger... <stage>(geht in die Mitte der Bühne)</stage> Musik ! Spielen Musik, Polka, sehr snell. <stage>(Die Musik spielt einen Polka in schnellem Tempo, Klüwer tanzt nach Negerart, singt dazu einen belie- bigen Text, ungefähr so: Hei-ho günne hei, ho-ho tschinkel, tschankel, tschunkel hei, usw.)</stage></p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <p> <stage>(stehen im Halbkreis um Klüwer und klatschen im Takte mit den Händen. Nach einigen Takten kommt Aloys.)</stage> </p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(zur Türe rechts hereinkommend)</stage>
+          <p>D’r Schan- darm !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p> <stage>(fährt bei dem Worte „Schandarm“ zusammen und läuft ängstlich an seinen Platz.)</stage> </p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(ängstlich)</stage>
+          <p>D’r Schandarm ?! . Kommt der do here ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Abah, dar geht jetz wohrschin’s häim, ar hett Dienscht g’hett bie d'r Muschterung.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(zu Streifer)</stage>
+          <p>Hett dann dar so Angscht vor de Schandarme ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(leise)</stage>
+          <p>Kenn Wunder ! <stage>(laut)</stage> D’ Neger hann alli so Angscht vor d'r Polizei, yes !</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel :</speaker>
+          <p>Ah, was fröje mir noch’m Schandarm, mir sinn hitt Conskrits! <stage>(singt)</stage> Und wenn Reserve Rühe hat usw.</p>
+        </sp>
+        <sp who="#schambediss">
+          <speaker>Schambediss :</speaker>
+          <stage>(hält ihm den Mund zu)</stage>
+          <p>Dü hesch üewer- häupt kenn Reservelieder ze singe, dü Staats- krüeppel!... Singe mir äins, Kamerade, awer e natt’s.... Schön ist die Jügend... Die Conskrits <stage>(singen)</stage> : Ein jeder Weinstock der trägt Reben, Und aus den Reben fliesst süsser Wein Vom Himmel ward er uns gegeben Um uns’re Jugend d’ran zu erfreu’n. :,: Drum sag ich’s noch einmal, schön sind die [Jugendjahr, Schön ist die Jugend, sie kommt nicht mehr. :,: Streifer, Klüwer und Gemeinderatsherren : <stage>(klatschen Beifall)</stage> Bravo !!</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Wieder e Grund zum trinke, Gsündhäit ! ! Schön ist die Jugend, sie kommt nicht mehr...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(stossen an)</stage>
+          <p>G’sündhäit ! D’r Elsässer Win soll läwe !!!</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(von links)</stage>
+          <p>D’ Köche losst säuje : „As isch Assezitt... as isch Middäuj !</p>
+        </sp>
+        <sp who="#bauern">
+          <speaker>Bauern :</speaker>
+          <p>Schun die Zitt ? <stage>(aufstehend)</stage> Ja, ze welle-m’r.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Antoine, am Zieschti duesch bie mir Zmiddäuj asse, as gitt Sürkrütt un Spack vun dare Söij vun 240 Pfünd !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Yes... angenumme, ich komm.</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel:</speaker>
+          <p>Alleh, ihr Conskrits... a Station wittersch, mir hann noch viel ze läischte hitt... Adie bisamme ! Vielmols merci, Herr Maire. <stage>(gibt ihm die Hand.)</stage></p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Noch e Wort, ihr Herre!... Ihr Conskrits kenne denne Owe in ejere Wirtschaft, wo ihr bienand sinn, trinke, soviel ihr welle, saue nur, d'r „Ameri- kaner“ bezahlt’s !</p>
+        </sp>
+        <sp who="#_die_conskrits">
+          <speaker>Die Conskrits :</speaker>
+          <p>Bravo ! !</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel:</speaker>
+          <p>Vielmols merci... un ich lad eijch inn, äu e bissel ze kumme.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>No... ich bin ze müed vun d'r Reis, yes. Un uf morje Sundaamidda sinn ihr alli Burjer vun hie ingelade, noch d'r Vesper, saue m'r um 4 Ühr, do bim Herr Maire im Hoft ’s Wiedersehn ze fiere... Alli solle kumme, ich zahl alles ...nix as Win vum Aller- beschte !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(springt auf einen Stuhl)</stage>
+          <p>D'r Amerikaner soll lewe : Hoch, hoch, hoch ! <stage>(Musik : Tusch)</stage>. <stage>Vorhang fällt rasch.</stage>.</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head> 3. Aufzug. </head>
+        <stage> Bühnen- und Personenbeschreibung im 3. Aufzug. Bühne :Hof beim Maire. Rechts das Wohnhaus, eine kleine Treppe mit Gelænder führt in den Hof. Vorn rechts ein grosser Tisch für Streifer, Klüwer, Maire und Gemeinderat. Hinten stehen Tische mit Bænken für die Turner, Musikanten, Bur- schen und Bauern. Auf den Tischen stehen Glæser und Krüge mit Wein. Die Bühne ist geziert mit Guirlanden und Fæhn- chen, in der Mitte nach hinten zu hængt eine Tafel mit « Will- kommen ». Der Eingang führt zur Strasse.  Maire, wie im zweiten Aufzug.  Aloys, sonntæglich, weisses Hemd, weisses Schürzchen zum Servieren.  Gemeinderat, sonntæglich, weisse Hemden mit Stehkragen und schwarzen Halstüchern, lange Bauernfrecke, runde nie- dere Hüte.  Sohler, Zylinder, schwarzer Gehrock, Umlegekragen, weisse Weste.  Klüwer, wie im ersten Aufzug.  Streifer, wie im zweiten Aufzug ; unter dem Ueberzieher : Sammthosen, rotes Band um den Leib, farbiges zerissenes Hemd, den Stehkragen um den Hals gebunden. Der Ueberzie- her muss am Halse gut schliessen, damit man kein Hemd sieht.  Antoine, helles Reisekleid, ohne Ueberzieher, Sportsmütze, Schnurrbart englisch, Backenbart.  Turner, in der üblichen Turnerkleidung.  Burschen, sonntæglich, hemdærmlig in weissen Hemden, niedere Hüte.  Polizist, weisse Hosen, blaue Bluse, Militærmütze, Bandalier mit Sæbel.</stage>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(betrachtet die Bühne)</stage>
+          <p>Diss hesch grossarti ge- macht, Aloys... Ja... wann d'r Aloys ebs im Kopf hett, ze hett’rs nit im grosse Zeh... wie zaller g’säit hett. Hoffetli gitts do äu e schöens Trinkgald vum Amerikaner .....</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Streifer und Klüwer :</speaker>
+          <p><stage>(erscheinen auf der Treppe in der- selben Kleidung wie im ersten Aufzug)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer:</speaker>
+          <stage>(betrachtet die Bühne)</stage>
+          <p>Ach, Aloys, bravo!... grossartig hann’r geziert, yes !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Galle, ich hab ebs los ! — — Hein, Wambo, do stellsch dini Salzbüechsle ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(schlägt die Hände zusammen)</stage>
+          <p>Oh, wie schöen ! Wambo ist ganz meschügge... wülle, wülle, gei ! Streifer : Do, Aloys, hann’r ebs füer eijeri Müehj ! <stage>(gibt ihm ein Geldstück)</stage>.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(hält die Hand hin)</stage>
+          <p>Näin, näin, as isch nit un- neti... ich hab welle säue... as isch nit neti. <stage>(steckt das Geldstück ein, für sich)</stage> As isch als wieder diss, wann’s d’häim isch, wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(kommt heraus, auf der Treppe stehen bleibend, hemdärmlig)</stage>
+          <p>Ah... ihr sinn schun im Hoft !... Was isch, Aloys, sinn d’Fässle am Platz, d' Gläser gerischt, fahlt nix ? !</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Alles im Gleis... wie zaller g’säit hett.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Sie müen glich kumme... 's isch vier Uhr... wann se kumme, ruefe-nr !... <stage>(geht wieder hinein)</stage>. Aloys : Ja, Harr Maire !... Ich will emol gücke, eb se nit ball kumme. <stage>(geht auf die Strasse, nimmt den Hofbesen mit)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(schaut sich um, ob sie unbelauscht sind)</stage>
+          <p>Ich hab kenn Ruehj meh, mir müen los soball wie mejlich.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Ja, ja... wenn m'r nurre im Maire sinn Geld schun hätte...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Diss krieje m'r schun... ich hab's schlöij in- g’fädelt... füer diss haw-ich sie jo ingelade, denne Nochmidda do here ze kumme, dass sie do bienand hucke un süffe, no kenne mir unscheniert an’s Werik.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Awer wie’s anstelle, ― m'r vun ’ne eweg kumme, ohne dass’s uffallt ?</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Bass uf ! — Wenn jetz alli im schöenste Amü- sement sinn, no mach ich, ― wie wenn’s mir ohn- mächti dät wäre... Dü helf’sch mir no in’s Zimmer. D’r Herr Maire wurd au noch kumme, awwer denne schicke m'r nüss, er soll ne saue, dass’s nit schlimm isch... sie solle sich nit stöere lonn un solle nur wittersch trinke... es isch m'r ebs uf'm Mauje leje gebliewe.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>E exzelänter Idee!! Wenn sie no am Süffe sinn, denke sie nimmi an uns...</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Diss will ich jo hann, diss bezweck ich jo!... Mir kenne no im Maire sinn Geld stehle, Do haw-ich d'r Schlüessel füer de Sekretär. No nemme m'r d' Kleider vum Maire, gehn hinte zuem Fenschter nüss, schliche in d' Schier, verkleide uns als Büre, dü mach’sch dich wieder wiss... un no gehn m'r durch de Wald un verdufte....</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Dü bisch doch e Satan !... Mansch, wenn no d'r richtig „Amerikaner“ kummt, wie die Büre lueje ! <stage>(beide lachen)</stage> Hahaha! <stage>(Man hört Musik.)</stage></p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(hinter der Bühne rufend)</stage>
+          <p>Sie kumme, sie kumme ! Maire : <stage>(kommt heraus)</stage> Jetzt kumme se! <stage>(Die Musik ist ganz nahe. Streifer stellt sich auf die Treppe und nimmt eine imposante Stellung ein, Maire und Wambo rechts und links von ihm. Die Musik kommt auf die Bühne, vorn her Aloys mit dem Besen, hinter der Musik die Turner, dann die Gemeinderatsherren, Bau- ern und Burschen, zum Schluss der Polizist. Die Ge- meinderatsherren nehmen Platz am Tisch vorn rechts. Die Turner marschieren vor und salutieren Front gegen Streifer und gehen dann etwas zurück an die Tische. Die andern Bauern und Burschen nehmen Platz an den hinteren Tischen. Aloys serviert sofort Wein. Während des ganzen Auftritts wird sich laut unterhalten, die Musik spielt fort bis Sohler auf einen Stuhl steigt und um Ruhe bittet.)</stage></p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Silencium !! <stage>(ist sehr aufgeregt)</stage>.</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <p>Rühe!... Der Schuhmacher ..... äh.. der Herr Sohler will eine Rede reden. <stage>(will hochdeutsch sprechen.)</stage></p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(nimmt den Zylinder in die Hand, schaut in den- selben, wenn er nicht.)</stage>
+          <p>mehr weitersprechen kann.)Hochverehrter Herr Schnell !... <stage>(es ruft jemand Bra- vo)</stage> Halt’s Müll!... Im Name vun d'r Burjerschaft vun Owermatte heiss ich Sie herzlich willkumme... willkumme in d'r Heimet, im schöene Elsass, wo Sie vor 30 Johr de Buckel gedrehjt hann. Mit freidigem Herze danke mir Ihne vor Ihri gross Opferwilligkeit, uns ’s elektrisch Licht üss ihrem Sack ze bezahle...</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Gsündhäit !!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Pscht! Stille ! Schollesepp : Ach, ich hab gemäint, ar isch ferti !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Ja — un so — ja — un — enfin <stage>(weiss nicht.)</stage> mehr weiter).</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Schad... jetzt stackt’r !</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <p>Rühe !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(sucht im Zylinder)</stage>
+          <p>Ich hab's... Jawohl... ich will nit wittersch rede, awer diss kann ich saue, dass e jeder Burjer vun hie mit Dank, Stolz und Ach- tung Ihre Name nenne wurd... jawohl... un mit goldene Buchstawe wurd d'r Name „Schnell“ in d'r Chronique vun Owermatte stehn....</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Verschiedene Stimmen :</speaker>
+          <p>Bravo !</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(wütend)</stage>
+          <p>Warte doch, ich bin glich fertig !... <stage>(sucht im Zylinder)</stage> Jawohl, un ich denk, ich hab jedem üss’m Herze geredt... D’rum forder ich eijch alli uf, ’s Glas in d’Hand ze nemme un mit mir üss- zeruefe : „'s Elektrisch Licht soll lewe...“ <stage>(Ge- lächter)</stage> Halte, ich bin lätz !... Also, noch emol : „D'r Herr Schnell, unser Wohltäter : Hoch, hoch, hoch ! ! !“</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(rufen)</stage>
+          <p>Hoch! <stage>(Musik : Tusch)</stage>.</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(verneigt sich dankend)</stage>
+          <p>Merci, Mister Sohler, füer die schöene Wort... sehr guet g’sproche.... kumme sie morje bie mir durch wäje neije Schuehj ! <stage>(nimmt auch Platz am Tisch beim Maire)</stage>.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(schlägt Sohler auf die Achsel)</stage>
+          <p>Oh, haben so schön gesprochen, Wambo haben nix verstanden — oh war so schön, yes ! <stage>(geht zu den Bauern an die Tische hinten)</stage> Gesundeheiten ! Ihr sein meine lieben Kamerad... Gesundeheiten ! <stage>(Gelächter.)</stage></p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel:</speaker>
+          <p>Herrjeh... do gücke emol !... D’r Wambo hett jo wissi Hütt hinger de Ohre !</p>
+        </sp>
+        <sp who="#andres">
+          <speaker>Andres :</speaker>
+          <stage>(schaut nach)</stage>
+          <p>Jo wajer ! Ar isch ganz wiss hinger de Ohre !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <stage>(lässt einen Schrei aus, hält sich die Ohren zu)</stage>
+          <p>Oh, oh, armes Nigger kriegen weisse Ohren !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <stage>(geht schnell zu Klüwer, stehen vorn in der Mitte der Bühne)</stage>
+          <p>Zaij emol!... yes... ganz wiss. <stage>(leise zu Klüwer)</stage> Hesch dich nit guet schwarz ge- macht hinter de Ohre, Simpel ! <stage>(laut zu den Bauern)</stage> Diss isch die Luft do im Elsass, die macht d' Neger wieder wiss !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Oh, arme Nigger kriegen weisse Ohren !? Will wieder fort zu meine gute Mamaa !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p><stage>(nimmt Klüwer mit an seinen Platz)</stage> Still, Wambo, ich mäch d'r dini Ohre wieder schwarz. <stage>(Grosses Gelächter ; leise zu Klüwer)</stage> Jetz spiel ich Trumpf üss! <stage>(klopft an sein Glas)</stage> Ihr liewi Litt, Verwandti un Bekannti !... Ich will an eijch au e paar Wort rede. Ich bin so froh, will ich so grossi Freid hab, will alles so guet gange isch, well... un ich... oh — was isch denn mit mir — oh!... <stage>(lässt sich ohnmächtig in den Stuhl fallen)</stage>.</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Oh, meine gute Herr ist tot!... Oh, oh, oh!</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Halfe, Wambo, Aloys halfe äu, schnall mit’m in d' Stubb... <stage>(Maire, Klüwer und Aloys führen Streifer in die Stube.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(sind sehr bestürzt)</stage>
+          <p>Äi, äi, awer, awer...</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Äi, äi, wann’r nurre nit starwe duet, ju, ju!</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Abah — jo... ar wurd ze viel Marikknepfle gasse hann !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>A güet’s Kirschewässerle, diss küriert'm de Mäuje wieder.</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Do kann m'r sahn, was d'r Mansch isch — gar wann’r e blöde Mäuje hett... ich hab’s äu wieder so arrich.... zidder am Middäujasse...</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel:</speaker>
+          <stage>(ruft)</stage>
+          <p>Ja, was isch jetzt, selle m'r wittersch trinke?! .....</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel :</speaker>
+          <p>As war schad, wann’r starwe dat... ’s Fässel isch noch lang nit laar !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p><stage>(kommt zur Türe heraus, Aloys auch)</stage>.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p>Was macht’r ? Wie geht’s-em ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ar isch besser, ar isch wieder bie sich.</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel :</speaker>
+          <p>Gott-lowe-dank ! Maire <stage>(kommt die Treppe herunter)</stage> Ar hett mich un d'r Aloys nüss g’schickt, as isch nit schlimm, ar mäint as isch die Koscht hie. — Ich sell eiich säuje : Mir selle nurre harzhaft wittersch trinke un üns nit stöere lonn. Ar will e Stüendel ruehje, no isch’r wieder hareg’stellt.</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist :</speaker>
+          <p><stage>(geht langsam nach rechts ab)</stage>.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Jo — ar kummt dervun wann’r ’s Lawe b’halt, wie zaller g’säit hett! <stage>(einer der Burschen ruft)</stage> Aloys, Win ! <stage>(Aloys geht ab.)</stage></p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p>Trinke m'r ans uf d' Gsundheit vum Ameri- kaner... G’sundheit!... Luschti welle m'r sinn ! Müsikante, spiele emol d'r Lauterbacher ! Une, deux, trois... <stage>(Musik spielt)</stage>.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(singen, ausser Maire, welcher den Kopf in die Hand stützt.)</stage>
+          <p>Zu Lauterbach hab ich mein’n Strumpf verlor'n Und ohne Strumpf geh ich net heim, Drum kehr ich halt wieder nach Lauterbach z’ruck Und kauf mir a Strumpf an mein Bein... Juchhuu !! <stage>(Man hört Schellengeläute eines Fuhrwerkes, welches vor dem Hofe anhält ; nachdem Antoine ein- getreten ist, hört man es wieder abfahren.)</stage></p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine Schnell :</speaker>
+          <stage>(tritt auf von links, spricht nur ganz leicht mit fremdem Accent und hat einfache Manieren, nichts übertriebenes)</stage>
+          <p>Gott sei dank, ass ich endlich do bin !... <stage>(schaut sich um)</stage> Ich wur schun erwart ? ! Bonjour bisamme ! Will doch sehn, ob ich ne noch erkenn. <stage>(betrachtet die Gemeinderäte)</stage>.</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel :</speaker>
+          <p>Was isch dann diss füer e zahmer Englander ?</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <stage>(barsch)</stage>
+          <p>Was will dar do ? Wie dar gückt !</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Doch ich kenn ’ne noch... <stage>(zum Maire)</stage> Dü bisch d'r Schakob Ürbach! <stage>(alles neugierig.)</stage></p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Dar bin ich !... Awer ich wisst mich nit ze-n- erinnere, wie ich mit ihne schun Söij g’hüet sott hann ?</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine:</speaker>
+          <stage>(lacht)</stage>
+          <p>Er kennt mich nimmi.. Kennsch glauwi d'r Antoine nimm ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Doch denne kenn ich... awer ihr schiene m'r e Schwindler ze sinn !</p>
+        </sp>
+        <sp who="#_einige">
+          <speaker>Einige :</speaker>
+          <stage>(rufen)</stage>
+          <p>Nüss mit'm ! Antoine : Do isch ebs nit recht !... Schakob, ich bin doch d'r Antoine üss Amerika! <stage>(alle lachen ihn aus)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Jetzt risst m'r awer d'r Geduldsfade... Ihr welle d'r Antoine sinn ? !... D’r Antoine isch schun zitter gescht morje do — grad fiere m'r ’s Wiedersahn un ar bezahlt alles!...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Jetz geht mir e Licht uf ! Ach, do isch der Spitzbue, der.....</p>
+        </sp>
+        <sp who="#bauern">
+          <speaker>Bauern :</speaker>
+          <p>Was säit dar im Antoine ?... Spitzbüe!... Schmisse-ne nüss ! <stage>(stehen auf, nehmen eine drohende Haltung ein.)</stage></p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <stage>(hinter der Bühne ruft)</stage>
+          <p>Halfe, halte! Dieb! Räiwer ! Halfe ! Die Burschen : <stage>(eilen zu Hülfe, rechts ab)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Isch dann hitt alles verhaxt? Was isch dann jetz los...</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <stage>(mit der Reisetasche, zu den Burschen, welche Streifer und Klüwer am Kragen hereinführen)</stage>
+          <p>Hewe-se numme fescht.... das sind Spitzbuben ! Antoine : Min’r Bardessü un Kuffer ! Diss sinn se ! Herr Polizist, der Kuffer isch min...</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist :</speaker>
+          <stage>(barsch)</stage>
+          <p>Halten sie ’s Mäul...ich hab ’s Wort! Herr Maire, als ich vor ein wenig in den Hoft hinten gehe, um zu sehen, ob keine Leute über die Latten krattlen und ebs an den Weinfässeln machen, geht plötzlich ein Fenster auf an ihrer Stubb, wo sie ihre Wertsachen hann. Ich denk noch schnell: Das sind Diebe ! Da springen die zwei da — — mit dem Koffer und Kleidern heraus und wollen in die Scheuer... Ich denk noch schnell: Die haben nix Gutes vor, und sage: Was macht ihr da? Da sind sie elend ver- schrocken und wollen auf mich los... aber ich nicht faul und packe sie im Genick... so... <stage>(packt Sohler im Genick)</stage> und rufe um Hülfe! — Un jetzt, Herr Maire...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>As isch guet, Polizejgard... ich gläub mir hann üns eland blamiert !...</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Mir sinn nit latz in de Hunni getratte, wie zaller gsäit hett <stage>(geht in die Stube.)</stage></p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(durcheinander)</stage>
+          <p>Was? D’r Amerikaner e Dieb?!</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Jetz wäiss ich ball nimm wie m'r d'r Kopf steht ! <stage>(zu Streifer)</stage> Bisch dü d'r Antoine oder bisch’s nit ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Streifer und Klüwer :</speaker>
+          <p><stage>(sehen auf den Boden)</stage>.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Jetz wurd mir’s klar ! Die zwei Halunke hann sich do füer mich üssgenn .....</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(stürzt aus dem Hause)</stage>
+          <p>Herr Maire... Gald g'stohle !... Sekretär... Gald futsch wie ’s Bumbe Hünd... wie zaller... <stage>(kann vor Aufregung nicht mehr sprechen.)</stage></p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Maire:</speaker>
+          <p>Was?!.... Jetz wurd’s Däuj! <stage>(zu den zwei Vagabunden)</stage> Wie hann’r min Gald?...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Lueje emol im Koffer, Denne hann-se mir g’stohle, un ’s Gald...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(hat den Koffer geöffnet, nimmt ein Geldsäck- chen heraus)</stage>
+          <p>Ja do isch’s... ich kenn ’s Säckel. <stage>(öffnet das Säckchen und schaut nach)</stage> Gott-lowe- dank, ass ich min Gald wieder hab... as fahlt nix dran !</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Streifer und Klüwer :</speaker>
+          <p><stage>(wollen den Moment benützen und durchbrennen)</stage>.</p>
+        </sp>
+        <sp who="#der_turnchef">
+          <speaker>Burschen :</speaker>
+          <p>Haltela — Öhaa... do gebliewe !!</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist :</speaker>
+          <stage>(zu den Hallunken)</stage>
+          <p>D’r erscht, wo sich muckst, dem schlage ich den Hirnhafen ein !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Lonn se nurre nit furt, die elande Spitzbüewe !..</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <stage>(mit dem Besen)</stage>
+          <p>Herr Maire, sell ich se glich hin mache ?</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine:</speaker>
+          <p>Halt! Numme langsam, ich hab au noch e Hüehnel mit denne zwei ze ropfe!... Ihr hann mich b’stohle... wo isch min Geld... mini Babiere.?... Ihr hann eijch do bi denne Litt füer mich üssgenn un hann se noch welle b’stehle !....</p>
+        </sp>
+        <sp who="#_gemeinderat">
+          <speaker>Gemeinderat :</speaker>
+          <p>Ja, so isch’s ! Oh, wie sinn mir so däub gewann !...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Zeje-n-em de Mantel üss... der isch mine ! <stage>(Die Burschen ziehen Streifer den Mantel aus, wel- cher nun da steht, in Samthosen, rotes Band um den Leib, zerrissenes Hemd. Grosses Gelächter.)</stage></p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Diss isch m'r e natter Amerikaner !... Sohler, hesch diss äu gelase, ass d’Amerikaner kenn Gilet an hann ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <p> <stage>(sitzt ganz gedrückt am Tisch. Alle lachen ihn aus.)</stage> </p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(hat die Taschen im Mantel untersucht)</stage>
+          <p>Do sinn mini Babierer... Im Portemonnaie fehle un- g’fähr 40 Franke, sunsch isch alles do... Jetzt muen die Gauner ing’sperrt sinn un d'r Schandarm preveniert, dass m'r se hann, denn in Strossburri warte se mit Schmerze uf se.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Polizeijgard!... Glich los mit ’ne, denn die Herre warte nit gare... Sperre se in ’s Spritzehüs un bliewe debie stehn, bis d' Schandarme do sinn !</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist :</speaker>
+          <p>Zü Befehl !... Awer ich muss denen zwei noch einen Prosewerball machen wegen groben Unfüg. <stage>(zu Streifer)</stage> Ihr Name ?... Wurd’s ball oder ich haue dir enen Schlenzer in den Backen !</p>
+        </sp>
+        <sp who="#felix_streifer">
+          <speaker>Streifer :</speaker>
+          <p>Felix... Streifer. <stage>(Polizist notiert es)</stage>.</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <p>Un d'r Neger ? Wie heisch du ?</p>
+        </sp>
+        <sp who="#otto_kluwer">
+          <speaker>Klüwer :</speaker>
+          <p>Otto... Klüwer...</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Diss isch jo gar kenn Neger !</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>D’r Wambo häisst Otto... <stage>(Grosses Geläch- ter)</stage> Warte... jetz basse uf ! <stage>(nimmt sein Taschen- tuch und wischt Wambo das Gesicht ab)</stage> Dar färbt jo ab!... Kenn Wünder bekummt dar wissi Ohre ! <stage>(geht zu Streifer und reisst ihm den Bart ab)</stage> Un dar losst d' Hoor gehn! <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>A wisser Neger... hahaha !!</p>
+        </sp>
+        <sp who="#der_dorfpolizist">
+          <speaker>Polizist:</speaker>
+          <stage>(zu den Burschen)</stage>
+          <p>Vorwärts, marsch, in’s Spritzehüs mit 'ne! <stage>(Einer schlägt Streifer den Zy- linder über die Ohren, alles, Turner, Burschen, Mu- siker, Bauern, Polizist gehen mit den beiden Vaga- bunden nach links ab. Grosses Gejohle, auf die Vagabunden wird gehauen und Schimpfwörter nach- gerufen. Die Gemeinderatsherren bleiben an ihren Plätzen.)</stage></p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(geht bis an den Ausgang des Hofes dem Zuge nach, geht dann vor, zu Maire)</stage>
+          <p>Schakob... gläubsch jetzt, ass ich d'r Antoine bin ?</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(geht zu Antoine, gibt ihm die Hand)</stage>
+          <p>An- toine !... Wie müess ich mich schäme... muesch m’rs nit in Üewel nahme...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine:</speaker>
+          <p>Jo... allewäij, do isch nix in Üewel ze nehme... dü kannsch jo nix derfüer. Ich bin äu d' Schuld dran... hätt ich besser acht genn. D’ Haupt- sach isch, dass ich do bin un min Saches wieder alles hab... Awer jetzt loss dich betrachte... Bisch gröij worre in denne 30 Johr, ja, ja... un Maire bisch, wie ich do g’höert hab... ich gratülier !... Zaij, do sitze jo noch Kamerade vun mir.. Do d'r Matter ! ..... d'r Groshans !... d'r Schierejerry !... un do d'r Schollesepp.... mir zwei sinn jo in d'r Schuel nawe- nander g’sasse....</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Ja, mir zwäi duen no ebs asse !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ar höert üwel, Antoine.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Armer Schollesepp...Diss isch d'r Sürkopf, wenn ich nitt irr !</p>
+        </sp>
+        <sp who="#surkopf">
+          <speaker>Sürkopf :</speaker>
+          <p>Ja, ich bin d'r Sürkopf, d'r Adjunkt... awer es will nimm racht mit’m Appedit.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Na, na... Dü wursch doch nit sterwe welle ?! <stage>(zu Sohler)</stage> Sie kenn ich leider nit — wie isch ihr Name ?</p>
+        </sp>
+        <sp who="#sohler">
+          <speaker>Sohler :</speaker>
+          <stage>(leise)</stage>
+          <p>Sohler.... üss Strossburri, Schuhmacher.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine:</speaker>
+          <p>Wie?... Kohler ?!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Näin... näin... Sohler !</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Ah... Sohler — es fräijt mich, Sie kenne ze lehre.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Awer Antoine, jetzt setz dich do hare, an de Platz, wie d ü ane g’höersch <stage>(Antoine sitzt an den Platz Streifers)</stage> un G’sündhäit, Antoine !! <stage>(alle stossen mit ihm an)</stage>.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Dü müesch ebs natts vun üns danke !...</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju, mir sinn natt blamiert !..….</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Mir hann’s als gar nit kenne gläuwe, ass dü’s bisch, awer der Wackes hett üns dini Babierer ge- zäijt un hett nix wie gebabbelt un gebabbelt...</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans :</speaker>
+          <p>Mir hann-em nix welle gläuwe, awer do d'r Sohler isch Schuld !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <stage>(ausser Antoine)</stage>
+          <p>Ja... D’r Sohler isch schuld an Allem !...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Pst!! Sinn ruehig... ich will nix höere !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Wie isch’s awer numme mejli gewann, ass die Gauner gewüesst hann, wie dü häisch, wie ich häiss, wie dü hare kummsch... alles hann-se ge- wüesst ! ?</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Liewer Schakob, ganz einfach... Do in mim Notizbuech haw ich alles ufno- tiert... alles zamme! Un üewer mini Reis haw- ich alle Daa mini Notize gemacht. — — Ich bin in Strossburri ankumme, gescht morje am 4 Ühr vun Paris... Ich geh in de Wartsaal, trink e Kaffee un muess do drüewer ingenickt sinn, denn uf einmol wurr ich geweckt — vor mir stehn zwei, wo sich als Geheimpolizischte legitimiere un mir d’Babiere ver- lange... Ja do !... Ich hab kenn Babierer meh, kenn Kuffer, kenn Bardessü un kenn Geld... enfin, nix meh!..</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Äi, äi... e Nundebuckel... ju, ju! Antoine : Maine-nr wie’s mir isch gewänn !... s’ nettscht kummt jetzt erscht... Die meine, ich bin e Schwindler, ich muess mit ’ne uf d' Polizeij un wär noch ball in de Gigger kumme, wann nit d'r Polizeijkommissär e gueter Mann wär gewann un hätt m'r gegläubt... Er hett uf Amerika depe- schiert un no hett sisch’s rüsg’stellt, ass ich a an- ständiger Mensch bin !... Die zwei Geheime hann sich no arrich exküsiert un hann glich die nöetige Schritte unternumme, dass ich wieder zue mim Saches kumm ..... D’r Herr Kommissär hett mir soviel Geld gelehnt, dass ich an mini Bank in Amerika hab kenne depeschiere um Geld... do drüewer isch awer soviel Zitt erum gange. sodass ich nit ehnder uf Owermatte hab kumme kenne...</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter :</speaker>
+          <p>Diss hann die zwäi Gauner äu gedankt... Antoine : Jetz, wie ich do here kumm, heisst’s d'r An- toine isch schun do !... Un ihr hann eijch nit schlecht angelonn — — do isch geziert, un Müsik un G’sang.. alles füer mich ! <stage>(lachend)</stage> Do muess ich awer viel- mols „merci“ sauwe.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Jo — ütz äu noch... Dar Lump hett alli inge- lade uf hitt Nochmiddäuj füer’s Wiedersahn ze fiere, hett gescht Owe in de Conskrits alles Trinke be- zahlt un hett üns versproche, dass’r... harrjeh, harrjeh — do fällt m'r ebs ing... Jetzt sinn m'r erscht gemutzt !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p>Ja, ja — jetz kenne d’Untermatter lache !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Jetz mache „gräck“.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Was isch denn ? <stage>(Alle sind sehr niederge- schlagen)</stage> Schakob, ze red doch!... Hesch dü nit meh Zütröje zue mir !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Antoine, muesch nitt so redde... awer ich will d’rs säuje... füer d'’ Strof, ass mir so däub sinn gewann. <stage>(verbittert)</stage> Dar lätz Amerikaner, dar Schwindler... hett üns versproche, ar losst ’s elektrisch Licht inrichte im Dorf uf sini Koschte...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(lacht)</stage>
+          <p>Hahaha !... Der hett d'r Amerikaner guet markiert... Na, ich mein awer, was der kann — kann ich äu! Ich bezahl eijch au alles... ich hab Geld genue.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <stage>(sehr freudig)</stage>
+          <p>Merci, merci Antoine... jetz sinn m'r sauviert ! —</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Antoine — mir fällt e grosser Stäin vum Harze, dann mir hätte üns nimmi sahn derfe lonn... Diss due ich dir nie vergasse.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(wehrt lachend ab)</stage>
+          <p>Lonn’s doch guet sinn...</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <stage>(weinerlich)</stage>
+          <p>Harr Schnall... Ich will...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Was welle-nr ?</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys :</speaker>
+          <p>Jetz bin ich min’r Däuj-de-’s Läwes e ehrlicher Burscht gewann — jetzt haw-ich in mine alte Däij noch g’stohle Gald angenumme, wie m'r dar Spitzbue füer Trinkgald hett gann... <stage>(zieht sein Taschentuch heraus, wo er das Geld eingeknöpft hat, will den Knopf mit den Zähnen öffnen)</stage> Do hann’rs wieder... dann unracht Guet...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>B’halte’s nurre... ich schenk’s ejch au als Trinkgeld.</p>
+        </sp>
+        <sp who="#aloys">
+          <speaker>Aloys:</speaker>
+          <p>Unser Harrgott sell’s eijch vergalte ! <stage>(steckt das Taschentuch ein)</stage> Jetz haw-ich ’s Gald doch un bin e ehrlicher Burscht. <stage>(Gelächter. Die Musik kommt zurück mit den Turnern, Bauern und Burschen wie beim ersten Male, alles geht sofort an seine vorigen Plätze)</stage>.</p>
+        </sp>
+        <sp who="#michel_tambourmajor">
+          <speaker>Michel :</speaker>
+          <stage>(geht zum Maire)</stage>
+          <p>Herr Maire, d'r Polizeijgard losst säue, ass die zwäi Hallunke ing’sperrt sinn un d'r Gäwelsdonni isch mit-em Rad zuem Schan- darm g’fahre.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>’s isch racht Michel... Un merci, ihr Burscht, will ihr so harzhaft g’holfe hann.</p>
+        </sp>
+        <sp who="#gabriel">
+          <speaker>Gabriel:</speaker>
+          <p>'s isch nit d’rwart, Harr Maire... Ich hab’m noch e Tritt hinte nin gann <stage>(Gelächter)</stage>.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <stage>(steht auf)</stage>
+          <p>Ihr Burjer vun Owermatte! Do stell ich eijch mine Cousin Antoine Schnell vor — d'r rächt „Amerikaner“, e Burjer vun hie, wie mir alli stolz druf sinn !... Un ass ihr’s wisse, ar bezahlt üns alles — s’ elektrisch Licht... un... ich kann nimm wittersch redde.. Antoine, kumm an min Harz ! <stage>(umarmt Antoine)</stage>.</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle :</speaker>
+          <p>Bravo !!!...</p>
+          <note place="bottom" rend="pre(*)"> Anmerkung : Sollte ein Verein keine Turner  haben, so kann man den Tanz ruhig weglassen und geht das Stück weiter an dem nächsten Zeichen *:
+            <sp who="#groshans">
+              <speaker>Groshans :</speaker>
+              <stage>(nimmt das Wort, ruft)</stage>
+              <p>D’r racht „Ameri- kaner“ soll läwe hoch ! <stage>(Alles ruft hoch)</stage>.</p>
+            </sp>
+            <sp who="#antoine_schnell">
+              <speaker>Antoine :</speaker>
+              <p>Merci, ihr liewi Litt!... Awer wie m'r do bienand sinn usw. <stage>(von hier geht das Stück dann weiter)</stage>.</p>
+            </sp>
+          </note>
+          <stage>(siehe Anmerkung am Schluss).</stage>
+        </sp>
+        <sp who="#_chef_moniteur">
+          <speaker>Chef moniteur :</speaker>
+          <stage>(vortretend)</stage>
+          <p>Herr Schnell, isch’s erläubt zue Ehre vun Eijch ebs vorzefüehre ? Ünsere gym- nasien welle zäije, was se kenne.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>’s isch mir e grossi Ehr!...</p>
+        </sp>
+        <sp who="#_chef_moniteur">
+          <speaker>Chef moniteur :</speaker>
+          <p>Wenn’s beliebt!... e bissel Platz ! <stage>(Alles macht Platz, damit in der Mitte der Bühne Platz ist für die Turner)</stage> Achtung !... Müsik fertig... Eins, zwei, drei! <stage>(Die Turner führen einen Tanz oder Freiübungen vor. Nach Beendigung der Auf- führung : Grosses Bravo und Händeklatschen)</stage>.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(geht vor, gibt dem Chef moniteur die Hand)</stage>
+          <p>Min Compliment, Herr Chef ! Ihr Turner hann ejeri Sach grossartig gemacht ! Ich bin e grosser Friend vun d'r Gymnastique... sie stärkt d'r Körper un d'r Geischt.... mit-em e g’sunde Körper, e helle Kopf un Kürasch geht keiner ze Grund... awer Stuewe- hocker un Munkedrissel kann m'r in d'r Welt zue nix brüche... Drum mache so wittersch, ihr Burscht un ihr anderi do.. <stage>(zu den Burschen und Gemeinderats- herren)</stage> als Schimnass gemacht, ass isch kenner zue alt dezüe !... Drum, Herr Chef, nochemol min Com- pliment un schriewe se mich in als membre vun ihrem Verein.</p>
+        </sp>
+        <sp who="#_chef_moniteur">
+          <speaker>Chef moniteur :</speaker>
+          <p>Mit gröeschter Pläsir!...</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Einige Burschen :</speaker>
+          <p>Ich geh jetz äu in d' Schimnass... ich äu !! .....</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Ja, was meine-nr ihr Litt?... Do müen mir Alti!! äu noch in d' Schimnass un müen äins, zwäij mache ! <stage>(markiert Übungen)</stage>.</p>
+        </sp>
+        <sp who="#matter">
+          <speaker>Matter:</speaker>
+          <p>Mir an... ich lehr äu noch Büerzelbäim schläuje .....</p>
+        </sp>
+        <sp who="#groshans">
+          <speaker>Groshans:</speaker>
+          <p>Ich will Ehremitglied wäre... ich zahl füenf Franke extra !</p>
+        </sp>
+        <sp who="#schierejerry">
+          <speaker>Schierejerry :</speaker>
+          <p>Ju, ju… ich sää nit ’s Conträr... awer ich will z’erscht d' Fräu fröije.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(laut)</stage>
+          <p>Schollesepp!... Was isch, machsch äu noch mit <stage>(markiert)</stage> Schimnass ?!</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Schollesepp :</speaker>
+          <p>Ab — Schimnass ! Zall will ich mäine ich bin noch gewüerfelt in de Füess! <stage>(Will Knie- beuge machen, fällt auf den Rücken, Gelächter.)</stage></p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(lustig)</stage>
+          <p>Ja... Seppel, as geht nimm wie vor 30 Johre... <stage rend="post(*)">(aufstehend)</stage>Awer so, wie mir do ..... binand sinn, so luschtig un freij... diss isch ’s elsäs- sisch Volksläwe, wie m'rs in d'r ganze Welt nirjed’s meh antrifft... Ich hab’s erfahre... ihr alli wisse jo, wie ich vun do furt bin, haw-ich de beschte Ruef nitt g’hett... awer es hett mich getriewe in d' Fremd... uf Amerika ! Wie mir’s dort gange-n-isch, un wie ich’s sowit gebrocht hab, ass ich hitt als richer Mann zeruckkumm, diss verzähl ich eijch alles e-n-ander Mol... Ich hab schwer kämpfe müen... ich hab fremd Brot lehre esse.. un ’s isch hart, 's fremd Brot !</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Warsch doch wieder häime kumme !</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <p>Nain — do bin ich züe stolz dezü gewann ..... ich hab m'r gsäit: Dü gehsch nit ehnder häime, bis dü denne in d'r Heimet zaje kannsch, ass d'r Antoine e rächter Kerl isch un schaffe kann !... Un ich hab’s gepackt. Müehj hett's koscht, awer jetz bin ich d’heim in d'r Heimet un do blie ich füer allewill... Ah... wie ich wieder in min Elsass kumme bin un hab de erschte Kirchturm g’sahn un unseri grüne Matte, unseri Rawe... un unseri elsässische Buewe un Maidle, mit ihre ufrichtige G’sichter un helle Aue... do sinn m'r Träne üewer d’Backe ’rab geloffe un ich hab üssrüefe müen : Un ’s Elsass, unser Ländel, Diss isch so wunderschöen. Mir hewe’s fescht am Bändel Un lonn’s minsex-nit gehn, <stage>(nimmt das Glas zur Hand)</stage> Hoch ’s Elsass ! G’sund- heit !</p>
+        </sp>
+        <sp who="#schollesepp">
+          <speaker>Alle:</speaker>
+          <p><stage>(aufstehend)</stage> G’sündhäit ! Hoch ’s Elsass, ünser Ländel !</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine:</speaker>
+          <p>Un jetz hätt ich eini Bitt... ihr Burscht, singe m'r doch e Lied, e Lied vun d'r Heimet... ich hab so lang kenn’s meh g’höert.</p>
+        </sp>
+        <sp who="#schakob_urbach">
+          <speaker>Maire :</speaker>
+          <p>Zäije, ihr Kirchesänger, singe im Antoine äins vun eijere Lieder !</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Einige Burschen :</speaker>
+          <stage>(stimmen das folgende Lied an)</stage>
+          <p>Nach der Heimat möcht ich wieder, Nach dem teuren Vaterort. Wo man singt die frohen Lieder, Wo man spricht ein trautes Wort. Teure Heimat sei gegrüsst, In der Ferne sei gegrüsst, Sei gegrüsst in weiter Ferne, Teure Heimat, sei gegrüsst.</p>
+        </sp>
+        <sp who="#antoine_schnell">
+          <speaker>Antoine :</speaker>
+          <stage>(ist sehr ergriffen, wischt sich die Augen,  spricht bewegt)</stage>
+          <p>Ja — teure Heimat... sei gegrüsst ! <stage>(Das Abendglöckchen fängt an zu läuten)</stage> Was höer ich ?.... ’s Owgglöeckel! Drissig Johr haw-ich’s nimmi g’höert!... Wie hell es klingt !.. Als wenn’s m'r züerueft : Willkumme in d'r Heimat! <stage>(Alle nehmen die Hüte ab und stehen still im Gebet.)</stage></p>
+          <stage> Vorhang fällt langsam.</stage>
+          <stage>— Ende. —</stage>  
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

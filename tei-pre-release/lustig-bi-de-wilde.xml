@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bi de Wilde</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-124"/>
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Bi de Wilde</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_schnell" sex="M">
+            <persName>Herr SCHNELL</persName>
+          </person>
+          <person xml:id="jettele" sex="F">
+            <persName>JETTELE</persName>
+          </person>
+          <person xml:id="franz" sex="M">
+            <persName>FRANZ</persName>
+          </person>
+          <person xml:id="edi" sex="M">
+            <persName>EDI</persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_schnell">
+          <role>
+            <persName>Herr SCHNELL</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#jettele">
+          <role>
+            <persName>JETTELE</persName>
+          </role>
+          <roleDesc>si Tochter</roleDesc>
+        </castItem>
+        <castItem corresp="#franz">
+          <role>
+            <persName>FRANZ</persName>
+          </role>
+          <roleDesc>si Neveu</roleDesc>
+        </castItem>
+        <castItem corresp="#edi">
+          <role>
+            <persName>EDI</persName>
+          </role>
+          <roleDesc>im Jettele si Liebhawer</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#edi">
+          <speaker>Er.</speaker>
+          <lg>
+            <l part="Y">Wàre mir jetz doch,<stage>(bis)</stage></l>
+            <l>Wàre mir jetz doch erlöst,</l>
+            <l>Erlöst emol!</l>
+          </lg>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Sie.</speaker>
+          <lg>
+            <l>Dü kasch passe noch,<stage>(bis)</stage></l>
+            <l>Dü kasch passe noch, das weisch,</l>
+            <l>Das weisch Dü wohl!</l>
+          </lg>
+        </sp>
+        <sp who="#jettele #edi">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l part="Y">Mir sin halt beide so</l>
+            <l>Mit alle G'fohre</l>
+            <l>Uf dàre-n-Insel do</l>
+            <l>Im Meer verlore,</l>
+            <l>Mr sin im Meer verlore!</l>
+          </lg>
+        </sp>
+        <sp who="#edi">
+          <speaker>Er.</speaker>
+          <lg>
+            <l part="Y">Kàm nur e Schiff ku z'fahre</l>
+            <l>Un thàt uns doch ufnàh!</l>
+          </lg>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Sie.</speaker>
+          <lg>
+            <l>'s thàt uns viel Leid erspare,</l>
+            <l>Das ha-n-ich längst scho g'sàh!</l>
+          </lg>
+        </sp>
+        <sp who="#jettele #edi">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Doch wenn's noch geht so lang,</l>
+            <l>Wie's jetz scho gange-n-isch,</l>
+            <l>So wird's uns g'wiss noch bang.</l>
+            <l>Bi unsrer Kost vo Fisch!</l>
+            <stage>} bis</stage>
+          </lg>
+          <pb n="488 489"/>
+        </sp>
+        <sp who="#edi">
+          <speaker>Er.</speaker>
+          <lg>
+            <l part="Y">Wenn mir doch nur d'heim wieder wàre,</l>
+            <l>Wie wotte mir <stage>(bis)</stage> so glicklig si!</l>
+          </lg>
+        </sp>
+        <sp who="#edi #jettele">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Mir hätte-n-ab e Last, e schwere,</l>
+            <l>Mir kàmte g'wiss <stage>(bis)</stage> nimm z'ruck dohi!</l>
+            <l>Doch wenn's noch geht so lang,</l>
+            <l>Wie's jetz scho gange-n-isch,</l>
+            <l>So wird's uns g'wiss noch bang</l>
+            <l>Bi unsrer Kost vo Fisch.</l>
+          </lg>
+        </sp>
+        <stage>(Se stehn uf 'un gehn furt links im Singe; me hört,
+                    wie sich dr G'sang verliert in dr Wite)</stage>
+        <sp who="#edi">
+          <speaker>Er.</speaker>
+          <lg>
+            <l part="Y">Wenn mir doch nur d'heim wieder wàre,</l>
+            <l>Wie wotte mir <stage>(bis)</stage> so glicklig si!</l>
+          </lg>
+        </sp>
+        <sp who="#edi #jettele">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Mir hätte-n-ab e Last, e schwere,</l>
+            <l>Mir kàmte g'wiss <stage>(bis)</stage> nimm z'ruck dohi!</l>
+            <l>Doch wenn's noch geht so lang,</l>
+            <l>Wie's jetz scho gange-n-isch,</l>
+            <l>So wird's uns g'wiss noch bang</l>
+            <l>Bi unsrer Kost vo Fisch!</l>
+          </lg>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Schnell, Franz.</stage>
+        <stage>(Se kämme rechts un sin beide ganz nass.)</stage>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Jetz, Franz, wo si mr?... ich glaüb, mr känne dr
+                        Robinson spiele, denn 's schint mr e-n-Insle z'si, wo
+                        Nieme druf isch... jetz stecke mr in schöne Schüeh!...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>In nasse stecke mr uf jedefall... isch jetz das fatal,
+                    </p>
+          <p>eso Schiffbruch z'lide mittle-n-uf em Meer!...</p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Natirlig uf em Meer... d'heim in dr Stuwe kasch alleweg
+                        nitt Schiffbruch lide!...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Worum si mr awer o furt vo d'heim! Worum hà mr welle Di
+                        Tochter, mi Cüsine, wo mit ihrem Liebhawer uf un
+                        dervo isch, geh süeche in Amerika... jetz hà mr's...
+                        oh! we mr doch nur wieder z'Milhüse wàre in dr
+                        Fröscheweid!
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Bisch Dü nitt o vo dr Familie?... geht's Dich nitt a wie
+                        mich, wenn Ihre-n-Ehr in G'fohr isch... un Dü
+                        hättsch doch Di alter Oncle nitt welle-n-allei geh
+                        lo...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Mir hätte jo mitnander känne d'heim bliwe... wer weisst,
+                        wo 's Jettele ane-n-isch mit sim Edi...
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Nach Amerika sin se!... De weisch jo, ass me se g'sàh
+                        hat ischiffe vor drei Monet... wenn ich's awer
+                        g'wisst hätt, so wàr ich eher furt... De weisch, wenn
+                        ich ebbes im Kopf ha, so müess es gli g'macht si!
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>'s hat is viel g'nutzt jetz, ass mr furt sin...</p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Bàh... was g'schàh isch, das isch g'schàh... was nutzt
+                        jetz das jomere!... mr wànn liewer
+                        e-n-Unterschlupf süeche-n-un trachte, ass mr nitt in e
+                        paar Menschefresser in d'Hànd laüfe, wo viellicht
+                        uf dàre-n-Insle kännte si... (er lüegt ummenander) was
+                        ha-n-i g'sàit... schaü, do mien no nitt lang e
+                        paar gsi si an dem Fir, denn 's raücht noch e wenig!...
+                        jetz heisst's ufpasst, we mr wànn unsere
+                        Côtelettes wieder uf Milhüse z'ruck bringe!
+                    </p>
+        </sp>
+        <pb n="490 491"/>
+        <stage>G'sang</stage>
+        <sp who="#jettele #edi">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l part="Y">Mir mien is vor de Wilde hiete,</l>
+            <l>Denn 's isch glaüb do nitt g'hir,</l>
+            <l>In dàre-n-Asche sin noch Gliethe,</l>
+            <l>Se hàn do g'ha ne Fir;</l>
+            <l>Drum nur Achtung gà,</l>
+            <l>'s derf uns Keiner sàh,</l>
+            <l>Denn 's geht um dr Hals</l>
+            <l>Un dà brücht me-n-als.</l>
+            <l>Mir mien is vor de Wilde hiete,</l>
+            <l>Denn 's geht um unser Hals.</l>
+            <l>Guldig sin d'Wilde z'Milhüse d'heim;</l>
+            <l>Die do, die hüse doch z'wiescht mit eim;</l>
+            <l>Drum nur Achtung gà,</l>
+            <l>'s derf uns Keiner sàh,</l>
+            <l>Denn 's geht um dr Hals</l>
+            <l>Un dà brücht me-n-als!</l>
+            <l>Mir mien is vor de Wilde hiete,</l>
+            <l>Denn 's geht um unser Hals.</l>
+          </lg>
+        </sp>
+        <stage>(Me hört in dr Wite 's G'sang vo de Wilde)</stage>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Bscht!... still... <stage>(se lose)</stage> 's sin zwei Wilde, wo kämme
+                        dert unte! jetz si mr verlore... ich mach mich
+                        dervo!...
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell</speaker>
+          <stage>(hebt 'n z'ruck)</stage>
+          <p>'s isch unnöthig, se hàn is scho g'sàh... un se laüfe
+                        besser as mir... mr wànn se liewer süeche z'g'winne
+                        mit güete Worte...
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage>(D'Wilde kämme-n-ine links, Herr Schnell un Franz
+                    salütiere bis an dr Bode.)
+                </stage>
+        <sp who="#jettele">
+          <speaker>Sie</speaker>
+          <stage>(lislig züe ihm)</stage>
+          <p>Herrjeses!... mi Pape un dr Cüsin!...</p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Er.</speaker>
+          <p>Still!... sag nit... se kenne-n-uns nitt in dem
+                        Costüm!...
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell</speaker>
+          <stage>(züem Franz)</stage>
+          <p>Loss mich nur mache... se schine mir nitt so
+                        kannibalisch z'si... ich ka ne wenig indianisch rede
+                        <stage>(züe de
+                        Wilde)</stage> dir dir dài gwuck!... <stage>(züem Franz)</stage> das isch
+                        «güete Tag» uf Milhüserditsch.
+                    </p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Dr Wilde.</speaker>
+          <p>Nix, Nix...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz</speaker>
+          <stage>(züem Herr Schnell)</stage>
+          <p>Er sàit gix, gix!... mir sin verlore!... Das sin vo
+                        dàne, we me ne ebbes z'esse heischt, so offriere
+                        se-n-eim e Stickle kalter Missionär!...
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Se verstehn viellicht nitt indianisch... wenn ich thàt
+                        Milhüserditsch mit ene rede?... <stage>(züe de Wilde)</stage> Ihr
+                        Herre-n-un Dame, mir sin vo Milhüse!...
+                    </p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Sie.</speaker>
+          <p>O Pape!... ich bi's, Di Jettele;... kasch Dü mir
+                        verzeihe!... <stage>(se springt 'm an dr Hals; dr Franz losst
+                        e
+                        Schrei üs un will dervolaüfe, blibt awer, wo-n-er hört,
+                        um was es sich handelt).</stage>
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Was!... Dü bisch's!... un dr Edi, dà Halunk...
+                        richtig... ich erkenn eüch jetz, trotzdem ass ihr wild
+                        worde sin!...
+                    </p>
+          <pb n="492 493"/>
+        </sp>
+        <sp who="#edi">
+          <speaker>Edi.</speaker>
+          <p>Mr hàn halt Angst g'ha vor de rechte Wilde, un do hà mr
+                        denkt, mr sin sicherer, we wir se selbst
+                        spiele...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Die zwei g'falle mir jetz noch!...</p>
+        </sp>
+        <sp who="#jettele #edi">
+          <speaker>Jettele un Edi</speaker>
+          <stage>(züem Herr Schnell)</stage>
+          <lg>
+            <l part="Y">Kasch Dü uns hit verzeihe,</l>
+            <l>Mir sin halt <stage>(bis)</stage> schuldig, das isch wohr;</l>
+            <l>Doch längst thüet's uns scho reie, <stage>(bis)</stage></l>
+            <l>G'wiss, das kunnt jetz bi uns nimm vor;</l>
+            <l>'s isch halt nur g'schàh dur d'Liewe,</l>
+            <l>'s isch uf dr Welt gsi unser Freid,</l>
+            <l>Un gar viel Tage, triewe, <stage>(bis)</stage></l>
+            <l>Hàn mir scho g'ha <stage>(bis)</stage> jetz do züem Leid.</l>
+            <l part="Y">Mir hàn jo unser Fehler</l>
+            <l part="Y">G'wiss scho hart ibiesst,</l>
+            <l part="Y">Un hàn eüch mit viel Freide</l>
+            <l part="Y">Bi uns do begriesst.</l>
+            <l>Mir sin halt schuidig, das isch wohr,</l>
+            <l>Doch längst thüet's uns scho reie, <stage>(bis)</stage></l>
+            <l>G'wiss, das kunnt <stage>(bis)</stage>jetz bi uns nimm vor.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <lg>
+            <l part="Y">Pardon <stage>(bis)</stage> git's kein vo mir!</l>
+            <l part="Y">Lang thien ihr warte noch!</l>
+            <l part="Y">Umsunscht jetz bitte-n-ihr!</l>
+            <l part="Y">Mi Wille mach ich doch!</l>
+            <l part="Y">Nit macht mich irr!</l>
+          </lg>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <lg>
+            <l>Die g'falle mir!</l>
+            <l>Ihr warte noch!</l>
+            <l>Er macht, wie ihr,</l>
+            <l>Si Wille doch;</l>
+            <l>Nit macht ihn irr!</l>
+          </lg>
+        </sp>
+        <sp who="#franz #herr_schnell">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l part="Y">Ihr hàn jetz eüer Fehler</l>
+            <l part="Y">No nitt g'nüeg ibiesst,</l>
+            <l part="Y">Wenn ihr scho mit viel Freide</l>
+            <l part="Y">Uns do hàn begriesst.</l>
+            <l part="Y">Ihr sin halt schuldig, das isch wohr,</l>
+            <l>Drum thien mir nitt verzeihe <stage>(bis)</stage></l>
+            <l>Un wenn's o <stage>(bis)</stage>bi eüch kunnt nimm vor. </l>
+          </lg>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele.</speaker>
+          <p>Awer Pape, hà mir denn unser Schuld no nitt g'nüeg
+                        ibiesst!... z'erst hà mr Schiffbruch g'litte un sin
+                        mit Mieih un Noth uf eme Drom an die Insle ku, wo mr
+                        jetz scho drei Monet nit as Fisch z'esse hàn...
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Mir o hàn Schiffbruch g'litte... un noch derzüe
+                        wege-n-eüch...
+                    </p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Edi.</speaker>
+          <p>Un züe dàne Fisch hà mir nit as frisch Wasser z'trinke
+                        g'ha, Herr Schnell... Sie känne-n-am beste
+                        jügiere, was das fir e Pin isch!...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>'s isch eigentlig wohr, se hàn viel g'litte... weisch Dü
+                        was, Oncle, gib Dü ihne d'Absolütion un loss se
+                        hirothe, ass die G'schichte-n-emol e-n-End nimmt.
+                    </p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Dü magsch viellicht Recht ha... 's wird am End doch nitt
+                        anders z'mache si... drum solle se hirothe...
+                        awer glich... uf dr Stell... De weisch, ass, wenn ich
+                        ebbes im Kopf ha... wo isch's G'meinhüs?...
+                    </p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele.</speaker>
+          <p>Leider isch kei G'meinhüs do, Pape...</p>
+          <pb n="494 495"/>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Aha... 's isch jo wohr <stage>(er lüegt umenander)</stage> wo si mir
+                        eigentlig do?... was isch das fir e-n-Insle?
+                    </p>
+        </sp>
+        <sp who="#jettele #edi">
+          <speaker>Jettele un Edi.</speaker>
+          <p>Jà do... das wisse mir halt selwer nitt!...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>'s isch viellicht d'Insle Pipi!...</p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Jetz si mr wieder emol schön do!... 's beste wàr halt,
+                        mr kännte se verlo, die Insle... awer wie?...
+                    </p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele</speaker>
+          <stage>(wo hintere gange-n-isch)</stage>
+          <p>Ne Schiff, Pape... ne Schiff! mr sin g'rettet!</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Wo, wo?...</p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele.</speaker>
+          <p>Dert... in dr Wite... me sieht erst efange d'Segel!...
+                    </p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Edi.</speaker>
+          <p>Ich sieh nit!...</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Doch dert!... me müess e Signal gà!...</p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Edi, loss e Kanoneschutz los!...</p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Edi.</speaker>
+          <p>Mit was, Schwiegervater?...</p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele.</speaker>
+          <p>We me ne Fahne thàt mache!</p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Do isch mi Nastüech <stage>(Jettele nimmt's un weiht mit).</stage></p>
+        </sp>
+        <sp who="#herr_schnell">
+          <speaker>Herr Schnell.</speaker>
+          <p>Das isch z'klei!... wer zieht si Hem üs?...</p>
+        </sp>
+        <sp who="#edi">
+          <speaker>Edi.</speaker>
+          <p>Mir nitt, denn mir hàn scho lang keis meh!...</p>
+        </sp>
+        <sp who="#jettele">
+          <speaker>Jettele.</speaker>
+          <p>Se hàn is g'sàh... se kämme... sàhn ihr, wie's Schiff
+                        grösser wird!...
+                    </p>
+        </sp>
+        <sp who="#franz">
+          <speaker>Franz.</speaker>
+          <p>Endlig werde mir denn jetz g'rettet un kämme wieder uf
+                        Milhüse z'ruck!....
+                    </p>
+        </sp>
+        <sp who="#franz #herr_schnell #edi #jettele">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l part="Y">Mir wànn uf Milhüse fahre,</l>
+            <l>Uf dàr Insle-n-isch's nitt güet;</l>
+            <l>D'heim, das isch e Sach, e klare,</l>
+            <l>Isch doch 's Glick nur z'finde, 's wahre;</l>
+            <l>Drum gli furt dr Heimeth züe!</l>
+            <l>'s Beste-n-isch's, was mir hàn z'thüe! <stage>(bis)</stage></l>
+            <l>Dert wird d'Hochzit g'macht derno,</l>
+            <l>Wil se nitt ka statt ha do!<stage>} bis</stage></l>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

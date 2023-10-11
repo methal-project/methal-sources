@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E Diplomat</title>
+        <title type="sub">Zwei Lustpiele in Strassburger Mundart von G. Stoskopf. Mit 7 Illustrationen von P. Braunagel</title>
+        <author key="wikidata:Q923554">Gustave Stoskopf</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">nan</idno>
+        <idno type="methal" xml:id="mtl-087"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109596g</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:nan">Gustave Stoskopf</author>
+            <title type="main">E Diplomat</title>
+            <title type="sub">Zwei Lustpiele in Strassburger Mundart von G. Stoskopf. Mit 7 Illustrationen von P. Braunagel</title>
+            <edition>2. Auflage</edition>
+            <publisher>Schlesier &amp; Schweikhardt</publisher>
+            <date when="1899" type="print">1899</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="marx">
+            <persName>Marx</persName>
+          </person>
+          <person sex="F" xml:id="frau_marx">
+            <persName>Frau Marx</persName>
+          </person>
+          <person sex="F" xml:id="babette">
+            <persName>Babette</persName>
+          </person>
+          <person sex="M" xml:id="lutz">
+            <persName>Lutz</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#marx"><role><persName>Marx</persName></role>, <roleDesc>Metzger</roleDesc>.</castItem>
+        <castItem corresp="#frau_marx"><role><persName>Frau Marx</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#babette"><role><persName>Babette</persName></role>, <roleDesc>Schwägerin des Metzgers</roleDesc>.</castItem>
+        <castItem corresp="#lutz"><role><persName>Lutz</persName></role>, <roleDesc>Schlosser</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <sp who="#frau_marx">
+        <speaker> Marx: </speaker>
+        <stage>(allein, an der Mitteltüre horchend. Man hört zankende Stimmen)</stage>
+        <p>Bon, diß isch wid’r e Leitskrambol, was mueß jetz do schun wid’r los sin?! Natierli — ich hab m’r’s doch glich gedenkt. — S’isch mini Fräu, wie mit ihrer Schweschter, mit'm Tant’l, Händel hett. — <stage>(Seufzt)</stage> Wenn äner än Fräu hett, ze reichts als for gewöhnli grad, wenn äner awer zwei um sich erum mueß han wie ich, brücht er nit ze säuje „Gott strof mi“, er isch g’stroft genue ! — <stage>(In befserer Laune)</stage> Jetzt, ’s Tantel diß erwe m’r emol oder au moins unsri King, un do kann m’r sich halt so e manches g’falle Ion. — ’s hett iwrigens Hitz koscht bis m’r so witt gewahn sin, ich hab alli Ränk und Schlich an muehn wende, um se vum Hierothe ab wendisch ze mache, Meh wi zeh Mol hawi se reujes gemacht, un wie, es isch als nit so licht gewahn. — Jetz isch d’Partie Gott sej Dank gewunne, sie isch iwwer'm Alter drüsse, sie isch e-n-alti Schachtel, un vom Hierothe kann kenn Redd meh sin.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx: </speaker>
+        <stage>(kommt hastig in die Stube gestürmt)</stage>
+        <p>Siehsch, ich hab noch allewyl gsäit, sie macht noch emol e Dummheit, s’ isch wäjer d’rwert, daß m’r sich so veel hett g’falle Ion um se !</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ja, was Deifels isch denn do schun wid’r los?!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Was los isch?! — Diß Mensch isch verruckt, säuj i d'r, verruckt! — Hierothe wills! Hierothe !</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>’s Tantel hierothe? — ’s Babette hierothe!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Ja, hierothe !</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ich gläub, dü bisch maschokke, do möcht i awer äu d'rbie sin !</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Ja, ewe grad im Läuf vun-ere Dischküssion hett se m’r's uff de Flade g’striche, un wie, morje hett se schun Verschriewung. Alles hett se diß Dür hinger ünserm Rücke gemacht, alles. Diß mol, hett se gsäit, macht se neemes meh röujies.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Numme ruehig Bluet. — ’s Tantel hierothe?l Nee! — <stage>(schüttelt den Kopf und lacht)</stage> — loß mich numme mache, ’s wurd kenn Bruehj so heiß gesse wie se kocht wurd! —</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Do isch neemes shuldi dran wie d’Ammej, die alt Stündlere, wie zue minere Schweschter allewyl säit, daß se-n-in kem chrischtliche Hüs Iebt. Do hesch’s jetzt! — Marx <stage>(schüttelt wiederholt den Kopf und lacht)</stage>! So g'schwind scheese d’Preiße nit.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Ja, un weisch äu, wer’s isch ?</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ja? — denne möcht i kenne, wie so e G’schmack hett <stage>(lacht)</stage>,</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>’s Lutze Schlosser, d'r Stündler! Marx <stage>(lacht laut auf)</stage> : Was, der alt Bluttkopf denkt noch an’s Hierothe — Na, die täte jetzt zamme passe wie e Füscht uffe-n- Au <stage>(lacht)</stage>. Diß gäb e Päärl! Denne Charivari möcht ich sehn.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx :</speaker>
+        <stage>(weinerlich)</stage>
+        <p>Brüchsch äu noch ze lache, ’s isch ari genue ! Dü wäisch, daß wenn emol e-n-alti Schier Fier fangt, se nimmi ze lösche- n-isch.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Loß mi numme mache, do wurd nix drüs: — Tiens, <stage>(am Fenster schauend)</stage> do kommt grad ’s Tantel, jetzt nit gemückst, Ioß mi mache un speel dini Roll guet, ich mach jetzt wie wenn i mit d'r Händel hätt! — <stage>(Babette herein; Babette ist eine alte Jungfer und steht komisch aus. Marx zu seiner Frau in heftigem Tone, wie wenn er im größten Zorn wäre)</stage> Ich hab d’r’s schun hundert Mol g'säit, diß Läwe hawi satt mit ejerm ewige rum un num Händle, ich will min Läwe in Fredde b’schließe un nit alle Daö de Derikekrej im Hüs han! — Dü muesch äu allewyl dini Schweschter chikaneere !</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Nit emol von sim Mann wurd m’r meh souteneert, dü hesch noch allewyl minere Schweschter recht gen! <stage>(geht ab und tut dergleichen als würde sie weinen)</stage>. Marx <stage>(zu Babette gewandt)</stage> : G’schwej, diß Ding kann un derf nimm so furt gehn! Früehjer wie i jünger gewahn bin, hett’s m’r wenjer gemacht, wenn er de ganze Daö mitander erumdeschpeteert han, awer jetzt, wie i älter wurr, möcht i mini Ruehj han, un do gitts numme-n-än Mittel, Babette, ihr muehn hierothe ! un for’s i frank erüs ze säuje, ich hab e famosi Partie in Üssicht, e junger Wittmann ohne King. Ere hett ejch g’sahn, un ihr täte sini Affär mache. Babette <stage>(affektiert: ’s isch ze spoot, ich bin verlobt, un im Äujieblick wurd miner Hochzitter kumme! Marx <stage>(tut sehr verwunden)</stage>? Isch’s mögli? Was säujee-n-ihr do ? Tant mieux, mes félicitations schüttelt ihr kräftig die Hand)</stage>, Am so besser, wenn’r selwer äine g’funge han. ’s isch allewyl besser m’r hieroth üs Leeb. Ich bin noch stets geje d’ verkuppelte Hochzitte gewahn, wo’s Vermeeje de Häuptüsschlag gän hett. — Kenn ich ejre Hochzitter wenigstens ? ? Babette <stage>(verlegen)</stage> : Ja — rothe-n-emol!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ja, was kann i do rothe, ich seh, daß'r recht verleebt sin. Diß isch Alles. Ich denk, wenn’r äner erüs g’suecht han, ze wurd’s e netter süferer Burscht sin, wie zue ejch paßt <stage>(Babette ist sehr erfreut und geberdet sich wie ein schüchternes junges Mädchen)</stage>, Ich hab halwer Verdacht uff . . . <stage>(macht eine längere Pause, als wollte er die Antwort auf ihrem Gesichte ablesen)</stage> ’s Chrischte Marte.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette :</speaker>
+        <stage>(enttäuscht)</stage>
+        <p>Jo, wie denke-n-ihr anne? — der isch veel ze jung, ich gläub ihr sin nit recht g'schied! —</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Was, säuje-n-ihr do, ze jung?! — Ja, sin ihr denn ebbe-n-alt?! Mit ejerm Vermeeje un ejerm Alter könnte-n-ihr noch e junger han, und for d' Wohrheit ze säuje, zett’r daß ich ejch kenn, sin’r wie m’r schient, un wenn er ejch nit e so altmodisch mutze täte un e bissl meh Toilette mache un ejch à la chien strähle täte wie's Üschenie, ze kennt m’r ejch for e Person so in de Üsgangs zwanzig nemme. Babette <stage>(geschmeichelt)</stage> : Il y a du vrai ! —</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Anderi sueche sich jinger ze mache, un Ihr mache-n-ejch mit Gewalt älter! — Mit dem allem weiß i jetzt als noch nit, wie ejer Hochzitter heitzt! <stage>(Babette zögert)</stage> alle-n-erüs mit d’r Sprooch! —</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Et bien, daß 'r’s wisse, 's isch... <stage>(hält inne)</stage> jo, ich tröuj’s nit ze säuje — ’s isch — ’s isch s’Lutzze Schlosser! Marx <stage>(tut sehr verblüfft; schaut sie verwundert an und schlägt die Hände über dem Kopf zusammen)</stage>; Wa . . . Was? — s’Lutze Schlosser, hör ich recht?! — Der hett jo e Bluttkopf! Was, Ihr nemme-n-äne mit'm e Bluttkopf ? Wenn’r noch wenigstens e Barreck hätt, daß’r nit zü alt for ejch üs thät sahn, un zue ejch passe thät! — D’rzue Schlosser, so e ruessigs Handwerik ! — Un no, fascht kenn Vermeeje un allewyl angethon, daß m’r'm e Sü möcht genn uff dr Stoß. Babette ! Babette ! Ihr mit ejerm scheene Vermeeje !! — Ihr mit ejerer Edükation — do hätt mini Partie besser for i ge- paßt — mais, d’Leeb hett emol sini appartigi Nübbe, un wenn m’r verleebt isch, isch m'r blind — Excusez- moi, ich hab meh g’säit, daß i hätt säuje selle ! —</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Ho, von Leeb isch nit grad d’Redd ! Un for d' Wohrheit ze säuje, ich hab même lang nit ja welle säuje, awer d’Ammej üs’m Stünd’l hett m'r kenn Ruehj gelon.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx :</speaker>
+        <stage>(für sich)</stage>
+        <p>Die Canaille! <stage>(zu Babette)</stage> Ich ver- steh d’ Ammej ganz guet, wenn m’r's recht betracht, ze mache-n-r e guets Werik, wenn’r de Schlosser hie- rothe. Denn ’s isch e Misère gewahn ze sehn, wie'r verwahrlost erumgange-n-isch. — Uff alli Fäll derft'r m’r an ejrem Platz nemmi in sim ruessige Blüs un mit'm Glowe-n-im Mül erumläufe, wenn’r emol g'hieroth sin. Wenn äner e Chance hett, so e gueti Partie ze mache wie der, ze derf’r sich schun ebs g'fälle Ion, denn mit sim Vermeeje soll’s nit wytt here sin, so viel i weiß.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Diß hawi äu shun gedenkt. Kenn Ängschte, bie d'r nächste Geläjeheit wur i's’m säuje, wie’r sich ze verhalte hett, <stage>(Man hört Schritte von draußen)</stage> Babette an’s Fenster. Herrjeh, do kummt’r schun, der isch me- neidi pressiert. <stage>(Zu Marx)</stage> Säuje-n’m, er sell warte, ich kumm grad, ich will noch e bissl Toilette mache; <stage>(für sich)</stage> ’s isch wohr, min Schwöujer hett recht, ich bin noch nit so alt, un wenn i mi e bissl erüsstaffeer, ze seh i noch ganz jung üs, ich mueß im Schlosser e bissl ze verstehn gän, daß i noch jüngeri kennt han as er, un daß ich mich nit um ne riß <stage>(links ab)</stage>, Marx <stage>(allein)</stage>; Maintenant soyons malin! <stage>(es klopft)</stage> Entrez ! <stage>(Schlosser Lutz tritt herein in altmodischem Cylinder und Gehrock)</stage>.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Nix for unguet, daß i kumm derangeere.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Guete Daö, kinftiger Schwöujer ! <stage>(streckt ihm)</stage></p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(verwundert)</stage>
+        <p>So, ich hab eich e Nejigkeit welle bringe, un wie i seh, kenne-n-er se schun!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx :</speaker>
+        <stage>(lacht)</stage>
+        <p> Diß hawi schun Iang gewißt, daß’s  e so kummt pfiffig verlicht vor ejch!</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(sehr verwundert)</stage>
+        <p>Oho!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx :</speaker>
+        <stage>(pfiffig)</stage>
+        <p>Schriewe-n-ejch diß hinger d’Ohre, e Metzjer weiß e jedi Küh, wie ze verkäufe-n-isch, un e jedi Partie, wie ing’fädelt wurd, <stage>(mysteriös)</stage> un b’sonders, wenn m’r selwer infädle hett helfe! —</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(verwundert)</stage>
+        <p>Was, Ihr! Ich versteh nit! —</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ei jo, wie d’Sache jetzt so witt sin, ze kann i's jo g’stehn! —</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Do kumm i jetzt nit drüs erüs — ejri G'schwej hett m’r doch allewyl g’säit, ihr derfe nix d'rvun wiffe, denn ihr thäte wid’r e Stecke-n-in’s Rad stecke! Marx <stage>(ganz vertraulich, nimmt den Schlosser unter den Arm)</stage>; Allons voyons, löuje mich an ohne ze lache; ich e Stecke-n-in’s Rad stecke, wenn ich schon zetter zwei Johr min Möjlichst mach for se ze verschieße?! — Mäne denn ihr, daß 's e G’spaß isch, mit zwei Wiebslitt ze Iewe, wie sich de ganze Daö in de Hoore lejie! Ewe han m’r grad wid'r de Derikekrej im Hüs g'hett! — So e-n-alti Jungfer isch halt gar ze wun- derli, un mini Schuld isch’s weiß Gott nit, daß se noch nit g’hieroth isch, ich suech schon lang, wie g'sait, s’hett awer nimmi recht welle packe, s’hett kenner meh an welle bisse. s’ Tantel isch halt jetzt schun starik uff de Johre, un ’s isch bekannt, daß se s’Rejement im Hüs füehrt! Jetzt, diß weiß ich, do löuje-n-ihr nimm so druff, drum beni froh, daß ihr ejch uff denne Punkt verständigt han. Ihr passe grad zamme, ’s hätt sich nit besser treffe könne, ihr han e ruehige, guete Charakter, sin noochgäwig un sin ge- wohnt, e bissel unterm Pantoffel ze stehn vun ejere verstorwene Scweschter here. D’rno höre-n-er äu e bissl iwwel zue Zitte, so veel ich weiß. Diß isch äu vun Vorthäl, wenn se-n-ejch emol de Kawes eralest. Ich hab schun manchmol gewünscht, ich wär täub wie e Trompeterschimmel!</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Oho, so täub bin i mit! — Ich hoer numme-n-iwel, wenn’s andersch Wetter gitt.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ich mach numme G’spaß, wie g’säit, ihr passe guet zamme, ihr hätte schwer e-n-andri g'funge un sie noch difffciler e-n-andre, un diß isch e famoser Grund, daß zwei enander nemme; alli Hierothe, mache sich so. — Hett nit d’vorig Woch d'r krumm Krämbeschängel d’scheel Nähjermej g’hieroth? jetzt mit ejch isch’s doch e-n-anderlei.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Wenn ihr mäne, daß ich schunsch kenn Partie meh hätt könne mache, ze trumpeere-n-ihr ejch nit letz. Ich hätt noch d'Wahl. Erscht vor kurzem isch m’r e Wittfräu ohne King anoffreert worre. Sie isch m’r awer ze jung gewahn.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <stage>(lachend)</stage>
+        <p>Diß kann m’r vum Tant’l nit säuje, die hett, was se brücht, jeßt diß schad nix, no hett se-n-äu de Schwooweverstand, un d’Häuptsach for ejch isch, ihr mache-n-e gueti Partie. Wenn ihri paar Haardtstickle äu nemmi veel werth sin un weni Zins ingträuje, so veel i weiß hann’r weni oder gar kenn Vermeeje. Lutz Öho, do könnte-n-r awer äu getrumpeert sin. So veel, wie ejri G’schwej wurr i äu noch han, un wenn m’r recht löuje wurd, ze wurd sie's sin, wie e gueti Partie macht. Ihr han’s jo ewe selmwer muehn säuje, daß ihri paar Haardtstickle nemmi veel werth sin.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Tant mieux, tant mieux! Es sell mich fräje, daß d’Babette e gueti Partie macht, no brücht se doch nit de Rescht vun ihre Däj im Spital zue- bringe, denn mir hätte se um kenne Pris meh länger gebhalte, denn sie bekummt alle Daö meh Nübbe, in d'r leschte Zitt isch se sogar mit der Hoffahrt geblöujt, m’r sin ere alli nemmi guet genue angethon. — Was i säuje will, ich will e Sprung nab in de Keller, e Glas Wien hole, for uff ejeri G’sundheit anzestoße, denn de brücht m’r, wenn m’r g’hieroth isch, schunsch bringt äne d’r Zom um for d’r Zitt. — Mache's ejch zett’r bequem, Schwöujer <stage>(ab)</stage>.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(den Kopf schüttelnd)</stage>
+        <p>Schwöujer! . . . Ich weiß nit, die G’schicht will m’r numme noch iwer halwer g'falle, <stage>(Babette durch die Türe links kommmend, hat den Rat ihres Schwagers befolgt und hat versucht, sich jung zu machen; sie ist à la chien gekämmt und ist sehr affektiert.)</stage> Lutz Was Deifels, wie hesch denn dü dich ge- mutzt? <stage>(für sich)</stage> S'isch wid d’r Metzjer g’säit hett.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette :</speaker>
+        <stage>(ärgerih)</stage>
+        <p>Gemutzt?! — Ich bin im e-n- Alter, wie m’r noch ebs uff sin Üsseres leije mueß. — <stage>(Lutz schüttelt verwundert den Kopf.)</stage> Ja, brüchsch gar nit so dumm ze löuje un ze lache! — Diß isch iwwerhäupt e-n-appartigi Maneer, sini Hochzittere so ze-n-empfange, un daß de glich wäisch, wenn m’r emol g’hieroth sin, no kummt d’Reih äu an dich, dü siehsch jo allewyl üs, daß m'r d’r e Sü möcht gän uff d’r Stroß. —</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Oho! — Spar din Sprich! — <stage>(für sich)</stage> Jetzt geht m’r e Licht uff wie e Fackel, kenn Wunder, daß se d’r Metzjer Ios will sin.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Vor alle Sticke muesch emol e Kamifol statt e Blüs träuje in de Woche, un e Kräuje à la mode.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Schunsch nix?</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Ja, schunsch nirx! — Doch, noch ebs, wie m’r in d’Stadt kumme, schaffsch d’r e Barrick an</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(verwundert)</stage>
+        <p>E Barrick — Ich gläub !? diß Mensch isch maschücke ! — Babette <stage>(weinerlich)</stage>! Maschücke !? — Jetzt hör numme-n-än Mensch denne-n-an!</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Ja, un daß de glich wäisch, e so komme- deere loß i mi doch nit vun d’r! <stage>(für sich)</stage> S'isch wajer, wie d’r Metzjer g’säit hett, ich bin noch nit g’hieroth.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Dü bisch meneidi kürios! —</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Was, ich bin kürios?! — Nee, dü bisch kürios, wäifch e so wie dü gitts noch meh; mit dine paar Schelli un dine paar Haardtstickle, wie nix meh träuje, kannsch di nit an de Lade Ieije.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Ja, waje was nimmsch mi denn schunsch ?! — Mit mim Vermeeje, un so jung wie ich noch üffeh, kann ich noch alle Daö äne han, erscht hitt hett m’r min Schwöujer äne anoffreert un d’rzü e junger,</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz:</speaker>
+        <p>Was Wunders, diner Schwöujer möcht di zuem Hüs drüffe han, er hett m’r’s selwer g'säit, du reste, wenn dü Ieewer e junger hesch, so nimm denne junge, ich könnt äu noch e jungi han, daß de’ s grad wäisch!</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Doch, die wott ich sahn, wie dich wott mit dim Bluttkopf.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(im Zorn)</stage>
+        <p>Was, Bluttkopf?! — S'schient, daß d’r der Bluttkopf doch g’falle hett?! Wer hett denn z’erscht angfröuit, ich oder dü ? Wer isch d'r Ammej fascht s' Hüs inggeloffe?</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Wer? — Dü !! —</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <p>Nee, diß Toupet ! — Ich hab lang genöuj nit gewellt, kannsch d’Ammej selwer fröuje.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Dü Lejier! — Ich hab nit gewellt, wenn d’Ammej nit gewahn wär, wie hett g’säit, ich mach e chrischtlichs Werik, wenn ich dich nimm, wie de so verwahrlost erumgehsch, ze hätt i mich wajer nit dessideert! Lutz <stage>(im größten zorn)</stage> Wie die alt' Schachtel d’Sache verdräje kann! Babette <stage>(sinkt Halb ohmmächtig in den Lehnstuhl)</stage> Was? Alti Schachtel, ich wurr ohnmächtig <stage>(ste trocknet sich ab mit dem Taschentuch)</stage> Schwöujer ! Schwöujer ! Wasser! Effi! Alti Schachtel hett'r m’r g’säit! Alti Schachtel!</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(für sich)</stage>
+        <p>Ich hab’ D’Ammej gemänt, awer ’s magıt äu nix, deschto besser! — Marx <stage>(von links kommend)</stage> : Um s’Himmelswille, was isch denn do los?</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette :</speaker>
+        <stage>(richtet sich auf)</stage>
+        <p>Alti Schachtel hett’r m’r g'säit ! — Schmisse ne nüs denne Gascht ! — Oh, ich wurr ohnmächtig <stage>(sinkt wieder in den Lehnstuhl zurück)</stage>.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx :</speaker>
+        <stage>(zu der Türe hinausrufend)</stage>
+        <p>Fräu ! g’schwind Essi ! <stage>(Zu Lutz)</stage>: Was isch do vorgange, jetzt bring i se gläuwi wid’r nit los, was m’r diß nit isch ! — Nemme se doch, ich will die Sach' wid’r arrangeere !</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(langt schnell seinen Hut und läuft zur Türe hinten)</stage>
+        <p>Nee, nee, um s’Himmelswille nee, b’halte-n-er se numme, ich will se um kenne Pries, d’Äuje sin m’r uffgange ! <stage>(Babette ist unterdessen wieder zu sich gekommen und hört den Schluß der Unter- haltung)</stage>. E so e Gifthaafe? Nee, merci veelmol ! merci!</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Was!? Gifthaafe ! Ah! <stage>(erneuter Oh: machtsanfall)</stage>.</p>
+      </sp>
+      <sp who="#lutz">
+        <speaker>Lutz :</speaker>
+        <stage>(für sich)</stage>
+        <p>Jetzt isch Zytt, daß i d' Platt butz ! <stage>(Zu Marx)</stage>: Adjeh, un nix for unguet! <stage>(schnell ab)</stage>.</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <stage>(von links kommend mit Essig)</stage>
+        <p>O dü mein! O dü mein! Was isch denn g’schehn? <stage>(macht Babette den Effig schnupfen, dieselbe kommt zu sich)</stage>.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Schachtel! Bifthaafe! <stage>(versteckt ihr Gesicht in den Händen)</stage>. Der impertinent Mensch! <stage>(Zu Marx Schwöujer)</stage> gelte-n-ihr verzejhe m’r, was i gemacht hab? — Ich wil’s sicher nimmi thuen!</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Marx:</speaker>
+        <p>Ja m’r verzejhe-n-i, un sin froh, daß’r die alt Schwardt nit bekumme han! Ich suech ejch jetzt e junger.</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Nee! Nee! D’Männer sin alli kenn Bohn werth ! — Ich bin küreert, ich will kenne meh, um kenne Pries! — Gelte-n-ihr b’halte mi wid’r ?</p>
+      </sp>
+      <sp who="#frau_marx">
+        <speaker>Frau Marx:</speaker>
+        <p>Ja gewiß, dü derfsch wid’r bie uns bliewe!</p>
+      </sp>
+      <sp who="#babette">
+        <speaker>Babette:</speaker>
+        <p>Un tröschde-n-ejch jetzt, un vergesse de mankeert Hieroth!</p>
+        <stage>Der Vorhang fällt</stage>
+      </sp>
+    </body>
+  </text>
+</TEI>

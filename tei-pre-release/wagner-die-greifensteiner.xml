@@ -1,0 +1,1887 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Greifensteiner</title>
+        <title type="sub">oder Hugo, der Abtrünnige. Volksstück im Elsässer-Dialekt in 4. Akten von Emile Wagner</title>
+        <author key="wikidata:Q97034509">Emile Wagner</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">nan</idno>
+        <idno type="methal" xml:id="mtl-109"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/bpt6k9109758g</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:nan">Emile Wagner</author>
+            <title type="main">Die Greifensteiner</title>
+            <title type="sub">oder Hugo, der Abtrünnige. Volksstück im Elsässer-Dialekt in 4. Akten von Emile Wagner</title>
+            <publisher>Theater Verlag  Rouffach, Imprimerie J. Keller-Immelé</publisher>
+            <date when="1930" type="print">1930</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="rudolf_von_greifenstein">
+            <persName>Rudolf von Greifenstein</persName>
+          </person>
+          <person sex="M" xml:id="hugo_von_greifenstein">
+            <persName>Hugo von Greifenstein</persName>
+          </person>
+          <person sex="M" xml:id="walter_von_wettolsheim">
+            <persName>Walter von Wettolsheim</persName>
+          </person>
+          <person sex="M" xml:id="heinrich_von_geroldseck">
+            <persName>Heinrich von Geroldseck</persName>
+          </person>
+          <person sex="M" xml:id="konrad_von_lichtenberg">
+            <persName>Konrad von Lichtenberg</persName>
+          </person>
+          <person sex="M" xml:id="achmed">
+            <persName>Achmed</persName>
+          </person>
+          <person sex="M" xml:id="hassan">
+            <persName>Hassan</persName>
+          </person>
+          <person sex="M" xml:id="christian">
+            <persName>Christian</persName>
+          </person>
+          <person sex="M" xml:id="toni">
+            <persName>Toni</persName>
+          </person>
+          <person sex="M" xml:id="koch">
+            <persName>Koch</persName>
+          </person>
+          <person sex="M" xml:id="soldaten">
+            <persName>Soldaten</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#rudolf_von_greifenstein"><role><persName>Rudolf von Greifenstein</persName></role>, <roleDesc>Etwa 35 Jahre alt. Schöne, edle Gestalt</roleDesc>.</castItem>
+        <castItem corresp="#hugo_von_greifenstein"><role><persName>Hugo von Greifenstein</persName></role>, <roleDesc>Dessen Brüder. Lehnsmann des Fürstbischoffs von Strassburg auf Hoh-Barr. Heftiges, heissblütiges Temperament. 28 Jahr etwa</roleDesc>.</castItem>
+        <castItem corresp="#walter_von_wettolsheim"><role><persName>Walter von Wettolsheim</persName></role>, <roleDesc>Freund Hugo's, Edelknecht. Gleiches Alter</roleDesc>.</castItem>
+        <castItem corresp="#heinrich_von_geroldseck"><role><persName>Heinrich von Geroldseck</persName></role>, <roleDesc>Etwa 40 Jahre alt</roleDesc>.</castItem>
+        <castItem corresp="#konrad_von_lichtenberg"><role><persName>Konrad von Lichtenberg</persName></role>, <roleDesc>Freund Rudolphs. ― Etwa 50 Jahre alt</roleDesc>.</castItem>
+        <castItem corresp="#achmed"><role><persName>Achmed</persName></role>, <roleDesc>Emir von Jaffa. ― Edle, braune Gesichtszüge; trägt Turban. ― Kann gew. Ritterkleider oder türkische Kleider trager (weiter wiesser Mantel)</roleDesc>.</castItem>
+        <castGroup>
+          <castItem corresp="#hassan">
+            <role>
+              <persName>Hassan</persName>
+            </role>
+            <roleDesc>erster Diener des Emirs </roleDesc>
+          </castItem>
+          <castItem corresp="#suleiman">
+            <role>
+              <persName>Suleiman</persName>
+            </role>
+            <roleDesc>zweiter Diener</roleDesc>
+          </castItem>
+          <roleDesc> (Beide fast stumme Rollen). Turban, Hemd, Hosen, Gürtel, Dolch. Hassan, eine Peitsche</roleDesc>
+        </castGroup>
+        <castItem corresp="#christian"><role><persName>Christian</persName></role>, <roleDesc>Alter Holzhauer</roleDesc>.</castItem>
+        <castItem corresp="#toni"><role><persName>Toni</persName></role>, <roleDesc>Junger Holzhauer. ― Im IV. Akt: Dienstmann</roleDesc>.</castItem>
+        <castItem corresp="#koch"><role><persName>Koch</persName></role>, <roleDesc>Ueber 50 Jahre alt, dick gutmütig, beschränkt (dumm); Bote des Bischofs: Kann im III. und IV. Akt als Soldat auftreten.</roleDesc>.</castItem>
+        <castItem corresp="#soldaten"><role><persName>Soldaten</persName></role>, <roleDesc>etwa 4; Lanzen, Schwerter, Helme (Feuerwehr) wenn möglich Schilde (Pappe). ― Nur 10 sprechenede Rollen. Die andern sind stumme oder fast Stumme Rollen. </roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act">
+        <head> 1. Akt. </head>
+        <div type="scene">
+          <head> 1. Szene. </head>
+          <stage> Konrad von Lichtenberg, Rudolf.  «Vereint nun schreiten wir durch alle Schicksalsfälle,  Wenn nicht zum Himmel, Hand in Hand zur Hölle.»</stage>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Wahrhaft a wunderbari Jagd, wu mir hit ghalte han, in Dina Walder, Rudolf. Un rich di Jagdbeute: A machtiger Bar, 10 Hirsch, nit zu reda vo da Reh un allerlei Roibwild noch.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>In dr Tat, Glick han mir gha. Awer da Bar, Herr Konrad <stage>(lächelnd)</stage> da han Ihr uf’m Gwissa. Dini sicher Hand hat na anagstreckt, Di Jagdmesser hat na durchbohrt. Da verrisst da arma Hirta ke Kalb mehr. Drum hab ich na oi Dir, liewer Frind uf dr Waga packa loh un a paar Hirsch drzüa.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Ich dank Dir, Rudolf. Doch s’Fell, das loss ich garwa, um’s Adelinde zu verehra, Dim liewa Wib. Zahlreich isch hit d’Jagdgsellschaft gsih. Nur einer hab ich vermisst, die Brüe- dr Hugo. Isch’r nit iglada gsih?</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Ar isch glada gsih. Awer — ich weiss nit, was mit mim Brüeder isch. Sit ich ghirota Din, isch ar ganz andersch. Un sit ar gar üs’m Faldzug vo Italia zruck isch, do isch ar erscht racht fremd wora.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Sot villicht si Frend do dra schuld si, wu ar üs Italia zruck brocht hat, wu d’Stell vom Schlossvogt versieht, will dr alt a Dissel z’schwach isch, dert owa zu regiera unter da Dienschtlit.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Ihr meina Walter von Wettolsheim. Ich gloib küm. Ar macht kei schlachta Idruck. Hugo hat’m s’Lawa grettet ufm Kriegszug in Italie. Bi Neapel, dert hat ar na rüsghoia üsm a Rudel Menschemerder wu na z’Nachts uf’m a einsama Poschta iwerfalla han. Sithar sin si dicki Frend un die Dankbarkeit vo Walter kennt kei Granza mehr. Sie han oi Blüetsbrüederschaft sich gschwora, ihr Blüet im a Bacher gmischt un dr alta Schwur geto:
+	      <lg>
+	        <l>«Vereint nun schreiten wir durch alle Schicksalsfälle,</l>
+		<l>Wenn nicht zum Himmel, Hand in Hand zur Hölle.»</l>
+	      </lg>
+	    </p>	      
+          </sp>
+          <pb n= '8' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Ich warn Dich, Rudolf! Ich han s’letschamol, wu ich Eich binander gsah hab, dr besa Blick gsah, wu Hugo uf Dir hafta hat loh — un noch ebs anders... Also blieb uf Diner Hüet — wahr Di Wib, Di Schloss un Di Güet. <stage>(Man hört ein Horn)</stage>. Doch, ich mües geh. Hersch, mini Lit, mitm Waga, mini Knappa mit da Pferd. Sie riefa, — Ich mües geh.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Erloib as ich Dich noch geleit bis zu Dina Lit. Wenn mr so a ganza Tag im Sattel gsih isch, tüet eim a kleina Marsch wohl. — <stage>(Beide ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Szene. </head>
+          <stage> Hugo, Walter. Das passt jo vorzüglich zu mine Plan. Wenn mr nur s’Gleck hetta,  as uns s’Briederla jetz in d’Hand gat loifa! Lüeg Walter! Dr  Himmel salwer isch uns noch günschtig!</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dasmol fallt ar in unsri Hand! Dasmol entgeht ar uns nit! S’wurd ihm hoffentlich nit ifalla, a andra Wag zum Ruckwag zü nahma.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich warn Dich noch amol, Hugo! Hugo, s’isch a Spiel uf Lawa un Tod!!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(fest)</stage>
+            <p>Ja — — uf Lawa un Tod!! Entweder da Streich glickt, drno kann ich wieder lawa — oder es geht schief — -—- Hols der Teufel drno? — D’rno verschwind ich üs dam Land — zieh furt in dr Krieg, in d'r Kampf, Vergassa zu süecha, waga mir oi umzukomma, denn genüa hab ich, vo dam lustiga Lawa!!! <stage>(stampfend)</stage> genüa! genüa!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich versteh Dich nit! Isch denn Die Lawa wirk- lig so reizlos, so unertragbar? Was geht in Dir vor? Dü bisch üs edlem, altem, angsahna Gschlacht, bisch jung, schen, kannsch noch zu hohe Ehra ufstiega. A tapferer Ritter wie Dü, isch dam ebs unerreichbar. Mir lawa in dr Zit, wu a tapfera Ritter mit sim güeta Schwart Grafschafta, ja Fürschtakrona sich erobert. Dü kannsch Dich vermähla mit ra herrlicha Edeldama, Lieb.... HUGO <stage>(unterbrechend — wütend)</stage> Un groi un bucklig wara, bis sich das alles erfüllt. — Nein — bol, will ich Lieb un Rich- tum, um na zu geniessa — — — oder nia!!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ja — awer Hand an si Brüeder zu lega, si Brüeder zu morda — das ich kei Ritterarwet, das isch a gmein Ver- brecha.</p>
+          </sp>
+          <pb n= '9' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(höhnisch lachend)</stage>
+            <p>Nann’s wie Dü wit. Mi Brüeder mües verschwinda üs mim Wag.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich kan nix drfir — awer lüeg... es kummt mir immer das Wort Kain in dr Sinn. Was hat Dir denn Di Brüeder geto? Ar weigert sich als, Dir üszuhalfa, wenn Dü als a bissel zviel Schulda macha tüesch. Awer üs dam Grund Dim Brüeder ans Lawa zu wella — das isch doch wirklich verbracherisch. Ich hab’s Dir scho gsait.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Feigling! Hasch Dü Angscht?? So gang doch heim! Ich fall na allei an!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Hugo... Mir ham uns Blüetsbrüederschaft gschwora. — Ich verloss Dich nie. Dina Streit isch mina Streit. Wer gega Dich steht hat’s mit mir zu tüe. — Zähl uf mich. Doch grad will ich Di Frind bin, will ich’s güet mit Dir mein, rot ich Dir zum letschtamol: Los ab vo Dim Vorhaba. — Mir schwand nix Güets.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Hör, bis jetzt han ich Dir dr tiefa Grund ver- schwiega, un Dich gloiwa lo, as seig a Galdfrog, wu mich rasend macht gega dr Brüeder. Awer dr Hass gega mi Brüeder hat viel tiefra Grund. Ich han Dir’s später wella saga. — Doch soll’sch Dü’s jetz glich erfahra. Antwort ha uf die Frog, worum ich miner Brüeder so furchtbar hass, wurum mir’s Lawa so zur Qual. So erfahr’s denn in eim Satz: Mi Brüeder hat die an dr Altar gfiahrt wu ich salwer gliebt han mit jeder Harzensfaser, wie ich noch nie a Wib gliebt hann!!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>So hasch Dü, armer Hugo, Adelinde vo Andlau gliebt, die Froi vo Dim leibeigena Brüeder!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(finster)</stage>
+            <p>So isch’s. Gliebt rasend, wahnsinnig! Un — — — lieb sie noch!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Unseliger! Un sie? Weiss sie drum?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Wohl wurd sie es wissa — und hat doch mi Brüeder vorzoge, wu viel älter isch als sie. Wurum? S’isch wohl nit schwar zu errota. Will ar Herr vo unserer Stammburg isch, Herr vo dam andlosa Grundbsitz um ich a Ritter vo Habenichts, a armer Lehnsmann vom Bischof uf Hoh-Barr, dam mi Schwart verpflichtet isch un dam mini Freiheit verkoift isch.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Hat denn Adelinde Dini Liab erwiedert gha?</p>
+          </sp>
+          <pb n= '10' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ich behoipt ja. Sicher isch sie mir gewoga gsi. Ich hab’s an allem gmerkt. Doch wu mi Brüeder angfanga hat, ihr dr Hof zu macha, do isch sie uf einmol kalt un kälter gega mich wora.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Armer Hugo. Un Dü meinsch as isch s’Vermöga gsih, wu dr Uesschlag ga hat? Dü hasch mir aber bi fröhlichem Bacherklang so a paar galanti Jagdabenteuer... ich mein uf manschlich Wild verzählt. Sot sie nit am And Dich im Verdacht ha als Schürzejäger?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(böse)</stage>
+            <p>Drno isch’s wieder niemets andersch gsih as mi Brüeder, da elandig Schlicher um mich üszustacha. <stage>(Klopft auf seine Brust)</stage>. Un sithar brennt’s wie Fir in mim Büesa, ver- zehrt mich, losst nimmer mich Rüeh finda. — — — Nur a tiefi Bach kann mich befriediga, berühiga, das Fir löscha in meiner Bruscht — — un dr Bsitz vo Adelinde.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(milde)</stage>
+            <p>Awer a Brüeder morda!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Han mir nit abgred, mi Brüeder zu iwerfalle un zu fessla. — — — Wer red vo morda?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich han gloibt Dü wit na iwerfalle, wit'm Gald abprassa un drno wieder d’Freiheit ga. — Awer, noch dam, was ich do vernumma —- gsieh ich, as die Sach viel arnschter soll wara...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Arnscht? Jawohl. Nimmer kehrt mi Brüeder zruck an die Bruscht vo dar, wu ich salber so wahnsinnig liab.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>So witt Dü ihm doch ans Lawa?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ans Lawa? Nai, <stage>(boshaft lächelnd)</stage> ich halt na nur gfanga.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>M'r wurd na süecha. Adelinde wurd na zerscht süecha loh, bi uns uf Hoh-Barr. Sie wurd sich an dr Bischof wanda, Dina Lehnsherr un d’Gfangnis üssüecha loh un mr wurd...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(schnell)</stage>
+            <p>Nix finda. — — — Dü lüegsch verdutzt? — — Nix finda hab ich gsait. — Hahahaha! Di Gsicht isch wirklich nit geischtreich! — Ich hab noch nit Zit gha, Dich ganz in mini Plan izuweiha. — <stage>(Es blitzt, — fernes Donnergrollen, — es ist mittlerweile fast ganz Nacht geworden)</stage>. — Was isch das — ich gloib wohl, as ziet an Watter eruf! <stage>(Klatscht in die Hände)</stage>.</p>
+          </sp>
+          <pb n= '11' />
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Spott nit! —- Doch still! Ich hör Stimma!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>In dr Tat. — Sot mi Brüeder nit allei si? Höll un Teifel? Drno könna mir na nit afalla! As kennt eina entkumma. — Schnall hinter salli Felsa un abwarta! <stage>(Es blitzt — und don- nert leise von Zeit zu Zeit)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Szene. </head>
+          <stage> Christian, Toni.  griena Wald... bi Vogelsang. — All das dünkt mich keschtlicher  als Gald un Macht. Dü benietsch d’Greifasteiner. — Ja s’Glieck  hat na glacht in da letschta Johrzehnt. Aweer ich han oi höra  verzehla vo Zita, wu Trür un Leid gwohnt sin dert hinter sala  feschta Müra hera verzehla vo entarteti Sprossa vo dam Gschlacht  — — — höre verzehla vom a Tag wu alli wehrhafti Greifasteiner  umkumma si in blüeliger Schlacht: Vater, Brüeder un Söhn — bis  uf dr jüngschta... Ja, ja... un s’wurd oi sunscht nit immer alles  so grad ganga si un noch geh. — Mir han nit in d’Harza, wissa  nit was fir firigi Teifel dert umgeh: Habgier, Nied, sindhafti  Begahra, Hass und andri unheimlichi Machta, si finda bi da  Richa viel ender Igang as bim Arma...</stage>
+          <sp who="#christian">
+            <speaker>CHRISTIAN:</speaker>
+            <p>Halt, Toni, a Oigablick nur loss mich üsschnüfa. — — — Mini alti Bruscht. -— — — <stage>(keuchend)</stage>. Di Schritt isch a bissel zu schnall für mich. <stage>(Stützt sich auf seine Axt)</stage>.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Gloib’s wohl, Chrischtian, Ihr han oi scho iwer 50 Johr uf’m Buckel. Ihr sotta iwerhoipt Eich schona in Eira alta Tag un nimmi in dr Wald ghe schaffa. Ich mein, Ihr han in Eirem Lawa scho genüe geschafft.</p>
+          </sp>
+          <sp who="#christian">
+            <speaker>CHRISTIAN:</speaker>
+            <p>Sal isch wohr. Awer üsrühe? As heisst lawa — verdiena für unsereins Dis zum letschta Schnüfer.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Mir sin halt armi Teifel, kei Herralit, wie d’Greifa- steiner, do driwa. Die sin nur für’s Glick in dr Walt un mir armi Teifel für’s Schinda, fir’s misère. — D’Glicksgieter sin doch miserabel schlacht verteilt. Der ein hat zu viel — wurd iwer- mietig bi sim Richtum, dr ander hat zu wenig. Ja, wenn m'r das üsglicha kennt!!!</p>
+          </sp>
+          <sp who="#christian">
+            <speaker>CHRISTIAN :</speaker>
+            <stage>(langsam, bedächtig)</stage>
+            <p>Halt, Toni... So red mr im Volk, s’isch wohr! Awer siter as d’Walt steht, hat’s Richi un Armi ga...! Dr eina kummt hoch, ar spart, sini Vorfahra hans so scho in dr Gwohnet gha. A bissele Glick hat na gholfa un langsam stiegt d’Familia in d’Höh, wurd rich, angsah. Anderi Familie falla vo ihrer Höh. A ewig Stiega un Falla... — Un so wurd’s wohl racht sin. <stage>(Pause)</stage> Awer — verwachsel nit Richtum un Glick — denn das isch zweierlei. Nit alli Richi sin so glicklig wie ich im Lawa gsi bin, wu ich noch gsund und stark gsi bin. A brav, liebs Wib harzigi, gsundi Rinder — — — nie kei wirk- ligi Not — — wenn oi scho amol vorüwergehend Schmalhans Küchameischter gsi isch. Un das herrlich Lawa un Schaffa im</p>
+          </sp>
+          <pb n= '12' />
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Vater Chrischtian, Ihr reda so warm, so iwerziegend wie unser H. Pfarrer. S’isch wohr — was Ihr do saga. Ja, wenn mr halt bol 70 Johr ins Lawa gückt... drno schoit mr’s Lawa mit andri Oiga an. Dr Erfahrung lehrt halt anderscht danka. <stage>(Pause — Es blitzt)</stage> — Ich gloib s’Watter kummt immer nacher. Wann mr nit gehn, Ihr wara bol verschnüft han?</p>
+          </sp>
+          <sp who="#christian">
+            <speaker>CHRISTIAN:</speaker>
+            <p>Nur noch a Wort s’kennt m'r entfalla. Bisch Dü in letschter Zit Hugo vo Greifenstein begegnet? Ar isch frieher a rasch, lichtsinnig Blüet gsi... un..., doch hat m'r na nit unlieb gha, nirgends. — Doch in letschter Zit isch ar mir a paarmol begegnet im Wald, in finschter Sinna versunka... — Ich sag Dir, Toni, da isch nix weniger als glicklig. In dam si Harz hüst oi kei güeta Geischt, da hat oi ebs zu traga... — Un lüeg doch gilt ar fir a tapfra Dega, steht in Gunscht bi sim Lehns- herr dr Fürschtbischof vo Strosburg, wohnt in stolzem Schloss, im Leh uf Hoh-Barr..., un isch doch ni glicklig...!</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Da lichtsinnig Vogel verdient oi nit as ar glicklich isch. — <stage>(Blitz und starker Donnerschlag)</stage>. Ei — jetzt heisst’s awer ab, sunscht wara mir pudelnass. —</p>
+          </sp>
+          <sp who="#christian">
+            <speaker>CHRISTIAN:</speaker>
+            <p>Ja, gehn mir! <stage>(Ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Szene. </head>
+          <stage> Hugo, Walter.</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(wütend)</stage>
+            <p>Ich hab bol nimm an mich halta könne! — Da kann vo Glick reda, as ich mich da Owe nit han derfa <pb n="13"/> zeiga. Ich hätt da ungschlachta Tölpel butterweich gschlaga. — Awer s’isch güet ufghoba... Ich will dam klotziga Dummschadel halfa, so iwer a Ritter zu reda...</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Gsteh a bissel, liewer Frind, as wenigschtens dr Alt tiefi Weisheit gred hat... un... Dü tat’sch güet dran, abzustehn von Dina Plan, solahg as noch Zit isch, Doch sag mir noch, wu wit Dü denn Di Brüeder unterbringa. Das isch mir a Ratsel!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Nimm lang, So hör! — Zwischa dr erscht un dr zweit Ringmür isch frieher a Brunna gsih. Doch siter as s’Schloss a dritti Ringmür hat, isch a neia Brunna tiefer unta zwischa dr zweita und dritta Ringmür gegrawa wora, wu reichlich Wasser liefert. — Doch isch dr höher Brunna vollständig versiegt, üs- getrocknet, isch mit Bratter züe gedeckt un sithar dankt kei Mansch mehr an da Brunna. Gebüsch wuchert drum herum, kei Mensch kummt mehr do ana. Salbscht die Wacha halta nur mehr Wach uf dr dritt Schlossmür. <stage>(Pause)</stage>.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Witerscht!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Do lehn mr dr Brüeder herab!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>` Un wann na do elandig verhungra loh?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(spottend)</stage>
+            <p>Was dankt die Harz? Ich loss doch mi liewa Briederla nit verhungra!! — Einer vo uns losst ihm vo Zit zu Zit in dr Nacht herunter, was ar brücht zum Lawa! — Ar därf nur nimm zruckkehra! <stage>(stampfend)</stage> Hörsch, ich will nimm as ar ihr aghört. — <stage>(wütend)</stage> Ich wur rasend wenn ich nur do dra dank. — Schloss Greifenstein un mi stolzi Schwägerin, mi mien si wara — Mi !!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich tat Dich jo vo Harza garn glicklig sah — awer... a Brüeder!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Kann manchmol unser gröschte Find si — Mi Brüeder hat mir alles groibt wu’s s'Lawa schen un begahrenswart macht — Ohna ihna war ich eigener Herr uf Greifenstein. Ar hat mir Adelinde gestohla mini Seligkeit, das Wib, an das ich dank im Wacha un Treima — <stage>(hart)</stage> Das halt ich nimm üs!!! Ar oder ich!! Für uns beidi isch nimm Platz an dr Sunn — Un Dü — wit Dü mich verloh — — — so geh — — drno blibt einer tot uf dam Platz: Rudolf oder ich! Geh! Noch isch’s Zit!!</p>
+          </sp>
+          <pb n= '14' />
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Dich verloh! Nei — Ich han’s gschwora: Vereint schreiten wir durch alle Schicksalsfälle <stage>(Pause)</stage> — Un Dir ver- dank ich mi Lawa, As ghert Dir. <stage>(Das Gewitter ist viel näher -— Blitz und Schlag -— manchmal näher, manchmal weiter)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Szene. </head>
+          <stage> Die Vorigen, Rudolf.  verschwinda — mi Gfangener wara! Un jetzt voran. — Mir han  üsgred!</stage>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Zruck, ich han a Gstalt sa kumma —</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>In’s Versteck —</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>D’Elemanta towa. Ich will nit länger zögra heim- zukehra -— heim zu Adelinde, miner harzliewa Gattin <stage>(geht links und schaut in die Ferne)</stage>. Dert liegt si, mini liewi, alti Burg, finschter und schwiegsam. Doch nein — im Wohnsaal glanzt a gaschtlich Liacht — un winkt mr fröhlich züe: Kumm heim, Dini herrzliab Gattin erwartet Dich sehnsüchtig, angschtigt sich, Dich bi dam Mordswatter drussa zu wissa. -— Wie glicklig ich bin, wie so froh! Wie so harzensglicklig. Ei schwarza Schatta nur in unserem Gleck. Konrad hat Racht. Sit als Adelinde mi harz- lieb Gemahl, zeigt mi Brüeder Hugo so saltsam Wesa zur Schoi — isch so fremd, so finschter. Fascht findselig hafta sini Oiga uf Adelinde wenn ar sich unbeobachtet gloibt. Was hat ar oi nur? — <stage>(Hugo und Walter fallen ihn wortlos an und fesseln ihn nach heftigem Ringen)</stage>. Ein Blitz zuckt. Beim Ringen ruft Rudolf: Zu Hilf!!! Beim Leuchten des Blitzes erkennt er Hugo.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Dü Hugo? — — — Ich Din Rudolf, Din Brüeder! Mach nur die Fessel awag, Dü hasch dr latz agfalla! — Oder — soll das a Scharz si?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Wenn Dü Rudolf vo Greifenstein bisch, so sin mr racht. Dich han mr do erwartet, un kei andra.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Mach doch kei langi Gschichta do! Die Fessel awag! Dr Scharz hat scho zlang dürt. S’isch hit kei Zit zu so Narrheita!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Im Gegateil, s"Watter passt uns ganz herrlich zu mim Vorhaba! — S’isch uns bitter arnscht, un kei Gspass isch’s wu mir do uns leischta. — As isch bittrer Arnscht. — Rudolf, Dü bisch mi Gfangener. <stage>(Legt ihm die Hand auf die Achsel)</stage>.</p>
+          </sp>
+          <pb n= '15' />
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Was wit Dü vo mir? — Was hab ich Dir zleid geto? Bisch wieder in Galdverlagaheita un wit Dü mich so zwinga, Dir zu halfa? Red! Ich wil heim. Adelinde wartet uf mich!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(böse)</stage>
+            <p>Nu ja — so wartet Dini harzliewi Adelinde hit ewa umsunscht un morn oi, un iwermorn, un in alli Züe- kunft! — Dü nimsch hit Nacht a andra Wag. Dü marschier’sch uf Hoh-Barr anstatt uf Greifenstein. RUDOLF. Un — was soll ich dert?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(hart)</stage>
+            <p>bliewa!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF :</speaker>
+            <stage>(entschieden)</stage>
+            <p>Mi Platz isch uf Greifenstein an dr Sit vo mim Wib, un nit uf Hoh-Barr.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dini Adelinde mües ewa üskuma ohne Dich!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Brüeder, bisch Dü krank?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So wenig as Dü!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Redsch Dü im Arnscht?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(höhnisch)</stage>
+            <p>Im Arnscht!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So soll ich Di Gfangener si?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So isch’s!!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Un wit wohl a Lösegald vo mir erprassa — Bisch wohl in Schulda? — So loss mich frei, ich will Dir dasmol noch üshalfa!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Bhalt Di Gald! Das genügt mir nimm. Ich möcht alles, Di Wib mit ibegriffa!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Was fiehrsch Dü fir wahnwitzigi Reda? Das kann Di Arnscht nit si?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(höhnend)</stage>
+            <p>Wurum denn nit? Bisch Dü verschwunda, was hindert mich unser Familiagüet zruck zu fordra? — Un Adelinde — hab ich si nit gliabt eb Dü? War sie nit mi wora, hätsch Dü Dich nit zwischa uns gedrängt un mich verdrängt durch weiss war für Verleumdunga!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Dü hasch ghofft Adelinde einscht heimzufiehra? Dü meinsch ich hätt Dich verleumdet? Bi dr Seligkeit vo unsera Eltra, bi miner Ritterehr, nia hab ich anderscht als briederlich iwer Dich gred. Wenn Adelinde a ungünschtig Urteil iwer Dich gfällt hat, so bin ich unschuldig do dran.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Das gloib wer will. — Ihr solla mr das bitter biessa!</p>
+          </sp>
+          <pb n= '16' />
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Brüeder, loss ab, vo dana finschtra Plan: Dü loifsch in Di Verdarwa ni!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un Dich loifa lo, gal? in d’Arm vo dar wu ich salwer begahrt han un noch wahnsinnig lieb! — Nein!!!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So dank dran! Dü legsch Hand an Di Brüeder! — So dank an unsri Eltra, unsri liewa, fromma Müeter, dar Dü als Kind scho Sorga un Kummer gnüa gmacht hasch. — Wit Dü fortfahra, alli unglicklich zu macha? Dank an unsri gmeinsami Jugend, wie oft ich für Dich igstanda, Schuld uf mich genumma, Dir s’üserschta zu erspara? Ich beschwör Dich, Hugo! Gang in Dich! Begeh kei Verbracha! — Loss uns wieder Brieder wara! Un liebsch Dü Adelinde? Lehr sie als a Schweschter liewa! Sie wurd Dich wie a Schweschter liewa un Dir züegeto sin, bis Dü a andri gfunda...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Bedank mi schen, Briederla, für d’Brosama wu andri nit wann!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Was redsch Dü vo Brosama. Git’s nit noch gnüa edli Ritterstöchter im Land, schön und hold un häuslich wu a brava Ritter glicklich gata macha. Wurum sich sindiger Lieb wella hingah? Wurum in blinder Leidaschaft nur grad die ein wella begahra — wu unerreichbar isch fir Dich?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Unerreichbar?? <stage>(höhnisch)</stage> — Das wurd sich zeiga!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF :</speaker>
+            <stage>(fest)</stage>
+            <p>Was für finschtri Plan sinnt die Hirn? Wit Dü zum Brüedermörder wara? A zweiter Kain? — Un salbscht wenn Dü iwer mina tota Körper schrittsch, kummsch Dü nit zum Ziel. Adelinde je Di wara? Adelinde kennt Dich besser als ich. Ihr ahnend Harz hat mich schon gwarnt vor Dir! — Dü bisch der erscht wu sie verantwortlich macht, wenn ich nimm heimkehr. — Vergrab mich in Dina Gfangnis. Mini Frind wara d’Karkertüre spranga un mich im Lawa un mim liewa Wib zruck gah.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(höhnisch lachend)</stage>
+            <p>Han mir vorüs gsah. D’Kunscht isch ewa, Dich an a Ort zu bringa, wu Dich niemets süecht.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So wit Dü mich morda, feiger Brüedermörder —- mich verscharra...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(höhnisch)</stage>
+            <p>Do bin ich noch bräver als Dü gloibsch. — Nei, ich will Dich nit morda — nur üs mim Wag soll’sch Dü</p>
+          </sp>
+          <pb n= '17' />
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So kann Dich denn nix erweicha, verblendeter, unglickseliger Brüeder. Di Blüet wit Dü verleigena. Dü wursch zur elandeschta Kreatur uf Gottes Ardboda, zum Brüedermörder, vu si Brüeder langsam hinsiecha will loh, weiss Gott an was für’m a schrecklicha Ort. — Doch, so wit sin mir noch nit. <stage>(Mit plötzlicher Energie sich losreissend und fliehend. — Doch die zwei erfassen ihn noch rechtzeitig)</stage>.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Leg Fessla an si Bei!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(fut es)</stage>
+            <p>S’isch gschah! Doch Hugo, dank an das, was ich Dir gesait!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(wütend)</stage>
+            <p>Feigi Memma! — Vorwärts. Ufs Pfard ga- bunda — un heim!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Noch a Wort. Ich gsih as ich das Ungeheuer do, wu ich mi Brüeder gheissa han, nit erweicha kann. — Doch, ich wand mich an Eich, Ritter Walter, Eier Wort hat mr verrote, as Ihr mehr Menschagfühl in dr Bruscht han, as dar unglickseliga Mansch do. — Lehn mich drum noch a letschter Blick warfa ufs Schloss vo mina Vater. <stage>(Dreht sich um nach jener Richtung)</stage>. — So lab denn wohl edli Burg! Lab wohl Adelinde, mi herzinnig Wib! — Mi Harz totbetriebt, nimmt Abschied vo Dir. — Gott steh Dir bi — un mir in dam furchtbara Schicksal wu uns so jählings iwerrascht hat. Lab wohl!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(stösst ihn vorwärts)</stage>
+            <p>Genüag g’jommert un gwin- seit! Ab.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF :</speaker>
+            <stage>(dreht sich um und schaut ihn fest an)</stage>
+            <p>— Leg kei Hand mehr an mich! Dü Verworfena! <stage>(fest)</stage> Kain!!! — Brüeder- mörder! <stage>(mit erhobener Stimme)</stage> Was Dü do tüesch, schreit zum Himmel um Vergaltung. — Weh Dir!!! <stage>(Vorhang fällt)</stage>.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> 2. Akt. </head>
+        <div type="scene">
+          <head> 1. Szene. </head>
+          <stage> Hugo, Walter. (beim Becher sitzend).  Hasch’s gar notwendig, mach’sch a wieschter Gsicht as dr Him-  mel im Christmonet. Will eb’s nit racht loifa. Sin d’Dienscht-  lit da Morga nit flissig gsih? Hasch dr Kiefer wieder voll unter’m  Fass mit Oberlander gfunda? — Nur gsait, ich mach sie scho  gfügig!</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(anscheinend fröhlich)</stage>
+            <p>— Nun trink, Brüederharz.</p>
+          </sp>
+          <pb n= '18' />
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(seufzend)</stage>
+            <p>Das alles ischs nit. Die Gschicht vo dr lescht Wuch mit Dinem Brüeder, dia will mir nit in dr Sinn. Mir sait a bangi Ahnung, as das Alles nit güet abloift. Ich han ghert, was s’Volk scho verzehlt. A Kriegsknacht hat’s üsm Dorf gabrocht.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un was verzehlt mr, Walter?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Dr verscholla Ritter, heig irgend wu a gheima Find. Sini Gemahlin tat na kenna. Awer sie will na no nit aklaga. Z’erscht will sie Bewies in Handa ha.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un vo uns, sait mr nix. Un vo mim Bsüech uf Greifa- stein.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ja, as heisst o, Dü seigsch uf Greifastein gsih, awer Adelinde wot nix vo Diner Hilf wissa — — si müetet Dir züe, salwer d’Hand im Spiel zu ha -—- —, dr Mörder vo ihrem Mann zu sin. — Isch das wohr?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(aufstehend)</stage>
+            <p>Ja, ich han mich vorgeschter dert vor- gstellt, wie Dü weisch! Doch hab ich sithar Dir no nit gsait, was dert gscha. Ja, — Adelinde, hat Verdacht uf mich! Ihr Blick, ihr forschenda Blick, ihr anklagenda Blick, ihri ganzi Haltung hat’s gschroia: Dü, Dü, bisch dr Täter <stage>(trinkt)</stage>. Höll un Teifel! Un ich bin do gstanda. In d’Ard hätt’ ich möge versinka! — S’isch wahrlich, d’schwarscht Stund gsih in mim Lawa! <stage>(trinkt)</stage>. — Vor mir, stolz ufgricht, das Wib, wu ich liab mit Flamma- glüet un wilder Leidaschaft, un ihr ganz Wesa hat gebebt voll zorniger Verachtung! — Narva wia Isa hab i gha, sunscht war i zsammagsunka in d’Knie un hätt alles gstanda wia a Kind, a ertappt Kind! <stage>(Trinkt)</stage>. So hab ich mir Adelinde nit vorgstellt. A schwach Wib hab i gmeint zu finda — a Löwin isch vor mir gstanda, wu ihra Kinder verteidigt. — Ich möcht nit noch amol vor ihr so steh!! Awer <stage>(trinkt)</stage> d’Zit wurd si scho rühig macha. Ah!! Adelinde! Herrlich Wib!! Dir hab ich Lib un Seel ver- schriewa !!!</p>
+          </sp>
+          <pb n= '19' />
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>So isch’s nit wohr, as sie Dich anklagt hat als Merder...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(nervös)</stage>
+            <p>Still, sag das Wort nit. Bin ich denn a Merder? — Nei, in Wort hat sie’s mir nit an dr Kopf gworfa! Awer ihri ganzi Haltung, ihri Blick sin a flammendi, wuchtigeri Anklag gsih als a paar armi Wort. — Ich hab mich zu tot gred, gheuchelt wie a erschklassiger Pharisäer, hab versprocha, Nach- forschunga zu macha — nit zu rüha... han drfu gred, Dü seigsch scho furt, alles üszuforscha. Dü hasch Dich hoffentlich oi iwerall gezeigt? — Viellicht erfahrt’s sie’s oi, un lehrt andersch danka!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p><stage>(aufstehend)</stage>: Mach Dir kei Illusiona! — A Froia- harz ahnt, fühlt un weiss mehr als d’Oiga sahn. Nit vergabens han unsri heidnischi Vorfahra Prischterinna gha, wu in d’Züekunft han kenna lüega... -— Ja, a Froi fühlt oft, was im Mannerverstand verborga!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>S’isch g’schah! — Mr kenna nimm zruck. — Jedes Wenn und Hätt ich, isch umsunscht. Vorwärts!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Wurum nimm zruck kenna? Beweg Di Brüeder, Dir Gald zu gah... un sag... das seig Di einzig Ziel gsih... — S’andra seig vergassa.. s’war nur a kleini Racha gsih an Adelinde un Dim Brüeder!! -—- Ich bin sicher, Di Brüeder verzeiht Dir, verzählt keim Mansch, wäs gschah, üs Rücksicht uf d’Familia- ehr. — Un alles kann noch güet wara!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Das könna mr immer noch so macha wenn mr wann — un ich gloib, as ich nie will. — Ah — mi Brüeder zruck loh zu ihr!! Ah!!! wenn Dü wisstig’sch, wie’s Fir lodert in mim Büesa, wenn ich nur an sie dank — un siter mim Bsüech nur noch mehr!! — Nai, -— nai! Ehnder in’s Verdarwa, in d’Höll! eb ich ihr da gib, wu mir das herrlich Wib gstohla hat!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Armer Frind!! Was für a arm, leidschaftlich Harz Dü hasch!! Wie tobt dr Sturm in Diner arma Bruscht. Nein, reda mir immer drfu. Viellicht kummt d’Stund, wu mir rühiger könne reda iwer dia Sach. — Kümmt Zit, kummt Rot! <stage>(Man hört das Horn des Turmwächters blasen)</stage>.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dr Turmwächter stosst ins Horn! As kummt Besüech! Wer mag das si?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich will schnall ge lüega.</p>
+          </sp>
+        </div>
+	<pb n="20"/>
+        <div type="scene">
+          <head> 2. Szene. </head>
+          <stage> Hugo (allein).</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Walter! Dü treua, goldiga Walter! Ar meint’s güet mit mir. Un viellicht sot ich uf na höra! Doch ich brings nit fer- tig!!! ehnder — ass ich mina Brüeder zruckkehre los — eher will ich untergeh!!! <stage>(auf- und abgehend)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Szene. </head>
+          <stage> Hugo, Walter, Konrad von Lichtenberg.</stage>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(zuerst eintretend)</stage>
+            <p>Ritter Konrad von Lichten- berg!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(entgegeneilend und die Hand hinstreckend)</stage>
+            <p>Sin mir freidig willkumma, Ritter Konrad. Was fiahrt Eich zu mir? <stage>(Konrad mit eisigem Schweigen, reicht ihm nicht die Hand zum Grusse)</stage>.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(auffahrend)</stage>
+            <p>Was soll das heissa! Sin Ihr kumma mich zu beleidiga?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Wurum ich kumm? Will’s kurz fassa: Eier Brüe- der isch verschwunda!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(einfallend)</stage>
+            <p>Leider! Mir trürä oi um unsera Brüeder!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(auf die Becher zeigend, eisig lächelnd)</stage>
+            <p>Bi glaarti Bacher un volla Kanna!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Höll un Teifel! Herr Konrad, Ihr sin furchtbar bis- sig. — Doch witersch, was hat das mit Eirem Bsüech do zu tüe!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(eisig, jedes Wort betonend)</stage>
+            <p>Ihr, Herr Hugo von Greifenstein, stehn im Verdacht, Eier Brüeder uf d’Sit geschafft zu ha.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(wütend das Schwert ziehend)</stage>
+            <p>Wer behoiptet das, wer verleumdet mich?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>D’Froi vo Eirem Brüeder — s’Volk oi klagt Eich an.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Bewiesa mir, was Ihr: do behoipta oder — Höll un Teifel — ich will Eich lehra, so Anklaga mir ins Gsicht zu schleudra.</p>
+          </sp>
+          <pb n= '21' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Bewies — ja — Bewies — han mir noch keini, die wann mir uns erscht verschaffa. — Awer so Manches spricht gega Eich. Eier Betraga gega Adelinde un Eierm Brüeder, sit die zwei ehelich verbunda sin. — Adelinde hat sich mir anvertroit, im alta Familiafrind, mir gsait, as das a Rachaakt vo Eich seig — will Ihr — — — Nu ja — Ihr wara wissa...!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ich weiss nit, was Ihr wella sagal Wiwergschwatz wurd’s sie. Ich verzeih Adelinde. — Sie isch ufgeregt — ihr Schmarz, das macht si ungeracht, misstroisch... doch witerscht.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Mr verzehlt sich oi, un isch das oi Wiwer- gschwatz? Ihr seiga in jener Sturmnacht üs dr Burg ganga.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>An jenem Owa bin ich krank im Bett gsih. Mir han dr Tag vorhar fescht gezecht in Strossburg — — — un mich druf so wenig wohl gfühlt, as ich frieh ins Bett bin. Do mi Frind Walter isch bi mir gsassa am Bett un hat mir verzehlt.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Walter isch salwr im Verdacht, bi Eich gsih zu si.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So froga d’Torwachter, eb eber salla Owa üssa isch.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>In jener Nacht han zwei Holzhoier, dr alt Chrischtian un dr Toni üsgsait, sie gloiwa ghört ha um Hilf zu schreia, gar nit wit vo Greifastein. Doch han sie gmeint, s’isch s’Nacht gjaid un sin furt ganga !</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Das isch jo alles wohl möglich. Doch wurum mir grad das Verbrecha solla beganga han — un grad ich, wu noch nie a Streit mit mim Brüeder gha han? As isch doch a starki Züemüetung, Ritter Konrad!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>As git a Mittel Eiri Unschuld zu bewiesa!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So nanna es!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Oeffne mir d’Burgverliess — awer alli, oi d’Gheima, denn ich weiss do Bscheid. Drno reda mir wieder iwer dia Sach!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ei, wenn’s an dam fahlt, so kenna Ihr s’ganza Schloss bsichtiga, vom Kaller un da Burgverliess bis uf dr Spei- cher un alli Höf, alli Türm! Do Walter, fiehr da edla Ritter iwerall wu ar will. Loss kei Schloss verschlossa, wu ar itrata möcht...</p>
+          </sp>
+          <pb n= '22' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(nachdenklich und misstrauisch ihn betrachtend)</stage>
+            <p>Isch das Eier Arnscht? <stage>(beiseite)</stage> Sollt’s am And doch dr Schu- dig nit sin? — Oder isch mi armi Ami tot... un irgendwo ver- scharrt! — Armer Frind, arm’s Wib!! <stage>(laut)</stage> So kumma, Walter!!!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Szene. </head>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(lacht)</stage>
+            <p>Konrad von Lichtenberg isch schloi — awer — noch nit schloi genüa für mich. Da alt Brunna, da süecht ar nit, an da dankt niemets. — Ar soll nur dr Turmwachter froga. Da kann ihm bestätiga, as ich nit durchs Tor bin jeni Nacht, un vom gheima Uesgang weiss ar jo nix, Gott sei Dank. — Die Gschicht entwickelt sich sehr günschtig. Konrad wurd sich be- kehra — un oi Adelinde müess anders danka lehra — S’nachschtemol drai ich dr Spiess einfach um. Do isch’s an mir ihr Vorwurf zu macha. Ich erklär ihr ganz kaltblietig -— as ich sie viel zu lieb hab, um sie so lieda zu loh. <stage>(Lächelt — reibt sich die Hände)</stage>. Ja — ja— ich kumm doch noch ans Ziel. <stage>(Man hört wieder das Zeichen des Turmwächters; lauscht)</stage> Wie- der a Bsüch? Wer kann das sie? Nun — glich wara mir’s gsah. — Stärka mr uns a wenig. <stage>(Trinkt aus seiner Kanne; geht einige Schritte auf und ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 5. Szene. </head>
+          <stage> Hugo, Bote des Bischofs.</stage>
+          <sp who="#_bote">
+            <speaker>BOTE:</speaker>
+            <p>Grüess un Heil im edla Hugo von Greifenstein. Unser hochw. Herr Fürstbischof Berthold von Teck vo Stros- burg sandet sim edla Lehnsmann vo Hohbarr Grües un Saga un die wichtigi Urkund do!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(fasst die Rolle, küsst das Siegel)</stage>
+            <p>Mien Ihr Antwort zruck traga, warter Bote?</p>
+          </sp>
+          <sp who="#_bote">
+            <speaker>BOTE:</speaker>
+            <p>Nein, ich ritt sofort zuruck an dr Hof. —</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Doch nit ohne a kleina Imbiss zu namma in dr Kuch und um Eich zu laba am a Trunk.</p>
+          </sp>
+          <sp who="#_bote">
+            <speaker>BOTE:</speaker>
+            <p>Han Dank, edler Herr. — A kleini Stärkung schlag ich nit ab nach solch’m a stramma Ritt. — So sin bedankt un lawa wohl, edler Ritter. Gott schütz Euch allerwaga ! <stage>(ab)</stage>.</p>
+          </sp>
+          <pb n= '23' />
+        </div>
+        <div type="scene"><head> 6. Szene. </head>
+          <stage> Hugo (allein).</stage>
+		  <sp who="#hugo_von_greifenstein">
+		    <speaker>HUGO:</speaker>
+		    <stage>(öffnet die Urkunde und liest leise; endlich wirft er  die Urkunde zornig auf den Tisch)</stage>
+		    <p>-— Zum Teifel noch amol! <stage>(erregi)</stage>. Grad jetzt wu ich mi Züekunft do will schmieda mit starker Hand, wu vor nix zruck schreckt — salbscht nit. — Das isch a Blitzschlag üs heiterm Himmel — Dr Teifel noch amol!!! —<stage>(Nimmt die Urkunde wieder zur Hand; liest laut)</stage>: Der Fürstbischof Berthold von Teck an seinen Lehnsmann, den Edlen Ritter Hugo von Greifenstein auf Hoh-Barr. — — — Unser kaiserl. Freund und Schirmherr Friedrich II. hat in Aachen das feierliche Gelübde abgelegt, einen Kreuzzug nach dem hl. Lande zu unternehmen. — Auf seine Bitte an Uns hin, rüsten auch Wir eine reisige Abteilung von Rittern und Fuss- volk. Alle unsere Lehnsleute stellen je einen Reiter und 6 Mann Fussvolk. An die Spitze dieser unserer Truppe haben wir be- schlossen, den edlen Ritter Hugo von Greifenstein zu stellen, im besondern Vertrauen auf seine bewährte Treue und Tapfer- keit. Es ist unser Wille und dringende Notwendigkeit, dass Sie edler Ritter, sofort nach Erhalt dieser Urkunde aufbrechen, um an unserem Hof die Rüstungen zu leiten. — Ihre Leute kön- nen nachfolgen. <stage>(Wirft zornig die Urkunde wieder hin)</stage>. Bi jeder andra Zit hät ich solchi Botschaft mit Freida begriesst, tüet sie mir doch verheissa, was mi Harz erstrebt: Kampf, Sieg, Ehr! Oi — ich erkenn’s an — a hohi Ehr hat mir mi Bischöflicha Herr wella erwiesa, un a bsunder Vertroia —!!! Ah, wenn er tat wissa!!!! — Awer — was jetz — —! Kumt denn Walter nit bol zruck!! — Jetzt heisst’s handla, schnall und klug! zu handla mit feschter Hand!!</p>
+		    </sp>
+        </div>
+        <div type="scene">
+          <head> 7. Szene. </head>
+          <stage> Hugo, Walter, Konrad.</stage>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(geht auf Hugo zu und streckt ihm seine Hand hin)</stage>
+            <p>Ich hab Eich vorhar mini Hand verweigert. Do isch si! Mir han Eich Unracht geto. Beidi Turmwachter schwöra, as sie Eich nit han gsah üssa geh. — Un Walter do, hat mir alles ufgschlossa, as ich mi Verdacht han falla lo. Ich bitt ni, namme’s mir nit für iwel uf. Awer wenn Ihr’s Harzeleid gsah hätte vo Adelinde, wu ich als Kind scho gschoikelt han uf da Knie -— ..... <stage>(bewegt)</stage>.</p>
+          </sp>
+          <pb n= '24' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Soll Racht sie, Ritter Konrad! — Ihr han nix als Eiri Pflicht geto! Saga jetz in miner Geschwieh viel scheni Griess. — Ich tat ihr ihra Verdacht verzeiha. Niemols tat ich sie so lieda loh, ich hab sie do drzüa viel zu liab gha. — Das isch mi Abschiedswort an sie.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Abschiedswort? Was soll das heissa?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Hit noch zieh ich furt. Fürstbischof von Teck rüschtet zum Kreuzzug un hat mir dr Oberbefahl iwer sini Truppa iwertraga! Do Walter — lies!!! <stage>(Walter liest)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Mi Glückwunsch! Das isch a hohi Ehr!! Ich winsch Eich viel Glück und Ehr un rühmbedeckti Heimkehr!! — Will nimm länger störe! Eiri Zit wurd koschtbar si! Ich gang — awer a schwarer Verdacht isch mir vom Harza gnumma. So lawa wohl, Hugo!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un a harzlich Labwohl an Adelinde. Miesst ich nit unverzüglich ufbracha, so tat ich salwer noch Abschied namma vo ihr. Un noch eins! Ich kann nimm noch mim unglücklicha Brüeder süecha. Ritter Konrad, so rühe nit, bis mi Brüeder gfunda, un dar, wu Hand an ihn glegt, gstroft isch!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(schwörend Hand in die Höhe, feierlich)</stage>
+            <p>Ich wur nit raschta un nit rühe, bis dr Verbracher gfunda un entlarvt isch un die Strof erhalta hat wu ar verdient, so wohr Gott miner arma Seel bisteh soll! — — — -— <stage>(kurze Pause)</stage>. So lawa wohl, oi Ihr, edler Walter! <stage>(Handschlag austauschend, ab)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 8. Szene. </head>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(leise. lachend)</stage>
+            <p>Jo, alter Narr. — — Dü un dr Ver- bracher entlarva!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>An Eier Stell war’s mir nit zum Lacha!! — Un jetz?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un jetz? Ja, a güeter Rat isch Gold wart. — Das isch sicher, Dü müesch do bliewa un mi Platz inamma!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Mi Platz isch an Diner Sit, doppelt jetz in Not un Gfahr!! Ans dobliwa isch nit zu danka. Dr alt Burgvogt wurd’s wohl allei kenna versah, s’Schloss zu verwahra wu tiefer Frieda im Land, das kann da alt Mann wohl noch bsorga.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Awer dr Gfanga — wer soll ihm si bissel Nahrung reicha?</p>
+          </sp>
+          <pb n= '25' />
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich wiederhols noch emol. Loss Di Brüeder frei, jetz gar! Es winkt Dir Ehr un Rühm. Bitt Di Brüeder um Verzei- hung. Jetz, wu Dü in dr Kreuzzug gehsch, scheida tüesch, viel- licht für immer, mach Dini Rachnung in Ordnung. Diner Brüe- der tüet Dir gwiss vo Harza verzeiha..</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(heftig)</stage>
+            <p>Was? — frei loh? Jetz wu alles wie noch Wunsch loift? Kumm ich zruck als rühmbedeckter Krieger, gloib mir, Adelinde — wurd doch noch mi. Dü waisch nit was mir das Wib bedit.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Kummsch Dü zruck. Ja, wenn’s Dir iwerhoipt eber kennt garantiera. Dü boisch uf a wenn !! — As gibt a blü- tiga Kampf zu besteh. D’ansteckenda Krankheita sin ewaso zu ferchta, — Gfangaschaft kann unser Los si... — Vergiss das nit!! — Di Brüeder kummt um un verdirbt umsunscht in furchtbar harter Gfangaschaft. Dü hasch a Verbracha uf Dini Seel glada — nutzlos, ohna nur je Di Ziel zu erreicha!!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(stampfend)</stage>
+            <p>Do soll da Dieb, wu mir Adelinde gstohla hat, sie oi nit bsitza.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ar hat sie Euch nit gstohla!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Still!! Still, sag ich!! — Sunscht vergiss ich, dass Dü mi Frind bisch! — S’isch kei Zit mehr zu moralischa Be- trachtunga! — Geh! hol mr dr Koch!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Dr Koch?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ja, dr Koch!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich geh — doch möcht Dich nia da Entschluss reua!!!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 9. Szene. </head>
+          <stage> Hugo allein.  mir erobra, geniessa, Adelinde mir eringa un seligi Tag erlawa  in ihrem Bsitz!!! — Vorwarts, Hugo, vorwarts, sei kei Feigling!  nimmer rückwarts gschoit!</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Fascht häit mich da güat Walter wankend gmacht. — Doch s’därf nit si. Dr Schritt isch geto! Wie sot’ ich je wie- der vor Adelinde trata? Nai, das kennt ich nit ertraga! Drno hät ich sie noch emol verlora!! Un — die Sach tat sich doch herum- reda — kam zu Ohra vo mim Lehnsherr, wu mir so gwoga isch... drno war ich verlora — mini ganz Züekunft vernichtet!!! —- Nei!!! <stage>(heftig)</stage>. Ich will lawa! Vorwarts kumma, un wenn mi Füess müess schritta iwer blüetigi Leicha! Ich will d’Züekunft</p>
+          </sp>
+          <pb n= '26' />
+        </div>
+        <div type="scene">
+          <head> 10. Szene. </head>
+          <stage> Hugo, Walter, Koch.  alli Vollmacht, brüchsch nit knoisera! — As bliewa nur a paar  alti Knacht — un wenn die neugierig sota wara, drno gib z’Nacht  Wi genüa, as si güet schlofa! Bisch jo oi zuglich Kellermeischter!</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Koch, ich han mit Dir zu reda — ebs arnscht’s, ebs wichtigs, so wichtig as Dü keinem Mansch derfsch je a Wort drfu anvertroia. Dü müesch’s sogar schwöra as das, was ich Dir anvertroi, ewig gheim blibt.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Herr, mir wurd jo ganz bang!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Do schwör uf mi Schwart, zu schwiega! <stage>(zieht den Degen)</stage>.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Ich schwör’s!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(drohend)</stage>
+            <p>Un soll’sch Dü die Schwur nit halta, so stirbsch Dü durch das Schwart. Die Kling tüet Dich durchbohra <stage>(droht ihm)</stage>.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(ängstlich)</stage>
+            <p>Awer Herr! Ich wur jo ganz schwiegsam sie, wie a Grab.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Hasch güet Racht! Denn bevor ich Dich do mit dar Kling in d’ander Walt gat befördra, tata mir Dich noch a bissel foltra. A Monet lang alle Tag drei mol. — Denn a gross Staats- geheimnis isch’s wü Dü verrota tat’sch!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(erschrickt)</stage>
+            <p>A Staatsgeheimnis!!! Herr, sei mir gna- dig!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Jawohl! Hör. — In dam Schloss isch a Gfangener, wue niemets därft ebs drfu wissa!!! — Uebrigens — Walter — hasch Dü im Koch scho gsait as mir hit Nacht scho verreisa?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ar isch uf’m Loifenda!!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Ich weiss es scho, Herr, as Ihr uf dr Krizzug geh und Feldhoiptmann vo da Bischöflicha Truppa wora sin!! — Mi Glickwunsch, Herr, mi Glickwunsch! <stage>(Abseits: Wenn’r nur scho war im Heiliga Land! Mir grüselt’s vor dam Staatsgeheimnis.)</stage></p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dr alt Burgvogt hietet die Burg — bis mir wieder zruck kumma. Awer oi da därf nix erfahre! Ar isch alt, sieht un hört nimm güet. In Wirklichkeit bisch Dü Chef, denn wer dr Maga kummadiert, da kummadiert dr Mann! Un Dü hasch</p>
+          </sp>
+          <pb n= '27' />
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Un — das Staatsgeheimnis — Herr??</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Mir sin jetz drbi! — Dr Gfanga, vo dam ich gred han, da isch nit in da gwöhlicha Gfangnis, da isch im alta Brunna.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(nachdenkend)</stage>
+            <p>Im alta Brunna??</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Zwischa der erschta und zweita Mür.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>An da han ich nimm gedankt. — Dert drin soll dr Gfangana sin???</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dert ischr. Un Dü gib’sch’'m jedi Wuch zweimol Proviant herunter, um Mitternacht!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(ängstlich, schnell)</stage>
+            <p>Jeses, um Mitternacht!! — Do gehn jo d’Geischter um!!! Hugo <stage>(spöttisch)</stage>: Un wenn Dü umgehsch, noch a Nacht- kalb!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Sisch wirklich nit zu spassa. — Kann ich nit wenigschtens gega zehna z’Nacht — dert ana geh?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Mintwaga, wenn alles schloft.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Oder noch besser am Tag — wenn niemets um d’Wag isch? ?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(spöttisch)</stage>
+            <p>Oder noch besser gar nit — gal? <stage>(ihn anfahrend)</stage>: Weh Dir Dü Feigling!! Weh Dir, wenn durch Dini Schuld a Mansch ebs erfahrt!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Ich gang jo z’Nacht, nur nit in dr Geischterstund!!! — Was soll i aber kocha...? für da Gfangana vom Staatsgeheimnis.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(abseits)</stage>
+            <p>Ob mr will oder nit mit dam Dolla ınües mr lacha.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Kocha? Do isch schnall üskocht. Da bekummt Wasser un Brot un eimol in der Wuch a klei Stück Fleisch!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Da arm Mansch!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Nit bedürt! Un as Dü’s weisch, as isch a schlim- mer Mansch, wu unser Hochwürdiga Fürstbischof hat wella er- morda!!!</p>
+          </sp>
+          <pb n= '28' />
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(aufspringend)</stage>
+            <p>Un so a gfahrlicha Mansch soll ich hieta!!! Un in dam wann Ihr noch Fleisch ga???</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Hasch gsah, jetz! Bedürsch na jetz noch?</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Dam will ich’s kocha! Jawohl, dam Schuft will ich’s kocha!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(geheimnisvoll)</stage>
+            <p>Sisch a hochadeliger Mann! Drum därf niemets nix wissa! nix erfahra. Sini Lit lehn iwerall nofor- scha, un weh, wenn si Verdacht fassa! Im Vertroia gsait, un s’weiss es noch niemets, dia Lit han scho mi Brüeder ewag gschafft, will mi Brüeder salig amol a Streit mit’m gha hat.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(erschreckt)</stage>
+            <p>Sin das schrecklichi Lit. Sin das schrecklichi Staatsgheimnis!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Also gschwiega — gschwiega — denn uf alla Sita winkt Vergaltung, Racha, Folterkammer, a schrecklig And!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(einfältig)</stage>
+            <p>Isch das schrecklig, so na Staatsgeheimnis zu hieta !</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un loss Dir’s nit ifalla, a Wort mit’m zu reda. S’isch noch e Schwarzkünschtler. S’erschta Wort wu ar vo Dir hört, s’erschta Wort, wu awastiegt an si Ohr un Dü bisch verlora — bekummt ar Macht iwer Dich? Im Oigeblick kann ar Dich awa- ziega un sich salwer befreia.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(Mit offenem Munde)</stage>
+            <p>Ohna Strick?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(ernst)</stage>
+            <p>Ohna Strick! Das isch ganz unheimlich was so na Schwarzkünschtler kann.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(betrübt)</stage>
+            <p>Unheimlich isch das alles. Weh mir. Awer — Herr, wenn da Mansch stirbt — soll ich’s drno im Bischof malda??</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(erschrocken)</stage>
+            <p>Niemols, Dü Dolla!! Meinsch Dü, so a Dolla losst mr zum Fürstbischof?</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(dumm)</stage>
+            <p>Wenn mr awer a Staatsgheimnis hietet?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Eb Dü vorgloh wursch, han Dich zwanzig üsgfrogt. Entweder saisch Dü ebs, babelsch Dü, drno weh Dir! Dr nachscht Morga frassa Dich d’Sai in Strosburg — oder Dü säisch nix —- drno jagt mr Dich als a Narr furt. S’därf niemets nix wissa, as mir drei, verstanda!!!</p>
+          </sp>
+          <pb n= '29' />
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(hartnäckig)</stage>
+            <p>Wenn’r awer stirbt, was soll i macha. Si Geischt geht um, bis’r in gweihter Ard rüeht. — Un mit dam Geischt möcht i nit Bekanntschaft macha!!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(spöttisch)</stage>
+            <p>Schick na zu mir!!! — Uebrigens, Dü Dolla, hol vom Kirchhof a Sack Arda un kei sie in dr Brunna, drno rüeht’r in gweihter Ard!!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Ja — wenn’r awer nit ganz tot isch?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(lachend)</stage>
+            <p>Kei z’ersch e paar grossi Scholla herunter. No brielt’r scho wenn’r noch labt! <stage>(Koch nachdenklich.)</stage></p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(beiseite)</stage>
+            <p>Wie roh sin Hugo’s Reda. S’zerrist fascht mi Harz. Mich seit’s o immer mehr, Blüetsbrüederschaft ihm gschwora zu ha! Mini Hand glehnt zu ha, zu dam abscheulicha Wark. — Wenn mr nit so schnell miessta furt, ich tat a Plan finda... Doch jetz unmöglich!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Noch ebs, will Dü so stühmsch???</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Nei, s’isch alles klar!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Un noch amol. Richt Dich gnoi noch mina Anwie- sunga. Dank an d’Folter, an mi Schwart un Di Schwur.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Kei Angscht. Ich vergiss nix. — Dam will ich’s scho kocha!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Mach di Sach güet, un ich will Dich belohne. Du wursch sicher Oberkoch im Fürstbischöflicha Palascht, als Lohn für Dini Verschwiegaheit un Dini Treue!!!</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(weit die Augen öffnend)</stage>
+            <p>Was, saga Ihr; Herr? Ober- koch wur ich, wenn ich alles güet mach? <stage>(Luftsprung)</stage> Ich Ober- koch!! <stage>(Fasst Hugo’s Hände um sie zu küssen)</stage>: Merci Herr, merci!!! — Ich gloib, ich gang jetz um Mitternacht. <stage>(Gestiku- lierend)</stage>: Oberkoch, Oberkoch!!! — Uf baldigs Wiedersah un glicklichi Heimkehr, Herr.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So gang jetz un <stage>(fest ihn anschauend)</stage>.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH:</speaker>
+            <p>Nur unbesorgt, Herr! <stage>(Noch unter der Tür)</stage> Ober- koch!!! <stage>(Luftsprung)</stage> Oberkoch!!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 11. Szene. </head>
+          <stage> Hugo, Walter.</stage>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Sisch Zit gsih, as die Sach ufghört hat. Di Lie- gerei hat mich angewiedert.</p>
+          </sp>
+          <pb n= '30' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Was wit halt. Mr müess da Lit verspracha, immer ver- spracha. Mr müess s’Lawa meischtra, sunscht meischtert s’Lawa uns, sunscht kummt mr salwer unter d’Räder. Dü siehsch, as geht alles güet. Mi Brüeder kummt im Starbefall noch zu gweihter Ard!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Still!! Spott nit! Trieb kei entsetzlicha Spott mit so heiliga, arnschta Ding. Ich bin a roiha Kriegsmann, uns Gwissa isch nit zart. Awer so wit bin ich doch noch nit gfalla, as ich spotta könnt, so lichtfartig reda könnt iwer so Sacha! — Mit’m a ganza Netz vo Liega hasch Dü Dini Handlung zu schitza gsüecht!! Das alles isch so gschickt anglegt, so schnall gedrach- selt do gstanda, as mir fascht groit vor Dir. — Doch vergiss nit: «Es isch nix so fin gspunna, as kummt doch andlig an d’Sunna».</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Isch d’Predig fertig? <stage>(Mit erhobener Stimme)</stage>, So kumm jetz in d’Rüschtkammer. D’Stunda sin gezählt uf Hoh-Barr. Die Nacht noch ziehn mir üs zum Kampf un Streit, zu Sieg un Ehr. <stage>(Draussen kann jetzt ein Chor das vierstimmige Lied singen: «Ziehn wir aus ins Feld» oder eine Fanfare kann einen Marsch spielen, einfach und kriegerisch; in diesem Falle spricht HUGO Hörsch Dü unseri Lit. Kriegerischi Begeischterung erfüllt oi Ihri Bruscht. — Un mir, ihri Chef, sota mir weniger Müet ha. Worauf Walter antwortet: Ihr Harz isch frei von grosser Schuld. Sie gehn in heiliger, religiöser Begeischterung in da Kampf — un mir?)</stage> <stage>(Weiter auf jeden Fall nach dem Worte «Ehr»)</stage>.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ich gsteh, nit a Funka religiösi Begeischternng erfüllt mi Harz. Krizfahrer sin mir — ja, awer z’erscht Ritter, un dr Ritter kennt nur Ruhm, Ehr, Kampf un Sieg!!! Geniessa wann mir in volla Züega, s’Lawa geniessa. <stage>(Mit erhobener Stimme.)</stage> Walter, lie- wer Frind! Uns winkt a glorreichi Züekunft. — Lehn mir d’Sorga dheim und vorwarts, frisch un froh zum Kampf, zum Streit. — Im Müetiga ghert d’Walt! — Im Machtiga beugt sich alles! <stage>(Beide schreiten hinaus; Walter schüttelt zweifelnd das Haupt, während der Vorhang fällt)</stage>.</p>
+          </sp>
+          <pb n= '31' />
+        </div>
+      </div>
+      <div type="act">
+        <head> 3. Akt. </head>
+        <div type="scene">
+          <head> 1. Szene. </head>
+          <stage> Hugo, Walter.  HUGO (mit Turban bedeckt).  WALTER (in Sklavenkleidung: Hosen, Hemd).  sin das kei Zeugnis üs dr Ewigkeit? Die wunderbara Erschei-  nunga, Visiona vo gottbegnadeti Menscha, wit Dü dia leigna?  Sin das kei Zeugnisse üs dr Ewigkeit?</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(zu Walter)</stage>
+            <p>Zum letschtamol hab ich Dich komma loh, om Dich zu bewega, mi Beispiel nochzuahma, Mohamedaner zu wara, Di Chrischtatum abzuschwöra. Denn schoi, bisch doch nit so einfaltig, was kann Dir denn Diner Gott halfa in da Hand vo da Sarazena! — Schwör ab Di Gloiwa un Ehr un Genuss wurd di Lawa erfülla. — Uf was hoff’sch Dü denn noch? Uf Hilf vo da Chrischta? <stage>(lacht)</stage>. Do kannsch noch lang warta!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Mir sin in Jaffa, un Jaffa isch belagert. Wenn’s in Gottes Ratschluss steht, so nahma d’Chrischta d’Stadt oj noch i un befreia uns.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Begrab Dini Hoffnunga. Wohl isch die Stadt belagert vo unsere friehera Kamarada. Doch weiss dr Emir, mi Frind un Gebieter, ganz genoi, wie die Sacha stehn. — Krankheita wiata drussa im Lager unter da Chrischta. Uneinigkeit und Streit zwischa da Fiehrer. — D’Johanniter un die Tempelherra han sich abgwandet vo Friedrich, wie mr sait uf Befehl vo Rom. — Jeda Tag kann die Belagerung ufghowa wara. —</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Un wenn ich uf waltlichi Hilf nimm kann hoffa, so hoff ich uf Gottes Hilf.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dr Mohamedaner hofft oi uf Gott.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Das iwerloss ich Dir. Ich gloib an Chrischtus unser Erlöser.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Halt!!! — Brüchsch nit witersch erklära — kenn das Geschichtla. Doch hör. D’Mohamedaner, d’Juda, d’Budhischta, d’Bramahna, d’Chrischta, alli han si a Religion, un doch isch jedi anderscht, un s’gloibt jeder ar hät d’Racht. Wer hat denn eigentlich d’Racht?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>- Das wursch Dü so güet wissa as ich. Dü bisch besser unterrichtet wora in dana Froga vo Eirem Schlosskaplan als ich.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>D’Lehra vo unserem alta Kaplan hab ich wohl ver- numma, awer je älter as ich wora bin, deschto stärker sin di Zwiefel in mir gwächse. Sisch ewa noch keina üs dr Ewigkeit zruck kumma. Wenn mr Zeugnis bekam üs dr Ewigkeit — drno</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Isch Chrischtus nit üs dr Ewigkeit kumma un hat uns gred vo dr Ewigkeit? Un di Wunder, di abertoisig Wunder, wu taglich an Wallfahrtsort gschah un d’Heiligi wirka,</p>
+          </sp>
+          <pb n= '32' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Gsah hab ich noch keini mit mina Oiga. D’Priesch- ter lehra uns so Sacha. — As mües aber schint’s oi Prieschter ga, wu do dran zwiefla, sunscht gab’s kei Prieschter wu abfalla, andri wu salwer in Sünde falla.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Prieschter sin oi Manscha. — Ibri heiligi Weiha gan ihna nur Vollmacht, Gotteshilf un Gnad, aber kei Schutz- brief gega Versüechunga un Anfachtunga. — Un drzüa, wenn unter 1000 eina fallt vo dam wurd gred landuf, landab. Un doch bewiest gard dr Umstand as a Prieschter falla kann, s’Helda- tum vo unserem Prieschterstand. Ja, vo dana ungezehlta Toisig wu heiligmassig lawa, lieda, kampfa fir d’heilig Religion, Ver- folgung lieda ihretwilla, vo dana red mir nit.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(spöttisch)</stage>
+            <p>Heldatum. — Unsinn! — Han di Priesch- ter nit a schens Lawa, g’achtet, sorgalos!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Sorgalos nann’sch Dü ihra Lawa? Un doch sin si gsetzt iwer hunderti vo Pfarrkinder, han si einscht d’Verant- wortung zu traga, iwer jedes Glied vo dar gross Familie wu verlora geht. Gloib mir nur, si han Sorga un Kummer mehr als genüa. Un drno. — Mit’m namliga Studium hätte sie andri Stel- lunga sich kenna erringa in der Verwaltung, de Grichtsbarkeit, in andri Berüef. Do hätte si kenna Richtum erwarwa, sich freia an Wib un Kind, a schens freis Lawa fiehra. — Un so, was bliebt ihna denn vom Lawa??</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(spöttisch)</stage>
+            <p>Dü bisch doch frieher nit so heilig gsih. Wurum wit Dü jetz dr Gottesstreiter spiela.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Wohr isch’s was Dü do saisch! Ja, ich bin lei- der kei güeter Mansch gsih, sunsch hätt ich Dir sallmols nit ghulfa, Dina Brüeder. — — — Doch die Blüetsbrüderschaft — die hat mich an Dich gekettet. — —</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(böse)</stage>
+            <p>Höll un Teufel, schwieg...</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Doch siter mi Füess Plaläschtina betrata hat, ich gebata han, inbrünschtig gebata han an all da heiliga Stätta in Jerusalem un Betlehem, ischs iwer mich kumma, wia a höheri Gnad un nie, nie, willig ich i, mina Gloiwa abzuschwöra, wie leider Dü es geto hasch.</p>
+          </sp>
+          <pb n= '33' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Ich will dr Himmel uf Arda. Ich bin selig mit Fatme miner Gemahlin, bin durch sie Schwiegersohn vom Emir sal- wer. — Gwalt, Macht, unermasslichi Schatz stehn zu miner Verfügung. Isch das nit vorlockend gnüa?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Das alles müesch Dü verloh, früh oder spot. Viellicht bol — un drno ziter vor Gottes Gericht, Do nutzt kei Richtum, kei Krone nix, un’s geht um d’ganzi Ewigkeit.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>S’Jenseits — das kümmert mich einschtwilla nit. — Ich sag noch amol, schwör ab, tüe wenigschtens drglicha. Denn vernimm: dr Emir hat d’Geduld verlora un wenn Dü verharrsch, wenn Dü witersch halsstarrig bliebsch, drno wursch Dü gmar- tert bis Dü fügsam wursch. Doch do kummt ar salwer.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Szene. </head>
+          <stage> Die Vorigen, der Emir, Hassan und ein Diener.  ebenfalls hin. Walter wimmert leise. Nach wenigen Augenblicken  stürzt der Diener wieder herein). Verrat, Verrat! Di Chrischta  sin in dr Stadt. Emir, retta Eich. Soldata folga mir ufm Füess  in dr Palascht.</stage>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(hart)</stage>
+            <p>Nun, hat da Chrischtahund sich jetz ent- schlossa, Mohammed, unser grosser Prophet, zu verehra?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Nie!! <stage>(stolz aufgerichtet)</stage>.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(zornig)</stage>
+            <p>Nia, das isch a stolzes Wort. Doch wursch Dü Dich andersch bsinna, wenn Dü uf dr Folter wimmersch un winselsch.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ich fercht nit Marter noch Tot. — Ich blib mim göttlicha Meischter treu. Chrischtus isch allei mi König, mi Herr. Di Mohammed isch a Schwindler gsih!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(mit den Fäusten ihm ins Gesicht schlagend)</stage>
+            <p>Elander Chrischtabund! Dü wogsch’s so zu mir zu reda! — Holla Has- san! Mir wann ihm glich a Vorgschmack gah, vo dam, was jetz kummt. Allo! Die Bastonnade. — Drno ins Gfangnis un jeda Tag in die Marterkammer. <stage>(Hassan und der Diener stossen Wal- ter auf die Bank <stage>(Ruhebank)</stage> oder werfen ihn zur Erde nieder: — Hassan gibt ihm dann 20 Streiche mit der Peitsche auf die nackten Fussohlen. — Man sieht nur das Gesicht Walter’s, das sich in Schmerz verzerrt, da die beiden Diener vor Walter stehen. Die Peitschenhiebe werden vorgetäuscht. Hinter den Kulissen ahmt jemand den klatschenden Schlag nach. Die Peitschenhiebe fallen schnell nach einander. Walter stöhnt)</stage>.</p>
+          </sp>
+          <pb n= '34' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(lachend)</stage>
+            <p>Nun. — Di Chrischtagott will Dir nit halfa. <stage>(Noch zu sprechen während des Schlagens. — Hassan hält ein)</stage>.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Hugo — un Dü — losch das züe. — Dü lügsch züe — wie Di Frind...</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(kalt)</stage>
+            <p>Dü hasch’s wella so ha. — Erfüll dr Willa vom Emir!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Nie! Nie!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR:</speaker>
+            <p>Witersch! Hassan!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Schwör ab!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER :</speaker>
+            <stage>(fest)</stage>
+            <p>Chrischtus blieb ich treu!!! <stage>(Hassan hört wieder auf)</stage>.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR:</speaker>
+            <p>Dü stöhnsch jetz scho — un doch isch’s nur a Vor- spiel vo dam wu Dich erwartet. Mir wann sah, wer stärker isch: Chrischtus oder unser grosser Prophet. — Schwör ab — noch isch’s Zit. Ich will Dich rich und glicklich macha. D’schönschta Sklavinna schank ich Dir. Dü sollsch wohna in eigenem Palascht, gebieta iwer mini Truppa mit Hugo Dim Frind! Nur schwör ab!!!</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Chrischtus blib ich treu im Lawa un Starwa!!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(zornig zu Hassan)</stage>
+            <p>So gib ihm noch dr Rascht. Schlag hurtig züa!! <stage>(Dann dreht er ihnen den Rücken und geht mit Walter in den Vordergrund)</stage>. Ich will uf d’Stadtmüra d’Runda geh macha. Ewa hab ich Nochricht erhalta, dass im Lager vo da Chrischta a ungwöhnlichi Bewegung herrscht. — Solla sie viellicht a Sturm rischkiera, a letschta, nutzlosa Sturm, um für immer drno abzuziega, vo unserer Stadt? <stage>(Lacht.)</stage> Was macht mr nit in dr Verzwieflung! — S’wurd nit prassiera. Ich gang mini Rüschtung hola. Kumm mit, un wappen Dich oi. — Mr weiss nie!! — S’kennt oi Verrot d’Hand im Spiel ha. Dr Emir vo Tarsor, wu hat wella an miner Stell do kummadiera, war fähig d’Stadt üszuliefera, nur, um mich für immer zu er- lediga bim Sultan. — Viellicht sin Truppa ankumma, frischi Hilfstruppa! <stage>(Lärm auf der Strasse — noch nicht stark, zum 2. Diener)</stage> Suleiman, gang ge lüega, was da Larm bedit (kreuzt die Arme, verneigt sich tief und geht schnell ab. Die beiden horchen. Hassan hat inzwischen fertig geschlagen und horscht</p>
+          </sp>
+          <pb n= '35' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR:</speaker>
+            <p>Ins Schloss. In dr feschta Schlossturm! — — D’Mass- regia sin getroffa. — Noch isch nit alles verlora!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(wirft plötzlich den Turban zu Boden)</stage>
+            <p>Halt! Dü bisch mi Gfangena. Was stehsch Dü do — un starrsch mich an? Emir Achmed, Dü bisch mi Gfangener! Dich liefer ich per- sönlich in da Chrischta üs. Das soll mich sehr in Gunscht bringa, bim Kaiser.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR :</speaker>
+            <stage>(ihn zurückstossend und den Säbel ziehend)</stage>
+            <p>Elan- der!! <stage>(Hugo fasst ihn um den Leib; — beide ringen. Hassan nähert sich den Beiden um Hugo zu erstechen. Walter hat sich schon vorher auf die Kniee gerichtet. Er will aufstehen und sich auf Hassan werfen, bricht aber zusammen. Mit aller Auf- bietung seiner Kräfte gelingt es ihm, den Arm Hassan’s im letz- ten Augenblick zu erfassen, bevor dieser Hugo ersticht. Hassan sticht nun nach ihm. Walter sinkt zusammen. In diesem Augen- bliek erscheinen die Christen. Hassan flüchtet sich. — Heinrich von Geroldseck und vier Soldaten)</stage>.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Szene. </head>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Zu Hilf, Brieder. Do dr Emir vo Jaffa isch mi Gfan- gener. <stage>(Die Soldaten werfen sich auf den Emir und entwaffnen ihn)</stage>.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH von Geroldseck:</speaker>
+            <p>Oh Wunder! Ihr Hugo von Greifenstein, unser Fiehrer? So sin Ihr nit tot! — Un der brün Teifel do, das war dr Emir? — Do han mir jo, a güeta Fang gmacht. Un do — isch das nit Walter, Eier Frind.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Jo, ohna ihn war ich scho tot. — Bisch verwundet Walter? Armer Frind! Der Teifel do hat na ewa peitscha loh, will ar nit hat wella Mohamedaner wara. Walter hat’s nit iwer's Harz gebrocht, a bissel Komödie zu spiela, wie ich. Ich hab das Opfer gebrocht, um in dam do siner Nache bliewa zu kenna, sini Plan zu durchschoia, um da Chrischtabrieder noch als Gfangener nützlich zu si.</p>
+          </sp>
+          <pb n= '36' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>EMIR:</speaker>
+            <p>Elander! Flüech Dir, treuloser Verräter! A Gift- schlang hat Dini Müeter gebora, kei Mansch. Flüech Dir, treu- - loser Schuft!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(ihn zornig ins Gesicht schlagend)</stage>
+            <p>Stil, Hund! Jetz bin ich Di Herr. D’Rolla han gwachselt. HEINRICH <stage>(kniet neben Walter hin der wieder auf die Bank gesunken ist)</stage>: Wu sin Ihr verwundet?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Do in d’Sit hat ar mich getroffa. — Doch Hugo, — jetz sin mir quitt. Vor Johr hasch Dü mir’s Lawa grett un hit ich Dir.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>So waun mir Eich schnall ins Lager traga, zum Verbinda.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Hugo soll erscht amol dr Emir üsliefra. Das isch d’erschti Pflicht. Drno kumma mit’m a Arzt. Wann sah, was noch zmacha isch.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So soll’s gschah. Schnall voran, Ihr Lit. <stage>(Zu Wal- ter.)</stage> Bol sin mir zruck, sobol da brün Teifel in sicherem Gwahr- sam isch. <stage>(ab.)</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Szene. </head>
+          <stage> Walter, Heinrich.</stage>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Si sin furt. So höre denn schnall mich an. Di Wund do, liewer Ritter isch mi Tod. Si isch zwar nit beditend, aber ich weiss, as Hassan’s Dolch stets vergiftet gsih isch. Dr Tod kann bol itrate. — Ich hab’s eilig, mi Gwissa in Ordnung zu bringa. Wenn dr Arzt kummt, s’isch jo jedafalls a Mönch, so kann ar nur mini Seel heila, awer nimmer mi Körper. — Ich mües Eich a Gstandnis macha. Wenigi Tag bevor d’elsas- sisch Ritterschaft ufgebota wora isch in dr Krizzug, isch Rudolf von Greifenstein verschwunda.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ich weiss. Un di allgemein Meinung isch gsih, si Brüeder heig d’Hand im Spiel gha. Doch im leschta Oiga- blick hab ich erfahra, ar seig unschuldig.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ar isch schuldig, un ich bin si Halfer gsih.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>So sin Ihr d’Mörder vo Rudolf?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Rudolf labt. Ich hoff’s wenigschtens, as ar noch labt.</p>
+          </sp>
+          <pb n= '37' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Wu isch ar denn?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Uf’m Schloss Hoh-Barr.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Un doch soll dr Lichtasteiner alles üsgsüecht un nix gfunda ha.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>So isch’s. Rudolf isch gfanga im alta, wasserlaara Brunna zwischa dr erscht un zweit Ringmür un dr Koch bringt’m nachtlicherwis s’Assa. In letschter Minüt hab ich im Koch noch befohla, reichlicheri Nahrung zu bringa, als ihm ufgetraga wora isch vo Hugo. — So könnt ar noch am Lawa si.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Doch wurum hat Hugo das Verbracha beganga.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Ues Racha will Adelinda si Brüeder vorzoga hat, üs teiflicher Eifersucht, üs Habgier oi — un — ich warn Eich alli — Hugo isch kei güeter Mansch. A bösa Geischt be- herrscht un regiert ihn.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Hat sich Hugo do als Mohamedaner ufgfiehrt.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Hugo isch mi Frind gsih. Ich hab nur zu saga, was ich mües, um güet zu macha. Dr Rascht iwerloss ich im a höhera Richter.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Das bedit kei güet Zeugnis. Dr Emir wurd scho reda. — Ich will do salwer forscha.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Vor allem, Ritter, sobol Ihr noch Europa kumma, eila sofort noch Hoh-Barr, befreia Rudolf vo Greifen- stein un gan ihn siner heissgeliebta Gemahlin wieder zruck, bitte na um Verzeihung für mini Schuld. — Sie isch viellicht nit so gross als ar meint. Ich hab wohl im Oigeblick mit ghulfa, hab awer später immer wieder versüecht, Hugo zu bestimma, sina Brüeder frei zu loh. — Doch umsunscht!! — Un jetzt ver- spracha mir, Ritter, mini Bitt zu erfülla?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Vo Harza garn. Uf Ritterwort.</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Awer eila — denn ich kenn Hugo. Ar isch lischtig wie a Schlang! — <stage>(Legt sich langsam zurück.)</stage> Eila!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Walter, liewer Ritter, was isch Euch?</p>
+          </sp>
+          <sp who="#walter_von_wettolsheim">
+            <speaker>WALTER:</speaker>
+            <p>Adieu. Uf Wiedersah, dert... owa!</p>
+          </sp>
+          <pb n= '38' />
+        </div>
+        <div type="scene">
+          <head> 5. Szene. </head>
+          <stage> Die Vorigen, Hugo,</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(eilig hereinkommend)</stage>
+            <p>Friedrich hat mir salwer gratuliert, Walter! <stage>(Erstdunt stehen bleibend.)</stage> Was isch das? Isch’r ohnmachtig?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Eier edla Frind isch tot. Dr Dolch wu na ver- wundet hat isch vergiftet gsih.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>So hat Walter sini Frindschaft mit sim Tod be- siegelt. Dr Dolch hätt mich durchbohrt, hätt Walter sich nit g’opfert. <stage>(Abseits.)</stage> Doch sot ar am And sini Gheimnis verrota ha? Ich wur uf miner Hüet si un da Burscht do iwerwacha.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Edler Walter! <stage>(feierlich)</stage> Farn vom liewa Elsassland, vom herrlicha Wasgau, hasch Dü Dini jungi Seel üsghaucht, zruck ga in d’Hand vo Dim Schöpfer! — Als Mär- tyrer bisch Dü gstorwa, Dina Gloiwa nit verleignet in schwarer Not, Dich ufgopfert fir di Frind, ihn gedeckt mit Dim eigena Lib! A edler Frind, Ritter Hugo, han Ihr verlora. A goldig, treu Harz steht still für immer. — So rüh den sanft im Heilige Land bis dr Herr Dich uferweckt zur ewiga, glorreicha Krizfahrt ins himmlische Jerusalem. <stage>(Beide entblössen das Haupt — und knieen nieder, das Haupt neigend)</stage>. <stage>(Der Vorhang fällt.)</stage></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head> 4. Akt. </head>
+        <div type="scene">
+          <head> 1. Szene. </head>
+          <stage> Konrad von Lichtenstein, Heinrich von Geroldseck, Toni. (Nacht. Von Zeit zu Zeit wirft der Mond helleres Licht auf die  Gruppe. Während des ganzen Akles so — besonders bei der  Kampfszene.)</stage>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Do war dr Brunna. Do tüet also mi unglick- lincha Frind Rudolf si furchtbara Loos erfülla. Do im d’Schoss dr Arda hat na si teiflischa Brüeder verborga,do hat ar na weila verdarwa loh, hinsiecha am Lib, andr Seel verzwiefla. Weh Dir, unnatirlicha Brüeder! Weh Dir, Dü Schuft: — Dr erschta Teil vo mim Schwur isch erfüllt, dr zweita Teil wurd erfüllt im Oigablick, wu ich dam Scheusal dr Dega durch die Bruscht renn. Un Eich, liewer Heinrich im Voraus Dank fir das Liewes- wark.</p>
+          </sp>
+          <pb n= '39' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>So han ich’s im edla Walter versprocha! Ich han mi Ritterwort müessa halte.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Edel nanna Ihr da ehrvergassana Ritter, wu sini Hand gebota hat zur Uesfiehrung vo dam Verbracha?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Jawohl, a edler Mansch. Als a Heiliger isch ar in mina Oiga gstorwa. Dr Emir vo Jaffa salwer hat mir ver- zehlt, bevor Kaiser Friedrich ihn entlassa hat, nochdam ar a Vertrag, a Waffenstillstandsvertrag abgschlossa hat mit ihm, wie edel sich Walter betraga hat, wie ar trotz aller Bedrangnis, trotz dr Folter widerstanda hat, sina Gloiwa um kei Richtum un Ehr vo dr Walt verleugna hat wella. — Wie edel ar gsi isch, kenna Ihr do dra sah, as Walter in Gegawart vo HUGO ge- peitscht wora isch, blüetig gepeitscht wora isch, waga siner Gloibenstreue, un Hugo rühig züa gschoit hat. Trotzdam hat Walter si Lawa hingah, um Hugo zu reita. Un as Rudolf noch labt, isch Walter zu verdanka, wu im Koch im leschta Oiga- blick noch Ordre ga hat, reichlichi Nahrung im Gfangana zu ga. Ues Frindschaft nur, üs treuer Frinschaft nur hat ar mit ghulfa, hat awer wohl bi keiner Glagaheit versümt, Hugo umzu- stimma. Un schwar hat die Tat uf siner edla Seel gebrennt, gloiwa mir. — Tat ar noch lawa, do stand ar, do an unsrer Sit um Rudolf zu befreia.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Wenn’s so steht, drno will ich anderscht danka lehra iwer Walter.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Dr Koch macht lang mit da Strick. Sot am And dr Burgvogt reuisch wora si?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Dr Burgvogt isch zu alt, a zu gradi Natür, un viel zu edel, um wieder andersch zu danka. Ich bin hit Mittag, wu ich vo Eich Walters Bekenntnis erfahra han, sofort, wie Ihr wissa, uf Hohbarr gritta, im Burgvogt, wu ich scho vo frieher har kennt han, alles zu verzehla. Ich bin im Vorüs sicher gsih, as ar entrüschtet isch, iwer s’Verbracha vo sim süfra Herr! — Un ich han mich oi nit getäuscht. Doch hat ar’s nit wella gloiwa. Ich hab ihm vorgschlaga, dr Koch kumma zu loh un zu verhöra. Dr Koch, wu ar igsah hat, wie nutzlos s’Leigna isch, hat andlich alles gstanda. Do druf han mr bschlossa, hit Nacht sofort Rudolf zu befreia un dr Koch mit zu namma uf Greifen- stein, fir na zu schitza vorm Zorn vo Hugo.</p>
+          </sp>
+          <pb n= '40' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ihr han güet geto, rasch zu handla, denn mir schwand nix Güets. Hugo hat Verdacht gha, wu ich ihm als mim Chef gsait han, ich miesst unverzüglich in d’Heimat zruck, anstatt in Brindisi zu bliewa wu mir glandet sin, noch dr Ruck- kehr üsm Hl. Land!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Hugo isch Eier Chef gsih?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ja, doppelt. D’Ueslieferung un dr Streich wu ar im Emir gliefert hat, han Friedrich so güet gfalla, as ar gsait hat, so a entschlossena, gewandta Mann kennt ar güet brüecha, un wenig Wucha nochhar hat ar ihn zum Befehls- haber vo da Füestruppa ernannt.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>So hat ar’s wit gebrocht!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ja, un steht in hoher Gunscht bim Kaiser.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Dr Emir, hat ar im Kaiser nit d’Wohret gsait??</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Doch, awer Hugo isch so gwandt gsih, as ar Friedrich kat kenna gloiwa macha — sini Bekehrung und si Verhalta wara nur Verstellung gsih. — Als Bewies hat ar isch nit gschamt Walters Ufopferung vorzubringa — wu doch sich nit gopfert hat, wenn ar gwisst hat, as ar, Hugo, a Unwürdiger war, a Verräter vo dr Religion, a Iwerlaifer! — Uebrigens wot sich dr Emir nur rächa! tat iwertriwa. — Friedrich salwer, kei Heiliger, hat nit viel Gwicht druf glegt, hat sina Luega gegloibt un Hugo beglickwinscht!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>So hat ar operiert?? —— — Lischtiger isch doch kei Schlang!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ja, un ewa drum han ich Befürchtunga ghegt. Ich han ihm zwar gsait, a Bote seig kumma, mich glich heim- zurüefa, waga schwarer Krankheit vo mim Vater. Ar hat mich so verdachtig angschoit un gmeint, wu isch’r da Bote? Ich tat oi garn mit’m reda, um Nachrichta üs dr Heimet ze bekumma. — Ich han ihm druf schnall gantwortet: «Dr Bote isch scho wieder furt, zu malda as mini Rückkehr bevorsteht», — Drno hat ar mich loh zieha. Awer in sina Oiga hab ich ebs glasa, wu mich be- unrühigt hat. Drum bin ich gritta Tag un Nacht. Zwei Pfard hab ich z’Schanda 'gritta, um jo nit s’spot zu kumma. Denn Walter salwer hat mich gwarnt. Eins vo sina letschta Wort isch gsih: Eila! Eila!</p>
+          </sp>
+          <pb n= '41' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Nun, mir sin bol am Ziel. Sobol dr Koch do isch, kann d’Befreiung beginna. Mir wann im unglicklicha Rudolf jetz langsam un schonend mitteila, as d’Rettung do isch. — Decka mr amol d’Bratter ab. <stage>(Beugt sich über die Grube, hält die Hünde hohl um den Mund und ruft hinab: «Rudolf». Zu Heinrich.)</stage> Kei Antwort.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ar schlummert viellicht! Reda lüter!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Rudolf von Greifenstein! — Rudolf, mi liewer Frind! <stage>(lauscht)</stage> Noch kei Antwort! <stage>(laut)</stage> Rudolf, liewer Frind, lawa Ihr noch!! <stage>(Ganz leise Stimme von unten)</stage> Wer riaft? <stage>(Da die Zuschauer natürlich die Antworten nicht verstehen, so spricht sie Heinrich zu Konrad nach)</stage>.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH :</speaker>
+            <stage>(freudig)</stage>
+            <p>Ar labt!! Ar hat Antwort ga!! Wer riaft, hat ar gsait.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Dini Frind, Konrad von Lichtenberg un Heinrich vom Geroldseck.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Ich’s möglich?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ar hat Zwiefel. «Isch’s möglich?» hat’r gsait.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Mr kann wohl Zwiefel ha. Sisch zwei Johr bol, as da arm unglicklich Ritter do gfanga ghalta wurd. <stage>(Ruft herab.)</stage> Erkennsch Dü mini Stimm nimmer?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Doch <stage>(freudig)</stage> ar hat Euch erkannt an dr Stimm! <stage>(Ruft hinab.)</stage> Nur a Oigablick Geduld. Glich wara mir Eich a Seil herunterloh, um Eich ufa zu ziega. <stage>(Pause)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(zu Heinrich)</stage>
+            <p>Wu isch Hugo, hat ar gfrogt? <stage>(hin- abrufend)</stage> Bisch nur rühig, da isch wit awag!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 2. Szene. </head>
+          <stage> Die Vorigen.</stage>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Zu blibt denn da Lümmel vom a Koch? Ich gloib da tüet d’Strick erscht flachta.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Herr, ich will na gloib ge süecha un a bissel Fir unter sini Füessohla macha.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Ja, geh. <stage>(Toni ab.)</stage></p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Was isch denn das für a Dienschtmann? Isch’r sicher?</p>
+          </sp>
+          <pb n= '42' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>S’isch a Dienschtmann vo Adelinde, ar isch züe- verlassig, müetig un ergah, wenn ar oi erscht sit kurzer Zit im Dienscht isch. Ich han a kenna lehra, will ar in jener Nacht a Hilferüef gehrt hat, un ich na im Verhör gha han. In jener Stund hab ich na oi agworwa fir Greifenstein, denn Adelinde brüecht ergaweni Lit. <stage>(Pause.)</stage></p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>As da Koch so lang macht. As mien doch Strick bi dr Hand si. Do isch doch nit lang zu süecha.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Dr Koch hat am And Angscht. <stage>(Geht zum Brun- nen und ruft hinab)</stage> Rudolf, sobol as s’Seil do isch, lehn mr's herunter. Kannsch’s allei um di Körper schlinga, un’s fescht ver- knota? <stage>(Antwort)</stage> Das geht scho, d’Freid git mr wieder Kraft — <stage>(zu Heinrich)</stage> D’Freid git’m Kraft genüe, um sich allei anzu- seila, sait’r.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 3. Szene. </head>
+          <stage> Die Vorigen, Toni, der Koch. (Man hört TONI erregt sprechen, zuerst weiter, dann nahe):  Allez, flink, Dü Pflütabüch, Dü füli Paschtet (es klascht; der  Koch fällt auf die Bühne mit einem langen Seile).  (Sie lassen das Seil langsam herunter; hinabrufend) Rudolf!  S’Seil kumn! Bind’s güet fescht! Rüef, wenn Dü fertig bisch,  und zieg am Seil.(Alle beugen sich schweigend über den  Brunnen.)</stage>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Awer Toni! Dü gehsch a bissel zu schroff um mit dam arma Tropf do!</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI :</speaker>
+            <stage>(hitzig)</stage>
+            <p>Herr Ritter! Ich gloib, da Dolla war gar nit kumma, wenn ich na nit ge hola war. Im leischta Oigablick hat’r wieder Angscht bekumma. Ich han’m d’Angscht zerscht wieder miessa üstriewa. — Ich has’m gsait, wenn’r nit schnall mit kumt, so mach ich Hackfleisch un Blüetwirtscht üsm. — Un iwerhoipt, Mitleid mit dam Nüdlasack, wu da arm Herr zwei Johr lang gfanga ghalta hat im trürigschta Gfangnis wu a Mansch je erdankt hat... <stage>(gibt ihm einen Puffer)</stage>. Ich han grat Luscht fir na salwer do awazwarfa.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(stotternd und schlotternd)</stage>
+            <p>Ich bin unschuldig — ich... han gmeint dr Herr... hat ..... mi agloga...</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Rühig, Toni... s’isch wie’s dr Koch sait. Nur d’Dummheit vom Koch isch schuld as’m in dana zwei Johr kei Liecht ufganga isch — un ass ar dumm isch, isch nit sini eigeni Schuld... — Doch, jetz ans Wark, un kei Sekund mehr versümt.</p>
+          </sp>
+          <pb n= '43' />
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH :</speaker>
+            <stage>(nach einer Weile)</stage>
+            <p>Ar hat grüefa.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI:</speaker>
+            <p>Un s’Seil hat a Ruck gmacht!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Kenna mir ziega? — Ja, hat ar gsait, ar isch bereit.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI :</speaker>
+            <stage>(zum Koch)</stage>
+            <p>Hopp, Nüdlasack, jetz zieg un loss nit luck, sunscht weh Dir, Dü füli Paschtet. <stage>(Die Männer ziehen vorsichtig hinauf. Man sieht den Kopf Rudolfs erscheinen, seine Brust: mit seinen Händen klammert er sich scheinbar an den Rand. Die Männer fassen nach ihm [ausser Konrad, der das Seil fest hält] und ziehen ihn vorsichtig hinaus. Während die Män- ner den Strick lösen, fällt Rudolf auf die Kniee nieder, mit ge- falteten Händen gegen Himmel schauend)</stage>.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Gott, allmachtiger, güetiger Gott! So hasch Dü mi flehend Gebat erhört un mich erlöst üs schwarer Not. — Dich wur ich lowa, Dir wur ich danka alli Stund vo mim Lawa. <stage>(aufstehend; sich Konrad in die Arme werfend)</stage> Konrad! Har- zensfrind! Heissa, heissa Dank! <stage>(Wird ohnmächtig; Konrad legt ihn hin, Kopf gegen eine Erhöhung, Felsen oder die Stricke)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>A Ohnmacht hat na erfasst... S’isch zu versteh! D’Luft d’frischa Luft, ungewohnt sit langer Zit. D’Ufregung... das alles — isch z’viel gsih uf eimol. — Doch das geht voriwer.</p>
+          </sp>
+          <sp who="#toni">
+            <speaker>TONI :</speaker>
+            <stage>(zornig zum Koch — Faust drohend)</stage>
+            <p>Wenn’r stirbt fahrsch Dü do runter in das finschtra Loch; Dü Teigaff, Dü! <stage>(pufft ihn)</stage>.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF :</speaker>
+            <stage>(langsam sich aufrichtend; um sich schauend)</stage>
+            <p>Wu bin ich? Isch’s kei Troim? Ich bin frei?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Frei, bisch Dü Rudolf, bi Dina Frind! In güeter Hüet.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Wu isch Adelinde?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Adelinde, Di lieb Gemahl, han mr mit Gwalt miessa verhindra mit zu kumma. Mir han si nit in Gfohr wella wissa. Si hat scho gnüa glitta.</p>
+          </sp>
+          <pb n= '44' />
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So — hat si mich noch lieb, isch mir treu ge- bliewa? Hat mich nit verlora ga?</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Ihr ahnend Harz hat ihr gsait, as Dü noch labsch. Ganzi Tag isch si gekneit in dr Burgkapall, hat im Ge- bat grunga um Dich, Dini Befreiung erbata. A treuer Wib git’s nit uf Arda.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Furt zu ihr... Mich drängt’s, mi harzlieb Wib in mini Arm zu schliessa <stage>(zu Heinrich)</stage>. Isch das nit Geroldseck? Heisser Dank oi Eich, Heinrich von Geroldseck.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ich han nur mini Pflicht geto. Un ghalta, was ich im a Starbenda versprocha han, Eich zu befreia.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Im a Starbenda han ihr miessa verspracha? Sot Hugo... mi Brüeder?</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Nei, nei, dam geht’s güet, züe güet. — Awer Walter, isch nimm unter da Lawenda. Ihm han Ihr Eiri Be- freiung zu verdanka.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>So isch mi Brüeder Hugo <stage>(schmerzvoll)</stage> noch nit in sich ganga. Wu wilt ar denn? Ich weiss jo nix vo dr Walt.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ar isch ufm Krizzug gsih, isch jetz ufm Heim- wag awer noch in Brindisi. Ich bin ihm vorüsgeilt, Eich zu be- freia.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Unglickseliger Brüeder. Mit'm a so na Verbracha belada, hat ar troie dr heilig Boda vo Paläschtina betrata.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ar hat noch ganz andri Sacha troia macha... Doch furt. — Das für später. Heim uf Greifenstein.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF :</speaker>
+            <stage>(verzückt)</stage>
+            <p>Heim! Adelinde wartet!!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head> 4. Szene. </head>
+          <stage> Die Vorigen. Hugo, Soldaten. (Es können die nämlichen Soldaten  sein wie im 3. Akt).</stage>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(Soldaten: Fackeln; höhnisch)</stage>
+            <p>Ich kumm gloib ich noch zur rachta Zit. Ha, Geroldseck!!! Dü hasch mich wella betriega! Awer ich hab Dich durchschoit un mini Massregla getroffa! <stage>(zu den Soldaten)</stage> Hallo, Soldata, fassa die Verschwö- rer! <stage>(zu den Rittern)</stage> Im Nama vom Kaiser Friedrich, unserm oberschta Landesherr sin Ihr verhaftet. In dr Kerker mit dr ganza Gsellschafft.</p>
+          </sp>
+          <pb n= '45' />
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Brüeder — isch’s no nit genüa an dana zwei Johr, an dam unermasslicha Leid, wu Dü iwer uns gebrocht?</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Singa Eiri Lamentationa im Gfangnis; dert klingt’s besser an da herta feschta Wand!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Kaïn! Brüedermörder!</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH :</speaker>
+            <stage>(zornig)</stage>
+            <p>Un abtrünniger Schuft! Renegat! Ehr- loser Schuft! — Sin still, Rudolf, verschwanda kei Wort an das Ungeheuer! Eher erweicha Ihr a Stein as das Ungeheuer! <stage>(zieht den Degen)</stage> Mit so Lit verhandelt mr nur mitm a güeta Stahl in dr Hand! <stage>(Seine Freunde ahmen ihm nach)</stage> Ues unserem Wag, oder mir bahna uns, a blüetiga Wag mit unserem Dega!!! — Mir sin uf Bischöflichem Boda, mir sin freii Ritter. Mir lehn uns nit gfanga setza. Lug un Betrug isch’s, was Dü do redsch vo Verschwörung. — Solla mir schuldig si, so soll uns Bischof oder Kaiser vor Gericht lada. Un mir wara erschiena, als freii Ritter. — Awer Hand legt keina an uns!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Soldata! So isch’s. Mir sin kei Verschwörer. Eier Fiehrer isch a Scheusal, wu si Brüeder zwei Johr lang in dam laara Brunna do gfanga ghalta hat. — Wenn sini Sach ehr- lich gsih war, wurum hat ar na drno do versteckt? Do dr Koch soll d’Wohret saga, da weiss am Beschta Bscheid.</p>
+          </sp>
+          <sp who="#koch">
+            <speaker>KOCH :</speaker>
+            <stage>(ängstlich zwischen den Parteien stehend)</stage>
+            <p>Zu wem soll i halta? Wer wurd acht Meischter? Dr eina hat mi zum Narra ghalta un dr ander hat mi verschlaga. — Am beschta isch’s, ich sag nix, ich halt zu niemets!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(rasch einfallend zu den Soldaten)</stage>
+            <p>Horcha nit uf die Liega! 100 Gulda uf dr Kopf vo Jedem wu Ihr gfanga namma! EIN SOLDAT: 100 Gulda, das losst sich höra. Druf, Kame- rada! Hat Racht wer will!</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Zruck Rudolf! Wenn eina vo uns fallt, so nimmsch Dü ihm dr Dega üs dr Hand. — So lang awer decka mir Dich!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>D’Not wurd mina Arm stähla. — Weh Dir, Hugo! Dü Schandfleck vo unserem edla Gschlacht.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(schäumend)</stage>
+            <p>Vorwarts, Soldata!</p>
+          </sp>
+          <pb n= '46' />
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(sich ihm zuwendend hart und kalt)</stage>
+            <p>So kumm Mörder un Renegat. Ich will s’Schild vo da Greifasteiner wascha mit Dim Blüet, d’Walt befreia vo Dir, Dü Ungeheuer.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(kämpfend)</stage>
+            <p>Alter Narr, Dü... wursch ufm Platz bliewa!... Un iwer Leicha wur ich schritta... zu mim Ziel! — Dü müesch verschwinda! <stage>(Die Soldaten kämpfen gegen Toni und Heinrich. Toni kämpft mit Todesverachtung, schlägt drein wie ein Wilder. Da er keinen Degen hat, so hat er einem Sol- daten eine Lanze entrissen)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD :</speaker>
+            <stage>(Hugo treffend)</stage>
+            <p>So — — Dü Ungeheuer. — Das wurd langa!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(wankt)</stage>
+            <p>Getroffa! — — Höll un Teifel!! Jetz! <stage>(Fällt zu Boden — der Kampf bricht ab — alle stehen halbkreisför- mig um Hugo)</stage>. Ihr han güet... getroffa! <stage>(Ein Soldat kniet nieder und untersucht die Wunde)</stage>. SOLDAT: Harzgegend! Tief! Do nutzt kei Wunderarzt nix mehr! Herr, soll ich Eich dr Prieschter hola!!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Isch’s die Zit? — Ich mües geh... uf dr Höhe vo mim Lawa — so, noch am Ziel, vo mina Wünsch! — Verflüecht! Ich will awer lawa! <stage>(ohnmächtig werdend)</stage>.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Armer Brüeder! Ar mües schieda. Hola a Priesch- ter! <stage>(Toni ab)</stage>.</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO :</speaker>
+            <stage>(die Augen aufschlagend)</stage>
+            <p>Rudolf — ich hab unseri — seligi Müeter gsah! — Ich gloib... ich bin verlora! — Mües ich vor dr Richter? <stage>(schüttelt sich im Frost)</stage> Ich han ihn glei- gnet! <stage>(zu den Soldaten)</stage> Die do — sin unschuldig! Ich hab alli be- troga! Betroga mi Bischöflicha Herr, betroga Friedrich... han Chrischtus verleignet, mi... Brüeder wella töte... d’Unschuld gmordet... A Strom vo Verbracha... — strömt... har... blüetig, rot... Brüder... ich ertrink!!... Rudolf... hilf! Verzeih!! bevor ich stirb!</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Hugo, sei rühig, Dir isch vergah!</p>
+          </sp>
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Noch einer... Walter! — Ar kummt. — Wie strang ar mich alüegt.</p>
+          </sp>
+          <sp who="#heinrich_von_geroldseck">
+            <speaker>HEINRICH:</speaker>
+            <p>Ar hat Eich verzeiht vor sim Tod. Ich hab ihm jo bigstanda, in sinra letztschta Stund.</p>
+          </sp>
+          <pb n= '47' />
+          <sp who="#hugo_von_greifenstein">
+            <speaker>HUGO:</speaker>
+            <p>Dank! Ja — jetz lachelt ar mir züe! O Lawa — —-, wie hasch Dü mich betroga!!! — Gott!!! <stage>(schwach)</stage> verzeih! A schrecklicher Sinder! D’Müeter winkt! Ich kumm! Ja.. Walter! Ich kumm! <stage>(Legt sich zurück)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Ar isch iwra!! ins ewiga Land — reuig. Mög Gott ihm a gnadiga Richter sie! <stage>(Alle knieen nieder; nach einer Weile stehen alle auf)</stage>.</p>
+          </sp>
+          <sp who="#konrad_von_lichtenberg">
+            <speaker>KONRAD:</speaker>
+            <p>Un jetz uf, noch Strasburg. Mir han dert Be- richt zu erstatta. As gilt: oi dr Schleier zu breita, iwer das was gschah! — Rudolf hat scho gnüe glitta. As gilt ihm un siner Nochkommaschaft zu erspara, as d’Schand haftet an dam edla, stolza Nama.</p>
+          </sp>
+          <sp who="#rudolf_von_greifenstein">
+            <speaker>RUDOLF:</speaker>
+            <p>Dank, liwer Frind! Ich will sorga as mi Brüeder bestattet wurd in dr Familiagruft. Dert soll ar üsrüeha vo dam armseliga Lawa voll Haschta un Strewa. — In dar ewiga Nacht do unta, do hab ich d’Hohlheit vom Lawa gschoit, mi Brüeder bedürt, wu im a flackernda Irrlicht gfolgt isch, Jagd gmacht hat noch Macht und Gald un Ehr un Genuss. Das alles isch ver- flattert wie Roich im Wind. Do liegt’r tot un starr! Sini Seel awer isch hinüber, Rachenschaft abzulega. — Mög Gott jetz ihm gnadig si. <stage>(Vorhang fällt)</stage>. — SCHLUSS. —</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

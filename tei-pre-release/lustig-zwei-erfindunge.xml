@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zwei Erfindunge</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-119"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Zwei Erfindunge</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_sieselsaft" sex="M">
+            <persName>Herr SIESELSAFT</persName>
+          </person>
+          <person xml:id="herr_zart" sex="M">
+            <persName>Herr ZART</persName>
+          </person>
+          <person xml:id="herr_fink" sex="M">
+            <persName>Herr FINK</persName>
+          </person>
+          <person xml:id="herr_pfaffekapple" sex="M">
+            <persName>Herr PFAFFEKÀPPLE</persName>
+          </person>
+          <person xml:id="herr_bif" sex="M">
+            <persName>Herr BIF</persName>
+          </person>
+          <person xml:id="herr_duwack" sex="M">
+            <persName>Herr DÜWACK</persName>
+          </person>
+          <person xml:id="jumpfer_sieselsaft" sex="F">
+            <persName>Jumpfer SIESELSAFT</persName>
+            <persName type="variant">Lenele</persName>
+          </person>
+          <personGrp xml:id="alle" sex="B">
+            <persName>Alle</persName>
+          </personGrp>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_sieselsaft">
+          <role>
+            <persName>Herr SIESELSAFT</persName>
+          </role>
+          <roleDesc>Dokter</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_zart">
+          <role>
+            <persName>Herr ZART</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_fink">
+          <role>
+            <persName>Herr FINK</persName>
+          </role>
+          <roleDesc>(Basson)</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_pfaffekapple">
+          <role>
+            <persName>Herr PFAFFEKÀPPLE</persName>
+          </role>
+          <roleDesc>(Flöte)</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_bif">
+          <role>
+            <persName>Herr BIF</persName>
+          </role>
+          <roleDesc>(Saxophone)</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_duwack">
+          <role>
+            <persName>Herr DÜWACK</persName>
+          </role>
+          <roleDesc>(Horn)</roleDesc>
+        </castItem>
+        <castItem corresp="#jumpfer_sieselsaft">
+          <role>
+            <persName>Jumpfer SIESELSAFT</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(kunnt ine mit Püpitre)</stage>
+          <p>Endlig isch er jetz wieder emol ag'ruckt, dr Samstig!..
+                        ich frei mi als d'ganze Wuche druf hi... denn alle
+                        Samstig z'Owe mache mr Müsik mitnander... der Herr
+                        Fink, dr Herr Pfaffekàpple, dr Herr Bif, dr Herr Düwack
+                        un ich...<stage>(stolz)</stage> ich bin ihre Chef d'orchestre!...
+                        denn sie bringe nit ane, wenn nitt einer dr Tact
+                        schlat... 's sin halt alles nur Amateurs... dr Herr
+                        Fink blost 's Basson, dr Herr Pfaffekàpple d'Flöte, dr
+                        Herr Bif 's Saxophone un dr Herr Düwack 's Horn... ich
+                        spiel alle-n-Instrumente, excepté 's Basson, das ha-n-i
+                        nie känne lehre... un doch kàm's mr jetz z'güet... ich
+                        bin ewe-n-in ere grossartige-n-Erfindung uf dr Spür, wo
+                        d'Müsik d'Haüptrolle drin spiele soll... wenn das mir
+                        g'lingt, so kermt mi Fortün un mi Rüehm kei Grenze
+                        meh... doch, wenn mich nur dr Herr Fink mit sim Basson
+                        nit emol im Stich losst... er will allewil furt, dà
+                        Mann... un ich wisst sicher kei ander Basson z'finde...
+                        's isch fatal!... grad das Instrument, wo-n-ich nitt
+                        ka, das findet me-n-eso selte, un ich müess es doch ha,
+                        nitt nur fir mi Samstigmüsik, awer b'sunders noch fir
+                        mine... doch still .. ich will mi G'heimniss no nitt
+                        üsschwàtze... 'wenn nur d'Müsik güet geht hit z'Owe un
+                        ass die Herre nitt züe arg falsch blose!...</p>
+          <pb n="323"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Mirliton)</stage>
+            <l>Wenn mir als Müsik mache,</l>
+            <l>So himpelt's màngmol arg,</l>
+            <l>Mir thien als selbst drab lache,</l>
+            <l>Denn 's isch halt keiner stark.</l>
+            <l>Doch wenn mir in Acht uns nàmme,</l>
+            <l>Wird se besser bol üsg'fiehrt,</l>
+            <l>D'B-moll, d'Dièses schier alle z'àmme</l>
+            <l>Werde jetz observiert.</l>
+            <l>Doch wenn mir in Acht uns nàmme,</l>
+            <l>Wird se besser bol üsg'fiehrt,</l>
+            <l>D'B-moll, d'Dièses schiert alle z'àmme</l>
+            <l>Werde-n-observiert!</l>
+          </lg>
+          <p>G'wiss, d'Müsik isch ebbes schön's!... alles ka me
+                            mit dr Müsik mache!... alles!... doch hör i nitt
+                            ebber ku?...<stage>(me klopft a)</stage>entrez... <stage>(dr Herr Fink kunnt ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Sieselsaft, Herr Fink.</stage>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Ah, Sie sin 's, Herr Fink?... was bringe Se mr Neü's?...
+                        Sie werde doch ebbe ku hit z'Owe... was mache
+                        d'Gschàfte... was macht Ihre-n-Erfindung?</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Mi Erfindung?... was wànn Sie mit dem sage?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Oh... Sie bruche sich nitt z'verstelle vor mir!... unter
+                        uns g'sàit, ich ha das scho lang g'merkt an Ihrer
+                        Unrüehigkeit, an Ihre Maniere... ich kenn ewe das
+                        Ding... ich o bin in're-n-Erfindung uf dr Spür un ich
+                        glaüb, dass ich jetz endlig an's Ziel kumme wird...</p>
+        </sp>
+        <pb n="324"/>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Do sin Sie glickliger as ich, Herr Sieselsaft, denn ich
+                        will's nitt làigne, ich süech ebbes, un wenn ich das
+                        find, so isch mi Fortün g'macht.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Grad as wie-n-ich!</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Tag un Nacht plogt mich das Dings!... Tag un Nacht
+                        thüe-n-i noforsche, un wenn i als mein, jetz ha-n-i's,
+                        so geht's wieder züe nitt... drum isch's jetz
+                        üsg'macht... ich gang nach Amerika, wo d'Photographie
+                        besser geht... viellicht ass mir dert ebbes Neü's,
+                        ebbes Unerwartet's unter d'Hànd fallt, wo züe miner
+                        Erfindung bitrage ka...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Das werde Sie doch ebbe nitt thüe, Herr Fink, wer wott
+                        denn derno 's Basson spiele an uns're Soirées?...<stage>(fir
+                        sich)</stage> un ich, wo b'sunders uf ne zählt ha, fir mine...
+                       <stage>(lüt)</stage> Sie kanne-n-uns nitt eso im Stich lo, das wàr
+                        nitt schön... wo wotte mir e-n-Anderer nàh?... Sie
+                        wisse jo, ass das Instrument nieme spielt...</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Sie brüche nitt sorge fir das, Herr Sieselsaft, ich kenn
+                        e junger Mensch, wo par hasard das Ding spielt... nur
+                        hat er's allewil versteckt bis dohi, worum, weiss i
+                        nitt... ich ha ne züefàllig emol ertappt dra...
+                        suffit... wenn Sie wànn, so will ich ne hit z'Owe-n-an
+                        mim Platz schicke... er spielt recht schön...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eb ich will!... natirlig will i!... was wotte mr ohne
+                        Basson mache?...<stage>(fir sich)</stage> tiens, e-n-Idee!...<stage>(er
+                        heht dr Einger an d'Nase-n-an denkt no).</stage></p>
+          <pb n="325"/>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich hätt jetz glaübt, ass ich's mit mim neümodische
+                        Collodion ane bring<stage>(er geht hin un her un
+                        gesticuliert).</stage></p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(fir sich)</stage>
+          <p>Alle-n-Aügesblick ha-n-i G'schichte, fir e Basson
+                        z'finde... wenn ich, fir in dem Ding emol e-n-End
+                        z'mache, mi Tochter thàt mache dà Bassonspieler
+                        hirothe?... uf die Art hätt ich ne allewill unter dr
+                        Hand... g'wiss er kunnt jetz wie g'wunsche, dà junge
+                        Mensch!<stage>(züem Herr Fink)</stage> wie isch er, Herr Fink?...</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Er isch roth un e wenig dünn... awer ich wein' wenn ich
+                        ne viellicht thàt e wenig schittle un derno thàt lo
+                        üsrüehe, ass er sich doch mache thàt!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(lacht)</stage>
+          <p>Ich red' nitt vo-n-Ihre Mixtüre.... ich mein dà junge
+                        Mensch... doch still... do isch 's Lenele, mi
+                        Tochter...<stage>(d'Jumpfer Sieselsaft kunnt ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Sieselsaft, Herr Fink, Lenele.</stage>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Denk jetz nur emol, Lenele, dr Herr Fink will nach
+                        Amerika geh!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s schadet nit... 's isch wieder e G'schittelter weniger
+                        im Hüs!</p>
+          <p>Halt!... jetz ha-n-i's... so geht's!...<stage>(er nimmt si
+                        Hüet un laüft dervo, ohne-n-Adie z'sage).</stage></p>
+        </sp>
+        <pb n="326"/>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s isch nitt das... ich müess jetz vor allem süeche die
+                        Hiroth z'weg bringe... do wird's Mieih koste... 's
+                        Lenele hat ewe ne-n-Anderer gern.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(hinte-n-an dr Thürfi, wo se-n-im Herr Fink nog'lüegt
+                        hat)</stage>
+          <p>Isch das e Schaüde, dà Herr Fink... décidément, 's sin
+                        aiie Müsikante Narre!<stage>(se kunnt fire).</stage></p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Kind, los... kumm setz Di e wenig... ich ha Dr
+                        e-n-intressante Neüigkeit mitz'theile.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(setzt si züe sim Vater)</stage>
+          <p>Mir?... was soll das fir e Neüigkeit si?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>De hasch also g'hort, ass dr Herr Fink vo hie furt
+                        will?...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Ich glaüb nitt, ass me-n-im nogrine wird... er isch ganz
+                        sicher verruckt, dà Mann!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Lenele, sag kei Dummheite... das verstehsch Dü nitt...
+                        dr Herr Fink süecht ebbes !</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Si Verstand süecht er, wo-n-er verlore hat vom viele
+                        Basson spiele!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Kind, noch emol, Dü verstehsch das nitt... Dü weisch
+                        nitt, was das isch, we me ne neüe-n-Erfindung im Kopf
+                        hat... b'schaü mich, Di Vater... ich o süech ebbes!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Unglickligerwis jo... alle Müsikante süeche-n-ebbes</p>
+          <pb n="327"/>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Doch, 's handelt sich jetz nitt um das... De weisch, wie
+                        gern ass ich d'Müsik ha, un ass unser Quartett am e
+                        Samstig mi grösste Freid isch!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Jo, ich weiss es nur z'güet... me hört efange nit as
+                        Müsik in dem Hüs!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Bis do ane wàr jetz alles recht... wenn awer derno dr
+                        Herr Fink furtgeht, so hà mr kei Basson meh... züem
+                        Glick weisst er awer e junger Mensch, e schöner junger
+                        Mensch,<stage>(fir sich)</stage> ich kenn 'n nitt, awer 's macht nit!
+                       <stage>(lüt)</stage> wo das Instrument spielt un wo-n-er mir hit z'Owe
+                        do ane schickt fir ne remplaciere.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Eh bien... ich ha nit dergege... das isch mir doch
+                        eithüen, wer do kunnt ku trüdle, wenn ich nur nitt
+                        züelose müess!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Das soll Dir gar nitt eithüen si... los jetz recht... De
+                        weisch, wie rar ass d'Basson sin, un noch halt ich dra
+                        fir unser Quartett<stage>(fir sich)</stage> un b'sunders fir mi
+                        Erfindung...<stage>(lüt)</stage> fir also sicher z'si-n-emol, immer
+                        einer unter dr Hand z'ha, so wàr's mr lieb, wenn Dü dà
+                        junge Mensch thàtsch hirothe...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(heftig)</stage>
+          <p>Niemols hiroth ich e Müsikant!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Lenele, mach dt Stättkopf nitt un schla Dr die
+                        Liebschaft mit Dim Herr Zart üs em Sinn .. ich kenn en
+                        nitt, awer das isch nit fir Dich!... e Müsikant isch
+                        doch allewil besser.</p>
+        </sp>
+        <pb n="328"/>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Awer ich ha-n-en gern, dr Herr Zart, un dà junge Mensch
+                        mit sim Basson kenn ich jo gar nitt emol!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Tiens, 's isch wohr... ich ha dr Herr Fink vergesse
+                        z'froge, wie-n-er heisst... awer das hat nit derzüe
+                        z'sage... er spielt 's Basson un dass isch d'Haüptsach.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(stättig)</stage>
+          <p>Grad wege dem will ich ne nitt... denn die sin noch viel
+                        g'schittelter ass alle-n-andre Müsikante!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Was, Dü witt nitt!... ich wott jetz emol sàh, ass
+                        me-n-im Herr Dokter Sieselsaft nitt thàt folge, wenn er
+                        ebbes vorschribt!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Merci fir so ne Medizin.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(ich ha-n-emol e Kàtzle g'ha)</stage>
+            <l>Hiroth wer will e Müsikant,</l>
+            <l>Ich will vo keim nit wisse,</l>
+            <l>Denn 's fehlt in alle, 's isch bekannt,</l>
+            <l>E wenig am Verstand.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <lg>
+            <l>Dü hasch züe dem nit z'sage</l>
+            <l>Folg mir im Aügesblick,</l>
+            <l>Nie wirsch Dü Dich beklage,</l>
+            <l>Denn g'macht isch unser Glick!</l>
+          </lg>
+          <stage>(Mitnander)</stage>
+        </sp>
+        <spGrp type="simulatenous">
+          <sp who="#jumpfer_sieselsaft">
+            <speaker>Lenele.</speaker>
+            <lg>
+              <l>Hiroth wer will, etc.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_sieselsaft">
+            <speaker>Herr Sieselsaft.</speaker>
+            <lg>
+              <l>Hiroth Dü nur e Müsikant,</l>
+              <l>'s isch 's Beste, uf mi G'wisse,</l>
+              <l>Denn aile hàn, das isch bekannt,</l>
+              <l>Viel Geist un viel Verstand.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="329"/>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Also, denk jetz dra, Lenele... gang un mach Di schön
+                            fir hit z'Owe... ass De g'falle thüesch...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Im Gegetheil!... ich ha grad im Sinn, d'Hoor lo
+                            abz'schnide un e Pflàsterle uf d'Nase z'pàppe.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Hein... was verzählsch do? .. los Kind... mach mi
+                            nitt bös... De kennsch mi!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Ich ka-n-awer o gar nitt begriffe, worum as Dü-n-eso
+                            an dàre Verbindung haltsch... 's isch doch g'wiss
+                            nitt nur wege Dim Quartett?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eh bien nei!... los Kind... Dü weisch nitt, was ich
+                            fir grandiose-n-Idee ha un in was fir ere
+                            merkwürdige-n-Erfindung as ich uf dr Spür bi... Oh
+                            d'Müsik, d'Müsik!.. wenn ich nitt Dokter gsi wàr,
+                            so hätt ich g'wiss grossartige Sache composiert....
+                            awer nit destoweniger will ich se jetz doch
+                            awende... d'Müsik müess mr jetz diene-n-uf
+                            e-n-andere Manier... De weisch, ass ich
+                            alle-n-Instrumente spiele ka!...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Eb i's weiss!...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Excepté 's Basson.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Witt ebbe das o noch lehre?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eh nei... grad wege dem will ich mir dà junge Mensch
+                            attachiere, 'ass ich sicher bi, immer e Basson um
+                            mich umme z'ha, denn ich brüch ne, fir mi Plan
+                            üsz'fiehre...</p>
+        </sp>
+        <pb n="330"/>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Was fir e Plan denn?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Nu, so los denn... ich will Dr mi G'heimniss
+                            avertraüe</p>
+          <stage>(er lüegt, eb Nieme-n-unterwegs isch)</stage>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Mit dr Müsik!...<stage>(fir sich)</stage>ich ha mr's denkt, ass wieder eso ebbes üsekunnt!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Mit dr Müsik, jà... 's kunnt alles nur druf a, nodem
+                            as es e Krankhet isch, mit was as me spielt, was me
+                            spielt un wie me spielt.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Krank ka me-n-eim mache, jo, mit dr Müsik, awer nitt
+                            heile... b'schaü dà Moler dert àne, dà hat e
+                            Nochbere g'ha, wo d'ganze Zit, ohne ufz'höre,
+                            Klavier g'spielt hat... eh bien! 's isch
+                            keine-n-acht Tàg gange, so hat er d'Gàlsucht am
+                            Hals g'ha!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(ribt si d'Hànd)</stage>
+          <p>He, he... das isch's jo grad, was ich Dir will mache
+                            z'versteh... do siehsch also, ass 's Klavier unter
+                            anderm e-n-Ifluss hat uf d'Galle... dur 's viele
+                            Klavierspiele hat se sich bi dem Moler in Bewegung
+                            g'setzt un isch em an e-n-Ort ane g'schosse, wo se
+                            nitt hätt solle si, un dur das isch d'Gàlsucht
+                            entstande... supposons jetz, ass me-n-in eim
+                            Klavier spielt, wo d'Gàlsucht scho hat, so setzt
+                            sich die gliche Galle wieder in Bewegung un geht
+                            wieder ane, wo se-n-ane g'hört, un dr Kranke-n-isch
+                            g'heilt.</p>
+          <pb n="331"/>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Das isch e wenig stark!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eso hat e jeder Instrument sine-n-Eigeschafte un si
+                            Ifluss uf unsere-n-Organe... doch isch das no nitt
+                            alles... wie scho g'sàit, müess me fir g'wisse
+                            Krankheite mit eme g'wisse-n-Instrument g'wisse
+                            Sache spiele... do drin liegt 's ganze
+                            G'heimniss... schaü, züem Exempel, 's Saxophone hat
+                            e-n-Ifluss uf Rhumatisse... diemol kunnt Einer züe
+                            mr, wo-n-an dàr Krankhet g'litte hat, er isch nur
+                            noch mieihsam am e Stock vora ku... eh bien, ich
+                            ha-n-em si Stock gnu un ha-n-em e Galopp afange
+                            z'spiele mit em Saxophone an eim Stück furt,
+                            ohne-n-ufz'höre... küm ha-n-i ebbe fünf Minüte
+                            g'spielt g'ha, so hat's em scho afange z'jucke-n-in
+                            de Glieder un munter hat er um d'Wànd umme
+                            g'lüegt...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Parbleu, er wird si Stock g'süecht ha, fir ass er
+                            sich ka-n-üs em Staüb mache!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Un uf eimol, hasch mi g'sàh, isch er uf un dervo,
+                            ganz allei, ohne Stock, ich bi sicher, ass wenn ich
+                            ihm no wàr mit em Saxophone, ass ich ne noch züem
+                            springe brocht hätt!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Ich zwifel nitt dra...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Doktor Eisenbart)</stage>
+            <l>As wie dr Dokter Isebart,</l>
+            <l>Nitt bekannt umsunscht,</l>
+            <l>Kuriert er d'Lit jetz uf si Art</l>
+            <l>Mit 're frische Kunst</l>
+            <l>Anstatt eim e Pflaster z'gà,</l>
+            <l>Spielt me-n-em jetz Màzürkà</l>
+            <l>Un brücht ein e güet Laxier,</l>
+            <l>Spielt me-n-em Klavier.</l>
+          </lg>
+        </sp>
+        <pb n="332"/>
+        <sp who="#jumpfer_sieselsaft #herr_sieselsaft">
+          <speaker>(Mitnander)</speaker>
+          <p>Dur d'Müsik ka <stage>(bis)</stage></p>
+          <p>Jedermann si G'sundheit ha,</p>
+          <p>Dur d'Müsik ka <stage>(bis)</stage></p>
+          <p>Jeder d'Gsundheit ha.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>De siehsch also, Kind, ass ich alle-n-Instrumente
+                            müess ha, un b'sunders 's Basson, denn uf sàll zähl
+                            ich, fir üsserordentlige Krankheite z'kuriere... un
+                            jetz, wo Dü in mi G'heimniss ig'weiht bisch, will
+                            ich hoffe, ass Dü raisonnawel wirsch si un ass De
+                            nitt meh gege die Hiroth wirsch iz'wende ha.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Awer Vater...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Kei Wort meh... 's isch e-n-abg'machte Sach'... ich
+                            will jetz geh d'Müsik awe hole... d'Püpiter, die
+                            sin do... die Herre Müsikante werde jetz bol arucke<stage>(er verschwindet links)</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Un ich will mich dervo mache, ass ich Keiner
+                            vo-n-ene sieh un b'sunders dà mit sim Basson nitt</p>
+          <stage>(se läuft dervo rechts)</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">Herr Zart, derno Lenele.</stage>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Wenn jetz emol e Mensch in ere fatale Position gsi
+                            isch, so bin ich's... Verliebt bis iwer d'Ohre in
+                            d'Jumpfer Sieselsaft, ha-n-ich ihre bis dohi
+                            allewil versteckt, ass ich in minere verlorene Zit
+                            Müsikant bi un <pb n="333"/>s Basson spiel, will sie d'Müsikante
+                            iwerhaüpt un d'Basson b'sunders nitt lide ka...
+                            Ihre Vater, im Gegetheil, wo erfahre hat dur dr
+                            Herr Fink, ass ich das Instrument spiel, ladet mich
+                            i in si Hüs, fir mit em Müsik z'mache... ha-n-ich
+                            derno die G'legeheit verfehle känne züe mim Lenele
+                            z'ku, ich, wo's scho acht Tàg nimmig g'sàh ha!...
+                            doch wie soll ich mich do drüs ziege?... spiel i,
+                            so will mi d'Tochter nitt... spiel i nitt, so will
+                            dr Vater nit vo mr wisse... er will nur e Müsikant
+                            fir Tochtermann, das isch bekannt! ich müess se
+                            süeche z'iwerrede... Eins oder 's Andere müess Idee
+                            changiere, kostet's was es will... Achtung jetz...
+                            's kunnt ebber...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Was! Sie do in unsrem Hüs, Herr Zart?<stage>(fir sich)</stage>züem Glick ha-n-i kei Pflàsterle uf d'Nase g'macht!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Oh Jumpfer Sieselsaft ! ich ha nimmig länger känne
+                            lewe, ohne Sie z'sàh...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Wenn Sie mi Vater thàt atreffe do!... Oh, ich bi
+                            unglicklig, Herr Zart!... er will mich zwinge-n-e
+                            junger Mensch z'hirothe wege sim Basson...<stage>(se fangt a z'grine)</stage>hi... hi... hi... grad thüet er ne jetz erwarte!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Jumpfer Sieselsaft!... Lenele... lieb Lenele...
+                            müesch nitt grine wege dem... schaü, ich ha Di-neso
+                            gern!...</p>
+          <lg>
+            <head>G'sang</head>
+            <l>Ohne Dich ka-n-ich nitt lewe,</l>
+            <l>Drum brich nitt das siesse Band,</l>
+            <l>Nur Di Bild thüet mich umschwewe,</l>
+            <l>Wo-n-i gang un wo-n-i stand.</l>
+            <pb n="334"/>
+            <l>Nei ohne Dich</l>
+            <l>Git's kei Glick meh fir mich,</l>
+            <l>Drum brich nur nitt,</l>
+            <l>Brich unser Liewe nitt!</l>
+            <l>Ohne Dich ka-n-ich nitt lewe,</l>
+            <l>Drum brich nitt das siesse Band,</l>
+            <l>Nur Di Bild thüet mich umschwewe,</l>
+            <l>Wo-n-i gang un wo-n-i stand.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Sie brüche kei Angst z'ha, Herr Zart... Ich schwör
+                            Ene, ass ich nie kei Müsikant hirothe will... un
+                            b'sunders kei Basson!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do hà mr's!... ich weiss sicher nitt, was ich soll
+                            afange!</p>
+          <stage>(me hört ebber ku)</stage>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Herr je, mi Vater!... mache Sie sich dervo, Herr
+                            Zart... ich wott nitt, ass er Sie thàt sàh do!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Z'spot... do isch er!<stage>(dr Dokter kunnt ine links mit eme Pack Müsik
+                            unter'm Arm)</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Züem Glick, ass er dr Herr Zart nitt persönlig
+                            kennt!</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Sieselsaft.</stage>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Bisch denn noch allewil do, Lenele? hasch Di no nitt
+                            g'mutzt?... tiens ne Visite!... mit wem ha-n-ich
+                            d'Ehr...</p>
+          <pb n="335"/>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(lislig züem Herr Zart)</stage>
+          <p>Bscht!... lehn Se mich mache<stage>(lüt züe ihrem Vater)</stage>Dà Herr kunnt...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(freidig)</stage>
+          <p>Aha... 's isch g'wiss dà Herr, wo kunnt ku 's Basson
+                            spiele?...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er hätt's nitt besser kanne rothe!<stage>(lüt züem Lenele)</stage>thàt Se nur jo sage, 's isch 's beste, was mr mache känne!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens... das isch e güeter Idee... awer wenn jetz
+                            nur dr Ander nitt grad kunnt!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(strekt im Herr Zart d'Hand ane)</stage>
+          <p>Willkumme, willkumme!... also wànn Se-n-is denn
+                            d'Ehr mache un als ku mitspiele... setze Sie sich e
+                            wenig... Lenele, gib e Stüehl... die andre Herre
+                            Müsikante werde jetz bol arucke.</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Ich dank Ene, Herr Dokter... awer ich bi...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Ungeduldig, nitt wohr, fir az'fange... erläuwe Se,
+                            ass ich Ihne einstwille mi Tochter presentier<stage>(lislig züem Lenele)</stage>Lenele, bisch ordlig mit em... das git Di Mann un kei Anderer! <stage>(er blättert in sinre Müsik).</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch mr scho recht... ich verlang jo nitt
+                            mehr... awer was wird er sage, wenn er uf dà Sprung
+                            kunnt?<stage>(züem Herr Zart)</stage>wenn nur dr Ander jetz nitt grad aruckt!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(lislig)</stage>
+          <p>'s isch kei G'fohr!</p>
+        </sp>
+        <pb n="336"/>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Voyons... gàn enander d'Hand un mache Bekanntschaft
+                            mitnander!<stage>(se gàn sich d'Hand)</stage>so... un jetz Lenele kännsch doch g'schwind iwere geh un d'Basson-Parthie hole... ich ha se vergesse, se ligt uf mim Tisch...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Jo Vater<stage>(se geht üse links)</stage></p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(klopft im Herr Zart uf d'Achsle)</stage>
+          <p>Was sage Sie züe miner Tochter, Herr... verzeihe Se,
+                            ich weiss nitt emol Ihre Narne... ich ha dr Herr
+                            Fink vergesse z'froge.</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Ihre Tochter?... die isch g'wiss charmant un ich
+                            spir, ass ich scho ganz verliebt bi in se!...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das Ding geht jo wie uf Redle!<stage>(lüt)</stage>tant mieux... desto besser... wenn sie Ihne g'fallt, so ha-n-ich nit dergege. <stage>(er fangt a d'Püpiter z'stelle)</stage> Wisse Sie, ass ich jetz blange thüe uf unsre Müsikante, fir az'fange, ass ich Se-n-emol hör spiele!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jà... dert isch grad dr Hoke!... jetz giltet's
+                            Ernst!...<stage>(lüt)</stage>Lose Se, Herr Sieselsaft, kännte Se nitt noch e paar Wuche ohne mich spiele... ich ha ewe no nitt lang 's Herzklopfe g'ha <stage>(fir sich)</stage> b'sunders, wos Lenele do gsi isch!... <stage>(lüt)</stage> un ich mein, ass es vom Blose kunnt...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Ohne 's Basson spiele!... was denke Se... das geht
+                            nitt<stage>(fir sich)</stage>wenn's nur wege-n-em Herzklopfe-n-isch, broche Sie kei Angst z'ha... ich gib Ene ebbes<pb n="337"/> derfir... <stage>(fir sich)</stage> Fir d'Herzkrankhete: alle Tag e Stund Flöte mit e wenig Dreiangel!...</p>
+          <pb n="338"/>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Wie Sie meine...<stage>(fir sich)</stage>décidément, bim Vater packt's nitt... ich will's bim Lenele prawiere.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(kunnt links)</stage>
+          <p>Do Vater, isch die Parthie... un derno, 's isch
+                            ebber in Dim Zimmer, wo Dich consultiere will.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Güet, ich gang...<stage>(lislig züem Lenele)</stage>unterhalt siter Di Züekünftiger <stage>(lüt)</stage> ich bi uf dr Stell wieder do <stage>(er geht üse links).</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>G'schwind jetz, Herr Zart... mache Sie sich fremd...
+                            ich bi as wie uf Därn!... was wotte Sie mache, wenn
+                            Sie sotte spiele... oder wenn dr Ander mit sim
+                            Basson kàm!... do wàre mir in ere schöne Falle!...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Oh, Jumpfer Sieselsaft, nur noch e-n-Aügesblick!...
+                            nur noch e Wort!... wenn. ich, fir Ihre Vater
+                            z'befriedige, das Instrument g'schwind e wenig
+                            lehre thàt?... ich kännt jo glich e wenig drü drü
+                            mache... ich ha frieiher emol e wenig ag'fange
+                            g'ha...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(zornig)</stage>
+          <p>Was, Sie!...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Diable, diable... do packt's o nitt...<stage>(lüt)</stage>das heisst, ich ha welle afange...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Ah so!... uf die Art verstand i's... ich hätt Sie jo
+                            miner Làbtig nimmig ag'lüegt... un ich will durchüs<pb n="338"/>
+                            nitt, ass Sie ne Basson ariehre... b'schaüe Se, dr
+                            Herr Fink isch o narràchtig worde dra.</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Décidément, 's isch Eins eso stättig as wie's
+                            Andere...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Gehn Se jetz, ich bitt Se drum... das Ding wird sich
+                            scho mache... mr schriwe-n-enander!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Jetz kämme jo die Herre Müsikante... ich ha scho
+                            Einer g'sàh im Hof...<stage>(er git sich mit dr Müsik z'schaffe)</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(lislig züem Herr Zart)</stage>
+          <p>Jetz steh mr schön!... awer Sie brüche kei Angst
+                            z'ha... die Herre kämme nitt so g'schwind züem
+                            spiele... ich kenn se... un wenn's druf un dra
+                            kunnt, so will ich Ene scho derfir thüe...<stage>(se geht üse rechts. Dr Herr Düwack kunnt
+                                hinte-n-ine mit sim Instrument un e ganzer Arm voll
+                                Ring, wo derzüe g'höre)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Herr Sieselsaft, Herr Zart, Herr Düwack, derno
+                        Herr Bif un Herr Pfaffekàpple.</stage>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Aha do isch emol unser Horn... dr Herr Düwack wie
+                            geht's allewil, Herr Düwack?... was macht Ihre
+                            Fraü?...</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack</speaker>
+          <stage>(legt si Instrument un sine Tön ab)</stage>
+          <p>Merci... merci.... 's geht güet... mi Fraü hat noch
+                            allewil 's Bodegra, bi mir geht's eso ziemlig.</p>
+          <pb n="339"/>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch e Blechschmidt, dà Mann, awer kei
+                            Müsikant!</p>
+          <stage>(dr Herr Pfaffekàpple kunnt ine)</stage>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Aha... güete-n-Owe, Herr Pfaffekàpple... jetz fehlt
+                            nur noch dr Herr Bif... was hàn Se, Herr
+                            Pfaffekàpple?... isch's Ene nitt güet?... Se schine
+                            mr e wenig bleich z'si...</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>'s sin mine Migraine, wo-n-ich allewill ha, wo mich
+                            e wenig z'weg nàmme...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Warte Se... ich will Ene ebbes gà derfir!</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>Nei, nei... merci, Herr Dokter... ich ka mir selbst
+                            e wenig Bàredràckwasser verschriwe.</p>
+        </sp>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Tiens, ich bi schint's' der Letscht hit!... ich ha
+                            ewe-n-in mime Fraü noch miesse g'schwind e
+                            Linsepflaster uflege...</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack.</speaker>
+          <p>Wohi?... uf d'Zunge, Herr Bif?...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Allons, allons, Herr Bif... mr hàn nur noch uf Sie
+                            g'warte.<stage>(er zeigt uf dr Herr Zart)</stage>Dà junge Mensch kunnt ku 's Basson spiele am Herr Fink si Platz, wo durchüs nach Amerika will geh.</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>'s isch nitt mögli!...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(züem Herr Sieselsaft)</stage>
+          <p>Verzeihe Se, Herr Dokter... awer ich ha mi
+                            Instrument nitt mitbrocht... ich ha z'erst nur
+                            welle Be-<pb n="340"/>kanntschaft mache mit dàne Herre.<stage>(fir sich)</stage>Jetz isch er erst verwitscht!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Oh! dem isch licht abz'helfe... im Herr Fink si's
+                            isch noch do... ich will's Ene geh hole<stage>(er geht üse links)</stage></p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz stand i schön... das isch mi letscht
+                            Rettungsmittel gsi...</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack.</speaker>
+          <p>So, so... dr Herr Fink will jetz nach Amerika...</p>
+        </sp>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif.</speaker>
+          <p>Hm... 's isch kei grosser Verlust um ne...</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>Nei, nei... denn siter ebbes Zit isch er jo ganz
+                            hintersinnt, dà Mann!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(kunnt links mit eme Basson)</stage>
+          <p>Do, Herr Zart, hàn Se ne-n-Instrument un jetz wà mr
+                            mache, ass mr emol afange känne!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(bonne aventure)</stage>
+            <l>Vorwàrts jetz un gà mr 's là,</l>
+            <l>Ass mr glich afange,</l>
+            <l>Denn fir eüch dr Takt hit z'schla,</l>
+            <l>Thüe-n-ich längst scho blange.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_pfaffekapple #herr_bif #herr_duwack">
+          <speaker>Mitnander</speaker>
+          <stage>(üsg'numme dr Herr Zart, wo verlege dort steht).</stage>
+          <lg>
+            <l>'s Basson, 's Saxophone un 's Cor,</l>
+            <l>D'Flöte-n-o wird g'stimmt ufs Hoor,</l>
+            <l>Vorwàrts jetz, gàn eüer là,</l>
+            <l>Ass mir glich afange.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(nimmt si Stàckle-n-un steht vorne dra).</stage>
+          <p>Also denn, wenn Se wànn Platz nàh, so wà mr's jetz
+                            emol prawiere...<stage>(se setze si)</stage></p>
+          <pb n="341"/>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack</speaker>
+          <stage>(b'schaüt si Parthie)</stage>
+          <p>Nur noch e-n-Aügesblick... Herr Sieselsaft... 's sin
+                            ewe-n-eso viel bémols do am Schlissel... kännt me
+                            nitt eins oder zwei eweglo viellicht?</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eh jo!... worum nitt glich alle-n-eweglo! Das wott
+                            mr schöne Müsik gà!</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>A propos vo Schlissel... wisse Sie, Herr Düwack,
+                            weller Schlissel as in de Müsikante-n-am
+                            liebschte-n-isch?</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack.</speaker>
+          <p>Ich denk dr sol-Schlissel... b'sunders wenn nitt
+                            viel bémols dra sin!</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>Sie hàn's nitt errothe... 's isch dr
+                            Kellerschlissel!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Voyons... kanne mr jetz eigentlig emol afange...
+                            allons... Achtung... eins... zwei...</p>
+        </sp>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif.</speaker>
+          <p>Pardon, Herr Sieselsaft... das Stick isch jo in vier
+                            Takt...</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eh, so lehn Se mi doch nur üszähle... dr dritte-n-un
+                            dr vier te wird scho ku...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn's eso furt geht, bin i g'rettet!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Allons Achtung jetz... Sie fange-n-a, Herr Bif...
+                            eins, zwei, drei, vier...</p>
+        </sp>
+        <pb n="342"/>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif.</speaker>
+          <p>Ich weiss nitt, was das isch mit mim Instrument...
+                            Ich bring gar kei Ton üse...<stage>(er lüegt in der Pavillon)</stage>un 's nimmt mi o gar nitt Wunder <stage>(er steht uf un nimmt üs sim Instrument zwei Schüehbürste, e-n-alt Messer un e Làdle Wichse).</stage> So... jetz wird's wohrschinlig besser geh... ich ha's ewe-n-in dr Kuche hànke dur d'Wuche dure un do wird's d'Mag d halt brücht ha fir ihre Sache dri z'thüe.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>'s isch kei Mögligkeit, ass mr hit afange... mache
+                            Se doch, ass es jetz emol vorwàrts geht... Achtung
+                            jetz... eins... zwei...<stage>(d'Thüre hinte geht uf un 's Lenele kunnt ine)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Lenele.</stage>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Dr Herr Bif soll so güet si un glich heim geh...
+                            d'Magd kunnt en ku hole... 's fehlt schint's ebbes
+                            am Telephon... d'Madame Bif bekunnt kei Antwort
+                            meh, wenn se-n-ebbes frogt.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Das isch awer jetz schad!... wer will derno die
+                            Parthie mache!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(lislig züem Herr Zart)</stage>
+          <p>'s isch glaüb Zit gsi, ass ich mich dri meliert ha</p>
+        </sp>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif</speaker>
+          <stage>(steht uf)</stage>
+          <p>Im Fall dr Noth kännt mich jo Ihre Tochter viellicht
+                            remplaciere... ich ha do grad fir az'fange ebbe <pb n="342"/>ne
+                            drissig Mesures d'gliche Note z'halte... das isch
+                            licht z'mache un siter bin ich wieder do.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Zeig, Lenele... prawier's... De machsch mr e
+                            G'falle, Kind... dr Herr Bif zeigt Dr, was De fir
+                            Schlissel müesch züehewe.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(heftig)</stage>
+          <p>Ich soll...<stage>(fir sich)</stage>ich kannt eigentlig dr gliche thüe un das Ding in d'Lange zieh... 's isch wieder eso viel Zit g'wunne.</p>
+        </sp>
+        <sp who="#herr_bif">
+          <speaker>Herr Bif</speaker>
+          <stage>(git ere 's Instrument)</stage>
+          <p>Do, schaüt Se... dà Schlissel hebt Se züe un d'andre
+                            losst Se-n-alle z'àmme-n-uf... ich bi im Aügesblick
+                            wieder do<stage>(er geht hinte-n-üse)</stage></p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Ich weiss nitt, eb das wird geh... enfin, mr wànn's
+                            prawiere... Achtung...</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(sitzt nàwe dr Herr Zart)</stage>
+          <p>Jà... wo blost me eigentlig ine... unte-n-oder
+                            owe?... Herr je!... jetz weiss i nimmig, was i
+                            müess züehewe!...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(steht uf)</stage>
+          <p>Lose Se, Herr Dokter... mr wànn's glaüb liewer geh
+                            lo fir hit... ich ha mi Kopf doch nitt an dr Müsik,
+                            wenn Ihre Tochter bi mir sitzt!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Eh bien, se soll se nàwe dr Herr Pfaffekàpple
+                            sitze...</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>Jà lose Se... ich garantier nitt derfir, ass es mr
+                            besser geht as in dem Herr!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Do sàhn Se!...</p>
+          <pb n="344"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Wer liebt, muss leiden)</stage>
+            <l>Das Ding thàt mich z'viel quäle,</l>
+            <l>Scho bin ich ganz verstört,</l>
+            <l>Ich ka kei Tact meh zähle</l>
+            <l>Un d'Note sin verkehrt!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <lg>
+            <l>Un mir thàt alles schwinde,</l>
+            <l>Wenn ich se bi mir hätt,</l>
+            <l>Ich kännt kei Blost me finde</l>
+            <l>Un sàch nimm uf mi Blatt!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <lg>
+            <l>Wàr doch die Magd nie kumme,</l>
+            <l>Wie glicklig wàr ich nitt,</l>
+            <l>Sie hat mi Freid mir g'numme</l>
+            <l>Denn's git kei Müsik hit!</l>
+          </lg>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">D'Gliche, Herr Fink.</stage>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink</speaker>
+          <stage>(kunnt hinte-n-ine ku z'laüfe miteme Pàckle un
+                        gesticuliert)</stage>
+          <p>He... mine güete Frind!... endlig... endlig ha-n-i's
+                            jetz emol g'funde!</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was hat er g'funde!... 's Narrehüs wohrschinlig!</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Was g'fùnde... was g'funde?</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>'s isch noch kei halb Stund, ass ich endlig die
+                            Erfindung g'macht ha!</p>
+          <pb n="345"/>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Was denn fir e-n-Erfindung?<stage>(se stelle d'Püpitre uf d'Site)</stage></p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Was fir e-n-Erfindung?... d'Farwe, d'natürelle Farwe
+                            ha-n-ich g'funde z'photographiere!... Das isch's,
+                            was mir scho lang im Kopf g'steckt isch un wo mir
+                            Tag un Nacht kei Rüeh g'lo hat!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Hein, ich ha-n-allewil g'sàit, dr Herr Fink süecht
+                            ebbes... grad as wie-n-ich... bravo, bravo...<stage>(er git em d'Hand)</stage> ich gratulier Ene!... un mit was bringe Sie das Ding ane?</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Mit was?... eifach mit dem do!<stage>(er nimmt e Flàschle mit ebbes drin üs em Sack
+                            un zeigt's)</stage>das ka nitt fehle... ich will jetz glich in alle d'Prob' gà dervo! <stage>(er macht si Pàckle-n-uf, wo ne Photographie enthaltet un stellt se-n-uf e Püpitre mittle-n-uf d'Scene)</stage> do sàhn Se jetz, isch e g'wöhnlige Photographie, un wenn ich se-n-awer mit minre Mixtür do astrich, so kämme d'natürelle Farwe-n-üse, wie d'Person gsi isch, wo se posiert hat!</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack.</speaker>
+          <p>Jà... hàn Sie das Ding scho-n-emol prawiert, Herr
+                            Fink?</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Nei, no nitt... awer...</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack</speaker>
+          <stage>(lacht)</stage>
+          <p>Jà, derno, Herr Fink, geh mr nitt dra . . . das
+                            packt nitt...</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Ich bi sicher dasmol!...<stage>(er macht 's Flàschle-n-uf netzt e Flanelle un
+                            fahrt iwer d'Photographie, me sieht langsam <pb n="346"/>d'Farwe-n-üse ku)</stage>'s geht halt e wenig langsam, awer Sie sàhn, as se scho afange fire z'ku. Aha!... do sàhn Se jetz... isch das schön, das Bild!... hein... isch das schön!</p>
+        </sp>
+        <sp who="#alle">
+          <speaker>Alle.</speaker>
+          <p>Ah!... ah!... oh!... oh!...</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Bonjour maître corbeau)</stage>
+            <l>Was doch dr Progrès macht!</l>
+            <l>Sogar d'Photographie</l>
+            <l>Isch uf em höchste Punkt</l>
+            <l>Hit dur Kunst un Genie,</l>
+            <l>Me ka se jetz als ha</l>
+            <l>Mit alle Farwe drin,</l>
+            <l>Wer hätt das glaübt! wahrhaft,</l>
+            <l>Bol schwindet eim dr Sinn!</l>
+          </lg>
+          <stage>(Er zeigt uf dr Herr Fink)</stage>
+          <lg>
+            <l>Was wird erfunde noch</l>
+            <l>Bi uns'rer neue Zit,</l>
+            <l>Sogar uf Ihrem Bild</l>
+            <l>Noch schmiert me-n-a jetz d'Lit!</l>
+            <l>Wer rothe Backe will,</l>
+            <l>Wo sunscht gar keine hat,</l>
+            <l>Dà brücht nur z'laüfe g'schwind</l>
+            <l>Jetz züem Herr Fink in d'Stadt!</l>
+          </lg>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink</speaker>
+          <stage>(b'schaüt d'Photographie jetz g'naü)</stage>
+          <p>Nur ebbes isch no nitt ganz, wie's si sott mit dàne
+                            Farwe... 's Blaü fehlt!</p>
+        </sp>
+        <sp who="#herr_duwack">
+          <speaker>Herr Düwack.</speaker>
+          <p>Das hat nit z'sage, Herr Fink... Sie känne jo d'Lit
+                            selbst e wenig lo blaü alaüfe !</p>
+        </sp>
+        <sp who="#herr_pfaffekapple">
+          <speaker>Herr Pfaffekàpple.</speaker>
+          <p>Un was isch jetz mit Ihrer Reis' nach Amerika Herr
+                            Fink?</p>
+          <pb n="347"/>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Jetz gang ich nimmig furt... ich wird jetz nur
+                            z'viel z'schaffs biku do <stage>(se b'schaüe-n-alle 's Bild)</stage></p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn dr Herr Fink do blibt, so weiss ich nitt, worum
+                            ass ich sott mi Tochter zwinge, dà junge Mensch do
+                            z'hirothe, wenn se ne-n-Anderer gern hat... wenn
+                            ich nur e Basson ha...<stage>(er geht züe de-n-Andere)</stage></p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do isch denn dr Herr Fink nitt narràchtig? .. im
+                            Gegetheil!... eh bien, uf das hi macht's mr nit
+                            meh, wenn dr Herr Zart 's Basson lehre will in mim
+                            Vater z'G'falle.</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart</speaker>
+          <stage>(züem Lenele)</stage>
+          <p>Was isch jetz, Jumpfer Sieselsaft... Sie sieht jetz,
+                            nitt wohr, ass me ka Basson spiele, ohne verruckt
+                            z'werde.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>'s isch wohr... ich müess es g'steh... wie schad
+                            isch's, ass Sie's nitt känne, fir in mim Vater e
+                            Freid z'mache...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Eh bien, wenn's eso isch, so will ich Ihre glich
+                            g'steh, ass ich wirklig dà Bassonspieler bi,
+                            wo-n-Ihre Vater erwartet hat.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Was, Sie sin Müsikant un hà mir's versteckt!</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>Üs Angst, ass Sie mich nitt will... doch still, do
+                            isch Ihre Vater... thàt Sie-n-ern jetz mache
+                            z'versteh, ass Sie Opinion g'changiert hat<stage>(er geht hintere züe de-n-Andere, wo sich Iislig
+                                unterhalte)</stage></p>
+        </sp>
+        <pb n="348"/>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(kunnt fire)</stage>
+          <p>Los, Kind, ich ha viellicht Unrecht g'ha, Dich welle
+                            z'zwinge, dà junge Mensch z'hirothe, wenn Dü
+                            ne-n-Anderer gern hasch... ich wott Dich doch nitt
+                            unglicklig wisse.</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Im Gegetheil, Vater... ich bitt Di um Verzeihung,
+                            ass ich mich empört ha gege Di Wille... g'wiss, ich
+                            will vo keim andere nit wisse!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Nei, Kind, nei... Dü machsch jetz das nur üs
+                            Folgsamkeit... denn ich weiss ganz güet, ass Dü dr
+                            Herr Zart gern hasch un ass Dü hingege dà Herr...<stage>(züem Herr Fink)</stage>a propos, Herr Fink... Sie hà mir nitt emol dr Name noch g'sàit vo-n-Ihrem Herr Kolleg!</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Tiens... 's isch jo wohr <stage>(er nimmt dr Herr Zart am Arm)</stage>ich ha d'Ehr, Ihne dr Herr Zart vorz'stelle!</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft.</speaker>
+          <p>Dr Herr Zart!...<stage>(züem Lenele)</stage>un Dü hasch traüt, mir ne-n-als Müsikant do ane z'bringe!</p>
+        </sp>
+        <sp who="#herr_fink">
+          <speaker>Herr Fink.</speaker>
+          <p>Pardon... dr Herr Zart isch e güeter Müsikant,
+                            sunscht hätt ich ne nitt do ane g'schickt.</p>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(züem Lenele)</stage>
+          <p>Ich ha g'meint, Dü witt kei Müsikant hirothe?</p>
+        </sp>
+        <sp who="#jumpfer_sieselsaft">
+          <speaker>Lenele.</speaker>
+          <p>Dr Herr Zart hat mir's ewe z'erst versteckt g'ha...
+                            un jetz macht's mir nit meh...</p>
+        </sp>
+        <sp who="#herr_zart">
+          <speaker>Herr Zart.</speaker>
+          <p>'s Lenele hat sich versöhnt mit de Müsikante...</p>
+          <pb n="349"/>
+        </sp>
+        <sp who="#herr_sieselsaft">
+          <speaker>Herr Sieselsaft</speaker>
+          <stage>(züem Lenele)</stage>
+          <p>Ah, wege dem bisch uf eimol eso folgsam worde, Dü
+                            kleine Schelmene... enfin, ich ha nit dergege, wenn
+                            ihr eüch gern hàn, liewer zwei Basson as keis... mr
+                            känne desto mehr Küre mache... denn mi Name-n-o
+                            soll unsterblig werde dur mi Erfindung, nitt nur im
+                            Herr Fink siner!... awer mit allem dem si mr jetz
+                            nitt emol derzüe ku, ebbes z'spiele hit z'Owe!</p>
+        </sp>
+        <sp who="#herr_sieselsaft #herr_zart #jumpfer_sieselsaft #herr_fink #herr_pfaffekapple #herr_duwack">
+          <speaker>(Mitnander züem Public)</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(il pleut bergère)</stage>
+            <l>'s Quartett, das thüet üsarte,</l>
+            <l>'s g'schieht glaüb hit nit meh drüs,</l>
+            <l>Drum brüche-n-ihr nitt z'warte,</l>
+            <l>'s Schaüspiel, das isch jetz üs;</l>
+            <l>Mir hoffe, 's hat eüch g'falle</l>
+            <l>Un hat viel Freid eüch gmacht,</l>
+            <l>Mir wünsche jetz in Alle,</l>
+            <l>In Alle noch güet Nacht!</l>
+          </lg>
+        </sp>
+        <pb n="350"/>
+      </div>
+    </body>
+  </text>
+</TEI>

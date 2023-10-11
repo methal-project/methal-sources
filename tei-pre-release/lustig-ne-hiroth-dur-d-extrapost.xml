@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ne Hiroth dur d'Extrapost</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-117"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Ne Hiroth dur d'Extrapost</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_rehrle" sex="M">
+            <persName>Herr REHRLE</persName>
+          </person>
+          <person xml:id="toni" sex="M">
+            <persName>TONI</persName>
+          </person>
+          <person xml:id="bawele" sex="F">
+            <persName>BÀWELE</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_rehrle">
+          <role>
+            <persName>Herr REHRLE</persName>
+          </role>
+          <roleDesc>Zitungsschriwer</roleDesc>
+        </castItem>
+        <castItem corresp="#toni">
+          <role>
+            <persName>TONI</persName>
+          </role>
+          <roleDesc>e Bür</roleDesc>
+        </castItem>
+        <castItem corresp="#bawele">
+          <role>
+            <persName>BÀWELE</persName>
+          </role>
+          <roleDesc>e Birene</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(sitzt an sim Tisch, wo allerhand fir Zitunge
+                        lige)</stage>
+          <p>Was fir e Handwerk, dü liewe Zit!... was fir e
+                        Handwerk!... alle Wuche-n-eso ne Kàsblättle miesse
+                        z'schriwe im eso ne Nest, wie unser Städle-n-eins
+                        isch!... woher Neüigkeite her nàh? 's kunnt nie nit vor
+                        do... ich ha hit vergewes alleweg e Stund g'warte, bis
+                        ass e Mürer awe fallt dert àne, wo me sàll Hüs baüt,
+                        awer se sin afange-n-ärger as Seiltànzer... un keine
+                        Hàndel, keine Prügel, nit... ich müess in alle-n-andere
+                        Zitunge ihre-n-Artikel stehle, fir mine üsz'fille... 's
+                        isch g'wiss kei Kilwe, ihr derfe's glaüwe.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Des Morgens in der Frühe)</stage>
+            <l>Wenn ich müess mi Zitung schriwe,</l>
+            <l>Bin ich iwel dra, <stage>(bis)</stage></l>
+            <l>Ich thàt's liewer als lo bliwe,</l>
+            <l>Denn s' isch halt wie g'sàit</l>
+            <l>G'wiss kei Freid.</l>
+            <l>Denn s' isch hait wie g'sàit, <stage>(bis)</stage></l>
+            <l>Denn, wie g'sàit, 's isch g'wiss kei Freid.</l>
+          </lg>
+          <lg>
+            <l>Wenn ich lieg, so thien d'Lit klage</l>
+            <l>Un doch derf i halt <stage>(bis)</stage></l>
+            <l>D'Wohret o nitt immer sage,</l>
+            <l>Sunscht isch's o nitt recht,</l>
+            <l>'s gieng mr schlecht.</l>
+            <l>Sunscht isch's o nitt recht, <stage>(bis)</stage></l>
+            <l>'s isch nitt recht, denn 's gieng mr schlecht !</l>
+          </lg>
+          <pb n="279"/>
+          <lg>
+            <l>Drum heb ich mich an de Wide,</l>
+            <l>Ich nimm d'Scheere-n-als, <stage>(bis)</stage></l>
+            <l>Fir d'Artikel üse z'schnide</l>
+            <l>Üs de-n-Andre halt,</l>
+            <l>Was mir g'fallt.</l>
+            <l>Üs de-n-Andre halt, <stage>(bis)</stage></l>
+            <l>Üs de-n-Andre, was mir g'fallt!</l>
+          </lg>
+          <p>Un d'Annonce, wo am meiste itrage, die fehle mr o
+                            allewil, die ka-n-i doch nitt üs andere Zitunge
+                            nah... do ha-n-i jetz wieder e ganze halwe Site
+                            leer hit... drum ha-n-i Ordre gà, ass me noch e
+                            Stund oder zwei wartet mit em Drucke... viellicht
+                            kunnt noch ebber ebbes ku lo dri setze... tiens,
+                            grad klopft me glaüb a!... wenn's doch e-n-Anonce
+                            wàr... Entrez!<stage>(dr Toni kunnt ine)</stage></p>
+          <pb n="280"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Herr Rehrle, Toni.</stage>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Bin i do bim Herr Rehrle, wo d'Zitung «d'Extrapost»
+                        scbribt?... ich mächt ewe-n-ebbes dri setze lo.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>'s isch do, güeter Frind... setze Sie sich<stage>(er git ein e
+                        Stühl. Fir sich)</stage> à la bonne heure, dà kunnt jetz grad
+                        recht.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Nitt wohr, Herr Rehrle, me ka jo ganz güet e
+                        Hirothsatrag in d'Zitung setze lo?... 's isch jo jetz
+                        Mode siter ebes Zit...</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Natirlig, junger Mensch, natirlig... me hirothet jo jetz
+                        schier nimmig anderscht.</p>
+        </sp>
+        <pb n="280"/>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Güet... ich bi éwe-n-in dem Fall... schaüe Se, ich müess
+                        hirothe, ich ka nimmig warte... ich hätt gern e Fraü un
+                        traü doch keine z'froge... wisse Se, ich bi ewe ne
+                        wenig schich.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Eh bien, do kanne Se nit bessers mache, als das Ding in
+                        «d'Extrapost» z'schriwe... ich will's Ene glich
+                        ufsetze... ne Artikel vo-n-ere halwe Site, wie Sie noch
+                        keiner g'sàh hàn...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Nei, nei... ich bitt Se drum... nur e ganz kleiner... in
+                        e-n-Ecke, ung'fàhr eso viellicht: Ne junger Mensch, wo
+                        Hüs, Hof, Schire, Stall, Kieh un Gàns hat, wünscht noch
+                        e Fraü derzüe.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Was denke Se... das isch nitt genüe... wenn das Ding
+                        packe soll, so mien Sie sich e wenig in d'Höche
+                        lipfe... lehn Se mieh nur mache... ich will's Ene
+                        ufsetze<stage>(er sitzt an dr Tisch un fangt a z'schriwe).</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Awer nur nitt z'lang, denn sunscht kostet's gar viel.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Nur kei Angst... mr wànn scho iwereins ku mitnander.
+                       <stage>(fir sich)</stage> 's müess mr mi halwe Site-n-üsfille,
+                        kostet's was es will!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn's awer nur ebbes nutzt, un ass sich mir glich ebber
+                        atràit, derno will ich gern zahle...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Màidele........)</stage>
+            <l>'s kunnt mr jetz nitt druf a,</l>
+            <l>Wenn ich hirothe ka!</l>
+            <pb n="281"/>
+            <l>Wenn ich jetz nur g'schwind <stage>(bis)</stage></l>
+            <l>Dur Ihre-n-Artikel e Wiwele find,</l>
+            <l>Denn ich bi pressiert, <stage>(bis)</stage></l>
+            <l>Doch zahl i kei Rappe, wenn's nitt reüssiert.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(springt uf)</stage>
+          <lg>
+            <l>Do gang ich jetz nitt dra,</l>
+            <l>Ich müess mi Geld o ha!</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#herr_rehrle">
+            <lg>
+              <l>Ich schrib nitt so g'schwind, <stage>(bis)</stage></l>
+              <l>Wenn ich mi Artikel nitt zahlt genüeg find.</l>
+              <l>Er isch so pressiert <stage>(bis)</stage></l>
+              <l>Un will doch nitt bleche, wenn's nitt reüssiert!</l>
+              <l>Do gang ich jetz nitt dra,</l>
+              <l>Ich müess mi Geld o ha!</l>
+            </lg>
+          </sp>
+          <sp who="#toni">
+            <speaker>Toni.</speaker>
+            <lg>
+              <l>Wenn ich jetz nur g'schwind <stage>(bis)</stage></l>
+              <l>Dur Ihre-n-Artikel e Wiwele find,</l>
+              <l>Denn ich bi pressiert, <stage>(bis)</stage></l>
+              <l>Doch zahl i kei Rappe, wenn's nitt reüssiert!</l>
+              <l>Doch kunnt's mir nitt druf a,</l>
+              <l>Wenn ich hirothe ka!</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Was meine Se denn eigentlig?... Das Ding müess doch
+                        g'schriwe, g'setzt un druckt si... ich ha d'ganz gliche
+                        Mieih, eb's packt oder nitt...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Eh bien, so wisse Se was... packts, so zahl i, un
+                        packt's nitt, so zahl i nur d'Hälfte... ich ka doch
+                        nitt mi Geld eso-n-eweg werfe, wennn i nit derfir
+                        bikumm...</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Enfin... 's isch mir eithüen... mr wànn hoffe-n-ass es
+                        packt!<stage>(fir sich)</stage> wenn's nitt wàr wege miner leere
+                        Site...</p>
+        </sp>
+        <pb n="282"/>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Also blibt's derbi... wie hàn Sie jetz das Ding
+                        g'schriwe?</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(nimmt si Papier)</stage>
+          <p>Do isch's... lose Se jetz emol: Ne junger Mensch, stark
+                        wie ne Leb, vo-n-ere güete Familie, mit eme ag'nehme
+                        Charakter, schön g'wachse<stage>(dr Toni richtet sich stolz
+                        uf un hüeschtet)</stage> un was nitt z'verachte-n-isch,
+                        Eigethümer vo Hüs, Hof, Stallunge, Kieh, Gàns etc., un
+                        wo hofft das alles noch z'vermehre mit dr Hiroth,
+                        wünscht mit ere junge Person in dr Eh'stand z'trete, wo
+                        o ne bitzi ebbes hat... hein! isch das e-n-Artikele?...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(bedenklig).</stage>
+          <p>Ich find, 's isch e-n-Artikel! Das kunnt viel z'thir...
+                        un 's isch z'lang... 's list's kei Mensch!</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Mr drucke's mit recht grosse Büchstawe, ass es eim güet
+                        in's Aüg fallt...<stage>(fir sich)</stage> ich will ne scho
+                        verwitsche.</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(angstlig)</stage>
+          <p>Nei, nei... nitt mit grosse Büechstawe... 's wird eso
+                        scho g'nüeg Platz inàh... wie hoch meine Se, ass es
+                        kunnt ung'fàhr?...</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>'s kunnt nitt hoch... ich mach's ganz awe-n-an's End...
+                        lehn Se mich nur mache... ich schick Ene derno
+                        d'Note... Se werde sàh, ass Se nitt z'viel zahle, fir e
+                        Fraü z'biku...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Also zähl i druf hit z'Owe kunnt's dri, nitt wohr, un
+                        nitt züe arg gross ich will's nitt gross...</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Güet, Güet...<stage>(fir sich)</stage> isch er stättig, dà Mensch...
+                        's hätt mr grad mi halwe Site-n-üsgfillt!...</p>
+          <pb n="283"/>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn's nur nitt vergewes isch!... oh! wie frei ich mich,
+                        mi Züekünftige z'sàh!<stage>('s Bàwele kunnt ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Herr Rehrle, Toni, Bàwele.</stage>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Herr Rehrle, ich mächt...<stage>(si sieht dr Toni, fir sich)</stage>
+                        tiens, ne junger Mensch... er isch nitt iwel...<stage>(se
+                        red' mit em Herr Rehrle).</stage></p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das wàr jetz eso ebbes!... wer weisst, eb se nitt o im
+                        Sinn hat z'hirothe... oh, wenn ich thàt traüe frage...
+                        ich will glaüb warte dunte, bis ass se furt isch un
+                        will derno dr Herr Rehrle froge, was se hat welle...
+                       <stage>(lüt)</stage> also Herr Rehrle, hit z'Owe... Adies binander...
+                       <stage>(er geht üse).</stage></p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(rieft em no)</stage>
+          <p>Adie!<stage>(züem Bàwele)</stage> also ne Hirothsatrag soll's si?...
+                       <stage>(er ribt si d'Hànd freidig, fir sich)</stage> grad fir se gar
+                        üsz'fille!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Ich ka awer uf Ihre Verschwiegeheit zähle, nitt wohr?</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Verschwiege bis in's Grab!... wie miesst me das Ding
+                        ung'fàhr ufsetze?...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Ich mein, me kännt's viellicht eso schriwe: Ne junge
+                        Person, uf em Land uferzoge un wo b'sunders güet mit em
+                        Vieh weisst umz'geh, süecht e Mann...</p>
+        </sp>
+        <pb n="284"/>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch nitt genüe... 's làngt nitt... ich müess es
+                        süeche in d'Lange z'zieh;<stage>(lüt)</stage> verzeiht Se, wàr das
+                        fir Sie?</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Worum nitt!... ich bi o nitt vo Holz!</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(springt uf, fir sich)</stage>
+          <p>E-n-Idee... dr Ander ka no nitt wit si... wenn ich em
+                        Die thàt ahànke, fir sicher z'si, ass ich zahlt
+                        wird?...<stage>(er lüegt züem Fenster üse)</stage> richtig, dert isch
+                        er noch... bst! güeter Frind... warte Se noch e wenig
+                        im Vorhüs, i ha noch ebbes mit Ene z'rede...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Was isch em... was hat er?</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(sitzt wieder)</stage>
+          <p>Also, hà mr g'sàit, e Jumpfere, wo mit em Rindvieh
+                        weisst umz'geh, süecht e Mann...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>C'est çà... das geht alles uf ei Linie, nitt wohr? un do
+                        wird's jo nitt so viel koste?</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Was denkt Se... uf ei Linie! nitt emol uf zwei... un
+                        derno mie mr o das Ding e wenig anderscht dràihe... 's
+                        isch e wenig...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Z'kurz, nitt wohr?... Sie hätte gern e lange Litenei, wo
+                        Ihne 's Journal üsfillt... 's isch ganz güet eso...
+                        setze Sie's nur eso dri.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà wo Die bikunnt, brücht o nitt sage «Gott strof mi!»
+                       <stage>(lüt)</stage> güet, güet... wenn Sie sich eso will drucke lo,
+                        mir isch's scho recht.</p>
+          <pb n="285"/>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Hein, was sàit er, ich will mich drucke lo?... wie meint
+                        er das?</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Mr sage-n-also :<stage>(er schribt)</stage> Ne junge Person, im Stall
+                        uferzoge...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Was, im Stall!... uf em Land, ha-n-i g'sàit!</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>'s kunnt uf's Gliche-n-üse... also uf em Land uferzoge
+                        un wo « d'Viehzucht versteht, » wà mr do mache, 's isch
+                        e wenig civilisierter, süecht sich z'verhirothe mit eme
+                        Mann.</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Natirlig mit eme Mann... das isch alles Üsfillete!...
+                        mache Sie nur eifach « süecht e Mann » un dermit ferig.</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>('s kunnt e Vogel)</stage>
+            <l>Wenn e Mann kunnt ku z'fliege</l>
+            <l>Un kneit hi vor mi Füess,</l>
+            <l>So will ich ne glich ziege,</l>
+            <l>Ass er mir folge müess.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+          <stage>Mitnander</stage>
+          <sp who="#bawele">
+            <speaker>Bàwele.</speaker>
+            <lg>
+              <l>Liewer Mann, will ich sage,</l>
+              <l>Wenn D' e Fraü witt in's Hüs,</l>
+              <l>So derfsch d'Hose nitt trage,</l>
+              <l>Zieg se liewer glich üs.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_rehrle">
+            <speaker>Herr Rehrle</speaker>
+            <stage>(fir sich).</stage>
+            <lg>
+              <l>Wohl sin's Artikel zwei,</l>
+              <l>Nur isch dr letschte z'klei,</l>
+              <l>Doch fir was ich vor ha,</l>
+              <l>Isch noch g'nüe dra.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="286"/>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Sa, do wàr's denn jetz eso g'schriwe... wenn Sie's
+                            viellicht noch will iwerlese <stage>(er git ere im Toni si Artikel)</stage>ich will siter mit dem junge Mensch ferig mache <stage>(er geht gege dr Thüre).</stage></p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(nimmt 's Papier, fir sich)</stage>
+          <p>Ich bi jetz doch wunderfitzig, eb ich uf dà Artikel
+                            hi ne Mann bikumm...</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle</speaker>
+          <stage>(macht d'Thüre-n-uf)</stage>
+          <p>Junger Mensch, kämme Se noch e wenig un iwerlese
+                            Se-n-Ihre-n-Artikel, fir sicher z'si, ass nit fehlt<stage>(dr Toni kunnt ine, er git em im Bàwele si
+                            Artikel)</stage></p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(fangt a z'lese)</stage>
+          <p>Ne junger Mensch... hein, was git er mir do
+                            z'lese...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(fangt a z'lese)</stage>
+          <p>Ne junge Person...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(fahrt furt)</stage>
+          <p>Stark wie ne Leb...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Uf em Land uferzoge...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Un wo mit dr Hiroth...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>D'Viehzucht versteht...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Wott in dr Eh'stand trete...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Süecht e Mann...<stage>(se lüege enander a)</stage>tiens, tiens!...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Tiens, tiens!...<stage>(fir sich)</stage> me kännt's jo prawiere...</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(geht verlege gege-n-em Bàwele)</stage>
+          <p>Hm, hm... wenn Sie viellicht wott...</p>
+          <pb n="287"/>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>Mache doch nitt soviel Stàmpenei-n-un Manöver, gàn
+                            enander d'Hand un e Schmutz un dermit ferig...
+                        </p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni</speaker>
+          <stage>(fallt im Bàwele um dr Hals)</stage>
+          <p>Liewe Brüt!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Liewer Hochziter!</p>
+        </sp>
+        <sp who="#toni">
+          <speaker>Toni.</speaker>
+          <p>Herr Rehrle, Sie brüche jetz mi Annonce nitt
+                            z'drucke... 's isch unnöthig... ich ha jetz e Fraü.</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Un mine-n-o nitt... ich ha jetz e Mann.</p>
+        </sp>
+        <sp who="#herr_rehrle">
+          <speaker>Herr Rehrle.</speaker>
+          <p>O sapristi... was ha-n-ich ag'stellt!... an das
+                            ha-n-ich jo gar nitt denkt... un mi halwe Site, wo
+                            leer isch... lose, gà mr uf's wenigst nur
+                            d'Autorisation, eüer Hirothsg'schichte
+                            z'verzähle... ich bi versichert, ass derno alle
+                            junge Lit üs dr ganze Umgegend kämme ku Annonce
+                            mache-n-in « d'Extrapost »...</p>
+        </sp>
+        <stage>G'sang (Ein Männlein)</stage>
+        <sp who="#herr_rehrle #bawele #toni">
+          <stage>(Mitnander)</stage>
+          <lg>
+            <l>'s isch g'wiss 'e güete Mode,</l>
+            <l>Das müess me g'steh,</l>
+            <l>Dur « d'Extrapost » z'hirothe,</l>
+            <l>Denn schnell thüet's geh.</l>
+            <l>Will me küm sich drucke lo,</l>
+            <l>Steht o scho ne Fraü/Mann als so,</l>
+            <l>'s geht ganz güet eso. <stage>(bis)</stage></l>
+          </lg>
+        </sp>
+        <pb n="288"/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='../work/css/tei-drama.css' ?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">E Dienschtbott wurd g'suecht</title>
+        <title type="sub">E Schnirichel in 1 Akt vum Camille Jost</title>
+        <author key="wikidata:Q96489174">Camille Jost</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Hoda Chouaib</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q106588339</idno>
+        <idno type="methal" xml:id="mtl-005"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Numistral</name>
+          <idno type="URL">https://www.numistral.fr/ark:/12148/https://www.numistral.fr/ark:/12148/bpt6k91096851.r=camille%20jost?rk=171674;4</idno>
+          <bibl type="originalSource">
+            <author key="wikidata:Q106588339">Camille Jost</author>
+            <title type="main">E Dienschtbott wurd g'suecht</title>
+            <title type="sub">E Schnirichel in 1 Akt vum Camille Jost</title>
+            <publisher>Druck und Verlag von F. X. Le Roux &amp; Cie, Strasbourg</publisher>
+            <date when="1928" type="print">1928</date>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="M" xml:id="meyer">
+            <persName>Meyer</persName>
+          </person>
+          <person sex="M" xml:id="jean">
+            <persName>Jean</persName>
+          </person>
+          <person sex="M" xml:id="emil">
+            <persName>Emil</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#meyer"><role><persName>Meyer</persName></role>, <roleDesc>e G'schäftsmann</roleDesc>.</castItem>
+        <castItem corresp="#jean"><role><persName>Jean</persName></role>, <roleDesc>syner valet-de-chambre</roleDesc>.</castItem>
+        <castItem corresp="#emil"><role><persName>Emil</persName></role>, <roleDesc>e Dienschtbott, Frind vum Jean</roleDesc>.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="scene">
+        <head> 1. Scène. </head>
+        <stage> Meyer. </stage>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <stage>(hett e Zyttung in d'r Hand unn geht uffgerejt uff  unn ab)</stage>
+          <p>Nein, diss iwerläw ich nitt ! Myn ganz Vermeje haw ich verlore! E ganzi Million isch füddi, wo ich in Aktie vun d'r « Australisch Auschterebank » g’steckt habb, unn jetzt isch diss ganz Unternemme iwer Nacht verkracht ! Do steht’s im Blättel !</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 2. Scène. </head>
+        <stage> Wie vorig. Jean (vun rächts; er hett e blöjer Schurz an).</stage>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Unn do bisch numme dü dran schuld, Jean !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Na ja, Patron, ich will jo gern zuegänn, ass ich denne Morje Ihri Café-Schissel verhejt habb, awer ...</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ach was, die mein ich nitt! Vun mir üss hättsch d'ganz G’schirrabteilung vum « Magmod » kapütt dengle kenne! Ich mein d’« Australisch Auschterebank»!</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Ah! Isch s’e üss’m Lym gange? Unn ich soll schuld sinn ? Ich habb mich nitt druff g’setzt, Monsieur Meyer !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Babbel kein Mischt, Jean! Ass s'e schiewes isch gange, isch nitt dyni Schuld, awer ass ich myn ganz Geld nyng’steckt habb !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Jetzt wurd’s Daa! Ja, Patron, saawe emool: Sinn Sie d'r Herr odder ich? Kenne Sie nitt mache, was Sie welle ?</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Doch, awer wo ich dich angaschiert habb, hesch dü mir versichert, ass dü dich uff alles verstehsch.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Sell isch wohr, wenn sich's um ’s Koche, Butze, Nähje unn so wyddersch handelt : ass ich awer au noch Ihre Finanzrat soll sinn, diss isch nitt im Kontrakt vor- g’sähn !</p>
+          <pb n= '6' />        
+		</sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Egal, dü hesch mir awer geroote, ass ich’s riskiere kennt, myn Vermeje in dem Unternemme anzeleije.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Unn ich dhät’s noch emool mache, Monsieur Meyer ! Ich bin in dem Dings guet renseigniert ..... myner bescht Frind hett jo e Liebschti, wo d’Schweschter vun d'r Butzfrau vum Gouverneur vun d'r Banque de France isch ! Non, non, ich loss mir ’s nitt üssredde ..... die Ba- bierle sinn so sicher wie Zuchthüssmüre !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Ich habb jo ’s Konträr devun schwarz uff wyss ! Füddi isch füddi! Unn fur ass ich an die unglieckselig Affär gar nimm ze denke brüch, ze will ich mir die Aktie-Babierer do üss de Aue schaffe ! <stage>(Er langt e En- veloppe üss'm Sack, wo e paar Babierer drine sinn unn leijt s’e uff de Disch)</stage>: Wo sinn denn Schwäwehelzle ..... ich will s’e verbrenne! <stage>(Er suecht im Zimmer nooch 's Schwäwehelzle)</stage>. JEAN <stage>(nemmt g’schwind, unn ohne ass ’s d'r Meyer sieht, d'Babierer üss d'r Enveloppe, steckt s’e yn unn ersetzt s'e durich e Stick Zyttung, wo uff'm Disch lejt ; fur sich)</stage>: Ich glaub als noch nitt an denne Bankkrach unn waje dem will ich die Babierle do in Sicherheit bringe ..... nutzt’s nix, ze schad’s nix !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ah, do sinn jo Schwäwes! <stage>(Er zind eins an unn verbrennt d’Enveloppe)</stage> : Diss isch, ma foi, e dyer’s Fyer- werik, wo mich e bari Million koschte dhuet! Ich Ar- mer !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Wenn diss numme kein Dummheit isch, Patron!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Was, Dummheit ? Was erlaubsch dü dir iwerhaupt, mich dumm zu heisse! Dü kummseh mir iwerhaupt in letschter Zytt allewyll so frech !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Uff jede Fall, ich hätt’s nitt gemacht.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ich will einfach nimmi an denne Fehlschlaa ge- mahnt wäre, unn waje dem kannsch au dü sofort dyne Ranze packe unn dich um e neje Platz umsähn, denn wenn ich nitt uff dich g’horicht hätt, ze wär ich hytt nitt am Bettelstab !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Was ? Unn waje dem welle Sie mich schasse ?</p>
+          <pb n= '7' />		  
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Oh, nitt numme waje dem ! Dü bisch mir in letsch- ter Zytt au viel ze viel iwer de Kopf gewachse! Dü hesch gemacht, was de witt, unn ich habb d’Roll vum e Dienschtbott kenne spiele.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Wie wenn ich’s nitt allewyll guet mit Ihnne gemeint hätt ! E Fröj, ob Sie e bessere Noochfoljer fur mich be- kumme ? Sie sinn numme noch nitt im Rächte in d’Fin- ger g’falle !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Egal! Dü kannsch gehn ... ich habb schun e An- nonce in d’Zyttung gemacht unn wart alle Moment uff e nejer Dienschtbott.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Na, ze will ich nitt noch lang by Ihnne anhalte, unn ich winsch, ass ’s Ihnne nie leid dhuet, mir de Laufbass gänn ze hann !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Mir leid dhuen! Im Läwe nie! Unn jetzt ver- schwind ! <stage>(Kehrt'm de Buckel anne.)</stage></p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Halt, ich habb e gueti Idee, denn ich habb myne Herr viel ze lieb, als dass ich’ne so einfach uffgibb ! <stage>(Rächts ab)</stage>.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 3. Scène. </head>
+        <stage> Meyer</stage>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Gott sej Dank, ass’r furt isch ! Diss wär doch gelacht, wenn’s kein bessere Ersatz fur’ne sott gänn ! Denne will ich awer no dressiere ! Du reste, haw ich mir do e Photographie-Apperat angeschafft, fur myn däjlich’s Brot mit ze verdiene, denn nooch dem Millioneverluscht kann ich mir’s nimm leischte, mich uff d’füll Hütt ze leije. <stage>(Er stellt de Apperat by d'r Dier rächts uff unn macht sich dran ze schaffe.)</stage> Awer ich muess erscht noch e bis- sel lehre unn stüdiere, wie die Photographiererej funk- tioniert, unn wenn ich’s no kann, ze geh ich nüss uff’s Land unn photographier d’Büre unn ihre Vieh unn ihri Fraue.... do isch noch Geld mit ze verdiene ! <stage>(’s klopft.)</stage> Wer kummt denn jetzt ? Entrez!</p>
+          <pb n= '8' />
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 4. Scène. </head>
+        <stage> Wie vorig. Emil (vun hinte).</stage>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(e groteski Figür)</stage>
+          <p>Wohnt do d'r Monsieur Meyer ?</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ja; der bin ich sälwer !</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(fur sich )</stage>
+          <p>Na, dem will ich’s stecke! Myner Frind, d’r Jean, hett mich g’schickt ! <stage>(Lütt)</stage>: Ich kumm waje dere Annonce, wo in d'r Zyttung isch unn .....</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ah, guet! Awer ein Moment... ich habb grad myne Photographie-Apperat yng’stellt unn will gschwind e Prowe-Uffnahm mache, wyll d’Sunn im Mo- ment so ginschtig isch. Stelle Ejch do anne ! <stage>(Er stellt de Emil e paar Schritt vor’m Apperat uff.)</stage></p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL:</speaker>
+          <p>Hoffetlich gitt’s kein Uffnahm fur ins Verbrecher- Album !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Unn jetzt lueje e bissel frindlich dryn !</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <p>Ich kann mit’m beschte Wille nitt.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Allewäj nitt! Denke an ebbs Guets !</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <p>Ich habb schun lang nix Guet’s meh g’hett mit Üss- nahm vum e saftige Styerzettel !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Also ze denke emool an e zart’s, saftig’s Kalbs- schnitzel ! EMIL <stage>(lacht e bissel)</stage>.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>..... so gross, ass’s uff alle Sytte vum Deller erab- hängt... EMIL <stage>(lächelt stärker)</stage>.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>..... unn e Platt voll pommes frites mit Salat ..... EMIL <stage>(grinst unn’s Wasser lauft'm üss’m Müll uff de Bodde ; er butzt sich mit’m Nasduech ab.)</stage></p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>..... unn e Liter Gähler dezue .....</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(strahlt)</stage>
+          <p>Herr, here uff, odder ich lauf üss wie e voller Eimer, wo e Loch hett! Geje Sie isch jo d’Folter im Middelalter ’s reinscht G’sellschaftsspiel !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>So isch’s guet ..... blyewe so... ich will g’schwind scharf ynstelle ! <stage>(Er stellt sich hinter de Apperat, nemmt’s schwarz Duech iwer de Kopf unn de Apperat unn gückt durich.)</stage> So! Ja, ’s geht! <stage>(Allewyll noch unter'm Duech)</stage>: Unn jetzt gücke in de Apperat nyn !</p>
+		  <pb n= '9' />
+		</sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(geht an de Apperat unn linzt mit eim Au nyn)</stage>
+          <p>Ich sieh nix !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(werft vergelschtert ’s Duech furt)</stage>
+          <p>Herrjeh, was isch denn diss fur e Riese-Ochse-Au in mym Apperat ? <stage>(Sieht de Emil vorm Apperat.)</stage> Ah, denne Wäj! Na, Ihr schynne mir d’Dummheit au mit’m Leffel gesse ze hann ! Also lonn m'r ’s sinn mit dere Uffnahm ..... ich habb Angscht, d’Platt kennt m'r verspringe, wenn ich’re zuemuete dhät, Ejeri iwerzwerich Visasch ze verewige ! Also zuer Sach..... Ihr hann also myni Annonce ge- läse ? <stage>(Emil nickt.)</stage> Wie stehts: Kenne Ihr koche ?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL:</speaker>
+          <p>Nein!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Butze?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL:</speaker>
+          <p>Nein!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Nähje ?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <p>Nein!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Flicke?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL:</speaker>
+          <p>Nein!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ja, was welle Ihr denn no eijetlich do ?</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL:</speaker>
+          <p>Ei, ich habb Ihnne numme welle saawe, ass ich die Stell nitt annemme kann !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Jetzt hett’s awer g’schellt ! Nein, so e Frechheit ! Nüss !, saaw ich, nix als wie nüss! Ihr hann mir grad noch g’fählt !</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(lacht)</stage>
+          <p>So? No kenne Sie mich jo au angaschiere !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Ehnder zeh Jean als wie Ejch!</p>
+        </sp>
+        <sp who="#emil">
+          <speaker>EMIL :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Diss haw ich wisse welle ! Ich will’s im Jean glych saawe ! <stage>(Links nooch hinte ab.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 5. Scène. </head>
+        <stage> Meyer.</stage>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Nix als wie verzirne kamm’r sich! Oh, ’s isch e Elend mit denne Dienschtbotte vun hyttzedaas ..... frech sinn s’e wie e Spatz unn s’e welle liewer meh Lohn <pb n= '10' /> unn defur e bissel wenjer Arweit! Na, ich will liewer noch e bissel photographiere, denn ich muess’s partout lehre ; ’s isch, du reste, au e ganz g’fitzter Sport... scheener wie jeder ander. So haw ich mich, par exemple, au schun mit d'r Fischerej abgänn ..... d’an- dere hann d’Fisch g’fange un ich habb alti Schlappe, Häfe unn ein Protokoll um’s ander odder gar de Sunne- stich verwitscht! No bin ich uff d’Jachd gange, unn was habb ich gedroffe ? Myne Hund odder gar de garde- chasse !... Oh, ich därf gar nitt an alles denke ! Hoffet- lich klappt’s mit'm Photographiere besser! Eins macht mir deby allerdings jetzt schun Kummer, unn diss isch, ass alli myni Bilder so arich verschwumme sinn... unn diss kummt dohere, wyll sich alli Lytt, wo ich bis jetzt photographiert habb, bewejt hann. Waje dem mach ich’s jetzt fur de Anfang andersch.... ich photographier einfach die Statüt do, wo sich wohrschynnlich nitt so ball beweje wurd ! <stage>(Er stellt d’Statüt mit’m G’stell links vun d'r Scène e paar Schritt vorm Apperat uff.)</stage> So, unn jetzt welle mir ynstelle ! <stage>(Er schlupft unter’s Duech unn schafft am Apperat erum )</stage> er kann deby allerhand Kapriole mache, so ass d’r Apperat wackelt unn als schier umfalle will.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 6. Scène. </head>
+        <stage> Wie vorig. Jean (vun hinte. Er hett e Däschelskapp uff unn  anderi Kleider an, so ass’r vum Meyer nitt erkennt wurd; evtl. kann’r sıch au de Büch gepolschtert hann. Wenn’r mit'm Meyer  redd, ze verstellt'r d’Stimm.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(ohne ass d'r Meyer, wo am Apperat erumschafft, druff acht gitt)</stage>
+          <p>So, do bin ich widder! Jetzt will d'r Jean emool sym liewe Monsieur Meyer zeije, was fur e Unterschied zwische mir unn andere Dienschtbotte kann sinn ! Waje dem haw ich mich g’schwind verkleid, fur ass’r mich nitt kennt. Zuedem weiss ich jo gar ze guet, ass’r nitt ohne mich exischtiere kann ! Ah, do isch’r jo! Wie’r numme mit dem Apperat umgeht... wie wenn’r’ne knock out boxe wott !</p>
+          <pb n= '11' />
+		</sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(als noch unter'm Duech)</stage>
+          <p>So, d’Statüt wär exakt yng’stellt! Jetzt kummt d’Platt nyn. <stage>(Nemmt üss’m Fracksack e Kassett, wo’r in de Apperat schiebt. Er kummt unter'm Duech vor unn bedracht numme noch de Apperat, so ass’r de Jean, wo in d'r Nähde vun d'r Statüt steht, nitt sieht.)</stage></p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(stellt sich g’schwind vor d’Statüt ; fur sich)</stage>
+          <p>Ich bin doch schun lang nimm abkonterfeit worre !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(wo nix devun sieht, nemmt de Knipser vum Apperat in d'Hand)</stage>
+          <p>Unn jetzt nimm geriehrt ..... rächt fryndlieh, s’il vous plait!... Eins-zwei-drej ! <stage>(Er zählt mit de Finger.)</stage> So! Diss wär g’schähn ! <stage>(Nemmt d’Kassett üss’m Apperat.)</stage> Jetzt will ich die Platt g’schwind ent- wickle gehn ! <stage>(Ab nooch rächts mit d'r Kassett.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 7. Scène. </head>
+        <stage> Jean.</stage>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Diss isch jo allerhand... d’r Monsieur Meyer isch eso verdieft in syni Knipserej, ass’r mich noch nitt emool g’sähn hett !</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 8. Scène. </head>
+        <stage> Wie vorig. Meyer (vun rächts).</stage>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(in d'r Hand e Glasplatt)</stage>
+          <p>Was isch mir denn nitt diss ! Myner Napoléon hett sich jo in e Bür verwan- delt... unn e Däschelskapp hett’r au noch uff! <stage>(Er sieht jetzt de Jean)</stage>: Ah, do steht der Sindebock ! Was han Ihr denn in mynere Menasch unn gar noch in mym Photographie-Apperat ze sueche ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Ich habb in d'r Zyttung Ihri Annonce geläse unn bin kumme waje dem Platz, wo by Ihnne frej isch.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ah, denne Wäj! Also, was kenne Ihr ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Alles !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Diss isch nitt grad wenni, wenn’s wohr isch ! Unn was wär diss par exemple ?</p>
+          <pb n= '12' />
+		</sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(fur sich)</stage>
+          <p>Na, wart, ich will dirs schun koche! <stage>(Lütt)</stage>: Ich kann e Ochs anspanne... also wurr ich Ihnne wohl au d’Kleider anzehje kenne !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ihr schynne um Verglych nitt grad arich verläje ze sinn!</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>No kann ich Gras mähje ..... also wurr ich wohl au Ihre Bart rasiere kenne !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Unn wie steht’s mit d'r Kiche ? JEAN ch Oh, ieh bin e grosser Frind vun’re gueti Kiche! Unn no au vum e guete Gläsel Wyn... ich syberel fur myn Läwe gern !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ah, Ihr syberle gern! <stage>(Fur sich)</stage>: Er isch noch jung unn unerfahre, awer mit d'r Zytt kann’r sich so mache, wie ich’ne hann will! <stage>(Lütt)</stage>: Unn was hann Ihr fur e Charakter ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Oh, ich habb de bescht Charakter vun d'r Welt! Ich mach alles, was m'r will... unn sogar diss, was m'r nitt will! Kurz, e Lämmele isch geje mich e Wolf !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Unn wie heisse Ihr ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Ich heiss ganz kurz: Charles Auguste Leon Pierre Georges Louis Alfred Jean Dippeldappel !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Unn diss heisse Ihr kurz! So e Schlang vum e Namme kann jo kein Mensch b’halte !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>So, kein Mensch ? Ich kann’e jo au b’halte.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Diss wär noch scheener, wenn Ihr Ejere eije Namme nit b’halte kennte ! Bref, ich ruef Ejch noch einfacher : Alfred !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Nein, Jean!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ich zej Alfred vor! <stage>(Fur sich)</stage>: De Jean will ich nimmi heere !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Ich blyeh by Jean ! Unn wenn Sie mich noch länger säje, ze dhue ich Ihnne d’Fenschterläde blöj poliere ! <stage>(Er wurd als frecher.)</stage></p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(baff)</stage>
+          <p>Unn der will e Lämmeles-Charakter hann ! Nein, myn Liewer, in dem Fall verzieht ich uff Ejeri Dienscht ..... do isch mir d'r Jean, diss heisst d’r Wolf, doch noch liewer als wie d'r Wolf im Schoofsbelz ! Ich nemm sogar noch liewer e Maidel fur alles !</p>
+          <pb n= '13' />
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Wo sich awer nitt alles g’falle losst wie par exemple so e stilli, verträjlichi Nadür als ich eini habb! Wisse Sie, was Sie sinn ? E Gyzhals sinn Sie! E Gro- bian ! E Lyttschinder ! E alter, yngebilder Zipfel ! <stage>(D’r Meyer hüpst by jedem Wort vergelschtert in d’Heeche.)</stage> So Lytt wie Sie hett m'r friehjer uff d’Läbkueche ge- bäbbt! Sie uffgewärmter Leichnam ! Ich habb d’Nas voll vun Ihnne... ich geh... wäre selig ohne mich! <stage>(Er nemmt syni Kapp unn wärft s'e im Meyer ins G’sicht ; fur sich)</stage>: Diss wurd hoffetlich lange, fur ass’r ynsieht, was’r an sym alte, guete Jean verlore hett! <stage>(Ab nooch hinte.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 9. Scène. </head>
+        <stage> Meyer.</stage>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Hett m'r jetzt schun emool so e boddelosi Unver- schämtheit erläbt! Er hett wajer Zytt g’hett, ass’r sich üss’'m Staub gemacht hett, der grobb Flejel, denn schunscht hätt ich'm au emool myne Charakter gezeijt ! So wytt sinn mir also hytt kumme, ass d'r Herr Angscht muess hann vor de Dienschtsocke ! So leije sich also die fülle Herrschafte de Begriff « Egalité» üss... die meine, sie därfe grad eso frech unn grobb sinn als wie unsereins! Do isch d'r Jean doch noch e anderer Burscht g’sinn ! Er hett zwar alles nooch sym Schäddel gemacht, awer er hett mich doch als schliesslich ze iwer- zeje gewisst, ass eijetlich ich’s bin g’sinn, wo’s vun vorneryn eso gewellt hett ! Hätt ich’ne numme nitt furt- g’schickt... grad jetzt, wo ich im Elend bin, hätt ich e stariker Halt an’m g’hett! Wenn ich numme wisst, wo’r sich uffhalte dhuet... nein, ’s gängt jo doch nitt, ass ich mich als Herr eso dief erabbloss, fur ihm nooch- zelaufe unn’m gueti Wertle ze gänn ! Schad... arich schad! G’schähn isch g’schähn, was hyllsch ! Ze will ich liewer noch e bissel photographiere unn g’schwind e anderi Platt hole ! <stage>(Rächts ab.)</stage></p>
+          <pb n= '14' />        
+		</sp>
+      </div>
+      <div type="scene">
+        <head> 10. Scène. </head>
+        <stage> Jean (vun hinte ; er isch widder wie in d'r 2. Scene angezöje.  In d'r Hand hett’r e Zyttung, wo’r uff de Disch leijt).</stage>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>So, jetzt will ich emool sähn, ob d'r Monsieur Meyer sich e Lehr genumme hett ! Ich habb’m jo vorig d'Hell heiss genue gemacht !</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 11. Scène. </head>
+        <stage> Wie vorig. Meyer (vun rächts, in d'r Hand e Kassett ; er sieht  de Jean nitt, un d’Scène mit d'r Uffnahm spielt sich wie die  in d'r 6. Scène ab).</stage>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(macht sich am Apperat ze schaffe)</stage>
+          <p>Unn jetzt die nej Platt in de Apperat !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(stellt sich widder vor d’Statüt ; fur sich)</stage>
+          <p>Wie der spanne wurd, wenn’r d’Platt entwickelt !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Kein Bewejung meh! Rächt frindlich, s’il vous plaît ! Eins-zwei-drej ! <stage>(Er nemmt d’Kassett üss’m Apperat.)</stage> Hoffetlich isch’s diss Mool besser gange! <stage>(Rächts ab.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 12. Scène. </head>
+        <stage> Jean.</stage>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Er hett mich als noch nitt g’sähn ! Wenn’r wisse dhät, was fur e gueti Nuwell ass ich fur’ne habb, er dhät sich mit dem Gückkaschte gewiss nimm abschinde !</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head> 13. Scène. </head>
+        <stage> Wie vorig: Meyer (mit-re Glasplatt vun rächts).</stage>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Jetzt heert sich doch alles uff ! Myner Napoléon hett sich diss Zugg gar in de Jean verwandelt! Wie isch diss mejlich ? <stage>(Er sieht de Jean. )</stage> Ah, do steht’r jo! <stage>(Fur sich)</stage>: Er kummt mir wie geruefe ! Awer ich muess’ne e bissel zawle lonn ! <stage>(Lütt, streng)</stage>: Was welle Sie do, Monsieur ? Wisse Sie nitt, ass myni Hüssdier fur Sie fermé isch ?</p>
+          <pb n= '15' />
+		</sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Ich habb s’e awer offe g’funde, Monsieur Meyer ! Unn wenn e Dier offe isch, ze isch diss e Zeiche, ass m'r nyn kann unn ...</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>..... unn ass m'r au widder nüssflieje kann !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Ich bin au gar nitt kumme, fur Ejer scheen’s G’sicht ze sähn ..... ich will numme d’Kapp hole, wo myn Ka- merad vorig do hett leje lonn... ich soll se’m bringe! <stage>(Er setzt d’Kapp uff, wo noch uff'm Bodde lejt.)</stage></p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <stage>(baff)</stage>
+          <p>Im Himmel !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Nein, nitt in de Himmel, awer in d'Wirtschaft vis-à- vis... er wart dort uff mich !: à</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Was sieh ich ? Die Kapp ! Diss G’sicht ! Diss isch jo ’s nämlich G’sicht wie diss vum Alfred, vun dem un- g’schliffene Holwel, wo sich vorig by mir vorg’stellt hett! Wo haw ich denn numme myni Aue g’hett !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Kein Wunder, ass ich'm glych ! Ich bin üss’m nämliche Ort wie er !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Am End noch verwandt mit’m ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Er hett de nämlich Vadder wie ich.</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ah so!</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN:</speaker>
+          <p>Unn ich bin’s einzig Kind vun mym Babbe !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Haw ich dich verwitscht, dü üssgekochter Spitz- bue ..... dü farceur ! Jetzt sieh ich hell: Dü hesch denne ung'howelt unn gewalttätig Alfred g’spielt, fur ass mir d’Luscht uff e anderer valet-de-chambre vergehn soll ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Ich kann’s nitt leigle, Herr !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Ja, Jean, haltsch denn dü so arich an mir ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Unn wie, Herr!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Unn au in mym Elend witt de mich nitt im Stich lonn ?</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Was, Elend ? Herr, mir sinn jo rych ! Do steht’s in d'r Zyttung! <stage>(Er gitt im Meyer d’Zyttung, wo uff'm Disch lejt.)</stage> D’« Australisch Auschterebank » isch jo gar nitt verkracht !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER :</speaker>
+          <p>Was saasch de do, Jean ! <stage>(Läst)</stage>: « Unsere gestrige Mitteilung über den Zusammenbruch der « Australischen Austernbank » beruht auf einer Falschmeldung. Im <pb n= '16' /> Gegenteil, ihre Aktien sind sogar seit gestern um den doppelten Wert gestiegen.» <stage>(Er fallt uff e Stuehl.)</stage> Oh, ich g’schlaawener Mann ! Jetzt haw ich myn Vermeje erscht erächt verlore ! Diss verwind ich nitt! Ich habb jo myni Aktie verbrennt !</p>
+		</sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(lacht)</stage>
+          <p>Diss wär allerdings jetzt d'r Fall, wenn ich so e dummer Diener wär, wie Sie vun rächtswäje eine verdiene dhäte! <stage>(Er langt d’Aktie üss’m Sack unn gitt s’e im Meyer.)</stage> Ich habb s’e nämlich noch rächtzyttig in Sicherheit gebroocht ! Was Sie verbrennt hann, sinn alti Zyttunge g’sinn !</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Isch’s mejlich, Jean ! Dü bisch e Prachtsmensch, e Goldmensch ! Durch dich haw ich nitt numme myn Geld prima plaziert, nein, dü hesch mir sogar noch myn ganz Vermeje gerett! Diss vergess ich dir nitt ! Hytt noch lej ich uff d'r Bank fur dich 100 000 Franke vun denne Aktie do an! <stage>(Er umarmt’ne.)</stage></p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>Merci, Patron ! Unn wie steht’s mit d'r Kindigung ?</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Na, guet, ich b’halt dich in dem Fall nadierlich widder ..... ich habb mich zuedem so scheen an dich gewehnt, unn dyner Verstand .....</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <p>..... langt fur uns zwei!</p>
+        </sp>
+        <sp who="#meyer">
+          <speaker>MEYER:</speaker>
+          <p>Awer au eins merik dir fur in Zuekunft unn nemm’s ze Härze : Ich bin d'r Herr do hinne unn dü dr Ang’stellt! ’s gält also numme dyner Wille ..... äh, ich will saawe: nitt myner Wille ..... ei, nein, ich mein... ’s gält also numme dyner Wille ..... äh, ich na, kurz, dü weisch jo schun, wie ich’s mein ! ’s G’sicht vum Alfred kannsch de mynntwäje b’halte, awer syner Charakter blyet mir zuem Hüss drüsse !</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN :</speaker>
+          <stage>(setzt im Meyer d’Däschelskapp bis iwer d’Ohre uff de  Kopf)</stage>
+          <p>Odder kurz g’saat : Mir bringe drej Kepf unter ein Kapp ! No wäre mir schun besser mitnand härmoniere ! <stage>(D'r Vorhang fallt g’schwind.)</stage> <stage> Schluss. </stage></p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

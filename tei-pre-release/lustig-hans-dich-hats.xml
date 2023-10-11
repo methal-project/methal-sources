@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hans Dich Hat's!</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-111"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Hans Dich Hat's!</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="herr_scharfmesser" sex="M">
+            <persName>Herr SCHARFMESSER</persName>
+          </person>
+          <person xml:id="hans" sex="M">
+            <persName>HANS</persName>
+          </person>
+          <person xml:id="herr_lindebluescht" sex="M">
+            <persName>Herr LINDEBLÜESCHT</persName>
+          </person>
+          <person xml:id="herr_bemol" sex="M">
+            <persName>Herr BEMOL</persName>
+          </person>
+          <person xml:id="peter" sex="M">
+            <persName>PETER</persName>
+          </person>
+          <person xml:id="frau_scharfmesser" sex="F">
+            <persName>Fraü SCHARFMESSER</persName>
+          </person>
+          <person xml:id="frau_hagscheere" sex="F">
+            <persName>Fraü HAGSCHEERE</persName>
+          </person>
+          <person xml:id="frau_sagmuhle" sex="F">
+            <persName>Fraü SAGMÜHLE</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#herr_scharfmesser">
+          <role>
+            <persName>Herr SCHARFMESSER</persName>
+          </role>
+          <roleDesc>Balwierer</roleDesc>
+        </castItem>
+        <castItem corresp="#hans">
+          <role>
+            <persName>HANS</persName>
+          </role>
+          <roleDesc>si Gsell</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_lindebluescht">
+          <role>
+            <persName>Herr LINDEBLÜESCHT</persName>
+          </role>
+          <roleDesc>Fawrikant</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_bemol">
+          <role>
+            <persName>Herr BEMOL</persName>
+          </role>
+          <roleDesc>ne armer Klavierstimmer</roleDesc>
+        </castItem>
+        <castItem corresp="#peter">
+          <role>
+            <persName>PETER</persName>
+          </role>
+          <roleDesc>ne Lehrbüe</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_scharfmesser">
+          <role>
+            <persName>Fraü SCHARFMESSER</persName>
+          </role>
+          <roleDesc>im Balwierer si Fraü</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_hagscheere">
+          <role>
+            <persName>Fraü HAGSCHEERE</persName>
+          </role>
+          <roleDesc>ihre Frindin</roleDesc>
+        </castItem>
+        <castItem corresp="#frau_sagmuhle">
+          <role>
+            <persName>Fraü SAGMÜHLE</persName>
+          </role>
+          <roleDesc>ihre Frindin</roleDesc>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage type="characters">Herr Scharfmesser, derno Hans.</stage>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>'s isch doch efange züe arg, wie d'G'chàfte ne so
+                        schlecht geh'n!... Wer hätt das glaübt vor ebbe-n-e
+                        zeh' Johr? Ich, Meister Scharfmesser, wo doch vo jeher
+                        ein vo de-n-erste Balwierer gsi bi wit un breit, wo
+                        alles mache ka: Zähn üszieh, Schràpfe, z'Oder lo,
+                        Dampfbäder gà, oh! fir d'Lit mache z'schwitze, bin ich
+                        allewil e Meister gsi! im Zähn üszieh isch mr no nie
+                        Kein vorku; we me ne so Instrumente hat<stage>(er zeigt e
+                        Collection englische Schlüssel, Zange un Häke, ein
+                        grösser as dr ander)</stage>, so wàr's doch dr Kückück, we me
+                        nitt e Zahn kännt üsebringe, un wenn er fufzig Wurzle
+                        hätt... Kurz, 's hat allewil nur g'heisse: der Herr
+                        Scharfmesser hinte, der Herr Scharfmesser vorne... ich
+                        ha nur z'laüfe g'ha, fir alle Lit kanne z'friede
+                        stelle, un jetz?... jetz sitz i mangmol halwe Tàg do,
+                        ohne ass sich e Mensch blicke losst!... Züem Glick
+                        ha-n-i g'erbt do no nitt lang... ziemlig! ich ha jetz
+                        im Sinn, mich z'ruck z'zieh un will süeche, mi Tochter
+                        mit eme güete Mann z'verhirothe... Wenn nur mi G'sell,
+                        dr Hans, e wenig Geld hätt un nitt eso eifach wàr, fir
+                        nitt z'sage Simpel... Doch still... do isch er glaüb...
+                        dasmol isch er flink gsi... i ha-n-en g'schickt geh dr
+                        Herr Pappedeckel rasiere im Kàiwegàssle <pb n="55"/>hinte un dr
+                        Herr Mülkorb im siess' Winkel <stage>(züem Halls, wo hinte ine
+                            kunnt rechts)</stage> bisch Dü's scho, Hans?... De hasch
+                        g'schwind fertig g'ha hit!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <stage>(packt sine Rasiermesser un e Sach üs un legt alles uf dr Tisch).</stage>
+          <p>Isch's e Wunder, Meister!... Wo-n-i züem Herr
+                        Pappedeckel ku bi un ha mine Messer üse g'nu, so hat er
+                        sich höflig bedankt un hat g'sàit, er thàt sich jetz
+                        selbscht rasiere bi dàne schlechte Zite...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Was ha-n-ich g'sàit, 's isch nimmig züem üshalte!... A
+                        propos, Hans, De weisch, ass ich im Sinn ha, mich
+                        z'ruck z'zieh!... das wàr jetz so ne G'schaftle fir
+                        Dich... zeig, hasch kei alte Tante, wo De-n-emol erbsch
+                        un wo Dr viellicht thàt 's Geld vorstrecke?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>O, liewer Meister! wenn alle Misle z'Grund giengte, so
+                        thàt ich nitt emol e Wàdele-n-erwe!</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Süech Dr e riche Fraü, anstatt im alte Bemol, im
+                        Clavierstimmer, siner Tochter noz'laüfe, er will jo
+                        ohnedem nit wisse vo Dr, so lang as D'nitt etabliert
+                        bisch...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Wer will unter die Soldaten)</stage>
+            <l>We me will Balwierer werde,</l>
+            <l>Müess me ha ne güete Lehr, <stage>(bis)</stage></l>
+            <l>Ass me heile ka die B'schwerde</l>
+            <l>Do in uns'rem Thrànemeer.</l>
+            <l>Instrumente müess me ha,</l>
+            <l>Ass me-n-operiere ka</l>
+            <l>Alles was sich presentiert</l>
+            <l>Un derf jo nitt si g'geniert.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_scharfmesser #hans">
+          <lg>
+            <l>Denn verleide kännt eim sunscht</l>
+            <l>Gar glich unser schöne Kunst.</l>
+            <stage>}bis mitnander</stage>
+          </lg>
+          <stage>(Dr Hans thüet siter e Sach ufrüme.)</stage>
+        </sp>
+        <pb n="56"/>
+        <sp who="#herr_scharfmesser">
+          <lg>
+            <l>Hans, De hasch kei d'Zit z'verliere,</l>
+            <l>Schaff e riche Fraü Dir a, <stage>(bis)</stage></l>
+            <l>Wenn Dü's witt fir Dich prawiere,</l>
+            <l>So müesch ,gar viel Sache ha</l>
+            <l>Faux-cols, Seife fir dr Bart</l>
+            <l>Un Cravatte-n-aller Art,</l>
+            <l>O Pommade bis genüe,</l>
+            <l>Hànschig mien o noch derzüe</l>
+          </lg>
+        </sp>
+        <sp who="#herr_scharfmesser #hans">
+          <lg>
+            <l>Un sogar fir wer gern lacht</l>
+            <l>Larve-n-an dr Fasenacht!</l>
+            <stage>}bis mitnander</stage>
+          </lg>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Was wànn Se halt, Meister, ich weiss das alles, awer ich
+                        ha halt 's Trinele gern, denn 's heisst o Trinele, wie
+                        Ihre Tochter... O was hat die fir schöne Aüge... nitt
+                        Ihre Tochter, das heisst, doch, Ihre Tochter hat o
+                        schöne Aüge... awer, 's Trinele erscht!... in's Herr
+                        Ducommun's ihre Lumière électrique isch nur e Narr
+                        drgege!...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Allons, allons, Hans, gib Achtung, ass De nitt emol
+                        agehsch dra...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>O, ich versicher Sie, Meister</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Versicher Dü Dich, 's isch g'scheidter...<stage>(or zieht d'Uehre)</stage> Scho zwei! ich ha in eim versproche, ne Zahn üsz'zieh am Zwei Dà wird blange!... ich will jetz g'schwind geh... b'sorg derwilst e Sach güet, Hans...<stage>(er geht hinte-n-üse rechts)</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(rieft em no)</stage>
+          <p>Verlehn Sie sich uf mich, Meister!</p>
+          <pb n="57"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Hans, derno Herr Bemol.</stage>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(allei)</stage>
+          <p>Das isch jetz alles güet, awer mit dem allem bin ich
+                        noch allewil nitt Millionär!... Oh, das Geld... nur
+                        allewil Geld... ich wott jo keins verlange, kei Geld,
+                        wenn ich nur mi Trinele hätt...</p>
+        </sp>
+        <sp who="#gsang">
+          <speaker>Gsang</speaker>
+          <stage>(Du, Du liegst...)</stage>
+          <lg>
+            <l>Wenn ich soll glicklig werde,</l>
+            <l>Müess ich ihr' Liewe ha,</l>
+            <l>Nur sie ka do uf Erde</l>
+            <l>Mi Herz g'schwind mache schla.</l>
+            <l>Wenn ich soll glicklig werde,</l>
+            <l>Müess ich ihr' Liewe ha.</l>
+          </lg>
+          <lg>
+            <l>Kei Stern, wo dert thüet schwewe,</l>
+            <l>Isch so schön, wie ihr' Blick,</l>
+            <l>Mi Herz fir 's ganze Lewe</l>
+            <l>Ihr' z'gà, das wàr mi Glick.</l>
+            <l>Kei Stern, wo dert thüet schwewe,</l>
+            <l>Isch schön as wie ihr' Blick.</l>
+          </lg>
+          <stage>(Dr Herr Bemol kunnt hinte ine rechts)</stage>
+          <p>Eh, tiens dr Meister Bemol, wie geht's, Schwiegervater,
+                        was macht Ihr Töchterle ?...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>So lang as Dü nitt etabliert bisch, Hans, so isch nit
+                        z'mache... un züedem, obschon mi Trinele nit hat, so
+                        isch's doch e schöne Jumpfere, wo viellicht noch e
+                        güete Parthie ka mache... Doch, '5 handelt sich jetz
+                        nitt um das... ich soll ku in dr Jumpfer Scharfmesser
+                        ihr Klavier stimme... isch se d'heim?</p>
+        </sp>
+        <pb n="58"/>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>'s weisst's gwiss Nieme besser as ich, ass 's Trinele ne
+                        scheene Jumpfere isch...<stage>(züem Herr Bemol)</stage> Setze Sie
+                        sich e wenig, Herr Bemol, ich will g'schwind geh
+                        lüege...<stage>(Er geht hinte-n-üse links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage>Herr Bemol, Herr Lindeblùescht, derno Hans.</stage>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(allei)</stage>
+          <p>Do geht's efange grossartig züe, siter ass die
+                        Scharfmesser g'erbt hàn!... D'Tochter, die hat jetz e
+                        Klavier un macht eim z'warte, we me's soll ku stimme...
+                        Se-n-isch halt jetz e güete Parthie un isch g'wöhnt,
+                        ass ihr alle Lit dr Hof mache, un do thüet sie sich
+                        alles erlaüwe... D'Madame, wo vorher scho alle Lit vo
+                        owe-n-awe bschaüt hat, weisst jetz gar nimm, wie se dr
+                        Kopf hewe will. Dr Herr Scharfmesser hat scho ebbes
+                        miesse üshalte siter ass er g'hirothe-n-isch... er isch
+                        sunscht e güeter Mann un doch isch ihm jetz si Handwerk
+                        nimm güet gnüe... Oh! wenn ich eso ne Gschàftle hàtt,
+                        anstatt miesse geh Klavier stimme!...<stage>(er nimmt
+                        d'Bartschüssle un fangt a z'riehre drin)</stage> Do miesst's
+                        anderscht geh bi mir...</p>
+          <lg>
+            <head>Gsang</head>
+            <stage>(O dü lieber Augustin)</stage>
+            <l>Wenn ich so ne Gschàftle hätt,</l>
+            <l>Gschàftle hätt, <stage>(bis)</stage></l>
+            <l>Gàb ich gwiss e Mann, ich wett,</l>
+            <l>Gàb ich e Mann.</l>
+            <l>Bol thàt ich besser steh</l>
+            <l>Un do miesst's anderscht geh!</l>
+            <l>Wàr ich doch nur bis dohi</l>
+            <l>Balwierer gsi.</l>
+          </lg>
+          <pb n="59"/>
+          <lg>
+            <l>Wenn sie nur ei Zahn üsziehn,</l>
+            <l>Zahn üsziehn, <stage>(bis)</stage></l>
+            <l>Hàn sie scho, was ich verdien,</l>
+            <l>Was ich verdien,</l>
+            <l>Wenn ich e Tag als schier</l>
+            <l>Do bi un stimm 's Klavier,</l>
+            <l>Das isch doch emol nitt recht,</l>
+            <l>Ich find das schlecht.</l>
+          </lg>
+          <lg>
+            <l>D'Kunst wird eim haIt nie bezahlt,</l>
+            <l>Nie bezahlt,<stage>(bis)</stage></l>
+            <l>Un das isch was mir nitt g'fallt,</l>
+            <l>Was mir nitt g'fallt.</l>
+            <l>Ich stimm bi alle Lit</l>
+            <l>'s ganze Johr, d'ganze Zit!</l>
+            <l>Nur allei bi mir stimmt's nie,</l>
+            <l>Mag's noch so zieh!</l>
+          </lg>
+          <stage>(Dr Herr Lindeblüescht kunnt hinte-n-ine, rechts)</stage>
+          <p>Tiens, 's kunnt ebber<stage>(er stellt d'Bartschüssle gschwind ab).</stage></p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah! will jetz dr Herr Scharfmesser grad allei isch, so
+                        will i d'Glegeheit profetiere<stage>(züem Herr Bemol,wo-n-er
+                        fir dr Herr Scharfmesser nimmt)</stage> Ich will nitt lang
+                        hinte-n-umme fahre, Meister, will i grad 's Glick ha,
+                        Sie allei do az'treffe... ich müess Ihne g'steh, ass
+                        ich Ihre Tochter gern ha un ich kumm um ihre Hand ku
+                        froge.<stage>(fir sich)</stage> Das isch e possiger Heiliger... ich
+                        ha mir ne ganz anderscht vorg'stellt as eso... me wott
+                        nitt meine, ass er eso viel g'erbt hat... enfin... 's
+                        isch doch allewil dr Vater...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(verwundert)</stage>
+          <p>Mi Tochter?..... mi Trinele?..... weisst sie ebbes
+                        dervo?.....</p>
+        </sp>
+        <pb n="60"/>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Ihr Tochter selbst... Sie hat mir d'Erlaübniss gà, mit
+                        Ihne z'rede bi dr erste G'legeheit, un wil sie sich
+                        jetz grad presentiert....</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch sunderbar, ass er do ane kunnt, fir mit mr
+                        z'rede.</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Ich begriff Ihre Verwunderung... ich kenn Ihre Tochter
+                        no nitt lang, doch ha-n-i se glich fir e rechtschaffene
+                        Person g'jügiert; un mine-n-Absichte sin rein... was
+                        Rang un Vermöge abelangt... ich heiss Herr
+                        Lindeblüescht, wie Sie wohl werde wisse... ich ha ne
+                        schöne Fawrike, wo mir nit z'wünsche-n-iwrig losst...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Mère Michel)</stage>
+            <l>Wie mi Fawrike, so git's keine wit un breit,</l>
+            <l>Die müess me sàh, die schafft, 's macht eim e rechte Freid.</l>
+            <l>Am Morge derf me nur dr Dampf als ine lo,</l>
+            <l>Un alles làuft wie g'schmiert als ganz allei derno.<stage>(bis)</stage></l>
+            <l>Maschine ha-n-ich drin, ganz vo dr letzte lit,</l>
+            <l>Die mache-n-alles selbst, ich brüch schier keine Lit;</l>
+            <l>Un 's kunnt viel besser noch, denn 's geht jetz erstrecht a,</l>
+            <l>Bol git's Maschine jetz, wo gar kei Mensch brüchtdra. <stage>(bis)</stage></l>
+          </lg>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Scho güet, scho güet...<stage>(fir sich)</stage> 's isch ihm schint's
+                        Ernst!... Das wàr kei so schlàchte Parthie... un ich,
+                        wo glaübt ha, mi Trinele seig in dr Hans vernarrt!...
+                        Wie me sich doch trumpiere ka!<stage>(lüt)</stage> Wenn mi Trinele
+                        z'friede-n-isch... mir isch's scho recht... ich will
+                        nitt gege-n-ihr' Glick si... doch will i noch z'erst
+                        mit ere rede. Sie begriffe jo wohl...</p>
+          <pb n="61"/>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>O merci, merci Meister... , wenn ka-n-i ku d'Antwort
+                        hole... Nitt wohr, sa glich as moglich ?</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Wenn Sie wànn, morn viellicht...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>O mache Sie mich nitt eso lang z'warte, ne jede Sekunde
+                        isch jetz fir mich e-n-Ewigkeit... wenn Sie wisste, wie
+                        gern ass ich Ihr' Tochter ha!... Nitt wohr, ich ka hit
+                        noch ku... in ere Stund?...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Lehn Sie mir doch nur dr Zit, fir...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Allons, Meister, allons, 's isch e Wort... ich kumm in
+                        ere Stund ku d'Antwort hole...<stage>(freidig)</stage> ich bi jetz dr
+                        glickligste Mensch vo dr Welt !<stage>(er springt im Herr
+                        Bemol an Hals un laüft derno dervo wie verruckt.)</stage></p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(schaüt em no. Fir sich)</stage>
+          <p>Was doch d'Liewe nitt macht!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Quand ces beaux pompiers)</stage>
+            <l>So git's kei Krankhet meh,</l>
+            <l>Kei Mensch ka die versteh,</l>
+            <l>Denn wenn se kunnt ku schliche,</l>
+            <l>Ka Kein üswiche!</l>
+            <l>Uf eimol packt's eim a,</l>
+            <l>Narràchtig wird me dra,</l>
+            <l>Doch desto g'scheidter wird me bol,</l>
+            <l>Wenn d'Krankhet wicht emol.</l>
+            <l>Un fir das</l>
+            <l>Wachst kei Gras,</l>
+            <l>Alle Lit mien dure!</l>
+            <l>'s isch ganz recht,</l>
+            <l>'s wàr sunscht schlecht,</l>
+            <l>Ab gieng 's Menscheg'schlecht!</l>
+            <pb n="62"/>
+          </lg>
+          <p>Endlig kunnt doch jetz mi Trinele ab dr Gasse un git
+                            erst noch e riche Dame derzüe!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(kunnt hinte ine links)</stage>
+          <p>Nitt wohr, ich ha se lang mache z'warte, Meister
+                        Bemol?... ich ha dr Meistere noch g'schwind ebbes
+                        miesse helfe... Se sotte-n-erst in ere Stund,
+                        anderthalwe ku, fir 's Klavier z'stimme. D'Jumpfer
+                        Scharfmesser will noch z'erst e Lection nàmme...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Desto besser...<stage>(fir sich)</stage> Ich bi jetz pressiert fir
+                        heim z'ku, 's Trinele wird lose...<stage>(er geht gege dr
+                        Thüre, kehrt sich dert un sàit)</stage>: Hans, Dich hat's!...
+                       <stage>(er geht hinte-n-üse rechts).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich, verwundert)</stage>
+          <p>Hans, dich hat's?... ich weiss doch nit dervo... Was
+                        soll das bedite?... ich glaüb dr Herr Bemol isch
+                        maschuke?... Doch jetz wàr's glaüb bol Zit, ass ich
+                        gieng geh mi Schoppe nàh... dr Meister isch scho lang
+                        gange... er meint als g'wiss, ich gang dra, wenn er am
+                        e Màntig sàit, er geht geh Zähn üszieh oder z'Oder
+                        lo... kasch dr ibilde!... in de Schoppe geht er geh
+                        z'Oder lo, un ich will's jetz o geh so mache...
+                        d'Mèistere ka wohl e wenig hiete... un 's kunnt doch
+                        Nieme-n-am e Màntig...<stage>(er geht hinte-n-üse rechts).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">D'Fraü Scharfmesser, derno d'Fraü
+                    Hagscheere un d'Fraü Sàgmühle.</stage>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser</speaker>
+          <stage>(kunnt hinte ine links un lüegt umenander)</stage>
+          <p>Aha! me sieht wohl, ass es Màntig isch... se sin wieder
+                        aIle furt, dr Meister mit sammt em G'sell, geh <pb n="63"/>Schoppe
+                        nàh!... do gàn se-n-als noch züer Üsred, 's kàm doch
+                        Nieme-n-an dem Tag!... Ich glaüb's scho, d'Lit hàn
+                        Angst, se wisse wohl, ass in de Balwierer ihre Hand
+                        zittert am e Màntig, un dr Kopf o!... 's isch nur emol
+                        Ein ku an dàm Tag un hat si welle lo rasiere, un do hat
+                        mi Mann, wo grad par hasard d'heim gsi isch, ebbes
+                        anders verstande in sim Tirmel, ebbes, wo sich rimt mit
+                        rasiere un do hat er halt das Instrument fire g'holt,
+                        un wo dr Ander das g'sàh hat, so hat er si so g'schwind
+                        as möglig dervo g'macht un siter hà mr ne nimmig
+                        g'sàh... me möcht grad verspritze !... zieht me-n-eso
+                        d'Pratike-n-a!... Un do beklage sie sich noch, se hewe
+                        nit meh z'thüe! doch still, 's kunnt glaüb ebber?...
+                       <stage>(me klopft a)</stage> Entrez!<stage>(d'Fraü Hagscheere kunnt hinte
+                        ine redits)</stage> Eh! buschur Fraü Hagscheere, wie geht's
+                        allewil... ich ha Sie scho lang nimmig g'sàh...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>'s geht güet, merci... un bi Ihre-n-o, wie-n-i g'hört
+                        ha!... i ha denkt, i müess Ere doch ku grateliere uf's
+                        Erb hi, wo Se g'macht hàn...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Ah! das isch schön vo Ihre, Fraü Hagscheere, sitzt Se ne
+                        wenig.</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Nei, merçi Fraü Scharfmesser, i ka nitt Iang bliwe...
+                        denkt Se nur, dà Morge bekumm i e Telegraph, wo-n-i an
+                        nit Boses dànkt ha!... wenn i mr nitt scho vorgnu g'ha
+                        hàtt, züe-n-Ere z'ku, so wàr i hit nitt üsgange, denn
+                        in ere Stund ung'fàhr, mit em Basler Zug, bekumm i e
+                        Visite... mi Schwester, wo-n-i scho lang nimmig g'sàh
+                        ha...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>So, so... wartet Se, ich will gli geh 's Kaffee rischte,
+                        denn i möcht Se nitt mit em Ieere Mage an dr <pb n="64"/>Isebahn lo
+                        geh... ich müess mi ewe selbst bediene hit mi Magd isch
+                        furt un d'andere kunnt erst morn... 's isch efange züe
+                        arg, was die fir Pretentione hàn...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Jo, un wànn als erst nitt emol alles mache, was me se
+                        heisst... Wo mi Tochter letscht e Nourrice brücht hat,
+                        so hat se welle d'Magd nàh derfir... jo, se hat denkt,
+                        se ka das wohl noch mache, se hatt jo nitt so viel
+                        z'thüe... meine Se, sie hätt's tho? nitt um alles,
+                        se-n-isch üs em Platz gange derwege... <stage>(Me klopft a.
+                        D'Fraü Sàgmühle kunnt hinte-n-ine rechts).</stage></p>
+        </sp>
+        <sp who="#frau_scharfmesser #frau_hagscheere">
+          <speaker>Fraü Scharfmesser un Fraü Hagscheere</speaker>
+          <stage>(mitnander)</stage>
+          <p>Eh buschur Fraü Sàgmühle... wie geht's?...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Was mache d'Rümetisse?...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Merci, merci, 's geht güet, se sin e wenig dämmt hit...
+                       <stage>(züer Fraü Scharfmesser)</stage> Ich kumm Ihre ku gratüliere...
+                        à propos... wisse Se d'Neüigkeit scho?...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Eh! nei... was isch, was isch?</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Wartet Se nur e-n-Aügesblick, Fraü Sàgmühle, i will nur
+                        g'schwind geh 's Kaffee mache... Ich bin uf dr Stell
+                        wieder do.... nàmme Se siter Platz,<stage>(Sie stellt Stiehl
+                        ane un geht hinte, üse links).</stage></p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(sitzt un packt ihre Strickete-n-üs)</stage>
+          <p>Tiens, wo ha-n-i jetz mi Messstrumpf?... Wo isch jetz mi
+                        Messstrumpf ane ku?... Dà ha-n-i jetz d'heim lige
+                        lo!... un i ha jetz grad dr Làmpe fertig un sott <pb n="65"/>abnàh
+                        !... Das isch jetz fatal!... ich müess 'n halt derno
+                        alege fir z'lüege...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Ich ha kei Arwet mitbrocht... i ha dànkt, wil doch nitt
+                        lang ka bliwe, so isch's si nitt derwerth.</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle</speaker>
+          <stage>(verwundert)</stage>
+          <p>.Ah! Sie blibt nitt do?...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Eh nei, mi Neveu, wo-n-i scho so lang nimmig g'sàh ha,
+                        wird jetz bol aku...<stage>(Se nimmt e Prise)</stage>. Will Se-n-o ne
+                        Prise, Fraü Sàgmühle?...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Nei, merci, me brücht nitt noch express Dràck in d'Nase
+                        z'stupfe, me hat scho g'nüe z'putze dra allewil!...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Wie Sie will... wenn i awer kei Arwet mitbrocht ha, so
+                        ha-n-i doch mi Traümbiechle un mine Karte mitbrocht<stage>(se
+                        packt alles üs).</stage></p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Sin se g'stàmpfelt, Ihre Karte, Fraü Hagscheere?</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Scht!... sage Se nit, ich ha's fir unnöthig g'funde...
+                        's sin ganz alte Karte... me sàch dr Stàmpfel doch nitt
+                        druf... ich ka mine Reüssite doch mache mit...<stage>(se lüegt ummenander)</stage>sage Se, Fraü Sàgmühle, das isch e Rüechene, die Fraü Scharfmesser, se isch jetz so rich uf eimol un nimmt nitt emol e Magd...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Un serviert eim in ere so ne abscheülige
+                        Balwiererstuwe!...</p>
+        </sp>
+        <pb n="66"/>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Un i wett, se hat nitt emol keine Kuglipfle züem
+                        Kaffee!...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser</speaker>
+          <stage>(kunnt ine mit eme Plateau mit Kaffee, Tasse, Zucker
+                        un Weckle druf)</stage>
+          <p>Do hà mr's jetz... 's isch g'schwind gange?...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere</speaker>
+          <stage>(züer Fraü Sàgmühle lislig)</stage>
+          <p>Was ha-n-i g'sàit, se hat keine Kuglipfle...<stage>(lüt)</stage> Awer
+                        Fraü Scharfmesser! Sie isch doch gar so gietig, Se hätt
+                        jo kei so grosse G'schichte brüche z'mache
+                        wege-n-uns...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Lehn Se doch... kämme Se jetz ku Platz nàh...<stage>(se stellt
+                        dr Tisch in d'Mittle un rischtet ne)</stage> Se hat vorig
+                        vo-n-ere Neüigkeit g'red, Fraü Sàgmühle... üse mit
+                        jetz, derwilst ass i 's Kaffee ischànk...<stage>(züer Fraü
+                        Hagscheere)</stage> hat Sie ne gern brün, Fraü Hagscheere?...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Jo, so ziemlig, Fraü Scharfmesser... so!... merci!...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Un Sie, Fraü Sàgmühle?...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Ich ha liewer viel Milch... me sàit, 's erhaltet dr
+                        Teint frisch... doch fir uf unser Neüigkeit z'ruck
+                        z'ku... denke Se nur, d'Fraü Firklammere hirothet
+                        wieder!...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Eh awer nei, 's wird nitt si!... do, nàmme Sie sich jetz
+                        Zucker.</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Eh dü liewe Zit, was awer Sie nitt sàit!...<stage>(se nimmt
+                        Zucker).</stage></p>
+          <pb n="67"/>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Se isch jo so alt!...<stage>(se hebt in dr Fraü Sàgmühle dr
+                        Zucker ane).</stage></p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Un eso' wiescht!... was mag das fir Ein si, wo die
+                        nimmt?</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Still, 's kunnt ebber d'Stege-n-owe-n-awe, ich müess
+                        wisse, wer das isch...<stage>(se springt an d'Thüre un macht
+                        se ne wenig uf un lüegt üse, derwilst profetiere
+                        d'Andere un thien no meh Zucker in ihr Kaffee)</stage> 's isch
+                        dr Schüester dr Herr Pechvogel, er geht geh Blaüer
+                        mache... O die Mànner, die Mànner, se thien eim nur
+                        alles verbutze... dà Morge bi-n-i dowe gsi bi-n-em, fir
+                        ebbes z'zahle un do hat er si noch beklagt... « I möcht
+                        nur wisse », hat er gsàit, « was das fir e Krankhet
+                        isch, wo eim am Màntig in de Glieder umme surrt; vom
+                        grosse Zeche bis in d'Hoor ine thüet alles wussle, me,
+                        meint bigoscht, me seig e-n-Omeisehüfe, » ich glaüb's
+                        scho...<stage>(unterbricht si)</stage> still, 's redt ebber dunte uf
+                        dr Stress', ich müess wisse, wer das isch<stage>(se laüft
+                        an's Fenster)</stage> 's isch nit, 's hat e Hund im e Kind in's
+                        Bei welle biss...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>O! die Hunde, 's isch efange ne wahrer Abscheü... me
+                        sieht nit meh as Hunde in de Gasse!... Sott me jetz
+                        lide, ass das Vieh ne so ummenander laüft... so hàn
+                        iwerall d'Nase, z'ferderscht, me sott gar keine lide uf
+                        dr Stross'!...</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Awer Fraü Sàgmühle, Sie isch doch' züe arg exigeant...
+                        ich mein doch, 's gàb noch andere un wichtigere
+                        Verbesserunge z'mache-n-as die... wenn ich emol in dr
+                        G'meinroth kàm.... Wott Se mr noch e Träpfle Kaffee
+                        ischenke, Fraü Scharfmesser?...</p>
+        </sp>
+        <pb n="68"/>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>G'wiss, Fraü Hagscheere<stage>(se schankt i)</stage> will Se o noch e
+                        Tässle, Fraü Sàgmühle?</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Ich nàmtigt noch e wenig Milch... 's isch vo wege-n-em
+                        Teint...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Still, 's kunnt ebber d'Stege-n-ufe... ich müess wisse,
+                        wer das isch<stage>(se geht an d'Thüre un lüegt üse)</stage> 's isch
+                        ebber, wo im Herr Pechvogel Schüeh bringt züem
+                        flicke... am e Màntig!... 's isch güet, ass er nitt
+                        d'heim isch, sunschst gàb's e-n- Unglick...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Un derno, Fraü Hagscheere, was gàb's derno, wenn Sie in
+                        dr G'meinroth kàm?</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Was es gàb?... ich will's Ene sage was es gàb!... Nitt
+                        wohr, mr hàn jetz e neüer Bassin? güet, worum thüet me
+                        jetz dr alte in der Stadt nitt züewerfe un profetiert
+                        dà schone Platz fir ebbes druf z'stelle? Ne Cirque züem
+                        Bispiel?... O! ich bi ganz vernarrt in d'Cirques.. wenn
+                        ich noch jung wàr, ich thàt 's rite glaüb o prawiere...
+                        ich wàr doch g'wiss schön uf eme Pferd.<stage>(Se nimmt e
+                        graziose Stellung un macht d'écuyère no).</stage></p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>raü Scharfmesser.</speaker>
+          <p>Sie möcht i jetz o noch sàh dur e Reif springe, Fraü
+                        Hagscheere?</p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <p>Jà, worum nitt?... i ha scho dur andere Sache miesse
+                        springe as dur e Reif un bi doch dure ku...</p>
+        </sp>
+        <sp who="#fràü_sàgmühle">
+          <speaker>Fràü Sàgmühle.</speaker>
+          <p>Awer Fraü Hagscheere, wie ka Sie ne so ebbes
+                        proposiere!... ich mein, me thàt doch besser, we me ne<pb n="69"/>
+                        Kapelle thàt ane stelle</p>
+        </sp>
+        <spGrp type="simultaneous">
+          <sp who="#fràü_sàgmühle">
+            <stage>(se rede alle drei mitnander)</stage>
+            <p>anstatt e Cirque.. das isch o noch eso ne gottlose
+                        Institution, wo me nit as Ärgerniss un Schand sieht
+                        drin un wo d'Owrigkeit gar nitt lide sott!...</p>
+          </sp>
+          <sp who="#frau_hagscheere">
+            <speaker>Fraü Hagscheere</speaker>
+            <stage>(züe glicher Zit)</stage>
+            <p>Jo doch ! e Kapelle! mr hàn jo scho ne paar Kapelle...
+                        un nitt emol ei Cirque!... 's müess e Cirque ane, ich
+                        thüe's nitt anderscht!...<stage>(D'Fraü Sàgmühle nimmt in dr
+                        Fraü Hagscheere ihre Tasse un hebt's ere an's Mül, ass
+                        se nimmig rede ka).</stage></p>
+          </sp>
+          <sp who="#frau_scharfmesser">
+            <speaker>Fraü Scharfmesser</speaker>
+            <stage>(züe glicher Zit)</stage>
+            <p>Ich thàt eher votiere, fir e-n-Espèce Phare ane z'stelle
+                        mit ere Lumière électrique, wo me kännt z'Nacht in alle
+                        Gasse un Hiser zinde mit, fir z'lüege, was drin
+                        vorgeht..</p>
+          </sp>
+        </spGrp>
+        <stage>G'sang (Trio)</stage>
+        <stage>D'Fraü Hagscheere fangt a, un wenn se-n-ihre zwei erste
+                        Zilte g'sunge hat, so fahrt se furt un d'Fraü
+                        Scharfmesser fangt a un wenn die ihre erste zwei Zilte
+                        g'sunge hat, so fangt d'Fraü Sàgmühle a).</stage>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere.</speaker>
+          <lg>
+            <l>Ne Cirque müess ane ku,</l>
+            <l>Das han-n-i mir vorgnu,</l>
+            <l>Scho g'nüe Kapelle hat's</l>
+            <l>'s wàr schad jo fir dr Platz,</l>
+            <l>Kei schönerer niene-n-as dà</l>
+            <l>Kännt me sàh!</l>
+          </lg>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <lg>
+            <l>Ne Phare wàr besser noch,</l>
+            <l>Das sieht e Jeder doch,</l>
+            <l>Wie-n-ich ne wünsche thüe,</l>
+            <l>Wàr's intressant genüe,</l>
+            <l>Do kännt me doch alles als sàh,</l>
+            <l>Was thàt g'schàh!</l>
+          </lg>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <lg>
+            <l>Am beste wird's doch si,</l>
+            <l>Me stellt d'Kapelle hi,</l>
+            <l>D'Welt isch verderbt genüe,</l>
+            <l>Fir was e Cirque derzüe?</l>
+            <l>Un züe heiter sàh isch o nit</l>
+            <l>Fir eüch Lit!</l>
+          </lg>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Still!... 's macht ebber 's Fenster uf dert àne, ich
+                        müess wisse, wer das isch!...<stage>(Se laüft an's Fenster un
+                        lüegt üse, derwilst thüet d'Fräu Sàgmühle ne Weckle in
+                        Sack stosse.)</stage></p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere</speaker>
+          <stage>(lüegt uf d'Uehre)</stage>
+          <p>Herrje!... jetz ha-n-i awer d'höchste Zit, wenn i will
+                        geh mi Brüeder abhole...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Thàt Se doch noch e wenig warte, Fraü Hagscheere, ich
+                        kumm derno o mit, dr Basler Zug hat viellicht Retard...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser</speaker>
+          <stage>(kunnt an Tisch z'ruck)</stage>
+          <p>'s isch dà Moler, wo dort àne si Zimmer hat... dà steht
+                        efange-n-uf!... un denke, isch er nitt im Hem' an's
+                        Fenster ku steh!...<stage>(D'Fraü Sàgmühle hebt d'Hànd vor 's
+                        G'sicht.)</stage></p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Das sin noch vo dàne, wo am e Màntig d'Farwe nitt
+                        känne-n-unterscheide... d'Fraü Firklammere ka si
+                        rischte, denn 's isch o ne Moler, wo se hirothet... wie
+                        heisst er doch wieder?... er hat hinte am Name ne
+                        Stiehl, sàll weiss i... un vorne... was hat er doch
+                        vorne?... was hat er doch vorne?... 's isch as wie...
+                        Pàm... Pàm...</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Pàmselstiehl?...</p>
+          <pb n="71"/>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>C'est ça, Herr Pàmselstiehl!... i ha doch g'wisst, ass
+                        es eso ebbes isch!</p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Eh!... das isch jo grad dà, wo do àne wohnt!... Nu jo,
+                        do ka si d'Fraü Firklammere rischte, dà wird ihre
+                        d'Hoor üs de-n-Aüge striche, dà Herr Pàmselstiehl!...
+                        er, wo nie ins Bett geht vor de Zwei am Morge ich,
+                        weiss es ewe, denn ich ka nie schlofe z'Nacht, so lang
+                        as i weiss, ass ebber üs dr Nochberschaft nitt d'heim
+                        isch... ich ka kei Aüg züe thüe, bis i weiss, wie se
+                        heim ku sin un wenn se heim ku sin un mit wem as se
+                        heim ku sin... doch still... me hört glaüb rede
+                        dowe!... ich müess wisse, wer das isch<stage>(se geht an
+                        d'Thure).</stage></p>
+        </sp>
+        <sp who="#frau_hagscheere">
+          <speaker>Fraü Hagscheere</speaker>
+          <stage>(züer Fraü Sagmühle)</stage>
+          <p>D'Fraü Scharfrnesser isch glaüb nur e wenig
+                        wunderfitzig!... Jetz müess i awer doch geh, wenn i an
+                        Isebahn will... kunt Se jetz mit, Fraü Sàgmühle?...</p>
+        </sp>
+        <sp who="#frau_sagmuhle">
+          <speaker>Fraü Sàgmühle.</speaker>
+          <p>Eh jo, i müess jetz doch o mache, ass i heim kumm...<stage>(se
+                        packe-n-uf).</stage></p>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Eh, was! wànn Se jetz scho heim?... Das isch jetz e
+                        kurze Visite gsi... kämme Se ne-n-andermol wieder...</p>
+        </sp>
+        <stage>G'sang (trio)</stage>        
+        <sp who="#frau_hagscheere #frau_sagmuhle">
+          <speaker>D'Fraü Hagscheere un d'Fraü Sàgmühle.</speaker>
+          <lg>
+            <l>Adie, mr wàrm jetz scheide,</l>
+            <l>Mr wànn jetz furt,</l>
+            <l>Wil's bi so G'legeheite</l>
+            <l>Gern spot als wurd.</l>
+            <l>Fraü Scharfmesser, lebt Se wohl,</l>
+            <l>Kàm Se züe-n-is o ne mol,</l>
+            <l>Lebt Se siter wohl. <stage>(bis)</stage></l>
+          </lg>
+        </sp>
+        <pb n="72"/>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <lg>
+            <l>Adie, wànn Sie jetz scheide,</l>
+            <l>Wànn Sie jetz furt,</l>
+            <l>Wil's bi so G'legeheite</l>
+            <l>Gern spot als wurd!</l>
+            <l>Lewe Sie denn beide wohl,</l>
+            <l>Nàchstens kumm i o ne mol,</l>
+            <l>Lewe Sie denn wohl.<stage>(bis)</stage></l>
+          </lg>
+          <stage>(D'Fraü Hagscheere un d'Fraü Sàgmühle gehn hinte üse rechts.)</stage>
+        </sp>
+        <sp who="#frau_scharfmesser">
+          <speaker>Fraü Scharfmesser.</speaker>
+          <p>Ich bi froh, ass se furt sin , .. mi Mann isch dowe, er
+                        süecht mi... ich will jetz das Dings z'àmme<stage>(se zeigt
+                        uf dr Tisch)</stage> neweg rüme, denn er ka d'Visite nitt lide.
+                       <stage>(Se nimmt 's Plateau un geht hinte üse links.)</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">Hans, derno Herr Scharfmesser.</stage>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(kunnt hinte ine rechts)</stage>
+          <p>Do bi-n-i jetz wieder... i ha doch nitt lang g'macht?...
+                        I ha küm dr Zit g'ha, sechs Schoppe z'Trinke un do
+                        ha-n-i dr Meister g'sàh heim geh un do ha-n-i mi halt
+                        gli üs em Staüb g'macht... Aha! ich ha Zit g'ha! do
+                        isch er jo scho.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser</speaker>
+          <stage>(kunnt hinte ino links)</stage>
+          <p>Hans, gang uf's G'meinhüs un frog, eb se Dr nitt wànn dr
+                        Klàpperstei e wenig lehne... de sàisch, 's seig fir mi
+                        Fraü... O! die Wibslit!... die Wibslit!...</p>
+          <pb n="73"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ohé! les petits agneaux)</stage>
+            <l>Hans, wenn dr Klapperstei</l>
+            <l>Wieder thàt regiere,</l>
+            <l>So thàte glich mir zwei,</l>
+            <l>Anstatt d'Lit rasiere,</l>
+            <l>D'Klapperstei-Fawrikation</l>
+            <l>Uf dr Stell afange;</l>
+            <l>Hans, do wàr z'erlange</l>
+            <l>Gwiss e schöner Lohn.</l>
+          </lg>
+          <lg>
+            <l>Denk, was es Lit jetz hat,</l>
+            <l>Wo sich nitt vertrage!</l>
+            <l>Un wo ihn so dur d'Stadt</l>
+            <l>Tàglig miesste trage!</l>
+            <l>'s wàr an eim allei nimm g'nüe.</l>
+            <l>Taüsig miesst me mache!</l>
+            <l>Wàr das nitt züem lache?</l>
+            <l>Hans, was sàisch derzüe?</l>
+          </lg>
+          <p>Ne Klapperstei-Fawrike thàte mr afange, Hans, das
+                            hat me doch no nitt hie un hitigstags miesst me
+                            viel ha, wenn er wieder Mode wàr... ich garantier
+                            Dr ass unser G'schàft nie thàt still steh.
+                        </p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>Allons, bon, dr Herr Scharfmesser hat wieder Mischbes
+                        g'ha mit siner Fraü.<stage>(lüt)</stage> Meister, sage Sie mr emol,
+                        was das sage will! "Hans dich hat's!"<stage>(er imitiert dr
+                        Herr Bemol).</stage></p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Bisch Dü eigentlig verruckt, Hans?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ich nitt, awer wohrschinlig der Herr Bemol... grad isch
+                        er do gsi, un das hat er mir züer Antwort gà, wo-n-ich
+                        ihm g'sàit ha, er soll in ere Stund ku 's Klavier
+                        stimme...</p>
+        </sp>
+        <pb n="74"/>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Si Fraü wird ne verruckt g'macht ha, Hans hiroth nitt...
+                        glaüb mir, 's sin alle Mànner unglicklig...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Sie hàn güet z'rede, Meister... nitt wohr, Sie hàn e
+                        Fraü?</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser</speaker>
+          <stage>(mit eme Sifzer)</stage>
+          <p>Jo, Gottlob... Isch Nieme do gsi, Hans, hat mi Nieme
+                        welle hole wàhrend ass ich furt gsi bi?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Nieme, Meister, as mi züekünftiger Schwiegervater... 's
+                        nimmt mi nur Wunder, was er g'ha hat...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Kei Mensch!... do isch's als frieiher anderscht
+                        gange!... un wo kunnt das her? ha-n-ich viellicht mine
+                        Kunde nitt güet bedient?... i glaüb das nitt, dr
+                        Meister Scharfmesser hat sich immer fir d'Menschheit
+                        ufg'opfert! Nei, das kunnt her, wil jetz alles eso
+                        schlecht geht. - D'Lit wànn jetz an allem Economie
+                        mache. 's losst sich Nieme nit meh üsrisse, se
+                        laüfe-n-eher Wuche lang umme mit eso Backe<stage>(er imitiert
+                        g'schwullene Backe)</stage>. Losst Einer d'Hoor schnide, so
+                        müess me se-n-ihm fast üsrupfe, ass se nitt so schnell
+                        wieder nohwachse. Viel Ichn der Bart steh, fir ass sie
+                        sich nimm mien lo rasiere... isch jetz das e-n-Art,
+                        sich so fingerlange Hoor züem Mül üse lo wachse? denn
+                        das wachst alles züem Mül üse!... Vom Schràpfe-n-un vom
+                        z'Oderlo isch gar kei Red meh... Oh! wo isch die schone
+                        Zit, wo me d'Lit noch iwer dr Läffel balwiert hat?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Me macht's jetz noch, Meister, awer uf e ganz andere
+                        Manier!...</p>
+          <pb n="75"/>
+        </sp>
+        <pb n="75"/>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Züem Unglick isch jetz o noch d'Konkürrenz eso gross...
+                        kunnt nitt Ein sich ku etabliere, do grad àne an mir,
+                        wo Sidezäpf feil hat!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Das isch jetz doch e wenig stark!.. glaübt denn emol ei
+                        Mensch, ass in de Lit Side züem Kopf üse wachst?...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Ich o ha als Zäpf g'macht, awer rechte... doch jetz
+                        geht's à nimm güet... Was ich als Hoor üsenander
+                        g'macht ha!... Jetz thüe-n-i nur noch dann und wann
+                        hinter miner Fraü ihre g'rothe!... Sag jetz, Hans, Dü,
+                        wo-n-eso ne Haarkünstler witt si.. ich wett, Dü weisch
+                        nitt emol, wie me ne Parricke heisst uf
+                        Milhüserditsch?..</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Parricke, parbleu, ich weiss nitt anders?..</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Das kunnt vom franzesche Wort « Perruque », awer 's
+                        ditsche... süech, Hans, süech . .. 's isch e Wort, wo
+                        achtezwanzig Büechstawe hat... weisch's nitt?..</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Nei, Meister.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Eh bien, los recht, e Parricke heisst me uf ditsch:
+                        «Kahlkopfverlegeheitsabhelfer.»</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Kahl.. was fir e-n-Abhelfer?..</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Kahl-kopf-ver-le-ge-heits-ab-hel-fer!</p>
+        </sp>
+        <pb n="76"/>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Enfin, 's isch mr eithüen, was fir e-n-Abhelfer... Was
+                        ich weiss, das isch, ass e Parricke e nützlig Ding
+                        isch, wo do no nitt fang ln Eirn 's Lewe g'rettet
+                        hat... Sie wisse doch g'wiss nitt wie, Meister... aha,
+                        süeche Se, Meister, süeche Se...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>'s kunnt mr jetz grad nitt i, awer i weiss, ass e
+                        Parricke alles im Stand isch...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Eh bien, ich will's Ene verzehle, Meister... Sie wisse
+                        da Amerikaner, wo do no nitt lang im Innere vo Afrika
+                        umme g'reist isch? Dà hat schint's keine Hoor meh g'ha
+                        un hat e schone rothe Parricke tràit. Am e schöne Tag
+                        awer isch e Truppe Wilde uf ihn los ku... Dàne hat
+                        wohrschinlig die Parricke in d'Aüge g'stoche un wil se
+                        g'meint hàn, das Ding sei ag'wachse, so hàn se ne halt
+                        glich welle scalpiere.. Doch wo-n-er das g'sàh hat, so
+                        hat er riehig si Parricke abzoge un hat se ne ane
+                        g'hebt, un do hat das die Wilde in eso ne Schrecke
+                        versetzt, ass se-n-alle z'àmme mit Schreie dervo
+                        g'loffe sin... Hein, Meister, was sage Se züe dem!...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Das isch e güete... Parricke gsi... A propos, Hans,
+                        hasch Dü hit dr Herr Mülkorb rasiert?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Jo Meister, wo-n-i vom Herr Pappedeckel ku bi..</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Das isch ewe noch Ein, wo mir getreü bliwe-n-isch.. 's
+                        isch awer o mi ältster Frind, mir sin scho mitnander in
+                        d'École primaire gange, züer Zit, wo dr Herr Bader noch
+                        Diràcter gsi isch... 's isch doch jetz 'scho lang!..
+                        wie isch me doch eso glicklig gsi in de junge Johre, do
+                        hat me keine Sorge-n-un kei Kummer kennt...</p>
+          <pb n="77"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(par la voix)</stage>
+            <l>Hans, wer denkt nitt an d'Jugendjohre,</l>
+            <l>Gits denn e Zit, we schöner isch,</l>
+            <l>Fir mich geht se g'wiss nie verlore,</l>
+            <l>Noch steht se vor mim Geist so frisch.</l>
+            <stage>Mitnander{</stage>
+            <l>So lang ass mir thien làwe,</l>
+            <l>Soll sie noch um uns schwàwe,</l>
+            <l>Wàr sie nur wieder do,</l>
+            <l>Wie wàre mir so froh,</l>
+            <l>Wàr sie nur wieder do,</l>
+            <l>Was wàr das fir e Làwe.</l>
+          </lg>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(en avant marchons)</stage>
+          <lg>
+            <l>Meister, so geht's halt,</l>
+            <l>Wird me noch so alt,</l>
+            <l>So vergisst me nit</l>
+            <l>Vo siner Jugendzit.</l>
+          </lg>
+        </sp>
+        <sp who="#hans #frau_scharfmesser">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>'s isch 's Friehjohr gsi vom Làwe,</l>
+            <l>Noch lang wird's eim umschwàwe.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Jà, Hans, das isch wohr... me-n-isch nie glickliger as
+                        in de Kinderjohre, dr Herr Mülkorb un ich hàn's als
+                        g'nosse... später si mr derno Müsikant gsi bim gliche
+                        Regiment un mr hatte sogar mitnander in's Conservatoire
+                        sotte ku...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>In das vo Burtzwiller.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Hein?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Nit, Meister, verzähle Se nur furt...</p>
+        </sp>
+        <pb n="78"/>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Un siter si mr allewil güete Frind gsi, mr spiele jetz
+                        noch beide im Orchester... er spielt 's Trombone à
+                        coulisse... kasch Dü 's Trombone à coulisse spiele,
+                        Hans?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>'s isch möglig, Meister, ich ha's halt noch nie
+                        prawiert... ich ka's viellicht, ohne ass ich's weiss...
+                        brücht me viel Blost?...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Alleweg mehr ass fir dr Dreiangel, Dü Schaüde.. awer
+                        wenn Dü ebbes lehre witt, Hans, so lehr Dü liewer 's
+                        Basson... das isch e schön Instrument!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Hat's nitt noch e-n-anderer Name?... me heisst's glaüb
+                        dr...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Sag's nitt, Dü Bengel!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Mirliton)</stage>
+            <l>Me mag noch so verschànde</l>
+            <l>Si Name-n-un si Ehr,</l>
+            <l>Vo alle-n-Instrumente</l>
+            <l>G'fallt's mir nur immer mehr.</l>
+            <l>Züe keim Andre bringt me-n-üse</l>
+            <l>So ne wunderschöner Ton,</l>
+            <l>Lehr Dü's, Hans, 's müess Dr nitt grüse</l>
+            <l>Un los nitt uf Spott un Hohn.</l>
+          </lg>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(Herr Scharfmesser imitiert 's Basson un
+                        accompagniert ne)</stage>
+          <lg>
+            <l>Züe keim Andre bringt me-n-üse</l>
+            <l>Sa ne wunderbarer Ton,</l>
+            <l>Drum will ich's nitt, 's thàt mr grüse</l>
+            <l>Vor em Spott un Hohn.</l>
+          </lg>
+          <pb n="79"/>
+          <p>G'wiss, Meister, ich wott das nitt spiele in ere
+                        Societät, ich thàt d'ganze Zit roth werde...<stage>(er nimmt
+                        Rasiermesser fir's abz'zieh)</stage></p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Awer 's Trombone à coulisse, Hans, Dü weisch nitt, wie
+                        das unag'nehm isch!... frog emol dr Herr Mülkorb! Ne
+                        mol hà mr e Ball g'spielt un sin uf ere Espèce Laüwe
+                        g'sesse, wo awer züe arg eng gsi isch, so dass me hat
+                        miesse ne Loch der dur sàge, fir ass dr Herr Mülkorb si
+                        Coulisse derdur hat känne manövriere, un do hàn als
+                        d'Büewe passt vor em Loch, un wie d'Coulisse-n-üse ku
+                        isch, so hàn se ne Stàckle derdur g'stosse un hàn's
+                        schön iwer's Loch g'hebt.. ass er se nimmig hat känne
+                        z'ruck zieh... meinsch, das isch als ag'nehm mittle im
+                        e Tanz!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Das isch noch nit, Meistër, ich ha noch ebbes bessers
+                        g'sàh... ziehn Sie mir das Messer e wenig ab, ich
+                        will's Ene verzehle. Diemol hat d'Fanfare e-n-Üsflug
+                        g'macht uf Zimmerse, un do hàn se dert' natirlig uf em
+                        Platz e Stückle g'spielt, wo grad par hasard 's
+                        Trombone e grosser Solo drin z'mache g'ha hat, wo
+                        ziemlig difficil müess gsi si, denn er hat miesse fames
+                        manövriere, eimol isch er ufe mit siner Coulisse, derno
+                        wieder awe so wit as si Arm g'làngt hat<stage>(er imitiert
+                        ne)</stage> un so furt. Unter andere Züeschaüer isch o sone
+                        rechter Büreknewel dert g'stande un hat idem Trombone e
+                        Zit lang mit b'sunderem Interesse züeglüegt... Uf eimol
+                        springt er uf ne züe un schreit: « Das wàr doch dr
+                        Teufel, we me das Ding nitt kännt do üsebringe, » un
+                        risst em si Coulisse unte üse, mittle in sim Solo!</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Do siesch jetz, Hans!...</p>
+        </sp>
+        <pb n="80"/>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>'s isch eithüen, Meister, 's Basson gieng mr noch viel
+                        weniger.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Prawier's emol... De kasch's viellicht, ohne ass De's
+                        weisch... Doch mit allem dem vergiss ich, ass ich sott
+                        im Herr Endschüeh sim Hund geh si Bei ischindle... er
+                        hat's broche hit... ich will g'schwind geh lüege, was
+                        z'mache-n-isch<stage>(er geht gege dr Thüre rechts, kunnt
+                        awer glich wieder z'ruck)</stage>. A propos, Hans, Dü weisch,
+                        die Badbittig, wo mr scho so lang im « Express » hàn,
+                        fir se z'verkaüfe? Eh bien, hit ha-n-i jetz endlig e
+                        Liebhawer g'funde... 's isch eso wit fertig g'macht, dr
+                        Pris un alles, nur ha-n-i g'sàit, me sol1 ku d'Antwort
+                        hole do, nitt ass se-n-ebbe mi Fraü o verkaüft hätt züe
+                        glicher Zit... verstehsch, Hans?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Jo, Meister.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Wenn ich ebbe nitt do bi, we me kunnt ku froge, so
+                        sàisch nur, me kännt se ha... ich bi froh, wenn ich
+                        se-n-emol abha... se-n-isch züe arg schwer un hat eso
+                        ne possige Form... ich ha se nitt känne lide... Doch
+                        jetz müess i geh mi Bei ischindle<stage>(er geht hinte-n-üse
+                        links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt</head>
+        <stage type="characters">Hans, derno Herr Lindeblüescht.</stage>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>('s isch Hochzit uf mi arme Treü)</stage>
+            <l>'s git doch kei Handwerk, wie's Balwiere,</l>
+            <l>Me müess e wahrer Dokter si,</l>
+            <l>Fir ass ich's ka fir mich furtfiehre,</l>
+            <l>Müess ich noch schaffe brav druf hi.</l>
+            <pb n="81"/>
+            <l>Scho weiss i, wie me d'Zähn müess nàh,</l>
+            <l>Ka schràpfe-n-un Dampfbäder gà. <stage>(bis)</stage></l>
+            <l>Doch thüet me d'Lit in d'Hitz als triwe,</l>
+            <l>So müess me se o z'Oder lo,</l>
+            <l>Un müess noch, we me b'riehmt will bliwe,</l>
+            <l>Fir d'Aüge-n-als studiere-n-o;</l>
+            <l>Denn viel Lit hàn se-n-in de Schüeh,</l>
+            <l>Mit sàlle hà mr gar viel z'thüe! <stage>(bis)</stage></l>
+          </lg>
+          <p>Sogar Vögel müess me känne üsstopfe un de Lit Hoor mache z'wachse, wo se keine hàn, un wo se
+                            hàn, müess me's ihne abrasiere... grad wie dr Hans im Schnokeloch!...<stage>(er schlat si an d'Stirne)</stage> dr Herr Bemol welle sage mit sim « Hans, dich hat's,» 's wird mr als uf eimol ganz bang!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(kunnt hinte-n-ine rechts, züem Hans)</stage>
+          <p>Sage mr, güeter Frind,<stage>(er lüegt ummenander)</stage> isch dr
+                        Herr Scharfmesser nitt do?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Jetz grad nitt... er isch geh im Herr Endschüeh ebbes
+                        ischindle. - Was wàr Ihne g'fällig?...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Ich hätt ebbes mit em z'rede,<stage>(fir sich)</stage> 's isch halt
+                        noch e wenig z'frieh, awer ich ha's nimmig känne
+                        üshalte...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>('s kunnt e Vogel)</stage>
+            <l>Bol laüf ich jetz umme,</l>
+            <l>Ne Stund wie verruckt,</l>
+            <l>Doch jetz bin i kumme,</l>
+            <l>Dohi hat's mi druckt.</l>
+            <l>Ich müess jetz doch wisse,</l>
+            <l>Isch's «nei» oder «jo,»</l>
+            <l>Ich ka uf mi G'wisse</l>
+            <l>Nimm lewe-n-eso!</l>
+          </lg>
+          <pb n="82"/>
+          <p><stage>(Züem Hans)</stage>Ich soll ewe ku ne Antwort hole.. Ich kumm halt derno wieder, wenn er d'heim isch... do isch mi Karte <stage>(er git im Hans si Visitekarte).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <p>Ich ka Ihne selbst Üskunft gà, wenn Sie nitt gern noch
+                        emol kämme... Dr Meister hat g'sàit, Sie kännte se
+                        ha...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(verwundert)</stage>
+          <p>Was, dr Herr Scharfmesser hat Eüch ebbes g'sàit
+                        dervo?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Grad vor ebb er furt isch... er hat g'sàit, im Fall, ass
+                        er nitt do seig, wenn Sie kämme ku froge, so soll ich
+                        Ihne sage, Sie kännte se ha, wie eher, wie liewer...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Par exemple?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Er isch froh, wenn er se-n-emol ab hat!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch jetz doch e wenig stark!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Er hat se-n-ewe nie ràcht kanne lide... se-n-isch halt e
+                        wenig massiv... un derno, dr Meister sàit allewil, se
+                        seig nitt güet formiert... ich find's nitt...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(rasend)</stage>
+          <p>Ah, so, eh bien, merci... Das isch mr jetz emol e schöne
+                        G'schichte!... un ich, wo... enfin, 's isch güet, ass
+                        ich's weiss!...<stage>(er nimmt si Hüet un si Stock un laüft
+                        dervo wie verruckt).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(rieft em no)</stage>
+          <p>Me ka se-n-E schicke, wenn Sie pressiert sin...<stage>(fir
+                        sich)</stage> Das isch jetz noch e possiger Heiliger... ich <pb n="83"/>
+                        will jetz glich e Porte-faix schicke mit, denn ich
+                        glaüb, ass in Dem e Bad nitt iwel thàt thüe?... Isch
+                        denn alles verruckt hit?... Züem Glick hat er si
+                        Adresse do g'lo<stage>(er nimmt d'Adresskarte un geht
+                        hinte-n-üse links).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage>Herr Bemol, Hans, derno Peter.</stage>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(kunnt hinte ine rechts, ganz verstört un bleich.
+                        Fir sich)</stage>
+          <p>Er isch nimmig ku... un doch isch's jetz scho mehr ass e
+                        Stund... Un ich, wo scho iwerall verzählt ha, ass mi
+                        Trinele ne Millionär hirothet!... Züem Unglick weisst
+                        mi Tochter nitt emol, wer's mag gsi si, denn 's hàn
+                        ihre ewe scho ne paar 's hirote versproche...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(kunnt hinte ine links)</stage>
+          <p>So, jetz isch se abg'reist... Tiens, dr Herr Bemol!<stage>(fir
+                        sich)</stage> dà lüegt wiescht dri... décidément er isch krank,
+                        dà Mann,<stage>(lüt)</stage> wie gehts Meister Bemol?... Se schine mr
+                        hit nitt ganz wohl!... oder fehlt ebbe im Trinele ebbes?...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(fir sich, ohne uf dr Hans Achtung z'ga)</stage>
+          <p>Er kunnt viellicht noch... er ka jo noch ku... er isch
+                        viellicht ufg'halte worde... ich will glaüb glich
+                        wieder heim geh...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>Wenn's e Dokter isch vo Staffelfelde, wo-n-er erwartet,
+                        so bebriff ich, ass er ungeduldig isch...<stage>(lüt)</stage> Voyons,
+                        Herr Bemol!</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Hein!...<stage>(schlat sich an d'Stirne)</stage> Jà so, ich soll jo 's
+                        Klavier stimme<stage>(züem Hans)</stage> Ka-n-i glich afange? ..</p>
+        </sp>
+        <pb n="84"/>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ah! er kunnt wieder züe si...<stage>(lüt)</stage> Wenn Sie wànn... 's
+                        Klavier isch dert<stage>(er zeigt d'Türe uf dr Site links un
+                        süecht ne ine z'schiewe).</stage></p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich will mi glich an d'Arwet mache, ass i glich wieder
+                        ka geh... ich ha du reste im Trinele g'sàit, es soll mr
+                        ne do ane schicke, wenn er mit mir selbst noch rede
+                        will...<stage>(er geht ine. Hans lehnt d'Türe-n-a).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ich bi froh, ass ich ne ab ha!.. 's isch mr
+                        efange-n-Angst worde... wenn ich gieng geh ne Dokter
+                        hole?.. Was steckt denn eigentlig in dr Luft?... d'Lit
+                        werde glaüb alle g'schittelt... Dà mit siner Badbittig
+                        hat sich scho so sunderbar ufg'fiehrt.. wenn's nur nitt
+                        o noch an mich kunnt!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Mit dem Pfeil)</stage>
+            <l>Was soll das bedite?</l>
+            <l>Ich glaüb wirklig 's spuckt,</l>
+            <l>Wo me hi tüet schrite,</l>
+            <l>Sin d'Lit hit verruckt!</l>
+            <l>'s tüet mir nur halwer g'falle,</l>
+            <l>Ich mag sàh, wer ich will,</l>
+            <l>So isch's mr,hàn se-n-Alle</l>
+            <l>E Sprosse glaüw-i z'viel.</l>
+          </lg>
+          <lg>
+            <l>Tüet das d'Luft verbreite,</l>
+            <l>Oder wo kunnt's her?</l>
+            <l>Ich möcht's ewe meide,</l>
+            <l>Wenn's z'vermeide wàr.</l>
+            <l>Ich möcht mi Kopf noch b'halte,</l>
+            <l>Ich brüch ne, mi Verstand,</l>
+            <l>Fir ass ich ka erhalte</l>
+            <l>Im Trinele si Hand.</l>
+          </lg>
+          <pb n="85"/>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter</speaker>
+          <stage>(kunnt hinte-n-ine rechts, züem Hans)</stage>
+          <p>Ne schön Cumpliment vo mim Herr un er möcht gern
+                        d'Antwort wisse...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Was fir e-n-Antwort?</p>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter.</speaker>
+          <p>Ich weiss nitt mehr... er hat g'sàit, Ihr wisste's
+                        scho...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(kunnt üs dr Nàwesstuwe ku stürze. Züem Hans)</stage>
+          <p>Ah! endlig!... do isch's em denn doch Ernst gsi!... Sage
+                        nur in Eürem Herr, mr seige z'friede... ich kännt ihm
+                        halt nitt noch e-n-Eh'stir derzüe gà... awer er wird
+                        sàh, ass ihn dà Schritt g'wiss nie reie wird...</p>
+        </sp>
+        <sp who="#peter">
+          <speaker>Peter</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch e possige Cummission<stage>(lüt)</stage> ich will's üsrichte
+                       <stage>(er geht hinte-n-üse rechts).</stage></p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(geht wieder in's Nàweszimmer, unter dr Thüre kehrt
+                        si mu, züem Hans)</stage>
+          <p>Hans, Dich hat's !<stage>(er geht ine).</stage></p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">D'Gliche, derno Herr Lindeblüescht un
+                    Herr Scharfmesser.</stage>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(hebt dr Kopf)</stage>
+          <p>Do kumm i nimmig drüs!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(kunnt mit schnelle Schritte hinte ine rechts. Züem
+                        Hans zornig)</stage>
+          <p>Sin Ihr eigentlig vo Sinne, güeter Frind, ass Ihr mir e
+                        Badbittig schicke... das isch e schlechter Spass vo
+                        Eüch, ass Ihr's nur wisse...</p>
+        </sp>
+        <pb n="86"/>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Sie sin jo ku froge drum!</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Das isch jetz wieder emol güet!... ich kumm ku froge um
+                        d'Hand vom Herr Scharfmesser siner Tochter un me
+                        schickt mr e Badbittig!... Ihr hàn dr Verstand verlore,
+                        's ka nitt anderscht si!...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich).</stage>
+          <p>Ich glaüb's efange selbst, wenn's eso furt geht.</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser</speaker>
+          <stage>(kunnt hinte-n-ine links)</stage>
+          <p>Was isch, was git's... was isch das fir e Làrme?..</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>'s isch dà Herr, Meister, wo Sie ihm Ihre Badbittig
+                        verkaüft hàn... er pretantiert jetz, er heb um Ihre
+                        Tochter g'frogt un nitt um Ihre Badbittig...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser</speaker>
+          <stage>(b'schaüt dr Herr Lindeblüescht).</stage>
+          <p>Ich glaüb, De bisch g'schittelt, Hans, ich kenn jo dà
+                        Herr gar nitt.</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dr Meister?... was soll das sage?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(verzwifelt)</stage>
+          <p>Enfin, ich weiss nitt, was in dem Hüs vorgeht!... uf
+                        jedefall blib ich nimmig do... ich künd uf, Meister, 's
+                        isch mir nitt z'wohl!...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(kunnt zornig üse. Züem Herr Scharfmesser)</stage>
+          <p>Sie mien ihm<stage>(er zeigt uf dr Herr Lindeblüescht)</stage> Ihre
+                        Tochter nitt gà!... er hat mr mine hit o scho
+                        g'heische..</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(züem Herr Bemol)</stage>
+          <p>Ah, do isch jetz endlig dr Herr Scharfmesser. Voyons,
+                        wànn Se mir jetz expliziere...</p>
+          <pb n="87"/>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol.</speaker>
+          <p>Ich dr Herr Scharfmesser?<stage>(fir sich)</stage> Ah! jetz wird's mr
+                        klar.. er hat mich fir dr Herr Scharfmesser gnu.. Adie
+                        mi schöner Traüm!..</p>
+        </sp>
+        <sp who="#herr_scharfmeser">
+          <speaker>Herr Scharfmeser</speaker>
+          <stage>(züem Herr Lindeblüescht)</stage>
+          <p>Ah ça,... güeter Frind wànn Sie eigentlig mi Badbittig
+                        oder mi Tochter?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Das isch kei Balwiererstuwe meh, das isch e
+                        Narrehüs!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Das isch doch jetz iwer's Bohnelied!... wer isch jetz
+                        eigentlig do Herr un Meister im Hüs?...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Ich.</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <stage>(ditet uf dr Herr Scharfmesser).</stage>
+          <p>Dà do!<stage>(mit Verachtung)</stage> Er kennt nitt emol dr Herr
+                        Scharfrnesser!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht</speaker>
+          <stage>(zeigt uf dr Herr Bemol)</stage>
+          <p>Un dà Herr dert?</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Das isch dr Herr Bemol, unser Klavierstimmer...</p>
+          <stage>(Herr Lindeblüescht bricht in e lüt G'làchter üs;
+                        Herr Scharfmesser un Hans lüege ne verwundert a.)</stage>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(züem Herr Scharfmesser)</stage>
+          <p>Ich sieh scho, ich müess Ihne das Ding expliziere... mr
+                        hàn is alle trumpiert... Wil ich dà Morge do g'warte
+                        ha, fir z'wisse, eb ich 's Klavier ka stimme, so isch
+                        dr Herr Lindeblüescht ku, un wil er glaübt hat, ich
+                        seig dr Herr Scharfmesser, so hat er mir mi Trinele
+                        g'heische... Dr Rest isch licht z'errothe...</p>
+        </sp>
+        <pb n="88"/>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Verzeihe Se mr, Herr Scharfmesser, ass ich mich eso
+                        trumpiert ha... derft ich Sie viellicht jetz doch um
+                        d'Hand vo Ihrer Tochter bitte?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Un ich, wo ufkünde ha!... jetz kumm i nitt an
+                        d'Hochzit...</p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <stage>(züem Herr Lindeblüescht).</stage>
+          <p>Obschon ich Sie nitt persönlig kenn', so isch mir doch
+                        Ihre Familie nitt unbekannt, un wenn Sie güete Absichte
+                        hàn un mi Tochter z'friede-n-isch...</p>
+        </sp>
+        <sp who="#herr_bemol">
+          <speaker>Herr Bemol</speaker>
+          <stage>(züem Herr Lindeblüescht)</stage>
+          <p>Jà, un mi Trinele, wo Sie jetz Schuld sin, ass si
+                        Repütation verlore-n-nisch?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(klàglig)</stage>
+          <p>Bin ich denn nitt do, Herr Bemol?... Ich will se jo gern
+                        finde, die Repütation, un z'ruckgà... denn 's mag geh,
+                        wie's will, so verloss ich 's Trinele nitt!...</p>
+        </sp>
+        <sp who="#herr_lindebluescht">
+          <speaker>Herr Lindeblüescht.</speaker>
+          <p>Eh bien... wil ich denn schuldig bi, so will ich, fir's
+                        z'vergüete, im Herr Scharfrnesser si G'schàft abkaüfe
+                        fir dr Hans, mit dr Cundition, ass er d'Jumpfer Bemol
+                        hirothet...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(züem Herr Bemol)</stage>
+          <p>So Cunditione ka me scho anàh... was sage Sie derzüe,
+                        Herr Schwiegervater<stage>(se gàn enander d'Hand).</stage></p>
+        </sp>
+        <sp who="#herr_scharfmesser">
+          <speaker>Herr Scharfmesser.</speaker>
+          <p>Bravo!... un do mache mir beide Hochzite mitnander!...</p>
+          <pb n="89"/>
+          <lg>
+            <head>G'sang</head>
+            <stage>(zim bum rataplan)</stage>
+            <l>Uf d'Hochzit hi</l>
+            <l>Wà mir Eüch jetz ilade,</l>
+            <l>'s müess lustig si,</l>
+            <l>Wenn Viel sin, ka's nit schade.</l>
+            <l>Drum rischte d'Bei</l>
+            <l>Un b'stell Müsikante,</l>
+            <l>Denn drei allei</l>
+            <l>Wà mir ha, Gross un Klei',</l>
+          </lg>
+        </sp>
+        <sp who="#hans #herr_scharfmesser #herr_lindebluescht #herr_bemol">
+          <speaker>Mitnander.</speaker>
+          <lg>
+            <l>Zim hum rataplan,</l>
+            <l>Müsikante wà mr ha,</l>
+            <l>Zim hum rataplan,</l>
+            <l>Müsik wà mr ha.</l>
+          </lg>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

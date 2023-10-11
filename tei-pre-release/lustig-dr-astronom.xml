@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">D'Singstund</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-126"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">D'Singstund</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="jumpfer_wachtle" sex="F">
+            <persName>Jumpfer WACHTLE
+                    </persName>
+          </person>
+          <person xml:id="herr_buechfink" sex="M">
+            <persName>Herr BÜECHFINK</persName>
+            <persName type="variant">Kàmifeger</persName>
+          </person>
+          <person xml:id="herr_lerch" sex="M">
+            <persName>Herr LERCH
+                    </persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#jumpfer_wachtle">
+          <role>
+            <persName>Jumpfer WACHTLE
+                        </persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_buechfink">
+          <role>
+            <persName>Herr BÜECHFINK
+                        </persName>
+          </role>
+        </castItem>
+        <castItem corresp="#herr_lerch">
+          <role>
+            <persName>Herr LERCH
+                        </persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Das isch jetz emol e Wunder, ass dr Herr Lerch no nitt
+                        do isch ku si Visite mache... ich erwart ne sicher
+                        hit... mir singe-n-als ewe mitnander... er singt
+                        pràchtig, dr Herr Lerch, un accompagniert is noch
+                        derzüe uf em Klavier... d'Müsik un 's G'sang geht mr
+                        ewe vor allem, b'sunders, wenn's recht sentimental
+                        züegeht... drum süech ich so viel as möglig
+                        Bekanntschaft z'mache mit Müsikante... Ich ha derno
+                        noch dr Herr Büechfink, wo kunnt... awer am e-n-andere
+                        Tag!... dà singt nitt so güet, awer er spielt besser
+                        Klavier... ich ha se beide gern... als Müsikante... nur
+                        isch 's fatale dervo, ass se mr beide dr Hof mache...
+                        ich ka se doch nitt beide hirothe... un nimm ich einer,
+                        so blibt dr andere furt, das isch klar!... se sin
+                        jaloux iwernander as wie Tiger... ich weiss do kei
+                        Üsweg... ich süech se halt so lang as möglig
+                        üsez'schifle... wenn ich als hör, ass se wànn Ernst
+                        mache, so sag ich als gli «Herr Lerch, oder Herr
+                        Büechfink, d'Singstund isch fertig» un mach mich
+                        dervo... ich nenn ewe das mi Singstund... doch, do
+                        kunnt jetz dr Herr Lerch...<stage>(me klopft a)</stage> entrez!...
+                    </p>
+          <pb n="545"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage>Jumpfer Wachtle, Herr Lerch, derno dr Kamifeger.
+                    </stage>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Jumpfer Wachtle, ich wünsch Ere ne güeter Morge... ich
+                        bin e wenig spot hit... ich ha noch miesse mi böser
+                        Finger verbinde...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Siter wenn hàn Sie ne böser Finger?</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Scho drei Tàg... 's isch glaüb dr Umlaüf... un grad noch
+                        am Zeigfinger an dr rechte Hand...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Se känne-n-is awer doch e wenig accompagniere?...</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Was denkt Se... Se sieht jo, ass ich ne verbunde ha...
+                        ich wott schön Dings mache!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Un ich ha mich eso g'freit fir Müsik z'mache!... unsre
+                        schöne Romance do, wo mr hätte känne singe!
+                    </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Ich ka jo doch singe, wenn ich scho dr Finger verbunde
+                        ha... mir singe-n-ohne Klavier!
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Das geht nitt, Herr Lerch!... 's hat jo kei Art
+                        eso!...
+                    </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Thàt Sie-n-emol prawiere z'accompagniere... 's isch
+                        jo-n-eso licht, das Lied...
+                    </p>
+        </sp>
+        <pb n="546"/>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Derno ka-n-ich nitt güet singe... ich müess gar
+                        ufpasse... ne so ha-n-ich kei G'nuss dervo...
+                    </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Was dr Kückück's hört me nur o fir e Làrme do nàwes in
+                        dr Wand d'ganze Zit?
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>'s isch dr Kàmifeger, wo 's Kàmi üsrackelt... mien Sie
+                        jetz grad e böser Finger ha... me meint grad, Sie
+                        mache's express...
+                    </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Awer Jumpfer Wachtle!... wie ka Sie nur eso ebbes
+                        sage... ich, wo dur's Fir gieng, fir Ihre ne Freid
+                        z'mache... wenn ich nur ebbes wisse thàt, wo-n-is kännt
+                        accompagniere...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle</speaker>
+          <stage>(fir z'foppe)</stage>
+          <p>Dr Kàmifeger viellicht im Kàmi dert....</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Tiens... ne Idee!... grad gestert hat me mir verzählt,
+                        ass e Kàmifeger hie seig, wo Klavier spiele ka... wer
+                        weisst... 's isch viellicht grad dà...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Hà hà hà... ne Kàmifeger am Klavier!</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Sie lacht!... ich, versicher Se, me hat mr g'sàit, dà
+                        Mann seig als schint's frieiher in dr Höche gsi un seig
+                        derno uf eimol awe ku...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Ich zwifel nitt dra... alle Kàmifeger, wo in dr Höche
+                        gsi sin, kämme-n-als wieder awe...
+                    </p>
+          <pb n="547"/>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Sie versteht mich nitt... ich mein, vor ebb er Kàmifeger
+                        gsi isch... ich will en emol froge...<stage>(er macht
+                        d'Thüre-n-uf hinte un rieft üse)</stage> He Kàmifeger!
+                    </p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Kàmifeger</speaker>
+          <stage>(üs em Kàmi)</stage>
+          <p>Was b'liebt?...</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Kännte-n-Ihr uns viellicht e wenig accompagniere?..</p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Kàmifeger.</speaker>
+          <p>Wohi... ins Wirthshüs?...</p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Do hà mr's!...</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>E nei... ich mein, eb Ihr viellicht känne ne wenig
+                        Klavier spiele?
+                    </p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Kàmifeger.</speaker>
+          <p>E wenig, jo... ich bi awer nitt stark!</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Güet, so kämme nur awe... 's gitt nitt difficil's
+                        z'spiele...<stage>(züer Jumpfer Wachtle)</stage> was ha-n-i g'sàit...
+                    </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Das isch awer jetz ganz merkwürdig!<stage>(Dr Kàmifeger kunnt
+                        hinte-n-ine, er hat dr Hüet iwer d'Aüge un e schwarz
+                        Tüech iwer Mül un Nase bunde)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Do setze-n-i ans Klavier... mr wann emol lüege was Ihr
+                        känne<stage>(dr Kàmifeger verneigt si, legt dr Bese-n-ufs
+                        Klavier, sitzt dra un fangt a z'spiele)</stage>.
+                    </p>
+          <pb n="548"/>
+        </sp>
+        <stage>G'sang</stage>        
+        <sp who="#herr_lerch #jumpfer_wachtle">
+          <stage>(Herr Lerch un Jumpfer Wachtle mitnander.)</stage>
+          <lg>
+            <l>Wenn ich 's Herz will verschenke,</l>
+            <l>Sa gib ich's in dem nur,</l>
+            <l>Wo-n-ich ka sicher denke,</l>
+            <l>Ass 's Glick uns lacht derdur;</l>
+            <l>Wer 's Eh'band verbindet</l>
+            <l>Un umwindet,</l>
+            <l>Müess finde si Glick</l>
+            <l>In dem G'schick;</l>
+            <l>Denn sunscht thüet's verleide</l>
+            <l>Bol in beide</l>
+            <l>Un 's git, anstatt Freid,</l>
+            <l>Als viel Leid!</l>
+            <l>Wenn d'Liewe nitt b'steht</l>
+            <l>Un vergeht,</l>
+            <l>So git's als viel Leid,</l>
+            <l>Anstatt Freid,</l>
+            <stage>{bis</stage>
+            <l>Wenn ich 's Herz will verschenke,</l>
+            <l>So gib ich's in dem nur,</l>
+            <l>Wo-n-ich ka sicher denke,</l>
+            <l>Ass mir hàn derdur</l>
+            <l>Glick un Freide</l>
+            <l>Fir uns beide.</l>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Sie.</speaker>
+          <lg>
+            <l>Wenn eüch d'Liewe-n-als thüet winke,</l>
+            <l>Lehn se nitt voriwer geh,</l>
+            <l>D'Jugend zieht mit Schritt, mit flinke,</l>
+            <l>Un z'ruck kunnt se nimmig meh.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Er.</speaker>
+          <lg>
+            <l>Drum soll me profetiere</l>
+            <l>Un soll Hand in Hand marschiere!</l>
+            <stage>(er will ere d'Hand nàh, se stosst ne z'ruck)
+                        </stage>
+            <pb n="549"/>
+            <l>D'Jugend zieht mit Schritt, mit flinke,</l>
+            <l>Un z'ruck kunnt se nimmig meh.</l>
+            <l>Wenn ich 's Herz etc.</l>
+          </lg>
+          <stage>(Dr Kàmifeger blibt am Klavier sitze un blättert
+                            in dr Müsik.)
+                        </stage>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch</speaker>
+          <stage>(züer Jumpfer Wachtle)</stage>
+          <p>Wie findet Sie ne?</p>
+          <stage>(er zeigt uf dr Kàmifeger.)</stage>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Wisse Se, ass er erst noch güet spielt!</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Weisst Sie awer, ass Sie jetz o-n-efange güet singt,
+                            Jumpfer Wachtle!...
+                        </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Ich's e Wunder mit eme so ne Lehrmeister, wie Sie
+                            einer sin!
+                        </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Wenn's awer eso furtgeht, so wird Se mich jetz bol
+                            nimmig brüche fir Lehrmeister, Jumpfer Wachtle...
+                            was soll ich derno mache... kännt Se mich viellicht
+                            nitt fir ebbes anders brüche... fir Ihre Mann züem
+                            Exempel?...<stage>(Dr Kàmifeger fangt a z'spiele.)</stage></p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Tiens... im Herr Büechfink si Lieblingslied...</p>
+          <stage>(se singt, dr Kamifeger accompagniert)</stage>
+          <lg>
+            <l>Im rüche Herbstwind kunnsch ku fliege,</l>
+            <l>Wohi, arm Blättle, thüesch dü ziege</l>
+            <l>In dinre Noth?</l>
+            <l>Fir immer isch di Pracht verschwunde,</l>
+            <l>Vom Wind verfolgt irrsch dü do unte</l>
+            <l>Verwelkt un tot!</l>
+            <l>Wo d'Vogelschaar noch mit Vertraüe</l>
+            <l>Isch in dim Schutz ku 's Nestle baüe,</l>
+            <l>Wie bin ich froh,</l>
+            <pb n="550"/>
+            <l>Als einsam in di Schatte g'sesse</l>
+            <l>Un ha im stille Wald vergesse</l>
+            <l>Mi Leid eso.</l>
+            <l>Hit uf dr Erde, uf dr kalte,</l>
+            <l>Thüesch dü jetz mine Schritt ufhalte</l>
+            <l>Un dumpf verhallt,</l>
+            <l>Ringsum, wo sie mich ane trage,</l>
+            <l>As wie ne Stimm, wo still thàt klage</l>
+            <l>Im leere Wald.</l>
+          </lg>
+          <stage>(Dr Kàmifeger blibt sitze, improvisiert
+                    müsikalische Phrase uf's G'spràch, wo folgt, un
+                    zieht züe glicher Zit derzwische si Kàmifegerkleid
+                    üs.)
+                </stage>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Mit allem dem hat Sie mir vorig kei Antwort gà,
+                            Jumpfer Wachtle, uf das was ich Se g'frogt ha...
+                        </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Was hàn Se mich denn g'frogt g'ha?</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Sie weisst's jo wohl... awer Sie wicht mir allewil
+                            üs... un doch, wenn Sie wisse thàt...
+                        </p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Was denn, Herr Lerch?...</p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Wie gern ass ich Se ha?...</p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Gehn Se doch!... das sage-n-eim alle junge Lit!...
+                        </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch.</speaker>
+          <p>Awer mir isch's Ernst, Jumpfer Wachtle!... Oh, sieht
+                            Se... ich halt's nimmig langer üs... ich ha d'Ehr,
+                            Sie définitivement um ihre Hand z'froge.
+                        </p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Dr Kàmifeger</speaker>
+          <stage>(wo si Kàmifegerkleid siter üszoge hat, springt uf
+                        un steht uf d'anders Site vo dr Jumpfer Wachtle)
+                    </stage>
+          <p>Jumpfer Wachtle, ich ha o d'Ehr, Sie définitivement
+                            um Ihre Hand z'froge!...
+                        </p>
+          <pb n="551"/>
+        </sp>
+        <sp who="#herr_lerch #jumpfer_wachtle">
+          <speaker>Herr Lerch un Jumpfer Wachtle.</speaker>
+          <p>Dr Herr Büechfink!...</p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Un ich, wo Sie fir e wirkliger Kàmifeger gnu hà!...
+                            was kunnt Ihne-n-i, sich eso z'verkleide?...
+                        </p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Herr Büechfink.</speaker>
+          <p>Ich bi halt jaloux gsi, Jumpfer Wachtle... un wil
+                            ich g'wisst ha, ass dr Herr Lerch nitt ka Klavier
+                            spiele wege sim Finger, so ha-n-ich ihm die Bàre lo
+                            abinde vom Kàmifeger, wo Klavier spielt... un bi
+                            derno als Kàmifeger do ane ku... Sie sieht, ass mi
+                            List g'lunge-n-isch... uf die Art ha-n-ich känne do
+                            ane ku, fir z'lose, eb Sie dr Herr Lerch gern hat
+                            oder eb ich ka Hoffnung ha...
+                        </p>
+        </sp>
+        <sp who="#herr_lerch">
+          <speaker>Herr Lerch</speaker>
+          <stage>(zornig)</stage>
+          <p>Herr Büechfink!...</p>
+        </sp>
+        <sp who="#herr_buechfink">
+          <speaker>Herr Büechfink.</speaker>
+          <p>Herr Lerch!...</p>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle.</speaker>
+          <p>Ihr Herre... wil mr jetz grad eso schön binander
+                            sin, so wà mr « 's Frieihjohr » noch singe... 's
+                            hat mir allewil züe güet g'falle...<stage>(züem Herr Lerch)</stage>nitt wohr, Sie singe? <stage>(züem Herr Büechfink)</stage> nitt wohr, Sie spiele?</p>
+        </sp>
+        <sp who="#herr_lerch #herr_buechfink">
+          <speaker>Beide.</speaker>
+          <p>Mit Vergniege, Jumpfer Wachtle!</p>
+          <stage>(dr Herr Büechfink geht ans Klavier un spielt,
+                            Herr Lerch un Jumpfer Wachtle singe)
+                        </stage>
+        </sp>
+        <sp who="#jumpfer_wachtle #herr_lerch">
+          <lg>
+            <l>Wenn 's Frieihjohr lacht</l>
+            <l>Mit sinre Pracht,</l>
+            <l>Wenn d'Vögel wieder singe,</l>
+            <l>Wenn d'Sunne kunnt,</l>
+            <l>Wenn 's Bliemle bunt</l>
+            <l>Im Wald verwacht,</l>
+            <pb n="552"/>
+            <l>Wenn alles wieder grien,</l>
+            <l>Wenn sanfte Liftle ziehn,</l>
+            <l>Wenn's duftet frisch im Wald,</l>
+            <l>So freit sich jung un alt!</l>
+            <l>Wenn z'Nacht dr Mond</l>
+            <l>Am Himmel thront,</l>
+            <l>Wenn d'Nachtigall thüet singe,</l>
+            <l>Singt alles no,</l>
+            <l>Was duss derno</l>
+            <l>Im Griene wohnt;</l>
+            <l>Wenn wieder d'warme Luft</l>
+            <l>Verbreitet Blüemeduft,</l>
+            <l>Das isch e schöne Stund,</l>
+            <l>Denn 's isch 's Frieihjohr, wo kunnt!</l>
+            <stage>bis{</stage>
+          </lg>
+        </sp>
+        <sp who="#jumpfer_wachtle">
+          <speaker>Jumpfer Wachtle</speaker>
+          <stage>(geht an d'Thüre rechts)</stage>
+          <p>Ihr Herre... d'Singstund isch fertig!</p>
+          <stage>(se verschwindet; dr Vorhang fallt.)</stage>
+        </sp>
+        <pb n="553"/>
+      </div>
+    </body>
+  </text>
+</TEI>

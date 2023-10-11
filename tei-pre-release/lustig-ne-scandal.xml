@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ne Scandal</title>
+        <author key="wikidata:Q17038136">August Lustig</author>
+        <respStmt>
+          <resp>TEI encoding</resp>
+          <name>Kévin Michoud</name>
+          <name>Barbara Hoff</name>
+          <name>Pablo Ruiz</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LiLPa - Université de Strasbourg</publisher>
+        <availability>
+          <licence>
+            <ab>CC BY 2.0</ab>
+            <ref target="https://creativecommons.org/licenses/by/2.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>name</name>
+          <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+          <idno type="methal" xml:id="mtl-121"/>
+
+          <bibl type="type">
+            <author key="wikidata:Q17038136">August Lustig</author>
+            <title type="main">Ne Scandal</title>
+            <publisher>Publisher</publisher>
+            <date>date</date>
+          </bibl>
+          <note>Wikisource versions transcribed from printed plays by MireilleLibmann</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="hans" sex="M">
+            <persName>HANS</persName>
+          </person>
+          <person xml:id="marti" sex="F">
+            <persName>MARTI</persName>
+          </person>
+          <person xml:id="seppi" sex="M">
+            <persName>SEPPI</persName>
+          </person>
+          <person xml:id="bawele" sex="F">
+            <persName>BAWELE</persName>
+          </person>
+          <person xml:id="regisseur" sex="M">
+            <persName>Dr Regisseur</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Personen</head>
+        <castItem corresp="#hans">
+          <role>
+            <persName>HANS</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#marti">
+          <role>
+            <persName>MARTI</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#seppi">
+          <role>
+            <persName>SEPPI</persName>
+          </role>
+          <roleDesc>si Suhn</roleDesc>
+        </castItem>
+        <castItem corresp="#bawele">
+          <role>
+            <persName>BAWELE</persName>
+          </role>
+          <roleDesc>im Hans si Tochter</roleDesc>
+        </castItem>
+        <castItem corresp="#regisseur">
+          <role>
+            <persName>Dr Regisseur</persName>
+          </role>
+        </castItem>
+      </castList>
+      <set/>
+    </front>
+    <body>
+      <div type="scene">
+        <head>I. Uftritt.</head>
+        <stage>(Wenn dr Vorhang ufgeht, so blibt d'Scene ne g'wisse Zit
+                    leer.)</stage>
+        <stage type="characters">Dr Regisseur, derno Hans.</stage>
+        <sp who="#regisseur">
+          <speaker>Regisseur</speaker>
+          <stage>(verneigt si)</stage>
+          <p>Ihr Herre-n-un Dame, 's isch is Leid, awer mr känne hit
+                        z'Owe nitt Theater spiele... dà junge Mensch, wo
+                        d'Madame hätt solle mache, isch nitt ku, un mir wisse
+                        nitt, wo-n-er isch!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(im Saal mit eme Parepli in dr Hand un dr Hüet in dr
+                        and're)</stage>
+          <p>Das isch jetz wieder g'scheidt!... un ich, wo express vo
+                        Burzwiller ku bi mit em Tramwày, fir in dem Ding züe
+                        z'lüege!<stage>(er geht gege dr Scene)</stage> He, Herr Dings...
+                        warte Se ne wenig... wenn ihr nitt spiele wànn, so gà
+                        mr mi Geld wieder z'ruck... ich ha zahlt... oder ich
+                        mach Scandal!...<stage>(er kunnt uf d'Scene; dr Regisseur
+                        geht üse un macht 'm d'Thüre vor dr Nase züe)</stage> C'est
+                        ça.. das isch kummod... me sàit nur, mr känne nitt
+                        spiele un dermit isch's ferig!...</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Michel Strogoff)</stage>
+            <l>G'spielt müess si!</l>
+            <l>Ich kumm express</l>
+            <l>Vo Burzwiller hit</l>
+            <l>Bis dohi;</l>
+            <pb n="405"/>
+            <l>Mi Platz isch zahlt</l>
+            <l>Un. furt gang i nitt,</l>
+            <l>Ich will fir mi Geld, <stage>(ter)</stage></l>
+            <l>G'spielt will ich ha;</l>
+            <l>Das geht nitt eso, <stage>(ter)</stage></l>
+            <l>Ich gang nitt dra.</l>
+            <l>G'spielt müess si!</l>
+            <l>Ich kumm express</l>
+            <l>Vo Burzwiller hit,</l>
+            <l>Mi Platz isch zahlt</l>
+            <l>Un...</l>
+          </lg>
+          <p>Tiens!... ne-n-Idee... wenn jetz mi Tochter, 's
+                            Bàwele, do wàr... es, 'wo scho so lang thàt gern
+                            Theater spiele 's kännt jetz schön itrete... es
+                            kännt d'Madame ganz güet spiele, ich garantier
+                            derfir... 's hat alle Eigeschafte derzüe... 's isch
+                            zwanzig Johr alt, güet uferzoge un hat noch kei
+                            junger Mensch traüe az'lüege... 's isch e wenig
+                            schich!... tiens... wenn ich nitt sicher wàr, ass
+                            es d'heim isch im Bett, so thàt i glaüwe, dert
+                            hinte sitzt's...<stage>(er hebt d'Hand iwer d'Aüge)</stage> eh, alleweg isch's es... 's süecht si z'verstecke hinter em Bolliwàr vo dere Dame dert... Bàwele!... Dü!... zeig, was machsch Dü do?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>II. Uftritt.</head>
+        <stage type="characters">Hans, Bàwele.</stage>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(im Saal)</stage>
+          <p>Ich lüeg Dir züe, Vater!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Isch's mögli!... hat me jetz scho-n-emol eso ebbes
+                        g'sàh!... zeig, kum do fire!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwela.</speaker>
+          <p>Ich traü nitt... 's sin gar viel Lit do!</p>
+        </sp>
+        <pb n="406"/>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Witt jetz g'schwind do fire ku oder ich hol Di am
+                        e-n-Ohr... se werde Dich nitt aweschlucke, die viele
+                        Lit!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Ich kumm, Vater... ich kumm!<stage>(se geht uf d'Scene).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Un ich, wo glaübt ha, 's isch rüehig d'heim im Bett und
+                        traümt... ka me sich denn eigentlig uf gar nit meh
+                        verlo!...<stage>(züem Bawele)</stage> zeig... wie kasch Dü Dich nur
+                        eso allei vo Burzwiller do ane woge!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Ich bi jo nitt alleinig ku.<stage>(fir sich)</stage> O weh! jetz
+                        ha-n-ich mich verschnappt.</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ah sa, Dü bisch nitt alleinig ku!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Eh nei, Dü bisch jo o do...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ich ha Dir awer nitt g'sàit g'ha, ass ich do ane
+                        kumm...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Dü hasch mr g'sàit, De giengsch geh wache bi me güete
+                        Frind un do ha-n-ich mich halt iwerrede lo...<stage>(fir
+                        sich)</stage> Oh weh! jetz ha-n-ich mich scho wieder
+                        verschnappt!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ah so... Dü hasch Dich lo iwerrede!... un vo wem
+                        denn?...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(verlege)</stage>
+          <p>Ich ha halt denkt...</p>
+          <pb n="407"/>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(unterbricht se)</stage>
+          <p>Nur nitt drum umme g'fahre... üse mit dr Sproch.. zeig,
+                        vo wem hasch Di iwerrede lo?</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Vom Seppi<stage>(se hebt 's Firtüech vor d'Aüge).</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(zornig)</stage>
+          <p>Vom Seppi ... dr Suhn vo uns'rem Nochber, dr alte Marti,
+                        mi Todfind!<stage>(er lüsgt in Saal)</stage> richtig, dert sitzt dr
+                        Seppi... dà Halunk!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Mir sin jo awer enander nitt todfind, dr Seppi un
+                        ich...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Still!... enfin, 's isch jetz eithüen... ich kumm wieder
+                        uf mi Idee z'ruck . .. wil De jetz do bisch, so kännsch
+                        Dü Dich schön melde, fir Theater z'spiele.. Dü hasch
+                        g'hört, ass me grad ebber brücht, fir d'Madame
+                        z'mache...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Jà... derf dr Seppi o mitspiele?...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Scho wieder dr Seppi!...<stage>(fir sich)</stage> un ich, wo glaübt
+                        ha, 's ka nitt drei zähle!...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele</speaker>
+          <stage>(rieft in Saal)</stage>
+          <p>Kumm, Seppi... De brüchsch Di jetz nimmig z'verstecke...
+                        Dü kasch dr Verliebte spiele!</p>
+        </sp>
+        <pb n="408"/>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">D'Gliche, Seppi.</stage>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(im Saal)</stage>
+          <p>Müess i unser Ziwelewàie-n-o mitbringe?...</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Natirlig!</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Ich weiss awer nitt recht, eb i traü oder nitt!...<stage>(er
+                        geht gege dr Scene).</stage></p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Kumm nur!<stage>(züe sim Vater)</stage> mr hàn ewe denkt, mr bekämme
+                        Hunger, un do hat dr Seppi ne Wàie mitgnu...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ihr wàre ringer d'heim bliwe mit eürer Ziwelewàie...</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(er isch derwilst uf Scene ku un hat in einer Hand
+                        e Parepli un in dr andre ne Wàie im Nastüech ibunde)</stage>
+          <p>Lose Se, Herr Nochber, ich will Ene liewer glich alles
+                        g'steh... mr hàn enander gern un ich ka nimmig lewe
+                        ohne 's Bàwele!... 's beste wird si, mir hirothe
+                        enander ...</p>
+        </sp>
+        <stage>G'sang (c'est l'amour, l'amour)</stage>        
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <lg>
+            <l>Mach mr doch dr Gaül nitt schich!</l>
+            <l>Wie wànn ihr denn hirothe?</l>
+            <l>Es isch arm un Dü nitt rich,</l>
+            <l>Un beide sin ihr schich!</l>
+          </lg>
+        </sp>
+        <sp who="#seppi #bawele">
+          <speaker>Seppi un Bàwele.</speaker>
+          <lg>
+            <l>Mir hàn genüe, denn mir sin rich an Liewe,</l>
+            <l>Das isch allei unser Glick, unser Freid,</l>
+            <l>Fil' was noch lang geh dà Tag üse schiewe,</l>
+            <l>Schwore mir doch jetz mit Müeth unser Eid.</l>
+          </lg>
+          <pb n="409"/>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>(Mitnander).</stage>
+          <sp who="#hans">
+            <speaker>Hans.</speaker>
+            <lg>
+              <l>Ich thüe mich trumpiere,</l>
+              <l>Sie sin herzhaft genüe,</l>
+              <l>Fir d'Hiroth z'prawiere,</l>
+              <l>Wenn ich sag « jo » derzüe.</l>
+            </lg>
+          </sp>
+          <sp who="#seppi">
+            <speaker>Seppi.</speaker>
+            <lg>
+              <l>Er thüet sich trumpiere,</l>
+              <l>Mir sin hàrzhaft genüe,</l>
+              <l>Fir d'Hiroth z'prawiere,</l>
+              <l>Wenn er sàit « jo » derzüe.</l>
+            </lg>
+          </sp>
+          <sp who="#bawele">
+            <speaker>Bàwele.</speaker>
+            <lg>
+              <l>Dü thüesch Dich trumpiere,</l>
+              <l>Mir sin herzhaft genüe,</l>
+              <l>Fir d'Hiroth z'prawiere,</l>
+              <l>Wenn Dü sàisch « jo » derzüe.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Das isch alles gli g'sàit, awer ihr wisse doch beide,
+                        ass dr alte Marti ne wunderliger Mann isch un ass er
+                        mich scho d'längste Zit nitt lide ka un sicher die
+                        Hiroth nitt wird igeh.</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Lehn Se mich nur mache... ich will ne scho bekehre...
+                        wenn nur Sie nit dergege hàn.</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ich weiss nitt, was ich sott dergege ha... wenn ihr
+                        meine, ass ihr glicklig werde mitnander, so gib ich
+                        eüch züem vorüs scho mi Sege.</p>
+        </sp>
+        <pb n="410"/>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage type="characters">D'Gliche, Marti.</stage>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(im Saal. Er hat e Stock in dr Hand)</stage>
+          <p>Oho!... nur g'mach le wenig mit dere Hirotherei!.. ich
+                        ha mi Wort o derzüe z'sage<stage>(er geht uf d'Scene).</stage></p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(hebt si Wàie un si Parepli in d'Höche)</stage>
+          <p>Mi Vater!</p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Er isch is schint's nogange!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Dr Marti... hàn sich denn alle Burzwillerer Rendez-vous
+                        gà do!</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(uf dr Scene)</stage>
+          <p>Ich ha g'meint, ich will schwiege, fir kei Scandal
+                        z'mache, awer ich ha nitt känne...<stage>(er steht vor dr
+                        Seppi)</stage> ass De's weisch... Theaterlis kasch wege mir
+                        spiele, so lang as De witt, awer mi Iwilligung züe dàre
+                        Hiroth bekunnsch nie!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Do hà mr's!...</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Was hasch Dü denn gege 's Bàwele iz'wànde?</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Nit gege 's Bàwele!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(züem Marti)</stage>
+          <p>Also bin ich's, wo Dr nitt güet genüeg schine thüe?...
+                        Zeig Marti... mr wànn die G'legeheit jetz profetiere un
+                        wieder güet si mitnander...</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(stampft mit sim Stock)</stage>
+          <p>Niemols!</p>
+          <pb n="411"/>
+          <lg>
+            <head>G'sang</head>
+            <l>Niemols meh</l>
+            <l>Ka das geh,</l>
+            <l>Ich will nit meh ha mit Dir.</l>
+          </lg>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <lg>
+            <l>Das isch schlecht,</l>
+            <l>Denn Unrecht</l>
+            <l>Hasch Dü g'wiss, glaüb mir!</l>
+            <l>Mir wànn wieder si güet Frind.</l>
+          </lg>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <lg>
+            <l>Dü bisch mir mi ärgster Find.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>(Mitnander)</stage>
+          <sp who="#hans">
+            <speaker>Hans.</speaker>
+            <lg>
+              <l>Das isch schlecht,</l>
+              <l>Denn Unrecht</l>
+              <l>Hasch Dü g'wiss, glaüb mir!</l>
+            </lg>
+          </sp>
+          <sp who="#marti">
+            <speaker>Marti.</speaker>
+            <lg>
+              <l>Niemols meh</l>
+              <l>Ka das geh,</l>
+              <l>Ich will nit mit Dir.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Dü hasch Unrecht, Marti... ich weiss ganz güet, was
+                            De iwer mich hasch, in e paar Worte will ich Dir's
+                            sage, un wenn De ne wenig nodenke witt, so müesch
+                            g'steh, ass ich nitt im Fehler bi...</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Ich will gar nit wisse!<stage>(er kehrt em dr Ricke)</stage></p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Awer Vater...</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(stampft mit sim Stock)</stage>
+          <p>Still!<stage>(dr Seppi losst si Waie un si Parepli an Bode falle vor Schrecke.</stage></p>
+        </sp>
+        <pb n="412"/>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Un ich will's jetz emol sage!... 's müess üse!... mr
+                            wànn lüege, wer Recht hat!... Vor drissig Johr also
+                            si mir Beide vom gliche Regiment z'ruckkehrt, wo mr
+                            noch d'beste Frind vo dr Welt gsi sin mitnander.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(zornig)</stage>
+          <p>Vor einedrissig Johr!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Oder vor einedrissig Johr... Das hat jetz nitt viel
+                            derzüe z'sage.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Un mir sin nitt halwer eso güete Frind gsi... denn
+                            vo jeher scho, als Büe, wo mir noch in d'Schüel
+                            gange sin, hasch mr als scho z'Leid g'lebt un hasch
+                            mi süeche in dr Dunkes z'bringe.</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Ich?... was ha-n-i Dir denn g'macht, zeig, sag mr
+                            emol ebbes.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Was De mr g'macht hasch?... Dummheite hasch mr als
+                            iblose, wenn ich mi Sach hätt solle recitiere un
+                            has nitt güet kenne... un we mr mit Knäpf oder mit
+                            Glicker g'spielt hàn, so hasch mi als b'schisse!..</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Un Dü?... hasch Dü als ebbe nitt grààtscht
+                            mittle-n-im Spiel, wenn viel duss gsi isch... un
+                            Stei in dr Nastüechzipfel bunde, we mr « dr Lunzi
+                            kunnt » g'macht hàn?... glaüb mir... 's hat Kein im
+                            Andere nit vorz'werfe.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>'s isch o gar nitt wege dem, ass ich bös bi.</p>
+          <pb n="413"/>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Nei, ich weiss es wohl... ich will Dr sage worum.
+                            Gli nochher denn, wo mr wieder vom Regiment d'heim
+                            gsi sin, bisch Dü furt nach Amerika, fir geh ne
+                            Tante z'erwe un hasch Di alter Vater un 's Ursele,
+                            Di frische Bekanntschaft, z'ruckg'lo, wil Dü
+                            g'meint hasch, nur e paar Wuche furt z'bliwe....
+                            awer die Wuche hàn sich in Monete verwandelt, un
+                            zwei Johr sin vergange, ohne-n-ass e Brief oder
+                            sunscht e B'richt vo Dr aku isch.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Ha-n-ich känne schriwe, wenn ich Schiffbruch g'litte
+                            ha... wenn mich d'Wilde zwei Johr in ihre Wàlder
+                            mit sich umme g'schleppt hàn... in wem hätt ich
+                            solle mi Brief abgà?... in de-n-Affe oder in de
+                            Papegàie!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>'s isch wohr... 's hat gli g'heisse g'ha, eüer
+                            Schiff seig untergange... un wo derno zwei Johr
+                            ummegange gsi sin, ohne-n-ass Dü hasch lo ebbes
+                            höre vo Dr, so hà mr's halt miesse glaüwe.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Dü wirsch jo froh genüe gsi si!</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Dü hasch mr nie nit verzählt, Vater, vo de-n-Affe.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(stampft mit sim Stock)</stage>
+          <p>Still, sag i!<stage>(dr Seppi losst si Wàie-n-un si Parepli falle)</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(lipft d'Achsle un fahrt furt)</stage>
+          <p>Wàhrend ass Dü derno-n-eso furt gsi bisch, sin im
+                            Ursele sine Eltre g'storwe, un wil's ganz allei do
+                            g'stande-n-isch un vo niene her nit meh z'hofte
+                            g'ha hat, so ha-n-ich's g'hirothe...</p>
+        </sp>
+        <pb n="414"/>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(ironisch)</stage>
+          <p>C'est ça... un wo-n-ich derno heim ku bi, so isch mi
+                            Vater g'storwe gsi un 's Ursele verhirothe mit mim
+                            beste Frind, un ich ha derno känne am Düme
+                            zulle!... So geht's eim uf dr Welt!... in Nieme ka
+                            me meh traüe!... ich will mit Nieme nit meh z'thüe
+                            ha... nur in Eim bin i noch Dank schuldig un wott's
+                            em känne bewise... in dem, wo wàhrend sàlle zwei
+                            Johr mi alter Vater unterstitzt hat heimlig... das
+                            isch e-n-Ehremann gsi un hat's nitt üsg'schwàtzt...
+                            doch weiss i's dur e Brief, wo-n-er sich drin
+                            bedankt un d'Hoffnung üsspricht, ass ich's
+                            viellicht emol vergelte ka, wenn ich z'ruck kumm...
+                            awer leider isch kei Name g'nennt gsi.<stage>(zornig)</stage>Do sieht me... mi Vater hat doch noch allewil Hoffnung g'ha, ass ich wieder z'ruck kumm.. ihr hätte-n-o noch warte känne!</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Eh bien, so verzeih mr un gi mr d'Hand.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(stampft mit sim Stock)</stage>
+          <p>Niemols!</p>
+        </sp>
+        <sp who="#toni #bawele">
+          <speaker>Toni un Bàwele.</speaker>
+          <p>Oh! oh!</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(zornig)</stage>
+          <p>Still !</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(verliert d'Geduld)</stage>
+          <p>Ah çà... meinsch Dü denn, mir hätte solle-n-unser
+                            Làbtig ledig bliwe, wil's Dir g'falle hat, dr Wilde
+                            z'spiele in Amerika?</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Hein!... was g'falle!... sag mr nit meh-n-eso..
+                            sunscht...<stage>(er nimmt d'Position fir z'fechte mit sim Stock.
+                            Dr Seppi legt si Wàie uf e Stüehl un will abwehre)</stage></p>
+          <pb n="415"/>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Loss nur, Seppi... 's isch kei G'fohr... un Dü<stage>(er schiebt im Marti si Stock absite)</stage> loss nur's fechte-n-absite... mit dem isch's nitt üsg'macht... wer Recht hat, dà hat doch Recht... also sàisch, das isch e-n-Ehremann, wo Di Vater so unterstitzt hat...</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Jà, das isch er... De wirsch doch nitt 's Gegeteil
+                            welle sage...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Eh bien...</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Eh bien...</p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans</speaker>
+          <stage>(fir sich)</stage>
+          <p>Eh bien, nei... ich sag's nitt... 's will mr nitt
+                            züem Hals üse!</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi</speaker>
+          <stage>(steht derzwische)</stage>
+          <p>Eh bien... wenn dr Nochber nit wil sage, so sag
+                            ich's... 's Bàwele hat mir's verbote, awer 's geht
+                            um unser Hiroth...<stage>(züe sim Vater)</stage>ass De's weisch, das isch dr Ehremann <stage>(er klopft im Hans uf d'Achsle)</stage> er isch's, wo Di Vater unterstützt hat.</p>
+        </sp>
+        <sp who="#marti">
+          <speaker>Marti.</speaker>
+          <p>Dr Hans!...<stage>(er losst si uf dr Stüehl sinke, wo im Seppi si
+                            Wàie druf ligt)</stage></p>
+        </sp>
+        <sp who="#bawele">
+          <speaker>Bàwele.</speaker>
+          <p>Herr je!... unser Ziwelewàie!</p>
+        </sp>
+        <sp who="#seppi">
+          <speaker>Seppi.</speaker>
+          <p>Das macht ere nit... mr kännte se jetz viellicht
+                            esse, ass se-n-emol üsweg kunnt!</p>
+        </sp>
+        <pb n="416"/>
+        <sp who="#marti">
+          <speaker>Marti</speaker>
+          <stage>(steht uf)</stage>
+          <p>Dü Hans?.. un hasch nie nit g'sàit<stage>(er streckt d'Hànd ane)</stage>oh kumm, verzeih mr... kumm... schaü, mine letschte Tage will ich Dir ufopfre un Dir mache, was ich mache ka... awer verzeih mr, denn ich ha Unrecht gege Dir g'handelt!</p>
+        </sp>
+        <sp who="#seppi #bawele">
+          <speaker>Seppi un Bàwele.</speaker>
+          <p>Aha...<stage>(se schmutze-n-eander)</stage></p>
+        </sp>
+        <sp who="#hans">
+          <speaker>Hans.</speaker>
+          <p>Also si mr jetz wieder güete Frind... ich verlang jo
+                            nitt mehr... awer mit dem allem hà mr jetz glaüb
+                            selwer Theater g'spielt... so geht's halt... mr
+                            spiele jo alle z'àmme nur Kumedi uf dr Welt... 's
+                            isch jo nur e grosse Scene, wo ne Jeder kunnt ku
+                            sine Spring mache druf!</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(il était un p'tit homme)</stage>
+            <l>Mir spiele jo, thüet's schine,</l>
+            <l>Theater d'ganze Zit,</l>
+            <l>Alle Lit!</l>
+            <l>Mit lache-n-un mit grine</l>
+            <l>Hat Jeder uf dr Scene z'thüe,</l>
+          </lg>
+        </sp>
+        <sp who="#hans #marti #bawele #seppi">
+          <lg>
+            <l>Un isch's als üs un isch's genüe,</l>
+            <l>So fallt dr Vorhang züe.</l>
+            <stage>}bis (mitnander)</stage>
+          </lg>
+        </sp>
+        <pb n="417"/>
+      </div>
+    </body>
+  </text>
+</TEI>
