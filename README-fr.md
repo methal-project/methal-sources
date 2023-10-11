@@ -8,7 +8,7 @@ Projet de création de corpus, ainsi que lecture distante du théâtre en alsaci
 - Site du projet : <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
 - Interface d'exploration du corpus : <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
 - La publication pérenne (basée sur DOI) s'effectue à travers une <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala
-  - En plus des pièces déjà publiées avec DOI, une version pré-publication de plusieurs pièces, qui peut déjà être utilisée pour des analyses, eset disponible sous [tei-pre-release](./tei-pre-release) dans le présent dépôt
+  - En plus des pièces déjà publiées avec DOI, une version pré-publication de plusieurs pièces, qui peut déjà être utilisée pour des analyses, est disponible dans le dossier [tei-pre-release](./tei-pre-release) dans le présent dépôt
 
 
 ## Contenu du dépôt

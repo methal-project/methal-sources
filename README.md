@@ -7,7 +7,7 @@ Corpus creation, distant reading and historical sociolinguistics project, based 
 - Project site: <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
 - Corpus exploration interface: <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
 - Permanent (DOI-based) publication of the TEI-encoded resources is done through a <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform
-  - Besides the plays already assigned a DOI, a pre-release version of several plays, that can already be used for analyses, can found at [tei-pre-release](./tei-pre-release) in this repository
+  - Besides the plays already assigned a DOI, a pre-release version of several plays, that can already be used for analyses, can found at the [tei-pre-release](./tei-pre-release) directory in this repository
 
 
 ## Repository content
@@ -17,7 +17,7 @@ Corpus creation, distant reading and historical sociolinguistics project, based 
   - [[tei-pre-release]](./tei-pre-release): These plays have been subjected to less verifications than the ones in the `tei` directory and a DOI has not yet been assigned. They have however already been used for several studies (e.g. <a target="_blank" href="https://doi.org/10.5281/zenodo.8404252">emotion analysis</a>)
 - A [**TEI personography**](./personography) for a larger set of plays is also available. It describes over 2,350 characters in ca. 230 plays. Character social variables (age, sex, professional group, social class) are annotated
 - A <a target="_blank" href="https://git.unistra.fr/methal/methal-sources/-/wikis/home">wiki</a> documents our encoding practices
-- Software we developed for encoding can be found at [encoding-workflow](./encoding-workflow)
+- Software we developed for encoding can be found at the [encoding-workflow](./encoding-workflow) directory
 
 Besides this repository, an <a target="_blank" href="https://methal.eu/ui/">online interface</a> gives access to the text for all plays and their metadata
 
