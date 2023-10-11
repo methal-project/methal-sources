@@ -29,7 +29,7 @@ Pablo Ruiz (responsable), Delphine Bernhard, Pascale Erhart, Dominique Huck, Car
 
 Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous remercions particulièrement. Parmi les étudiant.e.s Unistra : Nathanaël Beiner, Lena Camillone, Hoda Chouaib, Audrey Deck, Valentine Jung, Salomé Klein, Audrey Li-Thiao-Te, Kévin Michoud, Alexia Schneider et Vedisha Toory. Au-delà : Andrew Briand (Université de Washington, via IFE Strasbourg), Barbara Hoff (Université d’Édimbourg), Qinyue Liu and Heng Yang (Université Grenoble Alpes).
 
-## Pièces disponibles en TEI
+## Pièces publiées avec DOI via l'entrepôt Nakala
 
 (D'autres pièces en TEI, pas encore distribuées via Nakala, se trouvent dans le directoire [tei-pre-release](./tei-pre-release))
 
