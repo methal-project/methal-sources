@@ -75,4 +75,5 @@ Nous avons aussi eu l'occasion d'accueillir de nombreux.ses stagiaires, que nous
 
 ## Licence
 
-- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Pour les versions TEI des pièces d'August Lustig, le texte est dérivé des versions Wikisource. Par conséquent, la licence est [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Pour toutes les autres ressources dans ce dépôt, la licence est [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)

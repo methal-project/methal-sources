@@ -73,4 +73,5 @@ Special mention to the many interns that we've been fortunate to work with: Nath
 
 ## License
 
-- [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- For TEI versions of August Lustig plays, the text is derived from Wikisource, and, accordingly, the license is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- For all other materials in the repository the license is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
