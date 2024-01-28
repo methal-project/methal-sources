@@ -1,6 +1,7 @@
 [[english]](https://git.unistra.fr/methal/methal-sources)
 
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578382.svg)](https://doi.org/10.5281/zenodo.10578382)
 
 Projet de création de corpus, ainsi que lecture distante du théâtre en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
 

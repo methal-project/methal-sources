@@ -1,6 +1,8 @@
 [[français]](./README-fr.md)
 
 # MeThAL : Towards a macroanalysis of theatre in Alsatian
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578382.svg)](https://doi.org/10.5281/zenodo.10578382)
+
 
 Corpus creation, distant reading and historical sociolinguistics project, based on plays written in Alsatian varieties. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
 
