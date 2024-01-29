@@ -3,12 +3,11 @@
 # MeThAL : Vers une macroanalyse du théâtre en alsacien
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578382.svg)](https://doi.org/10.5281/zenodo.10578382)
 
-Projet de création de corpus, ainsi que lecture distante du théâtre en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage
+Projet de création de corpus, ainsi que lecture distante du théâtre en alsacien et sociolinguistique historique. Travaux en cours, effectués au Laboratoire <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a>. Ce dépôt contient les sources (pièces de théâtre) encodées en TEI ainsi que d'autres ressources sur la collection. Le dépôt est mis à jour à mesure que nous avançons dans l'encodage. Le dépôt est hébergé sur l'instance [GitLab de l'Unistra](https://git.unistra.fr/methal/methal-sources), plus récemment aussi reproduit sur [GitHub](https://github.com/methal-project/methal-sources).
 
-
-- Site du projet : <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
+- Site du projet : <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr</a>
 - Interface d'exploration du corpus : <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
-- La publication pérenne (basée sur DOI) s'effectue à travers une <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala
+- La publication pérenne (basée sur DOI) s'effectue sur Zenodo pour le corpus complet (un DOI pour tout le corpus), et à travers une <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> sur la plateforme Nakala pour les pièces individuelles encodées en TEI
   - En plus des pièces déjà publiées avec DOI, une version pré-publication de plusieurs pièces, qui peut déjà être utilisée pour des analyses, est disponible dans le dossier [tei-pre-release](./tei-pre-release) dans le présent dépôt
 
 

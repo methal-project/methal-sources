@@ -4,11 +4,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578382.svg)](https://doi.org/10.5281/zenodo.10578382)
 
 
-Corpus creation, distant reading and historical sociolinguistics project, based on plays written in Alsatian varieties. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses.
+Corpus creation, distant reading and historical sociolinguistics project, based on plays written in Alsatian varieties. Ongoing work carried out at the <a target="_blank" href="http://lilpa.unistra.fr/">LiLPa</a> lab. This repository contains plays encoded in TEI by the project and other resources about the collection. The repo is updated as encoding progresses. This is hosted at our [institutional GitLab](https://git.unistra.fr/methal/methal-sources); we later also mirrored it to [GitHub](https://github.com/methal-project/methal-sources)
 
-- Project site: <a target="_blank" href="https://methal.pages.unistra.fr">https://methal.pages.unistra.fr/en.html</a>
+- Project site: <a target="_blank" href="https://methal.pages.unistra.fr/en">https://methal.pages.unistra.fr/en</a>
 - Corpus exploration interface: <a target="_blank" href="https://methal.eu/ui/">https://methal.eu/ui/</a>
-- Permanent (DOI-based) publication of the TEI-encoded resources is done through a <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform
+- Permanent (DOI-based) publication of the TEI-encoded corpus is done through Zenodo (one DOI for the complete corpus), and through a <a target="_blank" href="https://nakala.fr/collection/10.34847/nkl.feb4r8j9">collection</a> at the Nakala platform (assigning one DOI to each play)
   - Besides the plays already assigned a DOI, a pre-release version of several plays, that can already be used for analyses, can found at the [tei-pre-release](./tei-pre-release) directory in this repository
 
 
