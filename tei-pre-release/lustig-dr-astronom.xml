@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">D'Singstund</title>
+        <title type="main">Dr Astronom</title>
         <author key="wikidata:Q17038136">August Lustig</author>
         <respStmt>
           <resp>TEI encoding</resp>
@@ -27,11 +27,11 @@
           <idno type="URL">
                         https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
                     </idno>
-          <idno type="methal" xml:id="mtl-126"/>
+          <idno type="methal" xml:id="mtl-115"/>
 
           <bibl type="type">
             <author key="wikidata:Q17038136">August Lustig</author>
-            <title type="main">D'Singstund</title>
+            <title type="main">Dr Astronom</title>
             <publisher>Publisher</publisher>
             <date>date</date>
           </bibl>
@@ -42,17 +42,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="jumpfer_wachtle" sex="F">
-            <persName>Jumpfer WACHTLE
-                    </persName>
+          <person xml:id="herr_himmel" sex="M">
+            <persName>Herr HIMMEL</persName>
           </person>
-          <person xml:id="herr_buechfink" sex="M">
-            <persName>Herr BÜECHFINK</persName>
-            <persName type="variant">Kàmifeger</persName>
+          <person xml:id="joseph_kutz" sex="M">
+            <persName>JOSEPH KÜTZ</persName>
           </person>
-          <person xml:id="herr_lerch" sex="M">
-            <persName>Herr LERCH
-                    </persName>
+          <person xml:id="herr_silwer" sex="M">
+            <persName>Herr SILWER</persName>
+          </person>
+          <person xml:id="porte-faix" sex="M">
+            <persName>Ne Porte-Faix</persName>
+          </person>
+          <person xml:id="katele" sex="F">
+            <persName>KÀTELE</persName>
+          </person>
+          <person xml:id="madame_frindlig" sex="F">
+            <persName>Madame FRINDLIG</persName>
+          </person>
+          <person xml:id="im_porte-faix_si_frau" sex="F">
+            <persName>Im Porte-faix si Fraü</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -62,23 +71,44 @@
     <front>
       <castList>
         <head>Personen</head>
-        <castItem corresp="#jumpfer_wachtle">
+        <castItem corresp="#herr_himmel">
           <role>
-            <persName>Jumpfer WACHTLE
-                        </persName>
+            <persName>Herr HIMMEL</persName>
+          </role>
+          <roleDesc>Astronom</roleDesc>
+        </castItem>
+        <castItem corresp="#joseph_kutz">
+          <role>
+            <persName>JOSEPH KÜTZ</persName>
+          </role>
+          <roleDesc>si Bedienter</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_silwer">
+          <role>
+            <persName>Herr SILWER</persName>
           </role>
         </castItem>
-        <castItem corresp="#herr_buechfink">
+        <castItem corresp="#porte-faix">
           <role>
-            <persName>Herr BÜECHFINK
-                        </persName>
+            <persName>Ne Porte-Faix</persName>
           </role>
         </castItem>
-        <castItem corresp="#herr_lerch">
+        <castItem corresp="#katele">
           <role>
-            <persName>Herr LERCH
-                        </persName>
+            <persName>KÀTELE</persName>
           </role>
+          <roleDesc>im Joseph si Fraü</roleDesc>
+        </castItem>
+        <castItem corresp="#madame_frindlig">
+          <role>
+            <persName>Madame FRINDLIG</persName>
+          </role>
+        </castItem>
+        <castItem corresp="#im_porte-faix_si_frau">
+          <role>
+            <persName>Im Porte-faix si Fraü</persName>
+          </role>
+          <roleDesc>Im Porte-faix si Fraü</roleDesc>
         </castItem>
       </castList>
       <set/>
@@ -86,441 +116,2151 @@
     <body>
       <div type="scene">
         <head>I. Uftritt.</head>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle</speaker>
-          <stage>(kunnt ine rechts)</stage>
-          <p>Das isch jetz emol e Wunder, ass dr Herr Lerch no nitt
-                        do isch ku si Visite mache... ich erwart ne sicher
-                        hit... mir singe-n-als ewe mitnander... er singt
-                        pràchtig, dr Herr Lerch, un accompagniert is noch
-                        derzüe uf em Klavier... d'Müsik un 's G'sang geht mr
-                        ewe vor allem, b'sunders, wenn's recht sentimental
-                        züegeht... drum süech ich so viel as möglig
-                        Bekanntschaft z'mache mit Müsikante... Ich ha derno
-                        noch dr Herr Büechfink, wo kunnt... awer am e-n-andere
-                        Tag!... dà singt nitt so güet, awer er spielt besser
-                        Klavier... ich ha se beide gern... als Müsikante... nur
-                        isch 's fatale dervo, ass se mr beide dr Hof mache...
-                        ich ka se doch nitt beide hirothe... un nimm ich einer,
-                        so blibt dr andere furt, das isch klar!... se sin
-                        jaloux iwernander as wie Tiger... ich weiss do kei
-                        Üsweg... ich süech se halt so lang as möglig
-                        üsez'schifle... wenn ich als hör, ass se wànn Ernst
-                        mache, so sag ich als gli «Herr Lerch, oder Herr
-                        Büechfink, d'Singstund isch fertig» un mach mich
-                        dervo... ich nenn ewe das mi Singstund... doch, do
-                        kunnt jetz dr Herr Lerch...<stage>(me klopft a)</stage> entrez!...
+        <stage type="characters">Joseph, Kàtele.</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(sitzt im Lehnstüehl mit eme Federwisch in de
+                        Hànd)
+                    </stage>
+          <p>'s hat's doch noch nie kei Bedienter besser g'ha as
+                        ich!... niene thàt ich eso ne Platz finde!... mi Herr
+                        isch Astronom, das heisst mit andere Worte, er isch
+                        narràchtig... er isch awer güet z'ha... wenn ich ihm
+                        nur allewil Recht gib un si Specktifig un si Weltkugle
+                        dert abstàib, so geht alles güet<stage>(er steht uf)</stage>, er
+                        bekümmert sich sunscht um nit... er isch allewil in de
+                        Wulke... mr känne mache, was mr wànn, 's Kàtele un
+                        ich... 's isch mi Fraü, wo Kàtele heisst... mr hàn jetz
+                        sogar e Bureau de placement ag'fange... mr
+                        verschaffe-n-in de Dienstbote Plàtz... um Bezahlung! un
+                        iwerhaüpt, was sich presentiert, fir Geld z'verdiene,
+                        das iwernàmme mr, seig's was es will... hitigstags derf
+                        me nimmig halwer eso blöd si, we me züe ebbes ku will.
                     </p>
-          <pb n="545"/>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(streckt dr Kopf ine rechts)</stage>
+          <p>Bisch allei, Joseph?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Jà, liewe Fraü... kumm nur ine.</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>Isch dr Alt furt?</p>
+          <pb n="201"/>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Los, Kàtele... sag em doch nitt allewil dr Alt, im Herr
+                        Himmel, 's isch doch allewil unser Herr.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Oh! loss mi geh mit dim Herr... Dü machsch Dich jo als
+                        z'erst lustig iwer ne, wenn er Dir vo sine Narrheite
+                        verzählt.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ich müess awer o ebbes höre allewil... erst gestert hat
+                        er mir wieder dr Kopf versàgt... er hat mr verzählt,
+                        wie wit as es isch vo do bis in dr Mond un bis in
+                        d'Sunne.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Das glicht em wieder... me ka jo sage so wit as me
+                        will... 's geht's Nieme geh messe!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Bis in dr Mond hat er g'sàit, isch's 95 Taüsend Stund',
+                        un 37 Millione Stund' bis in d'Sunne!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Un e halwe!... un Dü kasch eso Dings b'halte?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Er hat mr's scho so vielmol g'sàit.</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Er isch doch sunscht nitt eso g'spràchig, dr Herr.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Jà, sunscht bringt me-n-em kei Wort züem Mül üse... awer
+                        wenn er vo dr Astronomie red', so isch's ganz
+                        anderscht... me müess em halt die unschuldige Freid
+                        lo... hat er nitt sogar in siner Narrheit scho g'sàit,
+                        er heb dr Mond un d'Sunne g'woge!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(schlat d'Hànd z'amme)</stage>
+          <p>Ich's möglig, ass dr Mensch eso wit awe ka ku!</p>
+        </sp>
+        <pb n="202"/>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Un wie gross meinsch Dü, ass er isch, dr Mond?</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Dr Mond... wie mi kleine Pfanne ung'fàhr... do brücht me
+                        kei Specktifig, fir das z'sàh!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ich weiss nitt, wie gross as Di kleine Pfanne-n-isch,
+                        awer wenn Dü-n-em eso ebbes thàtsch sage... doch los...
+                        siter ebbes Zit hat er e wenig g'schangiert... er lüegt
+                        weniger dur si Specktifig un isch iwerhaüpt unrüehig...
+                        un red' als Sache... me wott schiergar meine, er seig
+                        verliebt.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ah!... hasch Dü das o bemerkt?... 's isch mr doch
+                        gsi!... denn ich o ha ne scho hore rede fir sich
+                        vo-n-ere Venüs, wo-n-eso schön soll si... was ka jetz
+                        das fir e Jumpfer Venüs si... er isch als ganz
+                        verklàrt!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Nitt wohr? Erst gestert ha-n-ich g'hört, ass er
+                        deklamiert hat do, wo-n-er allei gsi isch... « Endlig,
+                        endlig isch er jetz do, dà schöne Tag... Morn ka-n-ich
+                        se jetz endlig sàh... Morn geht se dure... Die
+                        G'legeheit will ich jetz awer o benutze, wenn nur schön
+                        Wetter isch... »
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ah!... voilà... do hat er schint's e Brief biku vo-n-
+                        ere, ass se kunnt, un jetz hat er Angst, as es kunnt ku
+                        regne un ass se das viellicht kännt abhalte... Wer mag
+                        jetz das si, die Jumpfer Venüs? kennsch Dü ebber eso do
+                        ummenander?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Nei, awer uf das kasch Dü nitt geh... Venüs isch
+                        wohrschinlig ihre Vorname... ich ha-n-en scho g'sah im
+                        Kalender.
+                    </p>
+          <pb n="203"/>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Aha... still... jetz kunnt mr ebbes i... 's Marie, wo
+                        Magd isch dert àne-n-an uns, hat mr g'sàit, ass si
+                        Herrschaft e Nièce erwartet dà Morge... isch das ebbe
+                        Die, un will se dr Herr Himmel viellicht hirothe? Was
+                        meinsch, Joseph, we mr e Fraü in's Hüs bekàmte!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Jà... derno wàr halt unsere schöne Zit umme!... awer er
+                        in sim Alter hirothe... ich ka's schier nitt glaüwe, un
+                        doch...
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Un doch sin alle-n-Azeiche do dervo!...</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Partant pour la Syrie)</stage>
+            <l>Mir lehn's bi dem nitt bliwe,</l>
+            <l>'s derf uns kei Fraü in's Hüs,</l>
+            <l>Sie thàt uns G'setze schriwe</l>
+          </lg>
+        </sp>
+        <sp who="#joseph_kutz #katele">
+          <speaker>(Mitnander)</speaker>
+          <lg>
+            <l>Drum thien mir jetz o schwöre,</l>
+            <l>Das soll un derf nitt g'schàh,</l>
+            <l>Mir wànn dàr Venüs lehre,</l>
+            <l>Wo si ne Mann soll nàh.</l>
+            <stage>}bis</stage>
+          </lg>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Un züedem hà mir o noch d'Chance fir z'erwe, wenn er
+                        nitt hirothet!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Tiens... 's isch jo wohr... er hat jo glaüb keine
+                        Frind?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>So viel ich weiss alleweg nitt... siter ass mr do sin,
+                        isch jo noch nie kei Mensch züe-n-em ku... un schriwe
+                        thüet er o in Nieme... doch halt... <pb n="204"/>jetz kunnt mr ebbes
+                        i: gestert z'Nacht hat er par extra ordinaire e Brief
+                        g'schriwe un hat ne noch salwer uf d'Post tràit... er
+                        hat g'sàit, er gieng doch üs.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Eh... das isch an si Venüs gsi... wege dem kunnt se
+                        viellicht hit?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>'s isch möglich... doch i glaüb i hör ne ku... gang...
+                        fahr ab in Di Kuche <stage>('s Kàtele geht üse rechts, dr
+                            Joseph stàibt ab).</stage>
+                    </p>
         </sp>
       </div>
       <div type="scene">
         <head>II. Uftritt.</head>
-        <stage>Jumpfer Wachtle, Herr Lerch, derno dr Kamifeger.
-                    </stage>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch</speaker>
-          <stage>(kunnt hinte-n-ine)</stage>
-          <p>Jumpfer Wachtle, ich wünsch Ere ne güeter Morge... ich
-                        bin e wenig spot hit... ich ha noch miesse mi böser
-                        Finger verbinde...
+        <stage type="characters">Herr Himmel, Joseph.</stage>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Aha... sin Ihr do Joseph?... was doch das ebbes schön's
+                        isch, d'Astronomie!... 's blibt ere nit verborge... gar
+                        nit!... me weisst jetz sogar, was dr Mond un d'Sunne un
+                        d'Sterne fir Metall in si hàn!... d'Sterne, wo doch
+                        scho-n-eso wit sin vo do, ass ihre Heitere, wo doch 77
+                        Taüsend Stund z'rucklegt in ere Secunde, 75 Johr brücht
+                        fir do uf d'Erde z'ku!
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Siter wenn hàn Sie ne böser Finger?</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Scho drei Tàg... 's isch glaüb dr Umlaüf... un grad noch
-                        am Zeigfinger an dr rechte Hand...
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Aha!... jetz packt's en wieder a... ich will em e wenig
+                        helfe.<stage>(lüt)</stage> Meine Se, hat's o Lit dert owe, Herr
+                        Himmel?
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Se känne-n-is awer doch e wenig accompagniere?...</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Was denkt Se... Se sieht jo, ass ich ne verbunde ha...
-                        ich wott schön Dings mache!
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Z'erst will ich Eüch sage... 's git kei « unte » un kei
+                        « owe »... d'Mensche heisse g'wöhnlig « owe », wo se dr
+                        Kopf hàn... un « unte », wo se d'Fiess hàn... awer
+                        z'Nacht derno sage se 's gliche, un ihre Position isch
+                        doch grad 's Gegetheil... denn mr sin <pb n="205"/>grad wie Gufe, wo
+                        ringsum in ere Balle thàte stecke un wo me derno thàt
+                        ummedràihe...
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Un ich ha mich eso g'freit fir Müsik z'mache!... unsre
-                        schöne Romance do, wo mr hätte känne singe!
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das isch alles recht... awer, wie kunnts denn derno, ass
+                        z'Nacht züem Exempel d'Milch nitt üslaüft, wenn dr Hafe
+                        z'unterscht z'ewerscht steht?
                     </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Ich ka jo doch singe, wenn ich scho dr Finger verbunde
-                        ha... mir singe-n-ohne Klavier!
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Das kunnt her, will d'Erde-n-alle Gegestànd an sich
+                        zieht, am Tag wie z'Nacht.
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Das geht nitt, Herr Lerch!... 's hat jo kei Art
-                        eso!...
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Dass müess si... denn se hat mich diemol o azoge
+                        z'Nacht... d'Stege-n-awe!... ich ha-n-è Fehltritt
+                        g'macht un hasch mi g'sàh... ich bin eso g'schwind
+                        dunte gsi as wenn's am Tag gsi wàr.
                     </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Thàt Sie-n-emol prawiere z'accompagniere... 's isch
-                        jo-n-eso licht, das Lied...
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Un Ihr meine noch, eb's o Lit hat dert owe!...
+                        Wisse-n-Ihr denn nitt, ass es dert viel grössere un
+                        schönere Welte hat, wo màngmol bis acht Mond drum umme
+                        gehn, wàhrend ass mir do nur einer hàn.
                     </p>
         </sp>
-        <pb n="546"/>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Derno ka-n-ich nitt güet singe... ich müess gar
-                        ufpasse... ne so ha-n-ich kei G'nuss dervo...
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Jo... un dà müess noch voll si, bis ass er e wenig
+                        Effekt macht!
                     </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Was dr Kückück's hört me nur o fir e Làrme do nàwes in
-                        dr Wand d'ganze Zit?
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Was isch denn derno dr Mensch uf dr Erde, Joseph... uf
+                        dem Sandkärnle, wo in dr Unendligkeit mit noch viel
+                        Andere-n-umme schwebt!... Wie Omeise laüfe mr drum
+                        umme, un wenn d'ganze Menschheit uf eimol z'Grund
+                        gieng, so thàt das in dem allem nitt 's G'ringste
+                        changiere.
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>'s isch dr Kàmifeger, wo 's Kàmi üsrackelt... mien Sie
-                        jetz grad e böser Finger ha... me meint grad, Sie
-                        mache's express...
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich bi nitt vo dr gliche Meinung... wenn jetz nur er
+                        allei thàt sterwe un hätt uns nitt in si Testement
+                        g'setzt, so wàre mir do im e schöne Dunkes, 's
+                        Kàtele-n-un ich!
                     </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Awer Jumpfer Wachtle!... wie ka Sie nur eso ebbes
-                        sage... ich, wo dur's Fir gieng, fir Ihre ne Freid
-                        z'mache... wenn ich nur ebbes wisse thàt, wo-n-is kännt
-                        accompagniere...
+        <pb n="206"/>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Nit, Joseph...</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Hein!... worum nitt...</p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Nit thüet dr Geist so in d'Höche schwinge, wie
+                        d'Astronomie!
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle</speaker>
-          <stage>(fir z'foppe)</stage>
-          <p>Dr Kàmifeger viellicht im Kàmi dert....</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Tiens... ne Idee!... grad gestert hat me mir verzählt,
-                        ass e Kàmifeger hie seig, wo Klavier spiele ka... wer
-                        weisst... 's isch viellicht grad dà...
+        <spGrp type="simultaneous">
+          <sp who="#herr_himmel">
+            <lg>
+              <head>G'sang</head>
+              <stage>(Ah te dirais-je Maman)</stage>
+              <l>Sternle, wie sin Ihr so schön,</l>
+              <l>Wenn ihr z'Nacht am Himmel stehn!</l>
+              <l>Wie so gern thüe-n-eüch b'schaüe</l>
+              <l>Un mi Seel eüch avertraüe!</l>
+              <l>Sternle, Sternle-n-unbekannt,</l>
+              <l>Sin ihr viellicht 's g'lobte Land?</l>
+            </lg>
+          </sp>
+          <sp who="#joseph_kutz">
+            <speaker>Joseph</speaker>
+            <stage>(züe glicher Zit mit ere Variation)</stage>
+            <lg>
+              <l>Was hat er z'verzähle wieder?</l>
+              <l>Vor de Sterne kneit er nieder,</l>
+              <l>In de Wulke thüet er schwewe,</l>
+              <l>Kràbst wer weiss wie hoch.</l>
+              <l>Glaübt me, we me-n-ihn thüet b'schaüe,</l>
+              <l>Ass er jetzt noch denkt an d'Fraüe,</l>
+              <l>Un thàt's ebber denn errothe,</l>
+              <l>Ass er hat im Sinn z'hirothe?</l>
+              <l>D'Astronome sin halt Narre,</l>
+              <l>Ich ha's ebbe scho-n-erfahre,</l>
+              <l>We me müess mit ihne lewe,</l>
+              <l>Wird me's wisse doch.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Zeige jetz, Joseph... mache-n-ass Ihr fertig werde un
+                        lehn mi derno-n-allei... ich will durchüs nitt
+                        derangiert si dà Morge... höre-n-Ihr, Joseph? durchüs
+                        hitt!<stage>(fir sich)</stage> am Zehne-n-un 17 Minüte müess sie sich
+                        ifinde<stage>(er lüegt uf d'Ühre)</stage> 's isch jetz Dreiviertel... <pb n="207"/>
+                        ich ha grad dr Zit mich z'rischte<stage>(er macht sich
+                        z'schaffe-n-am Tisch)</stage>.
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Hà hà hà... ne Kàmifeger am Klavier!</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Sie lacht!... ich, versicher Se, me hat mr g'sàit, dà
-                        Mann seig als schint's frieiher in dr Höche gsi un seig
-                        derno uf eimol awe ku...
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Also am Zehne-n-un 17 Minüte... güet... ich will jetz
+                        emol lüege, was das fir Eine-n-isch, wo-n-em eso dr
+                        Kopf verdreiht.<stage>(lüt)</stage> Hàn Sie nit meh z'b'sorge, Herr?
+                        ich gang jetz...
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Ich zwifel nitt dra... alle Kàmifeger, wo in dr Höche
-                        gsi sin, kämme-n-als wieder awe...
-                    </p>
-          <pb n="547"/>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Sie versteht mich nitt... ich mein, vor ebb er Kàmifeger
-                        gsi isch... ich will en emol froge...<stage>(er macht
-                        d'Thüre-n-uf hinte un rieft üse)</stage> He Kàmifeger!
-                    </p>
-        </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Kàmifeger</speaker>
-          <stage>(üs em Kàmi)</stage>
-          <p>Was b'liebt?...</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Kännte-n-Ihr uns viellicht e wenig accompagniere?..</p>
-        </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Kàmifeger.</speaker>
-          <p>Wohi... ins Wirthshüs?...</p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Do hà mr's!...</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>E nei... ich mein, eb Ihr viellicht känne ne wenig
-                        Klavier spiele?
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Nei... 's isch güet,<stage>(Joseph geht hinte-n-üse) Herr
+                        Himmel, allei:)</stage> Mi Herz schlat voller Erwartung... 's
+                        isch ewe ne seltene-n-Erschinung, wo me benutze
+                        müess... me sieht nitt alle Tag d'Venüs vor dr Sunne
+                        duregeh... wie lang ha-n-ich scho blangt druf, fir
+                        g'wisse Rechnunge z'verifiziere... wenn nur keine Wulke
+                        kämme!...<stage>(er richtet si Fernrohr)</stage> bis dohi isch nit
+                        z'ferchte<stage>(er lüegt uf d'Ühre)</stage> noch e Minüte-n-un mi
+                        Wunsch wird erfillt<stage>(er sitzt an si Femrohr un nimmt
+                        d'Ühre-n-in d'Hand)</stage> jetz heisst's ufpasst... wenn nur
+                        im Nochber si Amsle nitt grad wieder afangt z'pfiffe...
+                        me glaübt nitt, wie mich das Vieh agàçiert mit sim «
+                        Schnider isch e Fadedieb! » 's isch als kei Red meh vom
+                        Rechne... ich kenn als kei Zahle meh!....<stage>(er lüegt
+                        in's Fernrohr)</stage> o weh!... jetz kunnt grad e Wulke
+                        dert... wenn sie's scho express thàt mache, so hätt's
+                        se's nitt besser känne-n-errothe... se kunnt... se
+                        kunnt... un hasch mi g'sàh... jetz isch d'Sunne
+                        derhinter!... das isch jetz awer do ch züe arg, me
+                        möcht si d'Hoor üsrisse!...<stage>(me hört d'Amsle pfiffe)</stage>
+                        So... un das jetz o noch!... Oh!... ich müess furt...
+                        ich müess üse... dr Zorn bringt mi sunscht um... wenn
+                        ich nur das Vieh kännt ha, ass ich em emol kennt dr
+                        Hals umdreihe!... Oh, ich müess se ha... ich kaüf's em
+                        eher ab... awer ich will se ha... ich müess se ha!<stage>(er
+                        geht hinte-n-üse)</stage>.
                     </p>
         </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Kàmifeger.</speaker>
-          <p>E wenig, jo... ich bi awer nitt stark!</p>
+        <pb n="208"/>
+      </div>
+      <div type="scene">
+        <head>III. Uftritt.</head>
+        <stage type="characters">Joseph, Kàtele.</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(streckt dr Kopf dur, d'Thüre links)</stage>
+          <p>Er isch ab!</p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Güet, so kämme nur awe... 's gitt nitt difficil's
-                        z'spiele...<stage>(züer Jumpfer Wachtle)</stage> was ha-n-i g'sàit...
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(streckt dr Kopf dur d'Thüre rechts)</stage>
+          <p>Isch er furt?<stage>(se kämme beide-n-ine)</stage> was isch jetz?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ich ha se g'sàh!</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Was g'sàh!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>D'Jumpfer Venüs denn!... 's isch e schöne, grosse
+                        Person... dr Herr isch nitt emol dumm... am Zehne scho
+                        bin i awe-n-un ha-n-ufpasst... un küm bin i dert gsi,
+                        so isch se-n-aku... noch frieiher, ass se dr Herr
+                        erwartet hat... se hat e Reistàsche g'ha un isch bim
+                        Nochber ine.
                     </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Das isch awer jetz ganz merkwürdig!<stage>(Dr Kàmifeger kunnt
-                        hinte-n-ine, er hat dr Hüet iwer d'Aüge un e schwarz
-                        Tüech iwer Mül un Nase bunde)</stage>.
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ah so! Dü gehsch geh uf d'schöne Jumpfraüe passe un
+                        losch mich allei in dr Kuche!
                     </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Do setze-n-i ans Klavier... mr wann emol lüege was Ihr
-                        känne<stage>(dr Kàmifeger verneigt si, legt dr Bese-n-ufs
-                        Klavier, sitzt dra un fangt a z'spiele)</stage>.
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>'s isch jo fir uns alle beide, ass ich g'lüegt ha... mr
+                        mien doch wisse, was mr z'ferchte hàn un was
+                        z'mache-n-isch.
                     </p>
-          <pb n="548"/>
         </sp>
-        <stage>G'sang</stage>        
-        <sp who="#herr_lerch #jumpfer_wachtle">
-          <stage>(Herr Lerch un Jumpfer Wachtle mitnander.)</stage>
-          <lg>
-            <l>Wenn ich 's Herz will verschenke,</l>
-            <l>Sa gib ich's in dem nur,</l>
-            <l>Wo-n-ich ka sicher denke,</l>
-            <l>Ass 's Glick uns lacht derdur;</l>
-            <l>Wer 's Eh'band verbindet</l>
-            <l>Un umwindet,</l>
-            <l>Müess finde si Glick</l>
-            <l>In dem G'schick;</l>
-            <l>Denn sunscht thüet's verleide</l>
-            <l>Bol in beide</l>
-            <l>Un 's git, anstatt Freid,</l>
-            <l>Als viel Leid!</l>
-            <l>Wenn d'Liewe nitt b'steht</l>
-            <l>Un vergeht,</l>
-            <l>So git's als viel Leid,</l>
-            <l>Anstatt Freid,</l>
-            <stage>{bis</stage>
-            <l>Wenn ich 's Herz will verschenke,</l>
-            <l>So gib ich's in dem nur,</l>
-            <l>Wo-n-ich ka sicher denke,</l>
-            <l>Ass mir hàn derdur</l>
-            <l>Glick un Freide</l>
-            <l>Fir uns beide.</l>
-          </lg>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Jà meinsch Dü wirklig, ass dr Herr im Sinn hat
+                        z'hirothe?
+                    </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Sie.</speaker>
-          <lg>
-            <l>Wenn eüch d'Liewe-n-als thüet winke,</l>
-            <l>Lehn se nitt voriwer geh,</l>
-            <l>D'Jugend zieht mit Schritt, mit flinke,</l>
-            <l>Un z'ruck kunnt se nimmig meh.</l>
-          </lg>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Eb er im Sinn hat z'hirothe!... er isch jo ganz firig un
+                        red vo nit meh as vo siner Venüs... erst vorig isch er
+                        d'Stege-n-awe wie ne Pfil un hat g'sàit fir sich: «Ich
+                        will se ha, ich müess se ha! » un meinsch <pb n="209"/> nur, was er
+                        diemol g'sàit hat!... 's kunnt mr jetz grad i... ich ha
+                        g'lost an dr Thüre un do hat er vo siner Venüs g'ha...
+                        un ich ha ganz ditlig g'hört, wo-n-er g'sàit hat: «
+                        Wenn ich das wott wisse, so miesst ich se halt känne
+                        b'schaüe glich am Morge, wenn se-n-ufsteht. »
+                       <stage>(schelmisch)</stage> Was meinsch, Kàtele... was wott er
+                        wisse... hein?
+                    </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Er.</speaker>
-          <lg>
-            <l>Drum soll me profetiere</l>
-            <l>Un soll Hand in Hand marschiere!</l>
-            <stage>(er will ere d'Hand nàh, se stosst ne z'ruck)
-                        </stage>
-            <pb n="549"/>
-            <l>D'Jugend zieht mit Schritt, mit flinke,</l>
-            <l>Un z'ruck kunnt se nimmig meh.</l>
-            <l>Wenn ich 's Herz etc.</l>
-          </lg>
-          <stage>(Dr Kàmifeger blibt am Klavier sitze un blättert
-                            in dr Müsik.)
-                        </stage>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Oh! Joseph... wenn nur Dü o noch so wàrsch gege Di
+                        Kàtele!
+                    </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch</speaker>
-          <stage>(züer Jumpfer Wachtle)</stage>
-          <p>Wie findet Sie ne?</p>
-          <stage>(er zeigt uf dr Kàmifeger.)</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Vor allem z'àmme, Kàtele, wà mr z'erst lüege, wie mr in
+                        dere G'fohr känne-n-üswiche... denn nitt wohr, mr wànn
+                        durchüs kei Fraü im Hüs ha?
+                    </p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Wisse Se, ass er erst noch güet spielt!</p>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(lost)</stage>
+          <p>Still!... ich hör 's Kleine grine... 's hat Mundfile, dà
+                        arme Tropf! hörsch's, Joseph?... gang nimm's e wenig un
+                        mach's z'schwige.
+                    </p>
         </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Weisst Sie awer, ass Sie jetz o-n-efange güet singt,
-                            Jumpfer Wachtle!...
-                        </p>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Nimm Dü's... Dü bisch si Müetter.</p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Ich's e Wunder mit eme so ne Lehrmeister, wie Sie
-                            einer sin!
-                        </p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Wenn's awer eso furtgeht, so wird Se mich jetz bol
-                            nimmig brüche fir Lehrmeister, Jumpfer Wachtle...
-                            was soll ich derno mache... kännt Se mich viellicht
-                            nitt fir ebbes anders brüche... fir Ihre Mann züem
-                            Exempel?...<stage>(Dr Kàmifeger fangt a z'spiele.)</stage></p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Tiens... im Herr Büechfink si Lieblingslied...</p>
-          <stage>(se singt, dr Kamifeger accompagniert)</stage>
-          <lg>
-            <l>Im rüche Herbstwind kunnsch ku fliege,</l>
-            <l>Wohi, arm Blättle, thüesch dü ziege</l>
-            <l>In dinre Noth?</l>
-            <l>Fir immer isch di Pracht verschwunde,</l>
-            <l>Vom Wind verfolgt irrsch dü do unte</l>
-            <l>Verwelkt un tot!</l>
-            <l>Wo d'Vogelschaar noch mit Vertraüe</l>
-            <l>Isch in dim Schutz ku 's Nestle baüe,</l>
-            <l>Wie bin ich froh,</l>
-            <pb n="550"/>
-            <l>Als einsam in di Schatte g'sesse</l>
-            <l>Un ha im stille Wald vergesse</l>
-            <l>Mi Leid eso.</l>
-            <l>Hit uf dr Erde, uf dr kalte,</l>
-            <l>Thüesch dü jetz mine Schritt ufhalte</l>
-            <l>Un dumpf verhallt,</l>
-            <l>Ringsum, wo sie mich ane trage,</l>
-            <l>As wie ne Stimm, wo still thàt klage</l>
-            <l>Im leere Wald.</l>
-          </lg>
-          <stage>(Dr Kàmifeger blibt sitze, improvisiert
-                    müsikalische Phrase uf's G'spràch, wo folgt, un
-                    zieht züe glicher Zit derzwische si Kàmifegerkleid
-                    üs.)
-                </stage>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Mit allem dem hat Sie mir vorig kei Antwort gà,
-                            Jumpfer Wachtle, uf das was ich Se g'frogt ha...
-                        </p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Was hàn Se mich denn g'frogt g'ha?</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Sie weisst's jo wohl... awer Sie wicht mir allewil
-                            üs... un doch, wenn Sie wisse thàt...
-                        </p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Was denn, Herr Lerch?...</p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Wie gern ass ich Se ha?...</p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Gehn Se doch!... das sage-n-eim alle junge Lit!...
-                        </p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch.</speaker>
-          <p>Awer mir isch's Ernst, Jumpfer Wachtle!... Oh, sieht
-                            Se... ich halt's nimmig langer üs... ich ha d'Ehr,
-                            Sie définitivement um ihre Hand z'froge.
-                        </p>
-        </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Dr Kàmifeger</speaker>
-          <stage>(wo si Kàmifegerkleid siter üszoge hat, springt uf
-                        un steht uf d'anders Site vo dr Jumpfer Wachtle)
-                    </stage>
-          <p>Jumpfer Wachtle, ich ha o d'Ehr, Sie définitivement
-                            um Ihre Hand z'froge!...
-                        </p>
-          <pb n="551"/>
-        </sp>
-        <sp who="#herr_lerch #jumpfer_wachtle">
-          <speaker>Herr Lerch un Jumpfer Wachtle.</speaker>
-          <p>Dr Herr Büechfink!...</p>
-        </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Un ich, wo Sie fir e wirkliger Kàmifeger gnu hà!...
-                            was kunnt Ihne-n-i, sich eso z'verkleide?...
-                        </p>
-        </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Herr Büechfink.</speaker>
-          <p>Ich bi halt jaloux gsi, Jumpfer Wachtle... un wil
-                            ich g'wisst ha, ass dr Herr Lerch nitt ka Klavier
-                            spiele wege sim Finger, so ha-n-ich ihm die Bàre lo
-                            abinde vom Kàmifeger, wo Klavier spielt... un bi
-                            derno als Kàmifeger do ane ku... Sie sieht, ass mi
-                            List g'lunge-n-isch... uf die Art ha-n-ich känne do
-                            ane ku, fir z'lose, eb Sie dr Herr Lerch gern hat
-                            oder eb ich ka Hoffnung ha...
-                        </p>
-        </sp>
-        <sp who="#herr_lerch">
-          <speaker>Herr Lerch</speaker>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
           <stage>(zornig)</stage>
-          <p>Herr Büechfink!...</p>
+          <p>Un Dü... was bisch Dü anders!</p>
         </sp>
-        <sp who="#herr_buechfink">
-          <speaker>Herr Büechfink.</speaker>
-          <p>Herr Lerch!...</p>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Alleweg emol si Müetter nitt... sàll isch sicher!</p>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle.</speaker>
-          <p>Ihr Herre... wil mr jetz grad eso schön binander
-                            sin, so wà mr « 's Frieihjohr » noch singe... 's
-                            hat mir allewil züe güet g'falle...<stage>(züem Herr Lerch)</stage>nitt wohr, Sie singe? <stage>(züem Herr Büechfink)</stage> nitt wohr, Sie spiele?</p>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Dü bisch e dummer Gàiferi, ass De's nur weisch!<stage>(se geht
+                        hinte-n-üse)</stage>.
+                    </p>
         </sp>
-        <sp who="#herr_lerch #herr_buechfink">
-          <speaker>Beide.</speaker>
-          <p>Mit Vergniege, Jumpfer Wachtle!</p>
-          <stage>(dr Herr Büechfink geht ans Klavier un spielt,
-                            Herr Lerch un Jumpfer Wachtle singe)
-                        </stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Die Hiroth... die Hiroth steckt mr im Kopf... was isch
+                        nur o z'mache, ass das Ding züe nit geht.
+                    </p>
         </sp>
-        <sp who="#jumpfer_wachtle #herr_lerch">
+        <pb n="210"/>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt z'ruck)</stage>
+          <p>Do isch e junger Mensch, Joseph, wo mit Dir rede wott
+                       <stage>(Herr Silwer kunnt hinte-n-ine un salütiert. Kàtele
+                        geht hinte-n-üse rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IV. Uftritt.</head>
+        <stage>Joseph, Herr Silwer, derno Kàtele.</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>So, so... un was wàr Ihne g'fàllig, güeter Frind?</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(salütiert)</stage>
+          <p>Sie sin dr Herr Kütz?... ich hätt Ene do ne Brief abz'gà
+                        vo mim Vater.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(nimmt en un liest)</stage>
+          <p>Eh, tiens!... 's isch jo wohr... Sie sin jo mi
+                        Gottekind... dr Suhn vo mim güete Frind Silwer vo
+                        Colmer!... ich hatt Sie schier nimmig erkennt... 's
+                        isch halt scho ziemlig lang; ass Sie vo hie furt sin!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Jo... 's wird jetz zeh Johr.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ihre Vater hat Ene schint's g'sàit, Sie solle sich an
+                        mich, Ihre Gätte, wende... ich kännt Ene viellicht e
+                        Platz verschaffe hie... hat's Ene denn nimmig g'falle
+                        z'Colmer bi Ihrem Guldschmidt? 's isch doch e schön
+                        Handwerk, Bijoutier!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>'s hätt mr wohl g'falle... awer 's isch... 's wàr... ich
+                        hätt...
+                    </p>
+          <pb n="211"/>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Güet, güet... ich merk's scho... 's wird e-n-àime ne
+                        Liebschaft nitt üsg'falle si no Ihrem Wunsch... ich ha
+                        das Ding zwische de Zilde g'lese-n-in Ihrem Brief.<stage>('s
+                        Kàtele kunnt iue rechts)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Eh bien... ich will ufrichtig si... als güeter Frind vo
+                        mim Vater ka-n-ich's Ihne wohl sage, 's isch wohr...
+                        ich ha ne Jumpfere gern g'ha... awer ihre-n-Eltere
+                        hàn's nitt welle lide, wil ich kei Vermöge ha... un
+                        jetz hàn Sie se uf Strossburg g'schickt züe-n-ere
+                        Tante, fir ass ich se nimmig sott sàh... ich ha nitt
+                        emol meh dr Zit g'ha, mit ere z'sede, so g'schwind
+                        isch's gange.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Se hàn's o nitt welle ha, wil Sie ne wenig lichtsinnig
+                        sin... nitt wohr?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Wil ich e wenig müethwillig bi, wànn Se sage?</p>
           <lg>
-            <l>Wenn 's Frieihjohr lacht</l>
-            <l>Mit sinre Pracht,</l>
-            <l>Wenn d'Vögel wieder singe,</l>
-            <l>Wenn d'Sunne kunnt,</l>
-            <l>Wenn 's Bliemle bunt</l>
-            <l>Im Wald verwacht,</l>
-            <pb n="552"/>
-            <l>Wenn alles wieder grien,</l>
-            <l>Wenn sanfte Liftle ziehn,</l>
-            <l>Wenn's duftet frisch im Wald,</l>
-            <l>So freit sich jung un alt!</l>
-            <l>Wenn z'Nacht dr Mond</l>
-            <l>Am Himmel thront,</l>
-            <l>Wenn d'Nachtigall thüet singe,</l>
-            <l>Singt alles no,</l>
-            <l>Was duss derno</l>
-            <l>Im Griene wohnt;</l>
-            <l>Wenn wieder d'warme Luft</l>
-            <l>Verbreitet Blüemeduft,</l>
-            <l>Das isch e schöne Stund,</l>
-            <l>Denn 's isch 's Frieihjohr, wo kunnt!</l>
-            <stage>bis{</stage>
+            <head>G'ang</head>
+	    <stage>(Enfants de Bacchus)</stage>
+            <l>Wer sich viel Kummer macht,</l>
+            <l>Wer nie singt un nie lacht,</l>
+            <l>Dà isch z'bedüre halt,</l>
+            <l>Denn g'wiss, er wird nitt alt!</l>
+            <l>Drum will ich liewer nitt</l>
+            <l>Mich züe arg krànke hit</l>
+            <l>Un d'Zit nàh, wie se-n-isch,</l>
+            <l>So blib ich g'sund un frisch.</l>
+            <l>Ich will kei Sorge ha,</l>
+            <l>Will üs em Kopf sie schla,</l>
+            <l>Denn dis nutzt jo doch nit,</l>
+            <l>'s kunnt alles mit dr Zit!</l>
           </lg>
         </sp>
-        <sp who="#jumpfer_wachtle">
-          <speaker>Jumpfer Wachtle</speaker>
-          <stage>(geht an d'Thüre rechts)</stage>
-          <p>Ihr Herre... d'Singstund isch fertig!</p>
-          <stage>(se verschwindet; dr Vorhang fallt.)</stage>
+        <pb n="212"/>
+        <sp who="#herr_silwer #joseph_kutz">
+          <speaker>(Mitnander)</speaker>
+          <lg>
+            <l>Mir wànn kei Sorge ha,</l>
+            <l>Wànn üs em Kopf sie schla,</l>
+            <l>Denn das nutzt jo doch alles nitt,</l>
+            <l>'s kunnt alles mit dr Zit!</l>
+          </lg>
         </sp>
-        <pb n="553"/>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>So, so... un do sin Sie also uf Milhüse ku, fir sich e
+                        wenig z'vergesse?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Un fir ebbes z'verdiene... denn ich müess Ihne g'steh,
+                        ass ich kei Rappe meh im Sack ha.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Diable, diable!... zeig, Kàtele, Dü wo mit alle
+                        Gottebàsi üs em Quartier thüesch ràtsche... weisch Dü
+                        nit fir dà junge Mensch?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Wart... ich müess mi b'sinne...<stage>(se b'schaüt dr Herr
+                        Silwer vo alle Site)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Worum b'schàüsch en eso?</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ich müess doch lüege, züe was as er güet möcht si</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>In sim Alter isch me fir alles güet.</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Aha, still!... ich weiss ebbes... dr Seiler dert unte
+                        süecht ebber, fir ihm 's Rad z'dràihe.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das war eso ebbes, junger Mensch... 's isch nitt
+                        difficil un...
+                    </p>
+          <pb n="213"/>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Ich 's Rad dràihe!... par Exemple... merçi, worum nitt
+                        glich e-n-Orgle dràihe!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ebbes anders denn... Kàtele, Dü hasch 's Wort.</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Dà Rentier do nàwes will in sim Kleine d'Müsik lehre
+                        lo... 's Klavier glaüb...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Aha!... voilà... das wàr ebbes bessers... nitt wohr,
+                        junger Mensch?... Müsikprofesser, das isch kei schlecht
+                        Handwerk... Sie werde jo wohl e wenig Müsik versteh?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>E wenig, jo... ich ha ne Zit lang d'Gige g'lehrt.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Eh parbleu... das isch, was Se brüche... wenn Sie d'Gige
+                        g'lehrt hàn, so känne Sie ganz güet Klavierstunde gà.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Oho!... 's isch jo gar kei Verglich zwische dàne zwei
+                        Instrumente!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>'s isch allewil Müsik... mit e wenig Toupet ziehn Sie
+                        sich scho drüs... gehn Sie nur awe züe dem Herr un
+                        proposiere Sie sich un lehn Sie sich glich e Monet
+                        vorzahle... se sage, 's seig eso Ihre G'wohnet... we me
+                        derno nitt z'friede mit Ene-n-isch, was froge Sie
+                        derno... 's Geld hàn Se.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Das geht nitt... ich kenn jo gar nit vom Klavier.. ich
+                        weiss nitt emol, wie d'Note placiert sin.
+                    </p>
+        </sp>
+        <pb n="214"/>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Sie froge-n-Ihre-n-Elève... er weisst viellicht.</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Do wàr's also mi Élève, wo mir Lectione gàb?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das hat me scho vielmol g'sàh, ass dr Elève stärker isch
+                        as dr Meister .
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Das isch e wenig z'stark... ich traü's nitt z'woge.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Junger Mensch, ich sieh scho, dr güete Wille fehlt
+                        Ene... was nutzt's Ihne Plàtz az'trage, wenn Sie keiner
+                        wànn anàh.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Possige Plàtz, wo-n-er mir do atràit.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Voyons, Kàtele... hasch viellicht noch ebbes anders?</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Jetz gr ad nitt... still! 's kunnt ebber 's wird doch
+                        ebbe dr Herr nitt si... awer nei... dà kunnt jetz no
+                        nitt heim...<stage>(se geht hinte-n-üse geh lüege)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>We me hitigstags will Geld verdiene, so derf me nitt so
+                        verschrocke si... 's Toupet macht alles!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine)</stage>
+          <p>'s isch die Wittfraü, die riche, vo do unte... d'Madame
+                        Frindlig... se hat schint's züe arg Zahnweh siter die
+                        Nacht... se kunnt ku froge, eb mir nitt e güeter
+                        Zahnarzt kenne... se isch decidiert, ihre Zahn lo
+                        üsz'zieh, wc-n-ere so weh macht.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>D'Madame Frindlig... isch sie selbst ufe ku?</p>
+          <pb n="215"/>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Sie selbst... se isch duss.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Mach se-n-uf dr Stell ine z'ku... ne riche Dame, wo nitt
+                        màrtet... décidément, junger Mensch, Sie hàn e
+                        Chance... 's Glick kunnt Ihne-n-entgege<stage>(Kàtele geht
+                        hinte-n-üse geh se hole)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(verwundert)</stage>
+          <p>Mir?... ich verstand Se nitt.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(ifrig)</stage>
+          <p>Sie sin jung un stark un hàn e solide Hand... me brücht
+                        nitt mehr, fir e-n-excellenter Zahnarzt z'si... ziehn
+                        Sie-n-in dere Darne-n-ihre lahn üs... se zahlt güet...
+                        ich will du reste dr Pris scho mit ere üsmache.
+                    </p>
+        </sp>
+        <sp who="#herr_siwer">
+          <speaker>Herr Siwer.</speaker>
+          <p>Ich e Zahn üszieh!... was denke Se... ich ha jo kei Idee
+                        vo dem Dings... ich kännt die Dame blessiere!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>'s isch kei G'fohr!... ich ha dert e Pfàtzzàngle un e
+                        Bisszange... das isch g'schwind g'schàh... Sie hàn doch
+                        o scho Nägel üsg'risse mit ere Bisszange? 's isch 's
+                        ganz gliche.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Das isch awer jetz...</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Scht!... still! do isch se.<stage>(d'Madame Frindlig kunnt me
+                        mit em Kàtele, dr Kopf ganz umwickelt, un jommert)</stage>.
+                    </p>
+        </sp>
+        <pb n="216"/>
+      </div>
+      <div type="scene">
+        <head>V. Uftritt.</head>
+        <stage type="characters">D'Gliche, Madame Frindlig.</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(laüft ere ergege un git ere ne Stüehl)</stage>
+          <p>Was ha-n-i erfahre, Madame Frindlig, Sie heb eso arg 's
+                        Zahnweh... Sie well sich einer lo üszieh?
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(schmerzhaft)</stage>
+          <p>Oh, jo... jo... ich bi ganz decidiert... ich ka nimmig
+                        schlofe ich ka nimmig esse... ich ka dà Zahn nimmig
+                        b'halte... kenne Sie ne güeter Zahnarzt do in dr
+                        Näche?... ich bi ewe no nitt lan ghie...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>In dem Quartier nitt... Se miesst scho ziemlig wit
+                        geh...
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>O Gott!... isch's möglig... un ich ha-n-eso Schmerze!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Berüehige Sie sich, liewe Nochbere... dr Züefall thüet
+                        Sie pràchtig serwiere... dà junge Mensch, wo Sie dert
+                        sieht, isch Zahnarzt... er kunnt schnüersgrad vo Paris,
+                        wo-n-er sich scho ne famose Repütation g'macht hat in
+                        dem Fach.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Was, dà junge Herr isch Zahnarzt? .. er schint mr awer
+                        noch gar jung...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Er isch noch jung, 's isch wohr... awer stark wie ne
+                        Leb... wo-n-er nin Johr ait gsi isch, hat er scho in
+                        siner Portnere Zähn üszoge... siter hat er in König un
+                        Kaiser d'gliche Operation g'macht un hat nocb nie kei
+                        Zahn g'fehlt... isch's wohr oder nitt, junger Herr
+                        Dokter ?
+                    </p>
+          <pb n="217"/>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(embarrassiert)</stage>
+          <p>Ne Zahn g'fehlt... nei, ich ka herzhaft sage, ass ich
+                        noch nie kei Zahn g'fehlt ha... wil ich noch nie...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Güet, Güet... do hört Se's, Madame Frindlig.</p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Eh bien... wil dà Herr denn eso g'schickt isch so will
+                        ich mich ihm avertraüe...<stage>(züem Herr Silwer)</stage> awer känne
+                        Sie viellicht do operiere? ich wàr eso froh wenn ich dà
+                        Zahn uf dr Stell kännt ab biku.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Natirlig ka-n-er do operiere... er hat
+                        sine-n-Instrumente-n-allewil uf si... nur, vor ebb ihr
+                        afange, soll er Ihre si Pris sage... er isch hait e
+                        wenig thir... awer 's Talent will halt bezahlt si.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Jà, was heischt denn dr Herr fir e Zahn üsz'zieh?</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Ich...</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Zeh Franke... nie weniger.</p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Zeh Franke!... mi Magd hat mr doch g'sàit, sie heb Ein
+                        lo üszieh fir e Mark.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das isch licht möglig un wohrschinlig o noch e Stick vo
+                        dr Backe mit... 's hat halt Zahnàrzt un Zahnàrzt... ich
+                        fir mi Theil, we nie mich thàt zahle, so wott ich mi
+                        Mül in keim Charlatan avertraüe.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Diable! fir 10 Franke kännt me's viellicht doch woge,
+                        <stage>(lüt)</stage> jo, jo Madame, 's Talent isch nitt z'bezahle... <pb n="218"/>
+                        vor allem müess ich Ihne sage, ass ich d'Zähn nitt
+                        üszieh wie d'Andere... ich ha mi b'sundere Methode..
+                        eins... zwei... cràc!... un 's isch ferig!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aha! 's Geld macht si Effect<stage>(lüt)</stage> hört Se's!... do
+                        sieht Se jetz, wie ihn das ufweckt, we me-n-ihm vo
+                        siner Kunst red'...
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Awer zeh Franke, fir eim e Zahn z'nàh!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Er git's ene jo wieder... un wenn se-n-emol üsg'risse
+                        gsi sin, so mache se-n-eim nimmig weh... un was isch
+                        doch e wenig Geld fir keine Schmerze meh z'ha!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz #katele #herr_silwer">
+          <lg>
+            <head>G'sang</head>
+            <stage>(Si j'étais roi de Béotie)</stage>
+            <stage>(Joseph, Kàtele, Herr Silwer mitnander, d'Madame Frindlig laüft ummenander un hebt ihre Backe).</stage>
+            <l>G'wiss, güete Fraü, das geht uns z'Herze,</l>
+            <l>Ass Sie so viel müess lide hit,</l>
+            <l>Denn we me hat, wie Sie, Zahnschmerze,</l>
+            <l>So isch eim z'viel e jeder Schritt.</l>
+            <l>Un doch ka Sie vo Glick noch rede,</l>
+            <l>Ass Sie ne güeter Zahnarzt hat,</l>
+            <l>Wo flink un g'schickt dà Schmerz ka töte</l>
+            <l>Un ass Sie nitt brücht geh in d'Stadt.</l>
+            <l>G'wiss Sie ka jetz vo Glick noch rede,</l>
+            <l>Ass Sie ne güeter Zahnarzt hat.</l>
+          </lg>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(schmerzlig)</stage>
+          <p>Oh!... jetz packt's mi wieder uf e frisch's a!... nu, so
+                        ziehn Se. mir ne denn üs, ich zahl, was Sie wànn... nur
+                        dummle Sie sich<stage>(se losst sich uf dr Stüehl sinke)</stage>.
+                    </p>
+          <pb n="219"/>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(holt zwei Zange fire un schiebt se im Herr Silwer
+                        in d'Hand.)
+                    </stage>
+          <p>Allons, junger Mensch, nàmme Se-n-Ihre Instrumente un
+                        b'sunders lehn Se sich dr kranke Zahn güet zeige, ass
+                        Sie sich nitt trumpiere.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Enfin... wenn's denn si müess, so wà mr's liewer glich
+                        fertig mache.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(macht 's Mül uf)</stage>
+          <p>'s isch dà do... sàhn Se, Herr...</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(imitiert se)</stage>
+          <p>Aha... ga go... jà jà... ich sieh-n-en.</p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig.</speaker>
+          <p>Riehre Sie ne e klei wenig a, fir ass ich sicher bi;<stage>(er
+                        riehrt en a)</stage> genüe!... oh! genue... 's isch ne... ich
+                        sieh 's Fir im Schwarzwald!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Dà wà mr jetz glich ha... ka Sie 's Mül nitt noch e
+                        wenig witer uf mache?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Courage, Fraü Nochbere... ich will se ne wenig hewe-n-an
+                        de-n-Achsle, ass Sie nitt bougiert wàhrend dr
+                        Operation... un 's Kàtele ka-n-Ere viellicht d'Knie
+                        hewe?<stage>(se macht jo mit em Kopf. 's Kàtele kneit
+                        vorne-n-an se, un hebt ere d'Knie)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(nimmt eimol die un eimol d'andre Zange. Fir sich)
+                    </stage>
+          <p>Ich weiss sicher nitt, welle ass ich nàh sott... 's
+                        Pfàtzzàngle 'isch unkummod un d'Bisszange isch
+                        z'breit... Ich ka nitt anderscht as drei Zähn mitnander
+                        nàh!
+                    </p>
+        </sp>
+        <pb n="220"/>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(ungeduldig)</stage>
+          <p>Eh bien, Herr Zahnarzt... uf was warte Se?... Se
+                        känne-n-uns nitt ewig in dere Position lo... mache Se,
+                        ass es emol fertig wird!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(entschlosse)</stage>
+          <p>Ma foi, tant pis!... ich nimm d'Bisszange<stage>(er setzt a un
+                        zieht mit alle Kräfte. D'Madame Frindlig springt in
+                        d'Hoche, dr Joseph un 's Kàtele falle beide hintersi)</stage>.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(schreit wie ab)</stage>
+          <p>Oh là là!... aïe aïe!... Se hà mr jo d'ganze
+                        Backe-n-eweg g'risse!<stage>(se fahrt furt mit jommere)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(b'schaüt freidig si Bisszange un schreit noch viel
+                        starker)
+                    </stage>
+          <p>Voilà!... ça y est!... ich ha-n-en!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(steht uf)</stage>
+          <p>Sapristi, er müess schint's famos g'hebt ha, dà Zahn...
+                        voyons, Fraü Nochbere, berüehige Sie sich... 's isch
+                        fertig... zeig, Kàteie, stand doch emol uf un hol e
+                        Glas Wasser un e Cuvette, ass sich d'Madame Frindlig 's
+                        Mül üsschwenke ka... bravo, Herr Zahnarzt... Sie hàn e
+                        g'schickte Band, zeige Se jetz emol dà famose Zahn.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(hebt si Zange in d'Höche)</stage>
+          <p>Do... schaüe Se-n-emol!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Was sieh-n-i!... thien mich mine Aüge nitt trumpiere?...
+                        's isch nitt nur ei Zahn, 's sin drei, wo Sie mitnander
+                        üsezoge hàn... das isch jo famos.. . das müess me-n-in
+                        d'Zitung setze!... kei Mensch thàt's glaüwe!<stage>('s Kàtele
+                        geht üse rechts)</stage>.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(schmerzhaft)</stage>
+          <p>Drei Zähn!... ah, wege dem isch mi ganze
+                        Kinnlade-n-üsnander... ich ha Sie jo awer nitt heisse
+                        drei Zähn üsrisse... 's hat nur Einer weh tho!
+                    </p>
+          <pb n="221"/>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Jetz heisst's awer Toupet zeigt!<stage>(lüt)</stage> pardon, Madame
+                        Frindlig, pardon... die drei Zahn sin ag'steckt, wege
+                        dem sin se-n-o alle drei mitnander üse ku.<stage>('s Kàtele
+                        kunnt mit Wasser un Cuvette, d'Madame Frindlig schwenkt
+                        sich 's Mül üs)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das isch sicher... b'schaüe Se-n-emol... alle drei sin
+                        schwarz... dà do links grad no nitt... awer er wàr's o
+                        worde un so isch Sie fir 's ganze Lewe debarrassiert vo
+                        ebbes, wo Ihre hätt kanne d'grösste Schmerze
+                        verursache... Dank Ihne, junger Mensch... das isch
+                        e-n-Operation, wo Ihne-n-Ehr macht... drei Zähn
+                        mitnander! das wàr hundert Franke werth un wàr nitt
+                        z'thir... awer wil Sie üsg'macht hàn, ass Sie nur zeh
+                        Franke nàmme fir e Zahn, so isch's also nur drissig
+                        Franke, wo Ihne d'Fraü Nochbere z'zahle hat.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(wo grad 's Mül voll Wasser hat, speit alles im
+                        Kàtele in's G'sicht)
+                    </stage>
+          <p>Drissig Franke!... par exemple!... drissig Franke, fir
+                        mi Mül lo z'vermassakriere!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Me hat Ihne gar nit vermassakriert... liewe Nochbere...
+                        Sie hat e wenig glitte, 's isch möglig, awer Sie ka
+                        Gott danke un dem junge Artist, ass Sie Ihre, Zahn ab
+                        hat... un zeh Franke isch jo der Pris gsi, wo Sie agnu
+                        hat... un wil drei mol zeh drissig macht, so sieht Se,
+                        ass me-n-Ihre kei Centime z'viel heischt.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <p>Do sin se, Ihre Zähn, Madame Frindlig... Sie sieht, ass
+                        es drei sin... keiner mehr un keiner weniger.
+                    </p>
+        </sp>
+        <sp who="#madame_frindlig">
+          <speaker>Madame Frindlig</speaker>
+          <stage>(lüegt se betriebt a un hebt ihr' Backe)</stage>
+          <p>'s isch eithüen... das ich züe arg thir.. un Sie hà mr
+                        famos weh g'macht<stage>(se zieht 's Portemonnaie üse,<pb n="222"/> un
+                        zahlt, thüet d'Zähn am Platz vom Geld)</stage> awer wenn Sie mr
+                        halt versichère, ass se ag'steckt gsi sin...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Kàtele, gib doch unsrer werthe Nochbere dr Arm un
+                        begleit se bis an ihre Thüre<stage>(Katele un Madame Frindlig
+                        gehn üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(b'schaüt si Geld uf dr Hand)</stage>
+          <p>Isch das shön Geld... hein!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(nimmt's em)</stage>
+          <p>Jetz hà mir's mitnander... güeter Frind... ich bi
+                        d'Schuld, nitt wohr, ass Sie das Geld verdient hàn...
+                        also g'hört mir vo Rechtswege d'Hälfte dervo.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(desappointiert)</stage>
+          <p>Ah!... Sie wànn theile?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Natirlig... worum hat me-n-Ihne drissig Franke gà? Wil
+                        Sie g'macht hàn, was ich Sie ha heisse mache!.. das
+                        isch klar, nitt wohr?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Nitt ganz... Sie hà mir g'rothe, ne Zahn üsz'zieh... ich
+                        ha awer drei üszoge.... also gehn Sie zwei dervo nit
+                        a... an dàne hàn Sie nit z'reclamiere.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das isch alles recht... awer wenn ich Sie nitt engagiert
+                        hätt, die Operation z'mache, so hätte Sie o kein z'viel
+                        üszoge... 's kunnt allewil uf 's Gliche-n-üse.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Eh bien... so gàn Se mir 15 Franke un dermit fertig.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Geduld, Geduld, junger Mensch... Sie gehn gar
+                        g'schwind... mr hàn jetz noch d'Unkoste z'regliere.
+                    </p>
+          <pb n="223"/>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>D'Unkoste!... Was fir Unkoste... wo sàhn Sie Unkoste do
+                        drin?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das werde Sie jetz glich sàlwer sàh... me hat erstens in
+                        dr Madame Frindlig ne Glas Wasser gà, fir sich 's Mül
+                        üsz'schwenke.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Mache Sie das Glas Wàsser z'zahle!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Warte Se doch nur... derno ne Cuvette, fir 's Wasser dri
+                        z'speie un e Serviette, fir sich d'Hànd un 's G'sicht
+                        abz'putze... we mr das alles, eins in's andere
+                        gerechnet, uf 2 Franke aschlage, wird's nitt z'viel si!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(unschuldig)</stage>
+          <p>Nu denn... so gàn Sie mr mine 13 Franke, ass es züem
+                        e-n-End geht.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Nur g'mach, nur g'mach... Sie sin doch züe arg
+                        pressiert... Un das arme Kàtele, wo hat helfe hewe un
+                        wo hintersi birtzelt isch, meine Se, sott me-n-em nitt
+                        o ebbes gà?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt grad ine)</stage>
+          <p>Jo, un ich ha noch alles Wasser in's G'sicht biku un uf
+                        mi Kràgle, wo-n-ich jetz müess wàsche lo!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Eh bien, so mache Se-n-emol fertig un sage Se mr, eb ich
+                        ebbes z'güet ha vo dàne 30 Franke oder nitt!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Là là, güeter Frind... nur nitt so vif... mr wànn nur 5
+                        Franke mache fir's Kàtele... bekàmte Sie also noch 8
+                        Franke un do sin se.
+                    </p>
+        </sp>
+        <pb n="224"/>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(nimmt si Geld. Fir sich.)</stage>
+          <p>Ich will mi glich dervo mache mit, sunscht git's am End
+                        gar nit.<stage>(lüt)</stage> Adie Herr Kütz<stage>(spöttisch)</stage> un merci!<stage>(er
+                        geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(züem Kàtele)</stage>
+          <p>E-n-Idee!... we mir dà junge Mensch thàte mache
+                        d'Jumpfer Venüs hirothe, ass se dr Herr Himmel nitt
+                        bekàm?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Das wàr alles Recht... awer wenn d'Jumpfer Venüs nur
+                        wort... er hat jo hinte-n-un vorne nit!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Das will ich scho ifàdle... ich süech mit ere z'rede...
+                        ich sag ere... voyons, was kännt ich ere sage?... ich
+                        sag ere... ass es dr Neveu isch vom Herr Himmel un si
+                        einziger Erb... c'est çà... das geht pràchtig... 's
+                        isch nitt 's erste Mol, ass ich kupple thüe... gang,
+                        laüf em no un rief ne z'ruck... De sàisch, ich wisst em
+                        e Platz... dummel Di... bisch no nitt furt!<stage>(Kàtele
+                        geht hinte-n-üse)</stage> un derno, er isch jo ne schöner
+                        junger Mensch un dr Herr e-n-alter Kracher;<stage>(er geht
+                        hin un her)</stage> we mir's nur derzüe bringe, ass dr Herr
+                        Himmel e Korb bikunnt... was froge mir derno, eb sie
+                        nochher dr Herr Silwer oder e-n-Anderer hirothet,
+                        d'Haüptsach isch, ass sie nitt do ine kunnt... aha, se
+                        kämme<stage>('s Kàtele un dr Herr Silwer kämme hinte-n-ine)</stage>.
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Do isch er... awer nitt ohne Mieih! er hat z'erst nit
+                        meh welle wisse... awer endlig hat er sich doch lo
+                        iwerrede, fir z'ruck z'ku<stage>(se geht rechts üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Lose Se, junger Mensch, Sie hàn Unrecht, fir mich eso
+                        z'verlo un mit mr z'blàie... un fir Ihne z'bewise, ass
+                        ich's güet mit Ene mein, so will ich Ihne ne Vor-<pb n="225"/>schlag
+                        mache, wo Sie g'wiss mit Freide igehn... ich weiss Ene
+                        ne riche Fraü!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(verwundert)</stage>
+          <p>Mir!<stage>(fir sich)</stage> merci... 's wird wieder e Schelmestreich
+                        si... wenn er mich Hochziter will mache wie Zahnarzt,
+                        so bedank ich mich.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ihne, jà... un 's isch serios... Unser Nochber dert àne
+                        hat e Nièce, ne schöne Person, wo gern hirothe thàt...
+                        un se lüegt nitt uf 's Vermöge... sie-n-isch rich un
+                        will Einer, wo-n-ere g'fallt, eb er ebbes hat oder
+                        nitt... un grad sàit mr 's Kàtele, ass se Ihne-n-eso
+                        nog'lüegt hat dà Morge, wo Sie do ane ku sin... Sie sin
+                        jung un schön g'wachse, also hàn Sie-n-ihre g'falle....
+                        un im Fall dr Noth ka-n-ich noch e güet Wort ilege fir
+                        Se, also mache Sie ihre nur dr Hof un dr Rest geht ganz
+                        allei.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Do steckt ebbes derhinter... ich bi kurios, was er fir
+                        Intresse hat, die Jumpfre welle z'verhirothe, ich will
+                        eimol schaüe.<stage>(lut)</stage> jà un derno, Herr Kütz, was
+                        verlange Sie derno fir Ihre Mieih, wenn's reüssiert?
+                        denn ich ha scho gsàh, ass Sie nit umsunscht mache.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ah... Sie meine, 's isch üs Interesse, ass, ich Ihne dà
+                        Vorschlag mach? Sie sin undankbar, junger Mensch, ass
+                        Sie's nur wisse... denn 's isch nur an Ihre Wohl,
+                        wo-n-ich denk... sin Sie denn nitt mi Gottekind?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Décidément, 's g'fallt mr allewil weniger... ich will
+                        awer dr gliche thüe as nàhm ich's a, fir z'wisse, was
+                        er eigentlig im Sinn hat... viellicht ka-n-ich mich
+                        ràche an em.<stage>(lüt)</stage> Eh bien, wenn's eso isch, so dank
+                        ich Ine züem vorüs... awer wenn kännt ich<pb n="226"/> die Jumpfre
+                        sàh... denn ich möcht doch wisse, wie se-n-isch.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Oh! Sie derfe se b'schaüe.. ich ha noch nie kei schönere
+                        Person g'sàh... wisse Sie was... kämme Sie z'Owe wieder
+                        dure... ich will das Ding arrangiere, ass ihr eüch
+                        känne b'sichtige.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Güet... also z'Owe<stage>(er geht gege dr Thüre)</stage>.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Un fehle Se nitt.</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>'s isch nit z'riskiere!<stage>(er geht hinte-n-üse)</stage>.</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(allei, ribt si d'Hànd)</stage>
+          <p>Unser Sach marschiert!... dr Herr traüt no nitt z'froge
+                        hit, wenn er noch so verliebt isch... ich kenn en... er
+                        hat kei Courage, dà Mann... er brücht Zit, fir sich
+                        z'decidiere... un ziter schnellt se ihm der Herr Silwer
+                        eweg...
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ein freies Leben führen wir)</stage>
+            <l>Fir riehig z'si,</l>
+            <l>Wie bis dohi,</l>
+            <l>Will ich ihm d'Venüs zeige,</l>
+            <l>Ass er se im Herr Himmel nimmt,</l>
+            <l>Denn sunscht kunnt dà, das weiss ich b'stimmt,</l>
+            <l>Un packt se fir sich eige.</l>
+          </lg>
+          <p>Dr Herr, du rese, wird z'erst nimmig welle, wenn er
+                            hört, ass sie ne Liebster hat... mir sin g'rettet,
+                            Kàtele! . <stage>(er lüegt ummenander)</stage>tiens, 's isch jo nimmig do!... 's wird 's Kind umme trage!... ich will glich profetiere dervo un geh mi Kaffee nàh im Triwel... mit dàne G'schichte do ha-n-ich's ganz vergesse <stage>(er geht hinte-n-üse).</stage> 
+                        </p>
+          <pb n="227"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VI. Uftritt.</head>
+        <stage type="characters">Kàtele, ne Porte-faix.</stage>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Allons, bon jetz isch er furt... in dr Triwel
+                        wohrschinlig!... un ich, wo uf ne zählt ha, fir 's Kind
+                        z'hiete!... ich sott ewe-n-in e Visite geh... un ich ka
+                        doch nitt i fehle... tiens, wenn ich e Porte-faix thàt
+                        riefe, fir 's Kind siter z'hiete?... Das isch
+                        e-n-Idee... worum nitt?... er ka 's jo ewe-n-eso güet
+                        ummetrage as ich...<stage>(se lüegt züem Fenster üse)</stage> grad
+                        stolpert dert Einer umme<stage>(se rieft züsm Fenster üse)</stage>
+                        He... Porte-faix!... do!... kämme ne wenig ufe...<stage>(fir
+                        sich)</stage> ich will 's Kind glich geh hole un's em gà, ass
+                        ich derno glich furt ka<stage>(se geht üse rechts)</stage>.
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Tiens... isch's denn nitt do?<stage>(Kàtele kunnt ine mit eme
+                        Buschelkind)</stage> Aha... Sie hat mr g'rüefe, Madame?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Jà, jà... Ihr kämme grad recht... do, hiete mr e wenig
+                        das Kind... 's isch Eüch jo eithüen, was Ihr mache,
+                        nitt wohr?<stage>(se git em 's Kind uf dr Arm)</stage>.
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Jà awer...</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ihr brüche-n-em nitt z'trinke gà... 's schloft jetz
+                        alleweg fir e Stund... siter bin ich wieder do...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Jà awer...</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Ihr hàn am meiste Chance, ass es nitt pflànnt, wenn
+                        Ihr's ummetrage un singe derzüe... awer gehn dert ine
+                       <stage>(se zeigt uf's Zimmer rechts)</stage> nitt ass wenn ebbe dr <pb n="228"/>
+                        Herr Himmel kàm!<stage>(fir sich)</stage> awer i glaüb nitt... er
+                        kunnt nie do ufe, as wenn er d'Sterne gücke will, un
+                        jetz hat er andere Sache im Kopf...<stage>(lüt)</stage> au revoir
+                        denn... halte-n-I güet<stage>(se geht hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Jà awer...<stage>(er blibt ganz verdutzt steh mit em Kind uf
+                        de-n-Arm)</stage>.
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Vive Garibaldi)</stage>
+            <l>Ich ha</l>
+            <l>Scho g'ha</l>
+            <l>G'wiss gar viel Cummissione,</l>
+            <l>Doch so</l>
+            <l>Wie do</l>
+            <l>Isch mir nit vorku noch,</l>
+            <l>Mit nit</l>
+            <l>Thien d'Lit</l>
+            <l>Uns jetz meh doch verschone,</l>
+            <l>Me hat</l>
+            <l>Glich satt</l>
+            <l>An so me harte Joch!</l>
+            <l>Bol wird's kumme noch derzüe,</l>
+            <l>Ass mir mien geh d'Windle wàsche,</l>
+            <l>Un thien nàh d'Hewammetàsche,</l>
+            <l>Wenn's nimm git Hewamme g'nüe!</l>
+            <l>Scho nimmt me mich hit,</l>
+            <l>Fir d'Sàigamm' do z'mache,</l>
+            <l>Un sott noch känne singe,</l>
+            <l>Fir 's Kind in Schlummer z'bringe,</l>
+            <l>Scho nimmt me mich hit,</l>
+            <l>Fir d'Sàigamm' do z'mache,</l>
+            <l>Un wenn 's Kind soll verwache,</l>
+            <l>Was soli i mache mit?</l>
+          </lg>
+          <p>Das isch jetz awer doch e wenig stark!... mich fir
+                            Kindsmagd nàh!... bsch, wsch, wsch... wenn se <pb n="229"/>awer
+                            meint, ass ich's d'ganze Zit will ummetrage un
+                            singe derzüe, so trumpiert se sich... ich ka scho
+                            gar nitt singe... ich ha nitt emol nie recht dr «
+                            Trutz nit so » üsebrocht... bsch, wsch, wsch!<stage>(er stellt zwe Stiehl z'amme un legt 's Kind
+                            druf)</stage>voilà... das Ding isch schwer!... <stage>(er lüegt ummenander)</stage> tiens, do isch e Speckspertifig!... <stage>(er lüegt dri)</stage> Ich sieh nit!... hi hi... ich dummer Esel. . dr Deckel isch jo druf <stage>(me hört ebber ku)</stage> aha, ich glaüb, se kunnt scho z'ruck <stage>(er nimmt g'schwind 's Kind un tràit's umme)</stage> bsch, wsch, wsch...</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VII. Uftritt.</head>
+        <stage type="characters">Porte-faix, si Fraü.</stage>
+        <sp who="#im_porte-faix_si_frau">
+          <speaker>D'Fraü</speaker>
+          <stage>(kunnt hinte-n-ine).</stage>
+          <p>Ah so!... verwitsch i Di jetz endlig emol!... 's
+                        isch mr doch allewil gsi, Dü hasch e Bekanntschaft
+                        e-n-àime... ich gang Dr scho lang uf d'Ise! Ich ha
+                        denkt, ich ertapp Di-n-emol!
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Was isch Dr, Fraü... ich, glaüb Dü traümsch... 's isch
+                        jo ne Cummisson... ich ha's vo dr Stund...
+                    </p>
+        </sp>
+        <sp who="#im_porte-faix_si_frau">
+          <speaker>D'Fraü</speaker>
+          <p>Ne süfere Cummission! jà, jà... gàll, d'heim witt als
+                        nie kei Kind uf dr Arm nàh un wenn se noch so
+                        schreie... awer do... un 's isch schint's nitt 's erste
+                        Mol, denn 's steht Dr gar nitt iwel a... am End isch's
+                        gar...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Los, Fraü... De machsch mi z'lache... 's g'hört jo im
+                        Herr Schimmel...
+                    </p>
+        </sp>
+        <pb n="230"/>
+        <sp who="#im_porte-faix_si_frau">
+          <speaker>D'Fraü</speaker>
+          <p>Awer ich lach nitt!... ich gang Di geh verklage, ass De
+                        zwei Familie hasch... am End bisch gar zweimol
+                        g'hirothe?... ich möcht se nur ken ne, Die!...<stage>(se
+                        lüegt ummenander)</stage>.
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Nei, nei, liewe Fraü... ich ha genüe biku an eim Mol...
+                        un wenn De meinsch, ass ich fir mi Plaisier Kinder
+                        hiet...
+                    </p>
+        </sp>
+        <sp who="#im_porte-faix_si_frau">
+          <speaker>D'Fraü</speaker>
+          <p>Scho güet... ich weiss jetz, was ich wisse will, ich
+                        gang jetz schnüersgrad züem Cummissaire... mr wànn emol
+                        lüege!...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Gang züem Kückück wege mir!... me kunnt nitt züem Wort
+                        mit miner Fraü... se losst eim nitt rede... un die
+                        Andere, wo jetz nitt heim kunnt!... ich hätt jetz bol
+                        genüe kleine Kinder g'hiete!... züem Glick, ass, es
+                        noch brav isch... wenn's erst noch pflànne thàt... doch
+                        still... jetz kunnt se.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>VIII. Uftritt.</head>
+        <stage type="characters">Porte-faix, Herr Himmel</stage>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(knnnt hinte-n-ine)</stage>
+          <p>Dass ka nimmig eso geh mit dere-n-Amsle!... Joseph, gehn
+                        iwere züem Nochber un sage-n-em, er soll so güet si un
+                        e wenig züe mr ku, ich heb ebbes mit em z'rede!<stage>(fir
+                        sich)</stage> ich ha nitt traüe-n-iwere z'geh, 's isch mr
+                        liewer, er kunnt do ane.
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix</speaker>
+          <stage>(tràit 's Kind umme)</stage>
+          <p>Bsch, wsch, wsch...</p>
+        </sp>
+        <pb n="231"/>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <p>Tiens!... ich ha g'meint 's seig dr Joseph... was dr
+                        Kückücks macht jetzt dà do?... wenn jetz awer d'Sunne
+                        sich sott wirklig mit dr Zit solidifiziere... un ihre
+                        Hitz verliere... wie lang gieng's denn derno bis...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Bsch, wsch, wsch...</p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Ah ça... güeter Frind, was mache-n-Ihr eigentlig do? was
+                        isch das fir e Kind?...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Ihres, parbleu... Sie sin jo dr Herr Schimmel, nitt
+                        wohr?
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Himmel.</p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix.</speaker>
+          <p>Himmel wege mir... wege me Sch wà mr nitt dispetiere...
+                        bsch, wsch, wsch...
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(wo scho nimmig lost)</stage>
+          <p>Wie lang gieng's derno, bis ass do uf dr Erde 's Lewe
+                        nimmig möglig wàr?... ich will's emol üsrechne.<stage>(er
+                        sitzt an Tisch, D'Amsle pfifft)</stage>. Scho wieder!...<stage>(er
+                        springt uf)</stage> Dr Schnider isch e Fadedieb :... dü dumm
+                        Vieh!... frieiher jo, awer jetz begniege sie sich
+                        nimmig mit em Fade.<stage>(dr Porte-faix lost em züe mit Mül
+                        un Nase-n-uf)</stage> Un iwerhaüpt... d'Welt isch verderbt in
+                        's Grund's Erdbode-n-ine! d'Mensche hàn jetz viel
+                        z'viel Bedürfnisse!... se wisse gar nimmig, was sie
+                        erfinde-n-un afange wànn... me derf jo nur schaüe, wie
+                        eifach un glicklig as d'erste Mensche-n-uf dr Erde do
+                        g'lebt hàn!... ihr Hüs isch e Zelt gsi, wo se hàn
+                        känne-n-in fünf Minüte-uf- un abschla un witers geh.
+                        Was ihre Kleider abelangt hat, isch e Rebblätt ihre <pb n="232"/>
+                        Sunntigblunder gsi... fir ihre Nahrung hàn se sich mit
+                        allem begniegt un sin eso frei gsi, wie dr Vogel in dr
+                        Luft!... Jetz gehn un vergliche-n-eso ne Hüshaltung mit
+                        ere jetzige!... d'Hoor stehn eim z'Berg!... do sieht me
+                        Kiste-n-un Kàste, Better un Oefe un dr Kückück un si
+                        Grossle, kurz, ganze Wàge voll Sache-n-un Grimpel, wo
+                        ne Jeder müess mit si schleife, wie-n-er dra g'wöhnt
+                        isch un sich nimmig ka passiere dervo... do müess me
+                        drganze Tag nur koche-n-un wàsche-n-un flicke-n-un
+                        schaffe, fir das Dings alles känne-n-ufz'triwe-n-un's
+                        in Ordnung z'halte, so dass eim 's Lewe verleidet dra?
+                        .. arme Mensche! wie hàn ihr degeneriert! wie hàn ihr
+                        eüch unglicklig g'macht dur eüer Schuld... ihr meine,
+                        ihr gehn vorwàrts un 's isch grad 's Gegetheil... wie
+                        mehr Bedürfnisse as ihr lehn ufku, wie unglickliger as
+                        ihr werde-n-un wie mehr Mieih as ihr hàn, dur 's Lewe
+                        z'ku!...
+                    </p>
+        </sp>
+        <sp who="#porte-faix">
+          <speaker>Porte-faix</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà Mann isch e Narr... ich will liewer mine 15 Sü
+                        ibiesse-n-un mache-n-ass ich do üse kumm<stage>(er legt 's
+                        Kind uf dr Stüehl un laüft hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(trürig)</stage>
+          <p>Ich find mich doch efange-n-alt un allei!... ich ha
+                        gestert z'Nacht in minere Schwester uf Colmer awe
+                        g'schriwe, eb se mr viellicht nitt wott ihre Suhn, mi
+                        Neveu do ane schicke... mr sin bis dohi bös gsi
+                        mitnander, awer ich wott doch nitt sterwe ohne mich
+                        z'versöhne mit ene... ich ha im Sinn, in mim Neveu 's
+                        ganze Vermöge z'vermache, ich ha jo sunscht doch Nieme
+                        meh...<stage>(me hört d'Amsle pfiffe)</stage> scho wieder, jetz halt
+                        ich's awer nimmig üs... ich will jetz selwer mit em
+                        Nochber geh rede<stage>(er geht hinte-n-üse)</stage>.
+                    </p>
+          <pb n="233"/>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>IX. Uftritt.</head>
+        <stage type="characters">Kàtele, Joseph.</stage>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine rechts)</stage>
+          <p>Ah çà... wo isch er, dà Porte-faix mit mim Kind?... ich
+                        find en jo niene! er wird doch ebbe nitt furt si mit?..
+                       <stage>(se sieht 's Kind)</stage> ah... do isch's jo... hat me jetz
+                        scho-n-emol eso ebbes g'sàh! er legt's uf e Stüehl un
+                        geht spaziere!... awer dà soll mr nur ku...<stage>(se nimmt
+                        's Kind)</stage> armer Tropf....un 's grint nitt emol!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Eh!... tràisch's noch allewil umme?</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Dà g'fallt mr jetz o noch!...<stage>(lüt)</stage> ich will's jetz in's
+                        Bett lege... 's schloft.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ich bi g'schwind ku laüfe... ich ha dr Herr Silwer g'sàh
+                        vo witem... er wird wohrschinlig do ane ku... De
+                        weisch, ich ha mit dr Magd g'redt dert àne, fir ass sie
+                        in ihrer Jumpfere ne wenig schwàtzt vo-n-em... we mir
+                        se nur kännte mache z'àmme z'ku, eso wie par hasard...
+                        weisch Dü nit az'bringe, Kàtele?
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Wart e wenig... ich will nur g'schwind geh 's Kind lege
+                       <stage>(se geht üse rechts)</stage>.
+                    </p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>X. Uftritt.</head>
+        <stage type="characters">Joseph, Herr Silwer.</stage>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Aha... do isch dr Herr Silwer... er isch pressiert, me
+                        hört's... schint's das Ding geht em.<stage>(dr Herr Silwer <pb n="234"/>
+                        kunnt hinte-n-ine)</stage> Aha, kämme Se-n-emol, junger Mensch,
+                        ich ha g'meint, Se hàn's vergesse.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(freidig)</stage>
+          <p>Schiergar, jà... denn 's isch mr ebbes possigs
+                        widerfahre... denke Se nur, mi Müetter schribt mr ass
+                        dà Morge, wo-n-ich küm furt gsi bi vo d'heim, ne Brief
+                        dert aku isch vo me-n-Oncle, wo-n-ich noch ha do in
+                        Milhüse... 's isch e Brüeder vo minre Müetter... se sin
+                        vo jeher brouilliert gsi mitnander, awer jetz reit's en
+                        schint's, un er will mir si Vermöge vermache.... ich
+                        soll züe-n-em ku, nur hat mi Müetter d'Adresse vo-n-em
+                        vergesse... se hàn sich halt scho lang nimmig g'schriwe
+                        g'ha... drum bi-n-i ku, fir Sie z'froge.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(unterbricht ne)</stage>
+          <p>Eh, das isch jo pràchtig, junger Mensch... denn wenn Sie
+                        erwe, so hàn Sie desto mehr Chance bi dr Jumpfer Venüs
+                        az'ku<stage>(er geht gege-n-em Fenster)</stage> ich ha du reste, scho
+                        ne wenig fir Sie gredt... tiens, wenn Sie se sàh wànn,
+                        dert isch se grad am Fenster.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(geht an 's Fenster un losst e Schrei üs)</stage>
+          <p>'s Frànzele!</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>'s Frànzele... was fir e Frànzele?... kenne Sie die
+                        Person ?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(stellt si glichgiltig)</stage>
+          <p>Ich kenn se un kenn se nitt... ich ha se scho g'sàh in
+                        Colmer.<stage>(fir sich)</stage> Me hat se schints anstatt uf
+                        Strossburg do ane g'schickt, fir ass ich se nitt soll
+                        üsfindig mache?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Un... was sage Se derzüe... isch's nitt e schöne
+                        Person?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Pràchtig!<stage>(fir sich)</stage> ich bi nitt vergewes verliebt in
+                        se.
+                    </p>
+          <pb n="235"/>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Ich ha wohl g'wisst, ass Se-n-Ihne g'falle wird.</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Un Sie sage, se heisst?...</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Venüs... also Frànzele Venüs... hàn Sie's denn nitt
+                        g'wisst?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Ich ha se küm kennt vom sàh.<stage>(fir sich)</stage> Me hat se
+                        schint's unter eme letze Name do ane tho, ass ich jo
+                        nit sott erfahre.<stage>(lüt)</stage> Woher wisse Sie ihre Name?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Eh, vo mim Herr... vom Herr Himmel.</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Tiens!... mi Oncle heisst o Himmel... un grad wege dem
+                        bin i ku fir Sie z'froge, eb Sie viellicht si Adresse
+                        kenne... do wàr den Ihr Herr mi...
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Was!... dr Herr Himmel isch Ihre-n-Oncle?</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>XI. Uftritt.</head>
+        <stage>D'Gliche, Herr Himmel, derno Kàtele.</stage>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Wer red' vom Herr Himmel do... was isch mit em?</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(springt em an Hals)</stage>
+          <p>Oncle!... liewer Oncle!... ich ha Dich glich erkennt,
+                        denn Dü glichsch in minre Müetter.
+                    </p>
+        </sp>
+        <pb n="236"/>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Was!... Dü scho do? .. das isch jetz emol brav vo Dir,
+                        ass Dü glich ku bisch! Dü blibsch jetz do im Hüs... 's
+                        isch Platz genüeg drin.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Recht gern... awer sag mr, liewer Oncle, Dü witt mich
+                        glicklig mache, nitt wohr?
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(lacht)</stage>
+          <p>Wenn's in mine Kräfte steht... jo.</p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Eh bien, so mach mich 's Frànzele z'hirothe denn ohne
+                        ihn's ka-n-ich nimmig lewe!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Un er will do im Hüs bliwe mit ere?... Ah... 's isch die
+                        Zit... jà, jà... wart nur, de wirsch's glich ha... dr
+                        Herr Himmel o will's hirothe, 's Frànzele Venüs!
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Wenn's e-n-ordlige Jumpfre isch, so will ich mache, was
+                        ich ka... wo isch's, Di Frànzele?
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>Oh... nitt wit vo do!... in dem Moment wohnt's dert àne
+                       <stage>(se schwatze lislig)</stage>.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Achtung!... jetz git's Mischbes... züem Glick, ass sie's
+                        Beide wànn... uf die Art bekunnt's Keiner... uf
+                        jedefall brouilliere sie sich mitnander... dr Herr
+                        Silwer erbt nit... un so blibt's bim alte<stage>(er ribt si
+                        d'Hànd)</stage> décidément, ich ha mehr Glick as... jà nei,
+                        doch nitt!
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Was! küm do, un scho ne Liebschaft!</p>
+          <pb n="237"/>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer.</speaker>
+          <p>'s isch e ganze G'schichte, liewer Oncle... 's Frànzele
+                        isch vo Colmer un isch erst dà Morge uf Milhüse ku,
+                        ohne-n-ass ich's g'wisst ha.
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Er sàit nitt emol nit!... Gott!... wie isch dà Astronom
+                        so dumm!... er merkt nitt emol, ass vo sin're Venüs
+                        d'Red isch!
+                    </p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(kunnt ine mit eme Brief; züem Herr Himmel)</stage>
+          <p>Do isch e Brief vom Herr Nochber dert àne.</p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(nimmt en un liest)</stage>
+          <p>Ah! endlig will er mir se jetz doch gà!... wenn ich ihm
+                        versprich, ass ich se güet b'sorge will...<stage>(fir sich)</stage>
+                        jà jà... wart nur, bis ich se ha!
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(lacht heimlig. Fir sich)</stage>
+          <p>Er... un se güet b'sorge!... das wird e schöne
+                        G'schichte gà! ... se nàmme-n-alleweg enander am
+                        Krage!...<stage>(lüt)</stage> pardon Herr Himmel... hàn Sie denn nitt
+                        g'hört, ass er se-n-o will<stage>(er zeigt uf dr Herr
+                        Silwer)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel</speaker>
+          <stage>(verwnndert)</stage>
+          <p>Er?... was will er mache?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(lacht)</stage>
+          <p>Was er mit mache will?... hi hi hi...<stage>(züem Herr Silwer)</stage>
+                        merke Sie denn nitt, ass Ihre-n-Oncle um 's Frànzele
+                        g'frogt hat, un ass er jetz grad 's Jowort biku hat in
+                        dem Brief.
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(züem Herr Himmel)</stage>
+          <p>Was!... Sie, Oncle?</p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>'s Frànzele... ah, se heisst Frànzele?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(fir sich)</stage>
+          <p>Isch er verstopft, dà Mann!...<stage>(lüt)</stage> Frànzele Venüs...
+                        jà... Venüs isch schints ihre Familièname.
+                    </p>
+        </sp>
+        <pb n="238"/>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Ah çà... Joseph... hàn Ihr eigentlig z'tief in's Glas
+                        g'lüegt hit... hat me jetz scho-n-emol g'hört, ass
+                        e-n-Amsle ne Taüfname un e Familiename hat!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Weller vo dàne zwei isch eigentlig g'schittelt?...</p>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele</speaker>
+          <stage>(fir sich)</stage>
+          <p>Frànzele... Amsle... Venüs?... was hàn se... was hàn
+                        se?
+                    </p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph</speaker>
+          <stage>(zornig fir sich)</stage>
+          <p>Er schàmt si jetz vor sim Neveu, un will sich üsrede,
+                        awer ich will ne scho biku...<stage>(lüt)</stage> Sie hàn alleweg dà
+                        Morge nitt mit Schmerze uf d'Jumpfer Venüs g'warte....
+                        Se hàn jo genüeg uf d'Ühre g'lüegt, bis dr Zehnerzug
+                        aku isch!
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>Ah!... jetz merk ich glaüb ebbes!...<stage>(er nimmt dr Joseph
+                        am e-n-Ohr)</stage> hàn Ihr wieder emol g'lost an dr Thüre un
+                        hàn ebbes g'hört un nitt recht!...<stage>(züem Herr Silwer)</stage>
+                        ich ha-n-uf d'Venüs g'warte, uf dr Stern, wo so heisst,
+                        un do isch schint's grad Di Frànzele aku... un wil ich
+                        o bim Nochber um si Amsle g'frogt ha, wil se mich
+                        embetiert hat, so hat en das Ding embrouilliert...
+                        armer Joseph!... me sieht wohl, ass Ihr d'Astronomie
+                        nitt g'lehrt hàn!
+                    </p>
+        </sp>
+        <sp who="#herr_silwer">
+          <speaker>Herr Silwer</speaker>
+          <stage>(fir sich)</stage>
+          <p>Aha... jetz merk ich, worum ass er mich hat welle
+                        d'Jumpfer Venüs mache hirothe!
+                    </p>
+        </sp>
+        <sp who="#herr_himmel">
+          <speaker>Herr Himmel.</speaker>
+          <p>'s blibt àlso derbi... Dü hirothsch 's Frànzele, un
+                        derno kämme-n-ihr züe mir ku wohne, 's isch Platz genüe
+                        do im Hüs.
+                    </p>
+          <pb n="239"/>
+        </sp>
+        <sp who="#katele">
+          <speaker>Kàtele.</speaker>
+          <p>Was meinsch, Joseph?</p>
+        </sp>
+        <sp who="#joseph_kutz">
+          <speaker>Joseph.</speaker>
+          <p>Was meinsch, Kàtele?</p>
+        </sp>
+        <sp who="#katele #joseph_kutz">
+          <stage>(Kàtele un Joseph mitnander)</stage>
+          <p>We mir e Fraü in's Hüs bekämme?</p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(Ein freies Leben)</stage>
+            <l>Mir ziehn is z'ruck,</l>
+            <l>Denn so ne Spuck,</l>
+            <l>Dà hätt fir uns z'viel G'fohre.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>Mitnander</stage>
+          <sp who="#joseph_kutz #katele">
+            <speaker>(Joseph un 's Kàtele).</speaker>
+            <lg>
+              <l>Wenn d'Jumpfer Venüs do regiert</l>
+              <l>Un im Herr Himmel d'Biecher fiehrt,</l>
+              <l>So si mir halt verlore.</l>
+            </lg>
+          </sp>
+          <sp who="#herr_himmel #herr_silwer">
+            <speaker>(Herr Himmel un Herr Silwer).</speaker>
+            <lg>
+              <l>Wenn d'Jumpfer Venüs do regiert</l>
+              <l>Un Eüch e wenig üsstudiert,</l>
+              <l>So sin Ihr halt verlore.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <pb n="240"/>
       </div>
     </body>
   </text>

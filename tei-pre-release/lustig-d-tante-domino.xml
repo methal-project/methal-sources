@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Drizehne</title>
+        <title type="main">D'Tante Domino</title>
         <author key="wikidata:Q17038136">August Lustig</author>
         <respStmt>
           <resp>TEI encoding</resp>
@@ -27,11 +27,11 @@
           <idno type="URL">
                         https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
                     </idno>
-          <idno type="methal" xml:id="mtl-128"/>
+          <idno type="methal" xml:id="mtl-116"/>
 
           <bibl type="type">
             <author key="wikidata:Q17038136">August Lustig</author>
-            <title type="main">Drizehne</title>
+            <title type="main">D'Tante Domino</title>
             <publisher>Publisher</publisher>
             <date>date</date>
           </bibl>
@@ -42,17 +42,23 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="madame_frisch" sex="F">
-            <persName>Madame FRISCH</persName>
+          <person xml:id="tante_domino" sex="F">
+            <persName>Tante DOMINO</persName>
           </person>
-          <person xml:id="herr_flink" sex="M">
-            <persName>Herr FLINK</persName>
+          <person xml:id="rosele" sex="F">
+            <persName>ROSELE</persName>
           </person>
-          <person xml:id="herr_ledig" sex="M">
-            <persName>Herr LEDIG</persName>
+          <person xml:id="herr_galfing" sex="M">
+            <persName>Herr GALFING</persName>
           </person>
-          <person xml:id="herr_krach" sex="M">
-            <persName>Herr KRACH</persName>
+          <person xml:id="herr_alfred" sex="M">
+            <persName>Herr ALFRED</persName>
+          </person>
+          <person xml:id="herr_samuel" sex="M">
+            <persName>Herr SAMÜEL</persName>
+          </person>
+          <person xml:id="tom" sex="M">
+            <persName>TOM</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -62,28 +68,40 @@
     <front>
       <castList>
         <head>Personen</head>
-        <castItem corresp="#madame_frisch">
+        <castItem corresp="#tante_domino">
           <role>
-            <persName>Madame FRISCH</persName>
+            <persName>Tante DOMINO</persName>
           </role>
-          <roleDesc>e junge Wittfraü</roleDesc>
         </castItem>
-        <castItem corresp="#herr_flink">
+        <castItem corresp="#rosele">
           <role>
-            <persName>Herr FLINK</persName>
+            <persName>ROSELE</persName>
           </role>
-          <roleDesc>ihre-n-Oncle</roleDesc>
+          <roleDesc>ihre Nièce</roleDesc>
         </castItem>
-        <castItem corresp="#herr_ledig">
+        <castItem corresp="#herr_galfing">
           <role>
-            <persName>Herr LEDIG</persName>
+            <persName>Herr GALFING</persName>
           </role>
-          <roleDesc>ihre Züekünftiger</roleDesc>
+          <roleDesc>dr Nochber vo dr Tante Domino</roleDesc>
         </castItem>
-        <castItem corresp="#herr_krach">
+        <castItem corresp="#herr_alfred">
           <role>
-            <persName>Herr KRACH</persName>
+            <persName>Herr ALFRED</persName>
           </role>
+          <roleDesc>Zuckerbäck</roleDesc>
+        </castItem>
+        <castItem corresp="#herr_samuel">
+          <role>
+            <persName>Herr SAMÜEL</persName>
+          </role>
+          <roleDesc>si Oncle</roleDesc>
+        </castItem>
+        <castItem corresp="#tom">
+          <role>
+            <persName>TOM</persName>
+          </role>
+          <roleDesc>e Neger</roleDesc>
         </castItem>
       </castList>
       <set/>
@@ -91,836 +109,1817 @@
     <body>
       <div type="scene">
         <head>I. Uftritt.</head>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(kunnt ine mit ere Postkarte)</stage>
-          <p>So!... jetz schribt mir grad mi Oncle do vo Colmer, ass
-                        er uf hie kunnt un bi mir will ku z'Nacht esse... grad
-                        jetz, hit, wo-n-ich Gäst ha... ich mächt ewe hit z'Owe
-                        mi Züekünftiger, dr Herr Ledig, in dr G'sellschaft
-                        vorstelle un ha's ig'richtet g'ha, ass mr grad zwölf
-                        gsi wàre am Tisch... kunnt awer mi Oncle, so si mr
-                        drizehne... me meint grad, er macht's express!... un
-                        züedem isch's e-n-Original, mi Oncle... er hat allewil
-                        ganz andere-n-Idee as andre Lit... wenn ich en ig'lade
-                        hätt, so wàr er sicher nitt ku... was isch jetz
-                        z'mache?... ich ka doch Nieme furtschicke un will's o
-                        in Nieme sage, sunscht thàte se mich üslache... un
-                        drizehne will ich durchüs nitt, ass mr sin... unter
-                        keine Umstànde, 's mag geh wie's will, derf das meh
-                        g'schàh... ich thàt eher dr erste beste Bettler derzüe
-                        riefe!... 's isch mr nur emol vorku un gli druf isch mi
-                        Mann selig g'storwe... ich will nitt, ass es mir noch
-                        emol eso geht, wenn ich derno küm wieder g'hirothe
-                        bi!...
+        <stage type="characters">Tante, Rosele.</stage>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>G'wiss, Rosele... g'wiss, mi lieb Kind, schaü, glaüb
+                        mir... schla Dir das Ding üs em Kopf mit Dim Herr
+                        Alfred... De wirsch sàh, 's isch besser fir Dich... ich
+                        ka jo üs Erfahrung rede!... lüeg, vo dàne junge alle
+                        z'àmme isch nie Keiner kei Duwle werth gsi..<stage>(fir sich)</stage>
+                        ich wird's ebbe wisse!
                     </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Awer dr Herr Alfred, Tante...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Dr Herr Alfred, lieb Kind, wird grad si as wie
+                        alle-n-andere... gang mr eweg mit de Mànner.. wenn Dü
+                        wisse thàtsch, was me sich ufladet mit em hirothe!
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Awer e Zuckerbäck, Tante, ne Zuckerback wie dr Herr
+                        Alfred einer isch!...<stage>(fir sich)</stage> Das müess doch güet
+                        si, ne Zuckerback!...<stage>(lüt)</stage> un 's isch e güet Handwerk:
+                        we me-n-als ebbes verfuchst, so ka me's jo selwer esse,
+                        's geht nitt verlore!
+                    </p>
+          <pb n="243"/>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ne Zuckerbäck, Rosele, isch vom ganz gliche Teig
+                        g'macht, wie alle-n-andere!... Meinsch Dü, wil er Dich
+                        als eso siess alüegt?... So sin alle Zuckerbäck, bis
+                        ass se-n-eim als hàn am Bàndel!... doch nochher, Rosele
+                        sin's nit meh as Salzfàsser!... Schaü um Dich umme...
+                        isch unsere Nochbere dert àne glicklig mit ihrem Mann?
+                        Sie hat o-n-eso ne Schnüfer gnu... jetz zieht er
+                        d'halwe Zit mit Andre-n-umme un losst si Fraü d'heim
+                        sitze. Wie màngmol isch se mir ku klage, die güete
+                        Person!... Un die andere dert, die hat o so jung
+                        g'hirothe... gang lüeg emol, was das fir e Hüshaltung
+                        isch!... er thüet sich voll trinke-n-un macht alles
+                        dure, diemol hat er sogar Prison biku vo wege Handel,
+                        wo-n-er g'ha hat!... un weisch, was er g'sàit hat züe
+                        sim Kamerad, wo-n-er isch geh si Zit mache... « Ich
+                        hinterloss Dir mi Fraü un mi Pfiffe, Hans... gib mr nur
+                        recht Achtung züe dr Pfiffe »... Un derno, wie isch's
+                        mir selbst nitt gange, Rosele...
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele</speaker>
+          <stage>(wunderfitzig)</stage>
+          <p>Wie isch's Dir gange, Tante, verzähl mr's emol?...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(verlege)</stage>
+          <p>Nit, nit!... glaüb mir, Rosele, hiroth Dü dr Herr
+                        Gàlfink, unser Nochber... das isch e Mann vo me
+                        g'wisse-n-Alter un wo ne bitzi ebbes hat...
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Jo, eso ne-n-Alter, Tante... dr Herr Alfred isch o kei
+                        schlechte Parthie, un hat erst noch e richer Oncle,
+                        wo-n-er emol erbt!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Jo, so ne-n-alter Seeràiwer, wo schint's si Vermöge-n-in
+                        Amerika g'macht hat!... grad wege dem will er nitt, ass
+                        si Neuveu Dich hirothet... mir sin em z' g'mein, wil
+                        mir in dr Cité wohne...<stage>(se zeigt uf <pb n="244"/>Rosele)</stage> d'beste
+                        Glättere wit un breit, wo bis am e Sunntig z'Mittag
+                        z'schaffe hat, fir ihre Pratike-n-alle z'friede
+                        z'stelle!...
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Jo, 's isch wohr, ich wird wieder g'ar nitt fertig
+                        hit!... 's isch jetz bol Eins... ich müess jetz doch
+                        mache, ass ich e Sach furttrage ka.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Sonige brüche-n-unserein's noch z'verachte, so
+                        Herg'loffene, wo me gar nitt weisst, wo se herkämme!
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Oh! Tante, 's isch nitt halwer so g'fàhrlig, wie Dü
+                        machsch... er hat nitt gern, ass si Neveu hirothet, 's
+                        isch wohr, wil er noch gar jung isch, awer er kennt uns
+                        jo nitt emol, un dr Herr Alfred hat g'sàit, wenn nur
+                        Dü-n-emol z'friede wàrsch, so thàt er si Oncle scho
+                        wisse z'iwerrede... was die Seeràiwerg'schichte
+                        abelangt, wo Dü druf stupfsch, so isch gar nit wohr
+                        dervo... dr Herr Alfred hat mir alles verzählt; si
+                        Oncle isch schints e wenig schlimm gsi in siner Jugend,
+                        un hat e paar dumme Streich g'macht, un do hat me ne
+                        furt tho züe sim altere Brüeder in Arnerika, im Herr
+                        Alfred si Vater, wo dert e G'schàft g'ha hat, un derno
+                        isch er dert bliwe, bis vor ebbene sechs Monet isch er
+                        als e richer Mann z'ruckku un dr Herr Alfred mit em...
+                        das isch d'ganze G'schichte<stage>(se hört uf mit Glätte-n-un
+                        legt s' Blunder in e Korb)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Dr Herr Alfred ka Dir verzähle was er will, lieb Kind
+                        !... schaü, De glaübsch nitt, wie-n-eim d'junge Lit
+                        hintergehn,<stage>(fir sich)</stage> ich ka jo üs Erfahrung rede!
+                       <stage>(züem Rosele)</stage> dr Herr Gàlfink hingege isch scho im e
+                        g'wisse-n-Alter... serios un posiert...
+                    </p>
+          <pb n="245"/>
+        </sp>
+        <stage>G'sang (la soupe aux Choux)</stage>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
           <lg>
-            <head>G'sang</head>
-            <l>Drizehne-n-isch e-n-Unglickszahl,</l>
-            <l>Wo mir brocht hat mi grösste Qual,</l>
-            <l>Drum mach ich mir halt drüs e G'setz,</l>
-            <l>Fir sie als z'vermeide jetz.</l>
-            <pb n="573"/>
-            <l>Ich will halt doch nitt riskiere,</l>
-            <l>Jetz wieder gli mi Mann z'verliere,</l>
-            <l>Denn fir einer wieder z'ha,</l>
-            <l>Ha-n-ich nitt iwel Mieih scho g'ha.</l>
+            <l>Kind, glaüb Dü mir,</l>
+            <l>E Junger müesch nitt nàmme,</l>
+            <l>Drum roth ich Dir,</l>
+            <l>Dr Herr Gàlfink jetz z'nàh.</l>
           </lg>
-          <p>Ich sieh nit anders as ich müess im Herr Ledig
-                            Hàndel süeche, fir ass er blàit un nitt bim Esse
-                            blibt... nochher versöhne mir uns wieder
-                            mitnander... ich stell ne halt derno ne-n-andermol
-                            vor... ich will das Ding scho arrangiere, er isch e
-                            wenig e Hitzkopf, awer sunscht e ganz güeter
-                            Mensch, wo um's ummelüege wieder alles vergesse
-                            hat... doch still, do kunnt er glaüb grad!
-                        </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <lg>
+            <l>'s wàr mi Unglick,</l>
+            <l>Ich miesst mich mit ihm schàmme,</l>
+            <l>Er isch mr z'flick,</l>
+            <l>Ich will ihn gar nit sàh.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous">
+          <stage>Mitnander</stage>
+          <sp who="#tante_domino">
+            <speaker>Tante.</speaker>
+            <lg>
+              <l>Kind glaüb Dü mir etc.</l>
+            </lg>
+          </sp>
+          <sp who="#rosele">
+            <speaker>Rosele.</speaker>
+            <lg>
+              <l>Drum glaüb Dü mir,</l>
+              <l>Ich ka ne g'wiss nitt nàmme,</l>
+              <l>Ich sag jetz Dir,</l>
+              <l>Ich will ne gar nitt sàh.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s wàr doch 's beste, wo De mache kännsch... doch
+                        wottsch jetz nitt geh Dine Cummissione mache, d'Lit
+                        werde blange...
+                    </p>
+        </sp>
+        <sp who="#rosele">
+          <speaker>Rosele.</speaker>
+          <p>Ich gang, Tante, ich gang...<stage>(se legt e Hüet un e Shawl
+                        a)</stage> ich kumm wohrschinlig nitt heim vor z'Owe, ich will
+                        noch im Kàtele geh ne Visite mache.<stage>(se nimmt dr Korb
+                        an Arm. Fir sich)</stage>. Niemols thüe-n-ich eso ne-n-alter
+                        Gàlfink hirothe... dr Herr Alfred oder Keiner<stage>(se geht
+                        hinte-n-üse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(allei)</stage>
+          <p>'s will nitt recht abisse, 's Rosele... do wird's noch
+                        Mieih koste!... franchement, 's wàr mr gar nitt <pb n="246"/>recht,
+                        wenn ich im Herr Gàlfink, wo si Zimmer dert grad
+                        nàwe-n-unserem hat, absage miesst... denn derno kàm er
+                        natirlig nimmig do ane, un wer wott derno ne Domino mit
+                        mir mache-n-als z'Owe?... ich derf nitt dra denke?...
+                        ich müess mi Parthie mache, sunscht ka-n-ich nitt
+                        schlofe!... se sage mir Tante Domino wege dem, awer das
+                        macht mir nit... wege me so ne Zuckerbäck do nimmig
+                        känne Domino spiele!... Un derno, ich ha-n-Angst fir 's
+                        Rosele: wie isch's mir nitt gange, wo-n-ich jung gsi
+                        bi!... ich o ha 's Unglick g'ha mich z'vernarre-n-in è
+                        junger Mensch, un derno isch er emol uf mi Zimmer ku
+                        schliche un hat awer glich wieder miesse d'Flucht nàh,
+                        züem Fenster üse vom erste Stock, ass er nitt
+                        verwitscht worde-n-isch... un er laüft noch... ich ha
+                        ne siter nimmig g'sàh... er hat mi sitze lo! ich bi
+                        awer wieder ufg'stande... 's isch mi erste-n-un mi
+                        letzte Liewe gsi... ich möcht nur wisse, was üs em
+                        worde-n-isch?...<stage>(se faltet d'Hànd un schaüt gege
+                        Himmel)</stage> Oh Samüel! oh Samüel!<stage>(züem Public)</stage> er hat
+                        Samüel g'heisse!... mi ganzer Lewenslaüf hasch Dü
+                        verderbt!...<stage>(se geht uf dr Site-n-üse rechts)</stage>.
+                    </p>
         </sp>
       </div>
       <div type="scene">
         <head>II. Uftritt.</head>
-        <stage type="characters">Madame Frisch, Herr Ledig.</stage>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(kunnt hinte-ine)</stage>
-          <p>Eh, güete-n-Owe, Madame Frisch!... ich frog nitt no
-                        Ihrer G'sundheit... Sie kännt doch sicher kei besserer
-                        Name ha!...<stage>(er lüegt ummenander)</stage> ich bi glaüb dr
-                        Erste....
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred</speaker>
+          <stage>(kunnt hinte-n-ine, er isch ganz wiss ag'legt un hat
+                        e Tarte uf einer Hand)
+                    </stage>
+          <p>'s isch Nieme do... desto besser... also do wohnt jetz
+                        's Rosele?<stage>(er lüegt ummenander)</stage> 's isch recht heimelig
+                        do!...<stage>(er legt si Tarte uf's Tischle nàwe dr Thüre un
+                        kunnt fire)</stage> 's isch ewe-n-in dr Tante-n-ihre Namestag
+                        hit!... ich ha denkt, ich müess lüege, ass ich ere ne
+                        kleine Surprise mache ka, ass se ne wenig menschliger
+                        wird gege mich!... Hein, isch das ebbes fin's!...<stage>(er
+                        nimmt d'Tarte un zeigt se)</stage> ihre Name-n-isch druf,
+                        «Schelastika»,<pb n="247"/> se heisst Schelastika.<stage>(er stellt se
+                        wieder hintere)</stage> Dr Idee isch mr ku dà Morge... 's isch
+                        ewe ne Herr ku-n-eso eine b'stelle un hat mr e
+                        Liewensbriefle hinterlo, fir's dri z'stupfe, un
+                        d'Adresse, wo-n-ich se-n-ane schicke soll... un do
+                        ha-n-i denkt, tiens, im Rosele si Tante heisst jo o
+                        Schelastika, wenn ich ihre-n-eso ne Tarte thàt bringe?
+                        un do ha-n-i hait glich zwei g'macht... Ich will mich
+                        jetz glich wieder dervo mache, denn ich wott ewe nitt,
+                        ass mich ebber thàt atreffe do!... Oh! wenn ich doch
+                        nur e wenig herzhafter wàr... ich hätt scho lang gern
+                        g'redt mit dr Tante wege-n-em Rosele, denn nur sie isch
+                        noch dergege... mi Oncle ha-n-ich jetz endlig
+                        kanne-n-iwerrede, er hat mir versproche, hit z'Owe ne
+                        Visite ku z'mache do, awer ohne sich z'erkenne z'gà...
+                        er git d'nàchste beste Üsred a... 's isch nur, fir 's
+                        Rosele un si Tante kenne z'lehre, un wenn se-n-em gehn,
+                        so red' er mit dr Tante!... Oh! Rosele! Rosele!
                     </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Sie hätte ne sotte si, vo rechtswege... awer lüege
-                        Se-n-emol in dr Garte...
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(geht an's Fenster)</stage>
-          <p>Tiens,'s sin scho andere Gast do... verzeiht Se mr,
-                        Madame Frisch... ich ha halt noch G'schàfte g'ha...
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(trotzig)</stage>
-          <p>Ich mein doch, ass we me-n-ebber gern hat un uf em Punkt
-                        isch z'hirothe, ass die Person vor de G'schàfte geht!
-                    </p>
-          <pb n="574"/>
           <lg>
             <head>G'sang</head>
-            <l>Kunnt me z'spot</l>
-            <l>Als vor dr Hiroth scho,</l>
-            <l>Wie wird's denn geh' als do,</l>
-            <l>Wenn's umme-n-isch derno!</l>
-            <l>Ich find doch, ass d'Hiroth</l>
-            <l>Vor allem z'àmme geht</l>
-            <l>Un ass ka si kei Red</l>
-            <l>Vo ebbes anders meh jetz do!</l>
+            <stage>(bleib bei mir)</stage>
+            <l>Ka me d'Liewe</l>
+            <l>Üse schiewe?</l>
+            <l>Das isch eim unmöglig schier!</l>
+            <l>Ich fall leider</l>
+            <l>Üs de Kleider.</l>
+            <l>Wenn ich d'Brüt nitt bol heimfiehr.</l>
+            <l>Sie wartet mir, ich ha ihr Wort,</l>
+            <l>Doch wit vo ihr g'fallt mir kei Ort;</l>
+            <l>Ich denk an sie uf Weg un Steg,</l>
+            <l>Drum bring ich schier kei Teig meh z'weg.</l>
           </lg>
-        </sp>
-        <spGrp type="simultaneous" rend="braced">
-          <stage>Mitnander</stage>
-          <sp who="#madame_frisch">
-            <lg>
-              <l>Kunnt me z'spot etc...</l>
-            </lg>
-          </sp>
-          <sp who="#herr_ledig">
-            <speaker>Herr Ledig.</speaker>
-            <lg>
-              <l>D'Hiroth wird do</l>
-              <l>Mich finde scho,</l>
-              <l>Ich will nitt uf mich warte lo;</l>
-              <l>Ich kumm nitt z'spot,</l>
-              <l>Denn wenn's losgeht,</l>
-              <l>Ka si kei Red</l>
-              <l>Vo ebbes anders meh jetz do!</l>
-            </lg>
-          </sp>
-        </spGrp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>Ich bi awer o ungeduldig gsi un ha mi dummelt... un
-                        derno, 's isch jo no nitt spot<stage>(er lüegt uf d'Ühre)</stage> 's
-                        isch jo erscht...
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(kalt)</stage>
-          <p>So isch's halt allewil mit dàne Mànner... d'G'schàfte,
-                        die gehn allewil vor... wenn Sie denn eso dra halte an
-                        Ihre G'schàfte, worum sin Sie nitt gli dra bliwe!...
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(fir sich)</stage>
-          <p>Ah so!... tiens, tiens!...<stage>(lüt)</stage> wenn Se meint, ass ich
-                        hätt sotte dra bliwe, so ka-n-ich allewil noch geh...
-                        's isch noch alle Zit... Adie Madame Frisch!<stage>(er geht
-                        hinte-n-üse)</stage>.
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(allei)</stage>
-          <p>Dà güete Herr Ledig!... ich mächt grad grine!... ich
-                        ha's schier nitt iwer's Herz brocht... awer 's isch <pb n="575"/> jo
-                        fir si Wohl... ich wott nitt, ass ihm e-n-Unglick thàt
-                        widerfahre... bàh... mit eme Wort vo mir kunnt er
-                        wieder z'ruck morn... ich kenn en... doch, jetz hör i
-                        glaüb mi Oncle...<stage>(se lost)</stage> richtig... 's isch ne!
-                    </p>
+          <p>Doch still! 's kunnt glaüb ebber?... 's isch am End
+                            gar d'Tante!... Nei, ich spir jetz scho, ass ich 's
+                            Herz nitt hätt, mit ere z'rede... ich mach mich
+                            dervo, mi Oncle soll's richtig mache hit z'Owe,<stage>(er lüegt ummenander)</stage>Wo bin i ine ku?... dert glaüb <stage>(er zeigt d'Thüre rechts, geth se geh uf mache un kunnt glich wieder z'ruck)</stage> schier wàr i letz g'loffe... 's isch e Schlofstuwe!... do isch d'güete <stage>(er will hinte-n-üse, hört awer ebber aklopfe)</stage> z'spot! <stage>(er springt in d'Schlofstuwe-n-un macht d' Thüre züe).</stage></p>
         </sp>
       </div>
       <div type="scene">
         <head>III. Uftritt.</head>
-        <stage>Madame Frisch, Herr Flink, Herr Krach.</stage>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink</speaker>
-          <stage>(kunnt hinte-n-ine mit em Herr Krach)</stage>
-          <p>Aha!... do isch se jo, mi liewe Nièce, Nundebuckel noch
-                        emol!<stage>(se schmutze enander)</stage> wie geht's denn allewil?...
-                       <stage>(er geht e paar Schritt hintersi z'ruck un b'schaüt se)</stage>
-                        noch allewil jung un frisch!... à propos<stage>(er zeigt uf
-                        dr Herr Krach)</stage> ich stell Dir dr Herr Krach vor, mi
-                        züekünftiger Associé, wo mit Din're Erlaübniss mit uns
-                        z'Nacht esse wird...<stage>(se verneige sich beide)</stage>.
+        <stage type="characters">Herr Gàlfink, Tante.</stage>
+        <sp who="#herr_galfing">
+          <stage>(kunnt hinte-n-ine-un lüegt ummenander),</stage>
+          <p>Tiens, 's isch Nieme do... ich ha doch g'meint....</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(kunnt ine links)</stage>
+          <p>Ah!... Sie sin's, Herr Gàlfink, 's isch mr doch gs? ich
+                        hör ebber... was isch... kämme Se ku ihre Rei vanche
+                        nàh... hein, gestert ha-n-ich Sie awer g'wunne-
                     </p>
         </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Was uf jedefall e grosse-n-Ehr wird si fir mich...</p>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Scht! scht!<stage>(er winkt ere, se soll still si)</stage>.</p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Potz taüsig!... was mache Sie fir e G'sicht hit!... isch
+                        Ene ne Spinne iwer d'Nase g'loffe dà Morge?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Scht!... Oh! wenn das möglig wàr, wenn das möglig wàr!
+                       <stage>(er laüft hin un her)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Was möglig wàr?... e Domino z'mache?... uf dr Stell,
+                        Herr Gàlfink... ich ha jo scho lang uf Se g' warte!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Domino, jetz?... 's handelt sich nitt um das... thàt
+                        Se-n-emol d'Thüre züegschpliesse, Tante.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>D'Thüre züegschpliesse!... fir was?</p>
+          <pb n="249"/>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Thàt Se nur emol züegschpliesse, ich will's Ere derno
+                        sage...
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Sie mache mich wunderfitzig, Herr Gàlfink...<stage>(se geht
+                        geh dr Schlüssel umdràihe)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
           <stage>(fir sich)</stage>
-          <p>Oh sapristi!... jetz si mr scho wieder drizehne!... ich
-                        'will gli dr Herr Ledig wieder lo z'ruckriefe, ass mr
-                        vierzehne sin.<stage>(lüt)</stage> 's wird mir g'wiss Freid mache,
-                        die Herre z'bediene... doch müess ich se jetz e wenig
-                        allei lo, fir geh mine Ordre üsz'theile... nàmme Se ne
-                        wenig Platz, ich bi im Aügesblick wieder do<stage>(se geht
-                        hinte-n-üse)</stage>.
+          <p>'s isch züem dritte Mol jetz!... oh! wenn doch das kännt
+                        g'schàh.
                     </p>
         </sp>
-        <pb n="576"/>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(kunut fire)</stage>
+          <p>So, jetz isch's züe... was isch jetz das fir e
+                        Mordthat?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(lüegt ummenander)</stage>
+          <p>Thàt Se viellicht d'Thüre noch e wenig verbarrikadiere
+                        mit Tisch un Stiehl.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ah çà, sin Sie eigentlig g'schosse in dr Pelzkappe, Herr
+                        Gàlfink?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(geht hin un her un gesticuliert)</stage>
+          <p>'s isch o nit unmögligs... 's isch ganz natürell!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich will em halt si Wille thüe, sunscht erfahr ich nie
+                        nit<stage>(se stellt Tisch un Stiehl vor d'Thüre un sieht
+                        d'Tarte)</stage>. Tiens, das isch jetz gàlant vo Ihne, Herr
+                        Gàlfink, ass Sie mir ebbes brocht hàn fir mi Namestag.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Was brocht?... ich?<stage>(er geht geh lüege)</stage>.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Verstelle Sie sich doch nitt. Sie hà mr welle ne
+                        Surprise mache...
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(fir sich)</stage>
+          <p>Tiens, das isch e Tarte wie die, wo-n-ich dà Morge
+                        b'stellt ha bim Zuckerbäck, fir... he he he... fir <pb n="250"/>
+                        d'Jumpfer Schelastika im Rosegàsle... scht!...<stage>(züer
+                        Tante)</stage> g'wiss nitt, Tante, ich ha jo nitt emol g'wisst,
+                        ass Sie Schelastika heisst.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Do wird's halt 's Rosele si, wo mr se do ane tho hat...
+                        das git ebbes fir z'Owe züem Kaffee. Doch 's handelt
+                        sich jetz nitt um das... üse jetz emol mit dem
+                        G'heimniss.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Isch alles züe?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Un verbarrikadiert.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Eh bien...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(erwartungsvoll)</stage>
+          <p>Was denn?</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Ich ha traümt, ich heb 's grosse Loos g'wunne.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(desappointiert)</stage>
+          <p>Un fir dass hàn Sie mich mache d'Türe
+                        z'verbarrikadiere?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>'s hat gar viel Schelme bi dàne schlechte Zite!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Sie hàn e Sprosse z'viel, Herr Gàlfink, 's ka nitt
+                        anderscht si!... 's wàr besser, Sie hätte's scho, ihre
+                        gross Loos.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <p>Sie wird sàh, Tante, 's kunnt... denn dreimol
+                        hinternander ha-n-i's jetz traümt... Vorgestert
+                        z'Nacht, gestert z'Nacht, un grad vorig, wo-n-i mi
+                        Mittagsschläfle g'macht ha... we me-n-ebbes dreimol
+                        hinternander traümt, so g'schieht's allemol!
+                    </p>
+          <pb n="251"/>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(bedenklig)</stage>
+          <p>Jà, wenn dass isch, Herr Gàlfink, so kännt viellicht
+                        ebbes drüs g'schàh... ich b'sinn mich, ass mi Vater
+                        emol traümt hat, dreimol hinternander, er thàt Geld
+                        finde... eh bien, sàlle gliche Wuche hat er e Pfennig
+                        g'funde... das heisst nei, e Centime... sàllemols hat
+                        me noch Centimes g'ha.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Drum sieht Se, Tante. Oh! ich ha kei Rüeh meh!... wenn's
+                        doch wohr wàr!... 's isch nit, wo nitt ka si, uf
+                        jedefall müess es ebber g'winne, nitt wohr!... ich will
+                        doch derno lüege, was mine Titres fir Nümeros hàn...
+                        ich will se-n-ufschriwe.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Zeige Se, Herr Gàlfink, was thàte mr mache, wenn Sie 's
+                        grosse Loos thàte g'winne? .. z'allererst miesste
+                        guldige Domino in's Hüs!... mr thàte mit guldige Domino
+                        spiele!
+                    </p>
+        </sp>
+        <sp who="#herr_galfink">
+          <speaker>Hèrr Gàlfink.</speaker>
+          <p>Une Hochzit thàte mr mache, Tante Domino, ass noch
+                        keine-n-eso gsi isch!... 's Rosele miesst üsg'staffiert
+                        si wie ne Prinzessin... A propos, was macht's, das
+                        G'schàft, geht's vora? Ich wàr jetz gern emol fixiert.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Grad dà Morge ha-n-ich im Rosele wieder dervo g'redt...
+                        's isch halt e wenig e Stättkopf...
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Do will's denn schint's noch allewil nit vo mr wisse?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Das grad nitt... un züedem, wenn Sie jetz 's grosse Loos
+                        g'winne, so wird es sich scho anderscht b'sinne... à
+                        propos, mr kännte jo lüege, eb Sie wirklig e Chance hàn
+                        z'g'winne.
+                    </p>
+        </sp>
+        <pb n="252"/>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Wieso!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh! mit de Karte!... mr känne jo ne Reüssite mache...
+                        ass ich nitt eher dra denkt ha!... setze Sie sich, Herr
+                        Gàlfink, ich will g'schwind geh d'Karte hole, mr wànn
+                        jetz das Ding glich wisse<stage>(se geht in's Zimmer rechts,
+                        uf eimol hört me schreie. Dr Zuckerbäck kunnt üse ku
+                        springe, er will züer mittlere Thüre-n-iise, wo-n-er
+                        awer sieht, ass se verbarrikadiert isch, springt er in
+                        's Zimmer links)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(ohne dr Zuckerbäck z'sàh, geht in dr Tante ergege,
+                        wo gauz verstört üse hunnt ku z'laüfe)
+                    </stage>
+          <p>Was isch?... was git's?... brennt's im Hüs?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh... hàn Se den nit g'sàh?... Ne wisser Schatte wie ne
+                        Geist isch nàwe mir dure g'witscht, wie-n-i ine bi.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Sie trumpiert sich, Tante, ich ha nit g'sàh un nit
+                        g'hört.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s isch sunderbar... ich hätt jetz g'schwore!<stage>(se
+                        sitze-n-an dr Tisch, dr Herr Gàlfink links un d'Tante
+                        rechts. Uf dr Tante-n-ihrem Stüehl isch e Kisse)</stage>. Do
+                        ha-n-i jetz d'Karte, mr wànn jetz emol lüege...<stage>(se
+                        mischelt se)</stage> hewe Se jetz emol ab, Herr Gàlfink.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(hebt se-n-ab)</stage>
+          <p>Glaübt Sie denn wirklig an d' Reüssites, Tante Domino?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Das?... das trifft immer i, was do üse kunnt... 's hat
+                        Lit g'ha, se sin züe dr Schlàfere gange-n-uf <pb n="253"/>Durni...
+                        eh bien, se hätte liewer ihre Geld g'spart un hätte
+                        d'Karte consultiert... das isch noch viel sicherer...
+                       <stage>(se legt d'Karte, eine nàwe d'andere)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich glaüb, ass ei Mittel 's anders werth isch!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Do, sàhn Se jetz, isch emol d'Herz-Dame... das isch 's
+                        Rosele!... un àne dra<stage>(se steht e wenig uf, fir
+                        z'zeige, dr Herr Gàlfink nimmt 's Kisse-n-un sitz druf)</stage>
+                        isch dr Herz-Bür... das sin Sie... Se sin jetz noch
+                        ziemlig wit vonander, awer nur Geduld, das Ding wird
+                        sich scho mache.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Güet, güet, Tante... we mr nur z'àmme kamme, das isch
+                        d'Haüptsach.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Jetz do in dr Mittle sieh-n-i 's Eckstei-Ass... das isch
+                        e Brief, wo Sie g'schriwe hàn...
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(fir sich)</stage>
+          <p>Diable, diable... wenn nur d'Adresse nitt druf steht!...
+                       <stage>(er lipft sich e wenig fir z'lüege, d' Tante nimmt 's
+                        Kisse)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Oder einer, wo Sie im Sinn hàn z'schriwe... in wem
+                        kännte Sie jetz schriwe, Herr Gàlfink?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Kännt's viellicht nitt o ne Depesche si, Tante, ich
+                        möcht ewe telegraphiere fir z'wisse, was fir Nümero as
+                        üse ku sin im letschte Tirage.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ah! do isch's halt das... do sàhn Se, d'g'heimste
+                        Gedanke thien d'Karte-n-errothe!
+                    </p>
+        </sp>
+        <pb n="254"/>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(ribt si d'Hand. Züem Public)</stage>
+          <p>Wie finde-n-ihr se?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Un sàhn Se do,<stage>(se steht uf fir z'zeige, dr Herr Gàlfink
+                        nimmt 's Kisse)</stage> nàwe dem Brief lige vier Zehner
+                        nàwenander... das beditet Geld, viel Geld! Das isch 's
+                        grosse Loos, Sie sin e Glickskind, Herr Gàlfink... Sie
+                        känne herzhaft d'guldige Domino b'stelle.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Jà, un 's Rosele?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(nimmt d'Karte z'àmme)</stage>
+          <p>Mr wàn lüege, was d'Karte züem zweitemol sage<stage>(se legt
+                        se wieder)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Aha... me legt se-n-eso d'Karte, bis ass me findet drin,
+                        was me gern hat?...
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Sàhn Se jetz... jetz sin Se schier bi dr Herz-Dame, nur
+                        isch noch e schwarzer Bür derzwische... was ka jetz das
+                        fir e Schwarzer si, wo derzwische-n-isch?...<stage>(fir sich)</stage>
+                        's isch doch nitt dr Herr Alfred, ne Zuckerbäck, dà
+                        isch jo wiss.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(steht uf un lüegt. D'Tante nimmt 's Kisse)</stage>
+          <p>Eh... me därf ne jo nur eweg nàh, wenn er eim geniert!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Jà, das geht nitt eso... 's isch g'schriwe, ass e
+                        Schwarzer derzwische kunnt, un 's kunnt e Schwarzer
+                        derzwische... das känne Sie nitt àndere!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Lost Se, Tante, ich ha jetz g'nüe vo dem Làrifàri... we
+                        mr giengte geh ne Tournée mache-n-uf dr Màss.. <pb n="255"/>d'Sunne
+                        schint so schön... 's wàr schad, we me that in dr Stuwe
+                        bliwe.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ich hätt jetz liewer e Domino g'macht, denn 's isch
+                        heiss duss... awer ich kumm doch mit...<stage>(fir sich)</stage> 's
+                        isch ewe ne Wilder uf dr Màss, e Neger, un ich sieh se
+                        züe gern... wenn dr Herr Gàlfink 's grosse Loos
+                        g'winnt, so müess er mir einer kaüfet 's sin züe schöne
+                        Lit... schön g'wachse-n-un alles...
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Also, so geh mr, Tante?<stage>(fir sich)</stage> 's isch ewe ne dicke
+                        Fraü dert, eso Eine<stage>(er zeigt mit de Hànd)</stage>, wenn i 's
+                        grosse Loss g'winn, so kaüf i se mit samt dr Baracke.
+                    </p>
+        </sp>
+        <stage>G'sang (Madame wir wollen)</stage>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <lg>
+            <l>Mr wànn uf d'Màss spaziere,</l>
+            <l>'s geht als Iustig züe,</l>
+            <l>Me ka sich amüsiere</l>
+            <l>Dert als bis genüe.</l>
+          </lg>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <lg>
+            <l>Me sieht dert dicke Fraüe .</l>
+          </lg>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <lg>
+            <l>Un e Negerg'stalt.</l>
+          </lg>
+        </sp>
+        <spGrp type="simultaneous">
+          <sp who="#herr_galfing">
+            <speaker>Er.</speaker>
+            <lg>
+              <l>Die Dicke will ich b'schaüe,</l>
+              <l>Das isch was mir g'fallt.</l>
+            </lg>
+          </sp>
+          <sp who="#tante_domino">
+            <speaker>Sie.</speaker>
+            <lg>
+              <l>Dà Neger will ich b'schaüe,</l>
+              <l>Das isch was mir g'fallt.</l>
+            </lg>
+          </sp>
+        </spGrp>
+        <sp who="#tante_domino">
+          <p>Warte Se ne-n-Aügesblick, Herr Gàlfink, ich will nur
+                        g'schwind geh mi Hüet un mi Shawl alege<stage>(se geht <pb n="256"/>in's
+                        Zimmer links un losst e Schrei üs. Dr Zuckerbäck kunnt
+                        üse ku springe un laüft in's Zimmer rechts, ohne-n-ass
+                        ne dr Herr Gàlfink sieht)</stage>. Dr Geist! dr Geist!<stage>(se
+                        kunnt üse)</stage> Hàn Se jetz g'sàh, Herr Gàlfink?
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Ich gIaüb décidément Sie traümt, Tante; siter ass ich
+                        vom grosse Loos g'red ha, isch se ganz üsser sich!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Das isch jetz doch sunderbar!... ich hätt jetz
+                        g'schwore, ass ebbes Wisses nàwe mir
+                        dureg'loffe-n-isch... Kämme Se, Herr Gàlfink!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>En route, Tante!<stage>(se mache Tisch un Stiehl vo dr
+                        Thüre)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(geht z'erst üse)</stage>
+          <p>Gschpliesse Se d'Thüre güet züe un gàn Se mir dr
+                        Schlissel derno.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Jà, un 's Rosele, wenn's heimkunnt?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s Rosele hat allewil e Schlissel im Sack, im Fall ass
+                        ich nitt d'heim bi.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Güet... gehn Se-n-efange, ich will nur g'schwind mi Hüet
+                        un mi Stock nàh<stage>(er geht üse-n-un gschpliesst d 'Thüre
+                        züe)</stage>.
+                    </p>
+        </sp>
       </div>
       <div type="scene">
         <head>IV. Uftritt.</head>
-        <stage type="characters">Herr Flink, Herr Krach.</stage>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink</speaker>
-          <stage>(züem Herr Krach)</stage>
-          <p>Was isch... wie g'fallt se ne?... nitt wohr, ich ha se
-                        nitt z'viel g'riehmt?... das git e pràchtige Fraü fir
-                        Sie!... Nundebuckel noch emol!
+        <stage type="characters">Herr Alfred, Tom.</stage>
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred</speaker>
+          <stage>(kunnt üse)</stage>
+          <p>Jà, jà!... jetz stand i schön... ig'sperrt im e fremde
+                        Hüs... un noch derzüe grad hit, am e Sunntig, wo-<pb n="257"/>n-ich
+                        am meiste z'thüe ha!... In mim Oncle si Koch, dr Neger,
+                        wo-n-er mitbrocht hat üs Amerika, dà isch wohl d'heim
+                        im Àtelier... er hilft mr als e wenig, wenn i pressiert
+                        bi... awer was ka-n-er mache, wenn ich nitt bi-n-em
+                        bi?... er ka jo nitt emol recht rede!... d'einzige
+                        Hoffnung, wo-n-i jetz ha, das isch, ass 's Rosele
+                        viellicht glich heimkunnt und mich befreit, es, wo ne
+                        Schlissel hat.. . was wott ich sage, wenn mich ebber
+                        thàt verwitsche do?... Aha, still! ich bi erlöst!... do
+                        isch's... 's kunnt d'Stege-n-ufe... jetz steckt's dr
+                        Schlissel in's Schloss...<stage>(er steht züe dr Thüre, se
+                        geht uf, dr Neger kunnt inne mit ere Tarte; dr Herr
+                        Alfred, ohne lang z'lüege, fallt em um dr Hals)</stage> O
+                        Rosele, lieb Rosele!<stage>(se fahre beide üsenander un lehn
+                        e Schrei üs)</stage>.
                     </p>
         </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Ich find se, ganz güet... awer sin Se sicher, ass sie
-                        mich grad will?... was isch das fir e Herr, wo mir
-                        atroffe hàn vorig, un wo grad vo do ku isch?
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Sie mich verschreckt!</p>
+        </sp>
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred.</speaker>
+          <p>Was dr Kückücks kunnsch Dü do ku mache?</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <p>Jumpfer Rosele züe mir ku... so g'sàit: nimm das<stage>(er
+                        zeigt uf d'Tarte)</stage> un bring's Tante ich sie g'sàh
+                        furtgeh, Nieme d'heim... do Schlissel... dü warte dert
+                        e wenig, ich glich kumm... awer Achtung gà, dich nitt
+                        verwitsche lo... ich will Surprise mache dr Tante<stage>(er
+                        legt si Tarte newe d'andere)</stage>.
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>Hàn Se-n-ebbe scho Angst, 's isch e Rival?... lehn Se
-                        mich nur mache... do isch se jetz wieder!
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred.</speaker>
+          <p>Ah!... 's Rosele kunnt glich... güet, ich will e wenig
+                        warte... d'Tante-n-isch uf d'Màss, die kunnt so
+                        g'schwind nitt z'ruck!
+                    </p>
+          <lg>
+            <head>G'sang</head>
+            <stage>(chers amis)</stage>
+            <l>Vor lüter Freid thüet jetz mi Herz scho schlage,</l>
+            <l>Denn 's isch e Glick als fir mich, wenn ich ka</l>
+            <l>Mit ganzem Herz im Rosele-n-als sage,</l>
+            <l>Wie gern ich's ha. <stage>(bis)</stage></l>
+          </lg>
+          <pb n="258"/>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <lg>
+            <l>Er nitt dumm, er nitt dumm, ich hör's ihm a;</l>
+            <l>Ich o verliebt, doch nie nit traüe sage,</l>
+            <l>Wie gern ich's ha. <stage>(bis)</stage></l>
+          </lg>
+        </sp>
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred.</speaker>
+          <p>Awer sag, Tom, das isch jo die Tarte, wo dà Herr
+                        b'stellt hat dà Morge un wo me hätt solle in's
+                        Rosegàssle trage!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ich nitt g'wisst.</p>
+        </sp>
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred.</speaker>
+          <p>Still, do isch jetz 's Rosele.<stage>(er laüft an d'Thüre, se
+                        geht uf un d'Tante kunnt ine, Dr Herr Alfred, ohne lang
+                        z'lüege, fallt ere mu dr Hals)</stage> Lieb Rosele!<stage>(se lehn
+                        alle drei e Schrei üs; dr Tom laüft in's Zimmer links,
+                        dr Herr Alfred in's Zimmer rechts)</stage>.
                     </p>
         </sp>
       </div>
       <div type="scene">
         <head>V. Uftritt.</head>
-        <stage type="characters">D'Gliche, Madame Frisch.</stage>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
+        <stage>D'Gliche, Tante, Herr Gàlfink.</stage>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(zur Thüre-n-üse)</stage>
+          <p>Z'Hilf! z'Hilf'!... dr Geist... er hat mi um dr Hals
+                        gnu!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(kunnt ine; er hat nit a as d'Hose, er hebt se mit
+                        de Hànd, d'Hosetràgsr hànke-n-sm hinte-n-awe)
+                    </stage>
+          <p>Was isch... was git's... me ka nitt emol riehig si
+                        Finett changiere do!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(zeigt uf's Zimmer rechts)</stage>
+          <p>Dert!...<stage>(se zittert)</stage>.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Was isch eigentlig jetz das fir e Geisterg'schichte
+                        hit?...ich möcht nur emol einer sàh!... Ouf! was <pb n="259"/>fir e
+                        Hitz... un was Lit uf dere Màss... nei nei, ich ha
+                        liewer nitt welle züe dr Dicke ine geh... mr hàn recht
+                        g'ha, Tante, ass mr glich wieder umkehrt sin... 's isch
+                        nitt züem üshalte gsi!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Oh!... ich bitt Se drum, Herr Gàlfink, gehn Se doch emol
+                        geh lüege... dert isch er ine g'sprunge<stage>(se zeigt
+                        rechts)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Sie sieht nit ass Geister hit, Tante.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Wenn ich sag!... er isch ganz wiss.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(nimmt d'Tante am Arm un fiehrt se fire)</stage>
+          <p>Weisst Sie denn nitt, voyons Tante, ass es keine Geister
+                        meh git<stage>(dr Herr Alfred springt üse un laüft dervo. Se
+                        kehre sich beide um un sàhn en üse witsche)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Hewe ne! hewe ne!</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Sapristi... jà do!... hewe ne, hewe ne... ich müess vor
+                        allem z'erst mine Hose hewe... hätt Sie-n-en g'hebt!...
+                        ich will jetz geh mi Finett changiere<stage>(er geht üse. Dr
+                        Tom lüegt üse links)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(wo ne sieht)</stage>
+          <p>Herr Gàlfink! Herr Gàlfink!!.. er isch scho wieder
+                        do!... awer jetz isch er schwarz!<stage>(Tom macht d'Thüre
+                        züe)</stage>.
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(kunnt z'ruck)</stage>
+          <p>Das isch 'jetz doch sunderbar... mr wànn jetz emol
+                        lüege, was das eigentlig isch... hebt Se mir emol mine
+                        Hose, Tante...<stage>(Se steht hinte-n-au em un hebt em
+                        d'Hose. Dr Heu Gàlfink speit in d'Hand. Uf eimol kunnt
+                        dr Neger üse ; se gehn beide hintersi z'ruck.)</stage>
+                    </p>
+        </sp>
+        <pb n="260"/>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
           <stage>(fir sich)</stage>
-          <p>Ich ha-n-em d'Magd nog'schickt... er ka no nitt wit
-                        si...<stage>(lüt züem Oncle)</stage> jetz, Oncle, känne mr e wenig
-                        schwàtze mitnander... was isch, was hat Dich eso
-                        unerwarteterwis in mi Hüs g'fiehrt... ich bi's ewe nitt
-                        g'wöhnt... wie vielmol ha-n-ich Dich scho ig'lade un
-                        nie hasch welle ku...
+          <p>Ich liewer alles sage.<stage>(züer Tante)</stage> Ich Neger...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(züem Herr Galfink)</stage>
+          <p>Er Neger...<stage>(se b'schaüe ne verwundert)</stage>.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Vo Riedese?...</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(stolz)</stage>
+          <p>Ich Mississippi-Neger!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(züem Herr Gàlfink)</stage>
+          <p>Er Missippippi-Neger...</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Me ka's jo prawiere<stage>(er macht ei Hosetràger a, speit uf
+                        si Nastücchzipfel un ribt am Neger siner Hand).</stage>
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>Was witt halt... Dü weisch, wie-n-ich mit Arwet iwerlade
-                        bi 's ganze Johr un wie ungern as ich mich deplaciere
-                        thüe... dasmol isch's jetz üs ere ganz
-                        b'sundere-n-Ursach, wo Dü jetz glich erfahre sollsch...
-                    </p>
-          <pb n="577"/>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach</speaker>
-          <stage>(bim Fenster)</stage>
-          <p>Erlaüwe Se, ass ich siter in Garte-n-awe gang, derwilst
-                        as Sie schwàtze mitnander... ich glaüb ohnedem, ass ich
-                        dert züefàlligerwis e-n-alte Bekanntschaft erkennt ha,
-                        wo-n-ich gar nitt denkt hätt do az'treffe... Sie
-                        excüsiere mich, nitt wohr<stage>(er geht hinte-n-üse)</stage>.
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Wie kunnt's awer, ass Sie do sin, un nitt am
+                        Missippippi?
                     </p>
         </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Allons, allons... 's isch e güete Farb... 's isch nit
+                        dervo abgange!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ich dà Morge Herr Alfred gsi un...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(unterbricht ne. Fir sich)</stage>
+          <p>Wenn er dà Morge dr Herr Alfred gsi isch, so wird er's
+                        jetz noch si... Tiens, 's Rosele hat mir nitt g'sàit,
+                        ass es e Neger isch, si Alfred!...<stage>(schlat si an
+                        d'Stirn)</stage> eh! wie ha-n-ich's awer a nitt g'merkt!...
+                        natirlig isch's e Neger, wil er in Amerika uf d'Welt ku
+                        isch !
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Enfin, mache-n-ihr's üs mitnander.... ich will jetz emol
+                        geh mi Finett changiere!<stage>(er geht üse)</stage>.
+                    </p>
+          <pb n="261"/>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(zeigt uf d'Tarte)</stage>
+          <p>Ich das brocht... Jumpfere mir Schlissel gà...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Aha!... jetz merk i's scho... Ihr hà mr welle ne
+                        Surprise mache... das güete Rosele!<stage>(fir sich)</stage> wer hat
+                        denn awer d'andere Tarte brocht? Er isch gar nitt
+                        schlecht, dr Herr Alfred<stage>(se b'schaüt ne mit
+                        Wohlg'falle)</stage> so hätt's mr's denn glich g'sàit, ass es e
+                        Neger isch!... e Neger!... ich ha allewil denkt, wenn
+                        ich doch nur emol einer vo ganz nooch kannt b'schaüe
+                       <stage>(dr Neger lacht se zartlig a)</stage> wenn's nitt wàr wege-n-em
+                        Dominospiele mit em Herr Gàlfink, so wàr ich im Rosele
+                        gar nitt derwider, wenn's ne thàt hirothe... ich hätt
+                        scho lang gern e Neger um mich umme g'ha... er kännt mr
+                        als dr Schlepp trage!... ich kannt ihn jo awer lehre
+                        Domino spiele, derno kännt er dr Herr Gàlfink
+                        remplaciere!... das isch e-n-Idee... wenn er's derno
+                        ka, so derfe se hirothe<stage>(züem Neger)</stage> Sie Domino
+                        spiele?...<stage>(züem Public)</stage> hein, wie-n-ich scho güet
+                        Negerditsch ka rede?...
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ich nitt stark... ich als liewer mit Messer g'spielt!
+                       <stage>(er macht d'Bewegung vom Scalpiere un rollt
+                        ferchterlige-n-Aüge)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(fir sich)</stage>
+          <p>Isch er schön, dà Neger, wenn er eso macht!... wenn er
+                        nur thàt wild werde un thàt mi e wenig wirge... nitt
+                        stark... nur fir z'sàh, wie's eim si mag, we me vo de
+                        Wilde-n-iwerfalle wird... ich ha dert ewe-n-eso ne
+                        Roman g'lese... brrr!...<stage>(züem Neger)</stage> ich Sie lehre
+                        Domino spiele<stage>(fir sich)</stage> ich brüch jo eigentlig nitt
+                        Negerditsch mit em z'rede, er ka jo Milhüserditsch,
+                       <stage>(züem Neger)</stage> Setze Se sich emol do ane, mr wànn lüege,
+                        was Se känne...<stage>(dr Neger sitzt an Tisch, se sitzt
+                        züe-n-em nimmt d'Domino un mischelt se)</stage> so, wie viel
+                        nàmme mr?
+                    </p>
+        </sp>
+        <pb n="262"/>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Mir eithüen...</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh bien, sechse<stage>(se nàmme sechs Domino)</stage>.</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(setzt a)</stage>
+          <p>Sechs hinte-n-un vorne!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Doppelsechs sàit me... tiens, ich ha jetz kei sechs.</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Sechs un fünf!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh, ich ha jo o kei fünf...<stage>(fir sich)</stage> jetz wird mr
+                        glich dà Espèce Neger do in siner Dummheit e Parthie
+                        abg'winne!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Sechs un wiss!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Aha, jetz isch's awer o-n-emol an mir! wieder sechs un
+                        wiss!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Wiss un drei!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Aha!... iweral wiss!... Sie hàn g'wiss nit wisses meh?..
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Nei, ich schwarz am ganze Lib... wiss un zwei!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ich ha jo kei zwei!</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Domino!</p>
+          <pb n="263"/>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh! das isch jo pràchtig<stage>(fir sich)</stage> er meint noch, er
+                        seig nitt stark, er isch noch stärker ass dr Herr
+                        Gàlfink, drum weiss i nitt, worum ass er 's Rosele nitt
+                        sott hirothe.<stage>(züem Tom)</stage> Sie wotte-n-also mi Nièce, 's
+                        Rosele, hirothe?...
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(verwundert)</stage>
+          <p>Ich?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Sie brüche sich nitt z'verstelle... ich weiss alles...
+                        's Rosele hat mr g'sàit, ass es Sie gern hat un ass es
+                        kei anderer Mann will.
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ah!... wenn das isch... mir scho recht... Rosele schöne
+                        Jumpfre... wenn dr Hochzitstag?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Nur g'mach... so pressiert's jetz doch nitt i .. Sie
+                        mien jo z'erst noch dr Oncle froge.
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ich frei... ich mache ka, was' ich will!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(fir sich)</stage>
+          <p>Das isch alles recht, awer 's isch mr èwe nur um's
+                        Vermöge... wenn dr Oncle nitt z'friede-n-isch, so git
+                        er in sim Neveu nit, das isch klar... doch still, do
+                        kunnt jetz 's Rosele glaüb?<stage>(züem Tom)</stage> wisse Sie was...
+                        gehn Se ne wenig dert ine<stage>(se zeigt uf d'Thüre links)</stage>,
+                        mr wànn im Rosele jetz o ne Surprise mache.<stage>(se schiebt
+                        ne ine, me klopft a)</stage> Entrez!<stage>(dr Herr Samüel kunnt
+                        ine)</stage>.
+                    </p>
+        </sp>
+        <pb n="264"/>
       </div>
       <div type="scene">
         <head>VI. Uftritt.</head>
-        <stage type="characters">Herr Flink, Madame Frisch.</stage>
-        <sp who="#herr_flink">
-          <speaker>Ferr Flink.</speaker>
-          <p>Vor allem mächt ich Dich jetz froge, wie Dir dà Herr
-                        g'fallt... güet, nitt wohr?... De weisch, ass ich nitt
-                        d'G'wohnet ha, lang hinte-n-umme z'fahre... dr Herr
-                        Krach isch in alle Sticke ne charmanter junger Mann...
-                        er trittet jetz in mi G'schàft i un wird's sogar später
-                        wohrschinlig ganz iwernàmme... also ne güete Parthie,
-                        Nundebuckel noch emoll... was meinsch, wàr das nitt eso
-                        ne-Mànnle fir Dich?
+        <stage type="characters">Tante, Herr Samüel.</stage>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(salütiert un schaüt ummenander. Fir sich).</stage>
+          <p>Aha, do isch jetz emol d'Tante... d'Nièce wird nitt wit
+                    si... 's isch eso ziemlig süfer do!<stage>(züer Tante)</stage>
+                    Verzeihe Se, wohnt nitt do ne g'wisser Herr... Knopf?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Knopf... Knopf... nei, 's wohnt Nieme-n-eso im Hüs...
+                        Herr Gàlfink, wànn Sie sage?...
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(lacht)</stage>
-          <p>'s isch wohr, Oncle, Dü fahrsch nitt lang
-                        hinte-n-umme... das heisst me jetz emol eim e Mann
-                        atràit uf dr Extrapost...
-                    </p>
-          <lg>
-            <head>G'sang</head>
-            <l>Was isch das fir e Mode?</l>
-            <l>So will ich nitt hirothe,</l>
-            <l>Ich müess jetz doch z'erst wisse,</l>
-            <l>Mit wem as ich's z'thüe ha;</l>
-            <l>Ne so eim iwerfalle!</l>
-            <l>Das geht halt nitt in Alle,</l>
-            <l>Das wàr jo gege 's Gwisse;</l>
-            <l>So bind ich mich nitt a!</l>
-          </lg>
-        </sp>
-        <pb n="578"/>
-        <spGrp type="simultaneous" rend="braced">
-          <stage>Mitnander</stage>
-          <sp who="#madame_frisch">
-            <lg>
-              <l>'s isch mir nitt z'wohl,</l>
-              <l>Denn gar vielmol</l>
-              <l>Hat me g'sàh do</l>
-              <l>'s Unglick scho;</l>
-              <l>Das ka nitt geh,</l>
-              <l>Dü wirsch's ig'steh,</l>
-              <l>So uf eimol,</l>
-              <l>B'sinn Di wohl!</l>
-            </lg>
-          </sp>
-          <sp who="#herr_flink">
-            <speaker>Herr Flink.</speaker>
-            <lg>
-              <l>Nundebuckel noch emol!</l>
-              <l>Sag, weisch Dü jetz awer wohl,</l>
-              <l>Ass ich mich ha druf verlo</l>
-              <l>Un ihm Hoffnung g'macht ha scho;</l>
-              <l>Ich wird schön jetz vor ihm steh,</l>
-              <l>Wenn Dü das nitt witt igeh;</l>
-              <l>Nundebuckel noch emol!</l>
-              <l>B'sinn Di wohl!</l>
-            </lg>
-          </sp>
-        </spGrp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>De weisch, ich bi allewil eso gsi... wenn ich emol ebbes
-                        im Kopf g'ha ha, so hat's gli miesse dure, Nunde...
+        <sp who="#herr_samuel">
+          <speaker>Herr Samuel.</speaker>
+          <p>Verzeihe Se... nitt wohr, Sie erlaüwe mir e wenig
+                        z'sitze?<stage>(er nimmt e Stüehl un sitzt)</stage> mine Bei sin
+                        efange alt, un das Stege-n-ufegeh thüet mich famos
+                        agriffe!... frieiher, jà, wo me noch sine achtzeh Johr
+                        g'ha hat, do isch's als ganz anderscht gsi... do hat me
+                        d'Stege nitt emol brücht, me isch züem Fenster üse
+                        g'sprunge, wenn's pressiert hat... alleweg, ich ha das
+                        emol g'macht, un grad siter sàllemol ha-n-ich eso ne
+                        Espèce Stich im linke Bei...
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Tiens, tiens, tiens!... ah! Sie sin emol züem Fenster
+                        üse g'sprunge?<stage>(fir sich)</stage> grad as wie dr Samüel!
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Pardon, ich verzähl Ihre do Sache, wo Sie gar nitt
+                        intressiere wird... ich ha jetz üsg'rüeht un will Sie
+                        nitt langer belästige...
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Gar nitt... gar nitt... Sie thien mich gar nitt
+                        belastige, Herr...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Samüel !</p>
+          <pb n="265"/>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(verwundert)</stage>
+          <p>Herr Samüel?<stage>(fir sich)</stage> Hein! er heisst Samüel!...
+                        tiens, tiens, tiens,<stage>(se b'schaüt ne)</stage> wenn's doch...
+                        worum nitt?... 's isch jetz vierzig Johr, un in vierzig
+                        Johr ka me changiere... un er isch mer glich e wenig
+                        bekannt vorku... ich will's jetz glich wisse...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Also wohnt Nieme-n-eso do?... isch Sie allei do im
+                        Hüs?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Mi Nièce isch bi mr un dert newe-n-uns wohnt dr Herr
+                        Gàlfink... Hàn Sie nitt g'sàit, Sie hewe dr Stich im
+                        Bei vom Springe?... ich ka Sympathie tir das... nur
+                        isch's jetz wohrschinlig scho ne wenig lang, ass Sie's
+                        hàn, nitt wohr?...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Ne so ebbes wie vierzig Johr.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(ufg'regt)</stage>
+          <p>Un derno... isch's vo hoch, as Sie üseg'sprunge sin?</p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>So ziemlig... vom erste Stock.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Wohrschinlig isch's wege-n-ere Jumpfre gsi, nitt wohr,
+                        wo Sie sàller Tag fir nit un wieder nit compromettiert
+                        un derno im Stich g'lo hàn?...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(verwundert)</stage>
+          <p>Tiens, wie weisst Sie das?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(steht vorne an en)</stage>
+          <p>B'schaüe Sie mich emol recht, Herr Samüel.</p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(b'schaüt se, uf eimol springt er uf)</stage>
+          <p>Schelastika, Sie! Dü! isch's möglig?</p>
+        </sp>
+        <pb n="266"/>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(freidig)</stage>
+          <p>Er hat mich erkennt.<stage>(se fallt em um dr Hals)</stage> Jà,
+                        Samüel... Di Schelastika, wo Dich eso gern g'ha hat,
+                        wieschter Mensch, un wo Dü-n-eso lichtsinnig verlo
+                        hasch!
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(macht si los)</stage>
+          <p>Los, Schelastika, 's isch g'wiss nitt mi Schuld gsi!...
+                        wo-n-ich sàller Tag züem Fenster üse g'sprunge bi, so
+                        hat sich's grad troffe, ass mi Vater dure-n-isch... ich
+                        bi-n-em schier uf d'Nase gumpt... un grad sàller Tag
+                        isch a ne Brief ku üs Amerika vo mim Oncle, wo g'sàit
+                        hat, ass er mich erwartet... mi Vater hat ne schint's
+                        g'frogt g'ha, eb er mich kännt züe-n-em schicke, wil
+                        ich do ne wenig z'wild g'macht ha... Sàlle Nacht noch
+                        ha-n-i miesse mi Kuffer packe un dr ander Morge frieih
+                        hat er mich selbst an d'Isebahn begleitet... er isch
+                        nitt vo mr g'wiche!... awer ich ha Dir jo ne paarmol
+                        g'schriwe üs Amerika, un Dü hasch mir nie kei Antwort
+                        gà?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(verwundert)</stage>
+          <p>Ich ha nie kei Brief biku!</p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>So hat se halt mi Oncle z'ruck b'halte.</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s isch möglig... awer sag, wie alt bisch Dü worde, mi
+                        liewer Samüel!... ich hätt Dich nimmig erkennt<stage>(fir
+                        sich)</stage> un wege so me Kopf ha-n-ich eso lang grine!... O
+                        Jugend! o Jugend!...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samuel.</speaker>
+          <p>Mi Galanterie losst mir's nitt züe, Dir 's gliche
+                        z'sage, awer Dü kasch wahl denke, ass De o nimmig hitig
+                        bisch.<stage>(fir sich)</stage> Isch die wiescht worde!... un fir eso
+                        ne Profil ha-n-ich riskiert, mir dr Hals z'breche!...<pb n="267"/>
+                        wie isch me doch so dumm, we me jung isch!...<stage>(züer
+                        Tante)</stage> awer sag jetz, Schelastika, Dü weisch doch
+                        g'wiss nitt, worum ass ich eigentlig do ane ku bi?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh, wege dem Herr Knopf, wo do sott wohne.</p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Dü bisch nitt drin!... das isch nur e-n-Üsred gsi...
+                        weisch Dü, ass ich im Alfred si Oncle bi?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(verwundert)</stage>
+          <p>Dü?</p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Ich... ich ha mr vorgnu g'ha, ku z'lüege, was eigentlig
+                        das fir e Person isch, wo-n-er eso vernarrt isch in
+                        se... à propos, wo isch se, Di Nièce, ich ha se no nitt
+                        g'sàh?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s Rosele-n-isch z'Visite bi-n-ere Frindin... oh!... 's
+                        isch e güet Kind, wo dr Herr Alfred g'wiss glicklig
+                        macht!<stage>(fir sich)</stage> ich halt ewe jetz an mim Neger!
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Ich zwifel nitt dra... un wil's jetz eso isch, so gib
+                        ich mi Iwilligung scho züem vorüs.... wenn mir nitt
+                        glicklig hàn känne si, so wà mr doch uf's wenigst unsre
+                        Kinder glicklig mache, nitt wohr, Schelastika?
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Mr wànn's hoffe... ich gunn 's Rosele im Herr Alfred, er
+                        bikunnt g'wiss e güete Fraü, awer hein, wie dà-n-eso
+                        schön schwarz isch?
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Wer?</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh, dr Herr Alfred, parbleu!</p>
+        </sp>
+        <pb n="268"/>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Dr Alfred schwarz?... ich glaüb, Dü traümsch!</p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Was traüme!... er glànzt jo ganz vor Schwärze!... De
+                        wirsch's doch ebbe nitt welle verstecke?... De weisch,
+                        's macht mr nit, im Gegetheil... ich hätt scho lang
+                        gern e Neger um mich umme g'ha!...
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Was dr Kückücks verzahlsch jetz Dü mir do vo Neger!...
+                        Ich weiss nitt...
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
           <stage>(unterbricht ne)</stage>
-          <p>Eh bien, los, Oncle, ich sag Dr d'Antwort am
-                        Nachtesse... ich bi froh, ass De ku bisch...
+          <p>Ah çà!... De wirsch doch ebbe nitt welle làigne, ass dr
+                        Herr Alfred e Neger isch!
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>Nix do... uf dr Stell müess ich's wisse... wenn Dü-n-en
-                        ung'fàhr nitt witt, so ka-n-er nitt dobliwe am Esse...
-                        er müess aügeblicklig wieder furt... mr hàn in dem
-                        Moment pressante G'schàfte z'b'sorge... nur fir sich
-                        z'verlowe wàr dr Grund wichtig g'nüe gsi, fir sich e
-                        paar Stund ufz'halte, anderscht nitt... un derno wird
-                        er wohrschinlig o gar nitt dra halte doz'bliwe wenn er
-                        weisst, ass Dü ne abg'schifelt hasch.
-                    </p>
-          <pb n="579"/>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Par exemple!</p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(fir sich)</stage>
-          <p>Isch jetz das e Fatalität!... jetz ha-n-i dr Herr Ledig
-                        lo z'ruckriefe un jetz soll dà Herr Krach wieder
-                        furt... was isch jetz z'mache?...
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s Rosele hat mr ne jo hit do ane g'schickt mit ere
+                        Tarte... wohrschinlig, ass ich ne soll lehre kenne...
+                        un, du reste, er hat mr's jo selwer gsàit in siner
+                        Negersproch...
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>Was isch... hasch Di ferig b'sunne?... Nunde...</p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Buckel noch emol!... So loss ne doch nur z'Nacht esse
-                        do... mr känne jo derno noch allewil dervo rede...
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(lacht)</stage>
+          <p>Aha, ich merk ebbes... zeig, wie hat er das Ding
+                        g'sàit?
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>'s ka nitt si... d'G'schàfte sin d'G'schàfte... mr hàn
-                        nur welle g'schwind im durereise profetiere, fir eüch
-                        z'verlowe... wenn's nitt ka si, so fahrt er gli wieder
-                        ab... 's isch wieder eso viel Zit g'wunne!... ich
-                        hingege ka noch dobliwe hit z'Owe.
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Er hat g'sàit: « Ich dà Morge Herr Alfred gsi », also,
+                        wenn er dà Morge dr Herr Alfred gsi isch, so isch er o
+                        ne jetz noch... oder isch er viellicht nur z'Mittag e
+                        Neger?
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(fir sich)</stage>
-          <p>Was mache!... was mache!... ma foi, ich sag, er soll
-                        dobliwe... das engagiert mich jo nitt gross... ich ka
-                        jo allewil wieder z'ruck...<stage>(lüt)</stage> eh bien...
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Ich sieh scho, Schelastika, Dü verstehsch d'Negersproch
+                        no nitt recht!... dà Neger, wo Dü g'sàh hasch, das isch
+                        mi Koch, wo-n-ich üs Arnerika mitbrocht ha... <pb n="269"/>er wird
+                        ha welle sage, « ich bi dà Morge bim Herr Alfred gsi »,
+                        denn er geht em als geh - helfe am e Sunntig.
                     </p>
         </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>Eh bien...</p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Eh bien... er soll dobliwe!</p>
-        </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink.</speaker>
-          <p>A la bonne heure!... ich will ne gli geh ufsüech fir's
-                        em z'sage, Nundebuckel noch emol<stage>(er geht hinte-n-üse)</stage>.
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh, 's isch jo wohr... wo ha-n-i denn mi Verstand g'ha
+                       <stage>(fir sich)</stage> in miner Freid, e Neger z'biku, ha-n-ich
+                        halt nitt witerscht denkt... un ich, wo jetz in dem
+                        Schwarze versproche ha, er derf 's Rosele hirothe!
+                       <stage>(züem Herr Samüel)</stage> De magsch recht ha, Samüel<stage>(fir
+                        sich)</stage> jetz spring ich um mi Neger... à moins, ass ich
+                        ne selbst hiroth... was soll ich ihm jetz sage?
                     </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Un jetz will ich im Alfred geh dà güete B'richt
+                        bringe... De kännsch is ilade züem Nachtesse, ass mr
+                        derno das Ding in Richtigkeit mache.
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>'s isch e Wort... ich will glich e Sach rischte... 's
+                        Rosele wird jetz glich heim ku... mr erwarte-n-eüch in
+                        ere halb Stund.
+                    </p>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(blibt an dr Thüre steh)</stage>
+          <p>Also in ere halb Stund<stage>(fir sich)</stage> ich's möglich, ass
+                        me-n-eso wiescht ka werde mit dr Zit...<stage>(lüt)</stage> au
+                        revoir, Schelastika!
+                    </p>
+        </sp>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(zerstràit)</stage>
+          <p>Au revoir, Samüel!<stage>(er geht hinte-n-üse)</stage>.</p>
         </sp>
       </div>
       <div type="scene">
         <head>VII. Uftritt.</head>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(allei)</stage>
-          <p>Wenn er nur doblibt, ass mr nitt drizehne sin am Tisch,
-                        das isch d'Haüptsach... ich will ne nochher <pb n="580"/>scho
-                        abspediere... isch das e schreckliger Mensch dà
-                        Oncle!... wenn er ebbes im Schild fiehrt, so müess es
-                        uf dr Stell dure g'fiehrt si... ich ka halt jetz dr
-                        Herr Ledig nitt als mi Züekünftiger proklamiere hit
-                        z'Owe... 's isch fir e-n-anderer Tag... doch, ich will
-                        jetz geh lüege, eb alles in Ordnung isch... 's wird bol
-                        Zit si an dr Tisch z'geh...
+        <stage type="characters">Tante, Tom.</stage>
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(fir sich)</stage>
+          <p>Sag mr jetz nur emol ei Mensch, was ich 'mit dem Neger
+                        afange soll... wenn er mir's nur nitt iwel nimmt... <pb n="270"/>so
+                        Schwarze sin als màngmol g'fàhrlig, we me se bös
+                        macht...<stage>(d'Thüre geht uf, dr Neger kunnt üso mit eme
+                        Masser in dr Hand)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(zornig)</stage>
+          <p>Ich alles g'hört!... awer ich Rosele hirothe oder
+                        Unglick astelle!...<stage>(er fechtet mit em Messer; d'Tante
+                        losst e Schrei üs un springt in's Zimmer rechts)</stage>.
                     </p>
         </sp>
       </div>
       <div type="scene">
         <head>VIII. Uftritt.</head>
-        <stage type="characters">Madame Frisch, Herr Ledig.</stage>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(kunnt hine-n-ine)</stage>
-          <p>Was soll eigentiig das bedite, Madame Frisch?... vor ere
-                        halb Stund schickt Se mich furt... derno losst Se mich
-                        wieder z'ruckriefe... un jetz, wo-n-i z'ruckkumm, so
-                        hör i dunte im duregeh, ass dr ältste vo dàne Herre,
-                        wo-n-i atroffe ha im furtgeh, züem andre sàit: « Ihre
-                        Hiroth isch so viel as arrangiert... d'Madame Frisch
-                        willigt i... Sie bliwe-n-also do züem Nachtesse »...
-                        ich kumm nimmig üs dàre G'schichte!... uf jedefall,
-                        wenn's eso isch, so gang ich furt, wenn er doblibt!...
+        <stage type="characters">Tom, Herr Gàlfink.</stage>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(kunnt hinte-n-ine)</stage>
+          <p>Ich o alles g'hört... ich o will Rosele hirothe oder
+                        Unglick astelle!
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(lipft 's Messer)</stage>
+          <p>Dü o witt!...</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(springt àngstlig uf d'Site)</stage>
+          <p>Ich nimmig welle! ich nimmig welle!<stage>(fir sich)</stage> ich
+                        bekàm's jo doch nitt, ich ha's scho g'hört... un jetz
+                        gar nimmig... ich ha nitt nur 's grosse Loos nitt
+                        g'wunne, awer mine Titres sin eso wit awe g'falle, ass
+                        se gar Nieme meh will; ich bi rüiniert!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(zornig)</stage>
+          <p>Ich nimmig so lewe... ich wieder wild werde<stage>(er zieht si
+                        Kittel üs)</stage> ich wieder Menschefleisch esse!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
           <stage>(fir sich)</stage>
-          <p>Güet... jetz will dà wieder furt... mr kämme nitt üs
-                        dàre Unglickszahl üse....<stage>(lüt)</stage> Herr Ledig, zürne Se
-                        nitt un bliwe Se do... 's isch g'wiss alles nur züe
-                        Ihrem Beste...
+          <p>Diable, diable!... wenn er nur nitt dr G'lust an mir
+                        z'erst biesse will!<stage>(züem Neger)</stage> ich o nimmig so lewe,
+                        ich o wild werde!<stage>(er zieht si Kittel o üs)</stage> das isch
+                        jetz d'vierte Fraü, wo mir eso üswitscht!... wer wott<pb n="271"/>
+                        denn nitt wild werde!... Fir was das civilisierte Lewe
+                        do, wo eim doch nit as Kummer un Sorge bringt!.. ich
+                        hass d'Menschheit un will vo Nieme nit meh wisse.. 's
+                        sin doch nur alle falsch an eim!
                     </p>
         </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(spöttisch)</stage>
-          <p>Ha ha ha... züe mim Beste!... Ich garantier awer derfir,
-                        ass er geht... ich will emol sàh, eb er nitt
-                        abmarschiert!<stage>(er geht gege dr Thüre)</stage>.
-                    </p>
-          <pb n="581"/>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Jà, jà... ganz eso!</p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(haltet en z'ruck)</stage>
-          <p>Herr Ledig thien Se nur das nitt!...<stage>(fir sich)</stage> was isch
-                        z'mache?... was soll i afange?... ich ka-n-em doch
-                        d'Ursach nitt sage... 's wàr làcherlig!...<stage>(lüt)</stage> glaüwe
-                        Se mir... 's wird sich noch alles arrangiere... dà Herr
-                        trumpiert sich, wenn er maint, ich will ne hirothe.
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(züem Tom)</stage>
+          <p>Mir alles üszieh un wieder si, wie d'Natür uns erschaffe
+                        hat... mir Nieme brüche derno... mir in d'Hardt oder in
+                        dr Nunnebrüech geh!
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Jà, jà... alles üszieh!<stage>(er zieht si Gilet üs)</stage>.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(macht si Gilet uf)</stage>
+          <p>Hat eim d'Natür uf d'Welt mache z'ku mit eme Gilet un
+                        Knapf dra? oder mit Schüeh a un Stolpernägel drin ?<stage>(er
+                        wirft si Gilet dert ane)</stage> furt mit dem Dings!... furt
+                        mit dàne Schüeh, wo-n-eim doch nur Agerste-n-Aüge mache
+                        un wo me derwege dr Sclav' vo sim Schüehmacher isch<stage>(er
+                        sitzt ane, fir d'Schüeh üsz'zieh, dr Neger imitiert ne)</stage>
+                        doch still... in dr Hardt sin als Därn am Bode... mr
+                        wànn noch warte-n-un 's Unnöthigste z'erst üszieh!...
                     </p>
           <lg>
             <head>G'sang</head>
-            <l>Ich ha ihn jo noch gar nie g'sàh,</l>
-            <l>Wie will ich ihm mi Hand denn gà,</l>
-            <l>Das ka jo ganz un gar nitt si!</l>
-            <l>Mir hàn uns jo längst Treüe g'schwore</l>
-            <l>Un hàn se g'halte bis dohi,</l>
-            <l>Ich ha ihn jo noch gar nie g'sàh,</l>
-            <l>Wie will ich ihm mi Hand denn gà,</l>
-            <l>Das ka jo ganz un gar nitt si</l>
+            <stage>(Nei, nei, das thüet dr Peter nitt)</stage>
+            <l>Mir liewer frei un wild wànn geh</l>
+            <l>Un wisse vo de Lit nit meh,</l>
+            <l>Un nit vo Kleider, Strümpf un Schüeh,</l>
+            <l>Mir scho fir 's Esse g'nüe hàn z'thüe!</l>
           </lg>
         </sp>
-        <sp who="#madame_frisch #herr_ledig">
-          <stage>Mitnander</stage>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Fork-lo-thài-drim-tuck-si-kwennt!</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Wenn ich nur die Sproch scho kännt!</p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Har-zà-wir-bem-back-kwi-kwor!</p>
+        </sp>
+        <pb n="272"/>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Jà, 's wird harze, das isch wohr!</p>
+        </sp>
+        <sp who="#herr_galfing #tom">
+          <speaker>Mitnander.</speaker>
           <lg>
-            <l>Mir hàn jo g'schwore,</l>
-            <l>Ass mir uns immer wànn versteh,</l>
-            <l>In keine G'fohre</l>
-            <l>Soll unser Schwur nie untergeh!</l>
+            <l>Mir liewer frei un wild wànn geh</l>
+            <l>Un wisse vo de Lit nit meh,</l>
+            <l>Un nit vo Kleider, Strümpf un Schüeh,</l>
+            <l>Mir scho fir 's Esse g'nüe hàn z'thüe</l>
           </lg>
         </sp>
-        <sp who="#madame_frisch">
-          <p>Allons, Herr Ledig, kàmme Se, mr wànn geh lüege, eb
-                            dr Tisch g'ristet isch<stage>(se nimmt en am Arm un fiehrt ne halwer mit
-                            G'walt züer Thüre-n-üse rechts)</stage></p>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(züem Tom)</stage>
+          <p>Allons!... noch 's Hemd un d'Hose, derno hat's es<stage>(er
+                        niesst)</stage> so, jetz ha-n-i scho dr Schnüppe, wil i do nur
+                        e wenig in de Hemdärmel gsi bi<stage>(er zieht e gross
+                        Carreaux-Nastüech üs em Sack un putzt d'Nase. 's
+                        Trombone à coulisse macht dr Blost)</stage>.
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Ich nie dr Schnüppe... Neger das nitt kenne.</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink</speaker>
+          <stage>(fir sich)</stage>
+          <p>Ich sieh scho, das Ding isch nitt so güet z'mache,
+                        wie-n-ich glaübt ha... das sin Dummheite... 's isch mr
+                        jetz scho ganz kisterig im Hals!... wenn ich erst gar
+                        nit a hätt!<stage>(züem Tom)</stage> ich mich ha-n-anderscht
+                        b'sunne... ich noch e paar Tàg warte fir wild z'si, bis
+                        mi Schnüppe-n-umme-n-isch.
+                    </p>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Nix, nix!... nitt warte... ich Hunger no
+                        Menschefleisch!
+                    </p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Bigr! bigr!... ich ha mich glaüb e wenig z'wit
+                        avanciert?... ich derf ne nitt contrariere, sunscht
+                        kunnt er am End noch hinter mich!<stage>(züem Tom)</stage> Dü mich
+                        letz verstande...<stage>(fir sich)</stage> das isch jetz alles recht,
+                        awer wie soll ich mich jetz do drüs ziege? Aha, still!
+                       <stage>(züem Tom)</stage> Dü begriffe, mir nitt känne dur d'Stadt geh,
+                        fir in d'Hardt, mit nit a as e Fingering... 's isch
+                        verbote ... mir uns erst im Wald üszieh.
+                    </p>
+          <pb n="273"/>
+        </sp>
+        <sp who="#tom">
+          <speaker>Tom.</speaker>
+          <p>Güet!... awer mir glich geh...</p>
+        </sp>
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Uf dr Stell!...<stage>(fir sich)</stage> ich schick ne vorüs, er soll
+                        derno warte!<stage>(lüt)</stage> Still, 's kunnt glaüb ebber!... mir
+                        dert ine geh uns fertig alege<stage>(er zeigt uf d'Thüre
+                        links. Se nàmme-n-ihre Kleider z'àmme-n-un
+                        springe-n-ine, dr Herr Gàlfink z'letscht)</stage>.
+                    </p>
         </sp>
       </div>
       <div type="scene">
         <head>IX. Uftritt.</head>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach</speaker>
-          <stage>(kunnt hinte-n-ine)</stage>
-          <p>Was me doch im e Hüs alles erfahre ka in ere kurze Zit,
-                        we me drin d'Chance hat wie ich, e-n-alte Liebschaft
-                        wieder az'knüpfe vo frieih're Zite!... Triff ich jetz
-                        do nitt züefàllig 's Trinele a, wo-n-ich als eso gern
-                        g'sàh ha frieiher un erfahr, ass es d'Schwester<pb n="582"/> isch vo
-                        dr Madame Frisch... 's isch noch allewil schön, 's
-                        Trinele!... un ich ha's décidément noch allewil gern,
-                        un es glaüb mich... natirlig ha-n-ich's derno glich
-                        alles üsg'frogt iwer d'Madame Frisch un do ha-n-ich
-                        sunderbare Sache-n-erfahre... Schint's hat se sich
-                        welle verlowe hit am Nachtesse mit ihrem Liebhawer, hat
-                        ne awer abdankt grad vor ebb mr aku sin, denn me hat ne
-                        g'sàh, un mir eigentlig o, zornig furtrenne... küm si
-                        mr do gsi, so hat se ne wieder lo z'ruckriefe un jetz,
-                        wo-n-er doch do isch, so thüet se mir wieder Hoffnung
-                        mache... do isch ebbes nitt recht oder das müess e
-                        capriziose Dame si... décidément ich hiroth glaüb
-                        liewer 's Trinele... 's hat mr o g'sàit, ass d'Madame
-                        Frisch famos awerglaüwisch isch... se thàt unter anderm
-                        fest behaüpte, ass ihre erste Mann g'storwe-n-isch, wil
-                        se-n-emol drizehne am Tisch g'sesse sin... halt!...
-                        e-n-Idee!... isch's ebbe jetz wieder dr Fall un macht
-                        se die Manöver, fir's z'verhiete?... Voyons, mr wànn
-                        emol zàhle, wie viel as ig'lade sin<stage>(er geht ans
-                        Fenster)</stage> dert sin se schön alle binander im Garte...
-                        zwei, viere, die drei dert uf em Bank sin siwene, dà
-                        dicke Herr dert unterm Baüm sin achte... dert e Herr un
-                        e Dame, wo spaziere gehn, sin zehne... sie un ihr
-                        Liebhawer sin zwölfe, ihre-n-Oncle un ich sin
-                        vierzehne... 's isch ganz das... also vor ebb mir aku
-                        sin, sin's zwölfe gsi... wo se g'hört hat, ass dr Oncle
-                        kunnt, denn vo mir isch kei Red gsi uf dr Postkarte, so
-                        hat se nit bessers wisse z'mache, as ihre Liebhawer e
-                        wenig z'misshandle, ass er blàit hat un nitt hat welle
-                        z'Nacht esse... ebber anders hatt se natirlig nitt
-                        känne furtschicke... derno sin's wieder zwölfe gsi...
-                        wo awer dr Oncle mich presentiert hat, so hat se dr
-                        Andre gli wieder lo hole, fir ass mr vierzehne sin un
-                        jetz hat se im Oncle wohrschinlig nur g'sàit, ich soll
-                        dobliwe, fir ass se nitt wieder drizehne sin... ich
-                        sieh scho, ich hiroth liewer 's Trinele... 's isch
-                        besser... <pb n="583"/>awer possig isch's doch, das müess me
-                        g'steh!... doch still, 's kunnt ebber... 's thàt mich
-                        Wunder nàh, wenn's nitt dr Liebhawer wàr vo dr Madame
-                        Frisch, wo mir kunnt ku Hàndel süeche!
+        <stage>Herr Samüel, Herr Alfred, Rosele, derno Tante,
+                        Herr Gàlfink un Tom.
+                    </stage>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel</speaker>
+          <stage>(kunnt z'erst ins-u-un sieht dr Herr Gàlfink noch
+                        üsespringe)
+                    </stage>
+          <p>Was dr Kückücks isch das?<stage>(züem Alfred un Rosele, wo
+                        hinte-n-an 'm ine kämme)</stage> ich glaüb, die Herre gehn geh
+                        bade?...<stage>(züer Tante, wo-n-üs em Zimmer rechts kunnt ku
+                        stürze)</stage> hasch Dü ne Badhüs, Schelastika?... doch ich
+                        vergiss... ich presentier Dr mi Neveu, dr Alfred... De
+                        siehsch, er isch kei bitzi schwarz... ich ha dàne
+                        Kinder alles verzählt uf em Weg doch, was hasch?... De
+                        bisch jo ganz verstört!
                     </p>
         </sp>
-      </div>
-      <div type="scene">
-        <head>X. Uftritt.</head>
-        <stage>Herr Krach, Herr Ledig, derno Madame Frisch.</stage>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(kunnt hinte-n-ine, fir sich)</stage>
-          <p>Aha, do isch er jo!... ich ha-n-en lang genüe
-                        g'süecht!...<stage>(lüt züem Herr Krach)</stage> Sie süeche g'wiss
-                        d'Madame Frisch?... awer Sie verliere-n-Ihre Zit...
-                        se-n-isch nitt do... un iwerhaüpt thàte Sie mr Freid
-                        mache, wenn Sie ihre nimmig wotte nogeh... un noch viel
-                        besser wàr's, wenn Sie uf dr Stell das Hüs thàte verlo!
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Eh, denke nur, dr Neger un dr Herr Gàlfink wànn in
+                        d'Hardt geh Wilde si!... si hàn sich üszoge do, ich ha
+                        mich miesse flichte... züem Glick, ass ihr ku sin...
+                        grad sin se dert ine g'sprunge, wo se-n-eüch g'hört
+                        hàn.
                     </p>
         </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Z'erst müess ich Ihne sage, ass Sie mir do keine Ordre
-                        z'gà hàn... un züedem, wenn ich jetz üs dam Hüs gieng,
-                        so miesste Sie o drüs... drum känne Sie froh si, as ich
-                        nur doblib!...
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>De brüchsch kei Angst z'ha vor em Neger, 's kunnt
+                        vielmol eso a-n-en... 's isch als glich wieder umme...<pb n="274"/>
+                        dr Herr Gàlfink, dà weiss i halt nitt, wie wild as er
+                        isch.<stage>(er holt dr Neger üse-n-am Ohr)</stage> Was ha-n-i g'hört
+                        Tom, D' seigsch wieder ab?
                     </p>
         </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(zornig)</stage>
-          <p>Wie meine Sie das?...</p>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Wà mr's druf aku lo?...<stage>(d'Madame Frisch kunnt rechts
-                        ine)</stage> Sie werde's jetz gli sàh!
+        <sp who="#rosele">
+          <speaker>Rosele</speaker>
+          <stage>(züem Herr Gàlfink, wo hinte-n-am Neger üsekunnt)
+                    </stage>
+          <p>Awer Herr Gàlfink, wie hàn Sie känne mi Tante in eso ne
+                        Schrecke versetze?
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Allons, allons, ihr Herre... me süecht Se, fir an dr
-                        Tisch z'geh!...
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>'s isch üs Verzwiflung gsi, Rosele, wil Sie will
+                        e-n-Anderer hirothe!<stage>(er sieht dr Herr Alfred)</stage> o
+                        sapristi! mi Zuckerbäck!
                     </p>
         </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Verzeiht Se, Madame Frisch... unter de jetzige Umstànde
-                        un in dàre Position, wo-n-ich bi, ka-n-ich unmöglig
-                        bliwe... ich müsss also...
+        <sp who="#herr_alfred">
+          <speaker>Herr Alfred.</speaker>
+          <p>Eh tiens, das isch jo dà Herr, wo mir dà Morge ne Tarte
+                        b'stellt hat un mir e Liewesbrief gà hat fir dri, fir
+                        d'Jumpfer Schelastika im Rosegàssle!... Dert isch die
+                        Tarte, dr Tom hat se-n-üs Irrthum do ane brocht!
                     </p>
         </sp>
-        <pb n="584"/>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Also furt wànn Se?...<stage>(fir sich)</stage> scho wieder
-                        drizehne!...<stage>(lüt züem Herr Ledig)</stage> das hàn Sie jetz
-                        ag'stiftet, Herr Ledig!... tant pis fir Sie!...<stage>(züem
-                        Herr Krach)</stage> Ich will Sie nitt länger ufhalte... wenn
-                        Sie denn furt wànn, so gehn Se... dr Herr Ledig ka Se o
-                        gli begleite, wenn er will!...<stage>(se wendet sich ab)</stage>.
+        <sp who="#tante_domino">
+          <speaker>Tante.</speaker>
+          <p>Ah so, Herr Gàlfink!... das isch e schöne G'schichte..
+                        wie viel hàn Se noch eso?... un Sie hàn welle 's Rosele
+                        hirothe?
                     </p>
         </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach</speaker>
-          <stage>(lislig züem Herr Ledig)</stage>
-          <p>Was ha-n-ich g'sàit?.</p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(mit Verzwiflung)</stage>
-          <p>Ich kumm nitt do drüs!</p>
-        </sp>
-        <stage>G'sang (Mitnander)</stage>        
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <lg>
-            <l>Sie sin mir jetz nitt verleide,</l>
-            <l>Doch gehn liewer alle beide,</l>
-            <l>Thien Sie sich nur schön begleite,</l>
-            <l>Das wird 's allerbeste si;</l>
-            <l>Wànn Sie awer sich nitt riwe</l>
-            <l>Un wànn beide bi mir bliwe,</l>
-            <l>Fir mit uns do d'Zit z'vertriwe,</l>
-            <l>Frei ich mich druf hi.</l>
-          </lg>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <lg>
-            <l>Ich bi ihre nitt verleide</l>
-            <l>Un doch schickt se alle beide,</l>
-            <l>Se sàit, ich soll ihn begleite,</l>
-            <l>Das wird 's allerbeste si;</l>
-            <l>Wànn mir awer uns nitt riwe</l>
-            <l>Un wànn beide bi ihr' bliwe,</l>
-            <l>Fir bi ihre d'lit z'vertriwe,</l>
-            <l>Freit se sich druf hi.</l>
-          </lg>
-          <pb n="585"/>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <lg>
-            <l>Er isch ihre nitt verleide</l>
-            <l>Un doch müess er geh;</l>
-            <l>Ich ka's versteh,</l>
-            <l>'s wird's beste si;</l>
-            <l>Nur wenn ich do will bliwe,</l>
-            <l>Wird's ihm o erlaübt,</l>
-            <l>Nie hätt er's glaübt</l>
-            <l>Uf mi Wort hi.</l>
-          </lg>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Sin die Zwei jetz in ere Klemme!... awer ich will
-                        Mitleid mit ene ha...<stage>(züer Madame Frisch)</stage> Sie hat mich
-                        nitt ganz güet verstande, Madame Frisch... ich ha nitt
-                        g'sàit, ass ich furt will... ich wott nur in andere
-                        Cunditione bliwe... wenn Sie mr züem Bispiel d'Hand vom
-                        Trinele, Ihre jüngere Schwester, wott verspreche,..
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Was will Se halt, Tante Domino, 's isch
+                        d'Nàchsteliewe...
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(iwerrascht)</stage>
-          <p>Uf eimol, eso grad ohne witers?...</p>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Verzeiht Se... ich ha's scho lang gern... mr hàn is
-                        frieiher scho gern g'sàh, sin awer derno vonander ku,
-                        wo-n-ich züe Ihrem Oncle gange bi, ohne Sie z'kenne un
-                        ohne-n-ass ich g'wisst ha, ass dr Herr Flink dr Oncle
-                        isch.
+        <sp who="#tom">
+          <speaker>Tom</speaker>
+          <stage>(züem Herr Gàlfink)</stage>
+          <p>Ich glaübt, Sie d'Menschheit hasse... Allons, vorwàrts
+                        in d'Hardt!
                     </p>
         </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch.</speaker>
-          <p>Aha!... das isch die Bekanntschaft, wo Sie g'sàh hàn im
-                        Garte... ich ha nit dergege, wenn 's Trinele
-                        z'friede-n-isch... das arrangiert uns jetz alle... un
-                        hoffentlig wird dr Herr Ledig o z'friede si un wird is
-                        d'Freid mache doz'bliwe?...
+        <sp who="#herr_galfing">
+          <speaker>Herr Gàlfink.</speaker>
+          <p>Kasch Dr ibilde!... wenn's do Hochzitlewe git!...
+                        merci!
                     </p>
         </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>Verzeiht Se mr, Madame Frisch... ich bi halt e
-                        Hitzkopf.... ich will gern bliwe... awer thàte Se mr
-                        nur sage...
+        <sp who="#tante_domino">
+          <speaker>Tante</speaker>
+          <stage>(hebt d'Hand gege Himmel)</stage>
+          <p>Un ich, wo jetz um mi Neger spring! un wer wird jetz mit
+                        mir als e Parthie mache?
+                    </p>
+          <pb n="275"/>
+        </sp>
+        <sp who="#herr_samuel">
+          <speaker>Herr Samüel.</speaker>
+          <p>Ich, Schelastika!... wenn die junge Lit emol g'hirothe
+                        sin, so mache mir zwei nit meh anders as Domino spiele
+                        mitnander! uf die Art gits derno noch dr Oncle züe dr
+                        Tante Domino!
                     </p>
         </sp>
-        <pb n="586"/>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(unterbricht ne)</stage>
-          <p>Also isch jetz alles wieder in Ordnung!...<stage>(fir sich)</stage>
-                        nitt ohne Mieih!...<stage>(lüt)</stage> awer jetz an dr Tisch, un
-                        flink e wenig!</p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>XI. Uftritt.</head>
-        <stage type="characters">D'Gliche, Herr Flink.</stage>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink</speaker>
-          <stage>(kunnt hinte-n-ine, ganz bleich.</stage>
-          <p>O mine liewe Kinder, wie isch's mir uf eimol eso
-                        schlecht... Nundebuckel noch emol!... ich weiss gar
-                        nitt was afange!... 's isch grad ku wie a mi blose!...
-                        ihr werde halt miesse-n-ohne mich an dr Tisch sitze.</p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(fir sich)</stage>
-          <p>Was fir e Fatalität!... scho wieder drizehne!...</p>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach</speaker>
-          <stage>(züem Herr Flink)</stage>
-          <p>Wo hàn Se-n-eigentlig weh?... was isch denn
-                        g'schàh?...
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>G'schwind... mr wànn en ufs Kanepee fiehre, er ka sich
-                        jo nimmig ufrecht halte<stage>(dr Herr Ledig un dr Herr Krach
-                        fiehre ne furt rechts)</stage>.
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(allei)</stage>
-          <p>Isch jetz das nitt züem narràchtig werde mit
-                        dàre-n-Unglickszahl!... was soll ich jetz wieder
-                        afange... ich ka doch dr Herr Ledig nitt noch emol
-                        furtschicke... un doch will ich durchüs nitt
-                        drizehne-n-am Tisch ha.
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(kunnt ine rechts)</stage>
-          <p>Madame Frisch, me wartet jetz nur noch uf Sie, fir an dr
-                        Tisch z'geh... dr Oncle isch jetz dowe... er ligt uf em
-                        Kanepee!..
-                    </p>
-          <pb n="587"/>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(fir sich)</stage>
-          <p>Was mache!... was afange<stage>(se laüft in dr Stuwe-n-umme,
-                        me hört uf dr Gasse schreie: Hàn 'r alti Lump!
-                        Kinkelepelz!)</stage> Ah! dà Lumpemann!<stage>(se rieft züem Fenster
-                        üse)</stage> He, Lumpemann:... wànn Sie viellicht ku mit is
-                        z'Nacht esse?... was, er will nitt emol!... er meint
-                        alleweg, 's isch G'schpass... aha... dert kunnt e
-                        Kàmifeger, viellicht ka-n-ich dà engàgiere... He...
-                        Kàmifeger!... kämme-n-emol do...<stage>(se winkt em)</stage>.
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(fir sich)</stage>
-          <p>Décidément, d'Madame Frisch müess g'schittelt si... ich
-                        will mich glaüb üs em Staüb mache...
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(kehrt si um)</stage>
-          <p>Er hat nitt dr Zit, sàit er!....<stage>(züem Herr Ledig)</stage> was
-                        lüege Se mich eso verstört a, Herr Ledig... dà
-                        Kàmifeger hätt känne-n-in eim vo-n-uns 's Lewe rette un
-                        viellicht grad Ihne!
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>'s isch möglig... awer einstwilewill ich mich süeche
-                        selwer z'rette!
-                    </p>
-        </sp>
-      </div>
-      <div type="scene">
-        <head>XII. Uftritt.</head>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach</speaker>
-          <stage>(kunnt ine rechts)</stage>
-          <p>Madame Frisch, dr Oncle isch jetz wieder besser un wott
-                        jetz z'Nacht esse... me wartet nur noch uf Sie un dr
-                        Herr Ledig.
-                    </p>
-        </sp>
-        <sp who="#madame_frisch">
-          <speaker>Madame Frisch</speaker>
-          <stage>(freidig)</stage>
-          <p>Oh!... mr sin g'rettet!... desto besser... das isch mr
-                        noch liewer as dr Kàmifeger... kämme Se jetz, Herr
-                        Ledig...<stage>(se nimmt en am Arm)</stage> ich glaüb, ass mr dasmol
-                        unser Nachtesse verdient hàn.
-                    </p>
-        </sp>
-        <pb n="588"/>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>Ich verstand allewil weniger...</p>
-        </sp>
-        <sp who="#herr_flink">
-          <speaker>Herr Flink</speaker>
-          <stage>(kunnt ine rechts)</stage>
-          <p>Nundebuckel noch emol... ha-n-ich e-n-Angst g'ha!... 's
-                        isch mr ganz schwindlig gsi, awer jetz geht's wieder
-                        besser...<stage>(züer Madame Frisch)</stage> à propos, De hasch e
-                        g'scheidte Nase g'ha, ass De dr Herr Krach dert nitt
-                        hasch lo furtgeh, denn grad ha-n-i g'achtet am Tisch,
-                        mr wàre sunscht drizehne gsi!
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig.</speaker>
-          <p>Ah!... jetz geht mr e Liecht uf!... jetz, jetz verstand
-                        i's!...
-                    </p>
-        </sp>
-        <sp who="#herr_krach">
-          <speaker>Herr Krach.</speaker>
-          <p>Sie hàn Zit brücht derzüe, güeter Frind... was doch dr
-                        Awerglaüwe nitt mache ka!... also, merke-n-eüch das,
-                        die wo wànn glicklig verlobt si, die solle vor allem
-                        trachte, ass se nitt drizehne sin am Tisch, sunscht...
-                    </p>
-        </sp>
-        <sp who="#herr_ledig">
-          <speaker>Herr Ledig</speaker>
-          <stage>(schelmisch züer Madame Frisch)</stage>
-          <p>Sunscht hat me z'riskiere, ass e Kàmifeger kunnt ku
-                        nàwe-n-eim sitze!...
-                    </p>
-        </sp>
-        <sp who="#herr_ledig #herr_flink #herr_krach #madame_frisch">
+        <sp who="#herr_galfing #herr_samuel #tante_domino #rosele">
           <lg>
             <head>G'sang</head>
-            <stage>(Mitnander)</stage>
-            <l>Wenn ihr wànn Gäst ilade,</l>
-            <l>So gàn schön acht,</l>
-            <l>Drizehne bringe Schade,</l>
-            <l>'s isch längst üsg'macht!</l>
-            <l>Wenn dr Vierzehnt fehle thüet,</l>
-            <l>Isch e Lumpemann o güet</l>
-            <l>Od'r e Kàmifeger</l>
-            <l>Im hoche Hüet!</l>
+            <stage>(Mitander)</stage>
+            <l>Vor ebb mir dr Vorhang ziege,</l>
+            <l>Hà mir immer viel Vergniege,</l>
+            <l>Wenn ihr alle, Klei un Gross,</l>
+            <l>Uns nit thien vom Lohn abziege,</l>
+            <l>Wenn's scho g'si isch nitt famos,</l>
+            <l>Drum nur applaüdiert druf los.</l>
           </lg>
         </sp>
+        <pb n="276"/>
       </div>
     </body>
   </text>
